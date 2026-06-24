@@ -299,21 +299,27 @@
 {% elif "/authors/" in pageUrl %}
   <meta property="dc:type" content="text" />
   <meta property="dc:creator" content="{{ pageTitle }}" />
-{% elif isTheoryArticlePage %}
+{% elif isBlogPost %}
+  {% set blogPublicationName = '<span class="nocase">JCRT</span> Religious Theory Blog' if isTheoryArticlePage else '<span class="nocase">JCRT</span> News' %}
+  <meta property="zotero:itemType" content="blogPost" />
   <meta property="dc:type" content="article" />
+  <meta property="dc:title" content="{{ pageTitle }}" />
   <meta property="dc:date" content="{{ citationPublicationDate or publishedDate }}" />
+  <meta property="dc:language" content="{{ metadata.language }}" />
   <meta property="dc:identifier" content="{{ canonicalUrl }}" />
-  <meta property="dc:source" content="Religious Theory – JCRT" />
+  <meta property="dc:source" content="{{ blogPublicationName }}" />
   {% if pageDesc %}<meta property="dc:description" content="{{ pageDesc }}" />{% endif %}
   {% for aName in schemaAuthors %}
   <meta property="dc:creator" content="{{ aName }}" />
   <meta name="citation_author" content="{{ aName }}" />
   {% endfor %}
-  <meta name="citation_title" content="{{ pageTitle }}" />
-  <meta name="citation_journal_title" content="Journal for Cultural and Religious Theory – Religious Theory" />
   <meta name="citation_publication_date" content="{{ citationPublicationDate or publishedDate }}" />
-  <meta name="citation_fulltext_html_url" content="{{ canonicalUrl }}" />
-  {% if pdfUrl %}<meta name="citation_pdf_url" content="{{ pdfUrl }}" />{% endif %}
+  <meta name="citation_public_url" content="{{ canonicalUrl }}" />
+  <meta name="citation_language" content="{{ metadata.language }}" />
+  {% if doi %}<meta name="citation_doi" content="{{ doi }}" />{% endif %}
+  <meta name="prism.genre" content="blogentry" />
+  <meta name="prism.publicationName" content='{{ blogPublicationName }}' />
+  {% if citationPublicationDate or publishedDate %}<meta name="prism.publicationDate" content="{{ citationPublicationDate or publishedDate }}" />{% endif %}
   {% for cat in (categories or []) %}
   <meta property="dc:subject" content="{{ cat }}" />
   {% endfor %}
