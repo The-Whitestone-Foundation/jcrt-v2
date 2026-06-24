@@ -16,7 +16,7 @@
     {% set pagefindWeight = "0.2" %}
   {% endif %}
 {% endif %}
-<main class="h-entry"{% if searchIndex == false %} data-pagefind-ignore{% else %} data-pagefind-body{% if pagefindWeight %} data-pagefind-weight="{{ pagefindWeight }}"{% endif %}{% endif %}>
+<main class="h-entry site-container"{% if searchIndex == false %} data-pagefind-ignore{% else %} data-pagefind-body{% if pagefindWeight %} data-pagefind-weight="{{ pagefindWeight }}"{% endif %}{% endif %}>
 {{ content | safe }}
 </main>
 <footer class="site-footer mt-5 pt-3" data-pagefind-ignore>
