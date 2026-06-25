@@ -152,100 +152,6 @@
 </noscript>
 <style>{% getBundle "css" %}</style>
 
-<script type="application/ld+json">
-[
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationalOrganization",
-    "@id": "https://thewhitestonefoundation.org/#organization",
-    "name": "The Whitestone Foundation",
-    "url": "https://thewhitestonefoundation.org/",
-    "sameAs": [
-      "https://jcrt.org/",
-      "https://www.facebook.com/religioustheory",
-      "https://x.com/jourculreltheor",
-      "https://mastodon.social/@jcrt",
-      "https://bsky.app/profile/jcrt.org",
-      "https://www.instagram.com/JCRT_DU1",
-      "https://journal.thenewpolis.com/",
-      "https://thenewpolis.com/",
-      "https://esthesis.org/",
-      "https://www.youtube.com/@whitestonepublications6661"
-    ],
-    "logo": "/images/external/thewhitestonefoundation-org-whitestone-logo-55bdba91c4.webp",
-    "image": "/images/external/thewhitestonefoundation-org-whitestone-logo-55bdba91c4.webp",
-    "description": "The Whitestone Foundation and its publications advance public-interest scholarship through open-access journals, webinars, and global academic collaboration in culture and religion.",
-    "address": {
-      "@type": "PostalAddress",
-      "postOfficeBoxNumber": "PO Box 396",
-      "addressLocality": "Colbert",
-      "addressRegion": "OK",
-      "postalCode": "74733",
-      "addressCountry": "United States"
-    },
-    "publishes": [
-      {
-        "@type": "CreativeWork",
-        "name": "The Journal of Cultural and Religious Theory",
-        "url": "https://www.jcrt.org/archives/"
-      },
-      {
-        "@type": "CreativeWork",
-        "name": "JCRT Religious Theory Blog",
-        "url": "https://jcrt.org/religioustheory/"
-      },
-      {
-        "@type": "CreativeWork",
-        "name": "The New Polis",
-        "url": "https://thenewpolis.com/"
-      },
-      {
-        "@type": "CreativeWork",
-        "name": "The New Polis Journal",
-        "url": "https://journal.thenewpolis.com/"
-      },
-      {
-        "@type": "CreativeWork",
-        "name": "Esthesis",
-        "url": "https://esthesis.org/"
-      }
-    ],
-    "member": [
-      {
-        "@type": "Person",
-        "name": "Carl Raschke",
-        "url": "https://carlraschke.com/"
-      },
-      {
-        "@type": "Person",
-        "name": "Victor Taylor",
-        "url": "https://www.linkedin.com/in/victor-e-taylor-4911342b/"
-      },
-      {
-        "@type": "Person",
-        "name": "Adam DJ Brett",
-        "url": "https://adamdjbrett.com"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@id": "https://jcrt.org/#website",
-    "@type": "WebSite",
-    "url": "https://jcrt.org/",
-    "name": "The Journal for Cultural and Religious Theory",
-    "publisher": {
-      "@id": "https://thewhitestonefoundation.org/#organization"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://jcrt.org/search/?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
-  }
-]
-</script>
-
 {% set pageParts = pageUrl.split("/") %}
 {% set isArchivesArticlePage = (pageParts | length) == 5 and pageParts[1] == "archives" and pageParts[2] and pageParts[3] and pageParts[2] != "keywords" and pageParts[2] != "page" %}
 {% set isTheoryArticlePage = (pageParts | length) == 5 and pageParts[1] == "religioustheory" and pageParts[2] == "posts" and pageParts[3] and pageParts[3] != "page" %}
@@ -330,81 +236,119 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{ pageSchemaType }}",
-  "headline": "{{ pageTitle }}",
-  "description": "{{ pageDesc | truncate(160) }}",
-  "image": "{{ pageImage }}",
-  "datePublished": "{{ publishedDate }}",
-  "dateModified": "{{ modifiedDate }}",
-  "author":
-  {% if isAcademic %}
-    {% if schemaAuthors and (schemaAuthors | length > 1) %}
-    [
-      {%- for aName in schemaAuthors %}
-      {% set authorObj = collections.authors | getAuthorObj(aName) %}
-      {% set authorPath = authorObj.url if authorObj and authorObj.url else ("/authors/" ~ (aName | authorSlug) ~ "/") %}
-      {
-        "@type": "Person",
-        "name": {{ (aName | trim) | dump | safe }},
-        "url": "{{ metadata.url }}{{ authorPath }}"
-      }{% if not loop.last %},{% endif %}
-      {%- endfor %}
-    ]
-    {% else %}
-    {% set singleName = (schemaAuthors[0] | trim) if (schemaAuthors and (schemaAuthors | length > 0)) else authorName %}
-    {% set singleAuthorObj = collections.authors | getAuthorObj(singleName) %}
-    {% set singleAuthorPath = singleAuthorObj.url if singleAuthorObj and singleAuthorObj.url else ("/authors/" ~ (singleName | authorSlug) ~ "/") %}
+  "@graph": [
     {
-      "@type": "Person",
-      "name": {{ singleName | dump | safe }},
-      "url": "{{ metadata.url }}{{ singleAuthorPath }}"
-    }
-    {% endif %}
-  {% else %}
-    {
-      "@type": "Person",
-      "name": {{ authorName | dump | safe }}
-    }
-  {% endif %},
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Whitestone Foundation",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ metadata.url }}{{ metadata.favicon }}"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ canonicalUrl }}"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "{{ metadata.url }}"
+      "@type": ["EducationalOrganization", "Organization"],
+      "@id": "https://thewhitestonefoundation.org/#organization",
+      "name": "The Whitestone Foundation",
+      "alternateName": "Whitestone Publications",
+      "legalName": "The Whitestone Foundation",
+      "url": "https://thewhitestonefoundation.org/",
+      "logo": "https://thewhitestonefoundation.org/images/whitestone-logo.png",
+      "image": "https://thewhitestonefoundation.org/images/whitestone-logo.png",
+      "description": "The Whitestone Foundation dba Whitestone Publications advances public-interest scholarship through open-access publications, programs, and global academic collaboration.",
+      "sameAs": [
+        "https://jcrt.org/",
+        "https://www.facebook.com/religioustheory",
+        "https://x.com/jourculreltheor",
+        "https://mastodon.social/@jcrt",
+        "https://bsky.app/profile/jcrt.org",
+        "https://www.instagram.com/JCRT_DU1",
+        "https://journal.thenewpolis.com/",
+        "https://thenewpolis.com/",
+        "https://esthesis.org/",
+        "https://www.youtube.com/@whitestonepublications6661"
+      ]
     },
-    {% if pg or post %}
     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Religious Theory",
-      "item": "{{ metadata.url }}/religioustheory/"
+      "@type": ["Periodical", "Organization"],
+      "@id": {{ metadata.knowledge_graph.organization_id | dump | safe }},
+      "name": "The Journal for Cultural and Religious Theory",
+      "alternateName": "JCRT",
+      "url": "https://jcrt.org/",
+      "issn": "1530-5228",
+      "description": {{ metadata.description | dump | safe }},
+      "logo": {{ (metadata.url ~ metadata.favicon) | dump | safe }},
+      "image": {{ pageImage | dump | safe }},
+      "sameAs": {{ metadata.knowledge_graph.same_as | dump | safe }},
+      "publisher": { "@id": {{ metadata.knowledge_graph.publisher_id | dump | safe }} },
+      "parentOrganization": { "@id": {{ metadata.knowledge_graph.publisher_id | dump | safe }} }
     },
-    {% endif %}
     {
-      "@type": "ListItem",
-      "position": {{ 3 if (pg or post) else 2 }},
-      "name": "{{ pageTitle }}",
-      "item": "{{ canonicalUrl }}"
+      "@type": "WebSite",
+      "@id": {{ metadata.knowledge_graph.website_id | dump | safe }},
+      "name": "The Journal for Cultural and Religious Theory",
+      "url": "https://jcrt.org/",
+      "publisher": { "@id": {{ metadata.knowledge_graph.organization_id | dump | safe }} },
+      "inLanguage": {{ metadata.language | dump | safe }},
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://jcrt.org/search/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": {{ pageSchemaType | dump | safe }},
+      "@id": {{ (canonicalUrl ~ "#webpage") | dump | safe }},
+      "url": {{ canonicalUrl | dump | safe }},
+      "name": {{ pageTitle | dump | safe }},
+      "headline": {{ pageTitle | dump | safe }},
+      "description": {{ (pageDesc | truncate(160)) | dump | safe }},
+      "image": {{ pageImage | dump | safe }},
+      "datePublished": {{ publishedDate | dump | safe }},
+      "dateModified": {{ modifiedDate | dump | safe }},
+      "inLanguage": {{ metadata.language | dump | safe }},
+      "isPartOf": { "@id": {{ metadata.knowledge_graph.website_id | dump | safe }} },
+      "publisher": { "@id": {{ metadata.knowledge_graph.organization_id | dump | safe }} },
+      "author": [
+        {% if schemaAuthors and (schemaAuthors | length > 0) %}
+        {%- for aName in schemaAuthors %}
+        {% set authorObj = collections.authors | getAuthorObj(aName) %}
+        {% set authorPath = authorObj.url if authorObj and authorObj.url else ("/authors/" ~ (aName | authorSlug) ~ "/") %}
+        {
+          "@type": "Person",
+          "name": {{ (aName | trim) | dump | safe }},
+          "@id": {{ (metadata.url ~ authorPath ~ "#person") | dump | safe }},
+          "url": {{ (metadata.url ~ authorPath) | dump | safe }}
+        }{% if not loop.last %},{% endif %}
+        {%- endfor %}
+        {% else %}
+        { "@type": "Organization", "name": "JCRT", "@id": {{ metadata.knowledge_graph.organization_id | dump | safe }} }
+        {% endif %}
+      ],
+      "mainEntityOfPage": { "@id": {{ canonicalUrl | dump | safe }} }{% if volume %},
+      "volumeNumber": {{ volume | dump | safe }}{% endif %}{% if issue %},
+      "issueNumber": {{ issue | dump | safe }}{% endif %}{% if doi %},
+      "identifier": {{ doi | dump | safe }}{% endif %}{% if pdfUrl %},
+      "encoding": {
+        "@type": "MediaObject",
+        "encodingFormat": "application/pdf",
+        "contentUrl": {{ pdfUrl | dump | safe }}
+      }{% endif %}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ (canonicalUrl ~ "#breadcrumb") | dump | safe }},
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": {{ metadata.url | dump | safe }}
+        }{% if pg or post %},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Religious Theory",
+          "item": {{ (metadata.url ~ "/religioustheory/") | dump | safe }}
+        }{% endif %},
+        {
+          "@type": "ListItem",
+          "position": {{ 3 if (pg or post) else 2 }},
+          "name": {{ pageTitle | dump | safe }},
+          "item": {{ canonicalUrl | dump | safe }}
+        }
+      ]
     }
   ]
 }

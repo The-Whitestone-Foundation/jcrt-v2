@@ -11,11 +11,26 @@ url: https://jcrt.org #live
 files_url: https://files.jcrt.org
 standard_site:
   enabled: true
-  did: ""
-  publication_at_uri: ""
+  did: "did:plc:e24okfpxr7ctcbmruijop5gp"
+  publication_at_uri: "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.publication/REPLACE_WITH_JCRT_PUBLICATION_RKEY"
   name: "The Journal for Cultural and Religious Theory"
   url: "https://jcrt.org"
   description: "Journal for Cultural and Religious Theory (JCRT), a Whitestone Foundation publication"
+publisher: "Whitestone Publications"
+knowledge_graph:
+  organization_id: "https://jcrt.org/#organization"
+  website_id: "https://jcrt.org/#website"
+  primary_type: "Periodical"
+  publisher_id: "https://thewhitestonefoundation.org/#organization"
+  same_as:
+    - "https://www.facebook.com/religioustheory"
+    - "https://x.com/jourculreltheor"
+    - "https://mastodon.social/@jcrt"
+    - "https://bsky.app/profile/jcrt.org"
+    - "https://www.instagram.com/JCRT_DU1"
+    - "https://journal.thenewpolis.com/"
+    - "https://thenewpolis.com/"
+    - "https://esthesis.org/"
 homepage_archive: 
   active_tag: 24.1
   section_title: From the Archive

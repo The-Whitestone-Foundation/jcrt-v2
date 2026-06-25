@@ -3,10 +3,13 @@
 .env
 .vscode/
 _site/
+favicon.ico
+jcrt-32x32.ico
 node_modules/
 RAW/
 _logs/
 public/citations/
+.sequoia/content/
 
 # Binary assets now served from files.jcrt.org
 public/images/**/*.webp
