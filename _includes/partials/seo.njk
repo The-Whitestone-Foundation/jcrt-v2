@@ -59,7 +59,7 @@
   />
 <link rel="icon" type="image/png" href="{{ metadata.files_url }}/images/logos/favicon-96x96.webp" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="{{ metadata.files_url }}/images/logos/favicon.svg" />
-<link rel="shortcut icon" href="{{ metadata.files_url }}/images/logos/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" sizes="180x180" href="{{ metadata.files_url }}/images/logos/apple-touch-icon.webp" />
 <meta name="apple-mobile-web-app-title" content="{{ metadata.title }}" />
 <script>
@@ -98,6 +98,7 @@
 <link rel="site.standard.document" href="{{ standardSiteDocumentAtUri }}" />
 {% endif %}
 {% if standardSiteEnabled %}
+<link rel="site.standard.publication" href="{{ metadata.standard_site.publication_at_uri }}" />
 <link rel="alternate" type="application/json" title="JCRT Standard.site Publication" href="{{ metadata.url }}/standard.site/publication.json" />
 <link rel="alternate" type="application/json" title="JCRT Standard.site Documents" href="{{ metadata.url }}/standard.site/documents.json" />
 <link rel="alternate" type="application/json" title="JCRT Standard.site Manifest" href="{{ metadata.url }}/standard.site/manifest.json" />
