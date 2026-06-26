@@ -41,6 +41,10 @@
 /archives/06.3/blanton.pdf /archives/06.1/blanton.pdf 301
 /archives/09.1/Malabou.pdf. /archives/09.1/Malabou.pdf 301
 /archives/18.3/Ruetenik.pdf%C2%A0%C2%B7%20PDF%20file /archives/18.3/Ruetenik.pdf 301
+
+# Archive PDFs live on files.jcrt.org; proxy them so /archives/*.pdf returns the file
+/archives/:issue/:file.pdf https://files.jcrt.org/archives/:issue/:file.pdf 301
+
 /authors/carl-raschke%20copy/ /authors/carl-raschke/ 301
 
 # Specific legacy religioustheory typo-slug redirects
@@ -217,10 +221,12 @@
 /weblog / 410
 /weblog/ / 410
 /weblog/* / 410
+/cgi-bin/* 410
+/blog/demo /blog/ 301
+/blog/demo/ /blog/ 301
 /religioustheory/submissions-2/ https://www.jcrt.org/submissions/ 301
 /religioustheory/submissions https://www.jcrt.org/submissions/ 301
 /religioustheory/submissions/ https://www.jcrt.org/submissions/ 301
-/religioustheory/abstracts/:file https://files.jcrt.org/docs/:file 301
 /religioustheory/feed /feed/religioustheory/feed.xml 301
 /religioustheory/feed/ /feed/religioustheory/feed.xml 301
 /religioustheory/posts/feed /feed/religioustheory/feed.xml 301
@@ -292,10 +298,6 @@
 /religioustheory/tags/simone%20weil/ /religioustheory/tags/ 301
 /religioustheory/tags/whitestone-foundation /tags/ 301
 /religioustheory/tags/whitestone-foundation/ /tags/ 301
-/religioustheory/tag/:tag /religioustheory/tags/:tag/ 301
-/religioustheory/tag/:tag/ /religioustheory/tags/:tag/ 301
-/religioustheory/tag/:tag/feed /religioustheory/tags/:tag/ 301
-/religioustheory/tag/:tag/feed/ /religioustheory/tags/:tag/ 301
 /religioustheory/conferences-and-call-for-papers /religioustheory/posts/ 301
 /religioustheory/conferences-and-call-for-papers/ /religioustheory/posts/ 301
 /religioustheory/conferences-and- /religioustheory/posts/ 301
