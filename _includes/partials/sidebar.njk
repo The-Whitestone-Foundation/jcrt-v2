@@ -93,15 +93,14 @@
 <a href="https://duotrope.com/magazine/journal-cultural-religious-theory-20464?ref=lst-7vbKB-7r3u0g8&pc=L-7VBKB" target="_top" title="Listed at Duotrope" rel="external noopener">
   <img
     src="https://cdn.duotrope.com/linkto/listedat-magic-black-480-240.png"
-    data-fallback-black="/badges/duotrope-black.png"
-    data-fallback-white="/badges/duotrope-white.png"
+    data-stage="cdn"
     width="120" height="60"
     loading="lazy" decoding="async"
     alt="Listed at Duotrope"
     style="border: 1px solid gray; border-radius: 6px;"
-    onerror="this.onerror=null; this.dataset.cdnDown='1'; this.src=this.dataset.fallbackBlack;"
-    onmouseover="this.src = this.dataset.cdnDown ? this.dataset.fallbackWhite : 'https://cdn.duotrope.com/linkto/listedat-magic-white-480-240.png';"
-    onmouseout="this.src = this.dataset.cdnDown ? this.dataset.fallbackBlack : 'https://cdn.duotrope.com/linkto/listedat-magic-black-480-240.png';"
+    onerror="var d=this.dataset,w=d.color==='white';if(d.stage==='cdn'){d.stage='webp';this.src=w?'/badges/duotrope-white.webp':'/badges/duotrope-black.webp';}else if(d.stage==='webp'){d.stage='png';this.src=w?'/badges/duotrope-white.png':'/badges/duotrope-black.png';}else{this.onerror=null;}"
+    onmouseover="var d=this.dataset;d.color='white';this.src=d.stage==='cdn'?'https://cdn.duotrope.com/linkto/listedat-magic-white-480-240.png':d.stage==='webp'?'/badges/duotrope-white.webp':'/badges/duotrope-white.png';"
+    onmouseout="var d=this.dataset;d.color='black';this.src=d.stage==='cdn'?'https://cdn.duotrope.com/linkto/listedat-magic-black-480-240.png':d.stage==='webp'?'/badges/duotrope-black.webp':'/badges/duotrope-black.png';"
   />
 </a>
 </p>
