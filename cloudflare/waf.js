@@ -15,7 +15,7 @@
 // ─── Trusted domain family ────────────────────────────────────────────────────
 
 export const TRUSTED_ORIGIN_RE =
-  /^https?:\/\/(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)?(?:jcrt\.org|thenewpolis\.com|thewhitestonefoundation\.org|esthesis\.org)(?::\d{1,5})?$/i;
+  /^https?:\/\/(?:(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)?(?:jcrt\.org|thenewpolis\.com|thewhitestonefoundation\.org|esthesis\.org)|(?:[a-z0-9-]+--)?jcrt\.netlify\.app)(?::\d{1,5})?$/i;
 
 export function isTrustedOrigin(origin) {
   return !!origin && TRUSTED_ORIGIN_RE.test(origin);
