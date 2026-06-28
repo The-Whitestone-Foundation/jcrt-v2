@@ -47,6 +47,10 @@
     paths = [".cache"]
 
 [[edge_functions]]
+  function = "allow-indexing-bots"
+  path = "/*"
+
+[[edge_functions]]
   function = "oai-pmh"
   path = "/sitemaps/oai_dc.xml"
 

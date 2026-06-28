@@ -1,0 +1,26 @@
+name               = "jcrt-waf"
+main               = "cloudflare/worker.js"
+compatibility_date = "2026-03-14"
+
+# Run on all jcrt.org traffic EXCEPT files.jcrt.org,
+# which has its own Worker deployed from jcrt-files.
+[[routes]]
+pattern   = "jcrt.org/*"
+zone_name = "jcrt.org"
+
+[[routes]]
+pattern   = "www.jcrt.org/*"
+zone_name = "jcrt.org"
+
+# ─── Recommended Cloudflare Dashboard rules ───────────────────────────────────
+# Add these in Dashboard → Security → WAF to complement this Worker:
+#
+# 1. WAF Custom Rule — network / reputation layer:
+#    Expression:
+#      (cf.threat_score gt 30) or
+#      (cf.bot_management.score lt 10 and not cf.bot_management.verified_bot)
+#    Action: Block
+#
+# 2. Rate Limiting Rule — per-IP flood protection:
+#    Incoming requests > 100 / minute from same IP → Managed Challenge
+#    Path: /*
