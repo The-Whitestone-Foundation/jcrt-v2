@@ -86,6 +86,10 @@
   function = "asset-canonical-redirects"
   path = "/docs/*"
 
+[[edge_functions]]
+function = "markdown-for-agents"
+path = "/*"
+
 # Cache headers for static assets
 [[headers]]
   for = "/css/*"

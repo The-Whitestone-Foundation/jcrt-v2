@@ -1,3 +1,8 @@
+/
+  Link: </standard.site/manifest.json>; rel="api-catalog"
+  Link: </standard.site/documents.json>; rel="describedby"
+  Link: </submissions/>; rel="service-doc"
+
 /.well-known/traffic-advice
   Content-Type: application/trafficadvice+json
 
