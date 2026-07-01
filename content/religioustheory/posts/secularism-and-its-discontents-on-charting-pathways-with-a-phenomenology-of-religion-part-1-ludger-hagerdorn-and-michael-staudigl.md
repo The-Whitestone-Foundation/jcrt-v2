@@ -1,6 +1,7 @@
 ---
 nanoid: "U0IzkM"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6gh4x2k'
 title: >-
   Secularism And Its Discontents – On Charting Pathways With A Phenomenology Of
   Religion, Part 1 (Ludger Hagerdorn and Michael Staudigl)
@@ -22,7 +23,6 @@ tags:
   - globalization
   - phenomenology
 ---
-
 **The following is the introductory article for the [Spring 2018 issue (Vol. 17, No. 2)](https://jcrt.org/archives/17.2/) of the *[Journal for Cultural and Religious Theory](https://jcrt.org).*  It is published in two installments.  The whole .pdf version can be found [here](https://jcrt.org/archives/17.2/Hagedorn%20and%20Staudigl.pdf).  The article was conceived and written with the generous support of two research grants from the [Austrian Science Fund (FWF)](https://www.fwf.ac.at/en/). It was conceived in framework of the project ‘Religion beyond Myth and Enlightenment’ \[grant number P 23255\], and concluded in the project ‘The Return of Religion as a Challenge for Thinking’ \[grant number I 2785\].**
 
 It was in Vienna where, nearly 90 years ago, Sigmund Freud’s groundbreaking critique of modern civilization appeared.  Civilization and Its Discontents, as it was entitled in the English translation, became one of the 20th century’s seminal books and indeed has significantly shaped the modern worldview and self-understanding.  The discontents—in plural form—about which it speaks can easily be reduced to one single finding: modern man is unhappy.

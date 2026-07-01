@@ -1,6 +1,7 @@
 ---
 nanoid: "h9I36R"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvgbha25'
 title: >-
   Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Part 2
   (Florian Klug)
@@ -22,7 +23,6 @@ tags:
   - existential
   - theological
 ---
-
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-1-florian-klug/). It will appear as a full article in the Fall 2021 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org).
 
 This attitude of living redeemed cannot be reduced to an inward or outward existence but rather occupies the space in between and is bound with the commitment to a cursed person. We can describe this stance of living as *Christian Irony*. This Christian irony, therefore, neither gets lost in seriouslessness nor fundamentalisms. It presents itself as a gesture of avoiding violence but does not hide away from the world’s violence.[^1]

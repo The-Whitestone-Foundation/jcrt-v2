@@ -1,5 +1,6 @@
 ---
 nanoid: "sy9kUo"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuuedbya23'
 name: Gregory Flaxman
 affiliation: "University of North Carolina, Chapel Hill."
 bio:

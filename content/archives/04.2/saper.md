@@ -1,6 +1,7 @@
 ---
 nanoid: "h7lrvN"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut74xsw2a'
 title: "Of Spectacularization: Writing New Media Theory"
 article_number:
 author: "Craig J Saper"

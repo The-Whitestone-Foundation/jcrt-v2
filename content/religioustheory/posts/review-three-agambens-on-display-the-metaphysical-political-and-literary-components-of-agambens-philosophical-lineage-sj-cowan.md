@@ -1,6 +1,7 @@
 ---
 nanoid: "a9ULhI"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7fp572p'
 title: Review – Three Agambens on Display (S.J. Cowan)
 description: "Agamben’s Philosophical Lineage. Edited by Adam Kotsko and Carlo Salzani. Edinburgh: Edinburgh University Press, 2017. ISBN-10: 1474423647 ISBN-10: 1474423647."
 date: '2018-02-06T16:13:34.000Z'
@@ -19,7 +20,6 @@ tags:
   - political
   - sovereignty
 ---
-
 ***Agamben’s Philosophical Lineage***. Edited by Adam Kotsko and Carlo Salzani. Edinburgh: Edinburgh University Press, 2017. ISBN-10: 1474423647. Hardcover, Paperback. 352 pages.**
 
 If for nothing else, 2017 was a good year (at least for the English-speaking world) because we have received a variety of new works of philosophy from Giorgio Agamben. During the last year we have been given, for the first time, translations of his *The Fire and the Tale*, *The Mystery of Evil*, *What is Philosophy?*, and *Taste;* and, the nine volumes of the now-complete *Homo Sacer* project were published together as *The Omnibus Homo Sacer*, making the series more readily available than before. Moreover, we also received what is perhaps the most significant contribution to the literature surrounding Agamben’s work in recent years: *Agamben’s Philosophical Lineage*, edited by Adam Kotsko and Carlo Salzani.

@@ -1,6 +1,7 @@
 ---
 nanoid: "jAxVxC"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqbnpw2a'
 title: >-
   The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic
   Healings, Part 1 (Anna Magnasco)
@@ -22,7 +23,6 @@ tags:
   - anthropology
   - social
 ---
-
 *The following is the first of a two-part series.* *It was originally published in issue [22.1](https://jcrt.org/archives/22.1/) of the Journal for Cultural and Religious Studies.*
 
 ## Introduction

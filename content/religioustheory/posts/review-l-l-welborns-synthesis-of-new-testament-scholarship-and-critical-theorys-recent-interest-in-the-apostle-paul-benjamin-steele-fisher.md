@@ -1,6 +1,7 @@
 ---
 nanoid: "UFcj5u"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurge4ii23'
 title: >-
   Review – L.L. Welborn’s Synthesis of New Testament Scholarship and Critical
   Theory’s Recent Interest in the Apostle Paul (Benjamin Steele-Fisher)
@@ -20,7 +21,6 @@ tags:
   - social
   - community
 ---
-
 **Welborn, Larry L. *Paul’s Summons to Messianic Life: Political Theology and the Coming Awakening (Insurrections: Critical Studies in Religion, Politics, and Culture).* New York: Columbia University Press, 2015. ISBN 9780231171311. Hardcover, paperback, e-book. 154 pages.**
 
 With the unprecedented amount of political upheaval throughout the west since the turn of the century, especially after the supposed triumph of liberal capitalism over its rival ideologies, many in political philosophy and theology today are asking, “where is a fresh blueprint for a radical politics to be found?” For an increasingly influential group of scholars in critical theory, this question is answered not by a revised archetype of the “militant” contrived only to be exhausted again like others in the past, but rather this blueprint is found in one of the oldest and most foundational theologians of the west: the Apostle Paul.

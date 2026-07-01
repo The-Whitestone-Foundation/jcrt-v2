@@ -1,6 +1,7 @@
 ---
 nanoid: "EJz9Bd"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqonpxi26'
 title: >-
   Conference on Populism, Nationalism, and the Future of Democracy
   (Announcement)
@@ -19,7 +20,6 @@ tags:
   - political
   - religion
 ---
-
 **When**: Sept. 26-27, 2025
 
 **Where:** Online

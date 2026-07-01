@@ -1,6 +1,7 @@
 ---
 nanoid: "M1-EfU"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5nq2t2r'
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 3 (Neal DeRoo)
@@ -22,7 +23,6 @@ tags:
   - logical
   - religion
 ---
-
 *The following is the third installment of a three-part series.  The first one can be found [here,]( /religioustheory/posts/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-1-neal-deroo/)* *the second [here]( /religioustheory/posts/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-2-neal-deroo/).* 
 
 ## Revisiting Another Debate

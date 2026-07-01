@@ -1,6 +1,7 @@
 ---
 nanoid: "zUmc3X"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5boqf27'
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 3 (Mark Murphy)
@@ -23,7 +24,6 @@ tags:
   - theology
   - mystical
 ---
-
 *The following is the third installment of a three-part series.  The first can be found [here.]( /religioustheory/posts/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-1-mark-murphy/)*  The second one can be found [here]( /religioustheory/posts/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-2-mark-murphy/).
 
 The transition to full speech is the moment when one realizes in a holistic way that one is always dependent on the Other. The symbolic order determines our ‘existence,’ but it is at the very moment that one assumes responsibility for it, that one experiences what Lacan calls a “scant freedom”:

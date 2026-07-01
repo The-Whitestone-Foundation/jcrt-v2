@@ -1,6 +1,7 @@
 ---
 nanoid: "p1iNhu"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdvoil2f'
 title: 'Newest Titles For Review – Freud, Nussbaum, Angst, The Crucified God, Etc.'
 description: "Religious Theory has just added new titles for which we are looking for reviewers (listed below). If you would like to review one of them, please send an email"
 date: '2017-01-27T22:22:57.000Z'
@@ -22,7 +23,6 @@ tags:
   - radical
   - theory
 ---
-
 *Religious Theory* has just added new titles for which we are looking for reviewers (listed below).
 
 If you would like to review one of them, please send an email to [timsned@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=timsned@gmail.com) with the header “Request for Review.”  Please provide your name, email address, position, institutional affiliation, physical mailing address, and a 300-word bio.  If you have reviewed books for any other journal, list them as well.  Finally, please explain why you want to review that book and briefly state your interest or qualifications for doing so.  We will contact the publisher and ask them to send you the book.  We will expect your review within 10 weeks after receipt of the review copy.

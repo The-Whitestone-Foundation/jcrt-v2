@@ -1,6 +1,7 @@
 ---
 nanoid: "cn9RH6"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurg4u3q26'
 title: Review – Of Politics and Motion (Joshua Lawrence)
 description: "* Nail, Thomas. The Figure of the Migrant. Stanford: Stanford University Press, 2015. ISBN-10: 0804796580. 312 pages.* If the 21st century is indeed the century"
 date: '2016-09-08T08:00:36.000Z'
@@ -17,7 +18,6 @@ tags:
   - movement
   - politics
 ---
-
 **![vortex_in_draining_bottle_of_water](/images/2016/09/vortex_in_draining_bottle_of_water.webp)Nail, Thomas. *The Figure of the Migrant*. Stanford: Stanford University Press, 2015. ISBN-10: 0804796580. 312 pages.**
 
 If the 21st century is indeed the century of the migrant, then Thomas Nail’s work is a timely consideration of this oft-neglected shadow of human civilization. To be precise, Nail argues for the necessity of this figure throughout terrestrial expansion and offers a retelling of human history from the perspective of migration. Not only does the migrant occupy a “central” place in Nail’s thought, but more importantly, she expresses the ontological primacy of motion itself.

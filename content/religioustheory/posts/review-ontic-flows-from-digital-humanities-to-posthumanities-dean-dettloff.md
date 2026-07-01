@@ -1,6 +1,7 @@
 ---
 nanoid: "R5-cIF"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurccfdb2t'
 title: >-
   Review – Ontic Flows: From Digital Humanities to Posthumanities (Dean
   Dettloff)
@@ -20,7 +21,6 @@ tags:
   - theory
   - critical
 ---
-
 **Bernico, Matt, and Kölke, Manuela (Eds.). *Ontic Flows: From Digital Humanities to Posthumanities.* New York: Atropos Press, 2016. ISBN-10: 1940813085. Hardcover, paperback, e-book. 296 pages.** 
 
 In *Totality and Infinity,* Emmanuel Levinas famously observed that “*Dasein* in Heidegger is never hungry.” Levinas did not mean to make a brute materialist point, e.g. that Heidegger failed to recognize the banal, everyday experience of biological feelings like being hungry. Rather, Levinas suggests Heidegger failed to recognize that our world is full of objects of enjoyment. Today, increasingly immersed in digital media, one might playfully amend Levinas’s observation to say something more: “*Dasein* in Heidegger is never online.”

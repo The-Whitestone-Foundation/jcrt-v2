@@ -1,6 +1,7 @@
 ---
 nanoid: "WDSTKy"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3cbew2s'
 title: 'The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)'
 description: "Among recent developments in continental philosophy and religious thought, one of the most prominent has been a ‘return to Hegel.’ It has been exemplified in"
 date: '2019-05-24T12:20:15.000Z'
@@ -20,7 +21,6 @@ tags:
   - religion
   - metaphysical
 ---
-
 ## The following is the first installment of a three-part series.
 
 Among recent developments in continental philosophy and religious thought, one of the most prominent has been a ‘return to Hegel.’  It has been exemplified in the work of Slavoj Žižek, Beatrice Longuenesse, Catherine Malabou and Rebecca Comay, as well as that of a younger generation of scholars, such as Vincent Lloyd and Marika Rose.

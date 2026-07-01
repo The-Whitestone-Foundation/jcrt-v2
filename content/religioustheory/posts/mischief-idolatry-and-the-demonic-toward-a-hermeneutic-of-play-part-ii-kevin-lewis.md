@@ -1,6 +1,7 @@
 ---
 nanoid: "xAakzz"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur625gg2a'
 title: >-
   Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part II
   (Kevin Lewis)
@@ -24,7 +25,6 @@ tags:
   - hermeneutic
   - interpretation
 ---
-
 *The following is the second part in a two-part installment. The first  part can be found [here]( /religioustheory/posts/mischief-idolatry-and-the-demonic-toward-a-hermeneutic-of-play-part-i-kevin-lewis/).* 
 
 ## III.

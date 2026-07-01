@@ -1,6 +1,7 @@
 ---
 nanoid: "VWavJM"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurinnue2b'
 title: >-
   Review – Carl Raschke’s Force of God Hammers Out A Political Theology Of
   Insurrection/Resurrection For Our Times
@@ -21,7 +22,6 @@ tags:
   - insurrection
   - democracy
 ---
-
 **Ra***schke, Carl.   [*Force of God: Political Theology and the Crisis of Liberal Democracy.*](http://cup.columbia.edu/book/force-of-god/9780231173841)  New York: Columbia University Press, 2015.  ISBN-978-0231-17384-1.  Hardback, e-book.  202 pages.**
 
 Carl Raschke’s [*Force of God: Political Theology and the Crisis of Liberal Democracy*](http://www.forceofgod.com) is a provocative book, and it is likely to make some readers uncomfortable*.* Raschke is himself aware of this fact. He warns his readers at the outset of the book’s final chapter that what he is “about to say will probably shock and enrage many conventional readers, conditioned as we are to viewing guns and weaponry, particularly when mobilized for ‘military’ purposes, as instrumentalities of political reaction or unrestrained violence.”[^1]

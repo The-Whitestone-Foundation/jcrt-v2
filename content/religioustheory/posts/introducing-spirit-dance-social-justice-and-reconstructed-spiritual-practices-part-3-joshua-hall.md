@@ -1,6 +1,7 @@
 ---
 nanoid: "Aip7IG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqrgmgt2r'
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 3 (Joshua Hall)
@@ -20,7 +21,6 @@ tags:
   - performance
   - justice
 ---
-
 *The following is the last of a three-part series.The first can be found [here]( /religioustheory/posts/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-joshua-hall/)*, the second [here]( /religioustheory/posts/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-part-2-joshua-hall/).
 
 ## Concluding Clarifications

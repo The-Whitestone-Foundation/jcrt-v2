@@ -1,6 +1,7 @@
 ---
 nanoid: "zJRmcn"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqth3e527'
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 2 (Rode Molla)
@@ -23,7 +24,6 @@ tags:
   - theological
   - social
 ---
-
 *The following is the second of a three-part series.* *The first can be found [here]( /religioustheory/posts/from-holistic-to-in-between-theology-the-ethiopian-evangelical-church-mekane-yesus/).*
 
 Tumsa, as a theologian, focused on social justice and the hermeneutical interpretations of Reinhold Niebuhr. He tried to respond to the communities’ struggle through theological reflection and action. As a theologian who studied abroad, his work was affected by the Black American movement and liberation theology and the broader liberation theology and postcolonial discourses.1 Tumsa believed that the primary needs of the Ethiopian society include the spiritual, material, and political. So, a theological approach from the African holistic perspective of life and belonging enabled the church to propose a new way of doing theology.

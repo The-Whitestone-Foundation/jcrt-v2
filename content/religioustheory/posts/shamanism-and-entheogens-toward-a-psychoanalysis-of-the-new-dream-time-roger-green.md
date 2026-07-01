@@ -1,6 +1,7 @@
 ---
 nanoid: "MUzz-s"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurfbrmt2f'
 title: >-
   Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time”
   (Roger Green)
@@ -22,7 +23,6 @@ tags:
   - experience
   - cultural
 ---
-
 *There is no reason why therapy rooms for psychedelic sessions must be adorned with the default Buddha icons, fractal posters, and Indian drapes. Who says these are the hallmarks of psychedelia? Why* not *have pictures of Lamborghinis, pop stars, and football teams – or any other power objects our patients choose to bring?*  \-Ben Sessa[^1]
 
 I must begin with a few terminological distinctions.  The first distinction I need to make is that we need to have a critical separation between what some people call “non-ordinary” states of consciousness and “altered states,” or “shamanic states,” etc.

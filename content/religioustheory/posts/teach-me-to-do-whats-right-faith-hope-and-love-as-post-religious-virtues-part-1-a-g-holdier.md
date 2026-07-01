@@ -1,6 +1,7 @@
 ---
 nanoid: "lArTfo"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuquvbun27'
 title: >-
   “Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious
   Virtues, Part 1 (A.G. Holdier)
@@ -20,7 +21,6 @@ tags:
   - religious
   - cardinal
 ---
-
 ## The following is the first of a two-part series.
 
 > *“God is the ‘beyond’ in the midst of our life.”*

@@ -1,6 +1,7 @@
 ---
 nanoid: "fFgWfQ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6nhv62k'
 title: Review – Reverent Irreverence (Amit Gvaryahu)
 description: "**Pious Irreverence: Confronting God in Rabbinic Judaism. Weiss, Dov. Philadelphia: University of Pennsylvania Press, 2017. ISBN 9780812293050 Hardcover, ebook."
 date: '2018-04-05T22:34:41.000Z'
@@ -19,7 +20,6 @@ tags:
   - theology
   - comparative
 ---
-
 ***Pious Irreverence: Confronting God in Rabbinic Judaism*. Weiss, Dov.  Philadelphia: University of Pennsylvania Press, 2017.  ISBN 9780812293050. Hardcover, ebook. ix+291 pages.**
 
 *Pious Irreverence* opens with a quote from America’s favorite fictional president, Josiah Bartlet of *The West Wing*. After the funeral of his friend and personal secretary, Dolores Landingham, Bartlet asks for some time alone in the church where he prays, “What did I ever do to yours \[your son\] except praise his glory and praise his name?…Have I displeased you, you feckless thug?” I knew no Latin when I saw this episode, and so couldn’t understand what Bartlet yelled at God immediately after this, but I understood the force of his final words: “cruciatus in crucem, eas in crucem.” Screw you, God, Bartlet said; but wasn’t he also talking to God “as a man speaks with his friend” (Ex 33:11)? Wasn’t he *in church*, having a conversation with the deity with whom he was so angry?

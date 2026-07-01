@@ -1,6 +1,7 @@
 ---
 nanoid: "vL8Ulb"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurw4pxa23'
 title:
 author:
 affilation:

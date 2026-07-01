@@ -1,6 +1,7 @@
 ---
 nanoid: "yZJA8O"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpnyym2b'
 title: 'The Image of God and Our Vocation of the Soil, Part 2 (Mick Pope)'
 description: "The article is published in two installments. The first can be found here. It is generally recognised that the Garden story is more environmentally friendly"
 date: '2024-05-24T20:12:53.000Z'
@@ -22,7 +23,6 @@ tags:
   - environmental
   - sanctuary
 ---
-
 *The article is published in two installments*. *The first can be found [here]( /religioustheory/posts/the-image-of-god-and-our-vocation-of-the-soil-mike-pope/).*
 
 ## Humans from the Hummus – life as royal gardeners

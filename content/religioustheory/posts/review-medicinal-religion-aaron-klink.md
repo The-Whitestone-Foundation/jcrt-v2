@@ -1,6 +1,7 @@
 ---
 nanoid: "eGbYJG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5gjvt2v'
 title: Review – Medicinal Religion (Aaron Klink)
 description: "*Balboni, Michael J. and Peteet, John R. eds. Spirituality and Religion Within the Culture of Medicine: From Evidence to Practice ISBN 9780190272432 Hardcover."
 date: '2018-08-02T02:15:40.000Z'
@@ -17,7 +18,6 @@ tags:
   - theological
   - theology
 ---
-
 **Balboni, Michael J. and Peteet, John R. eds. *Spirituality and Religion Within the Culture of Medicine: From Evidence to Practice*. Oxford, UK and New York, NY: Oxford University Press 2017. ISBN 9780190272432  Hardcover. 419 pages.**
 
 Several genres of writing stereotypically intersect with the topics of medicine and religion: empirical studies of religion’s impact on various health outcomes, historical studies of the relationships between religion and medicine, and general guidebooks on being a more spiritually sensitive healthcare practitioner. Balboni and Peteet both employ and modify these traditional approaches to the topic, making this book uniquely suited for use by health care practitioners.

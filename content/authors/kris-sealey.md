@@ -1,5 +1,6 @@
 ---
 nanoid: "vRkS4F"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuu366vr25'
 name: Kris Sealey
 affiliation: "Fairfield University"
 bio:

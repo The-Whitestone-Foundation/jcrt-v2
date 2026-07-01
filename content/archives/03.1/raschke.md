@@ -1,6 +1,7 @@
 ---
 nanoid: "SQArVQ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutc5j7j2t'
 title: "The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies"
 article_number:
 author: "Carl A. Raschke"

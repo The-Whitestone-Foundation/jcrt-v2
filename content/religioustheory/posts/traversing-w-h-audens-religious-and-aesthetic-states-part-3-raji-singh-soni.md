@@ -1,6 +1,7 @@
 ---
 nanoid: "CcB4Y_"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuratoqt2f'
 title: >-
   Traversing W.H. Auden’s Religious And Aesthetic States, Part 3 (Raji Singh
   Soni)
@@ -19,7 +20,6 @@ tags:
   - theology
   - poetic
 ---
-
 *The following is the final installment of a three-part series.  The first one [can be found here]( /religioustheory/posts/traversing-religious-and-aesthetic-states-in-w-h-audens-for-the-time-being-part-1-raji-singh-soni/), the second one [here]( /religioustheory/posts/traversing-w-h-audens-religious-and-aesthetic-states-part-2-raji-singh-soni/).*
 
 As Julia Reinhard Lupton argues, Shakespeare’s Caliban complicates our sense of what it means to be a creature or creaturely. “The world of creatures,” Lupton posits,[^1]

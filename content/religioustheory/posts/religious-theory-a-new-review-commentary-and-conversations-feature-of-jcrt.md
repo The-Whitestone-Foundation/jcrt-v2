@@ -1,6 +1,7 @@
 ---
 nanoid: "qmydSd"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurjphvd2i'
 title: 'Religious Theory – A New Review, Commentary, and Conversations Feature of JCRT'
 description: "Religious Theory is the new commentary, review, and conversation blog for The Journal for Cultural and Religious Theory It highlights key arguments and"
 date: '2016-02-24T00:08:00.000Z'
@@ -20,7 +21,6 @@ tags:
   - theory
   - commentary
 ---
-
 *Religious Theory* is the new commentary, review, and conversation blog for [The Journal for Cultural and Religious Theory](https://jcrt.org).  We plan to go live no later than the middle of February, 2016.
 
 If you are interested in doing a review or a commentary on trends, issues, or new publications please send us an email at [the contact form](/contact/).  Contributions should normally be a maximum of 1500 words, unless you are proposing multiple authors at the same time on a common topic.  Please summarize your proposed contribution in no more than 300 words along with a bio of yourself about the same length.  Please note that proposals for regular, footnoted, academic articles should be proposed separately through the following URL: <https://jcrt.org/submissions.html>.

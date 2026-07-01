@@ -1,6 +1,7 @@
 ---
 nanoid: "G-PMXK"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqz5fy42b'
 title: >-
   “Naming The Darkness,” Spiritual Violence, And Radical Incompleteness –
   Resituating A Political Theology, Part 2 (James E. Willis, III)
@@ -25,7 +26,6 @@ tags:
   - incompleteness
   - violence
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/naming-the-darkness-spiritual-violence-and-radical-incompleteness-resituating-a-political-theology-james-e-willis-iii/)*[.]( /religioustheory/posts/naming-the-darkness-spiritual-violence-and-radical-incompleteness-resituating-a-political-theology-james-e-willis-iii/)
 
 ## Martin Hägglund: Democratic Socialism

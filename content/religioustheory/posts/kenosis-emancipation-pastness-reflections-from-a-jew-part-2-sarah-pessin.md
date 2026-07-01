@@ -1,6 +1,7 @@
 ---
 nanoid: "JQdQGq"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur2yijl2r'
 title: >-
   Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 2 (Sarah
   Pessin)
@@ -19,7 +20,6 @@ tags:
   - justice
   - critical
 ---
-
 Emphasized in a temporalized modality, and bringing together elements of our phenomenological and political reflections above, we may specifically unpack the hegemony of White Christianity as a blow against pastness: Where pastness signals the facts and facticity of a fettered social and historical situation (with parameters imposed from outside, a need to escape those parameters felt on the inside, and all-in-all a lived limit to freedom and presence), White Christian hegemony signals at the very worst the desire and at the very least the ability to live unfettered by chains of the past.
 
 Indeed, from a critical race and feminist perspective, this abstraction of (as a kind of disregard for) the past is one of liberalism’s most damning qualities. That we move here from White Christianity to liberalism’s failures around pastness is motivated both by their shared hegemonic enactment of “New/Now” modalities at the expense of marginalized minority voices, as it is also (and relatedly) motivated by Levinas’ own identification of abstract liberalism as a degraded outgrowth of Christianity.[^1]

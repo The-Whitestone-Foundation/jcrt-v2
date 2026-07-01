@@ -1,6 +1,7 @@
 ---
 nanoid: "ExUYPC"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurbjibg22'
 title: Religious Autonomy As Secularism’s Silent Partner (Darshan Datar)
 description: "Scholarship has noted that the genealogical trajectory of a state has consistently had an impact on the evolution of state-church relationships It highlights"
 date: '2017-05-31T04:39:51.000Z'
@@ -19,7 +20,6 @@ tags:
   - constitutional
   - liberal
 ---
-
 Scholarship has noted that the genealogical trajectory of a state has consistently had an impact on the evolution of state-church relationships. Philosophers have conceded that historically, as a sociological fact, religion was not purged from the public as much as it gradually lost its relevance to public life.
 
 Charles Taylor prolifically referred to this phenomenon as being the result of a Nova effect.[^1] Taylor’s argument stands as a testament to previous scholarship on the matter. Karl Marx and Max Weber both saw religions appeal to the public sphere as being contingent on the limits of human rationality. Marx and Weber believed that as public reason moved into the sphere of logical and rational reasoning, religion would no longer have any force as a public mobilizer or organizer. What all their theories were hinting at was the inevitability of the demise of religion in public life.

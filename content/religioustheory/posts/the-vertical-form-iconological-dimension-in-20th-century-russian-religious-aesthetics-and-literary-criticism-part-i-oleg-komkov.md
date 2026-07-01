@@ -1,6 +1,7 @@
 ---
 nanoid: "pGwmyA"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6sdbl2v'
 title: >-
   The Vertical Form – The Iconological Dimension in 20th Century Russian
   Religious Aesthetics and Literary Criticism, Part I (Oleg Komkov)
@@ -25,7 +26,6 @@ tags:
   - ontological
   - poetic
 ---
-
 *The following is the first part in a two-part installment.* 
 
 This article is an attempt to highlight and reflect on several interrelated issues that seem to be very important in terms of working out a relevant theological approach to the wide variety of artistic expression, particularly as far as theoretical aesthetics is concerned. I shall focus on some most characteristic ideas developed in 20th century Russian religious philosophy that may appear to be significant not only for the Orthodox tradition of spirituality and thought in which they are rooted, but for other Christian traditions as well.

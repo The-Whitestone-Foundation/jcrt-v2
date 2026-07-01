@@ -1,6 +1,7 @@
 ---
 nanoid: "mrU-Lc"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsgvoy25'
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 3 (Carl
   Raschke)
@@ -19,7 +20,6 @@ tags:
   - neoliberalism
   - colonial
 ---
-
 *The following is the last of a three-part series. The first can be found [here]( /religioustheory/posts/religious-studies-as-the-state-religion-of-neoliberalism-carl-raschke/)* , *the second* [*here.*]( /religioustheory/posts/religious-studies-as-the-state-religion-of-neoliberalism-part-2-carl-raschke/)
 
 ## The Metastasis of Modernism

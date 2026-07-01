@@ -1,6 +1,7 @@
 ---
 nanoid: "jk33WW"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdy4pe2b'
 title: 'Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)'
 description: "Psychoanalysis has undeniably played a significant role in the development of theories critical of the social landscape It highlights key arguments and"
 date: '2017-01-21T18:54:54.000Z'
@@ -19,7 +20,6 @@ tags:
   - psychoanalysis
   - political
 ---
-
 ![clarke-firstimage](/images/2017/01/clarke-firstimage.webp)Psychoanalysis has undeniably played a significant role in the development of theories critical of the social landscape. In addition to fostering a new model for self-reflection, it has functioned as a vehicle for the proliferation of subjectivities distinct from the consecrated forms of cultural life. Consequently, I will suggest here that it has an important role to play in the formation of any emancipatory political praxis.
 
 At the same time, I will argue that psychoanalysis requires a phenomenological critique in order to fulfill the ethical demands of justice. To accomplish this, I have juxtaposed the Lacanian theory of analysis with the critical phenomenology of Emmanuel Levinas. My first task, then, will be to explicate a significant commonality between these two thinkers, namely *constitutive alterity*.

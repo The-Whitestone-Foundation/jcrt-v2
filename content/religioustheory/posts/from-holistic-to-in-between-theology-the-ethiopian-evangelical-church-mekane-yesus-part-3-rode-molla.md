@@ -1,6 +1,7 @@
 ---
 nanoid: "S8Zwdx"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqtej5o22'
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 3 (Rode Molla)
@@ -22,7 +23,6 @@ tags:
   - holistic
   - ethnic
 ---
-
 The comparison between evangelical Christianity and EOC Christianity is their approach to the language. The Westerners use the mother tongue to translate Christianity to the Oromo and other ethnic groups to be converted to evangelical Christianity. The Amharas use the Amharic language and liturgical language *Geez*, the liturgical language of the EOC, to evangelize and dominate the Oromo and others. Many believe that even though the evangelical faith tradition requires conversion as a practice to join the Christian community, it was a liberating experience, not a dominating one.
 
 However, I argue that the exclusivist approach of evangelical Christianity towards traditional and other religions, including the EOC, did not enable Ethiopians to live in the in-between consciousness and spaces. Evangelical Christianity that focuses only on spiritual salvation could not make it possible for Ethiopians to connect to their lived experiences in their respective contexts. So, I believe that evangelicals in Ethiopia need a theology that will enable them to be welcoming of all people through its direct response to political, social, and spiritual needs for agency, wholeness, and salvation, liberation and connection to God.

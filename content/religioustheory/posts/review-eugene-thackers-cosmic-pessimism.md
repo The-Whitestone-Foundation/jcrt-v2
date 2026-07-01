@@ -1,6 +1,7 @@
 ---
 nanoid: "JTH1Ww"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurf7bqw2k'
 title: Review – Eugene Thacker’s “Cosmic Pessimism” (N.N. Trakakis)
 description: "*Thacker, Eugene. Cosmic Pessimism. Minneapolis: Univocal Publishing, 2015. ISBN-10: 193756147X. E-book, paperback. 55 pages.* It might be worth quoting from"
 date: '2016-10-27T08:00:23.000Z'
@@ -18,7 +19,6 @@ tags:
   - religion
   - futility
 ---
-
  **Thacker, Eugene. *Cosmic Pessimism*. Minneapolis: Univocal Publishing, 2015. ISBN-10: 193756147X. E-book, paperback. 55 pages.**
 
 It might be worth quoting from the beginning of this pocket-sized, 69-page book to give a sense of its style and subject:

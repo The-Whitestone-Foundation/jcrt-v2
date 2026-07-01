@@ -1,6 +1,7 @@
 ---
 nanoid: "HSU1NL"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkure4xad2v'
 title: >-
   Review – Judith Butler And The Different “Senses” Of The Subject (Matthew
   Waggoner)
@@ -19,7 +20,6 @@ tags:
   - condition
   - materiality
 ---
-
 *Note:  This review is [also published simultaneously](https://jcrt.org/archives/16.1/ReviewButler) in the PDF special issue of JCRT 16.1.*
 
 **Butler, Judith. *Senses of the Subject.*  New York: Fordham University Press, 2015. ISBN-10: 082326467X. Paperback. 228 Pages.**

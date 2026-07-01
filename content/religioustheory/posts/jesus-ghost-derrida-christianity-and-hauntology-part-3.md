@@ -1,6 +1,7 @@
 ---
 nanoid: "UHMhsY"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuribgah2p'
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 3'
 description: "The following is Part 3 of a 3-part series by Victor Taylor on how one might reflect theologically on Jesus and the Christian message from a Derridean"
 date: '2016-05-14T21:41:02.000Z'
@@ -21,7 +22,6 @@ tags:
   - subject
   - subjectivity
 ---
-
 *The following is Part 3 of a 3-part series by Victor Taylor on how one might reflect theologically on Jesus and the Christian message from a Derridean perspective that departs significantly from the work of John D. Caputo. [The first part was published]( /religioustheory/posts/jesus-ghost-derrida-christianity-and-hauntology-part-1/) in* Religious Theory *on April 27, 2016.  The [second part was published]( /religioustheory/posts/jesus-ghost-derrida-christianity-and-hauntology-part-2/) on May 6 and considers the meaning of the term “heritage.”  This final section explores what is implied by the concept of “plasticity” as applied to Jesus.*
 
 The now spectralized inheritances of Christianity along with a deconstructing Jesus-subjectivity explicitly point to a truly radicalized Jesus-subject that is exactly the opposite in form from the subjectivity that is affirmed by the traditional Christian theological view—Jesus, from this perspective, in his divine presence, works to restrict the Christian heritage and subsequently makes strictly pure a Christian (Christomimetic) subjectivity. That is to say, the tension between heritage and inheritance resides in the opposition between a spectralized, unrestricted Jesus-subjectivity and a ghostly, restricted Jesus- identity.

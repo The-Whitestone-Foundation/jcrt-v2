@@ -1,6 +1,7 @@
 ---
 nanoid: "d-xDbR"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurbc72527'
 title: Review – The Contemplative Self after Michel Henry (Michael Saunders)
 description: "*Rivera, Joseph. The Contemplative Self After Michel Henry: A Phenomenological Theology. Notre Dame: Notre Dame Press, 2015. ISBN-10: 0268040605. 408 pages"
 date: '2017-06-29T00:04:42.000Z'
@@ -18,7 +19,6 @@ tags:
   - radical
   - eschatological
 ---
-
 **Rivera, Joseph. *The Contemplative Self After Michel Henry: A Phenomenological Theology*. Notre Dame: Notre Dame Press, 2015. ISBN-10: 0268040605. 408 pages. Paperback.**
 
 “Here below, too, life extends its reign. Its concrete modalities are the atemporal substance of our days. Any visible appearance is paired with an invisible reality. With each mouthful of the visible, as Kafka says, an invisible mouthful is given to us: on earth as in heaven.” – Michel Henry, *I Am the Truth*[^1]

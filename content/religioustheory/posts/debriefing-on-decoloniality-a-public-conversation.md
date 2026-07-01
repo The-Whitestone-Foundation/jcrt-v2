@@ -1,6 +1,7 @@
 ---
 nanoid: "ZjXYGE"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvnc2x2p'
 title: 'Debriefing On Decoloniality – A Public Conversation, Part 1'
 description: "Part 1 presents a transcripted debrief from participants in the decoloniality conference, mapping core disagreements, shared concerns, and conceptual stakes"
 date: '2021-06-15T02:55:34.000Z'
@@ -17,7 +18,6 @@ tags:
   - conversation
   - colonial
 ---
-
 *The following is a transcript of a [community-wide debriefing](https://thenewpolis.com/2021/06/15/debriefing-on-decoloniality-a-public-conversation/) by participants for the online conference “*[*Decoloniality and the Disintegration of Cognitive Empire – Rethinking Sovereignty and Territoriality in the 21st Century.”*](https://thenewpolis.com/conferences-and-calls-for-presentations/)  *The conference was held April 14-16, 2021 and featured such international luminaries as Walter Mignolo, Catherine Walsh, and Tink Tinker. Because of the length of the conversation, it is in two parts.*
 
 *Participants include Brian Kirn, Suhayb Yunus, Dianna Able, Rachel Foley, Alyssa Putzer, Jared Lacey (University of Denver); Kieryn Wurts (University of Bonn), Joshua Ramos (Houston Community College), Jennifer McCurdy (Iliff School of Theology), Jill Fleishman (Denver CO), Carlos Steinkamp Calandria (Areté Preparatory Academy, Los Angeles).*

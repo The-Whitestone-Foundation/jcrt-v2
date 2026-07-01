@@ -1,6 +1,7 @@
 ---
 nanoid: "ptTL03"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuracjwd2f'
 title: Review—Whither Philosophy of Religion? (Benjamin Steele-Fisher)
 description: "**Religion and European Philosophy: Key Thinkers from Kant to Zizek. Edited by Philip Goodchild and Hollis Phelps. New York: Routledge, 2017 It highlights"
 date: '2017-10-27T03:07:20.000Z'
@@ -17,7 +18,6 @@ tags:
   - continental
   - theology
 ---
-
 ***Religion and European Philosophy: Key Thinkers from Kant to Zizek.* Edited by Philip Goodchild and Hollis Phelps. New York: Routledge, 2017. ISBN 10: 1138188530. Hardcover, Paperback, E-Book. 512 pages.**
 
 Philosophy of religion, as a sub-discipline within the field of religious studies proper, has been the subject of much contention for some time now. Often accused of “crypto-theology” as opposed to more ethnographic work, it can seem to straddle the sometimes fuzzy lines between philosophy and religion. However, as Bradley Onishi has made clear in a recent article appearing in the *Journal of the American Academy of Religion*,there is a *distinction of purpose* between continental philosophical theology, which seeks to defend, improve, or advance (Christian or Jewish) theology by way of philosophy and philosophy of religion, which is dedicated to exploring the potential resonances and dynamisms between philosophy and religious phenomena, particularly as they bear upon scholarly approaches to secularity.1

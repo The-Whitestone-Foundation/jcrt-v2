@@ -1,6 +1,7 @@
 ---
 nanoid: "e2d7yh"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurgnuz622'
 title: Review – Giorgio Agamben and the Theory of Civil War (Ignas Kalpokas)
 description: "*Agamben, Giorgio. Stasis: Civil War as a Political Paradigm (Meridian: Crossing Aesthetics). Translated by Nicholas Heron Translated by Nicholas Heron."
 date: '2016-08-11T08:00:32.000Z'
@@ -17,7 +18,6 @@ tags:
   - interpretation
   - sovereignty
 ---
-
 **Agamben, Giorgio. *Stasis: Civil War as a Political Paradigm* (Meridian: Crossing Aesthetics). Translated by Nicholas Heron. Stanford: Stanford University Press, 2015. ISBN 10: 0804797315 Hardcover, paperback, e-book. 96 pages.**
 
 Giorgio Agamben’s *Stasis* is yet another addition to his *Homo Sacer* project. This time Agamben tackles what he sees as yet another lacuna in political theor y: the absence of a science of civil war as something in-between theories of war (‘polemology’) and peace (‘irenology’). That science would be called ‘stasiology’. At the same time, the book is also markedly different from the other outputs of the *Homo Sacer* project. Strictly speaking, it is not even a proper book and clearly not a new contribution. Instead, these are two lectures dating back to 2001.

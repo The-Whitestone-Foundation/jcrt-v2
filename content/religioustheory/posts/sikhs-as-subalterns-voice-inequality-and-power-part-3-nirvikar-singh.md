@@ -1,6 +1,7 @@
 ---
 nanoid: "TkAYlf"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpxslo2k'
 title: 'Sikhs As Subalterns – Voice, Inequality, And Power, Part 3 (Nirvikar Singh)'
 description: "The following is the third installment of a three part series. The first can be found here, the second here. It is published as a catalogued .PDF in article in"
 date: '2024-02-08T17:50:32.000Z'
@@ -18,7 +19,6 @@ tags:
   - religion
   - social
 ---
-
 *The following is the third installment of a three part series. The first can be found [here]( /religioustheory/posts/sikhs-as-subalterns-voice-inequality-and-power/), the second [here]( /religioustheory/posts/sikhs-as-subalterns-voice-inequality-and-power-part-2-nirvikar-singh/). It is [published](https://jcrt.org/archives/22.2/Singh.pdf) as a catalogued .PDF in article in the latest issue of the* Journal for Cultural and Religious Theory ([22.2](https://jcrt.org/archives/22.2/)).
 
 That knowledge of source languages is not the only problem is illustrated by citation practices. Axel, Fox, Leonard and Oberoi are all frequently cited in analyses that emphasize a foreshortened view of Sikh history and tradition. On the other hand, critiques or South Asian sources (Grewal, M. Singh, N.-G. K. Singh) tend to be ignored. While some of the literature that builds on these works considers topics that had been neglected or treated unsatisfactorily, such as gender, the foreshortening and selection in other dimensions introduces new limitations. For example, typical histories of colonial period Sikh reform efforts include struggles with questions of caste and social equality.[^1]

@@ -1,6 +1,7 @@
 ---
 nanoid: "zsrHTe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutbamyx2k'
 title: "Taking Shape: on the Current Constellation of (Religious) Thought"
 article_number:
 author: "Clayton Crockett"

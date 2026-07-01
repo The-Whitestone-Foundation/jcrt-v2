@@ -1,6 +1,7 @@
 ---
 nanoid: "fwjR6w"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4oaat2r'
 title: >-
   Religion And Mental Health – The Therapuetic Value Of The Teachings of Jesus,
   Part 2 (Thomas Roberts and Delbert Hayden)
@@ -23,7 +24,6 @@ tags:
   - religious
   - psychological
 ---
-
 *The following is the second part in a two-part installment. You can find the first part [here]( /religioustheory/posts/religion-and-mental-health-the-therapeutic-value-of-the-teachings-of-jesus-part-1-thomas-roberts-and-delbert-hayden/).* 
 
 *Maintaining a State of Hope and Taking a Transcendent Perspective about Human Worries*

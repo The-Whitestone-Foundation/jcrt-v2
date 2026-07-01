@@ -1,6 +1,7 @@
 ---
 nanoid: "ObKaOo"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurixela26'
 title: >-
   Spiritual Erotics, Part 2 – The Nature and History of Machismo and Its
   Feminine Counterpart As “Marianismo”
@@ -22,7 +23,6 @@ tags:
   - discourse
   - social
 ---
-
 *From time to time Religious Theory (RT) invites well-known academic authors to outline current book projects that have not yet been published.  This second installment of the article, released in three parts, reflects a recent talk in California by Prof. Luis Leon, a well-known author of several key books on the theory of Latino religions and borderlands theory.*
 
 Central to the project on “spiritual erotics” I [outlined last week]( /religioustheory/posts/spiritual-erotics-affect-theory-and-the-transformation-of-machismo-among-latino-pentecostal-men-part-1/) is the *problem of machismo*.

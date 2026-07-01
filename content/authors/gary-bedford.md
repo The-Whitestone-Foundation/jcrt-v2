@@ -1,5 +1,6 @@
 ---
 nanoid: "bLml-C"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuufekjl2v'
 name: Gary Bedford
 affiliation: "University of Denver"
 bio:

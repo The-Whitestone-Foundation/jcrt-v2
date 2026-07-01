@@ -1,5 +1,6 @@
 ---
 nanoid: "uwCDnz"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuumuxwg2s'
 name: Chris Fox
 affiliation: "Newman University, Wichita, KS"
 bio:

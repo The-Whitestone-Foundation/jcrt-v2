@@ -1,6 +1,7 @@
 ---
 nanoid: "lE2FUI"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqytpfq25'
 title: >-
   Religious Studies – The Final Colonization Of American Indians, Part 2 (Tink
   Tinker, wazhazhe udsethe)
@@ -20,7 +21,6 @@ tags:
   - academic
   - community
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/religious-studies-the-final-colonization-of-american-indians-part-1-tink-tinker-wazhazhe-udsethe/).*
 
 Indian cultures are very complex, and Osage culture is no different in that regard. Every *ukon* or *wigie*[^1] is aligned around these paired divisions, and particular clans might have clan specific-responsibilities (hence, division-specific) in any *wigie* or *ukon*. For example, two of the *hunka* clans each have a responsibility to “keep” specific pipes that were dedicated to military actions of defense or the buffalo hunts, and no deliberation to prepare for defense could continue without one of these clans stepping forward with one of these designated pipes.

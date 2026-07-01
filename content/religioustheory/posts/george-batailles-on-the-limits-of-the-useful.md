@@ -1,6 +1,7 @@
 ---
 nanoid: "3UeoJi"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqqgjx2p'
 title: >-
   George Batailles On Ethnographic Surrealism And “The Limits Of The Useful” –
   Review Essay (Matt Waggoner)
@@ -20,7 +21,6 @@ tags:
   - nonproductive
   - religion
 ---
-
 **Georges Bataille,** ***The Limit of the Useful***. Translated and edited by Corey Austin Knudson and Tomas Elliott. Cambridge: The MIT Press, 2022. Hardback. 360 pages. ISBN 978-0-262-04733-3.**
 
 *The Accursed Share*, one of the more enduring literary and philosophical projects undertaken by Georges Bataille, started a decade before its eventual 1949 publication as what he had been calling in notes, drafts, and correspondences *The Accursed Share, or the Limit of the Useful* (at times simply *The Limit of the Useful*).[^1] In the *Oeuvres Compléte*, Gallimard editors used *The Limit of the Useful* to refer to what they considered an “abandoned” version of the text.

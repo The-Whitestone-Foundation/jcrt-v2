@@ -1,6 +1,7 @@
 ---
 nanoid: "23BGhs"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurgixra23'
 title: >-
   Review – Love’s Unfortunate Presence between Faith and Belief (Daniel
   Boscaljon)
@@ -19,7 +20,6 @@ tags:
   - theology
   - religion
 ---
-
 **Schrijvers, Joeri. *Between Faith and Belief: Toward a Contemporary Phenomenology of Religious Life* (SUNY Series in Theology and Continental Thought). New York: State University of New York Press, 2016. ISBN-10: 143846021X Hardcover, e-book. 398 pages.**
 
 The landscape of contemporary philosophical theology is doing much to confront the human, all too human, ghosts of the death of God. In a secular age increasingly typified by the promulgation of “nones” who remain unaffiliated—or worse (from the perspective of those who find value in the study or practice of religion), absolutely indifferent—to traditional religious offerings, this kind of theology remains invested in expanding what religion might mean to spaces where it no longer seems to apply.

@@ -1,6 +1,7 @@
 ---
 nanoid: "r42QNG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur25hdx2p'
 title: >-
   To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 2 (Matt
   Rosen)
@@ -24,7 +25,6 @@ tags:
   - ethics
   - recollection
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethic-part-1-matt-rosen/).*
 
 The recasting of the field of three against the field of two, which is the field that is anterior to it and unilaterally determines it while being foreclosed to what would be its determinations, is the production of genuine alterity, but this is only true in some cases. The field of three can only coexist with the field of two such that this recasting is possible insofar as the field of three is not imagined to be totalizing, that is to say, insofar as there is not a twice-forgetting of the field of two.

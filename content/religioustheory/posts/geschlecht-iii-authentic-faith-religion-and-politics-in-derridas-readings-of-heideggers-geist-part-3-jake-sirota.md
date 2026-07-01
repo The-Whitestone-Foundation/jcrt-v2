@@ -1,6 +1,7 @@
 ---
 nanoid: "Ocp5u1"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqttgr32v'
 title: >-
   Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings
   Of Heidegger’s “Geist”, Part 3 (Jake Sirota)
@@ -22,7 +23,6 @@ tags:
   - religious
   - politics
 ---
-
 *The following is the third of a three-part series. The first can be found* [*here*]( /religioustheory/posts/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-1-jake-sirota/)*, the second* [*here*]( /religioustheory/posts/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-2-jake-sirota/)*.*
 
 Derrida’s suspicion of and discomfort with the seemingly politically-motivated dogmatism that we see guiding Heidegger’s understanding of spirit leads us into the common interpretations of Derrida’s religious thinking as being about a sort of theological indiscretion, an undecidability about the existence of God and thus the veracity of religion as such. However, to leave it at that is a grave oversimplification, particularly since, as we have seen, the question of religious faith carries such deep ties to the problems of nationalism and political injustice. Readers of Derrida’s religious inflections often fail to consider the political resonance of such inflections, in part because they focus attention on his writings on Christianity.[^1]

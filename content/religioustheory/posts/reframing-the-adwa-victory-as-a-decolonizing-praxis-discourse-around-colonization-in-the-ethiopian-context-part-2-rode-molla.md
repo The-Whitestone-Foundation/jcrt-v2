@@ -1,6 +1,7 @@
 ---
 nanoid: "jVgsYH"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzw4yl2i'
 title: >-
   Reframing The Adwa Victory As A Decolonizing Praxis – Discourse Around
   Colonization In The Ethiopian Context, Part 2 (Rode Molla)
@@ -22,7 +23,6 @@ tags:
   - religious
   - social
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/reframing-the-adwa-victory-as-a-decolonizing-praxis-discourse-around-colonization-in-the-ethiopian-context/).*
 
 ## Docile Ethiopian Bodies

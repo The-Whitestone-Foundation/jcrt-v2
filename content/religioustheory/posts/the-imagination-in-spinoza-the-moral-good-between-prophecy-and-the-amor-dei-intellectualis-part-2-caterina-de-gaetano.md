@@ -1,6 +1,7 @@
 ---
 nanoid: "Zq3sSH"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqswhg2a'
 title: >-
   The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei
   Intellectualis, Part 2 (Caterina De Gaetano)
@@ -22,7 +23,6 @@ tags:
   - imagination
   - social
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/the-imagination-in-spinoza-the-moral-good-between-prophecy-and-the-amor-dei-intellectualis-part-1-caterina-de-gaetano/). [The entire article](https://jcrt.org/archives/22.1/Degaetano.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 
 ## The Morality of the Bible

@@ -1,6 +1,7 @@
 ---
 nanoid: "AXDTNZ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqxrmme2b'
 title: >-
   Sexual Difference And The Vatican – A Lacanian Response, Part 2 (Melissa
   Conroy)
@@ -20,7 +21,6 @@ tags:
   - animal
   - symbolic
 ---
-
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/sexual-difference-and-the-vatican-a-lacanian-response-part-1-melissa-conroy/)*.
 
 The current medical paradigm works to suppress and erase these bodies by allowing them to exist only after medical correction and subsequent conformity to the two-sex system. Judith Butler has observed that bodies are only allowed to “live within the productive constraints of certain highly gendered regulatory schemas” while bodies that fall outside of this norm are considered “unthinkable, abject, unlivable” (1993, xi). Medical care operates with the assumption that abnormalities must be removed in order to render these “unlivable” bodies acceptable. Julia Epstein remarks that “individuals with gender disorders are permitted to live, but the disorders themselves are rendered invisible, are seen as social stigmata to be excised in the operating room” (Hausman 1995, 75).

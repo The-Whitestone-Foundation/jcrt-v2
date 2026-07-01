@@ -1,6 +1,7 @@
 ---
 nanoid: "c_ym6I"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuswff3b2t'
 title: "The Deconversion of Hent De Vries"
 author: "Peter Gilgen"
 affilation:

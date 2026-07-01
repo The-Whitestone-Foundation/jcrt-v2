@@ -1,6 +1,7 @@
 ---
 nanoid: "DFsIO4"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5smep2p'
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 1 (Neal DeRoo)
@@ -21,7 +22,6 @@ tags:
   - present
   - religious
 ---
-
 ## The following is the first of a three-part series.
 
 On the surface, the [debate between John D. Caputo and Martin Hägglund in the Spring 2011 edition](https://jcrt.org/archives/11.2/hagglund.pdf) of *The Journal of Cultural and Religious Theory* seems to be a straightforward discussion between mutually opposing views on religion—on the one hand, Caputo, who claims an essentially “religious” reading of Derrida; and on the other hand, Hägglund, who finds instead a “radical atheism” at the heart of Derrida’s thought.

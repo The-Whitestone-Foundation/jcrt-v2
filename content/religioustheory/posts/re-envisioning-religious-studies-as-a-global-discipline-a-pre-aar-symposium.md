@@ -1,6 +1,7 @@
 ---
 nanoid: "DAUFkU"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4qoot2v'
 title: Re-Envisioning Religious Studies As A Global Discipline – A Pre-AAR Symposium
 description: "The Journal for Cultural and Religious Theory and the Department of Religious Studies at the University of Denver in conjunction with its partner faculty"
 date: '2018-10-02T22:22:09.000Z'
@@ -17,7 +18,6 @@ tags:
   - theology
   - continental
 ---
-
 #### When?  Nov. 15-16
 
 #### Where?  University of Denver, Sturm Hall 266.

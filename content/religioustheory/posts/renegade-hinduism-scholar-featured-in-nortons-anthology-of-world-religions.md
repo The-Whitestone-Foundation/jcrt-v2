@@ -1,6 +1,7 @@
 ---
 nanoid: "f69ida"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuriuzdg2k'
 title: Renegade Hinduism Scholar Featured In Norton’s Anthology of World Religions
 description: "The just-released, multi-volume Norton Anthology of World Religions is a major project of substance undertaken by a group of world-renowned scholars in"
 date: '2016-04-08T20:15:31.000Z'
@@ -19,7 +20,6 @@ tags:
   - religion
   - spiritual
 ---
-
 The just-released, multi-volume *[Norton Anthology of World Religions](http://books.wwnorton.com/books/the-norton-anthology-of-world-religions/)* is a major project of substance undertaken by a group of world-renowned scholars in comparative religions.   However, what makes it stand out is the contribution of Professor Kancha Ilaiah, who hails from an illiterate s*udra* shepherd family.
 
 In the four-level Hindu caste system the *sudra* are the lowest of the low, and in recent history have consisted mainly of artisans and menial laborers.  Because of the rigidity of the caste system, which persists in India today, the *sudra* are not normally permitted the kind of privileged academic place the *Norton Anthology* offers.  They, in fact, have been victims of brutally imposed social and epistemological deprivation for centuries.

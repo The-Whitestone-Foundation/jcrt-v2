@@ -1,6 +1,7 @@
 ---
 nanoid: "J-3QaO"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqtc2ti25'
 title: >-
   Critical Conversations – A Conversation With Arthur Bradley On Sovereignty,
   Part 1
@@ -25,7 +26,6 @@ tags:
   - want
   - history
 ---
-
 *The following is the first part of a transcript of one of our ongoing “Critical Conversations” with [distinguished British political philosopher Arthur Bradley](https://www.lancaster.ac.uk/english-literature-and-creative-writing/people/arthur-bradley). The conversation took place on March 10, 2022.The second part can be found [here](https://thenewpolis.com/2022/05/25/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-2/). The discussion centers around his recent boo*k [Unbearable Life: A Genealogy of Political Erasure](https://www.google.com/books/edition/Unbearable_Life/Q2SIDwAAQBAJ?hl=en&gbpv=1&dq=unbearable+life&printsec=frontcover).
 
 **Carl Raschke:** Hello, welcome to critical conversations I’m Carl Raschke. I’m the editor of the New Polis and I am also here with Roger Green who is a contributing editor to the New Polis. We will be meeting today, Arthur Bradley, who is a distinguished political philosopher, political theologian. I know he wears a number of hats. But he’s very well-known at Lancaster University in the UK, and he’s been so gracious to join us to talk about his book. Which is entitled [Unbearable Life](http://cup.columbia.edu/book/unbearable-life/9780231193399), which is on the topic of political erasure. Which is especially relevant, given what’s been going on the last two weeks with the Russian Invasion of Ukraine and some of the ideological rhetoric about erasing Ukraine which has been in the news a lot, so we’re not going to just talk about Ukraine. But we’re going to try to look at this whole question of political erasure which, in terms of the academic literature, or the philosophical literature on sovereignty is kind of a unique contribution that Arthur makes in the book.

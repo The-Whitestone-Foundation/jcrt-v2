@@ -1,6 +1,7 @@
 ---
 nanoid: "EWvjuR"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqyf2nq25'
 title: >-
   The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous,
   Part 3 (Alberto Urquidez)
@@ -22,7 +23,6 @@ tags:
   - supernatural
   - normative
 ---
-
 ## The Sense of “miracle” That Matters
 
 Surprisingly few commentators have advanced this basic criticism against Hume’s argument. One glaring exception is the Wittgensteinian philosopher of religion, D. Z. Phillips.[^1] In *The Problem of Evil and the Problem of God*, Phillips puts things this way: “In the case of certain miracles, it is a necessary condition of so regarding them, that no causal explanation of them has been found. But although that is a necessary condition, it is not a sufficient condition.”[^2] The principal questions Phillips is interested in are these:

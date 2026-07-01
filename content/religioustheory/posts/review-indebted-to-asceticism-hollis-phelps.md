@@ -1,6 +1,7 @@
 ---
 nanoid: "EZ-wLb"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7ysno22'
 title: Review – Indebted to Asceticism (Hollis Phelps)
 description: "Stimilli, Elettra. **The Debt of the Living: Ascesis and Capitalism. Translated by Arianna Bove. Albany: SUNY Press, 2017. ISBN 9781438464152 It highlights"
 date: '2017-11-14T09:50:55.000Z'
@@ -17,7 +18,6 @@ tags:
   - christianity
   - theological
 ---
-
 ![](/images/external/theeconomiccollapseblog-com-dollar-spiral-public-domain-460x296-a9f964903a.webp)**Stimilli, Elettra.** ***The Debt of the Living: Ascesis and Capitalism*. Translated by Arianna Bove. Albany: SUNY Press, 2017. ISBN 9781438464152. Hardcover, xvi + 199 pages.**
 
 Max Weber, as is well known, traced the origins of capitalism to an inner drive to renunciation and sacrifice. In *The Debt of the Living*, Stimilli, in contrast, traces capitalism’s origins to the “compulsive drive to enjoy and consume” (2). This does not mean, however, that Stimilli jettisons Weber, or the ascetic paradigm on which his thesis ultimately rests. Rather, she re-reads Weber and asceticism not in terms of renunciation but, rather, as action without end or purpose, as a uniquely human form of praxis whose resolution lies only in itself.

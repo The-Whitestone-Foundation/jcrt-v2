@@ -1,6 +1,7 @@
 ---
 nanoid: "MZmgPo"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5iwqd2f'
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 1  (Mark Murphy)
@@ -22,7 +23,6 @@ tags:
   - happiness
   - theology
 ---
-
 ## The following is the first installment of a three-part series.
 
 ## Introduction

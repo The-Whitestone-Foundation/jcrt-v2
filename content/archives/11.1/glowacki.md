@@ -1,6 +1,7 @@
 ---
 nanoid: "-CS3T-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuskyfcw2s'
 title: "All Things to All People: Unravelling the Structure of the Apostolic Panopticon"
 author: "David R Glowacki"
 affilation:

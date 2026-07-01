@@ -1,6 +1,7 @@
 ---
 nanoid: "oPsJ-7"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurhba7t2v'
 title: >-
   Review – Digital Technologies and Religion in the Postmodern Era (Albert
   McClure)
@@ -21,7 +22,6 @@ tags:
   - technology
   - social
 ---
-
 **Han, Sam. *Technologies of Religion: Spheres of the Sacred in a Post-Secular Modernity*. Routledge Research in Information Technology and Society 19. New York: Routledge, 2016.  **ISBN-10:** 1138855863.  Hardback, e-book.  142 pages.  
 **
 

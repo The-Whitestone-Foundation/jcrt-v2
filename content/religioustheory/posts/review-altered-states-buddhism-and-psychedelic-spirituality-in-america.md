@@ -1,6 +1,7 @@
 ---
 nanoid: "D4PmOD"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurgxncy25'
 title: >-
   Review – Altered States: Buddhism and Psychedelic Spirituality in America
   (Roger Green)
@@ -19,7 +20,6 @@ tags:
   - spirituality
   - experience
 ---
-
 **![buddhabrot](/images/2016/07/buddhabrot.webp)Osto, Douglas. *Altered States: Buddhism and Psychedelic Spirituality in America.* New York: Columbia University Press, 2016. ISNB 10:** **0231177305 Hardcover, e-book. 328 pages.**
 
 In recent years, the amount of published scholarly work on psychedelics, religion, and spirituality has grown enormously. Even so, many writers still feel it necessary to do a rhetorical dance around the taboos shaping the broader public’s association of psychedelics with 1960s counterculture and the law and order rhetoric that accompanied the War on Drugs. This is certainly the case for Douglas Osto’s *Altered States: Buddhism and Psychedelic Spirituality*.

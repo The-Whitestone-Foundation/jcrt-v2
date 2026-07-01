@@ -1,6 +1,7 @@
 ---
 nanoid: "FpdSw2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurej7kh2k'
 title: >-
   Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of
   Contretemps, Part 3 (Daniel Rhodes)
@@ -21,7 +22,6 @@ tags:
   - alternative
   - forgiveness
 ---
-
 *The following is the third installment of a three-part series.  The link to the first portion can be found [here]( /religioustheory/posts/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-1-daniel-rhodes/).  The link to the second is [here]( /religioustheory/posts/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-2-daniel-rhodes/).*
 
 ## Time Renewed: A Theo-Politics of Contretemps

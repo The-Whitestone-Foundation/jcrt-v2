@@ -1,6 +1,7 @@
 ---
 nanoid: "wodqXz"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurf4tj32i'
 title: >-
   Hanging Garlands Of Flowers On The Chains That Bind – Soft Totalitarianism and
   Techno-Rationality (Jeff Appel)
@@ -20,7 +21,6 @@ tags:
   - subject
   - unconscious
 ---
-
 *This article was originally a paper delivered at the conference “Reclaiming the Unconscious – On The Intersection of Psychoanalysis With the Humanities,” October 21-23, at the University of Denver, Denver, Colorado.*
 
 “Our writing tools are also working on our thoughts[^1] .” So wrote — or more precisely, so *typed* — Friedrich Nietzsche in 1882.

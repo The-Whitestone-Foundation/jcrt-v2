@@ -1,6 +1,7 @@
 ---
 nanoid: "dXT7fr"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkura3bj32r'
 title: >-
   The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict,
   Part 2 (Brigid Burke)
@@ -27,7 +28,6 @@ tags:
   - individual
   - influence
 ---
-
 *![](/images/2017/10/ahura-mazda.webp)The following is the second installment of a two-part series. The first installment can be found [here]( /religioustheory/posts/the-mythology-of-afterlife-beliefs-and-their-impact-on-religious-conflict-part-1-brigid-burke/).*
 
 ## Zoroastrianism

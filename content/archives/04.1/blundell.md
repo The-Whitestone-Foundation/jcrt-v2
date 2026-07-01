@@ -1,6 +1,7 @@
 ---
 nanoid: "0YBGLX"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutadxug2a'
 title: "The New Ricoeur Scholarship"
 article_number:
 author: "Boyd Blundell"

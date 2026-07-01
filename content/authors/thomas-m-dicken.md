@@ -1,5 +1,6 @@
 ---
 nanoid: "RBqNjr"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutjoa5q26'
 name: Thomas M Dicken
 affiliation:
 bio:

@@ -1,6 +1,7 @@
 ---
 nanoid: "ooBabQ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3qtux2p'
 title: 'God And Salvation, Lecture 8 (Johannes Zachhuber)'
 description: "This is the eighth lecture in an eight-lecture series. The most recent lecture can be found here. The paper these lectures support is entitled “God, Christ, and"
 date: '2019-04-17T02:32:33.000Z'
@@ -18,7 +19,6 @@ tags:
   - economic
   - religion
 ---
-
 *This is the eighth lecture in an eight-lecture series.  The most recent lecture can be found [here]( /religioustheory/posts/god-as-person-and-trinity-lecture-7-johannes-zachhuber/).*
 
 The paper these lectures support is entitled “God, Christ, and Salvation”, but of these it seems that only the first two are actually addressed. You have heard eight lectures about “God”. So, what about salvation? Is this at all addressed, or is this as an issue simply relegated to the sidelines?

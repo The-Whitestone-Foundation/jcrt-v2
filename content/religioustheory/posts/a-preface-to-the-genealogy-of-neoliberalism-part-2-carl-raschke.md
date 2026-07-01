@@ -1,6 +1,7 @@
 ---
 nanoid: "dEolO2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurgbqh62s'
 title: 'A Preface To The Genealogy of Neoliberalism, Part 2 (Carl Raschke)'
 description: "The following is the second installment of a lecture delivered to the faculty and students of the Research Platform on Religion and Transformation from the"
 date: '2016-08-29T17:47:24.000Z'
@@ -18,7 +19,6 @@ tags:
   - neoliberal
   - social
 ---
-
 *The following is the second installment of a lecture delivered to the faculty and students of the Research Platform on Religion and Transformation from the University of Vienna at Melk Monastery (Austria) on July 26, 2016.  The link to the first installment in* Religious Theory *[can be found here]( /religioustheory/posts/a-preface-to-the-genealogy-of-neoliberalism-part-1-carl-raschke/).  Select portions of this essay appeared earlier in the online publication* [Political Theology Today](http://www.politicaltheology.com/blog)
 
 III.

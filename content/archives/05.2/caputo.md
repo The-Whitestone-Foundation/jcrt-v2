@@ -1,6 +1,7 @@
 ---
 nanoid: "V61Sda"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut4zqqo2k'
 title: "Love Among the Deconstructibles: a Response to Gregg Lambert"
 author: "John D Caputo"
 affilation:

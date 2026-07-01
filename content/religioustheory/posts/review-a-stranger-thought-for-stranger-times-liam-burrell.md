@@ -1,6 +1,7 @@
 ---
 nanoid: "D2__SS"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurcw4su2b'
 title: Review – A Stranger Thought For Stranger Times (Liam Burrell)
 description: "*Smith, Anthony Paul. Laruelle: A Stranger Thought. Cambridge: Polity, 2016. ISBN-10: 0745671233. Hardcover, paperback, e-book Hardcover, paperback, e-book."
 date: '2017-04-06T04:00:49.000Z'
@@ -18,7 +19,6 @@ tags:
   - generic
   - immanence
 ---
-
 **Smith, Anthony Paul. *Laruelle: A Stranger Thought*. Cambridge: Polity, 2016. ISBN-10: 0745671233. Hardcover, paperback, e-book. 240 pages.** 
 
 The reception of François Laruelle’s work in the Anglophone world is the classic case of the outsider, shunned for years after being confined to the margins of his discipline, eventually being recognized for his genius and being heralded as the ‘next big thing’ in philosophy. Laruelle’s work came to prominence mainly through association with the constellation of disciplines that includes Speculative Realism, Accelerationism and new reconfigurations of nihilism and pessimism — a constellation that has become in-vogue of late, arguably for its various conjugations with popular culture, whether that be the TV show *True Detective*, black metal music or internet-based horror fiction. The figures of the outsider, the stranger, the inhuman, the black and uncaring universe and mystical darkness that populate Laruelle’s thought fit neatly into this mainstream of radical theory and it is there that, for the most part, he has stayed.

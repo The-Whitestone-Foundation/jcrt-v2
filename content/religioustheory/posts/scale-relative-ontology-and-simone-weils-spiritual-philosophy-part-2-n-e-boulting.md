@@ -1,6 +1,7 @@
 ---
 nanoid: "L-YjYt"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvusii26'
 title: >-
   “Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 2 (N.E.
   Boulting
@@ -20,7 +21,6 @@ tags:
   - necessity
   - cosmic
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/scale-relative-ontology-and-simone-weils-spiritual-philosophy-part-1-n-e-boulting/).*
 
 ## Simone Weil’s Rejection of “The New Science”

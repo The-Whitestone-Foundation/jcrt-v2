@@ -1,6 +1,7 @@
 ---
 nanoid: "p2TJBH"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzymeo2s'
 title: >-
   Reframing The Adwa Victory As A Decolonizing Praxis –  Discourse Around
   Colonization In The Ethiopian Context, Part 1 (Rode Molla)
@@ -21,7 +22,6 @@ tags:
   - discourse
   - praxis
 ---
-
 ## The following is the first installment of a two-part series.
 
 ## White-Painted Ethiopia Bodies

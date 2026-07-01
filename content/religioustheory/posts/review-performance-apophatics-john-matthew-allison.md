@@ -1,6 +1,7 @@
 ---
 nanoid: "rbApFl"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4eosq23'
 title: Review – Performance Apophatics (John Matthew Allison)
 description: "*Claire Maria Chambers. Performance Studies and Negative Epistemology: Performance Apophatics. Palgrave Macmillan, 2017. Hardback Hardback. It highlights"
 date: '2019-02-07T03:27:46.000Z'
@@ -21,7 +22,6 @@ tags:
   - apophatics
   - theology
 ---
-
 **Claire Maria Chambers. *Performance Studies and Negative Epistemology: Performance Apophatics*. Palgrave Macmillan, 2017. Hardback. 301 pages.**
 
 *Performance Studies and Negative Epistemology: Performance Apophatics* (hereafter *Performance Studies*) is a book about the limits of knowledge. Drawing upon a variety of fields – including performance studies, Christian negative theology, and assorted schools of Continental philosophy – Claire Chambers covers a wide variety of topics, including: the relationship between the Continental philosophy of religion and negative theology (ch. 2); the politics and philosophy of intercultural performance (ch. 3); the nature of archives and the life of Reverend Doctor Florence Li Tim-Oi (ch. 4); a dual Heideggerian-Kierkegaardian mediation of the work of James Baldwin in conjunction with Afropessimist theory (ch. 5); icon writing and the apophatic performativity of objects (ch. 6); learned ignorance in Hindegard of Bingen and Bruno Latour (ch. 7); and an afterwards on “Post-Truth” in relationship to the idea of performance apophatics as a whole.

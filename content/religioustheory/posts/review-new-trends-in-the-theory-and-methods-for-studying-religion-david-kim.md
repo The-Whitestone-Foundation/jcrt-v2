@@ -1,6 +1,7 @@
 ---
 nanoid: "meLG6l"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurebvkj2t'
 title: >-
   Review – New Trends In The Theory And Methods For Studying Religion (David
   Kim)
@@ -20,7 +21,6 @@ tags:
   - historical
   - social
 ---
-
 Kovács, Ábrahám, and James L. Cox, Editors. *New Trends and Recurring Issues in the Study of Religion: Context and Overview*. Budapest: L’Harmattan, 2014. ISBN-10: 9632368509 Hardcover, e-book. 249 pages.
 
 This stimulating volume of ten articles by historians, sociologists and theologians leads readers into the field of “theory and method” for the study of religion. Kovács and Cox regard the phenomenological change and the transformation and development of methodology in the context of Eastern European societies. As most of the articles were keynote addresses presented at the international conference for the European Association for the Study of Religions (EASR) in 2011, *New Trends and Recurring Issues* not only explores the history of European religions in the nineteenth century, but also argues that “the historical circumstances and logistic divisions have tended to separate \[Eastern European\] scholars working in this region from the West\[ern Europe\]” (2) in the twentieth century.

@@ -1,6 +1,7 @@
 ---
 nanoid: "QWnVMJ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurhsvdd2f'
 title: >-
   Review – Badiou’s Conversations About Theatre Offer Light-Hearted And Quirky
   Insight Into Mind Of Philosopher (Ryne Beddard)
@@ -21,7 +22,6 @@ tags:
   - entertainment
   - relationship
 ---
-
 **Badiou, Alain (with Nicolas Truong).  [*In Praise of Theatre*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0745686974.html).  New York: Polity, 2015.  ISBN 10: 978-0-7456-8697-4.   Hardback, paperback, e-book.  90 pages.**
 
 *In Praise of Theatre* is the result of a public conversation which took place between Alain Badiou and Nicolas Truong at the Festival d’Avignon in the summer of 2012 as a part of the “theatre of ideas” series. The short book follows the meandering rhythm of an informal interview rather than a philosophical treatise and readers who are familiar with Badiou by way of his large and occasionally difficult tomes like *Being and Event* and *Logics of Worlds* will find this 87 page work exceptionably approachable.

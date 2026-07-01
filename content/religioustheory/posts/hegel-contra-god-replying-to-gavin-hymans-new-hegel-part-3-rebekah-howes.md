@@ -1,6 +1,7 @@
 ---
 nanoid: "tDJhKt"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqrqoxa26'
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 3 (Rebekah
   Howes)
@@ -21,7 +22,6 @@ tags:
   - educational
   - relation
 ---
-
 *The following is the last of a three-part series. The first can be found [here]( /religioustheory/posts/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-1-rebekah-howes/), the second [here]( /religioustheory/posts/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-2-rebekah-howes/). The earlier article by Prof. Hyman to which the author replies can be found* [*here*]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-3-gavin-hyman/)*.*
 
 In *Hegel Contra Sociology* Rose argued that the negation of critical consciousness was preserved not just as the interminable repetition of antinomy, but as the consciousness that was changed in and by its self-perficient scepticism. She did not rest with Adorno’s dialectics at a standstill, and would not, I think, rest with Hyman’s version of equivocation. Her aim was to find the logic in which the relation of illusion and critique is its own truth, its own form and content. 

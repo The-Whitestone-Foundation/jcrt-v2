@@ -1,6 +1,7 @@
 ---
 nanoid: "_sTc_8"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur64muo22'
 title: >-
   Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part I
   (Kevin Lewis)
@@ -24,7 +25,6 @@ tags:
   - biblical
   - scriptural
 ---
-
 ## The following is the first part in a two-part installment.
 
 Biblical hermeneutics, studied reflection upon interpretation of scriptural passages, has not remained static in method or approach over the centuries. It has manifestly evolved in response to evolving cultural forces generally, as the needs and opportunities of Christian communities have changed and changed again over time. As numerous scholars have observed, the writers of the books of the New Testament are already to be found re-interpreting works of the Hebrew Bible, the “Old” Testament.”

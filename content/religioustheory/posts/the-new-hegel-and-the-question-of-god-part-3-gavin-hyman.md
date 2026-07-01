@@ -1,6 +1,7 @@
 ---
 nanoid: "lTao9S"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur35dyo2k'
 title: 'The “New Hegel” And The Question Of God, Part 3 (Gavin Hyman)'
 description: "The following is the last installment of a three-part series. The first one can be found here. The second one can be found here. As Thomas A As Thomas A."
 date: '2019-06-08T21:04:09.000Z'
@@ -18,7 +19,6 @@ tags:
   - immanence
   - subject
 ---
-
 *The following is the last installment of a three-part series.  The first one can be found [here]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-1-gavin-hyman/).  The second one can be found [here]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-2-gavin-hyman/).*
 
 As Thomas A. Lewis reminds us, the terms ‘God’, ‘spirit’ and ‘Absolute’ are synonymous for Hegel, the specific word used being dependent on the context in question (religion, philosophy and generic, respectively).  This is because philosophy and religion have a common ‘object’, although they are distinguished by the forms in which they are cognized – representation (*Vorstellung*) in the case of religion and self-determining concepts of thought (*Denken*) for philosophy.[^1]  That is to say, the absolute is spirit, the authoritative ‘object’ of all religion and philosophy; God is the representational expression of what philosophy grasps as spirit.[^2]

@@ -1,6 +1,7 @@
 ---
 nanoid: "d0L_AR"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvkzqd2f'
 title: 'Debriefing On Decoloniality – A Public Conversation, Part 2'
 description: "Part 2 continues the debrief transcript, sharpening arguments about decoloniality, epistemic rupture, and institutional practice across regional and The"
 date: '2021-06-22T04:47:14.000Z'
@@ -17,7 +18,6 @@ tags:
   - question
   - community
 ---
-
 *The following is a transcript of a community-wide debriefing by participants for the online conference “*[*Decoloniality and the Disintegration of Cognitive Empire – Rethinking Sovereignty and Territoriality in the 21st Century.”*](https://thenewpolis.com/conferences-and-calls-for-presentations/) *The conference was held April 14-16, 2021 and featured such international luminaries as Walter Mignolo, Catherine Walsh, and Tink Tinker. Because of the length of the conversation, it is in two parts.* *The first part [can be found here]( /religioustheory/posts/debriefing-on-decoloniality-a-public-conversation/)[.](https://thenewpolis.com/2021/06/15/debriefing-on-decoloniality-a-public-conversation/)*
 
 *Participants include Brian Kirn, Suhayb Yunus, Dianna Able, Rachel Foley, Alyssa Putzer, Jared Lacey (University of Denver); Kieryn Wurts (University of Bonn), Joshua Ramos (Houston Community College), Jennifer McCurdy (Iliff School of Theology), Jill Fleishman (Denver CO), Carlos Steinkamp Calandria (Areté Preparatory Academy, Los Angeles).*

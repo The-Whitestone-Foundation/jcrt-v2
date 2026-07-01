@@ -1,6 +1,7 @@
 ---
 nanoid: "AX_ijy"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqy3ggf27'
 title: >-
   The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In
   Adjudicating Competing Ethical Claims, Part 2 (W. Travis McMaken)
@@ -22,7 +23,6 @@ tags:
   - natural
   - contextualism
 ---
-
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/the-ultimate-and-the-penultimate-bonhoeffers-twofold-contextualism-in-adjudicating-competing-ethical-claims-part-1-w-travis-mcmaken/).*
 
 ## Self-Inflicted Death: Bonhoeffer’s Ethic in Action

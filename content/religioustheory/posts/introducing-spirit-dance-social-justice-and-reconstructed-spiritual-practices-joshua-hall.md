@@ -1,6 +1,7 @@
 ---
 nanoid: "SXb1D9"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqrllml2r'
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 1 (Joshua Hall)
@@ -22,7 +23,6 @@ tags:
   - global
   - social
 ---
-
 ## The following is the first of a three-part series.
 
 This project was provoked by the almost nonexistent pushback from the Democratic liberal establishment to the (2020) exoneration of Kyle Rittenhouse, despite his acknowledged killing of two Black Lives Matters protesters against the police murder of George Floyd. It builds on three prior articles arguing for the revival of ancient Dionysian practice, Haitian Vodou, and Indigenous South American shamanism to empower leftist revolution.

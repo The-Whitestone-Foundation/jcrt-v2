@@ -1,6 +1,7 @@
 ---
 nanoid: "2IryRN"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7dax32f'
 title: 'Prayer After The Death Of God, Part I (Ashley [Gay] Graham)'
 description: "> Metaphysics is onto-theo-logy. Someone who has experienced theology in his own roots, both the theology of the Christian faith and that of philosophy, would"
 date: '2018-02-11T20:01:30.000Z'
@@ -18,7 +19,6 @@ tags:
   - presence
   - experience
 ---
-
 ## The following is the first part in a two-part installment.
 
 > Metaphysics is onto-theo-logy. Someone who has experienced theology in his own roots, both the theology of the Christian faith and that of philosophy, would today rather remain silent when speaking in the realm of thinking.

@@ -1,5 +1,6 @@
 ---
 nanoid: "C17tLk"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuuced5z25'
 name: James C. (James Craig) Livingston
 affiliation: "College of William & Mary"
 bio: 

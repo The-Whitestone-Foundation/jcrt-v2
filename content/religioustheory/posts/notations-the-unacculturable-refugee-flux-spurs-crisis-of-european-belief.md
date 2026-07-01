@@ -1,6 +1,7 @@
 ---
 nanoid: "daSSmk"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurjdg5l2i'
 title: >-
   NOTATIONS – The “Unacculturable” – Refugee Flux Spurs Crisis of European
   Belief
@@ -19,7 +20,6 @@ tags:
   - reality
   - religious
 ---
-
 ***Notations is a feature of the JCRT’s*** **Religious Theory** ***weblog.  From time to time we solicit pieces from contributors who are on the scene and able to theorize from the actual site of major world events.  This week we publish a series of contributions from observers and scholars who have witnessed first-hand the European refugee crisis.***
 
 ***

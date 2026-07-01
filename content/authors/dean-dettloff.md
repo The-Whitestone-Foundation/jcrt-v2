@@ -1,5 +1,6 @@
 ---
 nanoid: "5My7S1"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuuj6isg22'
 name: Dean Dettloff
 affiliation: ""
 bio:

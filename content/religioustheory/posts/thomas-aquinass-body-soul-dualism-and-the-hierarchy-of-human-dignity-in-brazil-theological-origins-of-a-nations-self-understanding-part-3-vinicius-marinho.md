@@ -1,6 +1,7 @@
 ---
 nanoid: "5GwPEk"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqv25zd2v'
 title: >-
   Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity In
   Brazil – Theological Origins Of A Nation’s Self-Understanding, Part 3
@@ -21,7 +22,6 @@ tags:
   - rational
   - intellectual
 ---
-
 *The following is the second of a three-part series.The first can be found [here]( /religioustheory/posts/thomas-aquinass-body-soul-dualism-and-the-hierarchy-of-human-dignity-in-brazil-theological-origins-of-a-nations-hierarchical-self-understanding-part-1-vinicius-marinho/)*, *the second [here]( /religioustheory/posts/thomas-aquinass-body-soul-dualism-and-the-hierarchy-of-human-dignity-in-brazil-theological-origins-of-a-nations-self-understanding-part-2-vinicius-marinho/)*.
 
 In sum, Boff proposes that a person is an indivisible body-soul unity who exists in dialogical relations and can transcendence social limitations by loving the socially inferior.

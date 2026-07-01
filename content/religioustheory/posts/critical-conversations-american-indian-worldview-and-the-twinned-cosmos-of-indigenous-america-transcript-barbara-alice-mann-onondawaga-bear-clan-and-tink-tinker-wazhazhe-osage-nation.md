@@ -1,6 +1,7 @@
 ---
 nanoid: "Xk44tB"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwrwud2r'
 title: >-
   Critical Conversations  – American Indian Worldview And The Twinned Cosmos Of
   Indigenous America  (Barbara Alice Mann, Onondawaga, Bear Clan And Tink
@@ -21,7 +22,6 @@ tags:
   - question
   - balance
 ---
-
 *The following is the video and transcript of the fifth “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by  Whitestone Publications and involving indigenous and international scholars. The seminar took place on December 8, 2020*.
 
 **Roger Green**: Hi everybody, my name is Roger Green, and I’m general editor of the New Polis. Thank you for attending today. This is our largest critical conversation so far, so we’re really pleased. I’m also especially pleased because Tink Tinker is my former professor and I chat with Tink all the time — regularly — about the issues that we’re going to be talking about today, Tink and Barbara and I are all contributors to a [new collection on colonialism and the dangers of colonialism to American Indian world](https://rowman.com/ISBN/9781978703728/The-Colonial-Compromise-The-Threat-of-the-Gospel-to-the-Indigenous-Worldview) views, so that’s this forthcoming book edited by Miguel De La Torre.

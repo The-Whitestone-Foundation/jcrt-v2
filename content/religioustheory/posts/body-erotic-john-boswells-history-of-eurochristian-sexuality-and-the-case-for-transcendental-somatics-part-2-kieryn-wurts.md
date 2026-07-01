@@ -1,6 +1,7 @@
 ---
 nanoid: "cOMJ1x"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqrbp4g2a'
 title: >-
   Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case
   For Transcendental Somatics, Part 2 (Kieryn Wurts)
@@ -20,7 +21,6 @@ tags:
   - sexual
   - historical
 ---
-
 *The following is the second of a three-part series.* *The first can be found [here]( /religioustheory/posts/body-erotic-john-boswells-history-of-eurochristian-sexuality-and-the-case-for-transcendental-somatics-part-1-kieryn-wurts/)*.
 
 Social constructionist theory developed as an answer to essentialist theories of sexuality and sought to demonstrate the variety and complexity of approaches to sex, reproduction, love gender, and marriage have been throughout human history. Michel Foucault’s *History of Sexuality* series and Judith Butler’s *Gender Trouble* are two significant and rather famous texts in this tradition.

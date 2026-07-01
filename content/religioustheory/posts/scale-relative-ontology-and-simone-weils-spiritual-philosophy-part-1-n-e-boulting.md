@@ -1,6 +1,7 @@
 ---
 nanoid: "isgugN"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvxbao2a'
 title: >-
   “Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 1 (N.E.
   Boulting)
@@ -21,7 +22,6 @@ tags:
   - philosophy
   - theory
 ---
-
 ## The following is the first of a two-part series.
 
 Can the debilitating effects of Scientism – identifying knowledge solely “with science” – be overcome? To answer that question, Simone Weil’s treatment of her three historical categories – Greek Science, Classical Science and Contemporary Science – can be compared to Don Ross’s conception of ‘Scale Relative Ontology’ – how we “track the world” depends upon the cognitive scale used to measure it – in *Every Thing Must Go.* Scale Relative Ontology can then be used to identify the cosmological dimension, ‘the common sense world’, and a scientistic stance. Given a comparison between these three dimensions in each case, implications for her spiritual philosophy can be explored.

@@ -1,6 +1,7 @@
 ---
 nanoid: "qN4xzA"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurb5fml2v'
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 2 (Carl Raschke)
@@ -22,7 +23,6 @@ tags:
   - theory
   - capitalism
 ---
-
 *This article is the second of three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk Conference Center (Stift Melk, Austria) sponsored by the [Religion and Transformation in Contemporary Society Platform at the University of Vienna](http://sowi.univie.ac.at/en/research/research-platforms/religion-and-transformation-in-contemporary-society/) (June 27, 2017). The [first installment can be found here]( /religioustheory/posts/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-1-carl-raschke/). The final one will be published on July 18.* 
 
 However, it is not only money that presents itself as the new face of tyranny in serving to “dispossess” subjects of their own activity via the machinery of symbolization, virtualization, and de-materialization.  If the virtualization of finance had a lot to do, as most analysts agree, with the Great Recession that started in the fall of 2008, the digitization and proliferation of personalized media has been a driving force in the degeneration of politics into low-boil civil war.  Standard critiques of neoliberalism, especially since the instant media sensation that came to be known as the Occupy movement in September 2011, have focused on the heightened maldistribution of wealth and traced the current malaise to a revival of a predatory capitalism not seen since the 1890s.

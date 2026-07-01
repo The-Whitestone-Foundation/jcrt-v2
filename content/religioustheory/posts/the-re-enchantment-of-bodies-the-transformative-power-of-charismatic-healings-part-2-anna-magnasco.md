@@ -1,6 +1,7 @@
 ---
 nanoid: "VyYe5v"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqq74sy25'
 title: >-
   The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic
   Healings, Part 2 (Anna Magnasco)
@@ -21,7 +22,6 @@ tags:
   - spiritual
   - therapeutic
 ---
-
 *The following is the first of a two-part series. The first installment can be found [here]( /religioustheory/posts/the-re-enchantment-of-bodies-the-transformative-power-of-charismatic-healings-part-1-anna-magnasco/). It was originally published in issue [22.1](https://jcrt.org/archives/22.1/) of the Journal for Cultural and Religious Studies*.
 
 ## The offer of the Pentecostal churches

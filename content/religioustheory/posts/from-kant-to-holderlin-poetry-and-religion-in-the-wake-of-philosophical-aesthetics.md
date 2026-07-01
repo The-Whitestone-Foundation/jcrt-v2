@@ -1,6 +1,7 @@
 ---
 nanoid: "j_VtKQ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3lyxn27'
 title: >-
   From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical
   Aesthetics, Part 1 (Jakob Deibl)
@@ -22,7 +23,6 @@ tags:
   - philosophy
   - intuition
 ---
-
 *The following is the first installment of a three-part series.  Translated by Philipp Schlögl.*
 
 ## Introductory Remarks

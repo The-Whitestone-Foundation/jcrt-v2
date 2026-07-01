@@ -1,6 +1,7 @@
 ---
 nanoid: "ipTACN"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdh3x622'
 title: >-
   The Bell Jar’s New Look – Sylvia Plath, Simone De Beauvoir, And The Visual
   Representation Of Feminist Discourse (Madeline Yonker)
@@ -20,7 +21,6 @@ tags:
   - edition
   - rhetoric
 ---
-
 *The following article is republished from an earlier edition of The Journal for Cultural Theory.  The link to the original article [can be found here](https://jcrt.org/archives/14.1/yonker.pdf).*
 
 In early 2013, Sylvia Plath’s *The Bell Jar*  was reissued by Farber and Farber in celebration of the book’s 50th  anniversary. The shiny new cover features a striking red background with the profile of a white woman’s face and arms. She holds a compact mirror and is in the middle of applying powder to her chin.

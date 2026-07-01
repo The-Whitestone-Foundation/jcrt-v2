@@ -1,6 +1,7 @@
 ---
 nanoid: "4BGcwc"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqst5lw2s'
 title: >-
   Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H.
   Long, Part 1 (Mehnaz Afridi)
@@ -22,7 +23,6 @@ tags:
   - colonial
   - ontology
 ---
-
 *The following is the first of a two-part series. The full article is published in the spring 2022 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org)*.*
 
 *“America never EVER happened… we just believe in the idea that America has happened”*

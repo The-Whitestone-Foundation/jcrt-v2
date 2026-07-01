@@ -1,6 +1,7 @@
 ---
 nanoid: "uChzaq"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsoead2v'
 title: >-
   Embodiment – A Conference On The Crisis In Contemporary Theory And The
   Humanities (Announcement)
@@ -22,7 +23,6 @@ tags:
   - cultural
   - religious
 ---
-
 ### **September 28-29**, 2022
 
 #### **An International and Interdisciplinary Synchronous Online Conferenc**e

@@ -1,6 +1,7 @@
 ---
 nanoid: "TXwxDa"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurmtdeq26'
 title: "The Sacred End: Exploring the Ethical Practice of SallekhanĀ in Jaina Tradition"
 author: "Nisha Daga; George Kodimattam Joseph"
 affilation:

@@ -1,6 +1,7 @@
 ---
 nanoid: "EM_qEq"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurflohf27'
 title: Review – Whence and Whither Posthumanism? (Bo Eberle)
 description: "*White, Ryan. The Hidden God: Pragmatism and Posthumanism in American Thought. New York: Columbia University Press, 2015. ISBN-10: 0231171005 Hardcover, e-book."
 date: '2016-10-06T08:00:49.000Z'
@@ -17,7 +18,6 @@ tags:
   - theory
   - pragmatism
 ---
-
 **White, Ryan. *The Hidden God: Pragmatism and Posthumanism in American Thought.* New York: Columbia University Press, 2015. ISBN-10: 0231171005. Hardcover, e-book. 248 pages.** 
 
 Ryan White’s *The Hidden God: Pragmatism and Posthumanism in American Thought* (Columbia University Press, 2015) sets for itself a rather Herculean task of coherently discussing perhaps the sole concept that is unavailable for conceptual analysis: God. As the title suggests, White attempts to signal his readers in the direction of an exclusion or an absence that draws a thread between what might be otherwise considered disparate American voices: Jonathan Edwards, Ralph Waldo Emerson, and Charles Sanders Peirce. For each of them White gives intensely nuanced readings (sometimes of overlooked or minor works) to find the hidden “thing” that acts as the impetus for these figures’ creative (and sometimes intensely logical) work.

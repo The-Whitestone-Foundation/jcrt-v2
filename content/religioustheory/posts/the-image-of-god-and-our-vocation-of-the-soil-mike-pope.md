@@ -1,6 +1,7 @@
 ---
 nanoid: "haHtfr"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpqe4d2r'
 title: 'The Image of God and Our Vocation of the Soil, Part 1 (Mick Pope)'
 description: "Earth history has entered a new geological era known as the Anthropocene. The commonly agreed origin of this era was the 1950s with the “Great Acceleration,” a"
 date: '2024-05-03T22:51:43.000Z'
@@ -17,7 +18,6 @@ tags:
   - environmental
   - holiness
 ---
-
 ## The article is published in two installments.
 
 ## Agriculture and the Anthropocene

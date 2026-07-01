@@ -1,5 +1,6 @@
 ---
 nanoid: "wS03uS"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutzcc4622'
 name: Magdalena Sedmak
 affiliation:
 bio:

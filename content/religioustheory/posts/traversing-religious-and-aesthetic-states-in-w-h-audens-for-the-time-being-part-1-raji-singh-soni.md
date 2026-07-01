@@ -1,6 +1,7 @@
 ---
 nanoid: "2SryJK"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurayka62k'
 title: >-
   Traversing W.H. Auden’s Religious And Aesthetic States, Part 1 (Raji Singh
   Soni)
@@ -20,7 +21,6 @@ tags:
   - aesthetic
   - commentary
 ---
-
 *The following is part one of an article that will be published in three successive installments.*
 
 > TRINCULO   Servant-monster! The folly of this island! They

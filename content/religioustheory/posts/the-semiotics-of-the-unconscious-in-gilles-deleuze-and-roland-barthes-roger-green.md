@@ -1,6 +1,7 @@
 ---
 nanoid: "_CPCEk"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuregpro2s'
 title: >-
   The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 1
   (Roger Green)
@@ -23,7 +24,6 @@ tags:
   - difference
   - france
 ---
-
 ## The following is the first of a two-part series.
 
 In his preface to Deleuze and Guattari’s *Anti-Oedipus*, Michel Foucault asks the authors’ forgiveness for describing their book as the first book of ethics written in France in a long time.  As the chair of philosophy at the newly founded [*Centre Expérimental de Vincennes*](https://en.wikipedia.org/wiki/Paris_VIII) (University of Paris VIII), which had been founded in the wake of the 1968 student protests, Foucault had helped secure a position for his friend Gilles Deleuze and Deleuze’s soon-to-be writing collaborator, Felix Guattari.

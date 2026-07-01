@@ -1,6 +1,7 @@
 ---
 nanoid: "vPK2fo"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3tdy32i'
 title: 'God As Person and Trinity, Lecture 7 (Johannes Zachhuber)'
 description: "The following is the seventh lecture in an eight-lecture series. The most recent one can be found here. The possibility that God is person has often been"
 date: '2019-04-10T10:23:29.000Z'
@@ -19,7 +20,6 @@ tags:
   - theology
   - important
 ---
-
 *The following is the seventh lecture in an eight-lecture series. The most recent one can be found [here]( /religioustheory/posts/god-and-language-lecture-6-johannes-zachhuber/).*
 
  The possibility that God is person has often been denied. It has been pointed out that the concept of person in order to make sense to us needs limitations which we wouldn’t not willingly ascribe to God. Thus, the early 19th century philosopher Johann Gottlob Fichte asks rhetorically:

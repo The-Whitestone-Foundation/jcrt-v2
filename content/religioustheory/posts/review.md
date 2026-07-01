@@ -1,6 +1,7 @@
 ---
 nanoid: "H8CrpI"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdeplh2k'
 title: Review – Theologies of the Boss (James Cochran)
 description: "*Yadin-Israel, Azzan. The Grace of God and the Grace of Man: The Theologies of Bruce Springsteen. Highland Park: Lingua Press, 2016. ISBN-10: 0692718516"
 date: '2017-03-02T08:00:29.000Z'
@@ -17,7 +18,6 @@ tags:
   - religious
   - spiritual
 ---
-
 **Yadin-Israel, Azzan. *The Grace of God and the Grace of Man: The Theologies of Bruce Springsteen.* Highland Park: Lingua Press, 2016. ISBN-10: 0692718516. 202 pages. Paperback, e-book.**
 
 Azzan Yadin-Israel’s *The Grace of God and the Grace of Man: The Theologies of Bruce Springsteen* explores the theological development of Bruce Springsteen’s songs. Yadin-Israel’s book follows an increased critical interest in the religious dimensions of Springsteen’s songs during the last decade. Arguably, the most important theologian to consider Springsteen’s work is Andrew Greeley, who, in *The Catholic Imagination*, argues persuasively that a Catholic worldview informs Springsteen’s lyrics. Likewise, in “The Gospel According to Bruce,” Jerry H. Gill, examining Springsteen’s lyrics as parables, argues that the songs do not necessarily contain explicit references to God, but the songs speak to encounters of divine love and grace within a contemporary context. The critical conversation surrounding Springsteen shows no signs of slowing down with the establishment of *BOSS: The Bi-Annual Journal of Springsteen Studies* in 2014.

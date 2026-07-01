@@ -1,6 +1,7 @@
 ---
 nanoid: "ditkq5"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqw6i2q26'
 title: >-
   Critical Conversations 9 – Economic Theology And The Indebtedness Of Everyday
   Life (Announcement)
@@ -23,7 +24,6 @@ tags:
   - religion
   - critical
 ---
-
 *Participants are invited to join us live in the ninth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. You may sign up through the registration link below.*
 
 *All Critical Conversations will be recorded and republished along with edited transcripts.*  *A related critical conversation on Neoliberalism and Political Theology can be watched [here.](https://thenewpolis.com/2021/01/03/critical-conversations-2020-and-the-catastrophe-of-the-global-neoliberal-order-critical-conversation-4/)*

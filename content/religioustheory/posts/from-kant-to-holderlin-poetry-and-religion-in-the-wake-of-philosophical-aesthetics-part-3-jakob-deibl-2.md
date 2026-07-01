@@ -1,6 +1,7 @@
 ---
 nanoid: "QJgBqS"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3ep7a25'
 title: >-
   From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical
   Aesthetics, Part 3 (Jakob Deibl)
@@ -21,7 +22,6 @@ tags:
   - mediation
   - necessity
 ---
-
 *The following is the second installment of a three-part series.  The first one can be found [here,]( /religioustheory/posts/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics/) the second one [here]( /religioustheory/posts/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics-part-3-jakob-deibl/). Translated by Philipp Schlögl.*
 
 ## Poetry and Religion: Fragment of Philosophical Letters

@@ -1,6 +1,7 @@
 ---
 nanoid: "lGr21e"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur42udg2k'
 title: >-
   “Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human
   Skin, Part 2 (Tink Tinker, wazhazhe udsethe)
@@ -20,7 +21,6 @@ tags:
   - historical
   - colonial
 ---
-
 *The following is the second of a three-part series.  The first installation can be found [here]( /religioustheory/posts/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe-part-1/).  The article in full originally appeared in The New Polis in January, 2019.*
 
 ## Trans Allegheny Frontier Enclaves

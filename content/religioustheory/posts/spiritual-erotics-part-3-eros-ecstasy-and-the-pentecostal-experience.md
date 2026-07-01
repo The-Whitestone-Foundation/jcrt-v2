@@ -1,6 +1,7 @@
 ---
 nanoid: "5gJmM6"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurisjzl2f'
 title: 'Spiritual Erotics, Part 3 – Eros, Ecstasy, and the Pentecostal Experience'
 description: "In the first installment of this three-part book preview of my forthcoming work on machismo in Latino culture I explored the role of the new, and “hot”"
 date: '2016-04-13T01:12:35.000Z'
@@ -19,7 +20,6 @@ tags:
   - spirituality
   - erotic
 ---
-
 In [the first installment]( /religioustheory/posts/spiritual-erotics-affect-theory-and-the-transformation-of-machismo-among-latino-pentecostal-men-part-1/) of this three-part book preview of my forthcoming work on machismo in Latino culture I explored the role of the new, and “hot”, methodology of affect theory as a lens through which to achieve a radical, new set of insights about a somewhat contested phenomenon.  In [the second part]( /religioustheory/posts/spiritual-erotics-part-2-the-nature-and-history-of-machismo-and-its-feminine-counterpart-as-marianismo/) I discussed the nature and history of machismo and its relationship to Marianismo, its feminine counterpart.  In this third, and final, essay I talk about the meaning of the concept of *spiritual erotics* itself, and how it serves to frame the problem of machismo.  I conclude with a brief effort to contextualize my research with respect to other current literature.
 
 In my forthcoming book I argue that machismo is a myth, not a fiction, that is, an authoritative religious script for human behavior that is authorized by notions of the sacred—a gendered order of divine creation. As such, it is intimately bound up with the regulation and maintenance of “sexuality,” what Michel Foucault describes as “rules and norms,” supported by “religious, judicial, pedagogical, and medical institutions.”[^1] Yet, like other religious beliefs, machismo mandates its own transgression.

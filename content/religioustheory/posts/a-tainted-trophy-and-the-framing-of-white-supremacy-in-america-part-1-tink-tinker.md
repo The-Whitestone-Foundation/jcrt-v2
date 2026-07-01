@@ -1,6 +1,7 @@
 ---
 nanoid: "5pvnAQ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsefut2v'
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 1 (Tink
   Tinker)
@@ -22,7 +23,6 @@ tags:
   - narrative
   - theology
 ---
-
 *The following is the first of a three-part series. The entire article appears in the fall 2022 issue of [The New Polis Journal.](http://journal.thenewpolis.com/)*
 
 > “…a great many of the inhabitants of the fronteers (sic) consider the murdering of the Indians in the highest degree meritorious.”[^1] –indiana governor william henry harrison (1801)

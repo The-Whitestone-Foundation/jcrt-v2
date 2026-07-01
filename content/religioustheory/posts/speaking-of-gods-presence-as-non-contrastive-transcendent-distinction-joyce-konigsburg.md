@@ -1,6 +1,7 @@
 ---
 nanoid: "s2SBXf"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur2r7kj2t'
 title: >-
   Speaking Of God’s Presence As Non-Contrastive Transcendent Distinction (Joyce
   Konigsburg)
@@ -21,7 +22,6 @@ tags:
   - distinction
   - immanence
 ---
-
 To speak or not to speak of God is an important yet rather uncomfortable question that participants encounter during interreligious and interdisciplinary dialogue. Several Eastern religions, philosophers, and scientists claim God is either non–existent, absent, or “dead” in relation to the cosmos. Conversely, other faiths believe God’s absolute presence embraces everything.
 
 For Abrahamic traditions, God indeed is present to the universe yet the divine also is transcendent; the Creator is wholly other than creation. Nevertheless, divine otherness epistemologically implies that the Creator is absent and unknowable to creation. Discussions about God’s presence and absence likewise become complicated because imperfect human language is incapable of explaining God’s ontological distinction. Apophatic theology recognizes humanity’s reasoning and language limits in the struggle to articulate divine incomprehensibility.

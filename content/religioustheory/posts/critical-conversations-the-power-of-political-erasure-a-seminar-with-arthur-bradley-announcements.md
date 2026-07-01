@@ -1,6 +1,7 @@
 ---
 nanoid: "Trcr2f"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqtr4cm2b'
 title: >-
   Critical Conversations – The Power Of “Political Erasure”, A Seminar With
   Arthur Bradley (Announcements)
@@ -25,7 +26,6 @@ tags:
   - hegemony
   - subject
 ---
-
 *Sign up for this online seminar with distinguished British political philosopher Arthur Bradley on the compelling and most timely issue of “political erasure.*“
 
 **When?** Thursday, March 10, 10:00-12:00 am Mountain Standard Time, 17:00 to 19:00 Greenwich Mean Time, 18:00-20:00 Central European Time

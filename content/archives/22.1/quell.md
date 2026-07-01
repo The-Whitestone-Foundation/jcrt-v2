@@ -1,6 +1,7 @@
 ---
 nanoid: "0GR-Gv"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurp5uud2f'
 title: "De(Ma)Cracy"
 author: "Philipp Quell"
 affilation:

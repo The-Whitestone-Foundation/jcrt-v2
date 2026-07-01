@@ -1,6 +1,7 @@
 ---
 nanoid: "ljg8at"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuraez4e2b'
 title: >-
   Slow Journalism? Ethnography as a Means of Understanding Religious Social
   Activism, Part 2 (James V. Spickard)
@@ -24,7 +25,6 @@ tags:
   - social
   - reflexive
 ---
-
 *The following is a talk presented at the Weatherhead Center for International Affairs, Harvard University, and is the second installment of a two-part series. The first installment can be found [here]( /religioustheory/posts/slow-journalism-ethnography-as-a-means-of-understanding-religious-social-activism-part-1-james-v-spickard/).*
 
 ## II. Epistemological Musings

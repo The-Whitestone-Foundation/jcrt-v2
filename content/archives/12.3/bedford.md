@@ -1,6 +1,7 @@
 ---
 nanoid: "EdI39e"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusfzsww2k'
 title: "Beyond the 2008 Financial"
 author: "Gary Bedford"
 affilation:

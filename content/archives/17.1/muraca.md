@@ -1,6 +1,7 @@
 ---
 nanoid: "w72INe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkus3wam62s'
 title: "Theology as the Practice of (Radical) Alternatives: a Choreographic Encounter with Cloud of the Impossible."
 author: "Barbara Muraca"
 affilation:

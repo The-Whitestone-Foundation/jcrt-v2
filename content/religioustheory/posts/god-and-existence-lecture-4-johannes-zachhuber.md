@@ -1,6 +1,7 @@
 ---
 nanoid: "F3EyBP"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur54uyt2r'
 title: 'God And Existence, Lecture 4 (Johannes Zachhuber)'
 description: "The following is the fourth lecture in an eight-part lecture series. Readers can also refer to lectures one, two, and three It highlights key arguments"
 date: '2018-08-29T17:34:34.000Z'
@@ -18,7 +19,6 @@ tags:
   - theological
   - fundamental
 ---
-
 *The following is the fourth lecture in an eight-part lecture series.  Readers can also refer to lectures [one]( /religioustheory/posts/thinking-about-god-in-a-pluralistic-world-the-challenge-of-modern-theology-lecture-1-johannes-zuchaber/), [two]( /religioustheory/posts/the-critique-of-theism-kant-hegel-feuerbach-nietzsche-lecture-2-johannes-zachhuber/), and [three]( /religioustheory/posts/negative-theology-and-its-problems-barth-and-marion-lecture-3-johannes-zachhuber/).*
 
 The first thing to be clarified in today’s lecture is the meaning of its title. What could it mean to relate God and existence, and what sense does this make? Surely, theology is in any case about the ‘existence’ of God? Do we not, for example, speak about arguments for the existence of God?

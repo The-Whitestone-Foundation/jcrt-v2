@@ -1,6 +1,7 @@
 ---
 nanoid: "otwYzk"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutfp3ud2v'
 title: "Difference and Repetition"
 article_number:
 author: "Oz Lorentzen"

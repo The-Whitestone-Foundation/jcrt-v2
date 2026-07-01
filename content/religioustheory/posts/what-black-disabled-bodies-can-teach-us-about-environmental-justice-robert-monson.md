@@ -1,6 +1,7 @@
 ---
 nanoid: "q5DuaW"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpiv2g2k'
 title: >-
   What Black Disabled Bodies Can Teach Us About Environmental Justice (Robert
   Monson)
@@ -20,7 +21,6 @@ tags:
   - religious
   - christianity
 ---
-
 As early as 2014, governmental officials in the city of Flint, Michigan made a series of decisions that would prove to have deleterious effects on the people and environment of Flint. As officials sought to make room in the budget, they decided to switch the city’s water supply to the polluted Flint River without a plan to treat the water appropriately. The fallout from citizens being poisoned has largely impacted the city’s Black population in disastrous ways. In fact, one study has found that: 
 
 Analyzing health records from 2008 to 2015, researchers found that fertility rates in Flint dropped by 12 percent and fetal deaths rose by 58 percent after the water was switched to the Flint River in 2014. Additionally, babies who were born at full-term during the water crisis had lower birth weights. The lead exposure also increased the risk of hypertension for pregnant women and may have interfered with their choice of whether or not to breastfeed. Moreover, the health effects of lead exposure in children in Flint increased the risk of impaired cognition, behavioral disorders, hearing problems and delayed puberty.”[^1]

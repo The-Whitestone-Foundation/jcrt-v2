@@ -1,6 +1,7 @@
 ---
 nanoid: "u8zwXi"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurjftg62k'
 title: 'NOTATIONS – Agamben’s Homo Sacer, Refugees, and the Crisis of European Values'
 description: "This Notations essay reads refugee politics through Agamben's Homo Sacer, examining sovereignty, exception, and the moral crisis revealed by Europe's border"
 date: '2016-03-03T17:19:55.000Z'
@@ -17,7 +18,6 @@ tags:
   - question
   - territory
 ---
-
 ***Notations is a feature of the JCRT’s*** **Religious Theory** ***weblog.  From time to time we solicit pieces from contributors who are on the scene and able to theorize from the actual site of major world events.  This week we publish a series of contributions from observers and scholars who have witnessed first-hand the European refugee crisis.***
 
 ***

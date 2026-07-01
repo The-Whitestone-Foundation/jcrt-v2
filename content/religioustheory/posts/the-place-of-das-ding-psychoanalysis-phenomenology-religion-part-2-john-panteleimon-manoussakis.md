@@ -1,6 +1,7 @@
 ---
 nanoid: "2TzjSG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdjk3a26'
 title: >-
   The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 2 (John
   Panteleimon Manoussakis)
@@ -22,7 +23,6 @@ tags:
   - story
   - philosophy
 ---
-
 *The following is the second installment of a two-part series.  The first part can be found [here]( /religioustheory/posts/the-place-of-das-ding-psychoanalysis-phenomenology-religion-part-1-john-panteleimon-manoussakis/).*
 
 ## The Place of das Ding.

@@ -1,6 +1,7 @@
 ---
 nanoid: "eVTiUu"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutdl52l2v'
 title: "God, the Gift, and Postmodernism"
 article_number:
 author: "Jeffrey W Robbins"

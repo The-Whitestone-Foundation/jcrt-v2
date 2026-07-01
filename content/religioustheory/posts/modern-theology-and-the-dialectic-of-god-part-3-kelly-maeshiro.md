@@ -1,6 +1,7 @@
 ---
 nanoid: "m2sTgv"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwklqa23'
 title: 'Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)'
 description: "The following is the third of a four-part series. The first can be found here, the second here. Philosophically speaking, Hegel’s Absolute idealism represented"
 date: '2021-02-22T16:53:48.000Z'
@@ -19,7 +20,6 @@ tags:
   - philosophy
   - christianity
 ---
-
 *The following is the third of a four-part series. The first can be found [here]( /religioustheory/posts/modern-theology-and-the-dialectic-of-god-part-1-kelly-maeshiro/)*, *the second [here]( /religioustheory/posts/modern-theology-and-the-dialectic-of-god-part-2-kelly-maeshiro/).*
 
 Philosophically speaking, Hegel’s Absolute idealism represented another step past Kantian idealism downward from heaven. We have already remarked upon the manner in which Kantian idealism represented a metaphysical descent from traditional speculative metaphysics, a step from heaven to earth which recapitulated the logic of Incarnation, or God’s own descent from the misty realms of heaven toward earth. Hegel’s absolute idealism represents a further step in the same direction, beyond Kant’s transcendental idealism. It was, in a word, more *immanent* than Kantian idealism.

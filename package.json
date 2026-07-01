@@ -22,6 +22,7 @@
     "sequoia:publish": "npm run sequoia:stage && npm run sequoia:publication && npx -y sequoia-cli publish && node scripts/apply-sequoia-records.mjs",
     "sequoia:sync": "npm run sequoia:stage && npx -y sequoia-cli sync --update-frontmatter && node scripts/apply-sequoia-records.mjs",
     "sequoia:records": "node scripts/apply-sequoia-records.mjs",
+    "atproto:frontmatter": "node scripts/apply-atproto-frontmatter.mjs",
     "oai:validate": "npm run oai:validate:full",
     "oai:validate:quick": "cross-env OAI_VALIDATE_LEVEL=quick node scripts/validate-oai-pmh.mjs",
     "oai:validate:full": "cross-env OAI_VALIDATE_LEVEL=full node scripts/validate-oai-pmh.mjs",

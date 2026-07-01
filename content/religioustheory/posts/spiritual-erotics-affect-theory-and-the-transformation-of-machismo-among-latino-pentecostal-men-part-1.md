@@ -1,6 +1,7 @@
 ---
 nanoid: "V6aI3o"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurj4at622'
 title: >-
   Spiritual Erotics, Part 1 – Affect Theory and the Transformation of Machismo
   Among Latino Pentecostal Men
@@ -22,7 +23,6 @@ tags:
   - religion
   - religious
 ---
-
 *From time to time Religious Theory (RT) invites well-known academic authors to outline current book projects that have not yet been published.  This article, released in three parts, reflects a recent talk by Prof. Luis Leon, a well-known author of several key books on the theory of Latino religions and borderlands theory.*
 
 On April 15, 2013, the cover story of *Time* magazine declared that Latino evangelicals and Pentecostals were “transforming religion in America.” [^1] While there has been considerable research on Pentecostal conversion in Latin America, there has been little written on Pentecostalism among Latina/os in the United States.[^2] According to a study released in 2014 conducted by the Pew Research Center, sixteen percent of Hispanics in the U. S. are evangelical and Pentecostal.

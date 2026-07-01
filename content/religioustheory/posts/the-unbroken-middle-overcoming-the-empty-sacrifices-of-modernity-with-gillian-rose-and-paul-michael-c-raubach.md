@@ -1,6 +1,7 @@
 ---
 nanoid: "-y05ms"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuquj6ya26'
 title: >-
   The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian
   Rose And Paul, Part 1 (Michael C. Raubach)
@@ -24,7 +25,6 @@ tags:
   - modernity
   - ritual
 ---
-
 ## The following is the first of a two-part series.
 
 In her 1992 masterpiece, *The Broken Middle*, the philosopher Gillian Rose explored what she saw as a baleful crisis of ethics in modern political discourse playing itself out in the malaise and violence of contemporary urban life. Rose believed the root of this crisis was a ‘diremption’ between ethics and metaphysics; a misrecognition in which both became blind to the mutual implication of each other in political life and theory. This split was instantiated by a fracture in the language of philosophy and theology, and in the broad institutional failures – indeed, the inherent violence ­– of contemporary political regimes.

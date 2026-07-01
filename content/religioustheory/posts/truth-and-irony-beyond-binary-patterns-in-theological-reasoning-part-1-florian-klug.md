@@ -1,6 +1,7 @@
 ---
 nanoid: "NlFXz6"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvinrg2k'
 title: >-
   Truth And Irony –  Beyond Binary Patterns In Theological Reasoning, Part 1
   (Florian Klug)
@@ -23,7 +24,6 @@ tags:
   - salvation
   - philosophical
 ---
-
 *The following is the first of a three-part series.* *It will appear as a full article in the Fall 2021 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org).
 
 ## Introduction

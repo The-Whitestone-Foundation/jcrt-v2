@@ -1,6 +1,7 @@
 ---
 nanoid: "9yUFmZ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqtjjby23'
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 1 (Rode Molla)
@@ -24,7 +25,6 @@ tags:
   - theological
   - theology
 ---
-
 ## The following is the first of a three-part series.
 
 *The Ethiopian Evangelical Church Mekane Yesus: Simultaneously Western and Indigenous*

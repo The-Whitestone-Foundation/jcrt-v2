@@ -1,6 +1,7 @@
 ---
 nanoid: "o3OjBt"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5lddf27'
 title: >-
   Negative Theology And Its Problems: Barth And Marion, Lecture 3 (Johannes
   Zachhuber)
@@ -24,7 +25,6 @@ tags:
   - revelation
   - religion
 ---
-
 *The following is the third lecture in an eight-lecture series.* 
 
 I have described in last week’s lecture how, during the 19th century, some serious challenges arose to theological thinking about God. I have not included in this account cases of pure materialism or atheism which consist in little more than a denial of traditional claims about the existence of God. The four major figures I looked at (i.e. Kant, Hegel, Feuerbach, and Nietzsche) all have this in common that, while criticising some crucial elements of traditional theology, they can be read as directing Christians away from theological misconceptions and towards a more appropriate, somehow purer conceptualisation of their notion of God.

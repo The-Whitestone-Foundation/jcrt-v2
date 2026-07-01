@@ -1,6 +1,7 @@
 ---
 nanoid: "jwLuHv"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqq4ny32v'
 title: 'Sikhs As Subalterns – Voice, Inequality, and Power, Part 1 (Nirvikar Singh)'
 description: "The following article is the first of three installments. It is published as a catalogued .PDF in article in the latest issue of the Journal for Cultural and"
 date: '2024-01-10T16:51:29.000Z'
@@ -18,7 +19,6 @@ tags:
   - evolution
   - religious
 ---
-
 *The following article is the first of three installments.* *It is [published](https://jcrt.org/archives/22.2/Singh.pdf) as a catalogued .PDF in article in the latest issue of the* Journal for Cultural and Religious Theory ([22.2](https://jcrt.org/archives/22.2/)).
 
 ## Introduction

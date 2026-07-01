@@ -1,6 +1,7 @@
 ---
 nanoid: "CM_o4_"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7mwqq23'
 title: >-
   Review – Hear No Evil, See No Evil, Speak No Evil: Negative Reactions to the
   Jewish Pre- and Post-Holocaust (Madison Tarleton)
@@ -20,7 +21,6 @@ tags:
   - historical
   - collection
 ---
-
 ***Antisemitism Before and Since the Holocaust: Altered Contexts and Recent Perspectives.***  **Basingstoke United Kingdom: Palgrave Macmillan, 2017. Hardcover, Paperback, E-book, ix + 406 pages.**
 
 Anthony McElligott and Jeffrey Herf’s edited collection *Antisemitism Before and Since the Holocaust* grew out of an idea born at the conference on Antisemitism and Holocaust Denial held by the Holocaust Education Trust Ireland in November of 2010, and is the culmination of their subsequent years of work and research. Esteemed professor in Germanic twentieth century history, Anthony McElligott has worked extensively with scholars and experts in Holocaust studies. His co-editor, Jeffrey Herf, is an American Historian as well as a distinguished professor of modern Europe – specifically Germany. Their shared interest in Holocaust studies welcomed the collaboration on an edited anthology focusing on antisemitism (13).

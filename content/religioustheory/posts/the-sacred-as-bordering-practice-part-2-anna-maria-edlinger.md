@@ -1,6 +1,7 @@
 ---
 nanoid: "2EZqNf"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqe4ef27'
 title: 'The Sacred As Bordering Practice, Part 2 (Anna-Maria Edlinger)'
 description: "The following is the second of a two-part series. The first portion can be found here. It was originally published in issue 22.1 of the Journal for Cultural and"
 date: '2023-11-13T16:11:04.000Z'
@@ -21,7 +22,6 @@ tags:
   - religion
   - politics
 ---
-
 *The following is the second of a two-part series. The first portion can be found [here.]( /religioustheory/posts/the-sacred-as-bordering-practice-part-1-anna-maria-edlinger/) It was originally published in issue [22.1](https://jcrt.org/archives/22.1/) of the Journal for Cultural and Religious Studies.*
 
 On a national level, a phrase that is oftentimes used in the last years to describe the change of the political landscape in Europe and globally is “shift to the right.” In any case, right-wing parties in EUrope have been quite vocal about their views on immigration and how it has affected society since 2015. They represent just one part of the political spectrum of the EU, however they have gained electorates or even won important elections since 2015 (in Austria, Italy, Sweden or Hungary for example). For the question of the interaction between EU borders and religion, it is worth it to glance at some right-wing interpretations about the in- and the outgroup since they have been present in discourse about migration.                                                             

@@ -1,6 +1,7 @@
 ---
 nanoid: "Woq-6u"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7p6zy26'
 title: Review – French Perceptions of Muslim Sexuality (Trevor Wolff)
 description: "Mack, Mehammed Amadeus. Sexagon: Muslims, France, and the Sexualization of National Culture. New York City NY: Fordham University Press, 2017 It highlights"
 date: '2018-01-05T02:34:24.000Z'
@@ -18,7 +19,6 @@ tags:
   - immigrant
   - sexual
 ---
-
 **Mack, Mehammed Amadeus.** ***Sexagon: Muslims, France, and the Sexualization of National Culture.*** **New York City NY: Fordham University Press, 2017. ISBN-10: 0823274616. Hardcover, Paperback, E-book.**
 
 The title of Mehammed Amadeus Mack’s latest book *Sexagon: Muslims, France, and the Sexualization of National Culture* is a wordplay within a wordplay, referencing French slang for the country itself, ‘the hexagon’. This wordplay, and negotiation of identity of the French culture at large, is brought up repeatedly within the work. Mack focuses primarily on the perception of Muslims (specifically Arab and African Muslims) in contemporary French society and media.

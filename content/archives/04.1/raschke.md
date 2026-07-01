@@ -1,6 +1,7 @@
 ---
 nanoid: "AcOIl3"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut7qjwx2k'
 title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
 article_number:
 author: "Carl A. Raschke"

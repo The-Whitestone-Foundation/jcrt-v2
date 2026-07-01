@@ -1,6 +1,7 @@
 ---
 nanoid: "A5zdcO"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur672qt2r'
 title: >-
   Thinking About God In A Pluralistic World – The Challenge of Modern Theology,
   Lecture 1 (Johannes Zachhuber)
@@ -22,7 +23,6 @@ tags:
   - christianity
   - atheism
 ---
-
 *The following is the first lecture in an eight lecture series.* 
 
 A couple of days ago, I read a column in a national newspaper whose title had a strange attraction on me. It read, “Only theologians really understand religion.” Deep within me this must have struck a chord, though at the same time I was skeptical. And the text, I am afraid, proved my skepticism right.

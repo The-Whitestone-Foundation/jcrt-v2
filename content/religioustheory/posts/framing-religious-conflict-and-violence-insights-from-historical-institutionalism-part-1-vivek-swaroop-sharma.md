@@ -1,6 +1,7 @@
 ---
 nanoid: "qJJjBR"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurar7vq26'
 title: >-
   Framing Religious Conflict and Violence – Insights from Historical
   Institutionalism, Part 1 (Vivek Swaroop Sharma)
@@ -25,7 +26,6 @@ tags:
   - social
   - individual
 ---
-
 ## The following is the first installment of a two-part series.
 
 Killing hundreds of people in the name of “cow protection” would, at first glance, appear to be a headline drawn from a Monty Python skit.  Instead, it is a political problem of the first order in India.  Since the 2014 election of Narendra Modi and his Bharatiya Janata Party (BJP) hardly a week goes by without some incident or the other involving emboldened cow protection vigilantes.  All of this is despite the rather astonishing fact that rarely gets commented upon in the bewildered international coverage of cow protection vigilantes, that India is consistently one of the top exporters of beef in the world with a nearly 20% share of the world market in 2016 (just behind Brazil)!

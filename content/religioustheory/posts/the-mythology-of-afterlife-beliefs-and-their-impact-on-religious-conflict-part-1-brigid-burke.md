@@ -1,6 +1,7 @@
 ---
 nanoid: "PJ4TGD"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuraa4y62k'
 title: >-
   The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict,
   Part 1 (Brigid Burke)
@@ -24,7 +25,6 @@ tags:
   - conception
   - punishment
 ---
-
 ## The following is the first installment of a two-part series.
 
 ## I. Introduction

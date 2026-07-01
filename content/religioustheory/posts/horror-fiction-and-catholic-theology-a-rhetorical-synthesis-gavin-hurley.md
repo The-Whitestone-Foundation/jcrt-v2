@@ -1,6 +1,7 @@
 ---
 nanoid: "Sk66OD"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur2ensq25'
 title: >-
   Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 (Gavin
   Hurley)
@@ -21,7 +22,6 @@ tags:
   - catholicism
   - rhetorical
 ---
-
 ## The following is the first installment of a two-part series.
 
 Catholic horror—horror fiction that integrates Catholic perspectives into the fiction itself—is often be seen by Catholics to be incompatible with the mission of the religion. These skeptics argue that popular culture media such as horror novels, horror television shows, and horror films are not appropriate forms of Catholic communication.

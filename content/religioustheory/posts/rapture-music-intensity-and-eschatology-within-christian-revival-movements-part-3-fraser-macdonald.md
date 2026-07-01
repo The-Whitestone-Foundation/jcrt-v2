@@ -1,6 +1,7 @@
 ---
 nanoid: "cN1e_S"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsvlel2r'
 title: >-
   Rapture Music – Intensity And Eschatology Within Christian Revival Movements,
   Part 3 (Fraser Macdonald)
@@ -21,7 +22,6 @@ tags:
   - revival
   - intensification
 ---
-
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/rapture-music-intensity-and-eschatology-within-christian-revival-movements-part-1-fraser-macdonald/), the second [here]( /religioustheory/posts/rapture-music-intensity-and-eschatology-within-christian-revival-movements-part-2-fraser-macdonald/). The full article is also available in the Spring 2022 issue of the* [*Journal for Cultural and Religious Theory*](https://jcrt.org/archives/21.2/)*.*
 
 One important current found within heterogeneous musicalities is contemporary popular music, whether country, rock, funk, hip hop, and so on. The use of these idioms within Christian worship is quite well documented, for example in Netherlands,[^1] Brazil,[^2] and with the “praise and worship” music associated with globalised megachurches like Hillsong.[^3] [^4] While these examples highlight the importance of popular music styles within Christian worship, it is vital that we go further to recognise that music produced under conditions of intensification always tends toward a heterogeneous aspect. Stating that Christian worship repurposes popular or traditional music in effect returns us to a dualistic reification of analytic categories. We must instead seek out the novel pluralistic mixes that issue from underlying multiplicity. As Dueck states, “On their long diasporic journeys, Mennonite groups have borrowed and repurposed *many* musics.”[^5] The elements that comprise the musicalised extension of heightened intensity rapidly migrate from diverse homelands to their new territory. The gathered molecules are not an army march under order, but a nomadic pack with a common vision – less itinerary and more itinerant. Examples from 1970s Melanesia illuminate these purer mixtures. From the Sepik region, a missionary eyewitness to unfolding eruptions across the area remarked on emergent musicality: “Some lyrics were in Tok Pisin, some were in local language. Some of the music resembled traditional performances, and some mixed with new music.”[^6] The revival songs of the Guhu-Samane of Morobe Province expressed a similarly complex synthesis:

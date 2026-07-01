@@ -1,6 +1,7 @@
 ---
 nanoid: "yjpga7"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurhqfia23'
 title: >-
   Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part
   2 (Roger Green)
@@ -19,7 +20,6 @@ tags:
   - theology
   - history
 ---
-
 *The following is the second of a three-part series.  [The first part]( /religioustheory/posts/force-in-religious-thought-carl-raschke-and-victoria-kahn-in-dialogue-part-1/) was published on May 31, 2016.*
 
 ## Heidegger, Kant, and the Political

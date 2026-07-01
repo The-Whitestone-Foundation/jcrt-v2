@@ -1,6 +1,7 @@
 ---
 nanoid: "Z1yCQ4"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurcr3om2b'
 title: >-
   Hegemony And Techno-Rationality – Toward An Aesthetic Soteriology (Mason
   Davis)
@@ -21,7 +22,6 @@ tags:
   - productive
   - hegemony
 ---
-
 To speak of aesthetics is not simply to consign art to its effects on sensibility, but to open up the configurations of experience that create new modalities of perception and new forms of subjectivity.
 
 “Aesthetics provides a mode of articulation between ways of doing and making, their corresponding forms of visibility, and possible ways of rethinking their relationships.”1 Aesthetic discourse must encapsulate more than sentiment and descriptive rhetoric. The relations between production, action, and transformation can be understood by the aesthetic principle that Jacques Ranciere calls the “distribution of the sensible.” Analyzing sensibility must include a genealogy of the productive forces that shape what is and the manipulative tools included in sensible distributions.

@@ -1,6 +1,7 @@
 ---
 nanoid: "6rSNiV"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwui5a23'
 title: >-
   Call For Presentations And Proposals – Decoloniality And Disintegration Of
   Western Cognitive Empire, Or Rethinking Sovereignty And Territoriality In The
@@ -28,7 +29,6 @@ tags:
   - disintegration
   - indigenous
 ---
-
 The *New Polis* in collaboration with the *[Journal for Cultural and Religious Theory](http://www.thenewpolis.com/)* (part of The Whitestone Foundation of publications) announces a webinar-based online conference in April 2021. The conference is entitled “Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century.”
 
 The tentative dates for the conference are April 14-15, though these may change depending on the number of participants and the structuring of the program.

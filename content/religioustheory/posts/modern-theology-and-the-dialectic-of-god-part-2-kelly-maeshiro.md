@@ -1,6 +1,7 @@
 ---
 nanoid: "_RJ-ao"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwn2xo2s'
 title: 'Modern Theology And The Dialectic Of God, Part 2 (Kelly Maeshiro)'
 description: "The following is the second of a four-part series. The first can be found here. Kantian idealism for Hegel represents the “shape” of Spirit corresponding to"
 date: '2021-02-08T17:23:42.000Z'
@@ -20,7 +21,6 @@ tags:
   - notion
   - idealism
 ---
-
 *The following is the second of a four-part series. The first can be found* [*here*]( /religioustheory/posts/modern-theology-and-the-dialectic-of-god-part-1-kelly-maeshiro/)*.*
 
 Kantian idealism for Hegel represents the “shape” of Spirit corresponding to what he calls “Understanding,” which, to Hegel’s mind, Kant does not get beyond, and in which he ultimately remains stuck. Here we should be clear that Hegel did not reject Kant’s contribution to philosophy, even if it remained at the level of Understanding. Because the Understanding represented a higher and more developed form of Spirit than both Sense-Certainty and Perception, Hegel saw Understanding as a necessary part of the development of Spirit, and credited Kant on this account, appreciating and to a large extent affirming Kant’s criticism of traditional speculative metaphysics.

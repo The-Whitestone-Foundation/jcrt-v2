@@ -1,6 +1,7 @@
 ---
 nanoid: "8rchaD"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6lamq23'
 title: >-
   Admitting A Certain Fear of Zizek’s Theology – A Modest Plea For A Deleuzian
   Reading Of The Death Of God (Elijah Prewitt-Davis)
@@ -22,7 +23,6 @@ tags:
   - universal
   - dialectical
 ---
-
 I am told by Zizek—as well as Hegelian friends—that any attempt to argue or disagree with Hegel fits nicely within his dialectical scheme. “Oh, you disagree with Hegel,” they say, “so you agree with him?” As Zizek warns, even Gilles Deleuze’s “generalized anti-Hegelianism” “…is much more ambiguous than it may appear: the elevation of Hegel into a straw of the enemy obfuscates a disavowed proximity.”[^1]
 
 Since this article develops out of my own generalized anti-Hegelianism, let me from the outset admit my own proximity not only to Hegel but to Zizek as well. Indeed, in researching this article I have been surprised at every turn by Zizek’s development of Hegel; which is to say that I have sometimes not recognized Zizek’s Hegel as Hegel, making me wonder if there is not some ‘disavowed proximity’ to the post-modern straw figure that Zizek himself sometimes constructs.

@@ -1,6 +1,7 @@
 ---
 nanoid: "ha_9Lf"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7i4bp2k'
 title: >-
   John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part
   II (Eric Trozzo)
@@ -22,7 +23,6 @@ tags:
   - hermeneutic
   - wilderness
 ---
-
 *The following is the second part in a two-part installment. The first  part can be found [here]( /religioustheory/posts/john-the-possibilizer-the-promise-of-a-kearnian-baptismal-hermeneutic-part-i-eric-trozzo/).*
 
 ## A Kearnian Reading of the Lukan John

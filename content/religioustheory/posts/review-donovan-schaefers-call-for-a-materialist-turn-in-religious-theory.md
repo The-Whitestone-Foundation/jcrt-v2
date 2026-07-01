@@ -1,6 +1,7 @@
 ---
 nanoid: "JTtPL2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurhxnqa25'
 title: >-
   Review – Donovan Schaefer’s Call For a Materialist Turn In Religious Theory
   (Jonathan Russell)
@@ -21,7 +22,6 @@ tags:
   - theory
   - animal
 ---
-
 **Schaefer, Donovan O.  [*Religious Affects: Animality, Evolution, and Power*](https://www.dukeupress.edu/religious-affects).  Durham NC:  Duke University Press, 2015.  ISBN 10: 978-0-8223-5982-1, 10: 978-0-8223-5990-6.  Hardback, paperback, e-book.  304 pages.**
 
 Donovan O. Schaefer’s *Religious Affects: Animality, Evolution, and Power* is at once a whirlwind introduction to the relevance the fields affect theory, critical animal studies, and evolutionary biology have for religious studies, and also a laser-focused critique of the contemporary context in religious studies. For all its breadth in *Religious Affects* Schaefer develops a well-crafted argument and clarion call: the study of religion must include, at its very core, the study of affect. As a project then, “it explores the possibility that a turn to affect can help us better understand human religion as animal.” (3)

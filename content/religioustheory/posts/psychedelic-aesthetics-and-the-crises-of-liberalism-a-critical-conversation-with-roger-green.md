@@ -1,6 +1,7 @@
 ---
 nanoid: "XrZH4b"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqtlzkn27'
 title: >-
   Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical
   Conversation” With Roger Green
@@ -22,7 +23,6 @@ tags:
   - indigenous
   - enchantment
 ---
-
 *The following Critical Conversation took place on February 17, 2022 with Roger Green, author of* [A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens](https://www.google.com/books/edition/A_Transatlantic_Political_Theology_of_Ps/VQGQDwAAQBAJ?hl=en&gbpv=1&dq=roger+green+transatlantic&printsec=frontcover).
 
 **Carl Raschke:** Welcome to critical conversations, again. Tonight, or this afternoon, or this morning, depending on what time zone you’re in, we have Roger Green presenting. Roger is an old and dear friend of mine. He’s got two PhDs from the University of Denver including one from the Religious Studies Department, and until last year he was the general editor of *The New Polis*, which is sponsoring these Critical Conversations. He’s currently a senior lecturer in the Department of English at Metropolitan State University of Denver and he’s the author of a book which we will be focusing on today called [*A Transatlantic Political Theology of Psychedelic Aesthetics*](https://www.google.com/books/edition/A_Transatlantic_Political_Theology_of_Ps/VQGQDwAAQBAJ?hl=en&gbpv=1&dq=A+Transatlantic+Political+Theology+of+Psychedelic+Aesthetics&printsec=frontcover); usually subtitles are longer than the title, but this is reverse and the subtitle is simply *Enchanted Citizens*.

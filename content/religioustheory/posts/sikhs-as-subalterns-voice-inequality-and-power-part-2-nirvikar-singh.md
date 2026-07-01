@@ -1,6 +1,7 @@
 ---
 nanoid: "uChYUe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqq26so22'
 title: 'Sikhs As Subalterns – Voice, Inequality, And Power, Part 2 (Nirvikar Singh)'
 description: "The following is the second installment of a three part series. The first can be found here. It is published as a catalogued .PDF in article in the latest issue"
 date: '2024-01-26T17:09:44.000Z'
@@ -19,7 +20,6 @@ tags:
   - religion
   - historical
 ---
-
 *The following is the second installment of a three part series. The first can be found [here]( /religioustheory/posts/sikhs-as-subalterns-voice-inequality-and-power/).* *It is [published](https://jcrt.org/archives/22.2/Singh.pdf) as a catalogued .PDF in article in the latest issue of the* Journal for Cultural and Religious Theory ([22.2](https://jcrt.org/archives/22.2/)).
 
 Another common scholarly position is that Nanak and his successors could not have created a separate religious tradition, because such a concept did not exist in Indic culture. Many scholars have made this claim for the Sikhs, and it can be supported by observations such as intermarriage among what are now called Sikhs and Hindus, lack of distinct life cycle rituals, and acceptance of a range of beliefs and practices that do not fit within a clear, commonly accepted definition of what it means to be a Sikh.

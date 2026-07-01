@@ -1,6 +1,7 @@
 ---
 nanoid: "IK9VuM"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqro4px2k'
 title: >-
   Evangelicalism, Pentecostalism, And The Quotidian Academic Terror Of
   “Christian Nationalism”
@@ -23,7 +24,6 @@ tags:
   - religious
   - politics
 ---
-
 *The following essay appeared recently in* [The New Polis](http://thenewpolis.com)*. It is republished here because of its timeliness and importance.*
 
 What exactly is Christian nationalism?  Ever since the U.S. Supreme Court overturned Roe v. Wade earlier this year, a tight little clique of prominent academics and journalists have been on a campaign to convince Americans that riding on last November’s narrow Republican success in electoral control of the House of Representative  is a murky, but extremely malevolent political fifth column that seeks to end democracy as we know it – something called “Christian nationalism”.

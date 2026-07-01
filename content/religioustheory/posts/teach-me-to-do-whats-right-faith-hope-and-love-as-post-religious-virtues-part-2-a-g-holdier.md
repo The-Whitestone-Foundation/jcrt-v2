@@ -1,6 +1,7 @@
 ---
 nanoid: "2ME6Nm"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqusw5w2a'
 title: >-
   “Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious
   Virtues, Part 2 (A.G. Holdier)
@@ -20,7 +21,6 @@ tags:
   - philosophy
   - absence
 ---
-
 *The following is the second of a two-part series. The first can be found [here.]( /religioustheory/posts/teach-me-to-do-whats-right-faith-hope-and-love-as-post-religious-virtues-part-1-a-g-holdier/)*
 
 In short, then, despite the absence of God in *Bad Times*, the characters all come to experience each other in painfully open ways and several even develop bonds akin to what Ryan Preston-Roedder has described as “faith in humanity,” insofar as Sweet and O’Kelly (and, for a time, Miles) come to genuinely depend on and believe the best about each other in a manner that fosters solidarity in the face of the villainous Billy Lee. In particular, Miles’ (and Sweet’s) faith in O’Kelly-as-Flynn offers the most important moment in the film’s theological trajectory, something that will be discussed in Section VI after an analysis of the film’s retreatment of love.

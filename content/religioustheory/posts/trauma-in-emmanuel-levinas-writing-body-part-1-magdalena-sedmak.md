@@ -1,6 +1,7 @@
 ---
 nanoid: "pPyvDG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqr4p472k'
 title: 'Trauma In Emmanuel Levinas’ Writing Body, Part 1 (Magdalena Sedmak)'
 description: "The following is the first of a two part series. The entire article appears in Issue 22.1 of the Journal for Cultural and Religious Theory It highlights"
 date: '2023-06-15T23:29:55.000Z'
@@ -18,7 +19,6 @@ tags:
   - ethics
   - totality
 ---
-
 *The following is the first of a two part series. [The entire article](https://jcrt.org/archives/22.1/Sedmak.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 
 Collage from “An-Other Language? Psychosomatic Research and the Lévinasian Conception of Otherness in Trauma Therapy” with the research question: When Lévinas claims that „the relationship between the Same and the Other is language“ in *Totality and Infinity*, what is meant by the *Same*, what is meant by the *Other*, what is meant by *Relationship*? And how can the findings (psychosomatics of Lévinas’ ethics) be connected/applied to enhance Trauma Therapy?[^1]           

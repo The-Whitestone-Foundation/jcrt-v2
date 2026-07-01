@@ -1,6 +1,7 @@
 ---
 nanoid: "NVNwCZ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpghrt2i'
 title: Religious Faith In Pursuit of Environmental Justice (Chris Durante)
 description: "In recent years, the world’s religions, including the Abrahamic faiths as well as Hinduism, Buddhism, Taoism and various indigenous forms of spirituality, have"
 date: '2024-07-25T23:59:15.000Z'
@@ -17,7 +18,6 @@ tags:
   - economic
   - ecological
 ---
-
 ## Introduction
 
 In recent years, the world’s religions, including the Abrahamic faiths as well as Hinduism, Buddhism, Taoism and various indigenous forms of spirituality, have been increasingly turning their ethical gaze toward the intersection of social, economic and ecological justice issues. This gives me hope because I believe many environmental injustices persist because the values of the neoliberal capitalist ethos have become so ingrained in our global social systems over the course of the past few generations that for most people today, it is the values of this economic paradigm, rather than the values of their faith traditions, that are predominant in governing their social lives and molding their daily lifestyles.[^1]

@@ -1,6 +1,7 @@
 ---
 nanoid: "Nk-Oin"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqry3bq26'
 title: >-
   Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 3
   (Erik Meganck)
@@ -22,7 +23,6 @@ tags:
   - philosophical
   - science
 ---
-
 *The following is the third of a three part-series. The first can be found* [*here*]( /religioustheory/posts/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-1-erik-meganck/), *the second [here]( /religioustheory/posts/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-2-erik-meganck/).*
 
 ## Planning and Religious Thought

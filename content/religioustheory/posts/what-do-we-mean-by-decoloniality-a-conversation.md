@@ -1,6 +1,7 @@
 ---
 nanoid: "jEcduc"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqw45od2i'
 title: 'What Do We Mean By “Decoloniality”? A Discussion, Part 1'
 description: "Part 1 records a keynote discussion defining decoloniality, foregrounding coloniality's persistence, divergent methods, and disputes over politics, knowledge"
 date: '2021-04-26T17:02:02.000Z'
@@ -17,7 +18,6 @@ tags:
   - decolonial
   - different
 ---
-
 *The following is a transcript of the keynote panel session of a three-day international webinar “Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century”, held April 14-16, 2021. The panel consists of Walter Mignolo and Catherine Walsh, co-authors of the book On Decoloniality (Duke University Press, 20180 and eminent Native American scholar Tink Tinker as well as University of London professor Fernando Herrero.* *It is moderated by Victor Taylor, Executive Editor for Whitestone Publications.* *The transcript is in two parts.*
 
 *The program for entire conference, for which video recordings are available for each presentation, can be found* [*here*](https://thenewpolis.com/conferences-and-calls-for-presentations/)*.*

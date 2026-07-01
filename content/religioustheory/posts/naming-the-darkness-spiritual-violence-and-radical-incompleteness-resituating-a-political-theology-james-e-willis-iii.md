@@ -1,6 +1,7 @@
 ---
 nanoid: "hlqrUv"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqz7yvt2r'
 title: >-
   “Naming The Darkness,” Spiritual Violence, And Radical Incompleteness – 
   Resituating A Political Theology, Part 1 (James E. Willis, III)
@@ -21,7 +22,6 @@ tags:
   - spiritual
   - religious
 ---
-
 The Death of God theological movement of the mid-twentieth century serves as a productive starting place to consider spiritual violence in our time, or the forceful displacement of human relations in religious belief both as individuals and as a community. Spiritual violence is examined through a political reading of Simon Critchley’s mystical anarchy and Martin Hägglund’s democratic socialism, bridged together with Saul Newman’s anarchy within political theology. These ideas are then considered alongside Lissa McCullough’s generative twilight of a self-sacrificing axial God.
 
 Emerging from this analysis is the notion of a radical human incompleteness which can resituate a political theology beyond the traumas of religious mythology. The reason why Death of God theology is useful is because the political becomes possible in human incompleteness through the act of spiritual violence from God’s self-sacrifice. Political theology should reconsider a re-mythologization of religion with anarchical relations which freely consider radical incompleteness.[^1]

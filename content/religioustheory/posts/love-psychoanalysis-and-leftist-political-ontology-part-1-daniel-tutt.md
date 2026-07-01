@@ -1,6 +1,7 @@
 ---
 nanoid: "Qs4TlX"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurg7c2d2i'
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tutt)'
 description: "The following is the first installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.” It has been"
 date: '2016-09-05T06:20:15.000Z'
@@ -23,7 +24,6 @@ tags:
   - psychoanalysis
   - jouissance
 ---
-
 *The following is the first installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.”  It [has been published concurrently as part of an anthology](http://us.karnacbooks.com/product/sex-and-nothing-bridges-from-psychoanalysis-to-philosophy/37318/) entitled Sex and Nothing: Bridges from Psychoanalysis to Philosophy, edited by [Alejandro Cerda-Rueda](http://us.karnacbooks.com/Author.asp?AID=21559) (New York: Karnac Books, 2016).*
 
 > “Love may be a stumbling block for ethics, unless love simply puts ethics into question by imitating it.” – Maurice Blanchot[^1]

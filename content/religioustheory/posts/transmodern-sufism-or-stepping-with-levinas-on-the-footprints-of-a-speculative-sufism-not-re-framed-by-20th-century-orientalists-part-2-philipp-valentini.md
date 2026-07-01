@@ -1,6 +1,7 @@
 ---
 nanoid: "Y83mkD"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4xz6527'
 title: >-
   Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A
   Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 2 (Philipp
@@ -23,7 +24,6 @@ tags:
   - political
   - mystical
 ---
-
 *The following is the second installment of a three-part series.  The first can be found [here]( /religioustheory/posts/transmodern-sufism-or-stepping-with-levinas-on-the-footprints-of-a-speculative-sufism-not-re-framed-by-20th-century-orientalists-part-1-philipp-valentini/).*
 
 A non-Paulinian theology understands the Law not as a whole but as an indefinite set of rules where each rule is split between the conversations it opens on the meanings it expresses and the action it performs. The excess of meaning that organizes the social interactions is the signifier “whole of wisdom” as it appears in the above mentioned sentence of Lévinas – *la sagesse talmudique* or in the sentence attributed to Imam Malik that works as an authoritative refrain in those debates that wish to show the compatibility of juridical thinking with Sufism: “Whoever studies jurisprudence \[fiqh\] and didn’t study Sufism (tasawwuf) will be corrupted; and whoever studied tasawwuf and didn’t study fiqh will become a heretic; and whoever combined both will be reach the Truth”[^1] .

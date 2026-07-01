@@ -1,6 +1,7 @@
 ---
 nanoid: "lEFznf"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6puvh2p'
 title: >-
   The Vertical Form – The Iconological Dimension in 20th Century Russian
   Religious Aesthetics and Literary Criticism, Part II (Oleg Komkov)
@@ -23,7 +24,6 @@ tags:
   - aesthetic
   - existential
 ---
-
 *The following is the second part in a two-part installment. The first part can be found [here]( /religioustheory/posts/the-vertical-form-iconological-dimension-in-20th-century-russian-religious-aesthetics-and-literary-criticism-part-i-oleg-komkov/).* 
 
 *II. “Absolute Symbolism” of Christian Worldview: The Aesthetic Dimension*

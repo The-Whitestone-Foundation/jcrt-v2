@@ -1,6 +1,7 @@
 ---
 nanoid: "zM81xL"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuril6q72k'
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology” – Part 1'
 description: "> Jesus, who was concerned till manhood with his own personal development, was free from the contagious sickness of his age and his people; free from the"
 date: '2016-04-27T01:19:32.000Z'
@@ -20,7 +21,6 @@ tags:
   - history
   - aporetic
 ---
-
 > Jesus, who was concerned till manhood with his own personal development, was free from the contagious sickness of his age and his people; free from the inhibited inertia which expends its one activity on the common needs and conveniences of life; free too from the ambition and other desires whose satisfaction, once craved, would have compelled him to make terms with prejudice and vice.
 > 
 > –G.W.F. Hegel, *The Positivity of the Christian Religion*

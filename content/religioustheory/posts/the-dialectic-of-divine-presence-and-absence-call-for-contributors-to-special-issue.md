@@ -1,6 +1,7 @@
 ---
 nanoid: "XOBqRR"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7au2i26'
 title: Call for Contributors – The Dialectic of Divine Presence and Absence
 description: "Since the philosopher Nietzsche announced the “death of God” over a century ago, the specter of divine absence has hovered over Western civilization It"
 date: '2018-02-14T04:19:46.000Z'
@@ -22,7 +23,6 @@ tags:
   - special
   - religious
 ---
-
 Since the philosopher Nietzsche announced the “death of God” over a century ago, the specter of divine absence has hovered over Western civilization.
 
 The importance of this theme has not been limited to atheists.  Since at least the 1960s, the “death of God” movement has captivated the imagination of theologians and philosophers alike, and as a result has been an ongoing – and contentious – issue for the public as a whole.  The  box office success in recent years of such Christian films as “God’s Not Dead” and “God’s Not Dead 2”), which to date have grossed around $80 million, attest to a profound, popular interest in Nietzsche’s famous saying, even if it has become a focus of the culture wars.

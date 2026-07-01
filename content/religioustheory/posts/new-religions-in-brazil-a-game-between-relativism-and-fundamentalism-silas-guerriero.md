@@ -1,6 +1,7 @@
 ---
 nanoid: "HLY3aj"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6x5iy26'
 title: >-
   New Religions in Brazil – A Game Between Relativism and Fundamentalism (Silas
   Guerriero)
@@ -22,7 +23,6 @@ tags:
   - relativism
   - characteristics
 ---
-
 Speaking of new religious movements in Brazil implies, above all, in defining what we refer to when we speak of “new religions.” We have already had an opportunity to discuss the boundaries that limit this concept[^1] . Now, it seems to be a matter of showing a larger audience some of the features that this phenomenon has achieved, without, however, going into the details that his discussion may arouse.
 
 However, we have decided to call *new religious movements* everything that is new in the religious field, regardless of whether they refer to new groups, or new religious experiences within the already established religions. In a broader sense, we can see that these take one of the two ends in the continuum when it comes to beliefs and values.

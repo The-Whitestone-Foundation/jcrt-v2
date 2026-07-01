@@ -1,6 +1,7 @@
 ---
 nanoid: "sjE2_n"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdtbgm2b'
 title: Review – Badiou Is Not Afraid of The Dark (Mason Davis)
 description: "*Badiou, Alain. Black: The Brilliance of a Non-Color. Translated by Susan Spitzer. New Jersey: Polity, 2016. ISBN-10: 1509512071. Hardcover, paperback, e-book"
 date: '2017-02-02T08:00:00.000Z'
@@ -17,7 +18,6 @@ tags:
   - critical
   - theory
 ---
-
 **Badiou, Alain. *Black: The Brilliance of a Non-Color.* Translated by Susan Spitzer. New Jersey: Polity, 2016. ISBN-10: 1509512071. Hardcover, paperback, e-book. 80 pages.** 
 
 Claire Colebrook calls Alain Badiou’s newest book *Black: The Brilliance Of A Non-Color*, a “singular and remarkable book.” My initial reaction was similar, though I have always been impressed by Badiou’s eloquence and prose. What struck me is that I never would have associated the text with Badiou were it not for his name on the front cover. The specter of Badiou is most noticeable if this work is read in tandem with *In Praise of Theatre*, since the first of four sections is composed of a multi-narrative style *mise en scene*, laying the groundwork for the philosophical meditations of the color black in music, painting, politics, sex, anthropology, and more. The observational nature of Badiou’s writing, and the smooth transitions from the empirical to the critical are a far cry from the Badiou of set theory and political militancy. Nor is this the Badiou that writes with Nicolas Truong, answering questions with a lighthearted rhythm. In fact, the single most remarkable element of this book is that the only theme binding the 80 pages is the constellation of relationships associated with the color black.

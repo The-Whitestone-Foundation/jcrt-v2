@@ -1,6 +1,7 @@
 ---
 nanoid: "f-XSxj"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdcchm2b'
 title: >-
   Foucault’s Disciplinary Society And The Community Rule Of Qumran (Rebekah
   Gordon)
@@ -23,7 +24,6 @@ tags:
   - expulsion
   - individual
 ---
-
 ## Foregrounding the Problem
 
 In his 1975 work Discipline and Punish, Michel Foucault uses the lens of prison and society to examine the ways in which power structures act upon the individual. He maintains that the power and techniques of punishment depend on knowledge which, in turn, creates and categorizes individuals. He also proposes that knowledge derives its authority from the relationship between the exercise of power and systems of discipline. Thus power authorizes knowledge and knowledge directs power. He demonstrates this through tracing the soul’s gradual replacement of the body as the focus of punishment and reform in eighteenth century French society.[^1]

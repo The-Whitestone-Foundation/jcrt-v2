@@ -1,6 +1,7 @@
 ---
 nanoid: "bVH1hs"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurcolm32i'
 title: Speaking (Or Not Speaking) Of God – Call For Proposals
 description: "Where: University of Denver, Denver, Colorado Sponsors: Department of Religious Studies, Journal for Cultural and Religious Theory It highlights key arguments"
 date: '2017-05-03T17:07:06.000Z'
@@ -17,7 +18,6 @@ tags:
   - cultural
   - dialectic
 ---
-
 ## Speaking (Or Not Speaking) of God
 
 ### An Interdisciplinary Conference On The Dialectic Of Divine Presence And Absence

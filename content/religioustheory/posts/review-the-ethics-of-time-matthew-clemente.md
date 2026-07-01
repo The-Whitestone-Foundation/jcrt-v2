@@ -1,6 +1,7 @@
 ---
 nanoid: "dsA2DP"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6iuhw22'
 title: Review – The Ethics Of Time (Matthew Clemente)
 description: "The Ethics of Time. Manoussakis, John. New York: Bloomsbury Press, 2017. ISBN: 9781474299169. Hardback. 232 pages. John Manoussakis’s latest book, The Ethics of"
 date: '2018-04-17T04:05:49.000Z'
@@ -20,7 +21,6 @@ tags:
   - experience
   - movement
 ---
-
 ***The Ethics of Time.*** **Manoussakis, John. New York: Bloomsbury Press, 2017. ISBN: 9781474299169. Hardback. 232 pages.**
 
 John Manoussakis’s latest book, *The Ethics of Time* (2017)—the second volume of a trilogy to be—should be read as a continuation of the work he began a decade ago in *God After Metaphysics* (2007). In that earlier book, which bore as its subtitle *A Theological Aesthetic*, he sought to consider by means of phenomenology’s own principles that which phenomenology has long claimed to be impossible: namely, religious experience as given through the senses. For Manoussakis, “it is our body that allows us to be united with the divine.”[^1] [^1]

@@ -1,6 +1,7 @@
 ---
 nanoid: "2KmVIB"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdqvil2v'
 title: >-
   Philosophy As Interdisciplinary Intensity – An Interview With Giorgio Agamben
   (Antonio Gnolio/Ido Govrin)
@@ -22,7 +23,6 @@ tags:
   - politics
   - present
 ---
-
 *The following is an interview with the famed Continental philosopher Giorgio Agamben conducted by journalist Antonio Gnolio. [Originally published in La Repubblica on May 15, 2016.](http://www.repubblica.it/cultura/2016/05/15/news/giorgio_agamben_credo_nel_legame_tra_filosofia_e_poesia_ho_sempre_amato_la_verita_e_la_parola_-139833519/?platform=hootsuite)  the interview is translated from the Italian by Ido Govrin, whose bio is given at the end.  It is translated with permission of La Repubblica.*
 
 “I believe in the link between philosophy and poetry. I have always loved the truth and the word.”                  – Giorgio Agamben

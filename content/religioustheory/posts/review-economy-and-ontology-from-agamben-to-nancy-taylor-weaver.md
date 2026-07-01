@@ -1,6 +1,7 @@
 ---
 nanoid: "gHpOUq"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurces3x2k'
 title: Review – Economy And Ontology From Agamben To Nancy (Taylor Weaver)
 description: "*Bird, Greg. Containing Community: From Political Economy to Ontology in Agamben, Esposito, and Nancy. Albany NY: SUNY Press, 2016. ISBN 978-1-4384-6185-4"
 date: '2017-05-23T01:36:27.000Z'
@@ -17,7 +18,6 @@ tags:
   - politics
   - ontology
 ---
-
 **Bird, Greg. *Containing Community: From Political Economy to Ontology in Agamben, Esposito, and Nancy*. Albany NY: SUNY Press, 2016. ISBN 978-1-4384-6185-4. Hardcover.**
 
 Distinct connections between political economy and ontology may seem to some as unnecessarily abstract. What, after all, does a sufficient understanding of ontology provide for possible conceptualizations of political economy, let alone a practical politics, especially one that results in a “rethinking of community in our globalized world” (p. 1)? We can acknowledge the possible cruciality of basic philosophical considerations for viable political emphases. But, in this case, the question is so much more vital because the considerations of a possible coming politics, through a rethinking of community, rely on ontological considerations of the proper, and in this case the dialectic of alienation and appropriation, which entered crucial debate in the 90s.

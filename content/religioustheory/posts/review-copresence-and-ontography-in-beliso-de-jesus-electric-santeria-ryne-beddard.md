@@ -1,6 +1,7 @@
 ---
 nanoid: "NYDcGF"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurd5e6d2f'
 title: >-
   Review – The Metaphysics of Copresence in Beliso-De Jesùs’ Electric Santeria
   (Ryne Beddard)
@@ -20,7 +21,6 @@ tags:
   - metaphysics
   - authenticity
 ---
-
 **![seven-orishas](/images/2017/03/seven-orishas.webp)Beliso-De Jesús, Aisha M. *Electric Santería: Racial and Sexual Assemblages of Transnational Religion*. New York: Columbia University Press, 2015. ISBN-10:** **0231173172** **Hardcover, paperback, e-book. 304 pages.**
 
 Aisha M. Beliso-De Jesús’ 2015 book *Electric Santería: Racial and Sexual Assemblages of Transnational Religion* begins and ends with an intimate account of her relationship with Alfredo Calvo Cano, or simply Padrino (godfather), as he was referred to by his followers who learned to navigate their space in an increasingly transnational world through devotion to his guidance in Santería and other “African-inspired” Cuban religions. Beliso-De Jesús was one of those followers, and the book is inevitably shaped by her simultaneous proximity to the object of her study, as a practitioner raised in the traditions, and her distance from it as an anthropologist born, not in Cuba, but the United States.

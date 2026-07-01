@@ -1,6 +1,7 @@
 ---
 nanoid: "oIZ2yp"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuri4l4y23'
 title: 'Biopolitics and Vajrayana Buddhism, Part 1 (Padraic Fitzgerald)'
 description: "Biopolitics, as Michel Foucault argued, views populations through an economic lens, as capital to be preserved and multiplied to keep the nation or tradition"
 date: '2016-05-27T00:43:59.000Z'
@@ -20,7 +21,6 @@ tags:
   - biopolitics
   - individual
 ---
-
 ## The following* *is the first of a 3-part series.
 
 Biopolitics, as Michel Foucault argued, views populations through an economic lens, as capital to be preserved and multiplied to keep the nation or tradition afloat and strong. In the secular sphere, this concerns keeping the population healthy, numerous, and reproducing, largely through the promotion of an ideal way of life or body, so that the nation may maintain supremacy in the global relational and economic arena.

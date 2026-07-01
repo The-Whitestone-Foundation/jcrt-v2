@@ -1,6 +1,7 @@
 ---
 nanoid: "TN5u0-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusbgb2m2f'
 title: "The Object and Affects of Envy and Emulation."
 author: "Michael R. Kelly"
 affilation:

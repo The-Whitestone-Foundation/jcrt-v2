@@ -1,6 +1,7 @@
 ---
 nanoid: "Eavyl-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqu2p3q23'
 title: >-
   Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 3 (Justine M.
   Bakker)
@@ -22,7 +23,6 @@ tags:
   - mysticism
   - subject
 ---
-
 *The following article will appear next month in the Winter 2021-22 issue of the* Journal for Cultural and Religious Theory. *It is published in three installments*. *The first installment can be found [here]( /religioustheory/posts/locating-yhe-oceanic-in-sylvia-wynters-demonic-ground/)*, the second [here]( /religioustheory/posts/locating-the-oceanic-in-sylvia-wynters-demonic-ground-part-2-justine-m-bakker/).
 
 It remains, of course, entirely possible that Wynter was unaware of the link between the demonic and such alternative ontologies although this seems, for reasons explained above, unlikely.[^1] If my theory is correct, moreover, we can conclude that implicitly embedded in the notion of “demonic ground” is not merely or only that these “parallel” systems in physics with an unknowable, indeterminate outcome (as McKittrick would have it). Nor does the term, in its original usage, refer primarily to those experiments that institute an active challenge to or disruption of hegemonic natural processes (as Haley’s analysis adds).

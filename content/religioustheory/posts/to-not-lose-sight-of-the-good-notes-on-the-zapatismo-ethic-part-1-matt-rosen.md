@@ -1,6 +1,7 @@
 ---
 nanoid: "Xm0sQg"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur27udo2a'
 title: >-
   To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 1 (Matt
   Rosen)
@@ -24,7 +25,6 @@ tags:
   - political
   - resistance
 ---
-
 ## The following is the first of a two-part series.
 
 On the first of January 1994, as the North American Free Trade Agreement (NAFTA) went into effect, the *Ejército Zapatista de Liberación Nacional* (Zapatista Army of National Liberation, or EZLN) declared war on the Mexican government from the Lacandon Jungle, in the southernmost Mexican state of Chiapas.[^1]

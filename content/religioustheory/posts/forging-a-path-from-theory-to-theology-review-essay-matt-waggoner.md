@@ -1,6 +1,7 @@
 ---
 nanoid: "y73Ba2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurctkvo2k'
 title: Forging A Path From Theory To Theology – Review Essay (Matt Waggoner)
 description: "*Blanton, Ward. Crockett, Clayton. Robbins, Jeffrey. Vahanian, Noëlle. An Insurrectionist Manifesto: Four New Gospels for a Radical Politics (Insurrections:"
 date: '2017-04-11T05:03:59.000Z'
@@ -19,7 +20,6 @@ tags:
   - radical
   - politics
 ---
-
 **Blanton, Ward.  Crockett, Clayton.  Robbins, Jeffrey.  Vahanian, Noëlle.    *An Insurrectionist Manifesto: Four New Gospels for a Radical Politics* (Insurrections: Critical Studies in Religion, Politics, and Culture).   New York: Columbia University Press, 2016.  ISBN: 0231176236.  Hardcover, paperback, e-book.**
 
 We have entered a historical juncture at which it has become commonplace to offer advice to the left. The academy, where the left once thrived (some would say languished in elitism and obscurity), has become integrated into the economic and managerial fabric of neoliberalism, the humanities defunded, investments targeted for programs that stand to make obvious and measurable contributions to economic growth, and in some cases speech actively stifled.

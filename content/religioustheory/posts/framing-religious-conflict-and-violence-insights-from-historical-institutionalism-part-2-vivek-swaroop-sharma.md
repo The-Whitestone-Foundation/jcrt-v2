@@ -1,6 +1,7 @@
 ---
 nanoid: "QepiZS"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuraoqma25'
 title: >-
   Framing Religious Conflict and Violence – Insights from Historical
   Institutionalism, Part 2 (Vivek Swaroop Sharma)
@@ -24,7 +25,6 @@ tags:
   - religion
   - communal
 ---
-
 *The following is the second installment of a two-part series.  The first installment can be found [here]( /religioustheory/posts/framing-religious-conflict-and-violence-insights-from-historical-institutionalism-part-1-vivek-swaroop-sharma/).*
 
 ## Religious Conflict and Violence Reframed

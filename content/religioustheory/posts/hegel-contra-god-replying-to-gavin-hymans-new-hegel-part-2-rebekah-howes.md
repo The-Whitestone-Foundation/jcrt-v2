@@ -1,6 +1,7 @@
 ---
 nanoid: "RPQY-5"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqrt5pg2a'
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 2 (Rebekah
   Howes)
@@ -21,7 +22,6 @@ tags:
   - ethical
   - philosophy
 ---
-
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-1-rebekah-howes/). The earlier article by Prof. Hyman to which the author replies can be found* [*here*]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-3-gavin-hyman/)*.*
 
 But what is always at stake in these arguments, writes Hyman, is the question of the contamination of the Absolute or God. Can we still speak of God as God if God is conditioned by what is other to God? This limitation is what Hyman, and the new interpretations, are interested in. What they find in Hegel is ‘a genuine \[or originary\] divine transcendence’[^1] which makes possible the distinction between transcendence and immanence as something posited. This ‘truly transcendent and unconditioned’[^2] God or Absolute is not distinct from the finite or immanent world because immanence is ‘the process of the self-manifestation of this divine Absolute.’[^3]

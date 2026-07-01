@@ -1,6 +1,7 @@
 ---
 nanoid: "YWGewI"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqoxgiw22'
 title: Religion and Bioethics (Conferencee)
 description: "Sponsored by the The Whitestone Foundation dba The Journal for Cultural and Religious Theory in collaboration with the University of Denver It highlights"
 date: '2024-12-18T18:23:13.000Z'
@@ -19,7 +20,6 @@ tags:
   - moral
   - medical
 ---
-
 #### **When**: Jan. 9-10, 2025
 
 #### **Where:** [Online](https://udenver.zoom.us/meeting/register/tZAvdu2rqDstEtTPjup2WfgMNVzCSOQ8S8-f)

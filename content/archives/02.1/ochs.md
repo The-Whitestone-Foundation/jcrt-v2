@@ -1,6 +1,7 @@
 ---
 nanoid: "JyyeXM"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuteapfi23'
 title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsidered"
 article_number:
 author: "Peter Ochs"

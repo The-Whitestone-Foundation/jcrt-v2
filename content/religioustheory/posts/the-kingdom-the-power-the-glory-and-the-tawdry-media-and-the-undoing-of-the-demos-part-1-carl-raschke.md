@@ -1,6 +1,7 @@
 ---
 nanoid: "OJBABe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurb7tnq23'
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 1 (Carl Raschke)
@@ -25,7 +26,6 @@ tags:
   - theory
   - economic
 ---
-
 *This article appears in three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk Conference Center (Stift Melk, Austria) sponsored by the [Religion and Transformation in Contemporary Society Platform at the University of Vienna](http://sowi.univie.ac.at/en/research/research-platforms/religion-and-transformation-in-contemporary-society/) (June 27, 2017). The next two will be published on July 11 and 18 respectively.*  
 
 In the third volume of his critical trilogy entitled [*The Kingdom and the Glory: For a Theological Genealogy of Economy and Government*,](https://books.google.ca/books?id=1PU-WGdgp6sC&printsec=frontcover&dq=Agamben,+the+kingdom+and+the+glory&hl=en&sa=X&redir_esc=y#v=onepage&q=Agamben%2C%20the%20kingdom%20and%20the%20glory&f=false) Giorgio Agamben lays out in the opening sentence a project that will take Foucault’s theory of “governmentality” to a new level.  “This study,” he writes, “will inquire into the paths by which and the reasons why power in the West has assumed the form of an oikonomia.”

@@ -1,6 +1,7 @@
 ---
 nanoid: "07qG1C"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6e2ye2b'
 title: 'Lutheran Theology And Postmodern Philosophy, Part I (Olli-Pekka Vaino)'
 description: "Recently, Martin Luther and the Lutheran Reformation has received heavy criticism in various theological and philosophical circles It highlights key arguments"
 date: '2018-05-01T02:54:39.000Z'
@@ -20,7 +21,6 @@ tags:
   - theological
   - philosophical
 ---
-
 ## The following is the first installment of a two-part series.
 
 Recently, Martin Luther and the Lutheran Reformation has received heavy criticism in various theological and philosophical circles. In many scholarly treatments of the history of western philosophy and culture, Reformation has been treated as one step on a trajectory from nominalist revolution to liberal Protestantism, atheistic secular modernism, and relativist postmodernism. The Reformers not only created a schism within the church, but they brought forth all the horrors of the modern age. Instead of providing a cure for the spiritual crisis of late medieval theology, they gave birth to a horrible epidemic.

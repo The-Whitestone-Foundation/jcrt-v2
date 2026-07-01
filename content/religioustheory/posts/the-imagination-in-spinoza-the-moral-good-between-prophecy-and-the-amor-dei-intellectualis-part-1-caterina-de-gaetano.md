@@ -1,6 +1,7 @@
 ---
 nanoid: "e1tnx5"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqver32i'
 title: >-
   The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei
   Intellectualis, Part 1 (Caterina De Gaetano)
@@ -20,7 +21,6 @@ tags:
   - moral
   - external
 ---
-
 *The following is the first of a two-part series.* *[The entire article](https://jcrt.org/archives/22.1/Degaetano.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 
 Spinoza’s *Tractatus Theologico-Politicus* is a book in which the author’s mature ideas about the epistemological capacities of the human being are used to propose a configuration of political roles, religious power, and general human relationships.[^1]  Spinoza is a republican: he believes that a secular democratic government is the best way for people to converge towards a (rational) union of intentions and improve their condition. He believes that a good state is fundamental for the happiness of its citizens, and a good state is one without religious interference.

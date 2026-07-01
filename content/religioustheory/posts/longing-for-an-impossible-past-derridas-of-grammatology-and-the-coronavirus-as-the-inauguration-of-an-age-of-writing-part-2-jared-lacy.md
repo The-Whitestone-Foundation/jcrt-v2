@@ -1,6 +1,7 @@
 ---
 nanoid: "wwSA6B"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqyoxd32v'
 title: >-
   Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus
   As The Inauguration Of An Age Of Writing, Part 2 (Jared Lacy)
@@ -22,7 +23,6 @@ tags:
   - supplement
   - tertiary
 ---
-
 *The following is the second of a two-part series. The first can be found [here.]( /religioustheory/posts/longing-for-an-impossible-past-derridas-of-grammatology-and-the-coronavirus-as-the-inauguration-of-an-age-of-writing-part-1-jared-lacy/)*
 
 Furthermore there is an element of nostalgia implicit in this desire. Like the armed protestors who stormed city capital buildings across the United States, there is a sense among certain students and faculty, that in the age of Coronavirus and social distancing, we have lost something like a *parousia*, an unmediated full presence, that had obtained at some point in therecent past. There is a general wish “to go back *from the supplement to the source.*”[^17] 

@@ -1,6 +1,7 @@
 ---
 nanoid: "lFeUmG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwpist2i'
 title: 'Modern Theology And The Dialectic Of God, Part 1 (Kelly Maeshiro)'
 description: "In the Christian tradition, the question of whether philosophy is necessary for theology, or even relevant to it, is a question almost as old as theology"
 date: '2021-02-01T17:07:14.000Z'
@@ -19,7 +20,6 @@ tags:
   - philosophy
   - subject
 ---
-
 ## The following is the first of a four-part series.
 
 In the Christian tradition, the question of whether philosophy is necessary for theology, or even relevant to it, is a question almost as old as theology itself, for no sooner had theologians embarked upon the project of a programmatic exposition of faith than they found themselves, legitimately or illegitimately, having recourse to concepts appropriated from philosophers, and from Platonists in particular.

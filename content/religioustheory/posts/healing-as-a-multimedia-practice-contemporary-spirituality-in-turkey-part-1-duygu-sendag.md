@@ -1,6 +1,7 @@
 ---
 nanoid: "jEBCxV"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqozvrz2t'
 title: >-
   Healing As A Multimedia Practice – Contemporary Spirituality In Turkey, Part 1
   (Duygu Sendag)
@@ -21,7 +22,6 @@ tags:
   - spiritual
   - religion
 ---
-
 ## The following article is published in three installments.
 
 ## Introduction

@@ -1,6 +1,7 @@
 ---
 nanoid: "GWjefs"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvdtd72k'
 title: >-
   Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Part 3
   (Florian Klug)
@@ -20,7 +21,6 @@ tags:
   - relationship
   - public
 ---
-
 *The following is the last of a three-part series. The first can be found [here]( /religioustheory/posts/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-1-florian-klug/), the second [here]( /religioustheory/posts/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-2-florian-klug/). It will appear as a full article in the Fall 2021 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org).
 
 Michel Foucault traced this connection between truth and existential dimension in his late studies on power and subjectivity by investigating Socratic and Cynical philosophy as well as early church spirituality about *parrhesia* as truth-telling or truthfulness. Foucault’s former works focused specifically on the encompassing power structures that frame and shape human life within a society.[^1] As a consequence of Foucault’s investigations, it seems that only a vanishing amount of freedom emerges within daily life because the power relations that frame societal living are restricted neither to the state level nor to the sphere of concrete visibility. For example, Foucault’s analysis of Bentham’s panopticon exemplifies that the sources of power effects surpass the level of visibility insofar that, in the end, the prisoner internalizes the invisible surveillance and becomes his or her guard.[^2] By referring to Bentham’s panopticon, Foucault can adopt this mode of self-surveillance as a mode of living in modern society.[^3]

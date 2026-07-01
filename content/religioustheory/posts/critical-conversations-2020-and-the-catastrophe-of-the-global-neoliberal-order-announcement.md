@@ -1,6 +1,7 @@
 ---
 nanoid: "2Q01t3"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqxhvzx2k'
 title: >-
   Critical Conversations – 2020 And The Catastrophe Of The Global Neoliberal
   Order (Announcement)
@@ -24,7 +25,6 @@ tags:
   - political
   - conversation
 ---
-
 *Participants are invited to join us live in the fourth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. **If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. If you have not participated in previous seminars, please provide us with a brief sentence or two explaining your interest in this particular “Critical Conversation”. Or you may simply sign up through the registration link below.*
 
 *All Critical Conversations will be recorded and republished along with edited transcripts.* *Last month’s critical conversation entitled “The Politics of Pause,* Struggling Over Speed for Better Futures*” can be watched [here](https://www.youtube.com/watch?v=Z3fe-zt_jhU).*

@@ -1,6 +1,7 @@
 ---
 nanoid: "Ykciyr"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusl2s5x2k'
 title: "On the Persistence of Cynic Motifs"
 author: "Sophie Fuggle"
 affilation:

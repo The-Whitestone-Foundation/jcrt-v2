@@ -1,6 +1,7 @@
 ---
 nanoid: "nyNFm4"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4luiz2t'
 title: Inventing Afterlives – Review (Camille Grace Leon Angelo)
 description: "Janes, Regina M. Inventing Afterlives: The Stories We Tell Ourselves About Life After Death. New York, NY: Columbia University Press, 2018. 384 pages 384 pages."
 date: '2018-10-22T13:31:58.000Z'
@@ -18,7 +19,6 @@ tags:
   - discourse
   - religious
 ---
-
 Janes, Regina M. *Inventing Afterlives: The Stories We Tell Ourselves About Life After Death*. New York, NY: Columbia University Press, 2018. 384 pages. ISBN: 9780231185714.
 
 Why do we form beliefs about the afterlife? What cultural work do these beliefs perform? In her beautifully written, learned book, *Inventing Afterlives*, Regina Janes proposes answers to these questions. Janes boldly traverses across diverse temporal and geographic contexts —ranging from ancient Egyptians to eighteenth-century Britain — and engages with an array of individuals varying from modern-day creatives like Spike Jonze to ancient celebrities like Homer to discern how and why humans imagine life after death. The book is essentially flawless outside of a few problematic assumptions in Chapter 1.

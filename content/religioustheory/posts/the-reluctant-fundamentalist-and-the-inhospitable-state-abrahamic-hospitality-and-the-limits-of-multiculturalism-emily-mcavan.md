@@ -1,6 +1,7 @@
 ---
 nanoid: "D7zhGY"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzjtod2v'
 title: >-
   “The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic
   Hospitality And The Limits Of Multiculturalism, Part 1 (Emily McAvan)
@@ -20,7 +21,6 @@ tags:
   - abrahamic
   - multiculturalism
 ---
-
 ## The following is the first of a two-part series.
 
 > “Share with God’s people who are in need. Practice hospitality.” (Romans 12:13 NIV)

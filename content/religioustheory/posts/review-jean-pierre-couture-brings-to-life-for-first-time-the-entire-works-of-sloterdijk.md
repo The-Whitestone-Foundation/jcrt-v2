@@ -1,6 +1,7 @@
 ---
 nanoid: "VdwiSX"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuriq3eb2t'
 title: >-
   Review – Jean-Pierre Couture Brings To Life The Ongoing Oeuvre of Peter
   Sloterdijk
@@ -20,7 +21,6 @@ tags:
   - philosophy
   - religious
 ---
-
 **Couture, Jean-Pierre. [*Sloterdijk*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-074566380X.html) (Key Contemporary Thinkers). Boston: Polity, 2015. 208 pages. ISBN-***10: 0745663818.  Hardback, paperback, e-book, 208 pages.  
 **
 

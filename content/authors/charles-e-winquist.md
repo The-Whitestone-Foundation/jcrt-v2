@@ -1,5 +1,6 @@
 ---
 nanoid: "9kdeLG"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuundfjz25'
 name: Charles E Winquist
 affiliation: "Syracuse University"
 bio:

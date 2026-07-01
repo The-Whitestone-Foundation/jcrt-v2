@@ -1,6 +1,7 @@
 ---
 nanoid: "l8Kn80"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkus2wesd2i'
 title: "Horizon, Transcendence, and Correlation: Some Phenomenological Considerations."
 author: "Branko Klun"
 affilation:

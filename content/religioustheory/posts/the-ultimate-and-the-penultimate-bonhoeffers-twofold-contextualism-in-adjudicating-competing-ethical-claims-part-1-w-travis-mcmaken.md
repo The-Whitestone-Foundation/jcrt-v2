@@ -1,6 +1,7 @@
 ---
 nanoid: "DSv9Pn"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqy5vjz2t'
 title: >-
   The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In
   Adjudicating Competing Ethical Claims, Part 1 (W. Travis McMaken)
@@ -22,7 +23,6 @@ tags:
   - ethical
   - humanity
 ---
-
 *The following is the first of a two-part series*.
 
 The life and work of Dietrich Bonhoeffer quickly captured the imagination of theologians, clergy, and lay Christians in the years following the Second World War. His brave and theologically reflective involvement in the *Abwehr* plot to overthrow Hitler, and the untimely end he met as a result of that involvement, commended him to any Christian interested in bringing their Sunday faith with them to work and public service on Monday.

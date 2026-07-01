@@ -1,6 +1,7 @@
 ---
 nanoid: "HirX0Y"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurf2eoo2s'
 title: >-
   Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation,
   Part 1 (Alan Jay Richard)
@@ -22,7 +23,6 @@ tags:
   - existence
   - potentiality
 ---
-
 ## The following is the first installment of a multi-part series.
 
 One of the challenges of liberation theology is to think the radical political and social liberation of the oppressed in a way that is truly this-worldly. This challenge is already clearly apparent in Gustavo Gutierrez’s [*A Theology of Liberation*](https://books.google.com/books?id=_65XWzMCx8UC&printsec=frontcover&dq=a+theology+of+liberation&hl=en&sa=X&ved=0ahUKEwjKoaST94_QAhVizFQKHbn6CwMQ6AEINDAC#v=onepage&q=a%20theology%20of%20liberation&f=false) in 1972, which insists on starting from “facts and questions derived from the world” in order “to be part of a process through which the world is transformed.” 1 In the tension between being fully in the world and radically refusing the system of oppression and exploitation that not only troubles the word but in every meaningful sense *is* the world as it is, liberation theology reclaims the tension of the early Jesus movement’s focus on the eschatological “kingdom of God.”

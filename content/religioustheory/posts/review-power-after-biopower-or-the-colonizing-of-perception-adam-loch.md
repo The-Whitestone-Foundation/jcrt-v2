@@ -1,6 +1,7 @@
 ---
 nanoid: "TE21C-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7wcjo2k'
 title: 'Review – Power After Biopower, Or The Colonizing Of Perception (Adam Loch)'
 description: "*Massumi, Brian. Ontopower: War, Powers, and the State of Perception. Durham NC: Duke University Press, 2015. Hardcover, Paperback, E-book, ix + 320 pages.* A"
 date: '2017-11-28T14:09:56.000Z'
@@ -17,7 +18,6 @@ tags:
   - military
   - logic
 ---
-
 **Massumi, Brian.  *Ontopower: War, Powers, and the State of Perception*.  Durham NC: Duke University Press, 2015.  Hardcover, Paperback, E-book, ix + 320 pages.**
 
 A veritable articulation of power after (and operating alongside) Foucault’s biopower, *Ontopower: War, Powers, and the State of Perception* offers a framework and conceptual tools for navigating the post-9/11 reality of the “war on terror.” *Ontopower*, in expressing the edges of Massumi’s philosophical frontier, is as much an incisive exposition of processes animating the U.S. military as it is a prolegomena to strategies for resisting war, capitalism, and neoliberalism. Ontopower, a positive power-to that insinuates itself into the infra-level of becoming (the as yet barely there of what will become),[^1] is most potently exemplified by the military, which primes bodies to function as part-subjects of a self-correcting war-machine.

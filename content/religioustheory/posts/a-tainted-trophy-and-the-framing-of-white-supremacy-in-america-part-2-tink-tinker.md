@@ -1,6 +1,7 @@
 ---
 nanoid: "qFvI5b"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsbwj72k'
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 2 (Tink
   Tinker)
@@ -21,7 +22,6 @@ tags:
   - theology
   - annual
 ---
-
 *The following is the third of a three-part series. The first can be found [here]( /religioustheory/posts/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/). The entire article appears in the fall 2022 issue of [The New Polis Journal.](http://journal.thenewpolis.com/)*
 
 In fact, this book—with its cover—had become part of the romance narrative of christian conquest, helping to frame destruction, murder and conquest as somehow justifiable before their god. This larger romanticized history of eurochristian conquest of the Land where he grew up could not have left RM unaffected, although it is a far cry from justifying his elite colonialist ignorance. At the same time, the historical narrative framed anthony wayne as the hero who opened the continent to westward expansion, defeated the Natives in their homeland, and negotiated the Treaty of greenville in 1795.

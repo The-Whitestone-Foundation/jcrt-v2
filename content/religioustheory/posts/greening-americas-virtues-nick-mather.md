@@ -1,6 +1,7 @@
 ---
 nanoid: "SSgFut"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqp4bqy23'
 title: Greening America’s Virtues (Nick Mather)
 description: "The United States likes to present itself as a global leader, yet, when it comes to tackling what is arguably the greatest crisis facing humanity, global"
 date: '2024-10-02T11:59:01.000Z'
@@ -17,7 +18,6 @@ tags:
   - republic
   - ethics
 ---
-
 The United States likes to present itself as a global leader, yet, when it comes to tackling what is arguably the greatest crisis facing humanity, global climate change, we have fallen woefully short of that idea. The nation’s failure to adequately address the climate crisis is in part the product of an American vision of the good life predicated on endless cycles of consumption that drives environmental destruction and contributes to a changing climate.
 
 This vision, partnered with flat-out denial of environmental problems by some politicians, and the inability to cross ideological divides point to something profoundly amiss with America’s values and politics. Stalemate, not reason, rules the day. Given the warnings by the international scientific community as well as the Department of Defense, the inability, or refusal, of the United States government to seriously address global climate change is both a political and moral failure. How can this be fixed? Can it be fixed?

@@ -1,6 +1,7 @@
 ---
 nanoid: "8KXw-v"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvbi5u2b'
 title: >-
   Difficult Discussions – Christian Evangelicalism And Critical Race Theory
   (Announcement)
@@ -26,7 +27,6 @@ tags:
   - political
   - social
 ---
-
 **When:** Thursday, September 23, 2021, 10 am-12 pm (Mountain Daylight Time)
 
 **Register for online seminar:** [https://us02web.zoom.us/meeting/register/tZEucemuqjgiGtLzNgdy18rsYEEinRCDOn25](https://us02web.zoom.us/meeting/register/tZEucemuqjgiGtLzNgdy18rsYEEinRCDOn25)

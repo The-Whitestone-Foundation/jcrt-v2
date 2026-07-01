@@ -1,6 +1,7 @@
 ---
 nanoid: "Beqg4m"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur2juyo22'
 title: From The Gift Of Mortality To The Name Of God (Jakob Helmut Deibl)
 description: "The following is a continuation of a series of articles corresponding to chapters of the book Preis der Sterblichkeit: Christentum und Neuer Humanismus"
 date: '2019-09-23T03:47:00.000Z'
@@ -19,7 +20,6 @@ tags:
   - biblical
   - mortality
 ---
-
 *The following is a continuation of* *a series of articles corresponding to chapters of the book* Preis der Sterblichkeit: Christentum und Neuer Humanismus *(Freiburg im Bresgau: Verlag Herder, 2015), edited by Kurt Appel, translated by Rachel Thomas.  English editor, Carl Raschke.  This volume of essays represents one of the major works in the new Catholic “cultural humanism” from Central Europe.* 
 
 [Kurt Appel in his inaugural lecture has shown](/religioustheory/posts/christianity-as-a-new-humanism/)  that the so-called priestly narrative of creation and the story of the Garden of Paradise and the Fall (Gen 1-3) can be compared to a periscope. In consequence, the displacement from the garden as well as the gift of mortality can be seen as “restitution measures, simulacra of the original protection”,[^1] located in the withdrawnness of the tree of knowledge (as well as the seventh day).

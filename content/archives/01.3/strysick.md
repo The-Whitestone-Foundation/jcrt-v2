@@ -1,6 +1,7 @@
 ---
 nanoid: "bh_1Z3"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutemv2y26'
 title: "Culture Wars, Religion, and the Postmodern Sacred"
 article_number:
 author: "Michael Strysick"

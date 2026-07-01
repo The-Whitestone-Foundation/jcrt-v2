@@ -1,6 +1,7 @@
 ---
 nanoid: "395iOB"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurh4ijt2f'
 title: Review – Agamben’s Political Reading of the Trial of Jesus (Ryne Beddard)
 description: "*Agamben, Giorgio. Pilate and Jesus (Meridian: Crossing Aesthetics). Translated by Adam Kotsko. Stanford: Stanford University Press, 2015 It highlights"
 date: '2016-07-21T08:00:10.000Z'
@@ -17,7 +18,6 @@ tags:
   - political
   - historical
 ---
-
 **Agamben, Giorgio. *Pilate and Jesus* (Meridian: Crossing Aesthetics). Translated by Adam Kotsko. Stanford: Stanford University Press, 2015. ISBN 10: 0804794545 Hardcover, paperback, e-book. 88 pages.**
 
 Why is it the case that the divine incarnation, the meeting place of earthly and heavenly authority, should, in its climactic moment, assume the form of a trial? What can be said of this mysterious occurrence? This is precisely the problem which Italian theorist Giorgio Agamben seeks to address in his work *Pilate and Jesus*, which was published in English in 2015. This short book – which, at only 58 small pages, is really more of a long essay – focuses most of its energies on one of the most enigmatic characters in the New Testament: Pontius Pilate.

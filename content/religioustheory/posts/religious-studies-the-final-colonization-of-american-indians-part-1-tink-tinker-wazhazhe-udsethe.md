@@ -1,6 +1,7 @@
 ---
 nanoid: "bhvFwv"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqyw4st2v'
 title: >-
   Religious Studies – The Final Colonization Of American Indians, Part 1 (Tink
   Tinker, wazhazhe udsethe)
@@ -20,7 +21,6 @@ tags:
   - community
   - colonial
 ---
-
 *The following is the first of a two-part series.* *The second can be found [here]( /religioustheory/posts/religious-studies-the-final-colonization-of-american-indians-part-1-tink-tinker-wazhazhe-udsethe-2/).*
 
 In late 2019 I was invited to deliver a paper at an international symposium, “Re-Envisioning Religious Studies as a Global Discipline,” hosted by the *Journal for Cultural and Religious Theory* held in conjunction with the annual American Academy of Religion conference. The question posed for the conference was: How are we academics going to re-envision religious studies as a global discipline?[^1] That conference title and the question posed already presumed a great deal about the world and about the academy.

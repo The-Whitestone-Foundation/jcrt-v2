@@ -1,6 +1,7 @@
 ---
 nanoid: "IjwjG0"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurcyial2v'
 title: >-
   Untimely Meditations on Techno-Theology and Theo-Poetics, Part 2 (John
   Panteleimon Manoussakis)
@@ -22,7 +23,6 @@ tags:
   - philosophy
   - theology
 ---
-
 ***The following is the second half of the article*.  *The first installment [can be found here.]( /religioustheory/posts/untimely-meditations-on-techno-theology-and-theo-poetics-part-1-john-panteleimon-manoussakis/)***
 
 ## Theopoetics II: The Difference between Technology and Logotechny

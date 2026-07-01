@@ -1,6 +1,7 @@
 ---
 nanoid: "I15SAz"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwavcw2s'
 title: 'Reorientation In The Field – Why Religion Matters, Part 2 (Wendy Felese)'
 description: "The following is the second of a two-part series. The first can be found here. The article was first given at a conference in 2019 in Athens, Greece (2019)."
 date: '2021-03-29T01:57:00.000Z'
@@ -19,7 +20,6 @@ tags:
   - identity
   - social
 ---
-
 *The following is the second of a two-part series. The first can be found [here](/religioustheory/posts/reorientation-in-the-field-why-religion-matters-part-1-wendy-felese/).* *The article was first given at a conference in 2019 in Athens, Greece. Citation for the original paper is as follows: Felese, W. (2019). “Reorientation in the Field: Why Religion Matters”, Athens: ATINER’S Conference Paper Series, No: REL2019-2659.*
 
 ## The Third Eye

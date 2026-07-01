@@ -1,6 +1,7 @@
 ---
 nanoid: "qvA8jl"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3ogl62a'
 title: >-
   Jonathan Edwards And The Vegan Elect – An Unconventional Calvinist Reading,
   Part 1 (Tadd Ruetenik)
@@ -22,7 +23,6 @@ tags:
   - cultural
   - spiritual
 ---
-
 ## The following is the first installment of a two-part series.
 
 In 1895, when Myrtle Fillmore, co-founder of the Unity School of Christianity, [first became a vegetarian, she said](http://gcfs.ucpress.edu/content/9/2/35) that “the appetite left me without my even thinking about it and I am sure I outgrew the demand for murdered things” (37). One realizes upon hearing this that the move to murder-free eating involved a conversion of some sort, one that she saw as religious.

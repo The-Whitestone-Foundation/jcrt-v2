@@ -1,6 +1,7 @@
 ---
 nanoid: "e2KzIy"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurigcgd2f'
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 2'
 description: "The following is Part 2 of a 3-part series by Victor Taylor on how one might reflect theologically on Jesus and the Christian message from a Derridean"
 date: '2016-05-06T21:40:13.000Z'
@@ -19,7 +20,6 @@ tags:
   - marxism
   - deconstruction
 ---
-
 *The following is Part 2 of a 3-part series by Victor Taylor on how one might reflect theologically on Jesus and the Christian message from a Derridean perspective that departs significantly from the work of John D. Caputo. [The first part was published]( /religioustheory/posts/jesus-ghost-derrida-christianity-and-hauntology-part-1/) in* Religious Theory *on April 27, 2016.  This section considers the meaning of the term “heritage.”*
 
 The un-closable “phantasmagoria” that supposedly first begins “before itself,” as we see from Derrida, belongs explicitly to a hauntological condition, the persistent deconstructive space of *différance* as the plenitude of capacities.  In this sense, every offered “phantasm,” spiritual or purportedly material, is doubled or tripled or, simply, infinitely multiplied in its inevitable return not to a secure “grounded” ground (crypt) but instead to a mystical, abyssal, not synthetic, remaindered condition—an aporia. In this “spectered” and incomplete-able dynamic, ground is “phantasm,” that which is lacking in an auto-genetic originary space, which means that it is not self-generating, self-sustaining, “autonomic,” or immune from deconstructing in the abyss of “before itself,” as described by Derrida.

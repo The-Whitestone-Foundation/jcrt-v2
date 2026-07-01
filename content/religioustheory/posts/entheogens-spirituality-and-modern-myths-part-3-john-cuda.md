@@ -1,6 +1,7 @@
 ---
 nanoid: "65tO8v"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqulm4a23'
 title: 'Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)'
 description: "Part 3 links entheogen practice and dreamwork, arguing that altered states function as a training ground for agency, myth-making, and transformed lived reality."
 date: '2021-10-21T22:02:12.000Z'
@@ -19,7 +20,6 @@ tags:
   - magical
   - economic
 ---
-
 *The following is the third of a three-part* series. *The [first]( /religioustheory/posts/entheogens-spirituality-and-modern-myths/) and [second](https://jcrt.org/religioustheory/2021/10/13/entheogens,-spirituality,-and-modern-myths,-part-2-\(john-cuda\)/\(opens%20in%20a%20new%20tab\)) can be found here*.
 
 ## It Was Only a Dream

@@ -1,6 +1,7 @@
 ---
 nanoid: "fvPWys"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurh24pw2s'
 title: >-
   Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part
   1 (Agata Bielik-Robson)
@@ -22,7 +23,6 @@ tags:
   - philosophical
   - decision
 ---
-
 *This article is published in two parts.  The second portion will appear on August 1.*
 
 > I have set before you life and death: choose life. – Deuteronomy 30:19

@@ -1,6 +1,7 @@
 ---
 nanoid: "ne3ZIb"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqs4zbx2k'
 title: >-
   Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 1
   (Erik Meganck)
@@ -23,7 +24,6 @@ tags:
   - theology
   - christianity
 ---
-
 ## The following is the first of a three-part series.
 
 *Philo-sophy* literally means “love of wisdom.”[^1] But this can be read in more than one way. There is the well-known objective genitive, proposing that philosophers are thinkers who love wisdom without claiming to own it. But there is also a subjective genitive that shows how love belongs to wisdom. So, when wisdom takes the form of love, it could become philosophy. ‘Philosophy is the wisdom of love at the service of love.’[^2]

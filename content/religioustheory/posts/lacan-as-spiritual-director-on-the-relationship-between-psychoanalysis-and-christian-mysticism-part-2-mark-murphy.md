@@ -1,6 +1,7 @@
 ---
 nanoid: "XlIyGO"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5e5ni23'
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 2 (Mark Murphy)
@@ -23,7 +24,6 @@ tags:
   - experience
   - discourse
 ---
-
 *The following is the second installment of a three-part series.  The first can be found [here]( /religioustheory/posts/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-1-mark-murphy/).*
 
 *What Does Lacan Mean When He Says That Spiritual Direction is a Demand for Truth?*

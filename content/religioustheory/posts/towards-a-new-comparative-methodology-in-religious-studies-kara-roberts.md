@@ -1,6 +1,7 @@
 ---
 nanoid: "En9ft8"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4vk3b2t'
 title: Towards A New Comparative Methodology In Religious Studies (Kara Roberts)
 description: "Author Note: The following was originally written as the introduction to a much longer comparative project between two religious myths Amy Balogh. It highlights"
 date: '2018-09-23T23:04:41.000Z'
@@ -21,7 +22,6 @@ tags:
   - magic
   - postmodernism
 ---
-
 *Author Note: The following was originally written as the introduction to a much longer comparative project between two religious myths. Additionally, the creation of the following model for comparative methodology in religious studies could not have been possible without the help and guidance of Dr. Amy Balogh.* 
 
 The field of comparative religious studies has a negative reputation in the broader umbrella of religious studies.[^1] However, despite the failings of past comparative endeavors – which this article will detail – there is an imperative within the study of religion that comparisons among religions continue to be done: the act of comparison allows the comparativist and the readers to understand the original comparands in even greater depth than individual analysis. As a religious studies researcher, I believe that one of the duties of religious studies scholarship is to seek to understand the individual components that comprise a religion – practice, belief, and artifact – and (ideally) the religion as a whole. While the latter may be too lofty of an aspiration, it remains a goal of religious studies.

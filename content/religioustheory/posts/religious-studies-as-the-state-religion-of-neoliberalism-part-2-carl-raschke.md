@@ -1,6 +1,7 @@
 ---
 nanoid: "sIOpad"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsjfxq26'
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 2 (Carl
   Raschke)
@@ -19,7 +20,6 @@ tags:
   - political
   - religious
 ---
-
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/religious-studies-as-the-state-religion-of-neoliberalism-carl-raschke/) .*
 
 The supreme achievement of neoliberalism, according to Han, is that it has massively perfected on a planetary scale the system of exploitation that eighteenth and nineteenth century liberalism pushed under the false flag of enlarging “freedom.”  Robin Blackburn documents the complex, conflictual, and disingenuous patterns of discursivity by which the various processes of “modernist” subjectivation contributed simultaneously to the popular spread of both democratic and egalitarian ideals in Europe and America and to the horrific degradation and enslavement of Africans.  Similarly, Han analyzes the many ways I which the neoliberal modus operandi along with its rhetoric has turned so-called “emancipatory” strategies upside down and converted them into occasions for self-servitude.  As Han puts it, “neoliberalism represents a highly efficient, indeed an intelligent, system for exploiting freedom” [^1]  

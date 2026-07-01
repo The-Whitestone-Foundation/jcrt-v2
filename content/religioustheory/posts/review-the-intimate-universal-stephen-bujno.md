@@ -1,6 +1,7 @@
 ---
 nanoid: "rHIu1O"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur47rfx2k'
 title: Review – The Intimate Universal (Stephen Bujno)
 description: "*William Desmond, The Intimate Universal: The Hidden Porosity Among Religion, Art, Philosophy, and Politics. Columbia University Press, 2016. 520 pages"
 date: '2019-03-08T03:46:26.000Z'
@@ -18,7 +19,6 @@ tags:
   - porosity
   - politics
 ---
-
 **William Desmond, *The Intimate Universal: The Hidden Porosity Among Religion, Art, Philosophy, and Politics*. Columbia University Press, 2016. 520 pages. ISBN 9780231178761**
 
 Illustrating the constrictions of the received metaphysical legacy, the intimate as a universal seeks a space between the typical contrasts of the notion of particulars and universals, or the immanent and transcendent.

@@ -1,6 +1,7 @@
 ---
 nanoid: "amVpmX"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqz2z6j2t'
 title: >-
   Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To
   The Leveling Of The Public Sphere, Part 1 (Andrew Ball)
@@ -21,7 +22,6 @@ tags:
   - individual
   - inwardness
 ---
-
 ## The following is the first of a three-part series.
 
 Though Kierkegaard is typically considered to be the consummate philosopher of the single individual, his critique of secular modernity and institutional Christendom provide us with greater insight into the place of the social and political spheres in the trajectory of his authorship and existential thought. His criticism of the modern notion of “the public” may appear as an attack upon sociality in general—indeed, he doubts whether the modern age will “be saved by the idea of sociality, of community”—but we must qualify this accordingly (EK 267).

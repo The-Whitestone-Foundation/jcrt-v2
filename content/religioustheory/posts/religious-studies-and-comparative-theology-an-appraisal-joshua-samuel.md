@@ -1,6 +1,7 @@
 ---
 nanoid: "MwI-m-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurambun27'
 title: Religious Studies and Comparative Theology – An Appraisal (Joshua Samuel)
 description: "The title “religious scholar,” it must be remembered, is a very ambiguous categorization. It could either mean those who are engaged in academic work in the"
 date: '2017-10-09T02:29:56.000Z'
@@ -20,7 +21,6 @@ tags:
   - comparative
   - category
 ---
-
 The title “religious scholar,” it must be remembered, is a very ambiguous categorization. It could either mean those who are engaged in academic work in the religious department of a university or it could also include those involved in subjective religious study, like in a seminary.
 
 From a critical post-modern perspective, it could also include along with the academics, not only religious leaders (as scholars in terms of their acquired knowledge and their experiences) but also religious believers who profess and practice their religious beliefs in relevance to the needs of their situations.

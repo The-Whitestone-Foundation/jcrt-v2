@@ -1,6 +1,7 @@
 ---
 nanoid: "0bHlxL"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur32xty23'
 title: >-
   Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 1 (Sarah
   Pessin)
@@ -19,7 +20,6 @@ tags:
   - relation
   - pastness
 ---
-
 *The following is the first of a two-part installment.  This article can also be [downloaded in PDF format](https://jcrt.org/archives/18.2/Pessin.pdf) from the Spring 2019 issue (Vol. 18, No. 2) of the J*ournal for Cultural and Religious Theory.
 
 ## Claustrophobia at the Christian Table

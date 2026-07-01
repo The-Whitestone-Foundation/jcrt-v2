@@ -1,6 +1,7 @@
 ---
 nanoid: "95GXHB"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurd7tbt2r'
 title: >-
   Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and Andrew
   Feenberg on Lukács’ Theory of Reification (Konstantinos Kavoulakos)
@@ -23,7 +24,6 @@ tags:
   - theory
   - praxis
 ---
-
 Axel Honneth’s [*Reification. A New Look at an Old Idea*](https://books.google.com/books?id=TYGrnFL737UC&printsec=frontcover&dq=Reification.+A+New+Look+at+an+Old+Idea&hl=en&sa=X&ved=0ahUKEwjKtdCB1dbSAhXqhlQKHUIDA-8Q6AEIHDAA#v=onepage&q=Reification.%20A%20New%20Look%20at%20an%20Old%20Idea&f=false) (2008) and [Andrew Feenberg’s *Philosophy of Praxis*](https://books.google.com/books?id=KcRNBAAAQBAJ&printsec=frontcover&dq=feenberg+philosophy+of+praxis&hl=en&sa=X&ved=0ahUKEwii-9uU1dbSAhVJiVQKHat5Du4Q6AEIHDAA#v=onepage&q=feenberg%20philosophy%20of%20praxis&f=false) (2014) represent two recent publications, which give a clear indication of the revived theoretical interest in a classical concept of critical theory. It is the concept of reification as was shaped by Georg Lukács in his legendary book [*History and Class Consciousness*](https://books.google.com/books?id=SfcylisIu4gC&printsec=frontcover&dq=Lukacs+history+and+class+consciousness&hl=en&sa=X&ved=0ahUKEwjG7dSv1dbSAhXJgVQKHe6LBO8Q6AEIHDAA#v=onepage&q=Lukacs%20history%20and%20class%20consciousness&f=false) (1923), to whose analyses both theorists refer.
 
 Both contributions are of great importance for a new account of critical theory’s basic theoretical tools: As is well known, the concept of reification played a crucial role in the tradition of critical theory from its initial formulations by Horkheimer and Adorno to Habermas’s [*Theory of Communicative Action*](https://books.google.com/books?id=kuFhjNZuHTAC&printsec=frontcover&dq=habermas+theory+of+communicative+action&hl=en&sa=X&ved=0ahUKEwjL0YXF1dbSAhXHyFQKHcL6C-8Q6AEIHDAA#v=onepage&q=habermas%20theory%20of%20communicative%20action&f=false) (1981). They become even more important if we consider the tendency of the younger generation of critical theorists, who are inspired by Habermas and his turn towards liberalism and pragmatism, to totally abandon this classical concept as irreversibly outdated.

@@ -1,6 +1,7 @@
 ---
 nanoid: "YBZSdl"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzhfad2r'
 title: >-
   “The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic
   Hospitality And The Limits Of Multiculturalism, Part 2 (Emily McAvan)
@@ -20,7 +21,6 @@ tags:
   - multiculturalism
   - reluctant
 ---
-
 *The following is the second of a two-part series. The first can be found [here.]( /religioustheory/posts/the-reluctant-fundamentalist-and-the-inhospitable-state-abrahamic-hospitality-and-the-limits-of-multiculturalism-emily-mcavan/)*
 
 ## The Failure of Hospitality

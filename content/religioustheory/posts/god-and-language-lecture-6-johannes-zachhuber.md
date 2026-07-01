@@ -1,6 +1,7 @@
 ---
 nanoid: "S7SOtr"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur3vs3a25'
 title: 'God And Language, Lecture 6 (Johannes Zachhuber)'
 description: "The following is the sixth lecture in an eight-lecture series. The most recent one can be found here. I started the last couple of lectures with elaborate"
 date: '2019-04-02T04:06:03.000Z'
@@ -19,7 +20,6 @@ tags:
   - philosophical
   - traditional
 ---
-
 *The following is the sixth lecture in an eight-lecture series. The most recent one can be found [here.]( /religioustheory/posts/god-and-history-lecture-5-johannes-zachhuber/)*
 
 I started the last couple of lectures with elaborate explanations of the meaning and the relevance of the topic. This seems less necessary today. That theology as the task of thinking and speaking about God is closely connected with our understanding of language, its character, and its limitations seems as obvious as it has been traditional.

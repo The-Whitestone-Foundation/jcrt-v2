@@ -1,6 +1,7 @@
 ---
 nanoid: "bV7b2W"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkure2izi23'
 title: Spinoza’s Theory of Religion – Stabilized Superstition (Ehud Benor)
 description: "The best interpretations of Spinoza’s philosophy would lead us to believe that, for Spinoza, religion is superstition. Henry Allison’s account is an excellent"
 date: '2017-01-13T22:59:35.000Z'
@@ -17,7 +18,6 @@ tags:
   - religious
   - authority
 ---
-
 The best interpretations of Spinoza’s philosophy would lead us to believe that, for Spinoza, religion is superstition. Henry Allison’s account is an excellent example.1 As he proceeds to discuss Spinoza’s views concerning revelation, scripture and religion, the subject matter of the *Tractatus Theologico-Politicus*, Allison writes:
 
 > Spinoza’s general attitude to the claims of revealed religion is already clear from our consideration of the *Ethics*. Basically, belief in the teachings of traditional religions, as generally construed, is equated with superstition. The source of such belief is the imagination, and its hold on the mind of the masses is explained in terms of its connection with the passions of hope and fear. Hence, not only does Spinoza maintain that this belief lacks any rational basis; he also holds that the “virtues” which its proponents affirm-for example, fear of God, a sense of guilt, repentance, humility, and so on-are largely at variance with the dictates of reason.2

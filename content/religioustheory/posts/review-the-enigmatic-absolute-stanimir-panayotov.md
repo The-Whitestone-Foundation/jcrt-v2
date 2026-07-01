@@ -1,6 +1,7 @@
 ---
 nanoid: "-_w0Ik"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4cauv27'
 title: Review – The Enigmatic Absolute (Stanimir Panayotov)
 description: "*Joshua Ramey and Matthew S. Haar Farris (Eds.), Speculation, Heresy, and Gnosis in Contemporary Philosophy of Religion: The Enigmatic Absolute 299 pages."
 date: '2019-02-22T02:44:30.000Z'
@@ -17,7 +18,6 @@ tags:
   - continental
   - ineffability
 ---
-
 **Joshua Ramey and Matthew S. Haar Farris (Eds.), *Speculation, Heresy, and Gnosis in Contemporary Philosophy of Religion: The Enigmatic Absolute*. Lanham, MD: Rowman and Littlefield, 2016. 299 pages. ISBN: 9781786601414**
 
 The volume edited by Ramey and Haar Farris is a compendium of, for the most part, high theory experimental writings. The volume collects reworked papers from a 2012 conference called “Thinking the Absolute: Speculation, Philosophy, and the End of Religion” held at Liverpool Hope University, and as the very first volume of a new Rowman and Littlefield series titled Reframing Continental Philosophy of Religion and edited by Steven Shakespeare and Duane Williams (both of Liverpool Hope University). This collection contributes to the field of philosophy of religion generally, where multitudes of scholars raise hand, but few embrace a programmatic commitment to realism that is neither anti-religious nor autistically scientific.

@@ -1,6 +1,7 @@
 ---
 nanoid: "LX7k53"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurg2exq23'
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 2 (Daniel Tutt)'
 description: "The following is the second installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.” It has been"
 date: '2016-09-13T16:38:35.000Z'
@@ -24,7 +25,6 @@ tags:
   - theory
   - political
 ---
-
 *The following is the second installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.”  It [has been published concurrently as part of an anthology](http://us.karnacbooks.com/product/sex-and-nothing-bridges-from-psychoanalysis-to-philosophy/37318/) entitled Sex and Nothing: Bridges from Psychoanalysis to Philosophy, edited by [Alejandro Cerda-Rueda](http://us.karnacbooks.com/Author.asp?AID=21559) (New York: Karnac Books, 2016).  The first part of the article as it appears in* Religious Theory *[can be found here]( /religioustheory/posts/love-psychoanalysis-and-leftist-political-ontology-part-1-daniel-tutt/).*
 
 ## Love-as-Transcendence

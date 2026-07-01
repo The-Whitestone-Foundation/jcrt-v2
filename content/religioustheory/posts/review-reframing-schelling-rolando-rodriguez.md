@@ -1,6 +1,7 @@
 ---
 nanoid: "CByjR-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkura5opi25'
 title: Review – Reframing Schelling (Rolando Rodriguez)
 description: "Daniel Whistler, **Schelling’s Theory of Symbolic Language: Forming the System of Identity (Oxford, UK: Oxford University Press, 2013), 261 ppgs + xi**"
 date: '2017-11-04T02:51:21.000Z'
@@ -20,7 +21,6 @@ tags:
   - theology
   - theory
 ---
-
 **Daniel Whistler,** ***Schelling’s Theory of Symbolic Language: Forming the System of Identity* (Oxford, UK: Oxford University Press, 2013), 261 ppgs + xi**
 
 Friedrich Wilhelm Joseph Schelling (1775-1854) was a German philosopher who is situated between the two predominant thinkers of his time: his mentor, Johann Gottlieb Fichte; and his contemporary and in many ways, rival, Wilhelm Friedrich Hegel. His philosophical system, which he himself changed as his thought evolved, results in an arguably convoluted and an inarguably complex philosopher. Regardless, his importance is second to none; we can see his evident influence on thinkers in following generations such as, but not limited to, Hegel himself, Søren Kierkegaard, Martin Heidegger, Maurice Merleau-Ponty, Paul Tillich, and Slavoj Žižek amongst the other thinkers Whistler acknowledges.(ix) Thus, Daniel Whistler’s new books comes at an opportune time, where critical (re)examinations of Schelling’s thought have recently begun to emerge—a sort of “Schelling renaissance” as Whistler accurately describes.

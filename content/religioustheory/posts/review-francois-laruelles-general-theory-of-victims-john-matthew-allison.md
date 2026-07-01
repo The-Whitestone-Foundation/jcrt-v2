@@ -1,6 +1,7 @@
 ---
 nanoid: "WJDr0y"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurey2jz2t'
 title: Review – François Laruelle’s General Theory of Victims (John Matthew Allison)
 description: "*Laruelle, François. General Theory of Victims. Translated by Jessie Hock and Alex Dubilet. Malden, MA: Polity Press, 2015. ISBN-10: 0745679617 It highlights"
 date: '2016-11-17T08:00:18.000Z'
@@ -18,7 +19,6 @@ tags:
   - generic
   - general
 ---
-
 **Laruelle, François. *General Theory of Victims*. Translated by Jessie Hock and Alex Dubilet. Malden, MA: Polity Press, 2015. ISBN-10: 0745679617. Hardcover, paperback, e-book. 161 Pages.**
 
 There is a kind of “non-philosophical” eruption happening in so-called Continental philosophy. After a prodigious output for over three decades, François Laruelle is finally now garnering attention in Anglophone scholarship. Indeed, between the beginning of 2015 and the end of 2016 alone, we will have seen no less than the translation of six of his books, including *General Theory of Victims*, into English.

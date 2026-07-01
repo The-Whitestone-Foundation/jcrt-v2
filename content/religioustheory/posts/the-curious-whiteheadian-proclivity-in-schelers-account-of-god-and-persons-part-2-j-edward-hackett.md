@@ -1,6 +1,7 @@
 ---
 nanoid: "lrL4Ho"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzci2x2p'
 title: >-
   The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons,
   Part 2 (J. Edward Hackett)
@@ -21,7 +22,6 @@ tags:
   - reality
   - metaphysics
 ---
-
 *The following is the second installment of a two-part series. The first can be found [here]( /religioustheory/posts/the-curious-whiteheadian-proclivity-in-schelers-account-of-god-and-persons-j-edward-hackett/).*
 
 *Geist und Drang*  

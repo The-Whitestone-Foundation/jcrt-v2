@@ -1,6 +1,7 @@
 ---
 nanoid: "4denOy"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut2o6wo2s'
 title: "Nihilism on a Rollercoaster?"
 author: "Ian McPherson"
 affilation:

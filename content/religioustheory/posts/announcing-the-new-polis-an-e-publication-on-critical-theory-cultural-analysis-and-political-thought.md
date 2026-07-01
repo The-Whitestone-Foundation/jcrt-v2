@@ -1,6 +1,7 @@
 ---
 nanoid: "hWqeiL"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6uq6t2i'
 title: >-
   Announcing “The New Polis” – An E-Publication On Critical Theory, Cultural
   Analysis, And Political Thought
@@ -25,7 +26,6 @@ tags:
   - theory
   - editorial
 ---
-
 The directors of The Whitestone Foundation, the Colorado-based 501(c)3 non-profit corporation that has published [*The Journal for Cultural and Religious Theory*](https://jcrt.org) since 1999 and its e-supplement [*Religious Theory*]( /about/) since 2016, announces a new companion publication entitled [*The New Polis*](http://www.thenewpolis.com).
 
 Following the style, format, and general editorial policy and protocols of the JCRT, *The New Polis* focuses critical theory, cultural analysis, and political thought and political theology.

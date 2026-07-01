@@ -1,6 +1,7 @@
 ---
 nanoid: "eHt7Ph"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut6ogh62s'
 title: "Piety, Power and Bare Life: What in the World Is Going on in the Name of Religion?"
 author: "Clayton Crockett"
 affilation:

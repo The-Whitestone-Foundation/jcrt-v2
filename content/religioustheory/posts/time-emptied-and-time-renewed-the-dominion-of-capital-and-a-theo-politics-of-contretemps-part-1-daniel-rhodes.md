@@ -1,6 +1,7 @@
 ---
 nanoid: "eWJooN"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkureqlv72p'
 title: >-
   Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of
   Contretemps, Part 1 (Daniel Rhodes)
@@ -22,7 +23,6 @@ tags:
   - history
   - social
 ---
-
 ## The following is the first installment of a three-part series.
 
 In his long-awaited interjection into the debates on the future of Marxism after the collapse of Soviet state communism, Jacques Derrida introduces the notion of *contretemps*.[^1] It is a concept that appears amid his call for a New International to bear the legacy of critique in a (final) epoch dominated by the new world order with its ten pervasive plagues.

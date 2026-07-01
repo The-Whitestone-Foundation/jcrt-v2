@@ -1,6 +1,7 @@
 ---
 nanoid: "CapXxN"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqu7kei23'
 title: >-
   Locating The Oceanic in Sylvia Wynter’s “Demonic Ground”, Part 1 (Justine M.
   Bakker)
@@ -19,7 +20,6 @@ tags:
   - oceanic
   - coloniality
 ---
-
 *The following article will appear next month in the Winter 2021-22 issue of the* Journal for Cultural and Religious Theory. *It is published in three installments.*
 
 > As a demonic island, black studies lifts the fog that shrouds the laws of comparison, particularity, and exception to reveal an aquatic outlook ‘far away from the continent of man.’

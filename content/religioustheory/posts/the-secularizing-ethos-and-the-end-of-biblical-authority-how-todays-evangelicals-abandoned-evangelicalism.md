@@ -1,6 +1,7 @@
 ---
 nanoid: "XvkLzK"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurji7n622'
 title: >-
   The Secularizing Ethos and the End of Biblical Authority – How Today’s
   Evangelicals Abandoned Evangelicalism
@@ -21,7 +22,6 @@ tags:
   - religious
   - biblical
 ---
-
 So reads the title of a recent article in the *Los Angeles Review of Books.* The author, Jim Hinch, begins his piece with the conversion story of A. J. Zimmerman, a 25 year old graduate of divinity school who is now a youth pastor and works for a Pentecostal seminary in San Diego, California.
 
 The life of Zimmerman exemplifies the “prototypical evangelical experience” of an inspiring conversion story. As a lost adolescent he had once attended a Pentecostal youth group to chase after this cute girl he was crushing on, but instead he ended up in an intense emotional experience encountering the presence of the Holy Spirit. Zimmerman found Jesus, and grew up to be an Evangelical minister.

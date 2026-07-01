@@ -1,6 +1,7 @@
 ---
 nanoid: "-0on-R"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqyaciw22'
 title: >-
   Bushwhacking Derrida – “Perception” – “Context of Context”, “The Hunter And
   The Hunted” (Gary Bedford)
@@ -20,7 +21,6 @@ tags:
   - critique
   - difference
 ---
-
 After Derrida, how can philosophy continue to think critically, and for our task here, *ontologically2*…? Can a critique of the context of perception via its textual traces render insight into the presumed meta-context of perception itself, of how we perceive our world? What occurs when perception, or its textual thought, *defer?* Is the question of the “nature of being,” or ontology, merely a metaphysic, or can an internal critique of perception render a revised working “order” of the context of perception and its textual thought? If so, where does that hunt lead us?
 
 Derrida observed, “…*there is nothing outside the text*,” and appeared to disrupt and annoy philosophy’s hope for critical method, even “truth.” A minimal implication is that homo sapiens perception is *con*– textual, and that perception’s thought occurs partly in a text – the text occurs “with” or as part of the “*con*”- text” of perceived experience. A maximal implication, however, is that perception specifically, and textual thought in general, are always *deferred.*

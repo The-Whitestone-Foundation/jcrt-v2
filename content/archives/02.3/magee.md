@@ -1,6 +1,7 @@
 ---
 nanoid: "R_q3JK"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutcvgft2r'
 title: "Heidegger, Religion, and the Transience of Digital Memory"
 article_number:
 author: "Neal Magee"

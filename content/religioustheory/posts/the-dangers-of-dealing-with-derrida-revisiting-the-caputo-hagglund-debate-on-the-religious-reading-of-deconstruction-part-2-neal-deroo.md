@@ -1,6 +1,7 @@
 ---
 nanoid: "Ry1RuS"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5qa7u2b'
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 2 (Neal DeRoo)
@@ -21,7 +22,6 @@ tags:
   - justice
   - experience
 ---
-
 *The following is the second installment of a three-part series.  The first one can be found [here.]( /religioustheory/posts/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-1-neal-deroo/)*
 
 ## Deconstruction in Context

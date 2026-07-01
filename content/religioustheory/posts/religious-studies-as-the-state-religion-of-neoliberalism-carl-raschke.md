@@ -1,6 +1,7 @@
 ---
 nanoid: "-fbS-U"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqsluvl2i'
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 1 (Carl
   Raschke)
@@ -25,7 +26,6 @@ tags:
   - social
   - neoliberal
 ---
-
 ## The following is the first of a three-part series.
 
 > “Neptunus alii per alia, poterunt intellegi qui qualesque sint, quoque eos nomine consuetudo nuncupaverit, hoc eos et venerari et colere debemus.” – Cicero, *De Natura Deorum*

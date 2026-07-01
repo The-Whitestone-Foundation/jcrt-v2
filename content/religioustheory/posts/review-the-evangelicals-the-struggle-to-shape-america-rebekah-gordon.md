@@ -1,6 +1,7 @@
 ---
 nanoid: "urxF6L"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurajviy23'
 title: 'Review – The Evangelicals: The Struggle to Shape America (Rebekah Gordon)'
 description: "*Fitzgerald, Francis. The Evangelicals: The Struggle to Shape America. New York City, New York: Simon & Schuster, 2017. ISBN-10: 1439131333. Hardcover"
 date: '2017-10-13T17:07:50.000Z'
@@ -18,7 +19,6 @@ tags:
   - evangelicalism
   - history
 ---
-
 **Fitzgerald, Francis. *The Evangelicals: The Struggle to Shape America.* New York City, New York: Simon & Schuster, 2017. ISBN-10: 1439131333. Hardcover. 637 pages.**
 
 In her book *The Evangelicals: The Struggle to Shape America*, historian and Pulitzer Prize winner Francis Fitzgerald provides a comprehensive history of white evangelical movements in America for the express purpose of explaining the formation of the Christian right and its modern evangelical opponents. Fitzgerald takes readers on a 637 page journey from the Great Awakenings of the 1700’s to the 2016 presidential elections, highlighting themes such as the effects of the North-South divide, fundamentalism, race, and Christian celebrity. Demonstrating her journalistic roots, Fitzgerald presents an even-handed and historically accurate portrayal of the development of evangelicalism in America that neither maligns nor lauds the culture, but instead contents itself to explain how part of the largely decentralized evangelical movement solidified into what has come to be known as the Christian right, and how it rose and subsequently fell from power.

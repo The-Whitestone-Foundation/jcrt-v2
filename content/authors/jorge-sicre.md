@@ -1,5 +1,6 @@
 ---
 nanoid: "A0mZod"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuu6cwvn27'
 name: Jorge Sicre
 affiliation:
 bio:

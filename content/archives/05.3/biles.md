@@ -1,6 +1,7 @@
 ---
 nanoid: "gNe1tK"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut3burl2v'
 title: "I, Insect; or, Bataille and the Crush Freaks"
 author: "Jeremy Biles"
 affilation:

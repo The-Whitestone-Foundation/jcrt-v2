@@ -1,6 +1,7 @@
 ---
 nanoid: "5MLLEB"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurevjfw2s'
 title: >-
   Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation,
   Part 2 (Alan Jay Richard)
@@ -21,7 +22,6 @@ tags:
   - existence
   - humanity
 ---
-
 *The following is the second installment of a multi-part series.  The first installment can be [accessed here]( /religioustheory/posts/dreaming-innocence-in-america-paul-tillichs-radical-theology-of-liberation-part-1-alan-jay-richard/).*
 
 As Tillich argues in the second dissertation, Kant views consciousness as “nothing but the act of synthesis of the manifold” – the structured uniting of a sensory multiplicity – by means of the “forms of comprehension” he calls the understanding. 1 Subjectivity is this unity, objectivity is this manifold, and truth is their identity. There is, however, no single perfect synthesis but rather “particular acts of the synthesizing consciousness.” 2

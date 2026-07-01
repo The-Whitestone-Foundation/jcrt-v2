@@ -1,6 +1,7 @@
 ---
 nanoid: "FyJqwU"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurfgrow2a'
 title: 'Review – Caputo, The Unconditional, The Folly of God (Richard M. Allen)'
 description: "*Caputo, John D. The Folly of God: A Theology of the Unconditional. Salem, OR: Polebridge Press, 2016. ISBN-10: 1598151711. Paperback, e-book Paperback, e-book."
 date: '2016-10-13T08:00:48.000Z'
@@ -17,7 +18,6 @@ tags:
   - weakness
   - radical
 ---
-
 **Caputo, John D. *The Folly of God: A Theology of the Unconditional*. Salem, OR: Polebridge Press, 2016. ISBN-10: 1598151711. Paperback, e-book. 148 pages.**
 
 What is the interest of theology? Traditionalists will answer that it is interested solely in God, and more specifically, to define and defend the reality of God as supreme being. Much of modern evangelical theology has followed this line of thought, fixated on the systematic affirmation of God as one of true omnipotence, omniscience, and omnipresence. God—the one, true God, of course—is self-existent, without beginning or end, and it is the task of theology to articulate the defense for God’s existence. Theology is nothing without God, and God is nothing without theology, at least it appears as such for traditionalists.

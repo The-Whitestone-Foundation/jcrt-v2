@@ -1,6 +1,7 @@
 ---
 nanoid: "RWiCIY"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurglgnd2r'
 title: >-
   Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part
   2 (Ronald Beiner)
@@ -22,7 +23,6 @@ tags:
   - judgment
   - materialism
 ---
-
 *“Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment” by Ronald Beiner is published in two parts during successive weeks.  The following is the second portion.  The first installment [can be found here]( /religioustheory/posts/benjamins-concept-of-history-as-a-source-of-arendts-idea-of-judgment-ronald-beiner/).  
 *
 

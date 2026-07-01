@@ -1,6 +1,7 @@
 ---
 nanoid: "tuFzxv"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutd4n4q26'
 title: "The Critique of Theological Reason"
 article_number:
 author: "David Hale"

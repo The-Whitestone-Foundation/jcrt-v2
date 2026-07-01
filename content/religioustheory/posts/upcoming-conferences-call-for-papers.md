@@ -1,6 +1,7 @@
 ---
 nanoid: "MSCBpx"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurjkpvj2t'
 title: Conferences and CFPs – Upcoming
 description: "Beyond Habermas? Critical Theory, Political Theology, and Interreligious Dialogue “Habermas’ postsecular perspective of socio-political integration has had a"
 date: '2016-02-26T20:48:25.000Z'
@@ -19,7 +20,6 @@ tags:
   - ethics
   - political
 ---
-
 **Beyond Habermas?  Critical Theory, Political Theology, and Interreligious Dialogue** 
 
 ## Call for Papers

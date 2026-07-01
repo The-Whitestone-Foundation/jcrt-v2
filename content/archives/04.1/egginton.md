@@ -1,6 +1,7 @@
 ---
 nanoid: "JDhNKe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutabm7r2t'
 title: "The Christianization of Deconstruction"
 article_number:
 author: "William Egginton"

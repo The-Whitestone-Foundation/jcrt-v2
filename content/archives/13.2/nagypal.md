@@ -1,6 +1,7 @@
 ---
 nanoid: "BEMrJm"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusdkqjh2k'
 title: "From the Classical Polis to the Neoliberal Camp: Mapping the Biopolitical Regimes of the Undead in Dawn of the Dead, Zombi 2 and 28 Days Later."
 author: "Tamas Nagypal"
 affilation:

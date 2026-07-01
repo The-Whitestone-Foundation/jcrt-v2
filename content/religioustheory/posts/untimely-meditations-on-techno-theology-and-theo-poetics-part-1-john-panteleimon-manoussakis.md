@@ -1,6 +1,7 @@
 ---
 nanoid: "Izzi_E"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurd2vgo2s'
 title: >-
   Untimely Meditations on Techno-Theology and Theo-Poetics, Part 1 (John
   Panteleimon Manoussakis)
@@ -22,7 +23,6 @@ tags:
   - theology
   - magical
 ---
-
 *The following is the first half of the article*.  *The second installment [can be found here]( /religioustheory/posts/untimely-meditations-on-techno-theology-and-theo-poetics-part-2-john-panteleimon-manoussakis/).*
 
 ## Philosophical Propaedeutics

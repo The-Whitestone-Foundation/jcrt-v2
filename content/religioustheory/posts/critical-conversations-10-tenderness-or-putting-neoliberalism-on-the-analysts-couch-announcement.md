@@ -1,6 +1,7 @@
 ---
 nanoid: "K9dbIx"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvps3d2f'
 title: >-
   Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism On The
   Analyst’s Couch (Announcement)
@@ -24,7 +25,6 @@ tags:
   - critical
   - religion
 ---
-
 **When:** Tuesday, June 29, 10am Mountain Standard Time
 
 **How:** Zoom. By Advance Registration. Please register at the following link below. You must register in advance of the seminar, whereupon you will be automatically sent the actual Zoom participation link.

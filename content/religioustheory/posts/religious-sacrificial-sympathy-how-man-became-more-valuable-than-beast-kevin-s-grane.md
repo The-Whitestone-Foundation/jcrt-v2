@@ -1,6 +1,7 @@
 ---
 nanoid: "pChT7U"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpvdjw22'
 title: >-
   Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin
   S. Grane)
@@ -24,7 +25,6 @@ tags:
   - dietary
   - sanctity
 ---
-
 The religious attitude of the West today demonstrates a consumerist ethos that would have been deeply foreign to the religious discourse of old. Perhaps one of the earliest forms of religion, Shamanism, provides the modern critic with a unique insight into the ethos of the spiritual man of the ancient world. Compared with the post-modern religious consumer, significant changes may be observed in environmental ethics.
 
 Beginning with Shamanism, it is by identifying changes in dietary practices and animal sacrifice that we observe the development of a growing indifference for non-human life, which contradicts one of the most prominent pillars of ancient religiosity, empathy, and respect for life regardless of form. Such a gradual loss of sympathy for the object of sacrifice for nourishment or divine intervention is but a microcosm of the religious man’s indifference and even abuse of the world around him.

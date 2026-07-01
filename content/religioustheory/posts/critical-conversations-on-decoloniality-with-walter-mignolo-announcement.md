@@ -1,6 +1,7 @@
 ---
 nanoid: "atExNt"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwwu572k'
 title: Critical Conversations – “On Decoloniality” With Walter Mignolo (Announcement)
 description: "An earlier version of this posting had the date listed as “December,” which would imply the webinar had already occurred It highlights key arguments and"
 date: '2020-12-29T20:12:22.000Z'
@@ -20,7 +21,6 @@ tags:
   - decolonial
   - hegemony
 ---
-
 *An earlier version of this posting had the date listed as “December,” which would imply the webinar had already occurred. It is still scheduled for **January, 12 2021.***
 
 **When:** Tuesday, January 12, 2021, 10 am Mountain Standard Time, 6 pm European time

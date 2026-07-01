@@ -1,6 +1,7 @@
 ---
 nanoid: "9M14K2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurb2xfq23'
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 3 (Carl Raschke)
@@ -21,7 +22,6 @@ tags:
   - desublimation
   - capitalism
 ---
-
 *This article is the last of three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk Conference Center (Stift Melk, Austria) sponsored by the [Religion and Transformation in Contemporary Society Platform at the University of Vienna](http://sowi.univie.ac.at/en/research/research-platforms/religion-and-transformation-in-contemporary-society/) (June 27, 2017). The [first installment can be found here]( /religioustheory/posts/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-1-carl-raschke/), the [second one here]( /religioustheory/posts/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-2-carl-raschke/).*
 
 It is significant that Gramsci alluded in his notebooks to the emerging hegemonic role of journalism, which he characterized as a contingent of “pocket-geniuses”, which pretends to be “holding the whole of history in the palm of its hand.”[^1]

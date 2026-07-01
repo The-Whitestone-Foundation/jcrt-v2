@@ -1,6 +1,7 @@
 ---
 nanoid: "oVh049"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutbttb72k'
 title: "Terror and the Sacred"
 article_number:
 author: "David Hale"

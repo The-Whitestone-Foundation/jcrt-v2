@@ -1,6 +1,7 @@
 ---
 nanoid: "fqpD6r"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutfrjpy25'
 title: "Mircea Eliade and the Imagination of Matter"
 article_number:
 author: "Charles H Long"

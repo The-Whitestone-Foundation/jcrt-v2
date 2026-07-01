@@ -1,5 +1,6 @@
 ---
 nanoid: "wrWS6e"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuthdelw2k'
 name: Wendy Felese
 affiliation: "Regis University, Montana State University Billings"
 bio:

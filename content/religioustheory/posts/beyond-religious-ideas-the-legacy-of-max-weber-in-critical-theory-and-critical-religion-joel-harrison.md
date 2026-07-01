@@ -1,6 +1,7 @@
 ---
 nanoid: "4mz7Tb"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur5v5sb2t'
 title: >-
   Beyond Religious Ideas – The Legacy Of Max Weber In Critical Theory And
   Critical Religion (Joel Harrison)
@@ -25,7 +26,6 @@ tags:
   - historical
   - segal
 ---
-
 *This article was [initially published in The New Polis](http://thenewpolis.com/2018/03/23/beyond-religious-ideas-the-legacy-of-max-weber-in-critical-theory-and-critical-religion-joel-harrison/), March 23, 2018.*
 
 In his essay “The Failure of Nerve in the Academic Study of Religion,”[^1] Donald Wiebe heralds a courageous return to the Enlightenment principles which once characterized the “science of religion,” particularly in the nineteenth century. Just a year after he first published the essay (1984), Wiebe co-founded the North American Association for the Study of Religion, helping to inaugurate a branch of religious studies scholarship loosely referred to today as “critical religion.”

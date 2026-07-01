@@ -1,6 +1,7 @@
 ---
 nanoid: "J_rOMd"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuret3so2a'
 title: >-
   Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation,
   Part 3 (Alan Jay Richard)
@@ -24,7 +25,6 @@ tags:
   - reality
   - unity
 ---
-
 *The following is the final installment of a three-part series.  The first installment can be [accessed here]( /religioustheory/posts/dreaming-innocence-in-america-paul-tillichs-radical-theology-of-liberation-part-1-alan-jay-richard/).  The second part can be found [here]( /religioustheory/posts/dreaming-innocence-in-america-paul-tillichs-radical-theology-of-liberation-part-2-alan-jay-richard/).*
 
 ## Dreaming Innocence and “Americans”: the Charrua and Us

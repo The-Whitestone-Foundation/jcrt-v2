@@ -1,6 +1,7 @@
 ---
 nanoid: "SJaS9f"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuriztdg2a'
 title: >-
   Recovering the Unconscious – A Conference on the Intersection of
   Psychoanalysis With Politics, Philosophy, and Religion – CFP
@@ -21,7 +22,6 @@ tags:
   - philosophy
   - unconscious
 ---
-
 ## Recovering the Unconscious
 
 Call for Papers and Presentations

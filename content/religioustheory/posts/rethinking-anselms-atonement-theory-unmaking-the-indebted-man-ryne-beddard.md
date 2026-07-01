@@ -1,6 +1,7 @@
 ---
 nanoid: "dqVhbe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkure7fzd2f'
 title: >-
   Rethinking Anselm’s Atonement Theory –  “Unmaking” The Indebted Man (Ryne
   Beddard)
@@ -23,7 +24,6 @@ tags:
   - gregory
   - salvation
 ---
-
 Throughout Church history Christians have used various images and illustrations to explain why God became a human and died, and why these actions have been considered by the tradition to be salvific. These are referred to as atonement theories, and in general they seek to answer three questions: How is humanity saved through Jesus? Who or what is humanity saved from? And what is the scope of this salvation? These theories have developed and adapted over time but we can group them in three main categories.
 
 The oldest of the three are ransom theories of atonement, sometimes also referred to as the Patristic tradition. Fourth century thinker Gregory of Nyssa is a classic example of a patristic theologian with a ransom theory of atonement. The second category are satisfaction theories, which first developed with Saint Anselm in the eleventh century, but also covers later substitution theories. The third category are called moral influence theories and are usually attributed to twelfth century scholar Peter Abelard.

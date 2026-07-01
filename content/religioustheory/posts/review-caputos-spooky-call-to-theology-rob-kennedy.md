@@ -1,6 +1,7 @@
 ---
 nanoid: "7nkfn6"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurcha632f'
 title: Review – Caputo’s “Spooky” Call To Theology (Rob Kennedy)
 description: "*Caputo, John D., Moody, Sarah, and DeLay, Tad., It Spooks: Living In Response To An Unheard Call. Rapid City SD: Shelter50 Publishing Collective, 2015"
 date: '2017-05-15T19:10:04.000Z'
@@ -18,7 +19,6 @@ tags:
   - religion
   - contribution
 ---
-
 **Caputo, John D., Moody, Sarah, and DeLay, Tad., *It Spooks: Living In Response To An Unheard Call.*  Rapid City SD: Shelter50 Publishing Collective, 2015.  ISBN-10: 0986249505. Paperback. 260 pages.**
 
 In *It Spooks* John D. Caputo continues his investigation into the theoretical possibilities of combining deconstruction with Judeo-Christianity.  This time Caputo has brought along for the journey many sympathetic co-contributors in the guise of theorists, poets, visual artists, and experimental bricoleurs of text and genre.  In general, the book is a nice assemblage of responses to Caputo’s *call*.  The performative mood of the text is reminiscent of the literary expressions associated with Derrida’s middle period and auto-biographical writings.  In this way, many of the pieces in this anthology are artistically creative and reflective of the idiosyncrasies of each contributor.

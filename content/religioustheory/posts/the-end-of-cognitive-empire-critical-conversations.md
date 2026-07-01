@@ -1,6 +1,7 @@
 ---
 nanoid: "ps0j18"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqxyxrw2a'
 title: “The End Of Cognitive Empire” (Critical Conversations)
 description: "The following is the video and transcript of the first of “Critical Conversations”, a monthly Zoom seminar with advance registration sponsored by The New Polis"
 date: '2020-09-09T04:32:47.000Z'
@@ -24,7 +25,6 @@ tags:
   - kant
   - eurocentric
 ---
-
 The following is the video and transcript of the first of “Critical Conversations”, a monthly Zoom seminar with advance registration sponsored by *The New Polis* and Whitestone Publications and involving international scholars. The seminar took place on August 18, 2020. It is republished here.
 
 *The next “Critical Conversations” on the topic of “Subjectivities Since the Sixties” is scheduled for Tuesday, September 22, 2020 at 10 am MDT, 6 pm European time. You are encouraged to join us. More information* [*is available here*](https://thenewpolis.com/2020/08/28/critical-conversations-subjectivities-since-the-sixties-announcement/)*.*

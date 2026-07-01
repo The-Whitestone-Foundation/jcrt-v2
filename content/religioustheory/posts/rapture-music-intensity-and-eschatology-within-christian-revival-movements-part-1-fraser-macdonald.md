@@ -1,6 +1,7 @@
 ---
 nanoid: "LPyVpU"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqt2goy25'
 title: >-
   Rapture Music – Intensity And Eschatology Within Christian Revival Movements,
   Part 1 (Fraser Macdonald)
@@ -21,7 +22,6 @@ tags:
   - musical
   - revival
 ---
-
 *The following is the first of a three-part series. The full article is also available in the Spring 2022 issue of the* [*Journal for Cultural and Religious Theory*](https://jcrt.org/archives/21.2/)*.*
 
 > “Music is never tragic, music is joy. But there are times it necessarily gives us a taste for death; not so much happiness as dying happily, being extinguished.”[^1]

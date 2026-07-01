@@ -1,6 +1,7 @@
 ---
 nanoid: "EiaLo2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurhg2h622'
 title: >-
   Review – The Search For Transcendence In The “Material Phenomenology” of David
   Foster Wallace (Jeff Appel)
@@ -22,7 +23,6 @@ tags:
   - religious
   - immanence
 ---
-
 **Miller, Adam S.  *The Gospel According to David Foster Wallace: Boredom and Addiction in an Age of Distraction*.   New York:  Bloomsburg Academic, 2016.  ISBN-10: 1474236979.  Hardcover, paperback, e-book.  136 pages.**
 
 In this age of increasing literary interdisciplinarity, books such as Adam S. Miller’s latest project, *The Gospel According to David Foster Wallace: Boredom and Addiction in an Age of Distraction*, succeed or fail on their capacity to identify and illuminate compelling discursive intersections.

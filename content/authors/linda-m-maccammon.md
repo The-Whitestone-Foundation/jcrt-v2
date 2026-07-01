@@ -1,5 +1,6 @@
 ---
 nanoid: "lbsFnR"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuu2kouz25'
 name: Linda M MacCammon
 affiliation: "Carroll College"
 bio:

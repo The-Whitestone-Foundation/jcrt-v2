@@ -1,6 +1,7 @@
 ---
 nanoid: "kHuAUO"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurdlzeb2t'
 title: >-
   Review – Neoliberalsm Is Nowhere – Wendy Brown’s Undoing the Demos (Isaiah
   Dylan Ellis)
@@ -19,7 +20,6 @@ tags:
   - neoliberal
   - social
 ---
-
 **![reagan thatcher](/images/2017/02/reagan-thatcher.webp)Brown, Wendy. *Undoing the Demos: Neoliberalism’s Stealth Revolution.* New York: Zone Books, 2015. ISBN-10: 1935408534. Hardcover. 296 pages.** 
 
 Almost every day since Election Day, 2016, a flood of think-pieces, editorials, and election post-mortems have sung a cacophonous and angry dirge. They scold an inept, divided left, and fume at the masculinist, authoritarian right now empowered and validated. American democracy, it seems, is all but buried (or, as researchers at *The Economist* delicately put it, “flawed”). Yet the identity of these commentaries’ real enemy remains unclear, and even among the left’s clarion voices consensus is hard to come by. The cause of Donald Trump’s ascendency, and the resultant intensification of racism, Islamophobia, and political discord across the country, has born the names populism, white nationalism, fascism, the electoral college, white racism, and—in a growing strain of commentary—neoliberalism.

@@ -1,6 +1,7 @@
 ---
 nanoid: "60mQkg"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuri242i26'
 title: >-
   Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part
   1 (Roger Green)
@@ -20,7 +21,6 @@ tags:
   - theology
   - notion
 ---
-
 ## The following is the first of a three-part series.
 
 The term “political theology” is currently used in a variety of ways in current debate over the place of liberalism amid world crises in politics and globalization. The most common version of the term rests on Carl Schmitt’s argument that all significant political concepts are secularized versions of theological concepts.

@@ -1,6 +1,7 @@
 ---
 nanoid: "OaeXCC"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuquxonx2p'
 title: >-
   Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars
   (Announcement)
@@ -27,7 +28,6 @@ tags:
   - identity
   - social
 ---
-
 It’s time to get real when we talk these days about race and racism.
 
 Ever since the murder of George Floyd in Minneapolis in the late spring of 2020 at the hands of police and the ensuing protests, mass calls for racial justice, and outbreaks of urban mayhem, much of the dominant public discourse has been about the deep-reaching legacy of white-on-black oppression. Phrases such as “structural racism” or “white fragility” or “de-policing” have overnight begun proliferating as a matter of course in both academic literature and political speechmaking.

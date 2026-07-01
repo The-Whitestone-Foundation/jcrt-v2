@@ -1,6 +1,7 @@
 ---
 nanoid: "txpvEu"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutbmnmo2a'
 title: "Dead Man"
 article_number:
 author: "C Jason Lee"

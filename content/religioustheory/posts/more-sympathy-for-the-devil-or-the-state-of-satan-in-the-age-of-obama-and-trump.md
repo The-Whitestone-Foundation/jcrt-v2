@@ -1,6 +1,7 @@
 ---
 nanoid: "oI7GQs"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuriiqmh2p'
 title: >-
   More Sympathy for the Devil, or The State of Satan in The Age of Obama and
   Trump
@@ -21,7 +22,6 @@ tags:
   - panic
   - religious
 ---
-
 Fifty years ago this weekend in the year 1966, according to lore and legend, San Francisco showman, musician, and self-professed huckster Howard Stanton Levey a.k.a. Anton Szandor LaVey founded the Church of Satan, proclaiming at the same time the advent of the Age of Satan (coinciding roughly with the immense popularity of the Rolling Stones song “Sympathy for the Devil”).
 
 What LaVey meant by the Age of Satan was anybody’s guess, since Christian orthodoxy has always insisted that Satan had reigned on earth ever since the expulsion from Eden, only to be dealt a potentially lethal blow on Easter morning, which would however not be fully realized until either the Second Coming itself or the end of Christ’s millennium.  Interestingly, this now iconic gesture of “black” theater was contemporaneous, give or take few years, with *Time* magazine’s famous cover story announcing that God was dead and the rise of the hippies with their own “eschatology” of the dawning Age of Aquarius.

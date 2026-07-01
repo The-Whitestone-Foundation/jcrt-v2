@@ -1,6 +1,7 @@
 ---
 nanoid: "WaGrGT"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqxmqdp2p'
 title: 'Antinomian Flesh, Part 1 (David Kline)'
 description: "In this essay I explore the idea of what I call an “antinomian flesh.” Looking to the concept of nomos theorized by sociologists, political and legal theorists"
 date: '2020-10-19T04:24:16.000Z'
@@ -17,7 +18,6 @@ tags:
   - biological
   - economy
 ---
-
 ## The following is the first of a three-part series.
 
 In this essay I explore the idea of what I call an “antinomian flesh.” Looking to the concept of nomos theorized by sociologists, political and legal theorists, and biopolitical thought, I argue for a broad understanding of nomos encompassing the spheres of religion, politics, law, economy, and normative descriptions of the human. Following the work of Sylvia Wynter, Hortense Spillers, and various theorists of an enfleshed “poetics,” I suggest that any modern “nomos of the earth” must also be understood as a “nomos of being human.”

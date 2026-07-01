@@ -1,6 +1,7 @@
 ---
 nanoid: "HiG_37"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurelny62s'
 title: Review – The Greatest Trick God Ever Pulled… (Benjamin Steele-Fisher)
 description: "*Kotsko, Adam. The Prince of this World. Stanford: Stanford University Press, 2017. ISBN-10: 1503600203. Hardcover, paperback, e-book It highlights key"
 date: '2016-12-08T08:00:35.000Z'
@@ -17,7 +18,6 @@ tags:
   - modernity
   - theology
 ---
-
 **Kotsko, Adam. *The Prince of this World.* Stanford: Stanford University Press, 2017. ISBN-10: 1503600203. Hardcover, paperback, e-book. 225 pages.**
 
 Adam Kotsko’s aim in *The Prince of this World* might be construed as a clever modulation of the oft-quoted line from the 1995 film *The Usual Suspects*: “The greatest trick the Devil ever pulled was convincing the world he didn’t exist.”[^1] Kotsko’s genealogy of the devil in the historical development of Christian theology suggests we might better modify the line to say, “the greatest trick God ever pulled was convincing the world the devil most definitely *does* exist.” This is not to make assertions about the objective existence or non-existence of supernatural beings, but rather to point out that the devil, the demonic, and the concept of hell in Christian theology take on certain political ramifications that still haunt us in our supposedly irreligious age.

@@ -1,6 +1,7 @@
 ---
 nanoid: "renVw-"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur4h2562s'
 title: Review – Decolonizing Dialectics (Josiah Solis)
 description: "*Ciccariello-Maher, George. Decolonizing Dialectics. Durham NC: Duke University Press, 2017. 256 pages. ISBN-10: 0822362430 ISBN-10: 0822362430. It highlights"
 date: '2018-11-30T12:46:04.000Z'
@@ -17,7 +18,6 @@ tags:
   - decolonial
   - decolonization
 ---
-
 **Ciccariello-Maher, George. *Decolonizing Dialectics*. Durham NC: Duke University Press, 2017.  256 pages.  ISBN-10: 0822362430.  Hardcover, paperback, e-book.**
 
 “Truly to escape Hegel,” Michele Foucault warns, “involves an exact appreciation of the price we have to pay to detach ourselves from him.” Considering that price, George Ciccariello-Maher has decided that Hegel’s methodological legacy –– the dynamic movement of conflictive oppositions –– cannot be escaped but is instead “once again firmly on the table” (2).

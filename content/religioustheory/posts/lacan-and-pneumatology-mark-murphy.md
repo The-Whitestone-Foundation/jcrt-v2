@@ -1,6 +1,7 @@
 ---
 nanoid: "0rNbni"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzmbqa26'
 title: Lacan And Pneumatology (Mark Murphy)
 description: "There has been much work on Lacan in describing his relationship to a Christological theology. We see this in work such as Žižek’s The Fragile Absolute and also"
 date: '2020-03-22T18:41:58.000Z'
@@ -21,7 +22,6 @@ tags:
   - symbolic
   - imaginary
 ---
-
 There has been much work on Lacan in describing his relationship to a Christological theology. We see this in work such as Žižek’s *The Fragile Absolute* and also in his dual work with John Milbank, *The Monstrosity of Christ*.[^1] We also see a Christological perspective on the value of Lacan’s work in Marcus Pound’s *Theology, Psychoanalysis and Trauma*.[^2] However, there has generally been less of a focus on the explicitly Pneumatological value of Lacan’s work concerning theology. This is obviously discounting Žižek’s work on the community of the Holy Spirit and Badiou’s *Paul’s New moment*.[^3]
 
 The problem is one concerning theoretical focus. An overt focus on pneumatology can sometimes move into what George Lindbeck calls experientialist-expressivist models, whereby the reductive propositional-realism of more traditionalist approaches become replaced with a more universalist-affective approach.[^4] The danger of this approach would be that such an experiential-expressivist model would not correlate at all with Lacan’s work, who would arguably attribute such a stance to an erroneous search for meaning, demand and satisfaction.

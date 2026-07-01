@@ -1,6 +1,7 @@
 ---
 nanoid: "5gG8_d"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurahhe62k'
 title: >-
   Slow Journalism? Ethnography As A Means Of Understanding Religious Social
   Activism, Part 1 (James V. Spickard)
@@ -24,7 +25,6 @@ tags:
   - journalism
   - spiritual
 ---
-
 *The following is a talk presented at the Weatherhead Center for International Affairs, Harvard University, and is the first installment of a two-part series.*
 
 When I was invited to give this talk, my first reaction was “why me”? As a rather obscure and not very orthodox sociologist of religion from a second-tier West Coast teaching college, I wondered what I could contribute to your discussions. True, I had just edited a book on reflexive ethnography in the study of religion,[^1] in which I was able to say some things that everybody knows – or ought to know if they think about them. My contributions to that volume has been combined with some epistemological musings and some rank speculation, which made sense to me at the time but which may or may not prove to be true. Your director, Rachel McCleary, seemed interested in that book rather than in my other work, so I have prepared something similar for you today. Given the time, I shall limit myself to deductions from the obvious and to epistemological musings – each taken a few intellectual steps beyond what I wrote nearly two years ago. You will have to decide for yourselves whether these cross over into rank speculation, though I don’t think they do. At any rate, I hope my remarks will prove worth the time that we are spending here this afternoon. I also hope they will encourage you to kick the social study of religion a bit farther in the direction that I think it ought to go.

@@ -1,6 +1,7 @@
 ---
 nanoid: "OoxBck"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzrapq25'
 title: 'The Hollow Christians Of End Times Fiction, Part 2 (Paul Maltby)'
 description: "The following is the second of a three-part series. The first can be found here. End Times fiction’s unrelenting focus on human sinfulness and unworthiness, a"
 date: '2020-02-25T00:35:12.000Z'
@@ -17,7 +18,6 @@ tags:
   - subjectivity
   - subject
 ---
-
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/the-hollow-christians-of-end-times-fiction-part-1-paul-maltby/).*
 
 End Times fiction’s unrelenting focus on human sinfulness and unworthiness, a focus that reflects the defining tenet of fundamentalist anthropology, leaves out of account the doctrine of the *Imago Dei*. For example, the doctrine is cited only once in the entire Left Behind series.**25** Yet, the Bible is insistent that humans are made in the image of God.**26** And even allowing that what it means to be made in God’s image is a matter of theological dispute (Vanhooser 163-66, 177-78), an inherently divine property or proclivity would function as a counterforce to sin.

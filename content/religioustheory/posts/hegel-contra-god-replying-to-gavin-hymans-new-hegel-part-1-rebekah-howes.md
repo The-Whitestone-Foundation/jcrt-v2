@@ -1,6 +1,7 @@
 ---
 nanoid: "CumHrg"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqrvndj2t'
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 1 (Rebekah
   Howes)
@@ -21,7 +22,6 @@ tags:
   - transcendence
   - logic
 ---
-
 *The following is the first of a three-part series. The earlier article by Prof. Hyman to which the author replies can be found* [*here*]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-3-gavin-hyman/)*.*
 
 Gavin Hyman’s ‘The ‘New Hegel’ and the Question of God,’ in the *Journal for Cultural and Religious Theory* [^1] raises the age old and yet still timely question about the knowability or otherwise of God. More particularly, it brings together some of the prominent thinkers from recent continental philosophy who are re-engaging with the work of Hegel in the wake of Gillian Rose’s seminal book *Hegel Contra Sociology*, published in 1981.[^2]

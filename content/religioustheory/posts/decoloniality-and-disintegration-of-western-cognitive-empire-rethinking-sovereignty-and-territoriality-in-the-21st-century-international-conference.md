@@ -1,6 +1,7 @@
 ---
 nanoid: "ss9Coi"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwdbey26'
 title: >-
   Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking
   Sovereignty And Territoriality In The 21st Century (Conference Announcement)
@@ -22,7 +23,6 @@ tags:
   - indigenous
   - theology
 ---
-
 ## **April 14-16, 2021**
 
 ## **International Online Conference**

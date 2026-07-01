@@ -1,6 +1,7 @@
 ---
 nanoid: "z3BwoI"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut6qtal2r'
 title: "Without Sovereignty, without Being: Unconditionality, the Coming of God and Derrida’s Democracy to Come"
 author: "John D Caputo"
 affilation:

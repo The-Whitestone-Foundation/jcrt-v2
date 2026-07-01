@@ -1,6 +1,7 @@
 ---
 nanoid: "840G4z"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpliv72k'
 title: Metaphysical Protestantism-A Comparative Literary Ecology (Zane Johnson)
 description: "The influence of religions on human attitudes toward the non-human, whether beneficent or deleterious, has been the subject of serious scholarly debate since at"
 date: '2024-06-05T14:50:13.000Z'
@@ -17,7 +18,6 @@ tags:
   - religious
   - environmental
 ---
-
 The influence of religions on human attitudes toward the non-human, whether beneficent or deleterious, has been the subject of serious scholarly debate since at least the publication of Lynn White Jr.’s important essay, “The Historical Roots of Our Ecological Crisis”[^1] in the 1960s. This essay issued a near-wholesale condemnation of western Christianity for providing the fallow ground upon which the western world would cultivate its abuse of the non-human. Some have looked to the early modern period to corroborate this, finding supporting evidence from the late Middle Ages to the Enlightenment and sometimes a brief but potent organic worldview in the humanism of the 16th and early 17th centuries.[^2]
 
 In contribution to this ongoing dialogue, careful to eschew a search for culprits and benefactors, I would like to focus on a phenomenon that I believe recurs in these accounts but has not yet been sufficiently born out in the scholarly literature: the way that religious change and conflict are mapped upon the environment and inform environmental attitudes. Oriental[^3] sources since the Renaissance have been enlisted in debates about the nature of matter and the human relationship to it. In the early modern period, Hermes Trismegistus, Plato, and the language of alchemy were commonly enlisted in imagining the environment, as in the Metaphysical poetry of Henry Vaughan.

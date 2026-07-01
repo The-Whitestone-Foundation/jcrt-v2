@@ -1,6 +1,7 @@
 ---
 nanoid: "WR5O0f"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqs7jjy23'
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (Tink
   Tinker)
@@ -21,7 +22,6 @@ tags:
   - domination
   - fractal
 ---
-
 *The following is the third of a three-part series. The first can be found [](https://thenewpolis.com/2022/10/19/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/)[here]( /religioustheory/posts/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/), the second [here]( /religioustheory/posts/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-2-tink-tinker/). The entire article appears in the fall 2022 issue of [The New Polis Journal.](http://journal.thenewpolis.com/)*
 
 Through the various methodist episcopal annual conference journals, it is possible to trace RM’s movement from church to church through indiana and then illinois to kansas city and back to indiana before moving to the colorado annual conference in 1890. Given the nature of life in the frontier communities of the colonial conquest, the only preservation of the book would have been for RM to pack it up each year with his earthly belongings to trek to a new town and a new ecclesial assignment. Hence, it is quite apparent that the book carried a triumphal treasured status for RM. Ever the faithful itinerant servant of the methodist church, his gift of the egregious book to iliff seems almost natural in retrospect—as awful as the gift might seem to us today—or might especially seem to American Indian Peoples. And RM wrote his own inscription on the inside cover of the book at the time of his gift. An explanatory note accompanied the display of the book, possibly taken from a later (perhaps 1930s) newspaper item. It reiterates the inscription itself:

@@ -1,6 +1,7 @@
 ---
 nanoid: "x2HmFz"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7tx7m2b'
 title: “Notations” – Call for Contributors
 description: "In addition to reviews and commentaries, the new JCRT feature “religious theory” (jcrt.org/religioustheory), updated regularly, will publish in an ongoing"
 date: '2018-01-01T00:14:28.000Z'
@@ -25,7 +26,6 @@ tags:
   - religious
   - theory
 ---
-
 ![951986_stock-photo-music-notes-on-old-paper-sheet-to-use-for-the-background](/images/2016/02/951986_stock-photo-music-notes-on-old-paper-sheet-to-use-for-the-background-2.webp)In addition to reviews and commentaries, the new JCRT feature “religious theory” ([jcrt.org/religioustheory]( /)), updated regularly, will publish in an ongoing sequence short analysis or reflections that respond to certain burning issues or questions of the day, or at least those issues or questions where there are hot coals or embers.  For more information, go to [https://jcrt.org/religioustheory/notations/]( /religioustheory/posts/notations-agambens-homo-sacer-refugees-and-the-crisis-of-european-values/).
 
 Proposed contributions for the “Notations” section should be 300-500 words in length and emailed to [contact form](/contact/).  Longer contributions should be submitted as “commentary.”  If we receive more than one contribution in the same week, we will publish them together.

@@ -1,6 +1,7 @@
 ---
 nanoid: "LL4gCb"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutefjo62k'
 title: "Redemption: Lacan Avec Marx"
 article_number:
 author: "Gregg Lambert"

@@ -1,6 +1,7 @@
 ---
 nanoid: "hgYhIe"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurcm6sj2t'
 title: 'Review – The Origins of Neoliberalism: A Racialized Review (Adam F. Braun)'
 description: "*Leshem, Dotan. The Origins of Neoliberalism: Modeling the Economy from Jesus to Foucault. New York: Columbia University Press, 2016. ISBN-10: 0231177763"
 date: '2017-05-04T13:00:57.000Z'
@@ -18,7 +19,6 @@ tags:
   - genealogy
   - political
 ---
-
 **Leshem, Dotan. *The Origins of Neoliberalism: Modeling the Economy from Jesus to Foucault.* New York: Columbia University Press, 2016. ISBN-10: 0231177763. Hardcover, paperback, e-book. 248 pages.** 
 
 Leshem’s recent volume, *The Origins of Neoliberalism* suffers from the implications of its subtitle: “Modeling the Economy from Jesus to Foucault.” One quickly gets the idea that this volume might be a historical genealogy of *oikomenos* from Jesus to Foucault. Yet, it is neither this, nor does it involve a thorough discussion of neoliberalism. Rather, it is a re-investigation into the Foucauldian neoliberal subject, who (which) internalizes the pastoral economy. It cannot escape comparisons with Agamben’s *The Kingdom and the Glory*, not only because of its focus on a particular genealogy, but also for its lack of consideration for globalization and white supremacy.

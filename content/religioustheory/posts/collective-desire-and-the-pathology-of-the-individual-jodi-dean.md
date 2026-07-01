@@ -1,6 +1,7 @@
 ---
 nanoid: "4fN9H1"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurfj7xq25'
 title: 'Collective Desire and the Pathology of the Individual, Part 1 (Jodi Dean)'
 description: "An interesting strand of contemporary theory designates the specificity of capitalism with the qualifier “cognitive.” I do not write under this term, although I"
 date: '2016-10-10T09:56:45.000Z'
@@ -20,7 +21,6 @@ tags:
   - cognitive
   - pathology
 ---
-
 ## The following is the first installment of a two-part series.
 
 An interesting strand of contemporary theory designates the specificity of capitalism with the qualifier “cognitive.”[^1] I do not write under this term, although I am influenced by theorists who do insofar as they also highlight communication. Franco Berardi, for example, observes that “cognitive labor is essentially a labor communication, that is to say communication put to work.”[^2]

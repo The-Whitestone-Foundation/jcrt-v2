@@ -1,6 +1,7 @@
 ---
 nanoid: "-r5Zpy"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurbgzx72k'
 title: Review – Bahai Religion And Religious Cycles (Rebekah Gordon)
 description: "Sergeev, Mikhail. Theory of Religious Cycles: Tradition, Modernity, and the Baha’i Faith. Amsterdam: Brill Rodopi, 2015. ISBN-10:9004300031. Paperback"
 date: '2017-06-07T05:18:55.000Z'
@@ -17,7 +18,6 @@ tags:
   - morality
   - enlightenment
 ---
-
 **Sergeev, Mikhail.  Theory of Religious Cycles: Tradition, Modernity, and the Baha’i Faith.  Amsterdam:  Brill Rodopi, 2015.  ISBN-10:9004300031.  Paperback.  176 pages.**
 
 In *A Theory of Religious Cycles* Mikhail Sergeev undertakes the daunting task of establishing a universally applicable framework of religious development.

@@ -1,6 +1,7 @@
 ---
 nanoid: "smkO_2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurj6o5r2t'
 title: >-
   Plundering A Theory of Trauma – Confessions of A Novice Author on Lacan and
   Theology
@@ -21,7 +22,6 @@ tags:
   - psychoanalysis
   - public
 ---
-
 Nietzsche’s advice to young authors was to never admit error, for our critics will neither give an inch nor forgive our humility in siding against ourselves. The aphorism’s *hubris* stands in stark contrast to the insecurity all -too-commonly felt when publishing for the first time.
 
 Last year, when I published my first book, *God Is Unconscious: Psychoanalysis & Theology*, the fear of the critic was certainly on my mind. The book is a survey of theological themes developed during Jacques Lacan’s seminar. I was a 28-year-old doctoral student (not yet even a candidate) in philosophy of religion, and I was writing on a theory for which I had received only limited training.  Lacan is certainly dense, and he’s perhaps the worst Continental philosophy has to offer by the measure of readability.

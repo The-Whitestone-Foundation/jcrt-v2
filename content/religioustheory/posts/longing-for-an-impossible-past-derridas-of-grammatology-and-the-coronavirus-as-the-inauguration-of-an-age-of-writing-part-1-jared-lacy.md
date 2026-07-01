@@ -1,6 +1,7 @@
 ---
 nanoid: "EJDCRd"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqyrdil2v'
 title: >-
   Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus
   As The Inauguration Of An Age Of Writing, Part 1 (Jared Lacy)
@@ -22,7 +23,6 @@ tags:
   - representation
   - social
 ---
-
 ## The following is the first installment of a two-part series.
 
 As we witness the aftermath of the initial responses to the ongoing COVID-19 pandemic — the failures and successes of the various shelter-in-place orders and a global economy interrupted — it is difficult not to notice the fact that in the age of Coronavirus, our modes of interaction, social, political, and economic, have been, perhaps in some ways irrevocably, altered.

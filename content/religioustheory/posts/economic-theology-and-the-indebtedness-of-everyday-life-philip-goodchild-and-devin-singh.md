@@ -1,6 +1,7 @@
 ---
 nanoid: "8rYnhf"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqvsd7u2b'
 title: >-
   Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchild And
   Devin Singh)
@@ -22,7 +23,6 @@ tags:
   - want
   - different
 ---
-
 *The following is the transcript of “Critical Conversations” No. 9, an ongoing series of Zoom seminars conducted by Whitestone Publications with distinguished international academics. This seminar on economics, theology, debt, and the religious origins of the modern economy was held on May 18, 2021.*
 
 *While the ancient world offered various forms of large-scales debt forgiveness, contemporary global capitalism grew from specifically eurochristian aspirations to empire that produced colonialism. It is not that empires, indebtedness, and slavery did not exist before. As Philip Goodchild explores in* [*Credit and Faith*](https://rowman.com/ISBN/9781786614230/Credit-and-Faith)*, “the Financial Revolution in England was able to conceal the credit economy which was its foundation and foster the pursuit of self-interest as the apparent means to the common good” (9). Yet this concealment allowed “the modern world to imagine the economy in independence of theology,” creating a false divide between secular and religious that hides a theological structure.*

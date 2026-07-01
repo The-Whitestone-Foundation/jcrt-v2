@@ -1,6 +1,7 @@
 ---
 nanoid: "ozfJ8d"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqu54gn27'
 title: >-
   Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 2 (Justine M.
   Bakker)
@@ -20,7 +21,6 @@ tags:
   - science
   - religion
 ---
-
 *The following article will appear next month in the Winter 2021-22 issue of the* Journal for Cultural and Religious Theory. *It is published in three installments*. *The first installment can be found [here.]( /religioustheory/posts/locating-yhe-oceanic-in-sylvia-wynters-demonic-ground/)*
 
 ## Demonic Physics

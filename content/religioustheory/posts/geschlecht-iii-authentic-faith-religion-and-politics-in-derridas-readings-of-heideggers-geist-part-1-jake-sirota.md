@@ -1,6 +1,7 @@
 ---
 nanoid: "faA1hh"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqtybw62k'
 title: >-
   Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings
   of Heidegger’s “Geist”, Part 1 (Jake Sirota)
@@ -25,7 +26,6 @@ tags:
   - question
   - spiritual
 ---
-
 ## The following is published in three installments.
 
 Jacques Derrida’s prolonged and intimate proximity to the thought of Martin Heidegger has played a significant role in the understanding and debate of Derrida’s religious inflections and in the theorizing of the relationship between deconstruction, religion, and politics in general. This proximity becomes particularly clear in the treatment of spirit \[*Geist*\]: over decades and across texts, Derrida continually returned to analysis of Heidegger’s use of this term and concept as a way of working through his predecessor’s relationship with faith and religion, with Nazism, with worldliness, language, poetry, and other fundamental avenues of Heidegger’s thought.

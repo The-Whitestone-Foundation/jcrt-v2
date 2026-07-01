@@ -1,6 +1,7 @@
 ---
 nanoid: "Pss_Ec"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkureebet2i'
 title: >-
   The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 2
   (Roger Green)
@@ -24,7 +25,6 @@ tags:
   - political
   - component
 ---
-
 *The following is the second of a two-part series.  The first installment, published on Dec. 19, 2016, can be [found here]( /religioustheory/posts/the-semiotics-of-the-unconscious-in-gilles-deleuze-and-roland-barthes-roger-green/).*  
 
 In *Writing Degree Zero,* Barthes suggests disengaging from literary language by creating “a colorless writing, freed from all bondage to a pre-ordained state of language.”[^1]  He says “writing at the zero degree is basically in the indicative mood, or if you like, amodal.”[^2]  The goal is to create a writing absent of style “in which the social or mythical characters of a language are abolished in favour of a neutral and inert state of form.”[^3]  This writing would be in between the subjective and imperative moods, and we see with it a move toward a certain kind of objectivity in which it would become a cipher for the unconscious.

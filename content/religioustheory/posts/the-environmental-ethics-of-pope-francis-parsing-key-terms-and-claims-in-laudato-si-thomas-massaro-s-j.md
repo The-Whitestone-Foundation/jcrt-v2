@@ -1,6 +1,7 @@
 ---
 nanoid: "jScoJy"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpst7d2f'
 title: >-
   The Environmental Ethics of Pope Francis – Parsing Key Terms and Claims In
   Laudato Si’ (Thomas Massaro, S.J.)
@@ -20,7 +21,6 @@ tags:
   - environment
   - catholic
 ---
-
 On October 4, 2023, Pope Francis published the apostolic exhortation *Laudate Deum* (“Praise God”), an 8000-word document advocating for urgent action to counter climate change.[^1] Its date of publication is significant on two accounts. First, it was released on the feast day of Saint Francis of Assisi, the thirteenth-century Italian mystic who is recognized as the patron of animals and of ecology, and who inspired the twenty-first pontiff to select this papal name.
 
 Perhaps more significantly, the document appeared exactly eight weeks before the start of COP 28, the latest in a series of global summit meetings addressing the existential challenge of global warming. In an unprecedented turn of events, Pope Francis at that time announced his intention to attend in person and to address the delegates at the conference to be held in Abu Dhabi—something that no pope (and few top religious leaders of any faith) had previously done at any such gathering. Clearly, the leader of 1.3 billion Roman Catholics around the world was sending a clear message regarding the great significance of the upcoming meeting involving nearly all the world’s nations.

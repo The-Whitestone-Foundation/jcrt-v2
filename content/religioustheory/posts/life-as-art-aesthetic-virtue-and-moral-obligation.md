@@ -1,6 +1,7 @@
 ---
 nanoid: "tvMptH"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurjn33f27'
 title: Life As Art – Aesthetic Virtue and Moral Obligation
 description: "Virtue ethics has received much attention throughout the last decades. While some of the corresponding works are dealing with questions of aesthetics, there"
 date: '2016-02-24T02:46:50.000Z'
@@ -18,7 +19,6 @@ tags:
   - ethical
   - philosophy
 ---
-
 Virtue ethics has received much attention throughout the last decades. While some of the corresponding works are dealing with questions of aesthetics, there appear to be only very few discussions that devote themselves to what could be called *aesthetic virtue*. And yet aesthetic virtue might inspire ethical debates in more than one respect.
 
 First, when it comes to the notorious question “why be moral?”,  aesthetic virtue can provide a description of the ability to perceive the unique style that another human being gives to his or her life, and this essay argues that this very perception exercises ethical force on the perceiving subject.  Secondly, to call this ability to perceive the unique personality of another human being a virtue highlights the fact that it can and indeed must be cultivated. Hence the concept of aesthetic virtue can provide an orientation for processes of ethical training.

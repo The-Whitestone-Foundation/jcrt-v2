@@ -1,6 +1,7 @@
 ---
 nanoid: "FAzdwZ"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurgv75d2r'
 title: >-
   Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part
   2 (Agata Bielik-Robson)
@@ -22,7 +23,6 @@ tags:
   - reversal
   - un-essence
 ---
-
 *The following is the second of a two-part series.  The first segment was published on July 25, 2016 and [can be accessed here]( /religioustheory/posts/love-strong-as-death-jews-against-heidegger-on-the-issue-of-finitude-part-1-agata-bielik-robson/).*
 
 ## Another Finitude – Rosenzweig versus Heidegger

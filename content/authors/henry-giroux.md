@@ -1,5 +1,6 @@
 ---
 nanoid: "qYhkSq"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuudypx32i'
 name: Henry Giroux
 affiliation:
 bio:

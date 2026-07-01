@@ -1,6 +1,7 @@
 ---
 nanoid: "B8PieP"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurfxuzg2s'
 title: >-
   From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of
   Religion on the Rise of Modern Racism, Part 1 (Oludamini Ogunnaike)
@@ -21,7 +22,6 @@ tags:
   - racism
   - nous
 ---
-
 *The following is the first part of an article that appeared in July 2016 in Open Theology 2:2016 785-203*.  *It is republished here with the permission of the author.  The second and third installments will be published in the coming weeks.*
 
 > *The medieval European world… knew the black man chiefly as a legend or occasional curiosity, but still as a fellow man… The modern world in contrast, knows the Negro chiefly as a bond slave in the West Indies and America. Add to this the fact that the darker races in other parts of the world have, in the last four centuries lagged behind the flying and even feverish footsteps of Europe, and we face today a widespread assumption* *throughout the dominant world that color is a mark of inferiority.*

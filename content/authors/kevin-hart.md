@@ -1,5 +1,6 @@
 ---
 nanoid: "3594Tq"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuu3r7oj2t'
 name: Kevin Hart
 affiliation: "The University of Notre Dame "
 bio:

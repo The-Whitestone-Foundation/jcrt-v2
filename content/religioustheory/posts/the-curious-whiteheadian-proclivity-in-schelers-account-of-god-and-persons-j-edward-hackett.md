@@ -1,6 +1,7 @@
 ---
 nanoid: "4UKi2w"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqzexe622'
 title: >-
   The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons,
   Part 1 (J. Edward Hackett)
@@ -21,7 +22,6 @@ tags:
   - phenomenological
   - ethics
 ---
-
 ## The following is published in two parts.
 
 ## Phenomenological Intuition and the Personal Sphere

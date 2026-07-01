@@ -1,6 +1,7 @@
 ---
 nanoid: "T09Oxt"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqpdxpe2b'
 title: Sikh Environmental Ethics-Theory and Praxis Part 1 (Harpreet Kaur)
 description: "Eco-philosophy, or ecosophy, offers insight into the relationship of living beings with their environment. The intersection of faith and eco-philosophy is known"
 date: '2024-08-07T00:43:28.000Z'
@@ -17,7 +18,6 @@ tags:
   - ecological
   - ethics
 ---
-
 ## The following is the first installment of a two-part series.
 
 Eco-philosophy, or ecosophy, offers insight into the relationship of living beings with their environment. The intersection of faith and eco-philosophy is known as religious environmentalism. This alliance of religion and ecology has been gathering momentum lately. Ikeke[^1] notes that science and policy alone cannot tackle environmental challenges. One must act responsibly with conviction, primarily rooted in philosophical ethics. So, he makes a case for mobilizing religious resources to solve the grand challenges of the environmental crisis. Tucker and Grim[^2] also support incorporating cultural and religious values as critical aspects of environmental discussions.

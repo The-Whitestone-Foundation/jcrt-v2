@@ -1,6 +1,7 @@
 ---
 nanoid: "vkNLfC"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqt4vng2a'
 title: >-
   The Legacy Of Charles H. Long – Resisting and Short-Circuiting the Discourses
   Of Exclusion In The Theory And Practice Of Administration (Victor E. Taylor)
@@ -23,7 +24,6 @@ tags:
   - administration
   - intellectual
 ---
-
 *The following essay introduces the upcoming volume of the Journal for Cultural and Religious Theory featuring reflections on the work of renowned religious studies scholar Charles H. Long (1926-2020). It will be published in July 2022.*
 
 > The new universities, as research institutions, implied a new structure in the order of knowledge on both theoretical and practical levels. The meaning of nature and human effort as work and culture form the contours of a new debate within the structures of knowledge itself. The urban setting is the context for the setting forth of this debate as theoretical and practical as the city is a microcosm of the communicative systems of material and ideational exchanges which are national and international in scope. *Research as a defining characteristic of the university implies a theoretical “world” capable of providing the clues and traces which would enable this new world to become inhabitable and beneficial to the human community* (my emphasis).

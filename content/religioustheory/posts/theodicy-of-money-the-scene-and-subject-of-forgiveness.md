@@ -1,6 +1,7 @@
 ---
 nanoid: "aZ2lnT"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuri6zvw2a'
 title: Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)
 description: "Today the question of debt forgiveness has become an eminently practical, not to mention political, question. From sovereign debt crises in Greece, Spain"
 date: '2016-05-18T20:23:24.000Z'
@@ -18,7 +19,6 @@ tags:
   - subject
   - identity
 ---
-
 Today the question of debt forgiveness has become an eminently practical, not to mention political, question.  From sovereign debt crises in Greece, Spain, Puerto Rico and elsewhere, to ballooning student debt bubbles, to the aftermath of the mortgage crisis, it seems like everyone is talking about forgiveness.
 
 That forgiveness in itself is a good goes virtually unquestioned; it is the conditions of forgiveness that are up for debate, as is the case with Greece and the other countries subjected to the austerity measures (cutting social services in exchange for debt relief) levied by their creditors, typically mediated by the International Monetary Fund (IMF). The same goes for student debt situation, in which debts can be forgiven at the end of a term of 20 years of timely minimum payments (10 years if one is working in the public or non-profit sector). In sum, there is forgiveness, but there are, more importantly, conditions that must be satisfied in order for this forgiveness to be, so to speak, given.

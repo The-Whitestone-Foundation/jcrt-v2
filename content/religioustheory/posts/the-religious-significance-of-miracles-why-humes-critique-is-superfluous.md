@@ -1,6 +1,7 @@
 ---
 nanoid: "olikq2"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqyjyan27'
 title: >-
   The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous,
   Part 1 (Alberto Urquidez)
@@ -20,7 +21,6 @@ tags:
   - definition
   - natural
 ---
-
 ## The following is the first of a three-part series.
 
 The argument from miracles seeks to prove that a religious deity (such as God) exists on the premise that only God could have caused a miracle to occur. David Hume’s “Of Miracles” has proven to be the most important philosophical essay on this argument. In his essay, Hume develops a sophisticated epistemic case against the reliability of testimony in behalf of a religious miracle.[^1] There is much debate, however, about what his argument actually is, and whether or not it succeeds, in the end.

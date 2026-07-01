@@ -1,6 +1,7 @@
 ---
 nanoid: "KR-gKn"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurhihrf27'
 title: >-
   Review – The Evolution of the Religious Factor in Fantasy Role-Playing Games
   (Jeffrey Scholes)
@@ -20,7 +21,6 @@ tags:
   - panic
   - hegemony
 ---
-
 **Laycock, Joseph P.  *Dangerous Games: What the Moral Panic over Role-Playing Games Says about Play, Religion, and Imagined Worlds*. Berkeley CA: University of California Press, 2015.  ISBN-10: 0520284925.  Hardback, paperback, e-book.  368 pp.**
 
 Anyone growing up in the 1980s or any parent of adolescents during this decade knows more about the game Dungeons and Dragons than they probably should. That a role-playing table game could provoke the kind of nationwide uproar and moral panic that it did across the United States should make clear that there is much more to the Dungeons and Dragons (or D&D) phenomenon than meets the eye. Joseph P. Laycock provides us with a detailed description and analysis of the genre of role-playing games and those who have, at times, misinterpreted their meaning in *Dangerous Games.*

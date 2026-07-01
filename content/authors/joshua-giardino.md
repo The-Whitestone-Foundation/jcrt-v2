@@ -1,5 +1,6 @@
 ---
 nanoid: "f4qsw8"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuu5hht622'
 name: Joshua Giardino
 affiliation:
 bio:

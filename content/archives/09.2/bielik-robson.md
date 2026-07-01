@@ -1,6 +1,7 @@
 ---
 nanoid: "pBBlVl"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusq4by62a'
 title: "The Traps of the Sublime"
 author: "Agata Bielik-Robson"
 affilation:

@@ -1,6 +1,7 @@
 ---
 nanoid: "CYAOOI"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurgsr2y25'
 title: 'Review – A Darker, Grittier Deleuze (Timothy Snediker)'
 description: "*Culp, Andrew. Dark Deleuze (Forerunners: Ideas First). Minneapolis: University of Minnesota Press, 2016. ISBN 10: 1517901332 Paperback, e-book It highlights"
 date: '2016-08-04T08:00:23.000Z'
@@ -18,7 +19,6 @@ tags:
   - radical
   - capitalism
 ---
-
 **Culp, Andrew. *Dark Deleuze* (Forerunners: Ideas First). Minneapolis: University of Minnesota Press, 2016. ISBN 10:** **1517901332** **Paperback, e-book. 90 pages.**
 
 For several decades there has been a general consensus among readers of Gilles Deleuze: the influential French philosopher was, is, and will be a thinker of affirmation, joy, and plenitude. Notwithstanding the fact that Deleuze himself insisted on this very profile, a certain alternative current has arisen in recent scholarship on Deleuze. There has developed—to the dismay, one supposes, of Deleuze’s orthodox readers—a vision of the infamous philosopher of difference and desire that directly antagonizes the beatitudes of affirmative politics, ontologies of plenitude, and the ‘canon of joy’ associated with Deleuze: a darker, destructive and more macabre Deleuze.

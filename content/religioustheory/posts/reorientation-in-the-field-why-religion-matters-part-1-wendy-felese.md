@@ -1,6 +1,7 @@
 ---
 nanoid: "sC3_3K"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqwfobl2f'
 title: 'Reorientation In The Field – Why Religion Matters, Part 1 (Wendy Felese)'
 description: "The following is the first of a two-part series. It was originally published at a 2019 conference in Athens, Greece.1 When teaching classes like World Religions"
 date: '2021-03-15T04:40:52.000Z'
@@ -19,7 +20,6 @@ tags:
   - colonial
   - historical
 ---
-
 *The following is the first of a two-part series. It was originally published at a 2019 conference in Athens, Greece.1*
 
 ## Introduction

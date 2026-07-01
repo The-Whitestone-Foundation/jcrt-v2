@@ -1,6 +1,7 @@
 ---
 nanoid: "sm6-FG"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurft2h42b'
 title: >-
   From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of
   Religion on the Rise of Modern Racism, Part 2 (Oludamini Ogunnaike)
@@ -20,7 +21,6 @@ tags:
   - religion
   - religious
 ---
-
 *The following is the second part of an article in three installments that initially appeared in July 2016 in Open Theology 2:2016 785-203*.  *It is republished here with the permission of the author.  The first installment can be [accessed here]( /religioustheory/posts/from-heathen-to-sub-human-a-genealogy-of-the-influence-of-the-decline-of-religion-on-the-rise-of-modern-racism-part-1-oludamini-ogunnaike/).  
 *
 

@@ -1,6 +1,7 @@
 ---
 nanoid: "9jRAJX"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur73zug2s'
 title: From Christology to Political Theology (Cyril Hovorun)
 description: "In the Christian Antiquity and later on during the Middle Ages, there was neither separation nor much distinction between the theological and the political"
 date: '2018-02-26T18:03:11.000Z'
@@ -19,7 +20,6 @@ tags:
   - unity
   - christology
 ---
-
 In the Christian Antiquity and later on during the Middle Ages, there was neither separation nor much distinction between the theological and the political matters. It was common that theological doctrines induced political philosophy and practice, and *vice versa*. Theological interpretations of the Incarnation as they developed during the Late Antiquity, had political extrapolations and correlated with the corresponding models of the church-state relations.
 
 There were three main Christological trends during the fifth-sixth centuries, which were connected with the names of the bishops in the most important cities of the Roman world: Cyril of Alexandria (c. 376-444), Leo of Rome (c. 400-461), and Nestorius of Constantinople (c. 386 – c. 450). These Christological trends correspond to the three models of the church-state relations, which were formed in the same period: the eastern Roman, the western Roman, and the Persian.

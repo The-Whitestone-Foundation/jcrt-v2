@@ -1,6 +1,7 @@
 ---
 nanoid: "U9AieD"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur7kkfx2p'
 title: >-
   John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part I
   (Eric Trozzo)
@@ -23,7 +24,6 @@ tags:
   - ethical
   - theological
 ---
-
 ## The following is the first installment of a two-part series.
 
 The wild hair, the scratchy clothing, the grit and body odor, and the exotic diet. All of these images typically come to mind when one mentions John the Baptist. He is a cartoonishly fiery, angry (and a wee bit insane) prophet railing against the system like an ancient hippy. He is the wild and crazy opening act to the more staid main event of Jesus. The canonical Gospels are quite consistent in their understanding of John’s character and role. He is not the messiah, but rather the one who urges that the way be prepared for the advent of the messiah.

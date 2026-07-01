@@ -1,6 +1,7 @@
 ---
 nanoid: "AUxvuS"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur57cdw2k'
 title: Review – Neurotheological Nuances (Joshua Canzona)
 description: "Neurotheology: How Science Can Enlighten Us About Spirituality. Newberg, Andrew. New York: Columbia University Press, 2018. ISBN 9780231179041. Hardback"
 date: '2018-08-22T23:42:26.000Z'
@@ -19,7 +20,6 @@ tags:
   - religious
   - neurotheological
 ---
-
 ***Neurotheology: How Science Can Enlighten Us About Spirituality.*** **Newberg, Andrew. New York: Columbia University Press, 2018. ISBN 9780231179041**. **Hardback. 321 pages.**
 
 Andrew Newberg’s *Neurotheology* is a book of questions: why are some people religious and others not? Does religion have an impact on health and well-being? What is the difference between religion and spirituality? Can religious and spiritual thought be localized to one hemisphere of the brain? What can brain imaging tell us about mystical experiences?

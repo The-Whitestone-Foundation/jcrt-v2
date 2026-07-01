@@ -1,6 +1,7 @@
 ---
 nanoid: "bd5nIE"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqnyfp2k'
 title: The Religious Roots of Environmental Justice – An Online Conference
 description: "Catherine Keller practices theology as a relation between ancient hints of ultimacy and current matters of urgency. As the George T As the George T. It"
 date: '2023-09-15T22:43:19.000Z'
@@ -18,7 +19,6 @@ tags:
   - religious
   - ecological
 ---
-
 #### **Sponsored by** ***[The Journal for Cultural and Religious Theory](https://jcrt.org)*** **and** ***[The New Polis](http://thenewpolis.com/)*** **in co-operation with the University of Denver**
 
 #### **When:** Friday, Oct. 13 to Saturday, Oct. 14, 2023
