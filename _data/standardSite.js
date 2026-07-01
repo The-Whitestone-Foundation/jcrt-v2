@@ -85,6 +85,13 @@ function normalizePath(value) {
 	return withLeadingSlash.endsWith("/") ? withLeadingSlash : `${withLeadingSlash}/`;
 }
 
+function contentPath(prefix, slug, data) {
+	if (typeof data.permalink === "string" && data.permalink.startsWith("/")) {
+		return normalizePath(data.permalink);
+	}
+	return normalizePath(`${prefix}/${data.slug || slug}/`);
+}
+
 function normalizeDate(value) {
 	if (!value) return "";
 	const date = value instanceof Date ? value : new Date(String(value));
@@ -197,7 +204,7 @@ function blogDocuments(publicationSite) {
 			const publishedAt = normalizeDate(data.date);
 			return documentRecord({
 				site: publicationSite,
-				path: `/blog/${slug}/`,
+				path: contentPath("/blog", slug, data),
 				title: String(data.title || slug).trim(),
 				description: stripHtml(data.description || data.excerpt || data.abstract || ""),
 				publishedAt,
@@ -218,7 +225,7 @@ function theoryDocuments(publicationSite) {
 			const publishedAt = normalizeDate(data.date);
 			return documentRecord({
 				site: publicationSite,
-				path: `/religioustheory/posts/${slug}/`,
+				path: contentPath("/religioustheory/posts", slug, data),
 				title: String(data.title || slug).trim(),
 				description: stripHtml(data.description || data.excerpt || data.abstract || ""),
 				publishedAt,

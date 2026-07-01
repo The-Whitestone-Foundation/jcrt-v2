@@ -64,7 +64,9 @@ function parseFrontMatter(source) {
 }
 
 function cleanScalar(value) {
-  return String(value || "")
+  const trimmed = String(value || "").trim();
+  const withoutComment = /^['"]/.test(trimmed) ? trimmed : trimmed.replace(/\s+#.*$/, "");
+  return withoutComment
     .trim()
     .replace(/^['"]|['"]$/g, "")
     .replace(/^>\-\s*/, "")
