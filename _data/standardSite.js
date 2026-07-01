@@ -230,6 +230,29 @@ function theoryDocuments(publicationSite) {
 		.filter(Boolean);
 }
 
+function authorDocuments(publicationSite) {
+	return walkMarkdown(path.join(CONTENT_DIR, "authors"))
+		.map((filePath) => {
+			const slug = path.basename(filePath, ".md");
+			const { data, body } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+			if (!isPublished(data)) return null;
+			const publishedAt = normalizeDate(data.date) || normalizeDate("1999-01-01");
+			const title = String(data.title || data.name || slug).trim();
+			const description = stripHtml(data.description || data.bio || "");
+			return documentRecord({
+				site: publicationSite,
+				path: `/authors/${data.slug || slug}/`,
+				title,
+				description,
+				publishedAt,
+				updatedAt: normalizeDate(data.updated || data.modified || data.lastmod),
+				tags: normalizeTags(["author", ...(normalizeTags(data.tags))]),
+				textContent: markdownToPlainText(body || data.bio || description),
+			});
+		})
+		.filter(Boolean);
+}
+
 function byPathThenDate(a, b) {
 	return String(a.path).localeCompare(String(b.path)) || String(a.publishedAt).localeCompare(String(b.publishedAt));
 }
@@ -249,6 +272,7 @@ export default function standardSite() {
 
 	const documents = [
 		...archiveDocuments(publicationSite, filesUrl),
+		...authorDocuments(publicationSite),
 		...blogDocuments(publicationSite),
 		...theoryDocuments(publicationSite),
 	]

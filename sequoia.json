@@ -5,7 +5,7 @@
   "publicDir": "public",
   "outputDir": "_site",
   "pathTemplate": "{standardPath}",
-  "publicationUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.publication/REPLACE_WITH_JCRT_PUBLICATION_RKEY",
+  "publicationUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.publication/jcrt",
   "pdsUrl": "https://bsky.social",
   "identity": "jcrt.org",
   "frontmatter": {
@@ -22,6 +22,6 @@
   "autoSync": true,
   "bluesky": {
     "enabled": true,
-    "maxAgeDays": 7
+    "maxAgeDays": 30
   }
 }

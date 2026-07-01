@@ -8,6 +8,8 @@ const SITE_NAME = "The Journal for Cultural and Religious Theory";
 
 const INCLUDE_PREFIXES = [
   "archives/",
+  "authors/",
+  "blog/",
   "religioustheory/posts/",
 ];
 
@@ -89,6 +91,12 @@ function outputPathFor(filePath, data) {
   if (rel.startsWith("religioustheory/posts/")) {
     return `/religioustheory/posts/${data.slug || slug}/`;
   }
+  if (rel.startsWith("blog/")) {
+    return `/blog/${data.slug || slug}/`;
+  }
+  if (rel.startsWith("authors/")) {
+    return `/authors/${data.slug || slug}/`;
+  }
   return "";
 }
 
@@ -110,8 +118,8 @@ function writeRecord(filePath) {
   if (data.draft === "true" || data.published === "false") return false;
   const standardPath = outputPathFor(filePath, data);
   if (!standardPath) return false;
-  const title = data.title || path.basename(filePath, ".md");
-  const description = data.description || data.abstract || "";
+  const title = data.title || data.name || path.basename(filePath, ".md");
+  const description = data.description || data.abstract || data.bio || "";
   const date = data.date || (data.year ? `${data.year}-01-01` : "1999-01-01");
   const tags = [...new Set([...listValue(data.tags), ...listValue(data.keywords), ...listValue(data.categories)])];
   const outName = `${slugify(standardPath) || slugify(title)}.md`;

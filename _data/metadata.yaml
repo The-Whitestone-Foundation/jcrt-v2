@@ -11,8 +11,10 @@ url: https://jcrt.org #live
 files_url: https://files.jcrt.org
 standard_site:
   enabled: true
+  handle: "jcrt.org"
   did: "did:plc:e24okfpxr7ctcbmruijop5gp"
-  publication_at_uri: "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.publication/REPLACE_WITH_JCRT_PUBLICATION_RKEY"
+  profile: "https://bsky.app/profile/jcrt.org"
+  publication_at_uri: "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.publication/jcrt"
   name: "The Journal for Cultural and Religious Theory"
   url: "https://jcrt.org"
   description: "Journal for Cultural and Religious Theory (JCRT), a Whitestone Foundation publication"

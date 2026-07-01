@@ -1,4 +1,3 @@
 # Map canonical JCRT paths to published Standard.site document AT-URIs.
-# Example:
-# /archives/15.1/raschke/: at://did:plc:example/site.standard.document/example
+# Generated from .sequoia/content by scripts/apply-sequoia-records.mjs.
 {}
