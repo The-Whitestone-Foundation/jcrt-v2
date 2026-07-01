@@ -1,4 +1,6 @@
 ---
+nanoid: "EzjQKd"
+doi:
 title: "The Shadow of the Anti-Christ: Nietzsche’s Critique of Christianity"
 author: "A D C Cake"
 affilation:

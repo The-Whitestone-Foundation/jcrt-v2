@@ -1,4 +1,6 @@
 ---
+nanoid: "OdlmCU"
+doi:
 title: "Buddhism, Apophasis, Truth"
 author: "Mario D'Amato"
 affilation:

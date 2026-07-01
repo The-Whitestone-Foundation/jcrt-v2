@@ -1,4 +1,6 @@
 ---
+nanoid: "_Qqss-"
+doi:
 title: "History, Theory, Text: Historians and the Linguistic Turn"
 author: "B C Knowlton"
 affilation:

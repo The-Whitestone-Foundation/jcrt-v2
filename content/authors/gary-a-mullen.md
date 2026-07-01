@@ -1,4 +1,5 @@
 ---
+nanoid: "UUPCR4"
 name: Gary A. Mullen
 affiliation: "Gettysburg College"
 bio:

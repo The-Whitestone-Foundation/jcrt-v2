@@ -1,4 +1,6 @@
 ---
+nanoid: "ebDp5w"
+doi:
 title: "Shopping Malls and Other Sacred Spaces: Putting God in Place"
 author: "Christopher D Rodkey"
 affilation:

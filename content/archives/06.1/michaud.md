@@ -1,4 +1,6 @@
 ---
+nanoid: "4la34z"
+doi:
 title: "A Theology of Engagement"
 author: "Derek Michaud"
 affilation:

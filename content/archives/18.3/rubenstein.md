@@ -1,4 +1,6 @@
 ---
+nanoid: "uyGZLp"
+doi:
 title: "Of the of: Genre, Generation, and the Continental Philosophy of Religion."
 author: "Mary-Jane Rubenstein"
 affilation:

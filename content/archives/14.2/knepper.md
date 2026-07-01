@@ -1,4 +1,6 @@
 ---
+nanoid: "ssIEUV"
+doi:
 title: "Is Mashup the Right Metaphor?"
 author: "Timothy D. Knepper"
 affilation:

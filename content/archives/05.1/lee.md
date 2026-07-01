@@ -1,4 +1,6 @@
 ---
+nanoid: "gTWTM2"
+doi:
 title: "Seeing Is Believing: Warhol’s Spiritualizing of Materiality and the Need for the Historicizing of Postmodernism"
 author: "C Jason Lee"
 affilation:

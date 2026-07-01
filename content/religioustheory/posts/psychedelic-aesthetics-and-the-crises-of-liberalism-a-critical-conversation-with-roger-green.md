@@ -1,4 +1,6 @@
 ---
+nanoid: "XrZH4b"
+doi:
 title: >-
   Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical
   Conversation” With Roger Green

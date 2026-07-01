@@ -1,4 +1,6 @@
 ---
+nanoid: "HPxV1G"
+doi:
 title: "Apology and the Possibility of Ethical Politics"
 author: "Danielle Celermajer"
 affilation:

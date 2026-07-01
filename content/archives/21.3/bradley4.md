@@ -1,4 +1,6 @@
 ---
+nanoid: "G5X7b0"
+doi:
 title: "Response"
 author: "Arthur Bradley"
 affilation:

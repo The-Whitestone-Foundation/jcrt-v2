@@ -1,4 +1,6 @@
 ---
+nanoid: "qA476_"
+doi:
 title: "Democracy and Tradition"
 author: "Ben Stahlberg"
 affilation:

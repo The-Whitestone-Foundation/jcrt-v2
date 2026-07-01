@@ -1,4 +1,6 @@
 ---
+nanoid: "rA0bkk"
+doi:
 title: "Desire and Mourning: Theology and the Literary Imagination"
 article_number:
 author: "Victor Taylor"

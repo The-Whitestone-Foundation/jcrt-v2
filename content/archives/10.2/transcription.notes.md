@@ -1,4 +1,6 @@
 ---
+nanoid: "pIRz31"
+doi:
 title: "Transcription Notes"
 author: "Robert Duncan; Amy Evans"
 affilation:

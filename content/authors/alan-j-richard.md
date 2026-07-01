@@ -1,4 +1,5 @@
 ---
+nanoid: "HkDeK-"
 name: Alan J Richard
 affiliation: "Realistic Living"
 bio:

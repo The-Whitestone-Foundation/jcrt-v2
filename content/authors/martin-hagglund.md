@@ -1,4 +1,5 @@
 ---
+nanoid: "FuTlgo"
 name: Martin Hägglund
 affiliation: "Harvard Society of Fellows"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "Et3RlK"
+doi:
 title: "The End of Theology and the Event of Truth: an Introduction"
 author: "Carl A. Raschke"
 affilation:

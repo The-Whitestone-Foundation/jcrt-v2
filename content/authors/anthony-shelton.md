@@ -1,4 +1,5 @@
 ---
+nanoid: "f4NwMC"
 name: Anthony Shelton
 affiliation: "Princeton Theological Seminary, John Carroll School "
 bio:

@@ -1,4 +1,5 @@
 ---
+nanoid: "MgdLqX"
 name: Andrew Stone Porter
 affiliation: "Bellarmine University"
 bio:

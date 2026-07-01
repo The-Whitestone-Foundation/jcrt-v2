@@ -1,4 +1,6 @@
 ---
+nanoid: "OWDC0k"
+doi:
 title: "Love, Psychoanalysis, and Leftist Political Ontology."
 author: "Daniel Tutt"
 affilation:

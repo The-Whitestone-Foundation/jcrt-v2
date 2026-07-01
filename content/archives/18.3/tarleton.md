@@ -1,4 +1,6 @@
 ---
+nanoid: "DvsF3O"
+doi:
 title: "Spaced and Placed: Hetero-‘Topic’ Interpretations of the Warsaw Ghetto."
 author: "Madison Tarleton"
 affilation:

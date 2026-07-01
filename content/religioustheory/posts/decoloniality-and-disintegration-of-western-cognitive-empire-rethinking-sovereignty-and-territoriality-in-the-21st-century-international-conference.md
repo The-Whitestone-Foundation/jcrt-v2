@@ -1,4 +1,6 @@
 ---
+nanoid: "ss9Coi"
+doi:
 title: >-
   Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking
   Sovereignty And Territoriality In The 21st Century (Conference Announcement)

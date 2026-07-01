@@ -1,4 +1,6 @@
 ---
+nanoid: "3lsqBa"
+doi:
 title: "Science and Wisdom"
 author: "Eric Weislogel"
 affilation:

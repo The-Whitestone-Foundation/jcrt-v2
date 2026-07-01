@@ -1,4 +1,6 @@
 ---
+nanoid: "4zb5Co"
+doi:
 title: "Toward Decolonizing Philosophy of Religion: Thinking Heretically with African Indigenous Religions."
 author: "Patrice Haynes"
 affilation:

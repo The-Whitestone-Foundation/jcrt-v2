@@ -1,4 +1,6 @@
 ---
+nanoid: "8Dd1pG"
+doi:
 title: "Longing for an Impossible Past: DiffÉRance, Distance, and the Coronavirus as the Inauguration of an Age of Writing."
 author: "Jared Lacey"
 affilation:

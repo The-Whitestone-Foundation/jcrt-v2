@@ -1,4 +1,5 @@
 ---
+nanoid: "u9urjk"
 name: Madina Tlostanova
 affiliation: "Russian Presidential Academy of National Economy and Public Administration (Moscow)"
 bio:

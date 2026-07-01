@@ -1,4 +1,6 @@
 ---
+nanoid: "HxGKPv"
+doi:
 title: "ThÉOrie-RÉBellion: UN Ultimatum"
 author: "Nöelle Vahanian"
 affilation:

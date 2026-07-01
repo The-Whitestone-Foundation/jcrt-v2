@@ -1,4 +1,6 @@
 ---
+nanoid: "VtDP7C"
+doi:
 title: "Vision, Paranoia, and the Creative Power of Obsessive Interpretation"
 author: "Aaron Bibb"
 affilation:

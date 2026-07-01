@@ -1,4 +1,6 @@
 ---
+nanoid: "Mlh0V4"
+doi:
 title: "Hegemony and Techno-Rationality - Toward an Aesthetic Soteriology."
 author: "Mason Davis"
 affilation:

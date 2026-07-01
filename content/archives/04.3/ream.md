@@ -1,4 +1,6 @@
 ---
+nanoid: "bG6x4Y"
+doi:
 title: "Varieties of Religion Today: William James Revisited"
 author: "Todd Ream"
 affilation:

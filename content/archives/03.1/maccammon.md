@@ -1,4 +1,6 @@
 ---
+nanoid: "xFua_n"
+doi:
 title: "The Just"
 article_number:
 author: "Linda M MacCammon"

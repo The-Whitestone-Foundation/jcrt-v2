@@ -1,4 +1,6 @@
 ---
+nanoid: "K9dbIx"
+doi:
 title: >-
   Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism On The
   Analyst’s Couch (Announcement)

@@ -1,4 +1,6 @@
 ---
+nanoid: "fBZDIX"
+doi:
 title: "Admitting a Certain Fear of ŽIŽEk’s Theology: a Modest Plea for a Deleuzian Reading of the Death of God."
 author: "Elijah Prewitt-Davis"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "ZtGLnA"
 name: "Mike Sugimoto"
 affiliation: "University of Puget Sound"
 bio: ""

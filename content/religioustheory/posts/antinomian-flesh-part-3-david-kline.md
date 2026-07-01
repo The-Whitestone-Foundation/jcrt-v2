@@ -1,4 +1,6 @@
 ---
+nanoid: "pD4VLK"
+doi:
 title: 'Antinomian Flesh, Part 3 (David Kline)'
 description: "The following is the third of a three-part series. The first can be found here, the second here. Both before nomos and therefore its condition of enactment, the"
 date: '2020-11-09T05:00:05.000Z'

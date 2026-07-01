@@ -1,4 +1,6 @@
 ---
+nanoid: "k7SnFD"
+doi:
 title: "Religion and Mental Health : the Therapeutic Value of the Teachings of Jesus."
 author: "Thomas Roberts; Delbert Hayden"
 affilation:

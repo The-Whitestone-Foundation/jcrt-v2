@@ -1,4 +1,6 @@
 ---
+nanoid: "53sbLe"
+doi:
 title: "Critique in a Postsecular Age: Making Room for Tradition as a Medium"
 author: "Ori Rotlevy"
 affilation:

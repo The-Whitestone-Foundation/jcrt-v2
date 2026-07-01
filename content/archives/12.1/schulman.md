@@ -1,4 +1,6 @@
 ---
+nanoid: "YJsZiV"
+doi:
 title: "Sorting Out Biopolitics"
 author: "Alex Schulman"
 affilation:

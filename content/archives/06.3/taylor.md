@@ -1,4 +1,6 @@
 ---
+nanoid: "eOaizS"
+doi:
 title: "Theorizing Religion II"
 author: "Victor Taylor"
 affilation:

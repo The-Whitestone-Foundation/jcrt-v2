@@ -1,4 +1,6 @@
 ---
+nanoid: "RR1t1a"
+doi:
 title: "Revelation: Lacan and the Ten Commandments"
 article_number:
 author: "Kenneth Reinhard; Julia Reinhard Lupton"

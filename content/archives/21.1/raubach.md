@@ -1,4 +1,6 @@
 ---
+nanoid: "YeYtmE"
+doi:
 title: "The Broken Middle: Gillian Rose and Paul Against the Empty Sacrifices of Modernity."
 author: "Michael C. Raubach"
 affilation:

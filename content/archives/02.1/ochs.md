@@ -1,4 +1,6 @@
 ---
+nanoid: "JyyeXM"
+doi:
 title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsidered"
 article_number:
 author: "Peter Ochs"

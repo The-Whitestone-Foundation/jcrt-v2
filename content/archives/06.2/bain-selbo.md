@@ -1,4 +1,6 @@
 ---
+nanoid: "94FeVd"
+doi:
 title: "Double Exposure: Cutting Across Buddhist and Western Discourses"
 author: "Eric Bain-Selbo"
 affilation:

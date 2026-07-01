@@ -1,4 +1,6 @@
 ---
+nanoid: "WkbSOV"
+doi:
 title: 'Fetishism And The Erasure Of Identity, Part 2 (Roger Green)'
 description: "The following is the second of a two-part series. The initial installment can be found here. Although we must constantly remember that the fetish is the product"
 date: '2019-07-16T12:42:47.000Z'

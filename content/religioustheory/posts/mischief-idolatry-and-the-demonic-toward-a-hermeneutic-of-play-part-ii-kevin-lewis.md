@@ -1,4 +1,6 @@
 ---
+nanoid: "xAakzz"
+doi:
 title: >-
   Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part II
   (Kevin Lewis)

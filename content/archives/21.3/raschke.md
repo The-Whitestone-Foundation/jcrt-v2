@@ -1,4 +1,6 @@
 ---
+nanoid: "_XFaRF"
+doi:
 title: "A Critical Conversation on “Political Erasure”"
 author: "Arthur Bradley; Carl A. Raschke; Roger Green"
 affilation:

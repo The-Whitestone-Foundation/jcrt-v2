@@ -1,4 +1,6 @@
 ---
+nanoid: "Ur-3d_"
+doi:
 title: "The Ambiguous Gift of Desire"
 article_number: 02
 author: "Charles E Winquist"

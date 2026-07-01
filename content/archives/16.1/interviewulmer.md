@@ -1,4 +1,6 @@
 ---
+nanoid: "s4ITYQ"
+doi:
 title: "Theopraxesis and the Future of H’mmm in the University: an Interview with Gregory L. Ulmer"
 author: "Sergio C.figueiredo"
 affilation:

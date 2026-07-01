@@ -1,4 +1,6 @@
 ---
+nanoid: "DCtvAi"
+doi:
 title: "The Figure of the Stranger: a Possibility for Transcendental Minimalism or Radical Subjectivity"
 author: "Katerina Kolozova"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "Pss_Ec"
+doi:
 title: >-
   The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 2
   (Roger Green)

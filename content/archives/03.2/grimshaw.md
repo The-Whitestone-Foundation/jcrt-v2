@@ -1,4 +1,6 @@
 ---
+nanoid: "NeXbNk"
+doi:
 title: "Preacher"
 article_number:
 author: "Mike Grimshaw"

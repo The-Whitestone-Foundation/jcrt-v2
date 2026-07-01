@@ -1,4 +1,6 @@
 ---
+nanoid: "vjigtD"
+doi:
 title: "Refusing Theory: Avital Ronell and the Structure of Stupidity"
 article_number:
 author: "Victor Taylor"

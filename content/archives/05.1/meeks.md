@@ -1,4 +1,6 @@
 ---
+nanoid: "V759AM"
+doi:
 title: "In the Wake of Edward Said"
 author: "John L Meeks"
 affilation:

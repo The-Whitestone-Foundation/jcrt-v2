@@ -1,4 +1,5 @@
 ---
+nanoid: "dMCgQg"
 name: Hans Ruin
 affiliation: "Sodertorn University College, Stockholm"
 bio:

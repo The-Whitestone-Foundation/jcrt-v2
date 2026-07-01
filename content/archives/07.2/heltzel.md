@@ -1,4 +1,6 @@
 ---
+nanoid: "XVIR8d"
+doi:
 title: "The Weakness of God: a Theology of the Event"
 author: "Peter Heltzel"
 affilation:

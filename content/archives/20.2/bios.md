@@ -1,4 +1,6 @@
 ---
+nanoid: "jUZhG0"
+doi:
 title: Author Bios
 author: editors
 affilation:

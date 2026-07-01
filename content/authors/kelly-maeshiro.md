@@ -1,4 +1,5 @@
 ---
+nanoid: "V2-Sb8"
 name: Kelly Maeshiro
 affiliation: "Union Theological Seminary"
 bio:

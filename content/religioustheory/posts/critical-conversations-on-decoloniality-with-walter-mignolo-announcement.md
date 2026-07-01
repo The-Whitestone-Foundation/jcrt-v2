@@ -1,4 +1,6 @@
 ---
+nanoid: "atExNt"
+doi:
 title: Critical Conversations – “On Decoloniality” With Walter Mignolo (Announcement)
 description: "An earlier version of this posting had the date listed as “December,” which would imply the webinar had already occurred It highlights key arguments and"
 date: '2020-12-29T20:12:22.000Z'

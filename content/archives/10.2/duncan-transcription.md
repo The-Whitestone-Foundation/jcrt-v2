@@ -1,4 +1,6 @@
 ---
+nanoid: "CWG8c9"
+doi:
 title: "Accurate Mystery: Robert Duncan’s H. D. Bibliography Critically Annotated"
 author: "Robert Duncan; Amy Evans"
 affilation:

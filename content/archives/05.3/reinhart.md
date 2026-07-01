@@ -1,4 +1,6 @@
 ---
+nanoid: "NhbVY4"
+doi:
 title: "Philosophy in a Time of Terror: Dialogues with JÜRgen Habermas and Jacques Derrida"
 author: "David Reinhart"
 affilation:

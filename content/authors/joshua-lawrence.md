@@ -1,4 +1,5 @@
 ---
+nanoid: "jGT6OQ"
 name: Joshua Lawrence
 affiliation: "Friedens United Church of Christ"
 bio:

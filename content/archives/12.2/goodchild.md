@@ -1,4 +1,6 @@
 ---
+nanoid: "VOoZ8z"
+doi:
 title: "Engaged Philosophy of Religion."
 author: "Philip Goodchild"
 affilation:

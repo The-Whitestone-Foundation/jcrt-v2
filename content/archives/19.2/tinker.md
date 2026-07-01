@@ -1,4 +1,6 @@
 ---
+nanoid: "HjPpuo"
+doi:
 title: "Religious Studies: the Final Colonization of the American Indian."
 author: "Tink Tinker; Osage Nation"
 affilation:

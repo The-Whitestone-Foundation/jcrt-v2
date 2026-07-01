@@ -1,4 +1,6 @@
 ---
+nanoid: "N3hJg_"
+doi:
 title: "On Becoming a Radical Theologian."
 author: "Richard L. Rubenstein"
 affilation:

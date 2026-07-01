@@ -1,4 +1,5 @@
 ---
+nanoid: "6Smq8d"
 name: Alan Jay Richard
 affiliation: "Realistic Living"
 bio:

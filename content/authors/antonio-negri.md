@@ -1,4 +1,5 @@
 ---
+nanoid: "n8pKHq"
 name: Antonio Negri
 affiliation:
 bio:

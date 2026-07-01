@@ -1,4 +1,6 @@
 ---
+nanoid: "KRCoS1"
+doi:
 title: "Undead"
 author: "Boštjan Nedoh"
 affilation:

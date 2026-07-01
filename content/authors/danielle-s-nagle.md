@@ -1,4 +1,5 @@
 ---
+nanoid: "wlNW4Q"
 name: Danielle S. Nagle
 affiliation: "independant scholar"
 bio: |-

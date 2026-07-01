@@ -1,4 +1,6 @@
 ---
+nanoid: "Zt1LVj"
+doi:
 title: "Between History and Reason: Giambattista Vico and the Promise of Classical Myth."
 author: "Almut-Barbara Renger"
 affilation:

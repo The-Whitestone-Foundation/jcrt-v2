@@ -1,4 +1,6 @@
 ---
+nanoid: "15b8Bq"
+doi:
 title: "Pain and the Problems of the Body: ‘Ontological Frailty’ and a Political Reconsideration of the Corporeal Turn in Theology"
 author: "Robert Geroux"
 affilation:

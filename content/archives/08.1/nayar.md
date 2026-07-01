@@ -1,4 +1,6 @@
 ---
+nanoid: "qr1jDj"
+doi:
 title: "Transmitting Culture"
 author: "Pramod K Nayar"
 affilation:

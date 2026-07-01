@@ -1,4 +1,6 @@
 ---
+nanoid: "5GwPEk"
+doi:
 title: >-
   Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity In
   Brazil – Theological Origins Of A Nation’s Self-Understanding, Part 3

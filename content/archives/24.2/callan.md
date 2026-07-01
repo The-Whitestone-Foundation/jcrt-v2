@@ -1,4 +1,6 @@
 ---
+nanoid: "gzlGeC"
+doi:
 layout: archives.njk
 article_number: '07'
 volume: '24'

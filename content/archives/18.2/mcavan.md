@@ -1,4 +1,6 @@
 ---
+nanoid: "iCU0C9"
+doi:
 title: "Spring in Italy: Anna Karenina and the God Who May Be."
 author: "Emily McAvan"
 affilation:

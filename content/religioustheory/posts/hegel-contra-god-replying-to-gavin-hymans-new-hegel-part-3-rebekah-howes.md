@@ -1,4 +1,6 @@
 ---
+nanoid: "tDJhKt"
+doi:
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 3 (Rebekah
   Howes)

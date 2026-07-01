@@ -1,4 +1,6 @@
 ---
+nanoid: "c_ym6I"
+doi:
 title: "The Deconversion of Hent De Vries"
 author: "Peter Gilgen"
 affilation:

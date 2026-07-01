@@ -1,4 +1,6 @@
 ---
+nanoid: "7N-UdO"
+doi:
 title: "Desire as Disruption"
 author: "Kris Sealey"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "TPkz9W"
+doi:
 title: "God After Metaphysics: a Theological Aesthetic"
 author: "Wilson Dickinson"
 affilation:

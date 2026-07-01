@@ -1,4 +1,6 @@
 ---
+nanoid: "HiJKhL"
+doi:
 title: "Rebellious No"
 article_number:
 author: "Noëlle Vahanian"

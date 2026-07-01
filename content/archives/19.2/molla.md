@@ -1,4 +1,6 @@
 ---
+nanoid: "lbSx8v"
+doi:
 title: "Reframing the Adwa Victory as a Decolonizing Praxis: Discourse Around Colonization in the Ethiopian Context."
 author: "Rode Molla"
 affilation:

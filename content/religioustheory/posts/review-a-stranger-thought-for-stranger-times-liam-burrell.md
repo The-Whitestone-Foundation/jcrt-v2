@@ -1,4 +1,6 @@
 ---
+nanoid: "D2__SS"
+doi:
 title: Review – A Stranger Thought For Stranger Times (Liam Burrell)
 description: "*Smith, Anthony Paul. Laruelle: A Stranger Thought. Cambridge: Polity, 2016. ISBN-10: 0745671233. Hardcover, paperback, e-book Hardcover, paperback, e-book."
 date: '2017-04-06T04:00:49.000Z'

@@ -1,4 +1,6 @@
 ---
+nanoid: "btRCGj"
+doi:
 title: "Decoloniality and Crisis Introduction"
 author: "Nikolay Karkov; Jeffrey W. Robbins"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "PU16fc"
+doi:
 title: "Playing Poker with Pascal: Theology in the American Casino"
 author: "Bradley A Johnson"
 affilation:

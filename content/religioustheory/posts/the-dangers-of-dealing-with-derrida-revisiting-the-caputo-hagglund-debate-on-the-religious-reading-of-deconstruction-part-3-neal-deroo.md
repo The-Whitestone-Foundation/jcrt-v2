@@ -1,4 +1,6 @@
 ---
+nanoid: "M1-EfU"
+doi:
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 3 (Neal DeRoo)

@@ -1,4 +1,6 @@
 ---
+nanoid: "T16A8e"
+doi:
 title: "Seated at the Cross: What Black Disabled Bodies Can Teach US About Environmental Justice"
 author: "Robert Monson"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "3UeoJi"
+doi:
 title: >-
   George Batailles On Ethnographic Surrealism And “The Limits Of The Useful” –
   Review Essay (Matt Waggoner)

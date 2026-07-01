@@ -1,4 +1,6 @@
 ---
+nanoid: "9nhmsK"
+doi:
 title: "The Imagination in Spinoza: the Moral Good Between Prophecy and the Amor Dei Intellectualis"
 author: "Caterina Gaetano"
 affilation:

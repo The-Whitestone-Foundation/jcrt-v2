@@ -1,4 +1,6 @@
 ---
+nanoid: "mxmVFU"
+doi:
 layout: archives.njk
 article_number: '11'
 volume: '24'

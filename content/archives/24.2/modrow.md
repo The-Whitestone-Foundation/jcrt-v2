@@ -1,4 +1,6 @@
 ---
+nanoid: "scPBfs"
+doi:
 layout: archives.njk
 article_number: '05'
 volume: '24'

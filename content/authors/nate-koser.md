@@ -1,4 +1,5 @@
 ---
+nanoid: "5hVbkW"
 name: Nate Koser
 affiliation: "Licensed Professional Counselor"
 bio:

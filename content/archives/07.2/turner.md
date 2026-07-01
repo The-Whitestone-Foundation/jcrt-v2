@@ -1,4 +1,6 @@
 ---
+nanoid: "f3dZHS"
+doi:
 title: "Derrida’s Bible: Reading a Page of Scripture with a Little Help from Derrida"
 author: "Donald L Turner"
 affilation:

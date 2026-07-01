@@ -1,4 +1,6 @@
 ---
+nanoid: "nZXrQz"
+doi:
 title: "In Whom, Then, Do We Put Trust?"
 author: "J Aaron Simmons"
 affilation:

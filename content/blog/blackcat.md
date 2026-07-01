@@ -1,4 +1,6 @@
 ---
+nanoid: "NzSik5"
+doi:
 title: "Black Cats"
 date: 2025-01-04
 description: "The void blinks back"

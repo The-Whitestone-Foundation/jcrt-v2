@@ -1,4 +1,6 @@
 ---
+nanoid: "Sg3JkW"
+doi:
 title: "The Mad Women Project: Disability and the Aesthetics of Human Disqualification."
 author: "Tobin Siebers"
 affilation:

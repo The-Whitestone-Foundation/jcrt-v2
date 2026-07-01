@@ -1,4 +1,6 @@
 ---
+nanoid: "7lGkb2"
+doi:
 title: "A. I: Artificial Intelligence"
 article_number:
 author: "Dennis M Weiss"

@@ -1,4 +1,6 @@
 ---
+nanoid: "PSM5-t"
+doi:
 title: "Street Art and Civic Dialogue: an Interview with Gaia"
 author: "Shelly Clay-Robinson"
 affilation:

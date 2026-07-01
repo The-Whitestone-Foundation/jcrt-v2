@@ -1,4 +1,6 @@
 ---
+nanoid: "R5-cIF"
+doi:
 title: >-
   Review – Ontic Flows: From Digital Humanities to Posthumanities (Dean
   Dettloff)

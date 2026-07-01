@@ -1,4 +1,5 @@
 ---
+nanoid: "mOrjx2"
 name: Amit Gvaryahu
 affiliation: ""
 bio:

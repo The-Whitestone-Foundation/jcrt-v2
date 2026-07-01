@@ -1,4 +1,6 @@
 ---
+nanoid: "Ptxx-J"
+doi:
 title: "A Shallow Species in Deep Time: Modernism, Postmodernism, and Our Place in the Potential History of Inquiry."
 author: "J. L. Schellenberg"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "L8FgNp"
+doi:
 title: "Benjamin, Method, and Weak Messianism"
 author: "Roger K Green"
 affilation:

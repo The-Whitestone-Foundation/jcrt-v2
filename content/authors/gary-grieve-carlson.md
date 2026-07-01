@@ -1,4 +1,5 @@
 ---
+nanoid: "Lu5xCv"
 name: Gary Grieve-Carlson
 affiliation: "Lebanon Valley College"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "ETvZ_a"
+doi:
 title: "On Cosmopolitanism and Forgiveness"
 article_number:
 author: "David Reinhart"

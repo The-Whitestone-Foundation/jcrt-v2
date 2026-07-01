@@ -1,4 +1,6 @@
 ---
+nanoid: "00Aj9y"
+doi:
 title: "Thinking the Absolute Edge Between Altizer and Leahy."
 author: "Alina N. Feld"
 affilation:

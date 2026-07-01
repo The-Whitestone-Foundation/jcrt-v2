@@ -1,4 +1,6 @@
 ---
+nanoid: "fh1ntW"
+doi:
 title: "Introduction: the Dialogical Promise of Mashup Philosophy of Religion."
 author: "J. Aaron Simmons"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "EUFU-q"
 name: Gianni Vattimo
 affiliation: "The University of Turin"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "7s0GwF"
+doi:
 title: "Humanizing Philosophy of Religion: on Language in Levinas and Sellars."
 author: "Martin Kavka"
 affilation:

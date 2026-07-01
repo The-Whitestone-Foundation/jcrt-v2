@@ -1,4 +1,5 @@
 ---
+nanoid: "nsCgx2"
 name: Patrice Haynes
 affiliation: "Liverpool Hope College"
 bio:

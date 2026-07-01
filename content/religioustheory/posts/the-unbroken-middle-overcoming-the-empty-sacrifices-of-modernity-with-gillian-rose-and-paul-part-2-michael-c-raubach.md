@@ -1,4 +1,6 @@
 ---
+nanoid: "BUoOo4"
+doi:
 title: >-
   The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian
   Rose And Paul, Part 2 (Michael C. Raubach)

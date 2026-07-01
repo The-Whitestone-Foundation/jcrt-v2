@@ -1,4 +1,6 @@
 ---
+nanoid: "6jG-ba"
+doi:
 title: "Beyond Moral Development: Re-Theorizing Ethical Practices in Service Learning."
 author: "Joe Blosser"
 affilation:

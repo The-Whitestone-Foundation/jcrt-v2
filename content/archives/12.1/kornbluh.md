@@ -1,4 +1,6 @@
 ---
+nanoid: "fWnyb4"
+doi:
 title: "Enjoying Law: Psychoanalysis and Sovereign Bodies"
 author: "Anna Kornbluh"
 affilation:

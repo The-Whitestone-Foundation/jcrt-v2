@@ -1,4 +1,6 @@
 ---
+nanoid: "Vm2LUd"
+doi:
 title: "Performing Religiously Between Passion and Resistance."
 author: "William Robert"
 affilation:

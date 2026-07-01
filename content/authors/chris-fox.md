@@ -1,4 +1,5 @@
 ---
+nanoid: "uwCDnz"
 name: Chris Fox
 affiliation: "Newman University, Wichita, KS"
 bio:

@@ -1,4 +1,5 @@
 ---
+nanoid: "bRTO8p"
 title: Editors
 description: 'Meet the JCRT editorial team: senior, executive, special projects, and assistant editors, plus consulting editors guiding the journal’s vision overall'
 permalink: /editors/

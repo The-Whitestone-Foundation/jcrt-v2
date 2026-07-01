@@ -1,4 +1,6 @@
 ---
+nanoid: "MHvbii"
+doi:
 title: "Encyclopedias and Other Things: Some Recent Theology"
 author: "Kevin Hart"
 affilation:

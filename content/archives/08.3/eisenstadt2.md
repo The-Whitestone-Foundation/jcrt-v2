@@ -1,4 +1,6 @@
 ---
+nanoid: "REcz8C"
+doi:
 title: "Heart's Blood: Derrida and Portia on Translation"
 author: "Oona Eisenstadt"
 affilation:

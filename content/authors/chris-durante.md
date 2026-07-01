@@ -1,4 +1,5 @@
 ---
+nanoid: "GyWtDa"
 name: Chris Durante
 affiliation: "Saint Peter’s University"
 bio:

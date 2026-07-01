@@ -1,4 +1,6 @@
 ---
+nanoid: "IZUwOE"
+doi:
 title: "The Epistemic Status of Value-Cognition in Max Scheler’s Philosophy of Religion"
 article_number:
 author: "Todd A Gooch"

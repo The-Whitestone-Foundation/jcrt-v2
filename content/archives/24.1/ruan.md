@@ -1,4 +1,6 @@
 ---
+nanoid: "Fs-YT2"
+doi:
 title: "The Violence of Classification and Ethics of Suicide: a Reflection on Qiu Jin’s Death"
 author: "Genn Ruan; Xiaoqian Zhang"
 affilation:

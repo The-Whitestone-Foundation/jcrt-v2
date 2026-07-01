@@ -1,4 +1,6 @@
 ---
+nanoid: "SVKJsO"
+doi:
 title: "If There Is Such A Thing: Posse Ipsum, The Impossible, And Le Peut-être Même Reading Catherine Keller’s Cloud Of The Impossible"
 author: "John D. Caputo"
 affilation:

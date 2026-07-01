@@ -1,4 +1,6 @@
 ---
+nanoid: "_RJ-ao"
+doi:
 title: 'Modern Theology And The Dialectic Of God, Part 2 (Kelly Maeshiro)'
 description: "The following is the second of a four-part series. The first can be found here. Kantian idealism for Hegel represents the “shape” of Spirit corresponding to"
 date: '2021-02-08T17:23:42.000Z'

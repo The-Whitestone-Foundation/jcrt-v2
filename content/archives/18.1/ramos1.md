@@ -1,4 +1,6 @@
 ---
+nanoid: "7PnW83"
+doi:
 title: "The Secularizing Ethos and the End of Biblical Authority: How Today’s Evangelicals Abandoned Evangelicalism."
 author: "Joshua Ramos"
 affilation:

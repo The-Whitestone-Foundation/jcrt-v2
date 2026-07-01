@@ -1,4 +1,6 @@
 ---
+nanoid: "SkWyOn"
+doi:
 title: "Response"
 author: "Eric L Santner"
 affilation:

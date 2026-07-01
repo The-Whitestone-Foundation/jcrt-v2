@@ -1,4 +1,6 @@
 ---
+nanoid: "A6GNgj"
+doi:
 title: "Life After Life: a Figure of Thought in Walter Benjamin"
 author: "Daniel Weidner"
 affilation:

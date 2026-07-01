@@ -1,4 +1,6 @@
 ---
+nanoid: "CltuJc"
+doi:
 title: "Subject and Time: Jean-Luc Marion’s Alteration of Kantian Subjectivity."
 author: "Jason Alvis"
 affilation:

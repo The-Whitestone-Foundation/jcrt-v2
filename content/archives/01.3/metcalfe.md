@@ -1,4 +1,6 @@
 ---
+nanoid: "4MUccs"
+doi:
 title: "Wonder, Creativity and Knowledge"
 article_number:
 author: "Andrew W Metcalfe"

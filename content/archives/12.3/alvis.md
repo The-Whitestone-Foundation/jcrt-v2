@@ -1,4 +1,6 @@
 ---
+nanoid: "zYZn6s"
+doi:
 title: "The Indiscrete Image: Infinitude and Creation of the Human."
 author: "Jason Alvis"
 affilation:

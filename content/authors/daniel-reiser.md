@@ -1,4 +1,5 @@
 ---
+nanoid: "xOIm8h"
 name: Daniel Reiser
 affiliation: "Herzog College"
 bio:

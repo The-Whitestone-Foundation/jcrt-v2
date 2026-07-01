@@ -1,4 +1,6 @@
 ---
+nanoid: "T6x2f-"
+doi:
 author: editors
 title: Author Bios
 affilation:

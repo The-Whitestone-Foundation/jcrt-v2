@@ -1,4 +1,6 @@
 ---
+nanoid: "ILPSkm"
+doi:
 title: "Wittgenstein and Judaism: a Triumph of Concealment"
 author: "Andrew Saldino"
 affilation:

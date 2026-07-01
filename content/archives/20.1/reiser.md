@@ -1,4 +1,6 @@
 ---
+nanoid: "b7aPxs"
+doi:
 title: "Tsimtsum in Life of Pi."
 author: "Daniel Reiser"
 affilation:

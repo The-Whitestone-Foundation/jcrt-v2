@@ -1,4 +1,5 @@
 ---
+nanoid: "RjOadG"
 name: Larry T. Shillock
 affiliation: "Wilson College"
 bio:

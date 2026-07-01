@@ -1,4 +1,6 @@
 ---
+nanoid: "jScoJy"
+doi:
 title: >-
   The Environmental Ethics of Pope Francis – Parsing Key Terms and Claims In
   Laudato Si’ (Thomas Massaro, S.J.)

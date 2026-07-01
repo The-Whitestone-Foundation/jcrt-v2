@@ -1,4 +1,6 @@
 ---
+nanoid: "qICHtp"
+doi:
 title: "Einstein’s Jewish Science"
 author: "Stephen J Stern; Steven Gimbel"
 affilation:

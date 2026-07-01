@@ -1,4 +1,6 @@
 ---
+nanoid: "5z4-n9"
+doi:
 title: "In Our Image: Artificial Intelligence and the Human Spirit"
 article_number:
 author: "Dennis M Weiss"

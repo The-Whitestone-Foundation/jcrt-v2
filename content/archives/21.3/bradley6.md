@@ -1,4 +1,6 @@
 ---
+nanoid: "c5ECKx"
+doi:
 title: "The Beautiful Marrano: A Response to Agata Blielik-Robson"
 author: "Arthur Bradley"
 affilation:

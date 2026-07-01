@@ -1,4 +1,6 @@
 ---
+nanoid: "yCgZOc"
+doi:
 title: "Essence, Alienation, and the Economics of Libido."
 author: "Trevor Pederson"
 affilation:

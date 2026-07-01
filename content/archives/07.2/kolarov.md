@@ -1,4 +1,6 @@
 ---
+nanoid: "Vo2uHS"
+doi:
 title: "Gems for Creatures: Care and Natality Between Hannah Arendt and Shakespeare"
 author: "Viola Kolarov"
 affilation:

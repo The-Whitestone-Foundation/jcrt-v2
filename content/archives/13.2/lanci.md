@@ -1,4 +1,6 @@
 ---
+nanoid: "cbkTHy"
+doi:
 title: "Zombie 2.0: Subjectivation in Times of Apocalypse."
 author: "Yari Lanci"
 affilation:

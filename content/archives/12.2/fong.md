@@ -1,4 +1,6 @@
 ---
+nanoid: "fRp0uk"
+doi:
 title: "Spheres, Volume One: Bubbles."
 author: "Benjamin Fong"
 affilation:

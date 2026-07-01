@@ -1,4 +1,5 @@
 ---
+nanoid: "vRkS4F"
 name: Kris Sealey
 affiliation: "Fairfield University"
 bio:

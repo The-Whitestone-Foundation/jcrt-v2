@@ -1,4 +1,5 @@
 ---
+nanoid: "UCB-eQ"
 name: Tad Delay
 affiliation: "Metropolitan State University of Denver"
 bio:

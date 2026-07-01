@@ -1,4 +1,6 @@
 ---
+nanoid: "6YCvoR"
+doi:
 title: "Undead"
 author: "Arthur Bradley"
 affilation:

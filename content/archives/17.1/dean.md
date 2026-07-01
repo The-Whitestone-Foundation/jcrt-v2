@@ -1,4 +1,6 @@
 ---
+nanoid: "x21d8X"
+doi:
 title: "Collective Desire and the Pathology of the Individual."
 author: "Jodi Dean"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "Gm5D4J"
+doi:
 title: "Truth and Genesis: Philosophy as Differential Ontology"
 author: "Matthew S Linck"
 affilation:

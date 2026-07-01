@@ -1,4 +1,6 @@
 ---
+nanoid: "X2EiyH"
+doi:
 title: "Flesh and Consciousness: Georges Bataille and the Dionysian"
 author: "Jonathan David York"
 affilation:

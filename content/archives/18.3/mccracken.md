@@ -1,4 +1,6 @@
 ---
+nanoid: "mQqA7h"
+doi:
 title: "A Note on Pre-Positions: Methodology in the Continental Philosophy of Religion."
 author: "Lucas McCracken"
 affilation:

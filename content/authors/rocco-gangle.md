@@ -1,4 +1,5 @@
 ---
+nanoid: "Xy8xBr"
 name: Rocco Gangle
 affiliation:
 bio:

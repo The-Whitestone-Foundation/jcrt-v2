@@ -1,4 +1,6 @@
 ---
+nanoid: "PEv2iE"
+doi:
 title: "Philosophy & Scripture in Book VII of Augustine’s Confessions"
 author: "Adam S Miller"
 affilation:

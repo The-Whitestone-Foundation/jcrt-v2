@@ -1,4 +1,6 @@
 ---
+nanoid: "CL2oL0"
+doi:
 title: "Continental Divide: Heidegger, Cassirer, Davos."
 author: "Leslie C. Miller"
 affilation:

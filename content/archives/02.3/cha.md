@@ -1,4 +1,6 @@
 ---
+nanoid: "AqoNaX"
+doi:
 title: "Language, Conceptualization and Awakening: on the Paradox of Discourse in Classical Indian Yogacara"
 article_number:
 author: "John Y Cha"

@@ -1,4 +1,6 @@
 ---
+nanoid: "aEoQmx"
+doi:
 title: "Godhead and the Nothing"
 author: "Apple Zefelius Igrek"
 affilation:

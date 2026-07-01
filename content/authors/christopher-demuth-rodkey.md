@@ -1,4 +1,5 @@
 ---
+nanoid: "nw0ayE"
 name: Christopher Demuth Rodkey
 affiliation: "Lebanon Valley College, Drew University "
 bio: 

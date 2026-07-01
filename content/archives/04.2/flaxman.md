@@ -1,4 +1,6 @@
 ---
+nanoid: "pEh7jv"
+doi:
 title: "Past Imperfect, Future Unknown: the Discourse of Theory"
 article_number:
 author: "Gregory Flaxman"

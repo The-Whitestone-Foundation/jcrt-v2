@@ -1,4 +1,5 @@
 ---
+nanoid: "NtOCRW"
 name: Aaron Kunin
 affiliation: "Pomona College"
 bio:

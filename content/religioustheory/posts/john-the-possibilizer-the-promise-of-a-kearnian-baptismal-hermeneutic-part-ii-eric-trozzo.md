@@ -1,4 +1,6 @@
 ---
+nanoid: "ha_9Lf"
+doi:
 title: >-
   John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part
   II (Eric Trozzo)

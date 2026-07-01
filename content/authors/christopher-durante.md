@@ -1,4 +1,5 @@
 ---
+nanoid: "PO0LL2"
 name: Christopher Durante
 affiliation:
 bio:

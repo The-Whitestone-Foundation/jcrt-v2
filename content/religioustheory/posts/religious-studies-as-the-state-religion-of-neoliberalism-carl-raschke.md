@@ -1,4 +1,6 @@
 ---
+nanoid: "-fbS-U"
+doi:
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 1 (Carl
   Raschke)

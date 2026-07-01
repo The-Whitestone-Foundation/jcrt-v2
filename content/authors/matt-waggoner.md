@@ -1,4 +1,5 @@
 ---
+nanoid: "Vs3ceu"
 name: Matt Waggoner
 affiliation: "Albertus Magnus College"
 bio:

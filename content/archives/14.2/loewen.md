@@ -1,4 +1,6 @@
 ---
+nanoid: "j1a4Kp"
+doi:
 title: "Prolegomena to Any Future Mashups with the Philosophy of Religion."
 author: "Nathan R. B. Loewen"
 affilation:

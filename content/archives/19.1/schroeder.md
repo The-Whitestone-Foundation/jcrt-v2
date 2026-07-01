@@ -1,4 +1,6 @@
 ---
+nanoid: "dm5b5V"
+doi:
 title: "Kenotic Theology, Buddhism, and Time."
 author: "Brian ShŪDŌ Schroeder"
 affilation:

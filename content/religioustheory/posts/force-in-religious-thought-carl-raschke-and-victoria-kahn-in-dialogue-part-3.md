@@ -1,4 +1,6 @@
 ---
+nanoid: "HKSq5i"
+doi:
 title: >-
   Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part
   3 (Roger Green)

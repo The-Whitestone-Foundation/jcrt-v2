@@ -1,4 +1,5 @@
 ---
+nanoid: "LaptdQ"
 name: Jeffrey Kosky
 affiliation: "Washington and Lee University, Bucknell University"
 bio:

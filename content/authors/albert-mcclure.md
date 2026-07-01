@@ -1,4 +1,5 @@
 ---
+nanoid: "JDjbD0"
 name: Albert McClure
 affiliation: ""
 bio:

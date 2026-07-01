@@ -1,4 +1,5 @@
 ---
+nanoid: "r2jh18"
 name: Joe Blosser
 affiliation: "High Point University"
 bio:

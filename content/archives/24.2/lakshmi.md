@@ -1,4 +1,6 @@
 ---
+nanoid: "5hE8Ey"
+doi:
 layout: archives.njk
 article_number: '13'
 volume: '24'

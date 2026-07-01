@@ -1,4 +1,6 @@
 ---
+nanoid: "lSgffu"
+doi:
 title: "Anxiety and the S(Ub)Lime Body of God"
 tags: 
   - cat

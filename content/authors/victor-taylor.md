@@ -1,4 +1,5 @@
 ---
+nanoid: "UCaxNQ"
 name: Victor Taylor
 affiliation: "Independent Scholar"
 bio:

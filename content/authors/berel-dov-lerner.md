@@ -1,4 +1,5 @@
 ---
+nanoid: "boyX1o"
 name: Berel Dov Lerner
 affiliation: "Western Galilee College "
 bio:

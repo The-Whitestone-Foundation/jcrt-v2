@@ -1,4 +1,6 @@
 ---
+nanoid: "KRid_g"
+doi:
 title: "The Return to Ritual: Violence and Art in the Media Age"
 author: "Tobin Siebers"
 affilation:

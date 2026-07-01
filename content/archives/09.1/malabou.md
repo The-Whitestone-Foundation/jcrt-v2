@@ -1,4 +1,6 @@
 ---
+nanoid: "SIfstX"
+doi:
 title: "A Conversation with Catherine Malabou"
 author: "Nöelle Vahanian; Catherine Malabou; Carissa Devine"
 affilation:

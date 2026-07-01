@@ -1,4 +1,6 @@
 ---
+nanoid: "YS10SK"
+doi:
 title: "Theopraxesis and the Future of H’mmm in the University: an Interview with Gregory L. Ulmer."
 author: "Sergio C. Figueiredo"
 affilation:

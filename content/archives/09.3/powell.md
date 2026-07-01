@@ -1,4 +1,6 @@
 ---
+nanoid: "u4XEPw"
+doi:
 title: "Religion: Beyond a Concept"
 author: "Matthew T Powell"
 affilation:

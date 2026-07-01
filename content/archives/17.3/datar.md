@@ -1,4 +1,6 @@
 ---
+nanoid: "QrOZ7t"
+doi:
 title: "Religious Autonomy as Secularism’s Silent Partner."
 author: "Darshan Datar"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "vdDQsi"
+doi:
 title: "The Parallax View"
 author: "Adam Kotsko"
 affilation:

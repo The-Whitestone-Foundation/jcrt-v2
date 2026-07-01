@@ -1,4 +1,6 @@
 ---
+nanoid: "SJaS9f"
+doi:
 title: >-
   Recovering the Unconscious – A Conference on the Intersection of
   Psychoanalysis With Politics, Philosophy, and Religion – CFP

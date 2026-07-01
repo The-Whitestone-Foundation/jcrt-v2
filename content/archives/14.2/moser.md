@@ -1,4 +1,6 @@
 ---
+nanoid: "gCs5G3"
+doi:
 title: "God and Epistemic Authority."
 author: "Paul K. Moser"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "f7sfNR"
+doi:
 title: "Slow Reading: Learning the Time of the Body"
 author: "Karmen MacKendrick"
 affilation:

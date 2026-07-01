@@ -1,4 +1,6 @@
 ---
+nanoid: "O2hvhO"
+doi:
 title: "Crip/Tography: Disability Theology in the Ruins of God."
 author: "Sharon V. Betcher"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "63AQbE"
 name: G Chad Snyder
 affiliation: "Elon University"
 bio:

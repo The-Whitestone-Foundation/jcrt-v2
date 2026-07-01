@@ -1,4 +1,6 @@
 ---
+nanoid: "J6NG1x"
+doi:
 title: "Three Classic Readings of ‘Ethnographic Practice’ in Religious Studies‘"
 author: "Angie Heo"
 affilation:

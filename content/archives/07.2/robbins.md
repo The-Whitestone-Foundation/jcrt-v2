@@ -1,4 +1,6 @@
 ---
+nanoid: "Vm1ofO"
+doi:
 title: "Beginning to Think"
 author: "Jeffrey W Robbins"
 affilation:

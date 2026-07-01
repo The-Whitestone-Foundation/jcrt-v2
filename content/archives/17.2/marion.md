@@ -1,4 +1,6 @@
 ---
+nanoid: "GwE-cG"
+doi:
 title: "The Irreducible."
 author: "Jean-Luc Marion"
 affilation:

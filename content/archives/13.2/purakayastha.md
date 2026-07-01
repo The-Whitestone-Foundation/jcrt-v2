@@ -1,4 +1,6 @@
 ---
+nanoid: "mNRplk"
+doi:
 title: "Religion, Politics, and the Earth: the New Materialism."
 author: "Anindya Sekhar Purakayastha"
 affilation:

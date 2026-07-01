@@ -1,4 +1,6 @@
 ---
+nanoid: "OxVA93"
+doi:
 title: "Christianity in Jewish Terms"
 article_number:
 author: "Jason M Flato"

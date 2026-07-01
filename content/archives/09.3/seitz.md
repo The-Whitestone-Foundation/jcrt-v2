@@ -1,4 +1,6 @@
 ---
+nanoid: "DgAJMs"
+doi:
 title: "Secularisms"
 author: "Jonathan A Seitz"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "iFCMKU"
+doi:
 title: "A Private Happiness for All, Or, How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
 article_number:
 author: "M Gail Hamner"

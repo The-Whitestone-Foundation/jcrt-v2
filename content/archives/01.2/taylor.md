@@ -1,4 +1,6 @@
 ---
+nanoid: "9PTTA3"
+doi:
 title: "The Division of Religion with Signs Following"
 article_number:
 author: "Victor Taylor"

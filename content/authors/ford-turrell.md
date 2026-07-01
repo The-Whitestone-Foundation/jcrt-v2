@@ -1,4 +1,5 @@
 ---
+nanoid: "hpq_gq"
 name: Ford Turrell
 affiliation: "Nashville State Community College "
 bio:

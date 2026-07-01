@@ -1,4 +1,6 @@
 ---
+nanoid: "tvHrLq"
+doi:
 title: "Derrida, Jacques, 1930-2004"
 author: "John D Caputo"
 affilation:

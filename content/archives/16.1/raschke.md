@@ -1,4 +1,6 @@
 ---
+nanoid: "c7Gzw_"
+doi:
 title: "The Civic Humanities and the Crisis of Neoliberalism."
 author: "Carl A. Raschke"
 affilation:

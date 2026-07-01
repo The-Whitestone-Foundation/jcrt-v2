@@ -1,4 +1,6 @@
 ---
+nanoid: "dVDOsM"
+doi:
 title: "Modern Theology and the Dialectic of God."
 author: "Kelly Maeshiro"
 affilation:

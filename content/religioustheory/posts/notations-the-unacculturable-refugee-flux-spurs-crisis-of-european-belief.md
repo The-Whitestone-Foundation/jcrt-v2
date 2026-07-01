@@ -1,4 +1,6 @@
 ---
+nanoid: "daSSmk"
+doi:
 title: >-
   NOTATIONS – The “Unacculturable” – Refugee Flux Spurs Crisis of European
   Belief

@@ -1,4 +1,6 @@
 ---
+nanoid: "sXiH1G"
+doi:
 title: "Walter Benjamin’s World of Things."
 author: "Yael Almog"
 affilation:

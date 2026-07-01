@@ -1,4 +1,6 @@
 ---
+nanoid: "EZdRys"
+doi:
 title: "The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time"
 article_number: 04
 author: "Gabriel Vahanian; Warren Clarnette"

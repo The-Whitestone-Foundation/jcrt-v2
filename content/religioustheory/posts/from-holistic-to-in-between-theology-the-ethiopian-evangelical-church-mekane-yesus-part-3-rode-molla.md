@@ -1,4 +1,6 @@
 ---
+nanoid: "S8Zwdx"
+doi:
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 3 (Rode Molla)

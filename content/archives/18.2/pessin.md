@@ -1,4 +1,6 @@
 ---
+nanoid: "MOPYr0"
+doi:
 title: "Kenosis, Emancipation, Pastness: Reflections from a Jew."
 author: "Sarah Pessin"
 affilation:

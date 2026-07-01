@@ -1,4 +1,6 @@
 ---
+nanoid: "CdY-N7"
+doi:
 title: "Dispositions, Habits and Virtues: Comments on Mulder and Kelly."
 author: "John Greco"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "lqcLpC"
 name: Craig (Craig Edward) Martin
 affiliation: "St. Thomas Aquinas College"
 bio:

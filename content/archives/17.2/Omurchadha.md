@@ -1,4 +1,6 @@
 ---
+nanoid: "w-fBUN"
+doi:
 title: "A Phenomenology of the Infinite: Horizon, Faith, Love."
 author: "Felix Ó Murchadha"
 affilation:

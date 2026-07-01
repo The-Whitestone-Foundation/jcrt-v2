@@ -1,4 +1,6 @@
 ---
+nanoid: "TDjmDk"
+doi:
 title: "Globalization and Its Enemies"
 author: "Diane E Johnson"
 affilation:

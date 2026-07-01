@@ -1,4 +1,6 @@
 ---
+nanoid: "8rYnhf"
+doi:
 title: >-
   Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchild And
   Devin Singh)

@@ -1,4 +1,6 @@
 ---
+nanoid: "oCU-NK"
+doi:
 title: "‘A Philosophy and Theology of Hyperinflation’: Walter Benjamin, Weimar and the New Thinking"
 author: "Nikolas Lambrianou"
 affilation:

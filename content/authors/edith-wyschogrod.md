@@ -1,4 +1,5 @@
 ---
+nanoid: "Yrg6UT"
 name: Edith Wyschogrod
 affiliation: "Rice University"
 bio:

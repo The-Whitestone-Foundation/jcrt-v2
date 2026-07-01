@@ -1,4 +1,6 @@
 ---
+nanoid: "MN-x_-"
+doi:
 title: "The Ghosts of Pendleton: Artist’s Statement."
 author: "April O'Brien"
 affilation:

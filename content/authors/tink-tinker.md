@@ -1,4 +1,5 @@
 ---
+nanoid: "8E457W"
 name: Tink Tinker
 affiliation: "wazhazhe/Osage Nation, Iliff School of Theology"
 bio:

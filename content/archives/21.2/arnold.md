@@ -1,4 +1,6 @@
 ---
+nanoid: "DNOIJW"
+doi:
 title: "Why the White Guy?"
 author: "Philip P. Arnold"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "TE--r1"
+doi:
 title: >-
   Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H.
   Long, Part 2 (Mehnaz Afridi)

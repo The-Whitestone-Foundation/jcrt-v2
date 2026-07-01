@@ -1,4 +1,6 @@
 ---
+nanoid: "1Euqy4"
+doi:
 title: "The End of Words: the Language of Reconciliation in a Culture of Violence"
 author: "Ford Turrell"
 affilation:

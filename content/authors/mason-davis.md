@@ -1,4 +1,5 @@
 ---
+nanoid: "aWiH37"
 name: Mason Davis
 affiliation: "Academic Impressions"
 bio:

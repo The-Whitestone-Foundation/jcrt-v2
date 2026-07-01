@@ -1,4 +1,6 @@
 ---
+nanoid: "VNS5gY"
+doi:
 title: "Beyond the Pulpit: Women’s Rhetorical Roles in the Antebellum Religious Press."
 author: "Kerrie L. Carsey"
 affilation:

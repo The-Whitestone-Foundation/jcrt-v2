@@ -1,4 +1,6 @@
 ---
+nanoid: "4V6x0f"
+doi:
 title: "Artist’s Statement"
 article_number:
 author: "Christopher M Taylor; Christopher M Taylor"

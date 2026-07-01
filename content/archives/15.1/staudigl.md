@@ -1,4 +1,6 @@
 ---
+nanoid: "G5WFCE"
+doi:
 title: "Unavowed Ambiguities?: a Plea for Reassessing the Discourse on the Gift."
 author: "Michael Staudigl"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "jlic7f"
+doi:
 title: "Religion, Secularity, Gender, Violence, & Death."
 author: "Beatrice Marovich"
 affilation:

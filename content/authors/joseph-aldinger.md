@@ -1,4 +1,5 @@
 ---
+nanoid: "1Gdnhy"
 name: Joseph Aldinger
 affiliation: "Lynchburg College"
 bio:

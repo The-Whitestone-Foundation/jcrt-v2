@@ -1,4 +1,6 @@
 ---
+nanoid: "nOWtVl"
+doi:
 title: "The Truth of Paul According to Alain Badiou."
 author: "Mads Peter Karlsen"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "iY86aF"
+doi:
 title: "Education as Event: a Conversation with John D. Caputo."
 author: "John D. Caputo; T. Wilson Dickinson"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "WW7URA"
+doi:
 title: "Divine Revelation in the Literal Expression."
 author: "George Quasha"
 affilation:

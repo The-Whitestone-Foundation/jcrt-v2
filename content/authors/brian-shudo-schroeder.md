@@ -1,4 +1,5 @@
 ---
+nanoid: "uxsHGM"
 name: Brian Shūdō Schroeder
 affiliation: "Rochester Institute of Technology"
 bio:

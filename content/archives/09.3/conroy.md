@@ -1,4 +1,6 @@
 ---
+nanoid: "O5Bf_w"
+doi:
 title: "Lacan and the Limits of Language"
 author: "Melissa Conroy"
 affilation:

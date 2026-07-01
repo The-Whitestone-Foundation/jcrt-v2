@@ -1,4 +1,5 @@
 ---
+nanoid: "zz0Y6Z"
 name: Madison Tarleton
 affiliation: "Uniiversity of Denver/Iliff School of Theology"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "0GR-Gv"
+doi:
 title: "De(Ma)Cracy"
 author: "Philipp Quell"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "oVh049"
+doi:
 title: "Terror and the Sacred"
 article_number:
 author: "David Hale"

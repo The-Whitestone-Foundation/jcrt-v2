@@ -1,4 +1,6 @@
 ---
+nanoid: "s-VeFa"
+doi:
 title: "Parenthesis"
 author: "Arthur Bradley"
 affilation:

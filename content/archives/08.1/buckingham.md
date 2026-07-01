@@ -1,4 +1,6 @@
 ---
+nanoid: "m3s6TA"
+doi:
 title: "Walter Benjamin, Religion, and Aesthetics: Rethinking Religion Through the Arts"
 author: "Will Buckingham"
 affilation:

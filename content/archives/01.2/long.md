@@ -1,4 +1,6 @@
 ---
+nanoid: "fqpD6r"
+doi:
 title: "Mircea Eliade and the Imagination of Matter"
 article_number:
 author: "Charles H Long"

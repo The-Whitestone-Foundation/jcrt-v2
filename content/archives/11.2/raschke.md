@@ -1,4 +1,6 @@
 ---
+nanoid: "s8K9tB"
+doi:
 title: "The Monstrosity of ŽIŽEk’s Christianity"
 author: "Carl A. Raschke"
 affilation:

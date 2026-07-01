@@ -1,4 +1,5 @@
 ---
+nanoid: "sL68Qw"
 name: Simon Clark
 affiliation: "Goldsmiths, University of London"
 bio:

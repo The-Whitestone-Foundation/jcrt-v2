@@ -1,4 +1,6 @@
 ---
+nanoid: "piSG8Y"
+doi:
 title: "Caveat Lector: Introduction"
 author: "Arthur Bradley"
 affilation:

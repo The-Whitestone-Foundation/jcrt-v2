@@ -1,4 +1,6 @@
 ---
+nanoid: "6Z4ohH"
+doi:
 title: "‘A Love as Strong as Death’: Reconstructing a Politics of Christian Love"
 author: "Mario Costa"
 affilation:

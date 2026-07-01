@@ -1,4 +1,5 @@
 ---
+nanoid: "R6D2z2"
 name: Tamas Nagypal
 affiliation: "York University, Toronto"
 bio:

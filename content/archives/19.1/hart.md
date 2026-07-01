@@ -1,4 +1,6 @@
 ---
+nanoid: "0u2Ghz"
+doi:
 title: "Afterthinking Altizer: Redemption and the Divine Recusal."
 author: "Ray L. Hart"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "94tZ3-"
+doi:
 title: "Life as Art: Aesthetic Virtue and Moral Obligation."
 author: "Jochen Schmidt"
 affilation:

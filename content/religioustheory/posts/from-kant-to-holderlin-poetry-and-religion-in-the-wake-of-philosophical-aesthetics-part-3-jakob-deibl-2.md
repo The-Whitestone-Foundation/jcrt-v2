@@ -1,4 +1,6 @@
 ---
+nanoid: "QJgBqS"
+doi:
 title: >-
   From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical
   Aesthetics, Part 3 (Jakob Deibl)

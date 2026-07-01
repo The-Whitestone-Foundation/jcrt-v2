@@ -1,4 +1,6 @@
 ---
+nanoid: "CYAOOI"
+doi:
 title: 'Review – A Darker, Grittier Deleuze (Timothy Snediker)'
 description: "*Culp, Andrew. Dark Deleuze (Forerunners: Ideas First). Minneapolis: University of Minnesota Press, 2016. ISBN 10: 1517901332 Paperback, e-book It highlights"
 date: '2016-08-04T08:00:23.000Z'

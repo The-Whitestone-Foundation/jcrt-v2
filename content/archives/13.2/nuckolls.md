@@ -1,4 +1,6 @@
 ---
+nanoid: "NYtiQm"
+doi:
 title: "The Walking Dead as Conservative Cultural Critique."
 author: "Charles Nuckolls"
 affilation:

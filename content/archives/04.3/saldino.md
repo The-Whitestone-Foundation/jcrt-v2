@@ -1,4 +1,6 @@
 ---
+nanoid: "I_CzAk"
+doi:
 title: "World and Life as One: Ethics and Ontology in Wittgenstein’s Early Thought"
 author: "Andrew Saldino"
 affilation:

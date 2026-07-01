@@ -1,4 +1,6 @@
 ---
+nanoid: "VdwiSX"
+doi:
 title: >-
   Review – Jean-Pierre Couture Brings To Life The Ongoing Oeuvre of Peter
   Sloterdijk

@@ -1,4 +1,6 @@
 ---
+nanoid: "JT_cqT"
+doi:
 title: "Of the Ties That B(L)Ind."
 author: "Nate Koser"
 affilation:

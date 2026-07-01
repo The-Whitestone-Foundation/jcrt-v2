@@ -1,4 +1,6 @@
 ---
+nanoid: "h2MMFb"
+doi:
 title: "Pauline Biopolitics"
 author: "Nichole E Miller"
 affilation:

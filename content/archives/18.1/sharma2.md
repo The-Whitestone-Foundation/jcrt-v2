@@ -1,4 +1,6 @@
 ---
+nanoid: "4t82wQ"
+doi:
 title: "Framing Religious Conflict and Violence - Insights from Historical Institutionalism."
 author: "Vivek Swaroop Sharma"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "IurO1E"
 title: Submissions
 description: "Submit to JCRT: guidelines for abstracts, scope, and details for peer-reviewed work in religion, culture, critical theory, media studies, and methods."
 permalink: /submissions/

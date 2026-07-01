@@ -1,4 +1,6 @@
 ---
+nanoid: "irAeNv"
+doi:
 title: "Rewriting Exodus: American Futures from Du Bois to Obama."
 author: "Bo Eberle"
 affilation:

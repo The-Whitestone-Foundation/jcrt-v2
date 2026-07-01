@@ -1,4 +1,5 @@
 ---
+nanoid: "wccsu-"
 name: Jodi Dean
 affiliation: "Hobart and William Smith Colleges"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "3tu5L4"
+doi:
 title: "The Metaphysics of Indeterminacy: Postmodern Religious Theory and the Ruin of Referentiality"
 article_number:
 author: "Victor Taylor"

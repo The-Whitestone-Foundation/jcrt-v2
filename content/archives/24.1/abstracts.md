@@ -1,4 +1,6 @@
 ---
+nanoid: "8IRX45"
+doi:
 title: Abstracts
 author: editors
 affilation:

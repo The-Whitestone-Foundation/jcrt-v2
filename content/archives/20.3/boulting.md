@@ -1,4 +1,6 @@
 ---
+nanoid: "KrlrMA"
+doi:
 title: "Intentionalism and God’s Fiction."
 author: "Noel Boulting"
 affilation:

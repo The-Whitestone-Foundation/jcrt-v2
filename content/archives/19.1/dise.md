@@ -1,4 +1,6 @@
 ---
+nanoid: "DuhebG"
+doi:
 title: "Altizer and Incarnation."
 author: "Michael James Dise"
 affilation:

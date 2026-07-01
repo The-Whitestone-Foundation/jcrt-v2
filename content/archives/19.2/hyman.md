@@ -1,4 +1,6 @@
 ---
+nanoid: "Rw5IWP"
+doi:
 title: "The “New Hegel” and the Question of God"
 author: "Gavin Hyman"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "T0eDCc"
+doi:
 title: "Machines of Loving Grace: Angels, Cyborgs, and Postsecular Labour."
 author: "Marika Rose"
 affilation:

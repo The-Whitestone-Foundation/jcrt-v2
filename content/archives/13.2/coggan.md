@@ -1,4 +1,6 @@
 ---
+nanoid: "WgjCwu"
+doi:
 title: "Beyond Religion: from Shamanism to Religion to Post-Religious Spirituality."
 author: "Sharon L. Coggan"
 affilation:

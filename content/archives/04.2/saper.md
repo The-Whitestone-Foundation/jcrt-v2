@@ -1,4 +1,6 @@
 ---
+nanoid: "h7lrvN"
+doi:
 title: "Of Spectacularization: Writing New Media Theory"
 article_number:
 author: "Craig J Saper"

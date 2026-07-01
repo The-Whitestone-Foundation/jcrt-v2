@@ -1,4 +1,6 @@
 ---
+nanoid: "_Lwoep"
+doi:
 title: "Death of a Discipline"
 author: "Matthew Waggoner"
 affilation:

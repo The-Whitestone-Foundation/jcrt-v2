@@ -1,4 +1,6 @@
 ---
+nanoid: "f9Eojs"
+doi:
 title: "Muslims: Their Religious Beliefs and Practices"
 article_number:
 author: "Liyakatali Takim"

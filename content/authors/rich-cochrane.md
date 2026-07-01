@@ -1,4 +1,5 @@
 ---
+nanoid: "FB2rYY"
 name: Rich Cochrane
 affiliation:
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "MbgZIQ"
+doi:
 title: "Bataille’s Gift"
 author: "Carl A. Raschke"
 affilation:

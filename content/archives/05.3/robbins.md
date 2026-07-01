@@ -1,4 +1,6 @@
 ---
+nanoid: "h5fjdE"
+doi:
 title: "A Post-National Theology of Empire"
 author: "Jeffrey W Robbins"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "fhAjp7"
+doi:
 layout: archives.njk
 article_number: '01'
 volume: '24'

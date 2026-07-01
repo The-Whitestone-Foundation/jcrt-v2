@@ -1,4 +1,6 @@
 ---
+nanoid: "aQ5ZbX"
+doi:
 title: "A Conversation with Richard Kearney"
 author: "Victor Taylor; Richard Kearney"
 affilation:

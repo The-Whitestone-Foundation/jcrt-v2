@@ -1,4 +1,6 @@
 ---
+nanoid: "I4TpAx"
+doi:
 title: "The Cambridge Companion to Postmodern Theology"
 author: "James K A Smith"
 affilation:

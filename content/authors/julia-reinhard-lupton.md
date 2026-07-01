@@ -1,4 +1,5 @@
 ---
+nanoid: "hYeytP"
 name: Julia Reinhard Lupton
 affiliation: "University of California, Irvine, UC Irvine"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "9DdsH1"
+doi:
 title: "Theology and the Political: the New Debate"
 author: "Anthony Paul Smith"
 affilation:

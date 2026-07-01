@@ -1,4 +1,6 @@
 ---
+nanoid: "qdU9hY"
+doi:
 title: "A Review of Peter Sloterdijk, Spheres, Volume One: Bubbles"
 author: "Benjamin Fong"
 affilation:

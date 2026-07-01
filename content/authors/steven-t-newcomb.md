@@ -1,4 +1,5 @@
 ---
+nanoid: "31n0fR"
 name: "Steven T. Newcomb"
 affiliation: "Indigenous Law Institute"
 bio: "Steven T. Newcomb (Shawnee/Lenape) is dedicated to supporting Indigenous nations and peoples to protect their sacred ancestral homelands, to restore and revitalize their linguistic, cultural, and spiritual traditions, and to heal from the trauma of colonization and the patterns of domination."

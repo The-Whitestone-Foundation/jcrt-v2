@@ -1,4 +1,6 @@
 ---
+nanoid: "B3u3l0"
+doi:
 title: "The Religious Art of Andy Warhol"
 article_number:
 author: "Benjamin Bennett-Carpenter"

@@ -1,4 +1,6 @@
 ---
+nanoid: "hPJbzI"
+doi:
 title: "Anonymous God"
 author: "Darrell J Fasching"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "1TZg32"
+doi:
 title: "Heart’s Blood: Derrida and Portia on Translation"
 author: "Oona Eisenstadt"
 affilation:

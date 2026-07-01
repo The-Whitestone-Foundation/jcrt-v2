@@ -1,4 +1,6 @@
 ---
+nanoid: "vD56FR"
+doi:
 title: "The Dark Side of God: a Case for Inconspicuous Givenness."
 author: "Jason W. Alvis"
 affilation:

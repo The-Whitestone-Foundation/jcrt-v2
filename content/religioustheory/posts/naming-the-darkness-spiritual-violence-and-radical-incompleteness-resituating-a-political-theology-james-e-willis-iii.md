@@ -1,4 +1,6 @@
 ---
+nanoid: "hlqrUv"
+doi:
 title: >-
   “Naming The Darkness,” Spiritual Violence, And Radical Incompleteness – 
   Resituating A Political Theology, Part 1 (James E. Willis, III)

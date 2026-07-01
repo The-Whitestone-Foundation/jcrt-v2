@@ -1,4 +1,5 @@
 ---
+nanoid: "6NxyUo"
 name: Petra Carlsson Redell
 affiliation: "Stockholm School of Theology "
 bio:

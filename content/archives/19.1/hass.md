@@ -1,4 +1,6 @@
 ---
+nanoid: "VOQzkm"
+doi:
 title: "The Yes of Nietzsche and Hegel in Altizer"
 author: "Andrew W. Hass"
 affilation:

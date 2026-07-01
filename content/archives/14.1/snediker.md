@@ -1,4 +1,6 @@
 ---
+nanoid: "T5RT7k"
+doi:
 title: "The Autonomy of the Now: Christianity, Secularism, Subjectivity."
 author: "Timothy Snediker"
 affilation:

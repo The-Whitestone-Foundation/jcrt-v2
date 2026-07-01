@@ -1,4 +1,5 @@
 ---
+nanoid: "k1uZSp"
 name: Beatrice Marovich
 affiliation: "Hanover College"
 bio:

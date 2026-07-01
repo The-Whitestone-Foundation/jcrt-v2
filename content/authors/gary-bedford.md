@@ -1,4 +1,5 @@
 ---
+nanoid: "bLml-C"
 name: Gary Bedford
 affiliation: "University of Denver"
 bio:

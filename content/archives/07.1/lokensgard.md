@@ -1,4 +1,6 @@
 ---
+nanoid: "S7nXRU"
+doi:
 title: "Who Owns Native Culture?"
 author: "Kenneth H Lokensgard"
 affilation:

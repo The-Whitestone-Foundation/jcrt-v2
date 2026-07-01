@@ -1,4 +1,6 @@
 ---
+nanoid: "J_rOMd"
+doi:
 title: >-
   Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation,
   Part 3 (Alan Jay Richard)

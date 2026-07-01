@@ -1,4 +1,6 @@
 ---
+nanoid: "Ph2RDi"
+doi:
 title: "Radical Orthodoxy, Ethics and Ambivalence"
 article_number:
 author: "Gavin Hyman"

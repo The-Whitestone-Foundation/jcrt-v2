@@ -1,4 +1,6 @@
 ---
+nanoid: "pChT7U"
+doi:
 title: >-
   Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin
   S. Grane)

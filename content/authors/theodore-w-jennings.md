@@ -1,4 +1,5 @@
 ---
+nanoid: "YxIe7q"
 name: Theodore W. Jennings
 affiliation: "Chicago Theological Seminary"
 bio:

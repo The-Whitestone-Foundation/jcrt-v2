@@ -1,4 +1,5 @@
 ---
+nanoid: "C17tLk"
 name: James C. (James Craig) Livingston
 affiliation: "College of William & Mary"
 bio: 

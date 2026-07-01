@@ -1,4 +1,6 @@
 ---
+nanoid: "SoL3O1"
+doi:
 title: "The Re-Enchantment of Bodies: the Transformative Power of Charismatic Healings in the “World of Phenomena”"
 author: "Anna-Maria Magnasco"
 affilation:

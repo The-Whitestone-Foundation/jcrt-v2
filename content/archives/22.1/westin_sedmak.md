@@ -1,4 +1,6 @@
 ---
+nanoid: "jjI4CB"
+doi:
 title: "Embodied Trauma and Healing"
 author: "Anna Westin; Magdalena Sedmak"
 affilation:

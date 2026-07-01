@@ -1,4 +1,6 @@
 ---
+nanoid: "Ykciyr"
+doi:
 title: "On the Persistence of Cynic Motifs"
 author: "Sophie Fuggle"
 affilation:

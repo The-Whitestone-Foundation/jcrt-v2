@@ -1,4 +1,6 @@
 ---
+nanoid: "JQdQGq"
+doi:
 title: >-
   Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 2 (Sarah
   Pessin)

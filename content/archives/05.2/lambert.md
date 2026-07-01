@@ -1,4 +1,6 @@
 ---
+nanoid: "LK0Ens"
+doi:
 title: "Against Religion (‘without Religion’): a New Rationalist Reply to John D. Caputo’s on Religion"
 author: "Gregg Lambert"
 affilation:

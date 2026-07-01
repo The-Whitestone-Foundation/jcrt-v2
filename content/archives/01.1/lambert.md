@@ -1,4 +1,6 @@
 ---
+nanoid: "-FZmh6"
+doi:
 title: "The Work of Art in the Age of Alien Reproduction"
 article_number:
 author: "Gregg Lambert; Jorge Sicre"

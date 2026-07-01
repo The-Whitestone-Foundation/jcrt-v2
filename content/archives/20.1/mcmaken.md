@@ -1,4 +1,6 @@
 ---
+nanoid: "VTELaV"
+doi:
 title: "The Ultimate and the Penultimate: Bonhoeffer’s Twofold Contextualism and Adjudicating Between Competing Ethical Claims."
 author: "W. Travis McMaken"
 affilation:

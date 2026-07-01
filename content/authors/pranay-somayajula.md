@@ -1,4 +1,5 @@
 ---
+nanoid: "HlClRv"
 name: Pranay Somayajula
 affiliation: "independant scholar"
 bio: |-

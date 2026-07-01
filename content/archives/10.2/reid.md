@@ -1,4 +1,6 @@
 ---
+nanoid: "7CHUi0"
+doi:
 title: "H.D. and the Archaeology of Religion"
 author: "Colbey Emmerson-Reid"
 affilation:

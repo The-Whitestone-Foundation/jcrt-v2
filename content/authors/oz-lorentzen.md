@@ -1,4 +1,5 @@
 ---
+nanoid: "G6lhiT"
 name: Oz Lorentzen
 affiliation: "Prairie College, St. John Fisher College "
 bio:

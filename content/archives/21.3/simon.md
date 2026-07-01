@@ -1,4 +1,6 @@
 ---
+nanoid: "IVi_Ch"
+doi:
 title: "Mormonism and the White Possessive: Moving Critical Indigenous Studies Theory into the Religious Realm."
 author: "Hemopereki Simon"
 affilation:

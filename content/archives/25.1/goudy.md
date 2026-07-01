@@ -1,4 +1,6 @@
 ---
+nanoid: "drvB0y"
+doi:
 layout: archives.njk
 article_number: '02'
 volume: '25'

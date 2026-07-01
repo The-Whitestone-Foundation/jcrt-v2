@@ -1,4 +1,5 @@
 ---
+nanoid: "uxJOM7"
 name: Yari Lanci
 affiliation: "Goldsmiths, University of London"
 bio:

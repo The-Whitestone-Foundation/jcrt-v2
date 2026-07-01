@@ -1,4 +1,5 @@
 ---
+nanoid: "l_Qbcp"
 title: About
 description: Learn about JCRT and its Religious Theory feature, including scope, publication practices, and related Whitestone publications.
 permalink: /about/

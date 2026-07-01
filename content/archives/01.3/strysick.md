@@ -1,4 +1,6 @@
 ---
+nanoid: "bh_1Z3"
+doi:
 title: "Culture Wars, Religion, and the Postmodern Sacred"
 article_number:
 author: "Michael Strysick"

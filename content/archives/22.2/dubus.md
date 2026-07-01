@@ -1,4 +1,6 @@
 ---
+nanoid: "HxXxYE"
+doi:
 title: "On the Relation of Fashion to Art: An Interview with Ali Hval"
 author: "Ariadne Dubus; Ali Hval; Madeleine Taylor"
 affilation:

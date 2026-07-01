@@ -1,4 +1,5 @@
 ---
+nanoid: "rOxhJ6"
 name: Vernon W. Cisney
 affiliation: "Gettysburg College"
 bio: 

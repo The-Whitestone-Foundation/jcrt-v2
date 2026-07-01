@@ -1,4 +1,5 @@
 ---
+nanoid: "qYhkSq"
 name: Henry Giroux
 affiliation:
 bio:

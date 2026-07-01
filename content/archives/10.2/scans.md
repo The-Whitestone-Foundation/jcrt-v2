@@ -1,4 +1,6 @@
 ---
+nanoid: "Au9amu"
+doi:
 title: "Robert Duncan Notebook Scans"
 article_number:
 author: "Robert Duncan"

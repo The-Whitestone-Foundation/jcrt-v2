@@ -1,4 +1,6 @@
 ---
+nanoid: "6zQb2r"
+doi:
 title: "Diversity in the History of Religions"
 article_number:
 author: "Philip P Arnold"

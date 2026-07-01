@@ -1,4 +1,6 @@
 ---
+nanoid: "vkVG9T"
+doi:
 title: "Mischief, Idolatry, and the Demonic: Toward a Hermeneutic of Play."
 author: "Kevin Lewis"
 affilation:

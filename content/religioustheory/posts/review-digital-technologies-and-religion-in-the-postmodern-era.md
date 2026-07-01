@@ -1,4 +1,6 @@
 ---
+nanoid: "oPsJ-7"
+doi:
 title: >-
   Review – Digital Technologies and Religion in the Postmodern Era (Albert
   McClure)

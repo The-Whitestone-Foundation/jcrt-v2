@@ -1,4 +1,6 @@
 ---
+nanoid: "0vqWOZ"
+doi:
 title: "Altizer’s Apocalyptic Jesus."
 author: "Theodore W. Jennings"
 affilation:

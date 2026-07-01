@@ -1,4 +1,6 @@
 ---
+nanoid: "hY6eal"
+doi:
 title: "True to Life: Why Truth Matters"
 author: "Eric Bain-Selbo"
 affilation:

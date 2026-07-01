@@ -1,4 +1,6 @@
 ---
+nanoid: "XVvPlQ"
+doi:
 author: editors
 title: Author Bios
 affilation:

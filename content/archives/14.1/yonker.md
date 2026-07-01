@@ -1,4 +1,6 @@
 ---
+nanoid: "Cy5IPE"
+doi:
 title: "Sylvia Plath, Simone De Beauvoir, and the Visual Representation of Feminist Discourse."
 author: "Madeline Yonker"
 affilation:

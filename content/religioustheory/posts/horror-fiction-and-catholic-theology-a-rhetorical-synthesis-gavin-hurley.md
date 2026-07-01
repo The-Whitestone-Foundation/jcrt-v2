@@ -1,4 +1,6 @@
 ---
+nanoid: "Sk66OD"
+doi:
 title: >-
   Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 (Gavin
   Hurley)

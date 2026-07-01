@@ -1,4 +1,6 @@
 ---
+nanoid: "RPQY-5"
+doi:
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 2 (Rebekah
   Howes)

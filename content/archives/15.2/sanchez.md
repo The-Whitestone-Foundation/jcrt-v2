@@ -1,4 +1,6 @@
 ---
+nanoid: "Y5ORyk"
+doi:
 title: "“Perfect Interindependency”: Representing Crip Futurity in Beckett’s Mercier and Camier"
 author: "Rebecca Sanchez"
 affilation:

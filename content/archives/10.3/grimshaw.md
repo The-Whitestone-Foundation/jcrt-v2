@@ -1,4 +1,6 @@
 ---
+nanoid: "RVI21V"
+doi:
 title: "Regionalism or Provincialism?: Theology and the Seemingly Continual Crisis in Religious Studies"
 author: "Mike Grimshaw"
 affilation:

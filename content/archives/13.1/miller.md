@@ -1,4 +1,6 @@
 ---
+nanoid: "tdCkyo"
+doi:
 title: "The Darker Side of Western Modernity: Global Futures, Decolonial Options."
 author: "Jordan E. Miller"
 affilation:

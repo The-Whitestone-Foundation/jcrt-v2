@@ -1,4 +1,6 @@
 ---
+nanoid: "wf7xHC"
+doi:
 title: "Religion and Modernity in Current Debate"
 article_number:
 author: "Vincent P Pecora"

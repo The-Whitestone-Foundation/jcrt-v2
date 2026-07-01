@@ -1,4 +1,6 @@
 ---
+nanoid: "T4s4RL"
+doi:
 layout: archives.njk
 article_number: '08'
 volume: '25'

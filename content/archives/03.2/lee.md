@@ -1,4 +1,6 @@
 ---
+nanoid: "txpvEu"
+doi:
 title: "Dead Man"
 article_number:
 author: "C Jason Lee"

@@ -1,4 +1,6 @@
 ---
+nanoid: "bnOOrK"
+doi:
 title: "Falling"
 article_number:
 author: "Ann Game"

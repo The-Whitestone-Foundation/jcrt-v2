@@ -1,4 +1,5 @@
 ---
+nanoid: "3Mx3Ay"
 name: Bo Eberle
 affiliation: "Union Theology Seminary in New York"
 bio:

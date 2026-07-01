@@ -1,4 +1,6 @@
 ---
+nanoid: "-9UHJW"
+doi:
 title: "Altizer and the Christian Epic Tradition."
 author: "William Franke"
 affilation:

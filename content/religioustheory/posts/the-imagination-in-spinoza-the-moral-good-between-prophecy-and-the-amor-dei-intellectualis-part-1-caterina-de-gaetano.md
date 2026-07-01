@@ -1,4 +1,6 @@
 ---
+nanoid: "e1tnx5"
+doi:
 title: >-
   The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei
   Intellectualis, Part 1 (Caterina De Gaetano)

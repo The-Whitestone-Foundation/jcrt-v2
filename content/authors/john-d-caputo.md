@@ -1,4 +1,5 @@
 ---
+nanoid: "Y2vroj"
 name: John D Caputo
 affiliation: "Syracuse University, Villanova Unive rsity"
 bio:

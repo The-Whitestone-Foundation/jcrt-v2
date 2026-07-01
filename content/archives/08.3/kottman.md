@@ -1,4 +1,6 @@
 ---
+nanoid: "iivQpf"
+doi:
 title: "Avoiding Tragedy in the Merchant of Venice"
 author: "Paul A Kottman"
 affilation:

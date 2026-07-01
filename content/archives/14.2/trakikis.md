@@ -1,4 +1,6 @@
 ---
+nanoid: "N4mivg"
+doi:
 title: Philiosophy Mashed Up and In Crisis
 author: "N.N. Trakikis"
 affilation:

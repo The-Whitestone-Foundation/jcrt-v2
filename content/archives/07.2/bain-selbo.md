@@ -1,4 +1,6 @@
 ---
+nanoid: "67zZUI"
+doi:
 title: "Authentic Fakes: Religion and American Popular Culture"
 author: "Eric Bain-Selbo"
 affilation:

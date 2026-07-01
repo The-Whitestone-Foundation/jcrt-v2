@@ -1,4 +1,6 @@
 ---
+nanoid: "NzkSf5"
+doi:
 layout: archives.njk
 article_number: '06'
 volume: '28'

@@ -1,4 +1,5 @@
 ---
+nanoid: "f4qsw8"
 name: Joshua Giardino
 affiliation:
 bio:

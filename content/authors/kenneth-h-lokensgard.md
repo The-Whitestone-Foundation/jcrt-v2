@@ -1,4 +1,5 @@
 ---
+nanoid: "EwujiK"
 name: Kenneth H Lokensgard
 affiliation: "Gettysburg College,College of Charleston "
 bio:

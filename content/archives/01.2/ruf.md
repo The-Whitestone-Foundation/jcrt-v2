@@ -1,4 +1,6 @@
 ---
+nanoid: "DNCMs3"
+doi:
 title: "The Ride of Passage: the Pursuit of Danger, Trance, and Failure in Mark Twain, Paul Bowles, and US"
 article_number:
 author: "Frederick J Ruf"

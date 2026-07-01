@@ -1,4 +1,6 @@
 ---
+nanoid: "FpdSw2"
+doi:
 title: >-
   Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of
   Contretemps, Part 3 (Daniel Rhodes)

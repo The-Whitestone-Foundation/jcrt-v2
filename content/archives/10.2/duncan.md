@@ -1,4 +1,6 @@
 ---
+nanoid: "JLBPa-"
+doi:
 title: "Robert Duncan Notebook Scans: Scan 1"
 author: "Robert Duncan"
 affilation:

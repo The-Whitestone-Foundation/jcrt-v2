@@ -1,4 +1,5 @@
 ---
+nanoid: "1uDRRa"
 name: William D Dean
 affiliation: "Iliff School of Theology"
 bio:

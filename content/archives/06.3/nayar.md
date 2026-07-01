@@ -1,4 +1,6 @@
 ---
+nanoid: "8js7uG"
+doi:
 title: "The Western Construction of Religion: Myths, Knowledge, and Ideology"
 author: "Pramod K Nayar"
 affilation:

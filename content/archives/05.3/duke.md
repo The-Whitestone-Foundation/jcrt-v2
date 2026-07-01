@@ -1,4 +1,6 @@
 ---
+nanoid: "pDBRP2"
+doi:
 title: "The Making of American Liberal Theology 2 Idealism, Realism, and Modernity 1900-1950"
 author: "James O Duke"
 affilation:

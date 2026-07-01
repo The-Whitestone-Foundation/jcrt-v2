@@ -1,4 +1,6 @@
 ---
+nanoid: "x2HmFz"
+doi:
 title: “Notations” – Call for Contributors
 description: "In addition to reviews and commentaries, the new JCRT feature “religious theory” (jcrt.org/religioustheory), updated regularly, will publish in an ongoing"
 date: '2018-01-01T00:14:28.000Z'

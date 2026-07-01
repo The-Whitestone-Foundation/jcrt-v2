@@ -1,4 +1,6 @@
 ---
+nanoid: "JkLUvq"
+doi:
 author: editors
 title: Author Bios
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "qD1xJ2"
 name: John B. Cobb Jr.
 affiliation: "Claremont School of Theology"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "j7YYro"
+doi:
 title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
 article_number:
 author:

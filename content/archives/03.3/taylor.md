@@ -1,4 +1,6 @@
 ---
+nanoid: "pW4vZ6"
+doi:
 title: "The City of K: Franz Kafka and Prague"
 article_number:
 author: "Victor Taylor"

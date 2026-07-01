@@ -1,4 +1,6 @@
 ---
+nanoid: "eV3QQp"
+doi:
 title: "Measure and Democracy in the Age of Politics of Fright"
 author: "Peyman Vahabzadeh"
 affilation:

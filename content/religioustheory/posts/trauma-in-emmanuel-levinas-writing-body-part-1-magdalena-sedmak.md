@@ -1,4 +1,6 @@
 ---
+nanoid: "pPyvDG"
+doi:
 title: 'Trauma In Emmanuel Levinas’ Writing Body, Part 1 (Magdalena Sedmak)'
 description: "The following is the first of a two part series. The entire article appears in Issue 22.1 of the Journal for Cultural and Religious Theory It highlights"
 date: '2023-06-15T23:29:55.000Z'

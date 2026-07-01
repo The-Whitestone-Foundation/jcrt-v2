@@ -1,4 +1,5 @@
 ---
+nanoid: "kPaLEh"
 name: Richard Halpern
 affiliation: "University of California at Berkeley"
 bio:

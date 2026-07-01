@@ -1,4 +1,6 @@
 ---
+nanoid: "5nbuSW"
+doi:
 title: "A Response to Niall Gildea."
 author: "Arthur Bradley"
 affilation:

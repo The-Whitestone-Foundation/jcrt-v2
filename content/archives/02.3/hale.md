@@ -1,4 +1,6 @@
 ---
+nanoid: "tuFzxv"
+doi:
 title: "The Critique of Theological Reason"
 article_number:
 author: "David Hale"

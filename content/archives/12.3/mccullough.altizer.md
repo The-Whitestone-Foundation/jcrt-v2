@@ -1,4 +1,6 @@
 ---
+nanoid: "xWw0XU"
+doi:
 title: "Interview with Thomas J. J. Altizer."
 author: "Lissa McCullough"
 affilation:

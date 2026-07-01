@@ -1,4 +1,6 @@
 ---
+nanoid: "Beqg4m"
+doi:
 title: From The Gift Of Mortality To The Name Of God (Jakob Helmut Deibl)
 description: "The following is a continuation of a series of articles corresponding to chapters of the book Preis der Sterblichkeit: Christentum und Neuer Humanismus"
 date: '2019-09-23T03:47:00.000Z'

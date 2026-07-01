@@ -1,4 +1,6 @@
 ---
+nanoid: "dwNcHr"
+doi:
 title: "The Catastrophic Joy of Abandoning Salvation: Thinking the Postsecular with Georges Bataille."
 author: "Alex Dubilet"
 affilation:

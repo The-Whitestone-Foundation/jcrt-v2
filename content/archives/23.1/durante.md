@@ -1,4 +1,6 @@
 ---
+nanoid: "QOjV3s"
+doi:
 title: "Religious Faith in Pursuit of Environmental Justice."
 author: "Chris Durante"
 affilation:

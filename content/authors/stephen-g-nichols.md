@@ -1,4 +1,5 @@
 ---
+nanoid: "_HOO2N"
 name: Stephen G Nichols
 affiliation: "Villanova University"
 bio:

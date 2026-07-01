@@ -1,4 +1,6 @@
 ---
+nanoid: "5ojcll"
+doi:
 title: "Miracles and Militants."
 author: "Timothy Isaacson; Zachary Thomas Settle"
 affilation:

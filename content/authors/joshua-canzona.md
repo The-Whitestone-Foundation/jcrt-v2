@@ -1,4 +1,5 @@
 ---
+nanoid: "s6JNDE"
 name: Joshua Canzona
 affiliation: ""
 bio:

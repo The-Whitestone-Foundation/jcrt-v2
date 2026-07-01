@@ -1,4 +1,6 @@
 ---
+nanoid: "v6ZKBn"
+doi:
 title: Preface
 author: Nicholas Wolterstorff
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "ZFzKBf"
 name: Daniel Colucciello Barber
 affiliation: "ICI Berlin for Cultural Inquiry, Marymont Manhattan College"
 bio:

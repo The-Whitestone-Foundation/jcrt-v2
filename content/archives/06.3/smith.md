@@ -1,4 +1,6 @@
 ---
+nanoid: "SR8ogx"
+doi:
 title: "Formations of the Secular: Christianity, Islam, Modernity"
 author: "James K A Smith"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "U7-w_c"
+doi:
 title: "Lacan, Levinas, and the Politics of the Subject."
 author: "Joshua Lawrence"
 affilation:

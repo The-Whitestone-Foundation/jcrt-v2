@@ -1,4 +1,6 @@
 ---
+nanoid: "qH0oO2"
+doi:
 title: "What Is Gnosticism?"
 author: "Lisa R Holliday"
 affilation:

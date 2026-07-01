@@ -1,4 +1,6 @@
 ---
+nanoid: "R8Gpgr"
+doi:
 title: "PhÄNomenologie Des ReligiÖSen Lebens"
 article_number:
 author: "Sean J McGrath"

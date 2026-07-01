@@ -1,4 +1,5 @@
 ---
+nanoid: "0Vxxu6"
 name: Jonathan A Seitz
 affiliation: "Centenary College"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "mRmhPW"
+doi:
 title: >-
   The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 1 (John
   Panteleimon Manoussakis)

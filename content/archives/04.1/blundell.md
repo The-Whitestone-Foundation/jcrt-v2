@@ -1,4 +1,6 @@
 ---
+nanoid: "0YBGLX"
+doi:
 title: "The New Ricoeur Scholarship"
 article_number:
 author: "Boyd Blundell"

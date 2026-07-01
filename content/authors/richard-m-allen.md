@@ -1,4 +1,5 @@
 ---
+nanoid: "WQQR8R"
 name: Richard M. Allen
 affiliation: ""
 bio:

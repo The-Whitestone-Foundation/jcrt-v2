@@ -1,4 +1,6 @@
 ---
+nanoid: "nG8y9e"
+doi:
 title: "Beyond Foundationalism: Shaping Theology in a Postmodern Context"
 article_number:
 author: "Paul Lakeland"

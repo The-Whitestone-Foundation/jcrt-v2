@@ -1,4 +1,6 @@
 ---
+nanoid: "9vD_Y5"
+doi:
 title: "Evolution of Colonial Gender Roles"
 author: "Kevin Grane"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "JXRVsC"
 name: Michael Tadashi Sugimoto
 affiliation:
 bio:

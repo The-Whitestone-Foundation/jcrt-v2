@@ -1,4 +1,6 @@
 ---
+nanoid: "UFcj5u"
+doi:
 title: >-
   Review – L.L. Welborn’s Synthesis of New Testament Scholarship and Critical
   Theory’s Recent Interest in the Apostle Paul (Benjamin Steele-Fisher)

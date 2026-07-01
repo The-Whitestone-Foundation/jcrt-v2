@@ -1,4 +1,6 @@
 ---
+nanoid: "byhxRN"
+doi:
 title: "Shylock: the Knight of Faith?"
 author: "Kenneth S Jackson"
 affilation:

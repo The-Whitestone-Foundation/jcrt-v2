@@ -1,4 +1,5 @@
 ---
+nanoid: "OMrHib"
 name: John Burkey
 affiliation: "Siena College"
 bio:

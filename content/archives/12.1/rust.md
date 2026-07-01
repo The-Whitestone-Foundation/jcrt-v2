@@ -1,4 +1,6 @@
 ---
+nanoid: "ZBmWVs"
+doi:
 title: "Political Theology: Sacred Flesh and Social Form"
 author: "Jennifer R Rust"
 affilation:

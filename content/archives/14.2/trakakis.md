@@ -1,4 +1,6 @@
 ---
+nanoid: "yNTCF-"
+doi:
 title: "Philosophy Mashed-up and in Crisis."
 author: "N. N. Trakakis"
 affilation:

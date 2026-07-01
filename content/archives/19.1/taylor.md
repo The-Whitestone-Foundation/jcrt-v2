@@ -1,4 +1,6 @@
 ---
+nanoid: "0VTG2k"
+doi:
 title: "Altizer and Derrida: Apocalyptic Spectralities"
 author: "Victor Taylor"
 affilation:

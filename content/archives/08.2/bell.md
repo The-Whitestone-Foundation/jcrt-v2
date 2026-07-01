@@ -1,4 +1,6 @@
 ---
+nanoid: "tKsKtS"
+doi:
 title: "The Politics of Fear and the Gospel of Life"
 author: "Daniel M Jr Bell"
 affilation:

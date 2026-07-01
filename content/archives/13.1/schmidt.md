@@ -1,4 +1,6 @@
 ---
+nanoid: "wfZutE"
+doi:
 title: "Decolonizing Methodologies: Research and Indigenous Peoples."
 author: "George Schmidt"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "sQVjzv"
+doi:
 title: "Did God Die in the Christian Century?"
 author: "Mike Grimshaw"
 affilation:

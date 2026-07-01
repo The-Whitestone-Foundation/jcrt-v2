@@ -1,4 +1,6 @@
 ---
+nanoid: "ob0XK9"
+doi:
 title: "Human Rights as Politics and Idolatry"
 author: "Eric D Smaw"
 affilation:

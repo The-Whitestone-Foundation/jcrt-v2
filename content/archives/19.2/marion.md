@@ -1,4 +1,6 @@
 ---
+nanoid: "KRR9zI"
+doi:
 title: "The Irreducible."
 author: "Jean-Luc Marion"
 affilation:

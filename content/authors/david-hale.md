@@ -1,4 +1,5 @@
 ---
+nanoid: "6qYy_C"
 name: David Hale
 affiliation: "Yampa College, University of Denver"
 bio:

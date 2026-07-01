@@ -1,4 +1,5 @@
 ---
+nanoid: "frl0Ki"
 name: Karmen MacKendrick
 affiliation: "Le Moyne College"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "KHsAZP"
+doi:
 title: "Freedom and Orthodoxy: Islam and Difference in the Post-Andalusian Age"
 author: "Vincent F Biondo"
 affilation:

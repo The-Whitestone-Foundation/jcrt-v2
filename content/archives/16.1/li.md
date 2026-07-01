@@ -1,4 +1,6 @@
 ---
+nanoid: "wl9GKO"
+doi:
 title: "Civic Engagements Through a Transductive Discourse of Care."
 author: "Hui-Chun Li"
 affilation:

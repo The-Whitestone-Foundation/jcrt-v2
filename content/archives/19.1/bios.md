@@ -1,4 +1,6 @@
 ---
+nanoid: "zbHeW7"
+doi:
 author: editors
 title: Author Bios
 affilation:

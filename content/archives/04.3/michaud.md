@@ -1,4 +1,6 @@
 ---
+nanoid: "2v4Tpo"
+doi:
 title: "The Face of the Deep: a Theology of Becoming"
 author: "Derek Michaud"
 affilation:

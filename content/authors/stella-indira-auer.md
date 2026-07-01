@@ -1,4 +1,5 @@
 ---
+nanoid: "A7U4r1"
 name: Stella Indira Auer
 affiliation:
 bio:

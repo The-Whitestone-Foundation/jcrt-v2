@@ -1,4 +1,5 @@
 ---
+nanoid: "sMRqUT"
 name: Amaryah Armstrong
 affiliation: "Vanderbilt Graduate Department of Religion"
 bio:

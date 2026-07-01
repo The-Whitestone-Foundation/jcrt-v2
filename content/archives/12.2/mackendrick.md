@@ -1,4 +1,6 @@
 ---
+nanoid: "bLFL5-"
+doi:
 title: "Slow Reading: Learning in the Time of the Body."
 author: "Karmen Mackendrick"
 affilation:

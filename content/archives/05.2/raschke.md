@@ -1,4 +1,6 @@
 ---
+nanoid: "eKW-JM"
+doi:
 title: "Radical Islam and the Spectre of the Desert - Otherwise, the Call of Theory"
 author: "Carl A. Raschke"
 affilation:

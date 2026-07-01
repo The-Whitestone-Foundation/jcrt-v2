@@ -1,4 +1,6 @@
 ---
+nanoid: "wh5cyl"
+doi:
 title: "Bushwhacking Derrida: Perception"
 author: "Gary Bedford"
 affilation:

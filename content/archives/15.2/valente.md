@@ -1,4 +1,6 @@
 ---
+nanoid: "IIYuAy"
+doi:
 title: "Is the Au in Autism the Au in Autonomy?"
 author: "Joseph Valente"
 affilation:

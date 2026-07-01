@@ -1,4 +1,6 @@
 ---
+nanoid: "GIa3LQ"
+doi:
 title: "Chosen"
 author: "Christopher D Rodkey"
 affilation:

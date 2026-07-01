@@ -1,4 +1,6 @@
 ---
+nanoid: "mrEzJn"
+doi:
 title: "Against Thanatopolitics: A Marrano Intervention"
 author: "Arthur Bradley"
 affilation:

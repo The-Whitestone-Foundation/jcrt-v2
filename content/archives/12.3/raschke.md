@@ -1,4 +1,6 @@
 ---
+nanoid: "hrq-Ee"
+doi:
 title: "Peter Sloterdijk as “First Philosopher” of Globalization"
 author: "Carl A. Raschke"
 affilation:

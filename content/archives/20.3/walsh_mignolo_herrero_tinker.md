@@ -1,4 +1,6 @@
 ---
+nanoid: "JgQxu5"
+doi:
 title: "What Do We Mean By"
 author: "Catherine Walsh; Walter Mignolo; Fernando Herrero; Tink Tinker"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "3YtFj0"
+doi:
 title: "Disability Aesthetics"
 author: "Tobin Siebers"
 affilation:

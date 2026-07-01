@@ -1,4 +1,6 @@
 ---
+nanoid: "IcWqVa"
+doi:
 title: >-
   Critical Conversations – A Conversation With Arthur Bradley On Sovereignty,
   Part 2

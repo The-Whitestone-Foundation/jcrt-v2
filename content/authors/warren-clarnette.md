@@ -1,4 +1,5 @@
 ---
+nanoid: "rvvY4d"
 name: Warren Clarnette
 affiliation:
 bio:

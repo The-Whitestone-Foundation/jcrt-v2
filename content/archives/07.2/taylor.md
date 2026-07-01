@@ -1,4 +1,6 @@
 ---
+nanoid: "K6UTSt"
+doi:
 title: "A Conversation with Jean-Luc Marion"
 author: "Victor Taylor; Jean-Luc Marion"
 affilation:

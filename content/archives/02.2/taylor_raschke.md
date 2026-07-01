@@ -1,4 +1,6 @@
 ---
+nanoid: "YxHlwl"
+doi:
 title: "About About Religion: a Conversation with Mark C. Taylor"
 article_number:
 author: "Mark C Taylor; Carl A. Raschke"

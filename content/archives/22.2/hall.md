@@ -1,4 +1,6 @@
 ---
+nanoid: "1HJsLC"
+doi:
 title: "Introducing Spirit Dance: Reconstructed / Spiritual Practices"
 author: "Joshua M Hall"
 affilation:

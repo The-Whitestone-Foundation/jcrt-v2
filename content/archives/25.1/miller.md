@@ -1,4 +1,6 @@
 ---
+nanoid: "YHFQdp"
+doi:
 layout: archives.njk
 article_number: '04'
 volume: '25'

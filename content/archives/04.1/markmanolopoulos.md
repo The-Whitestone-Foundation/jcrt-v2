@@ -1,4 +1,6 @@
 ---
+nanoid: "3H0GJL"
+doi:
 title: "When Marion’s Theology Seeks Certainty"
 article_number:
 author:

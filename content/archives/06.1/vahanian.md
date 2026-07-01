@@ -1,4 +1,6 @@
 ---
+nanoid: "8tiIW_"
+doi:
 title: "The Passion of the Christ"
 author: "Gabriel Vahanian"
 affilation:

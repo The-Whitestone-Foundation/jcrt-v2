@@ -1,4 +1,5 @@
 ---
+nanoid: "6xOmIi"
 name: George Kodimattam Joseph
 affiliation: "Indian Institute of Technology"
 bio:

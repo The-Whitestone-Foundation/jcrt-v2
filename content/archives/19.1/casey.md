@@ -1,4 +1,6 @@
 ---
+nanoid: "_Pzg5Z"
+doi:
 title: "Altizer: Presence in Absence."
 author: "Edward S. Casey"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "j1DaCU"
+doi:
 title: "Hegel Contra God: Replying to Gavin Hyman’s ‘New Hegel’"
 article_number:
 author: "Rebekah Howes"

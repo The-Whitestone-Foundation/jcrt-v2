@@ -1,4 +1,6 @@
 ---
+nanoid: "rJe-kP"
+doi:
 title: "Two Reviews: Macintyre’s the Tasks of Philosophy and Ethics and Politics"
 author: "Eric Bain-Selbo"
 affilation: "Western Kentucky University"

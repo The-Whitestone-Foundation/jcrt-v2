@@ -1,4 +1,6 @@
 ---
+nanoid: "SNjjPw"
+doi:
 title: "Nihilism, and Emancipation: Ethics, Politics, Law"
 author: "Gavin Hyman"
 affilation:

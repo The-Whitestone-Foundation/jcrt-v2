@@ -1,4 +1,6 @@
 ---
+nanoid: "GBkDvl"
+doi:
 title: "Religion and Rationality: Essays on Reason, God, and Modernity"
 author: "Eric Bain-Selbo"
 affilation:

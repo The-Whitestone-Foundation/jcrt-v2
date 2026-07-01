@@ -1,4 +1,6 @@
 ---
+nanoid: "8D1MEv"
+doi:
 title: "On Translation"
 author: "Jason Flato"
 affilation:

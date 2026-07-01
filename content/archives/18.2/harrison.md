@@ -1,4 +1,6 @@
 ---
+nanoid: "rxbmmZ"
+doi:
 title: "Beyond Religious Ideas: the Legacy of Max Weber in Critical Theory and Critical Religion."
 author: "Joel Harrison"
 affilation:

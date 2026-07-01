@@ -1,4 +1,6 @@
 ---
+nanoid: "oeaRDV"
+doi:
 title: "Sexual Difference and the Vatican: a Lacanian Response."
 author: "Melissa Conroy"
 affilation:

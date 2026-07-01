@@ -1,4 +1,6 @@
 ---
+nanoid: "He2gcb"
+doi:
 title: "Medical Procedure in the Heat of Emotion: the Positions of Military Rabbinate Personnel on Posthumous Sperm Retrieval (Psr) Following the October 7, 2023 Attack"
 author: "Yaron Silverstein"
 affilation:

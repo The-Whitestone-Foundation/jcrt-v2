@@ -1,4 +1,6 @@
 ---
+nanoid: "RxcUd4"
+doi:
 layout: archives.njk
 article_number: '14'
 volume: '24'

@@ -1,4 +1,6 @@
 ---
+nanoid: "4DtBc_"
+doi:
 title: "The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict."
 author: "Brigid Burke"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "GWKdcE"
+doi:
 title: "Symptom or Inspiration?: H.D., Freud and, the Question of Vision"
 author: "Merrill Cole"
 affilation:

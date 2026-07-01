@@ -1,4 +1,6 @@
 ---
+nanoid: "o6QFsx"
+doi:
 title: "Giving up the Good: Adorno, Kierkegaard and the Critique of Political Culture"
 author: "Matthew Waggoner"
 affilation:

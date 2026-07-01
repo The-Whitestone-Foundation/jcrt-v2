@@ -1,4 +1,5 @@
 ---
+nanoid: "_TLLUo"
 name: Mads Peter Karlsen
 affiliation: "Copenhagen Business School"
 bio:

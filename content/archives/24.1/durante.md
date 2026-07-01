@@ -1,4 +1,6 @@
 ---
+nanoid: "RAE3v7"
+doi:
 title: "Religion’s Relationship with Public Bioethics: a Critical Historical Assessment and Pragmatic Method for Inclusive Discourse"
 author: "Christopher Durante"
 affilation:

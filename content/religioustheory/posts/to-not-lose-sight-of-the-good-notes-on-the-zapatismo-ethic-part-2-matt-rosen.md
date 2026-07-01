@@ -1,4 +1,6 @@
 ---
+nanoid: "r42QNG"
+doi:
 title: >-
   To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 2 (Matt
   Rosen)

@@ -1,4 +1,5 @@
 ---
+nanoid: "Nndnn_"
 name: Kevin Grane
 affiliation: "University of Denver/Iliff School of Theology"
 bio:

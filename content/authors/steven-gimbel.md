@@ -1,4 +1,5 @@
 ---
+nanoid: "_Lhm6E"
 name: Steven Gimbel
 affiliation: "Gettysburg College, Millsaps College"
 bio:

@@ -1,4 +1,5 @@
 ---
+nanoid: "sXiF-8"
 name: Christopher Mayes
 affiliation: "Centre for Values, Ethics and the Law in Medicine, University of Sydney"
 bio:

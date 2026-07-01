@@ -1,4 +1,5 @@
 ---
+nanoid: "ZDW2dc"
 name: Daniel Mckanan
 affiliation: "Harvard Divinity School"
 bio:

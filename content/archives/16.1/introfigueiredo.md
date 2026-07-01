@@ -1,4 +1,6 @@
 ---
+nanoid: "rDU_hk"
+doi:
 title: "Introduction To The Journal Of Cultural And Religious Theory Special Issue On 'Civic Humanities'"
 author: Sergio C. Figueiredo
 affilation:

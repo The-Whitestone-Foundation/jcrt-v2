@@ -1,4 +1,6 @@
 ---
+nanoid: "WROjk_"
+doi:
 title: "Christ, History and Apocalyptic: the Politics of Christian Mission"
 author: "Daniel Colucciello Barber"
 affilation:

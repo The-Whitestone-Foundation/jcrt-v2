@@ -1,4 +1,6 @@
 ---
+nanoid: "vdCkOx"
+doi:
 title: "Judaism and Alterity in Blanchot and Levinas"
 author: "Michael J Brogan"
 affilation:

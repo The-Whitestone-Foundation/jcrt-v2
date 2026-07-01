@@ -1,4 +1,6 @@
 ---
+nanoid: "vDbhWS"
+doi:
 author: editors
 title: Author Bios
 affilation:

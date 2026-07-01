@@ -1,4 +1,6 @@
 ---
+nanoid: "hWqeiL"
+doi:
 title: >-
   Announcing “The New Polis” – An E-Publication On Critical Theory, Cultural
   Analysis, And Political Thought

@@ -1,4 +1,6 @@
 ---
+nanoid: "3cIImn"
+doi:
 title: "A Conversation on the Future of Theory"
 article_number:
 author: "Jean-Michel Rabaté; Gregg Lambert"

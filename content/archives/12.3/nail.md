@@ -1,4 +1,6 @@
 ---
+nanoid: "aG6aw4"
+doi:
 title: "Zapatismo and the Global Origins of Occupy."
 author: "Thomas Nail"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "-Y-VxD"
+doi:
 title: "The Dare of Democracy: Fear, Faith and Freedom"
 author: "Catherine Keller"
 affilation:

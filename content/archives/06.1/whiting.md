@@ -1,4 +1,6 @@
 ---
+nanoid: "Uwezuw"
+doi:
 title: "The American Spiritual Culture and the Invention of Jazz, Football, and the Movies"
 author: "Jenifer Whiting"
 affilation:

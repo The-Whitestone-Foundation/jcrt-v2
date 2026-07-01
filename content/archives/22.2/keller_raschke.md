@@ -1,4 +1,6 @@
 ---
+nanoid: "IJczqZ"
+doi:
 title: "The Religious Roots of Environmental Justice"
 author: "Catherine Keller; Carl A. Raschke"
 affilation:

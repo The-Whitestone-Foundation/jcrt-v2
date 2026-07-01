@@ -1,4 +1,6 @@
 ---
+nanoid: "oUW-Dv"
+doi:
 title: "Prosthetic Gods"
 author: "Jacky Bowring"
 affilation:

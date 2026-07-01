@@ -1,4 +1,6 @@
 ---
+nanoid: "vWNXfT"
+doi:
 title: "Liberal Theology: a Radical Vision"
 author: "Jeffrey W Robbins"
 affilation:

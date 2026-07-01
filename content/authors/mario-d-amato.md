@@ -1,4 +1,5 @@
 ---
+nanoid: "GI2ucw"
 name: Mario D'Amato
 affiliation: "Rollins College"
 bio:

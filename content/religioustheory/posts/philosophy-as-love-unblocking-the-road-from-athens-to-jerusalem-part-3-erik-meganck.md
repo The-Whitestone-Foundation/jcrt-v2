@@ -1,4 +1,6 @@
 ---
+nanoid: "Nk-Oin"
+doi:
 title: >-
   Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 3
   (Erik Meganck)

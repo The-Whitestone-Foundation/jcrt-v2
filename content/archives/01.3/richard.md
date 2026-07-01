@@ -1,4 +1,6 @@
 ---
+nanoid: "s6LQr3"
+doi:
 title: "Aristotle and Religious Theory"
 article_number:
 author: "Alan J Richard"

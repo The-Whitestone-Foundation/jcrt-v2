@@ -1,4 +1,5 @@
 ---
+nanoid: "T_Jx1F"
 name: W. Ezekiel Goggin
 affiliation:
 bio:

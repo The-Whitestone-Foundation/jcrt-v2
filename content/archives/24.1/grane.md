@@ -1,4 +1,6 @@
 ---
+nanoid: "ghKv-n"
+doi:
 title: "Faith and Transitions: Religious Notions of Accountability and Gender Affirming Care for Youth"
 author: "Kevin Grane"
 affilation:

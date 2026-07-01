@@ -1,4 +1,6 @@
 ---
+nanoid: "ctZdpB"
+doi:
 title: "Caute: Jonathan Israel’s Secular Modernity"
 author: "Russ Leo"
 affilation:

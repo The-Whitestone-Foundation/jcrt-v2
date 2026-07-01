@@ -1,4 +1,6 @@
 ---
+nanoid: "O-8ms7"
+doi:
 title: "The Vertical Form - the Iconological Dimension on 2oth Century Russian Religious Aesthetics and Literary Criticism."
 author: "Oleg Komkov"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "CKNOzs"
+doi:
 title: "Queering Kierkegaard: Sin, Sex, and Critical Theory"
 author: "Ada S Jaarsma"
 affilation:

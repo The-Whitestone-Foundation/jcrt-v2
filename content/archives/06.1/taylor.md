@@ -1,4 +1,6 @@
 ---
+nanoid: "95jCev"
+doi:
 title: "Divisible Derridas"
 author: "Victor Taylor"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "IythGR"
 name: Merrill Cole
 affiliation: "Western Illinois University"
 bio:

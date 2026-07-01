@@ -1,4 +1,6 @@
 ---
+nanoid: "VDTtcq"
+doi:
 title: "Silence, Prayer, and Desire in Pedagogical Practices: a Conversation with Sarah Coakley."
 author: "Sarah Coakley; Tamsin Jones"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "LL4gCb"
+doi:
 title: "Redemption: Lacan Avec Marx"
 article_number:
 author: "Gregg Lambert"

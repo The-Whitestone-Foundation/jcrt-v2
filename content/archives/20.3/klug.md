@@ -1,4 +1,6 @@
 ---
+nanoid: "eFQUHz"
+doi:
 title: "Truth and Irony: the Conception of Truth Beyond Binary Patterns and the Use of Irony for Theological Reasoning."
 author: "Florian Klug"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "YoGJgD"
+doi:
 title: "Creation Set Free: the Spirit as Liberator of Nature"
 author: "Travis E (Travis Evan) Ables"
 affilation:

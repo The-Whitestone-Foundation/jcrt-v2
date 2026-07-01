@@ -1,4 +1,6 @@
 ---
+nanoid: "U0IzkM"
+doi:
 title: >-
   Secularism And Its Discontents – On Charting Pathways With A Phenomenology Of
   Religion, Part 1 (Ludger Hagerdorn and Michael Staudigl)

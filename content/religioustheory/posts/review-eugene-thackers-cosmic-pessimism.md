@@ -1,4 +1,6 @@
 ---
+nanoid: "JTH1Ww"
+doi:
 title: Review – Eugene Thacker’s “Cosmic Pessimism” (N.N. Trakakis)
 description: "*Thacker, Eugene. Cosmic Pessimism. Minneapolis: Univocal Publishing, 2015. ISBN-10: 193756147X. E-book, paperback. 55 pages.* It might be worth quoting from"
 date: '2016-10-27T08:00:23.000Z'

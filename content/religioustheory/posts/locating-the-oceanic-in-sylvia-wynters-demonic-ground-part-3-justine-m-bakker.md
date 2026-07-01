@@ -1,4 +1,6 @@
 ---
+nanoid: "Eavyl-"
+doi:
 title: >-
   Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 3 (Justine M.
   Bakker)

@@ -1,4 +1,6 @@
 ---
+nanoid: "eALEaC"
+doi:
 title: "Christ in Circulation: the Eucharistic Exchange and Money"
 author: "Geoffrey Holsclaw"
 affilation:

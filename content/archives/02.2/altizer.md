@@ -1,4 +1,6 @@
 ---
+nanoid: "1q-gTJ"
+doi:
 title: "Absolute Nothingness and Taylor’s Imagology"
 article_number:
 author: "Thomas J J Altizer"

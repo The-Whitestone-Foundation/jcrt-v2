@@ -1,4 +1,5 @@
 ---
+nanoid: "LLHHOu"
 name: Jonathan Lee
 affiliation: "Colorado College"
 bio:

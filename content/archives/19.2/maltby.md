@@ -1,4 +1,6 @@
 ---
+nanoid: "PIUvW9"
+doi:
 title: "The Hollow Christians of End Times Fiction."
 author: "Paul Maltby"
 affilation:

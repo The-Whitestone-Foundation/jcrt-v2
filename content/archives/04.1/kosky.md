@@ -1,4 +1,6 @@
 ---
+nanoid: "cUJzHt"
+doi:
 title: "Iconic Revisions of the Modern World Picture"
 article_number:
 author: "Jeffrey L Kosky"

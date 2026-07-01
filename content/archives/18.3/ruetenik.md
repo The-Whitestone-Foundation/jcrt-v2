@@ -1,4 +1,6 @@
 ---
+nanoid: "vzgbB_"
+doi:
 title: "Jonathan Edwards and the Vegan Elect: an Unconventional Calvinist Reading."
 author: "Tadd Ruetenik"
 affilation:

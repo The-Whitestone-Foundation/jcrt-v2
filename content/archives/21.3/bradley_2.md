@@ -1,4 +1,6 @@
 ---
+nanoid: "z5s-Sz"
+doi:
 title: "Caveat Lector: Introduction."
 author: "Arthur Bradley"
 affilation:

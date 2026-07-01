@@ -1,4 +1,6 @@
 ---
+nanoid: "pycYpQ"
+doi:
 title: "Altizer’s Theology in Context"
 author: "Carl A. Raschke"
 affilation:

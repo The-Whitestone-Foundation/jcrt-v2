@@ -1,4 +1,6 @@
 ---
+nanoid: "f52Xjv"
+doi:
 title: "After Jacques Derrida Comes the Future"
 article_number:
 author: "John D Caputo"

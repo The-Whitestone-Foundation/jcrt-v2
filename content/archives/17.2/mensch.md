@@ -1,4 +1,6 @@
 ---
+nanoid: "knQrjZ"
+doi:
 title: "The Intertwining of Binding and Unbinding in the Religions of the Book."
 author: "James Mensch"
 affilation:

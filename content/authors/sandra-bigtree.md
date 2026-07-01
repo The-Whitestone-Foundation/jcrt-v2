@@ -1,4 +1,5 @@
 ---
+nanoid: "RL-zj2"
 name: Sandra Bigtree
 affiliation: "Indigenous Values Initiative"
 bio: |-

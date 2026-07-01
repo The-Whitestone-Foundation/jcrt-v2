@@ -1,4 +1,6 @@
 ---
+nanoid: "8KXw-v"
+doi:
 title: >-
   Difficult Discussions – Christian Evangelicalism And Critical Race Theory
   (Announcement)

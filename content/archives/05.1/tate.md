@@ -1,4 +1,6 @@
 ---
+nanoid: "eeuL7h"
+doi:
 title: "Tragic Thoughts at the End of Philosophy: Language, Literature and Ethical Theory"
 author: "Daniel L Tate"
 affilation:

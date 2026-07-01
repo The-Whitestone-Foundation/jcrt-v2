@@ -1,4 +1,6 @@
 ---
+nanoid: "4hTktV"
+doi:
 title: "How to do things with words (of God)? Michel Henry’s Phenomenology of Religion"
 author: "Jean Leclerq"
 affilation: "Catholic University of Louvain"

@@ -1,4 +1,6 @@
 ---
+nanoid: "A7HSP3"
+doi:
 title: "The Futurity of God"
 author: "Lenart Škof"
 affilation:

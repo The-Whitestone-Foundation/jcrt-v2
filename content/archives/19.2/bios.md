@@ -1,4 +1,6 @@
 ---
+nanoid: "1swm-9"
+doi:
 author: editors
 title: Author Bios
 affilation:

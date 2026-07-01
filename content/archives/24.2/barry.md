@@ -1,4 +1,6 @@
 ---
+nanoid: "pH-JYf"
+doi:
 layout: archives.njk
 article_number: '10'
 volume: '24'

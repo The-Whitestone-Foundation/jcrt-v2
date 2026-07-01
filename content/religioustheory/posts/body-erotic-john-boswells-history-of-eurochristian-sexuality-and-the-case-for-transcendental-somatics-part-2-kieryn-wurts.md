@@ -1,4 +1,6 @@
 ---
+nanoid: "cOMJ1x"
+doi:
 title: >-
   Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case
   For Transcendental Somatics, Part 2 (Kieryn Wurts)

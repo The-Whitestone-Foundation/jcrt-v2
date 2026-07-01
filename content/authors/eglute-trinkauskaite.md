@@ -1,4 +1,5 @@
 ---
+nanoid: "PjPSPy"
 name: Eglutė Trinkauskaitė
 affiliation: "Maryland Institute College of Art"
 bio: |-

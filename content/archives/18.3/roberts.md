@@ -1,4 +1,6 @@
 ---
+nanoid: "CoNmBs"
+doi:
 title: "Towards a New Comparative Methodology in Religious Studies."
 author: "Kara Roberts"
 affilation:

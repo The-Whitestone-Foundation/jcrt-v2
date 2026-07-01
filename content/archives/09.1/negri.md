@@ -1,4 +1,6 @@
 ---
+nanoid: "H74jbH"
+doi:
 title: "Sovereignty: That Divine Ministry of the Affairs of Earthly Life"
 author: "Antonio Negri; Gabriele Fadini; Robert Valgenti"
 affilation:

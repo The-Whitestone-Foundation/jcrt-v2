@@ -1,4 +1,6 @@
 ---
+nanoid: "aNHgC7"
+doi:
 layout: archives.njk
 article_number: '03'
 volume: '24'

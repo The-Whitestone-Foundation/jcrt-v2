@@ -1,4 +1,5 @@
 ---
+nanoid: "2bBB0x"
 name: Slavoj Žižek
 affiliation:
 bio:

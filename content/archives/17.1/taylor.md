@@ -1,4 +1,6 @@
 ---
+nanoid: "hinOIs"
+doi:
 title: "Jesus‘ Spectral Intervention: Derrida, Christianity, And"
 author: "Victor Taylor"
 affilation:

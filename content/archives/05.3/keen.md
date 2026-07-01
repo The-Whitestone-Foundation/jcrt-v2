@@ -1,4 +1,6 @@
 ---
+nanoid: "0V6ZJS"
+doi:
 title: "Predicting Religion: Christian, Secular and Alternative Futures"
 author: "Daniel E Rossi Keen"
 affilation:

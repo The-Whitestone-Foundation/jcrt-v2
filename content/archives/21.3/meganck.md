@@ -1,4 +1,6 @@
 ---
+nanoid: "epSRJR"
+doi:
 title: "Philosophy as Love: Unblocking the Road from Athens to Jerusalem."
 author: "Erik Meganck"
 affilation:

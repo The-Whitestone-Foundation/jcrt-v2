@@ -1,4 +1,6 @@
 ---
+nanoid: "8I09R3"
+doi:
 title: "Violence and Religion, or Between Tyranny and Care."
 author: "James Dodd"
 affilation:

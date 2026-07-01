@@ -1,4 +1,6 @@
 ---
+nanoid: "-CS3T-"
+doi:
 title: "All Things to All People: Unravelling the Structure of the Apostolic Panopticon"
 author: "David R Glowacki"
 affilation:

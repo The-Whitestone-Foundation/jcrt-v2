@@ -1,4 +1,5 @@
 ---
+nanoid: "potE_N"
 name: Stanimir Panayotov
 affiliation: ""
 bio:

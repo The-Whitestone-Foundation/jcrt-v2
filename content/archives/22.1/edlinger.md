@@ -1,4 +1,6 @@
 ---
+nanoid: "OqDwON"
+doi:
 title: "The Sacred as Bordering Practice"
 author: "Anna-Maria Edlinger"
 affilation:

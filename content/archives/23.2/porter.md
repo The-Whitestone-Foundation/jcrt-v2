@@ -1,4 +1,6 @@
 ---
+nanoid: "15GdFL"
+doi:
 title: "Dis/Ordered Liberty: Islamic and Catholic Feminist Perspectives on Natural Law After Dobbs"
 author: "Andrew Stone Porter"
 affilation:

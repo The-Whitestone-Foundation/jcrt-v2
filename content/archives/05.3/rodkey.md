@@ -1,4 +1,6 @@
 ---
+nanoid: "0_P_17"
+doi:
 title: "Approaches to Auschwitz: the Holocaust and Its Legacy"
 author: "Christopher D Rodkey"
 affilation:

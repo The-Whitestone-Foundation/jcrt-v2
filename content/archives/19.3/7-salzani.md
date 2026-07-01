@@ -1,4 +1,6 @@
 ---
+nanoid: "wNN7bc"
+doi:
 title: "False Religions and True Politics: Countering Capitalism as Religion"
 author: "Carlo Salzani"
 affilation:

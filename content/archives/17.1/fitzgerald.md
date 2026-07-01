@@ -1,4 +1,6 @@
 ---
+nanoid: "SJKmEA"
+doi:
 title: "Biopolitics and Vajrayana Buddhism."
 author: "Padraic Fitzgerald"
 affilation:

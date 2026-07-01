@@ -1,4 +1,6 @@
 ---
+nanoid: "GTJYdz"
+doi:
 title: "Reuniting Ethics and Aesthetics: Augustinian and Thomistic Aesthetics and the Buck-Passing Account of Aesthetic Value."
 author: "Pierce Marks"
 affilation:

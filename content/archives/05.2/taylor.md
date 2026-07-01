@@ -1,4 +1,6 @@
 ---
+nanoid: "HxiaGr"
+doi:
 title: "Theory Fever: Archivalism and the Future of Religious Studies"
 author: "Victor Taylor"
 affilation:

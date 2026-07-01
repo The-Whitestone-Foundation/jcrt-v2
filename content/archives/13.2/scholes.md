@@ -1,4 +1,6 @@
 ---
+nanoid: "wQbrS0"
+doi:
 title: "The Problem with Grace: Reconfiguring Political Theology."
 author: "Jeffrey Scholes"
 affilation:

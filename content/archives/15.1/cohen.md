@@ -1,4 +1,6 @@
 ---
+nanoid: "2ISHJQ"
+doi:
 title: "Hegel and the Gift of Sacrifice."
 author: "Joseph Cohen"
 affilation:

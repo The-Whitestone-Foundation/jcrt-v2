@@ -1,4 +1,5 @@
 ---
+nanoid: "_uwkF8"
 name: Andrea L. Stanton
 affiliation: "University of Denver"
 bio:

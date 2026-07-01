@@ -1,4 +1,6 @@
 ---
+nanoid: "c2ZFXh"
+doi:
 title: "A Conversation with Michael Hardt"
 author: "Michael Hardt; Creston Davis; Christopher W Haley; Jason Craig"
 affilation:

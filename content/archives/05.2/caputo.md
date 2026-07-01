@@ -1,4 +1,6 @@
 ---
+nanoid: "V61Sda"
+doi:
 title: "Love Among the Deconstructibles: a Response to Gregg Lambert"
 author: "John D Caputo"
 affilation:

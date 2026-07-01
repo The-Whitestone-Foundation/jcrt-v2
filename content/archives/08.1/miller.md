@@ -1,4 +1,6 @@
 ---
+nanoid: "OpYbPa"
+doi:
 title: "Being and Event"
 author: "Adam S Miller"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "3sUw03"
+doi:
 title: "The Violence of Care: an Analysis of Foucault’s Pastor"
 author: "Christopher Mayes"
 affilation:

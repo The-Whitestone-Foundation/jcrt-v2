@@ -1,4 +1,6 @@
 ---
+nanoid: "X4iIIM"
+doi:
 title: "Reading the Merchant of Venice Through Adorno"
 author: "Zdravko Planinc"
 affilation:

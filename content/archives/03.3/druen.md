@@ -1,4 +1,6 @@
 ---
+nanoid: "zQDYIy"
+doi:
 title: "Sacred Pain: Hurting the Body for the Sake of the Soul"
 article_number:
 author: "Perri Druen"

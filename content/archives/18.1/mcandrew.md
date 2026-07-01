@@ -1,4 +1,6 @@
 ---
+nanoid: "JYdzzb"
+doi:
 title: "Psychoanalysis, Veterans, and the Problem of the Real: or, on War and Enunciation."
 author: "Michael McAndrew"
 affilation:

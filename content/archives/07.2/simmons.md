@@ -1,4 +1,6 @@
 ---
+nanoid: "YRQnf0"
+doi:
 title: "Giving an Account of Oneself"
 author: "J Aaron Simmons"
 affilation:

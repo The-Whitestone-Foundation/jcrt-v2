@@ -1,4 +1,5 @@
 ---
+nanoid: "7hwNlk"
 name: Joseph M. M. Aldinger
 affiliation: "Lynchburg College"
 bio:

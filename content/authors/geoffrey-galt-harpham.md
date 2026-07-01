@@ -1,4 +1,5 @@
 ---
+nanoid: "tl8Ft7"
 name: Geoffrey Galt Harpham
 affiliation: "National Humanities Center "
 bio:

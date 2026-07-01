@@ -1,4 +1,6 @@
 ---
+nanoid: "ODtXfJ"
+doi:
 title: "Born Again Bodies: Flesh and Spirit in American Christianity"
 author: "Aaron V Burton"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "hHg6M6"
+doi:
 title: "Why God Won’t Go Away: Brain Science and the Biology of Belief"
 article_number:
 author: "Noel Dane Scott"

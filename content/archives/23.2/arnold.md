@@ -1,4 +1,6 @@
 ---
+nanoid: "YEH7dc"
+doi:
 title: "A Conversation with Philip P. Arnold on the Urgency of Indigenous Values"
 author: "Philip P Arnold; Victor Taylor"
 affilation:

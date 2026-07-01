@@ -1,4 +1,6 @@
 ---
+nanoid: "60mQkg"
+doi:
 title: >-
   Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part
   1 (Roger Green)

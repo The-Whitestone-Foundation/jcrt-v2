@@ -1,4 +1,6 @@
 ---
+nanoid: "23a20F"
+doi:
 title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 article_number:
 author: "Andrew Tatusko"

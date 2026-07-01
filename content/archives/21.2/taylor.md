@@ -1,4 +1,6 @@
 ---
+nanoid: "HTrrlM"
+doi:
 title: "A Reflection on Charles H. Long: Resisting and Shortcircuiting the Discourses of Exclusion in the Theory and Practice of Administration."
 author: "Victor Taylor"
 affilation:

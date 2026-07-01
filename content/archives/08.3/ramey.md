@@ -1,4 +1,6 @@
 ---
+nanoid: "PmJF8b"
+doi:
 title: "Out of This World: Deleuze and the Philosophy of Creation"
 author: "Joshua Delpech-Ramey"
 affilation:

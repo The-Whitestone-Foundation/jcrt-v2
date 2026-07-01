@@ -1,4 +1,6 @@
 ---
+nanoid: "dIoMeI"
+doi:
 title: "Out of the Woods ? on ŽIŽEk’s Less Than Nothing."
 author: "Adam Kotsko"
 affilation:

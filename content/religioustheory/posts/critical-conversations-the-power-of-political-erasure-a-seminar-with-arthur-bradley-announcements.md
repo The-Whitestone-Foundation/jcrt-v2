@@ -1,4 +1,6 @@
 ---
+nanoid: "Trcr2f"
+doi:
 title: >-
   Critical Conversations – The Power Of “Political Erasure”, A Seminar With
   Arthur Bradley (Announcements)

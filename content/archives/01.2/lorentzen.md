@@ -1,4 +1,6 @@
 ---
+nanoid: "otwYzk"
+doi:
 title: "Difference and Repetition"
 article_number:
 author: "Oz Lorentzen"

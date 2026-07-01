@@ -1,4 +1,6 @@
 ---
+nanoid: "qN4xzA"
+doi:
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 2 (Carl Raschke)

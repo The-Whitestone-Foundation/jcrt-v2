@@ -1,4 +1,6 @@
 ---
+nanoid: "pCCcMW"
+doi:
 title: "The Radical Evil of Deconstruction: a Reply to John Caputo"
 author: "Martin Hägglund"
 affilation:

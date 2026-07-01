@@ -1,4 +1,6 @@
 ---
+nanoid: "0K6XVQ"
+doi:
 author: editors
 title: Author Bios
 affilation:

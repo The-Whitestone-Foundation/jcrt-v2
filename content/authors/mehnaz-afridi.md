@@ -1,4 +1,5 @@
 ---
+nanoid: "wkX-Wh"
 name: Mehnaz Afridi
 affiliation: "Manhattan College"
 bio:

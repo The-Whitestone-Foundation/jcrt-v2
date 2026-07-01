@@ -1,4 +1,5 @@
 ---
+nanoid: "uzvgNC"
 name: "Vinicius Marinho"
 affiliation: "University of Chicago Divinity School"
 bio:

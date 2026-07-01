@@ -1,4 +1,6 @@
 ---
+nanoid: "UvQ_Bv"
+doi:
 title: "Religion and Hip Hop."
 author: "Joseph Winters"
 affilation:

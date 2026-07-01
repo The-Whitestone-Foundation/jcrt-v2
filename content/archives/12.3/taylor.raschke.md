@@ -1,4 +1,6 @@
 ---
+nanoid: "b8TNnu"
+doi:
 title: "From Alchemy to Revolution: a Conversation with Carl A. Raschke."
 author: "Carl A. Raschke; Victor Taylor"
 affilation:

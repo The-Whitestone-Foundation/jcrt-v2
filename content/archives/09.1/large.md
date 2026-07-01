@@ -1,4 +1,6 @@
 ---
+nanoid: "g6xmaO"
+doi:
 title: "Time and Money: Philosophy of Religion and the Critique of Capital"
 author: "William Large"
 affilation:

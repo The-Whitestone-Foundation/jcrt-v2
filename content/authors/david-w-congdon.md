@@ -1,4 +1,5 @@
 ---
+nanoid: "qKwONL"
 name: David W. Congdon
 affiliation: "University Press of Kansas"
 bio:

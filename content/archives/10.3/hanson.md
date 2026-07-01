@@ -1,4 +1,6 @@
 ---
+nanoid: "uumiKH"
+doi:
 title: "A Tale of Two Doublets: Derrida and Kierkegaard"
 author: "Jeffrey Hanson"
 affilation: 

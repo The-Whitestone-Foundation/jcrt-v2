@@ -1,4 +1,6 @@
 ---
+nanoid: "aEzYP4"
+doi:
 title: "On Escape"
 author: "Michael Purcell"
 affilation:

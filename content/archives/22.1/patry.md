@@ -1,4 +1,6 @@
 ---
+nanoid: "mOEMGS"
+doi:
 title: "Thinking – Life - Organic."
 author: "Tobias Patry"
 affilation:

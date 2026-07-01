@@ -1,4 +1,6 @@
 ---
+nanoid: "VnhNVw"
+doi:
 title: "Reading Gayatri Chakravorty Spivak in Rural QuÉBec, or Saving"
 author: "Dragos Stoica"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "vmdEIq"
+doi:
 title: "Altizer, My Theological Contemporary."
 author: "John B. Cobb Jr."
 affilation:

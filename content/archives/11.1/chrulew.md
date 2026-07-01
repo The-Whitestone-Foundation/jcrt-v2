@@ -1,4 +1,6 @@
 ---
+nanoid: "r-_xeJ"
+doi:
 title: "The Pauline Ellipsis in Foucault’s Genealogy of Christianity"
 author: "Matthew Chrulew"
 affilation:

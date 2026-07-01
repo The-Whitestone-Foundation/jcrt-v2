@@ -1,4 +1,6 @@
 ---
+nanoid: "TTGcVO"
+doi:
 title: "The Problem of Evil and the Problem of God"
 author: "Hermen Kroesbergen"
 affilation:

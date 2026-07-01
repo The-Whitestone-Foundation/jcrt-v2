@@ -1,4 +1,6 @@
 ---
+nanoid: "zssaoV"
+doi:
 title: "On Bullshit"
 author: "Berel Dov Lerner"
 affilation:

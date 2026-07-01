@@ -1,4 +1,6 @@
 ---
+nanoid: "vuNJpP"
+doi:
 title: "Georges Bataille: a Theoretical Resource for Scientific Investigation of Religious Experience"
 author: "Nina P Azari"
 affilation:

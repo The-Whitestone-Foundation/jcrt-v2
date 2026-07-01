@@ -1,4 +1,6 @@
 ---
+nanoid: "qoYBv5"
+doi:
 title: "Locating the Oceanic in Sylvia Wynter’s"
 author: "Justine M. Bakker"
 affilation:

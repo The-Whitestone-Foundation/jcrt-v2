@@ -1,4 +1,6 @@
 ---
+nanoid: "OnGARJ"
+doi:
 title: "Splitting Religion: Heteronomy, Autonomy, and Reflection"
 article_number:
 author: "James J DiCenso"

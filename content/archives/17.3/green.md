@@ -1,4 +1,6 @@
 ---
+nanoid: "TCG8Cg"
+doi:
 title: "The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes."
 author: "Roger Green"
 affilation:

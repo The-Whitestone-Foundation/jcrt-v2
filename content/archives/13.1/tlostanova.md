@@ -1,4 +1,6 @@
 ---
+nanoid: "bk6swb"
+doi:
 title: "On Lost Crisitunities, Vanishing Postsoviet and Decolonization of Thinking, Being and Perception."
 author: "Madina Tlostanova"
 affilation:

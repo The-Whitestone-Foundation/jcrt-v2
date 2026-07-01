@@ -1,4 +1,6 @@
 ---
+nanoid: "Ifm0AM"
+doi:
 title: "Fetishism and the Erasure of Indigeneity."
 author: "Roger K. Green"
 affilation:

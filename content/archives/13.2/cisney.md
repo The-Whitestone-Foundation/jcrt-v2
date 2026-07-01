@@ -1,4 +1,6 @@
 ---
+nanoid: "Zu6JyB"
+doi:
 title: "Living in the Land of the Dead: George Romero, Gilles Deleuze, and the Question of the Zombie."
 author: "Vernon W. Cisney"
 affilation:

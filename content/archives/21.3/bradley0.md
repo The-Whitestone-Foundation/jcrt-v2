@@ -1,4 +1,6 @@
 ---
+nanoid: "8C_Skb"
+doi:
 title: "A Critical Conversation on “Political Erasure”"
 author: "Arthur Bradley"
 affilation:

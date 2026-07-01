@@ -1,4 +1,6 @@
 ---
+nanoid: "hSSNhS"
+doi:
 title: "Deconstructing the Great Chain of Being"
 article_number: 09
 author: "Jonathan Scott Lee"

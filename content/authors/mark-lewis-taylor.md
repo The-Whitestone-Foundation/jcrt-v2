@@ -1,4 +1,5 @@
 ---
+nanoid: "vnt0HU"
 name: Mark Lewis Taylor
 affiliation: "Princeton Theological Seminary"
 bio:

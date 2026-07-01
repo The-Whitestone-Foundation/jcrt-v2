@@ -1,4 +1,5 @@
 ---
+nanoid: "bXqib7"
 name: Robert Monson
 affiliation: "University of Denver/Iliff School of Theology"
 bio:

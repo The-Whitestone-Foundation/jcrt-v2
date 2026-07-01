@@ -1,4 +1,6 @@
 ---
+nanoid: "RrFUIJ"
+doi:
 title: "The Thing That Scares Me Most: Heidegger’s Anti-Semitism and the Return to Zion."
 author: "Michael Fagenblat"
 affilation:

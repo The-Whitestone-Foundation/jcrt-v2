@@ -1,4 +1,6 @@
 ---
+nanoid: "Sb0RHm"
+doi:
 title: "The Sublime and the Messianic: a Reply to Agata Bielek-Robson"
 author: "Clayton Crockett"
 affilation:

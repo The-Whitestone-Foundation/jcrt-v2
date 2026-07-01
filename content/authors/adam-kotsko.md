@@ -1,4 +1,5 @@
 ---
+nanoid: "-waPRL"
 name: Adam Kotsko
 affiliation: "Shimer College, Chicago Theological Seminary "
 bio:

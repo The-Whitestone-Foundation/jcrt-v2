@@ -1,4 +1,6 @@
 ---
+nanoid: "gHpOUq"
+doi:
 title: Review – Economy And Ontology From Agamben To Nancy (Taylor Weaver)
 description: "*Bird, Greg. Containing Community: From Political Economy to Ontology in Agamben, Esposito, and Nancy. Albany NY: SUNY Press, 2016. ISBN 978-1-4384-6185-4"
 date: '2017-05-23T01:36:27.000Z'

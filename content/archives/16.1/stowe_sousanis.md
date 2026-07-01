@@ -1,4 +1,6 @@
 ---
+nanoid: "8t_U_0"
+doi:
 title: "An Interview with Nick Sousanis"
 author: "S. Andrew Stowe; Nick Sousanis"
 affilation:

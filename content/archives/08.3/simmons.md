@@ -1,4 +1,6 @@
 ---
+nanoid: "PU6k1A"
+doi:
 title: "God, Truth, and Witness: Engaging Stanley Hauerwas"
 author: "J Aaron Simmons"
 affilation:

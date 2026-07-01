@@ -1,4 +1,6 @@
 ---
+nanoid: "yrWby1"
+doi:
 title: "Geschlecht III: Authentic Faith, Religion, and Politics in Derrida’s Reading of Heidegger’s Geist"
 author: "Jake S Sirota"
 affilation:

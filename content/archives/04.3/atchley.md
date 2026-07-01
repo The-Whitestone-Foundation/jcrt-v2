@@ -1,4 +1,6 @@
 ---
+nanoid: "gtVAnh"
+doi:
 title: "Sensible Ecstasy: Mysticism, Sexual Difference, and the Demands of History"
 author: "J Heath Atchley"
 affilation:

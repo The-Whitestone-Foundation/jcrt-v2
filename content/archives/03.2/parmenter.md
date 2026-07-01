@@ -1,4 +1,6 @@
 ---
+nanoid: "Qiek-r"
+doi:
 title: "The Book of the Heart"
 article_number:
 author: "Dorina Miller Parmenter"

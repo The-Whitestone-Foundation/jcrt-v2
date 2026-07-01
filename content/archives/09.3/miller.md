@@ -1,4 +1,6 @@
 ---
+nanoid: "kt9Ntg"
+doi:
 title: "Theology, Psychoanalysis, and Trauma"
 author: "Adam S Miller"
 affilation:

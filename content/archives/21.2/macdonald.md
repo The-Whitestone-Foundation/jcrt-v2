@@ -1,4 +1,6 @@
 ---
+nanoid: "wiCEq2"
+doi:
 title: "Rapture Music: Intensity and Eschatology Within Christian Revival Movements."
 author: "Fraser Macdonald"
 affilation:

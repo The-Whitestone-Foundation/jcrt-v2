@@ -1,4 +1,6 @@
 ---
+nanoid: "amVpmX"
+doi:
 title: >-
   Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To
   The Leveling Of The Public Sphere, Part 1 (Andrew Ball)

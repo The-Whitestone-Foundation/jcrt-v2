@@ -1,4 +1,6 @@
 ---
+nanoid: "ZqVEZZ"
+doi:
 title: "Altizer and Deleuze: Material Metaphysics for Disastrous Times."
 author: "Petra Carlsson Redell"
 affilation:

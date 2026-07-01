@@ -1,4 +1,6 @@
 ---
+nanoid: "4Mrisx"
+doi:
 title: "Review of Judith Butler’s Senses of the Subject"
 author: "Matt Waggoner"
 affilation: "Albertus Magnus College"

@@ -1,4 +1,6 @@
 ---
+nanoid: "2aXcKU"
+doi:
 title: "St. Paul and the Event"
 author: "Clayton Crockett"
 affilation:

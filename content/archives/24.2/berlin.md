@@ -1,4 +1,6 @@
 ---
+nanoid: "1vLPwr"
+doi:
 layout: archives.njk
 article_number: '19'
 volume: '24'

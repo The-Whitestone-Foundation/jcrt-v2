@@ -1,4 +1,6 @@
 ---
+nanoid: "gNe1tK"
+doi:
 title: "I, Insect; or, Bataille and the Crush Freaks"
 author: "Jeremy Biles"
 affilation:

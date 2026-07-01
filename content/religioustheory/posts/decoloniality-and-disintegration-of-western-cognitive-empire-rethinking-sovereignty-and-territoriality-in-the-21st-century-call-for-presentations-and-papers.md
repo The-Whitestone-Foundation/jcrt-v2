@@ -1,4 +1,6 @@
 ---
+nanoid: "6rSNiV"
+doi:
 title: >-
   Call For Presentations And Proposals – Decoloniality And Disintegration Of
   Western Cognitive Empire, Or Rethinking Sovereignty And Territoriality In The

@@ -1,4 +1,6 @@
 ---
+nanoid: "23mKYt"
+doi:
 title: "Long Time Coming: Theology, Methodology, Cultural Theory"
 author: "Clayton Crockett"
 affilation:

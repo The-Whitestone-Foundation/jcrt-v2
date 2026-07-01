@@ -1,4 +1,6 @@
 ---
+nanoid: "nVSANL"
+doi:
 title: "Odradek’s Laughter"
 author: "Erica Weitzman"
 affilation:

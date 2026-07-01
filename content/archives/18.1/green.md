@@ -1,4 +1,6 @@
 ---
+nanoid: "r8xCyM"
+doi:
 title: "Non-Ordinary States, Entheogens, and the Unconscious."
 author: "Rodger K. Green"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "eCIvjh"
+doi:
 title: "Economies of Studying Religion"
 article_number:
 author: "Clayton Crockett"

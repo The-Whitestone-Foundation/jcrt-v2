@@ -1,4 +1,6 @@
 ---
+nanoid: "JTtPL2"
+doi:
 title: >-
   Review – Donovan Schaefer’s Call For a Materialist Turn In Religious Theory
   (Jonathan Russell)

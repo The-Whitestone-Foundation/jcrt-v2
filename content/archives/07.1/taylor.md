@@ -1,4 +1,6 @@
 ---
+nanoid: "NFDMGH"
+doi:
 title: "A Conversation with Slavoj ŽIŽEk"
 author: "Victor Taylor; Slavoj Žižek"
 affilation:

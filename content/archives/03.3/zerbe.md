@@ -1,4 +1,6 @@
 ---
+nanoid: "itzSh-"
+doi:
 title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
 article_number:
 author: "Michael J Zerbe"

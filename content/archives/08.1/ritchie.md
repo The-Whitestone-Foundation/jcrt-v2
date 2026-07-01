@@ -1,4 +1,6 @@
 ---
+nanoid: "7kzFQC"
+doi:
 title: "Digital Nation: Toward an Inclusive Information Society"
 author: "Jeff Ritchie"
 affilation:

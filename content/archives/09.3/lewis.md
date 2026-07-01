@@ -1,4 +1,6 @@
 ---
+nanoid: "Gx3o4v"
+doi:
 title: "Holy Superheroes!: Exploring the Sacred in Comics, Graphic Novels, and Film"
 author: "A Davis Lewis"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "VJ3MNj"
+doi:
 title: "Pornography, the Theory: What Utilitarianism Did to Action"
 author: "Colbey Emmerson-Reid"
 affilation:

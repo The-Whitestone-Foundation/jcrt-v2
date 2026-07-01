@@ -1,4 +1,6 @@
 ---
+nanoid: "aqSFjx"
+doi:
 title: "Owning My Masters: an Artist’s Introduction."
 author: "A. D. Carson"
 affilation:

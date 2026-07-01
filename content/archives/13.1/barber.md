@@ -1,4 +1,6 @@
 ---
+nanoid: "y7Z9R6"
+doi:
 title: "The Immanent Refusal of Conversion."
 author: "Daniel Colucciello Barber"
 affilation:

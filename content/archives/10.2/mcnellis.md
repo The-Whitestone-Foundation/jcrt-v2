@@ -1,4 +1,6 @@
 ---
+nanoid: "TzL7PT"
+doi:
 title: "‘An Unusual Way to Think’: Trilogy’s Oracular Poetics"
 author: "Erin M McNellis"
 affilation:

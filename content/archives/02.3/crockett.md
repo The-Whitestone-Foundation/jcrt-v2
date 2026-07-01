@@ -1,4 +1,6 @@
 ---
+nanoid: "-sJP6x"
+doi:
 title: "Contributions to Philosophy (from Enowning)"
 article_number:
 author: "Clayton Crockett"

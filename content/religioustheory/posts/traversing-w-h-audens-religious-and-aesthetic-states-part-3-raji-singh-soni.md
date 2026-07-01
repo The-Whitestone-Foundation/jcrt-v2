@@ -1,4 +1,6 @@
 ---
+nanoid: "CcB4Y_"
+doi:
 title: >-
   Traversing W.H. Auden’s Religious And Aesthetic States, Part 3 (Raji Singh
   Soni)

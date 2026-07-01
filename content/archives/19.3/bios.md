@@ -1,4 +1,6 @@
 ---
+nanoid: "GFMXWU"
+doi:
 author: editors
 title: Author Bios
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "0FtNoX"
+doi:
 title: "The Monstrosity of the Other"
 author: "Clayton Crockett"
 affilation:

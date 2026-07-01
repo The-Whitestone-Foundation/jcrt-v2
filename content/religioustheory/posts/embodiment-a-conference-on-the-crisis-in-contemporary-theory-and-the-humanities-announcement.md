@@ -1,4 +1,6 @@
 ---
+nanoid: "uChzaq"
+doi:
 title: >-
   Embodiment – A Conference On The Crisis In Contemporary Theory And The
   Humanities (Announcement)

@@ -1,4 +1,6 @@
 ---
+nanoid: "UNMipf"
+doi:
 title: >-
   The Religious Roots Of Environmental Justice – Call For Papers Or
   Presentations (Conference)

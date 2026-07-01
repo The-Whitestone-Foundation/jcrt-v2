@@ -1,4 +1,6 @@
 ---
+nanoid: "XrDJNs"
+doi:
 title: "The Frankfurt School on Religion: Key Writings by the Major Thinkers"
 author: "Matthew Waggoner"
 affilation:

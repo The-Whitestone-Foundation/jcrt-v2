@@ -1,4 +1,6 @@
 ---
+nanoid: "QGex_R"
+doi:
 title: "Otherwise: A Response to Boštjan Nedoh"
 author: "Arthur Bradley"
 affilation:

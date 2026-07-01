@@ -1,4 +1,6 @@
 ---
+nanoid: "3sfbaI"
+doi:
 layout: archives.njk
 article_number: '03'
 volume: '25'

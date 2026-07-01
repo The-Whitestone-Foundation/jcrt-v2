@@ -1,4 +1,6 @@
 ---
+nanoid: "qgJMv0"
+doi:
 title: "Johnny Cash and the Great American Contradiction: Christianity and the Battle for the Soul of a Nation"
 author: "Christopher D Rodkey"
 affilation:

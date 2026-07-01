@@ -1,4 +1,6 @@
 ---
+nanoid: "oOh3fu"
+doi:
 title: "Derrida, Said, and Infinity"
 author: "Geoffrey Galt Harpham"
 affilation:

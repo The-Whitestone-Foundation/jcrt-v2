@@ -1,0 +1,8 @@
+#!/bin/sh
+# Pre-publish rule: any new/changed content page gets a stable 6-char nanoid
+# on line 2 of its front matter before it can be committed (and thus before it
+# can be published). Existing ids are left untouched.
+#
+# Enabled via `git config core.hooksPath .githooks` (run automatically by the
+# `prepare` npm script on install).
+node scripts/generate-nanoids.mjs --staged || exit 1

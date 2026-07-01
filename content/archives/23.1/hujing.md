@@ -1,4 +1,6 @@
 ---
+nanoid: "QyABjk"
+doi:
 title: "Transforming Schema: Toward an Integral Ecology."
 author: "Kevin Hujing"
 affilation:

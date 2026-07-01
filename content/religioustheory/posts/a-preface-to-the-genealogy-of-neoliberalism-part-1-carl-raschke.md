@@ -1,4 +1,6 @@
 ---
+nanoid: "SPTDoF"
+doi:
 title: 'A Preface To The Genealogy of Neoliberalism, Part 1 (Carl Raschke)'
 description: "The following is the first installment of a lecture delivered to the faculty and students of the Research Platform on Religion and Transformation from the"
 date: '2016-08-22T06:04:22.000Z'

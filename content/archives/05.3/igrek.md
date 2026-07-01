@@ -1,4 +1,6 @@
 ---
+nanoid: "kKgREe"
+doi:
 title: "Impossible God: Derrida’s Theology"
 author: "Apple Zefelius Igrek"
 affilation:

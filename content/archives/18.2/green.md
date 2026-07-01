@@ -1,4 +1,6 @@
 ---
+nanoid: "SJ8tzR"
+doi:
 title: Fetish and the Erasure of Indigeneity
 author: Roger Green
 affilation:

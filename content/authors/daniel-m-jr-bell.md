@@ -1,4 +1,5 @@
 ---
+nanoid: "enUetP"
 name: Daniel M Jr Bell
 affiliation: "Lutheran Theological Southern Seminary"
 bio:

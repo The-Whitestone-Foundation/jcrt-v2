@@ -1,4 +1,5 @@
 ---
+nanoid: "rgg8XI"
 name: Wilson Dickinson
 affiliation: "Syracuse University"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "JXE5t4"
+doi:
 title: "The Borderlines of Theodicy."
 author: "Martin Woessner"
 affilation:

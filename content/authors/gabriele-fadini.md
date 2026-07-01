@@ -1,4 +1,5 @@
 ---
+nanoid: "smgyan"
 name: Gabriele Fadini
 affiliation:
 bio:

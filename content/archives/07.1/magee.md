@@ -1,4 +1,6 @@
 ---
+nanoid: "9zUEM8"
+doi:
 title: "Stare Decisis: (Forever) Lost in Translation"
 author: "Neal Magee"
 affilation:

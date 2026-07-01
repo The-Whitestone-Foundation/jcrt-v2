@@ -1,4 +1,6 @@
 ---
+nanoid: "13FTUJ"
+doi:
 title: "Reflections on a Small Island: Hannah Arendt, Shakespeare’s the Tempest, and the Politics of Childhood"
 author: "Paul Dahlgren"
 affilation:

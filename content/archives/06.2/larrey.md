@@ -1,4 +1,6 @@
 ---
+nanoid: "MmCy86"
+doi:
 title: "The Future of Religion"
 author: "Philip Larrey"
 affilation:

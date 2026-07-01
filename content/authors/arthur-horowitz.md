@@ -1,4 +1,5 @@
 ---
+nanoid: "jZ2Zmo"
 name: Arthur Horowitz
 affiliation: "Pomona College"
 bio:

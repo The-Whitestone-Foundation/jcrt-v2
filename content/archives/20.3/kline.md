@@ -1,4 +1,6 @@
 ---
+nanoid: "ekouqF"
+doi:
 title: "Antinomian Flesh."
 author: "David Kline"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "G6fcJ-"
+doi:
 title: "The Sacredness of ‘Secular’ Literature: a Case Study in Walter Benjamin"
 author: "Samuel Joseph Kessler"
 affilation:

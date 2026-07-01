@@ -1,4 +1,6 @@
 ---
+nanoid: "rAVTS0"
+doi:
 title: "The Grottesche Designs of H.G. Wells (or, Cripping Style)."
 author: "Colbey Emmerson Reid"
 affilation:

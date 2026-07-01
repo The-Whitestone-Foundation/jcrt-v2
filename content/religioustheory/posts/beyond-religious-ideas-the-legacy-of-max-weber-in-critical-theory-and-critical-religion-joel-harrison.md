@@ -1,4 +1,6 @@
 ---
+nanoid: "4mz7Tb"
+doi:
 title: >-
   Beyond Religious Ideas – The Legacy Of Max Weber In Critical Theory And
   Critical Religion (Joel Harrison)

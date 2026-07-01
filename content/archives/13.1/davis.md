@@ -1,4 +1,6 @@
 ---
+nanoid: "EqP0bu"
+doi:
 title: "More Than Belief: a Materialist Theory of Religion."
 author: "Elijah Prewitt-Davis"
 affilation:

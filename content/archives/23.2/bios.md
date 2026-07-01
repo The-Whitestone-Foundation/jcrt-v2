@@ -1,4 +1,6 @@
 ---
+nanoid: "0BQ7r9"
+doi:
 author: editors
 title: Author bios
 affilation:

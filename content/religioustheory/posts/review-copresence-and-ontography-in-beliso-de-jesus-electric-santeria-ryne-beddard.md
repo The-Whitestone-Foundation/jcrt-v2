@@ -1,4 +1,6 @@
 ---
+nanoid: "NYDcGF"
+doi:
 title: >-
   Review – The Metaphysics of Copresence in Beliso-De Jesùs’ Electric Santeria
   (Ryne Beddard)

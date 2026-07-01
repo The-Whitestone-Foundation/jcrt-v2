@@ -1,4 +1,5 @@
 ---
+nanoid: "vQTx2i"
 name: Osage Nation
 affiliation:
 bio:

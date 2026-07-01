@@ -1,4 +1,5 @@
 ---
+nanoid: "TaPzkc"
 name: "Lenart Škof"
 affiliation: "Science and Research Centre Koper"
 bio:

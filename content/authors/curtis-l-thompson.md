@@ -1,4 +1,5 @@
 ---
+nanoid: "XMZxvE"
 name: Curtis L Thompson
 affiliation: "Thi el College"
 bio:

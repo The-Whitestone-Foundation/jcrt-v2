@@ -1,4 +1,6 @@
 ---
+nanoid: "RdHUB3"
+doi:
 title: "Homosexuality and the Crisis of Anglicanism"
 author: "Gavin Hyman"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "6eO2hw"
+doi:
 title: "The One Is Not - on the Fate of Unity in Post-Metaphysical Philosophy."
 author: "Jussi Backman"
 affilation:

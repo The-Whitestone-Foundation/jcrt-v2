@@ -1,4 +1,6 @@
 ---
+nanoid: "l8Kn80"
+doi:
 title: "Horizon, Transcendence, and Correlation: Some Phenomenological Considerations."
 author: "Branko Klun"
 affilation:

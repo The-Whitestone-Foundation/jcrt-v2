@@ -1,4 +1,6 @@
 ---
+nanoid: "AF8nfg"
+doi:
 title: "New Religions in Brazil: a Game Between Relativism and Fundamentalism."
 author: "Silas Guerriero"
 affilation:

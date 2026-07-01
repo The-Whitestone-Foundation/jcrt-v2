@@ -1,4 +1,6 @@
 ---
+nanoid: "Em_TXr"
+doi:
 title: "Shame without Shame: What Remains of Modernist Aesthetics"
 author: "Mia L McIver"
 affilation:

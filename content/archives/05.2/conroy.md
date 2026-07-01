@@ -1,4 +1,6 @@
 ---
+nanoid: "GYHD1P"
+doi:
 title: "Religion and Media"
 author: "Melissa Conroy"
 affilation:

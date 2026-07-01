@@ -1,4 +1,6 @@
 ---
+nanoid: "PfxGqQ"
+doi:
 title: "Sikhs as Subalterns: Voice, Inequality and Power"
 author: "Nirvikar Singh"
 affilation:

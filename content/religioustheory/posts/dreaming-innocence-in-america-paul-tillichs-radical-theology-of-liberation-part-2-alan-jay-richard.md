@@ -1,4 +1,6 @@
 ---
+nanoid: "5MLLEB"
+doi:
 title: >-
   Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation,
   Part 2 (Alan Jay Richard)

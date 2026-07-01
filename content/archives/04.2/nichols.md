@@ -1,4 +1,6 @@
 ---
+nanoid: "DdfSFU"
+doi:
 title: "Laughter as Gesture: Hilarity and the Anti-Sublime"
 article_number:
 author: "Stephen G Nichols"

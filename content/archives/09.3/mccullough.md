@@ -1,4 +1,6 @@
 ---
+nanoid: "KaidK0"
+doi:
 title: "After God"
 author: "Lissa McCullough"
 affilation:

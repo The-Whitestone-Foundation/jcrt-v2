@@ -1,4 +1,6 @@
 ---
+nanoid: "EJz9Bd"
+doi:
 title: >-
   Conference on Populism, Nationalism, and the Future of Democracy
   (Announcement)

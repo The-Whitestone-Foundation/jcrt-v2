@@ -1,4 +1,6 @@
 ---
+nanoid: "n266v1"
+doi:
 title: "Lutheran Theology and Postmodern Philosophy."
 author: "Olli-Pekka Vaino"
 affilation:

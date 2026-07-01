@@ -1,4 +1,6 @@
 ---
+nanoid: "UEFJvv"
+doi:
 author: editors
 title: Author Bios
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "VQSx1X"
+doi:
 title: "What’s Missing in the Turn to Paul?: Identity and Difference in Postsecular Theology."
 author: "Katharine Sarah Moody"
 affilation:

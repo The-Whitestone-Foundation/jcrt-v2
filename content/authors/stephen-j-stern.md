@@ -1,4 +1,5 @@
 ---
+nanoid: "csS6Kk"
 name: Stephen J Stern
 affiliation: "Gettysburg College"
 bio:

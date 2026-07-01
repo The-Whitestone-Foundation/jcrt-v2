@@ -1,4 +1,5 @@
 ---
+nanoid: "lai5eN"
 name: Michael Strysick
 affiliation: "Wake Forest University"
 bio:

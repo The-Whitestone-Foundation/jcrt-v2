@@ -1,4 +1,5 @@
 ---
+nanoid: "8vg2WL"
 name: Timothy Snediker
 affiliation: "University of Denver"
 bio:

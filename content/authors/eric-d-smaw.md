@@ -1,4 +1,5 @@
 ---
+nanoid: "RQ42zk"
 name: Eric D Smaw
 affiliation:
 bio:

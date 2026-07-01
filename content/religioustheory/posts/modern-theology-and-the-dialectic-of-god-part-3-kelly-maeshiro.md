@@ -1,4 +1,6 @@
 ---
+nanoid: "m2sTgv"
+doi:
 title: 'Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)'
 description: "The following is the third of a four-part series. The first can be found here, the second here. Philosophically speaking, Hegel’s Absolute idealism represented"
 date: '2021-02-22T16:53:48.000Z'

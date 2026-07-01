@@ -1,4 +1,5 @@
 ---
+nanoid: "a2IvtG"
 name: "Joshua Samuel"
 affiliation: "Union Theological Seminary"
 bio:

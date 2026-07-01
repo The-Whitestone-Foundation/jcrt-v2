@@ -1,4 +1,6 @@
 ---
+nanoid: "XfL-JO"
+doi:
 title: "Peeking Under the Veil: Niki De Saint Phalle’s the Bride and/as Feminist Disability Aesthetics."
 author: "Ann M. Fox"
 affilation:

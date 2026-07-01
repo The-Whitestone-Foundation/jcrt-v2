@@ -1,4 +1,6 @@
 ---
+nanoid: "GxWYe-"
+doi:
 title: "The Fire Spreads: Holiness and Pentecostalism in the American South"
 author: "Stephen P Shoemaker"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "Vee9LY"
+doi:
 title: "Deleuze and Geophilosophy: a Guide and Glossary"
 author: "Brian Buchanan"
 affilation:

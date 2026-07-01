@@ -1,4 +1,6 @@
 ---
+nanoid: "X_Oy28"
+doi:
 title: "René Girard’s Theory of Sacrifice, or: What Is the Gift of Death?"
 author: "Ludger Hagedorn"
 affilation:

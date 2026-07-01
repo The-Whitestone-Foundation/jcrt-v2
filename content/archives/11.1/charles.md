@@ -1,4 +1,6 @@
 ---
+nanoid: "mIjUwJ"
+doi:
 title: "The Report of 1 Corinthians 5 in Critical Dialogue with Foucault"
 author: "Ronald Charles"
 affilation:

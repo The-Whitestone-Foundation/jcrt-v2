@@ -1,4 +1,5 @@
 ---
+nanoid: "6npju-"
 name: David B Dillard-Wright
 affiliation: "Drew University"
 bio:

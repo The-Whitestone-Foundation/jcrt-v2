@@ -1,4 +1,6 @@
 ---
+nanoid: "rp7uw6"
+doi:
 title: "The Solar Nun: the Prophetic Action and Thought of Sr. Paula Gonzalez, S.C"
 author: "Elijah Prewitt-Davis"
 affilation:

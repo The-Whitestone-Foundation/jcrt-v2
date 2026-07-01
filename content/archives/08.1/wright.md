@@ -1,4 +1,6 @@
 ---
+nanoid: "7XzjIn"
+doi:
 title: "Does Human Rights Need God?"
 author: "David B Dillard-Wright"
 affilation:

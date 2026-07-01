@@ -1,4 +1,6 @@
 ---
+nanoid: "zsrHTe"
+doi:
 title: "Taking Shape: on the Current Constellation of (Religious) Thought"
 article_number:
 author: "Clayton Crockett"

@@ -1,4 +1,5 @@
 ---
+nanoid: "0yo9Hm"
 name: Shrutika Lakshmi
 affiliation: "Syracuse University"
 bio: |-

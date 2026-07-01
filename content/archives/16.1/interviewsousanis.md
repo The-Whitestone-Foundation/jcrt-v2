@@ -1,4 +1,6 @@
 ---
+nanoid: "uyagD2"
+doi:
 title: "An Interview with Nick Sousanis"
 author: "S. Andrew Stowe"
 affilation:

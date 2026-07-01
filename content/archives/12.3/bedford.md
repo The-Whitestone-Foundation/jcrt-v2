@@ -1,4 +1,6 @@
 ---
+nanoid: "EdI39e"
+doi:
 title: "Beyond the 2008 Financial"
 author: "Gary Bedford"
 affilation:

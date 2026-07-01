@@ -1,4 +1,6 @@
 ---
+nanoid: "-XwQ5a"
+doi:
 title: "Heterological History: a Conversation"
 article_number:
 author: "Edith Wyschogrod; Carl A. Raschke"

@@ -1,4 +1,5 @@
 ---
+nanoid: "C3nUJA"
 name: Alberto Urquidez
 affiliation: "Bowdoin College"
 bio:

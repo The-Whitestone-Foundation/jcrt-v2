@@ -1,4 +1,6 @@
 ---
+nanoid: "wS_eFc"
+doi:
 title: "Theory Change"
 article_number:
 author: "Jeffrey J Williams"

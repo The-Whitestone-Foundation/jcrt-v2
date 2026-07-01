@@ -4,6 +4,9 @@
   "description": "Journal for Cultural and Religious Theory: A Whitestone Foundation Publication",
   "type": "module",
   "scripts": {
+    "prepare": "git config core.hooksPath .githooks || true",
+    "nanoids:generate": "node scripts/generate-nanoids.mjs",
+    "nanoids:check": "node scripts/generate-nanoids.mjs --check",
     "kill": "rm -rf _site",
     "start": "npm run sitemaps:generate && cross-env ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve",
     "start:fast": "cross-env SKIP_SITEMAPS_IN_SERVE=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve",
@@ -27,8 +30,8 @@
     "build:bench": "cross-env BENCH_11TY=1 BENCH_ISSUE=24.2 FAST_BUILD=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=4096 eleventy --quiet",
     "build": "npm run sequoia:stage && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy && npm run sitemaps:check && npm run oai:validate && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
     "build:netlify": "node scripts/build-netlify.mjs",
-    "build:netlify:full": "npm run sitemaps:generate && npm run standard:check && rm -rf _site && echo \"[build:netlify 1/4] Eleventy\" && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && echo \"[build:netlify 2/4] Sitemap checks\" && npm run sitemaps:check && echo \"[build:netlify 3/4] OAI validation (full)\" && npm run oai:validate:full && echo \"[build:netlify 4/4] Pagefind\" && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
-    "build:netlify:fast": "npm run sitemaps:generate && npm run standard:check && rm -rf _site && echo \"[build:netlify fast 1/4] Eleventy\" && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && echo \"[build:netlify fast 2/4] Sitemap checks\" && npm run sitemaps:check && echo \"[build:netlify fast 3/4] OAI validation (quick)\" && npm run oai:validate:quick && echo \"[build:netlify fast 4/4] Pagefind\" && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
+    "build:netlify:full": "npm run nanoids:check && npm run sitemaps:generate && npm run standard:check && rm -rf _site && echo \"[build:netlify 1/4] Eleventy\" && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && echo \"[build:netlify 2/4] Sitemap checks\" && npm run sitemaps:check && echo \"[build:netlify 3/4] OAI validation (full)\" && npm run oai:validate:full && echo \"[build:netlify 4/4] Pagefind\" && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
+    "build:netlify:fast": "npm run nanoids:check && npm run sitemaps:generate && npm run standard:check && rm -rf _site && echo \"[build:netlify fast 1/4] Eleventy\" && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && echo \"[build:netlify fast 2/4] Sitemap checks\" && npm run sitemaps:check && echo \"[build:netlify fast 3/4] OAI validation (quick)\" && npm run oai:validate:quick && echo \"[build:netlify fast 4/4] Pagefind\" && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
     "postdeploy:indexnow": "npm run indexnow:submit",
     "clear": "rm -rf _site .cache",
     "build-nocolor": "cross-env NODE_DISABLE_COLORS=1 eleventy",
@@ -61,7 +64,7 @@
     "undici": "~7.28.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy": "4.0.0-alpha.8",
     "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",
@@ -79,6 +82,7 @@
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-table-of-contents": "^0.8.0",
+    "nanoid": "5.1.16",
     "pagefind": "^1.4.0"
   },
   "packageManager": "npm@11.14.0"

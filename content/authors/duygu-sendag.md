@@ -1,4 +1,5 @@
 ---
+nanoid: "dujnat"
 name: Duygu Sendag
 affiliation: "French Institute for Anatolian Studies"
 bio:

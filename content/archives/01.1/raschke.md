@@ -1,4 +1,6 @@
 ---
+nanoid: "vker-4"
+doi:
 title: "Theorizing Religion at the Turn of the Millennium: from the Sacred to the Semiotic"
 article_number: 01
 author: "Carl A. Raschke"

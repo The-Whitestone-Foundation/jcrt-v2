@@ -1,4 +1,6 @@
 ---
+nanoid: "xd3JLz"
+doi:
 title: "Weak Theology"
 author: "Jeffrey W Robbins"
 affilation:

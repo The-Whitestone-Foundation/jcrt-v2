@@ -1,4 +1,6 @@
 ---
+nanoid: "jRtxRZ"
+doi:
 title: "The Lesser Evil: Political Ethics in the Age of Terror"
 author: "Peyman Vahabzadeh"
 affilation:

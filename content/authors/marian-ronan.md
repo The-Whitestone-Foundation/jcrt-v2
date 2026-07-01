@@ -1,4 +1,5 @@
 ---
+nanoid: "Z_gDTP"
 name: Marian Ronan
 affiliation: "American Baptist Seminary of the West"
 bio:

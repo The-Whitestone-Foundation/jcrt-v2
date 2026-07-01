@@ -1,4 +1,6 @@
 ---
+nanoid: "4hVqH4"
+doi:
 title: "Exploring the Decolonial Imaginary: Four Transnational Lives."
 author: "Karen Bray"
 affilation:

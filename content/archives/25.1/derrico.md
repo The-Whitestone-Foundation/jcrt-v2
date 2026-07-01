@@ -1,4 +1,6 @@
 ---
+nanoid: "8aH278"
+doi:
 layout: archives.njk
 article_number: '01'
 volume: '25'

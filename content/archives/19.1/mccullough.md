@@ -1,4 +1,6 @@
 ---
+nanoid: "uT9gbR"
+doi:
 title: "Apocalypticism as Political Theology."
 author: "Lissa McCullough"
 affilation:

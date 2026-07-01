@@ -1,4 +1,6 @@
 ---
+nanoid: "Skr9J8"
+doi:
 title: 'God and History, Lecture 5 (Johannes Zachhuber)'
 description: "The following is the fifth lecture in an eight-lecture series. The most recent one can be found here. The existentialist approach you heard about last week"
 date: '2018-11-13T01:15:58.000Z'

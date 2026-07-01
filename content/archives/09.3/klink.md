@@ -1,4 +1,6 @@
 ---
+nanoid: "xJitKh"
+doi:
 title: "The Sleeping Giant Has Awoken: the New Politics of Religion in the United States"
 author: "Aaron Klink"
 affilation:

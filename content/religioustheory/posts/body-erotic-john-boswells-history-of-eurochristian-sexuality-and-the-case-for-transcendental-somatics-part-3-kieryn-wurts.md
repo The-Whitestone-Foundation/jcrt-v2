@@ -1,4 +1,6 @@
 ---
+nanoid: "9HOsDC"
+doi:
 title: >-
   Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case
   For Transcendental Somatics, Part 3 (Kieryn Wurts)

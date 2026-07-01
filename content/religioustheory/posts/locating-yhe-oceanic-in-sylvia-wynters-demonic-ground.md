@@ -1,4 +1,6 @@
 ---
+nanoid: "CapXxN"
+doi:
 title: >-
   Locating The Oceanic in Sylvia Wynter’s “Demonic Ground”, Part 1 (Justine M.
   Bakker)

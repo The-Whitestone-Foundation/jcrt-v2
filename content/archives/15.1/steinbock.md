@@ -1,4 +1,6 @@
 ---
+nanoid: "t6prql"
+doi:
 title: "Heidegger, Machination, and the Jewish Question: the Problem of the Gift."
 author: "Anthony J. Steinbock"
 affilation:

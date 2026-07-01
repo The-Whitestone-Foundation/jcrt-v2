@@ -1,4 +1,6 @@
 ---
+nanoid: "vL8Ulb"
+doi:
 title:
 author:
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "-c0gYS"
+doi:
 title: "The Return of Anti-Religion: from Radical Atheism to Radical Theology"
 author: "John D Caputo"
 affilation:

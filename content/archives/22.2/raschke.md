@@ -1,4 +1,6 @@
 ---
+nanoid: "kZbHR_"
+doi:
 title: "The Use and Abuse of the Expression “Christian Nationalism”"
 author: "Carl A. Raschke"
 affilation:

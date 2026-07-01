@@ -1,4 +1,6 @@
 ---
+nanoid: "bg2gvt"
+doi:
 title: "Indian Philosophers and Postmodern Thinkers"
 author: "Bryan S Rennie"
 affilation:

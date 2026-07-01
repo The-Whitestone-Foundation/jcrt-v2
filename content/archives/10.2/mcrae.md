@@ -1,4 +1,6 @@
 ---
+nanoid: "MoECC9"
+doi:
 title: "‘Tear US an Altar’: Erotic Violence and the Self-Unmade Prophet"
 author: "Shannon McRae"
 affilation:

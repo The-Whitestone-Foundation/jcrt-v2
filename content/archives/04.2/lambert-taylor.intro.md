@@ -1,4 +1,6 @@
 ---
+nanoid: "F6so2P"
+doi:
 title: "The Future of Theory"
 article_number:
 author: "Victor Taylor; Gregg Lambert"

@@ -1,4 +1,6 @@
 ---
+nanoid: "k0caXb"
+doi:
 title: "Religious Experience and the End of Metaphysics"
 author: "Luke Fodor"
 affilation:

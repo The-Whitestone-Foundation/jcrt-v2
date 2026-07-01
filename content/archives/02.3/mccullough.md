@@ -1,4 +1,6 @@
 ---
+nanoid: "LsShyG"
+doi:
 title: "Jean Baudrillard and the Death of God"
 article_number:
 author: "Lissa McCullough"

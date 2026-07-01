@@ -1,4 +1,6 @@
 ---
+nanoid: "NloI2W"
+doi:
 title: "Book Profile: Hand to Hand"
 author: "Forrest Clingerman"
 affilation:

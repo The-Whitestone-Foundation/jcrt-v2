@@ -1,4 +1,6 @@
 ---
+nanoid: "0-eX-2"
+doi:
 title: "Multitude: War and Democracy in the Age of Empire"
 author: "Jared Woodard"
 affilation:

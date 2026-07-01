@@ -1,4 +1,6 @@
 ---
+nanoid: "JDhNKe"
+doi:
 title: "The Christianization of Deconstruction"
 article_number:
 author: "William Egginton"

@@ -1,4 +1,6 @@
 ---
+nanoid: "EAeglE"
+doi:
 layout: archives.njk
 article_number: '06'
 volume: '25'

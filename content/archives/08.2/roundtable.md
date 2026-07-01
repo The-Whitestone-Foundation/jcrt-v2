@@ -1,4 +1,6 @@
 ---
+nanoid: "K7wNUS"
+doi:
 title: "A Roundtable on Globalization"
 author: "Gianni Vattimo; Charles Taylor; Richard Rorty"
 affilation:

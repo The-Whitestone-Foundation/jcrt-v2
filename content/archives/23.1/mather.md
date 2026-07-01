@@ -1,4 +1,6 @@
 ---
+nanoid: "7fr9Eq"
+doi:
 title: "Greening America’s Virtues"
 author: "Nicholas Mather"
 affilation:

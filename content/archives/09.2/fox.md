@@ -1,4 +1,6 @@
 ---
+nanoid: "KIryny"
+doi:
 title: "From Representation to Constituent Power: Religion, or Something Like It, in Hardt and Negri’s Empire"
 author: "Chris Fox"
 affilation:

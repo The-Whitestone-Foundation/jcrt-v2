@@ -1,4 +1,5 @@
 ---
+nanoid: "rcX-Bn"
 name: Robert E Alvis
 affiliation: ":Saint Meinrad School of Theology"
 bio:

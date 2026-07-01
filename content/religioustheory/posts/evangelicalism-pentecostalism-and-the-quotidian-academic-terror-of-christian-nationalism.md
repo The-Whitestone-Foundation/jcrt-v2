@@ -1,4 +1,6 @@
 ---
+nanoid: "IK9VuM"
+doi:
 title: >-
   Evangelicalism, Pentecostalism, And The Quotidian Academic Terror Of
   “Christian Nationalism”

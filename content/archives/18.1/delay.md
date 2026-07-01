@@ -1,4 +1,6 @@
 ---
+nanoid: "kp4Lx0"
+doi:
 title: "Plundering a Theory of Trauma - Confessions of a Novice Author on Lacan and Theology."
 author: "Tad Delay"
 affilation:

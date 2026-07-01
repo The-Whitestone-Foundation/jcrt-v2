@@ -1,4 +1,6 @@
 ---
+nanoid: "HSU1NL"
+doi:
 title: >-
   Review – Judith Butler And The Different “Senses” Of The Subject (Matthew
   Waggoner)

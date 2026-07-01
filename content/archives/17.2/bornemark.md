@@ -1,4 +1,6 @@
 ---
+nanoid: "AKkNXc"
+doi:
 title: "Phenomenology of Secular Society and Its Scientism."
 author: "Jonna Bornemark"
 affilation:

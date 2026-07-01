@@ -1,4 +1,6 @@
 ---
+nanoid: "eWAOy3"
+doi:
 title: "Above All Earthly Pow’rs, David F. Wells"
 author: "J Aaron Simmons"
 affilation:

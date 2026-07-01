@@ -1,4 +1,6 @@
 ---
+nanoid: "F3-Js5"
+doi:
 title: "Another Investigation of Postcolonial Failure"
 author: "Bhrigupati Singh"
 affilation:

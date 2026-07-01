@@ -1,4 +1,6 @@
 ---
+nanoid: "WWTsVd"
+doi:
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 2 (Joshua Hall)

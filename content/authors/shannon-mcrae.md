@@ -1,4 +1,5 @@
 ---
+nanoid: "ioz3DP"
 name: Shannon McRae
 affiliation: "SUNY, Fredonia"
 bio:

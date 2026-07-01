@@ -1,4 +1,6 @@
 ---
+nanoid: "hqLiUE"
+doi:
 title: "The Theology of Money"
 author: "Clayton Crockett"
 affilation:

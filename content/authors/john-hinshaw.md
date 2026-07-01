@@ -1,4 +1,5 @@
 ---
+nanoid: "kzsyuH"
 name: John Hinshaw
 affiliation: "Lebanon Valley College"
 bio:

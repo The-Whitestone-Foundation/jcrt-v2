@@ -1,4 +1,6 @@
 ---
+nanoid: "ikYesu"
+doi:
 title: "Judith Butler’s Senses of the Subject."
 author: "Matt Waggoner"
 affilation:

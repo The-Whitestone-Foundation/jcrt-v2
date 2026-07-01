@@ -1,4 +1,6 @@
 ---
+nanoid: "d2tyTe"
+doi:
 title: "Televised Morality: the Case of Buffy the Vampire Slayer"
 author: "Stephen Benko"
 affilation:

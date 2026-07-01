@@ -1,4 +1,6 @@
 ---
+nanoid: "QmFZGV"
+doi:
 title: "Transcription Notes"
 author: "Amy Evans"
 affilation:

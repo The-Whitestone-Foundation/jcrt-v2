@@ -1,4 +1,6 @@
 ---
+nanoid: "FC6mCm"
+doi:
 title: "Three Philosophical Filmmakers: Hitchcock, Welles, Renoir"
 author: "Donna Bowman"
 affilation:

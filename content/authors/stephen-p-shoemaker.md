@@ -1,4 +1,5 @@
 ---
+nanoid: "KnJASE"
 name: Stephen P Shoemaker
 affiliation: "Harvard University"
 bio:

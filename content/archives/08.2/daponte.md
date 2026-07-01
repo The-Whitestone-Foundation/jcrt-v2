@@ -1,4 +1,6 @@
 ---
+nanoid: "pg2A5A"
+doi:
 title: "September 11: Religious Perspectives on the Causes and Consequences"
 author: "Paul J DaPonte"
 affilation:

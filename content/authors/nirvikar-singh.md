@@ -1,4 +1,5 @@
 ---
+nanoid: "quMaqD"
 name: Nirvikar Singh
 affiliation: "University of California, Santa Cruz"
 bio:

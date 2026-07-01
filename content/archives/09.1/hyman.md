@@ -1,4 +1,6 @@
 ---
+nanoid: "2unQ0B"
+doi:
 title: "Augustine on the ‘Nihil’: an Interrogation"
 author: "Gavin Hyman"
 affilation:

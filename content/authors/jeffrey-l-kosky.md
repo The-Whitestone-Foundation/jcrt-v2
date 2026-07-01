@@ -1,4 +1,5 @@
 ---
+nanoid: "wye7eQ"
 name: Jeffrey L Kosky
 affiliation:
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "eO7nnD"
+doi:
 title: "Jesus Beyond Christ: Erri De Luca and The"
 author: "Elise Mon℡-Hurlin"
 affilation:

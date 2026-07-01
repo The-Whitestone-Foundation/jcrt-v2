@@ -1,4 +1,6 @@
 ---
+nanoid: "5oirw8"
+doi:
 title: "‘Reappearance of Paul, ’Sick”: Foucault’s Biopolitics and the Significance of Pasolini’s Apostle"
 author: "Ward Blanton"
 affilation:

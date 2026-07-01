@@ -1,4 +1,6 @@
 ---
+nanoid: "AX_ijy"
+doi:
 title: >-
   The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In
   Adjudicating Competing Ethical Claims, Part 2 (W. Travis McMaken)

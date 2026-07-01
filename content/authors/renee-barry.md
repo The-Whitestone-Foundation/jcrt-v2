@@ -1,4 +1,5 @@
 ---
+nanoid: "HOWbNa"
 name: Renée Barry
 affiliation: "Matilda Joslyn Gage Foundation"
 bio: |-

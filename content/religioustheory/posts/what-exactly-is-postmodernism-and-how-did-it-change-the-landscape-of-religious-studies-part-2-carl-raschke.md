@@ -1,4 +1,6 @@
 ---
+nanoid: "_U9PKj"
+doi:
 title: >-
   What Exactly Is Postmodernism, And How Did It Change The Landscape Of
   Religious Studies?, Part 2 (Carl Raschke)

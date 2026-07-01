@@ -1,4 +1,6 @@
 ---
+nanoid: "APZwKr"
+doi:
 title: "The God Who May Be: a Hermeneutics of Religion"
 author: "Curtis L Thompson"
 affilation:

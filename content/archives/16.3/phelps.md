@@ -1,4 +1,6 @@
 ---
+nanoid: "I97MhZ"
+doi:
 title: "Badiou and the Necessity of Fables: or, Theology as Fabulation."
 author: "Hollis Phelps"
 affilation:

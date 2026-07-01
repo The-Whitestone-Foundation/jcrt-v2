@@ -1,4 +1,6 @@
 ---
+nanoid: "z6mMuC"
+doi:
 title: Author Bios
 article_number: 00
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "ZYQe2b"
+doi:
 title: "Transcending Dimorphism: Afro-Cuban Ritual Praxis and the Rematerialization of the Body."
 author: "Xhercis MÉNdez"
 affilation:

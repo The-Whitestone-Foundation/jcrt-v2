@@ -1,4 +1,6 @@
 ---
+nanoid: "2Q01t3"
+doi:
 title: >-
   Critical Conversations – 2020 And The Catastrophe Of The Global Neoliberal
   Order (Announcement)

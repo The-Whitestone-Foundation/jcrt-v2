@@ -1,4 +1,5 @@
 ---
+nanoid: "hymJTP"
 name: Francis Sanzaro
 affiliation: "Syracuse University"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "J-3QaO"
+doi:
 title: >-
   Critical Conversations – A Conversation With Arthur Bradley On Sovereignty,
   Part 1

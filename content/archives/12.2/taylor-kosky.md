@@ -1,4 +1,6 @@
 ---
+nanoid: "tGcGQO"
+doi:
 title: "Recalling Our Vocation: a Conversation About Teaching with Mark C. Taylor."
 author: "Mark C. Taylor; Jeffrey Kosky"
 affilation:

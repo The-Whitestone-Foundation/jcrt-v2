@@ -1,4 +1,6 @@
 ---
+nanoid: "LLtKJn"
+doi:
 title: "The Parables of Dr. Seuss"
 author: "Michael J Gilmour"
 affilation:

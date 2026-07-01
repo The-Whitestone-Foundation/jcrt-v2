@@ -1,4 +1,6 @@
 ---
+nanoid: "TN5u0-"
+doi:
 title: "The Object and Affects of Envy and Emulation."
 author: "Michael R. Kelly"
 affilation:

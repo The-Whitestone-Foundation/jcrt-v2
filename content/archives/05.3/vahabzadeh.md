@@ -1,4 +1,6 @@
 ---
+nanoid: "qTvoEj"
+doi:
 title: "Broken Hegemonies"
 author: "Peyman Vahabzadeh"
 affilation:

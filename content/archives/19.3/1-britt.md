@@ -1,4 +1,6 @@
 ---
+nanoid: "IHpGt3"
+doi:
 title: "Benjamin’s Habits and the Study of Religion"
 author: "Brian Britt"
 affilation:

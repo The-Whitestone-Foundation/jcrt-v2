@@ -1,4 +1,6 @@
 ---
+nanoid: "P_PmsI"
+doi:
 title: "Traversing W.H. Auden’s Religious and Aesthetic States."
 author: "Raji Singh Soni"
 affilation:

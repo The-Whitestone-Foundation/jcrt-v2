@@ -1,4 +1,5 @@
 ---
+nanoid: "jXKS0t"
 name: Brigid Burke
 affiliation: "Montclair State University"
 bio:

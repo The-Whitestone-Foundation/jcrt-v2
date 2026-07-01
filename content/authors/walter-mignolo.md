@@ -1,4 +1,5 @@
 ---
+nanoid: "rsxk2X"
 name: Walter Mignolo
 affiliation:
 bio:

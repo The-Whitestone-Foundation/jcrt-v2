@@ -1,4 +1,6 @@
 ---
+nanoid: "DFsIO4"
+doi:
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 1 (Neal DeRoo)

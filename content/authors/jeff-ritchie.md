@@ -1,4 +1,5 @@
 ---
+nanoid: "_3ph6M"
 name: Jeff Ritchie
 affiliation: "Lebanon Valley College "
 bio:

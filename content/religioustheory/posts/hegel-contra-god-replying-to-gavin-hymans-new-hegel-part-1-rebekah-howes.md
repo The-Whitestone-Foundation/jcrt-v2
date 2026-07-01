@@ -1,4 +1,6 @@
 ---
+nanoid: "CumHrg"
+doi:
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 1 (Rebekah
   Howes)

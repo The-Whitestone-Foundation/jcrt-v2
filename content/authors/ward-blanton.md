@@ -1,4 +1,5 @@
 ---
+nanoid: "RGM1Q2"
 name: Ward Blanton
 affiliation: "University of Glasgow, Luther College"
 bio:

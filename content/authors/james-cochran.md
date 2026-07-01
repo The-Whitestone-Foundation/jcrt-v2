@@ -1,4 +1,5 @@
 ---
+nanoid: "kdl8Ox"
 name: James Cochran
 affiliation: ""
 bio:

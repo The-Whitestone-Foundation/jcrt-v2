@@ -1,4 +1,6 @@
 ---
+nanoid: "zsaF1W"
+doi:
 title: "An Extrinsic Eagleton?"
 author: "Roland Boer"
 affilation:

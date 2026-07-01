@@ -1,4 +1,6 @@
 ---
+nanoid: "b8j1kU"
+doi:
 title: The Cultural Un/life of Zombies
 author: Victor Taylor; Dennis M. Weiss
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "OCwyyg"
+doi:
 title: "#Subjectivities: #Blacklivesmatter, Affropessimism and Alain Badiou."
 author: "Ryne Beddard"
 affilation:

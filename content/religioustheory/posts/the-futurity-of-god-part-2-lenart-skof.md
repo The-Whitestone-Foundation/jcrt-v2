@@ -1,4 +1,6 @@
 ---
+nanoid: "W0z237"
+doi:
 title: 'The Futurity Of God, Part 2 (Lenart Škof)'
 description: "The following is the second of a two-part series. The first can be found here. In a chapter titled “The Magic of Being Mormon”, Stephen H It highlights"
 date: '2021-12-16T00:18:53.000Z'

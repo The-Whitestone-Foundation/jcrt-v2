@@ -1,4 +1,6 @@
 ---
+nanoid: "JMjcwG"
+doi:
 title: "A Preface to the Genealogy of Neoliberalism."
 author: "Carl A. Raschke"
 affilation:

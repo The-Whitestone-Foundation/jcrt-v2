@@ -1,4 +1,6 @@
 ---
+nanoid: "EbjxZH"
+doi:
 title: "Of Flesh and Spirit: Race, Reproduction, and Sexual Difference in the Turn to Paul."
 author: "Amaryah Armstrong"
 affilation:

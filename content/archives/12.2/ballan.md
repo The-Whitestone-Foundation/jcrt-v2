@@ -1,4 +1,6 @@
 ---
+nanoid: "iwtdre"
+doi:
 title: "The Intelligence of the Book: the Religious Studies Classroom as Translation Workshop."
 author: "Joseph Ballan"
 affilation:

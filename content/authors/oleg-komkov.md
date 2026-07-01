@@ -1,4 +1,5 @@
 ---
+nanoid: "epuXb4"
 name: Oleg Komkov
 affiliation: "Moscow State University"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "xIPFI-"
+doi:
 title: "Lars Von Trier: the Impossibility of the Good as a Work."
 author: "Tyler Tritten"
 affilation:

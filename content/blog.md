@@ -1,4 +1,5 @@
 ---
+nanoid: "NR_t0W"
 layout: blog.njk
 title: Blogs
 description: Update blog articles

@@ -1,4 +1,6 @@
 ---
+nanoid: "6JBG7v"
+doi:
 title: "Benjamin: To the Rhythm of Theological Concepts"
 author: "Nitzan Lebovic"
 affilation:

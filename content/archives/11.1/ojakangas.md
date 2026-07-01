@@ -1,4 +1,6 @@
 ---
+nanoid: "YwbcKv"
+doi:
 title: "On the Pauline Roots of Biopolitics: Apostle Paul in Company with Foucault and Agamben"
 author: "Mika Ojakangas"
 affilation:

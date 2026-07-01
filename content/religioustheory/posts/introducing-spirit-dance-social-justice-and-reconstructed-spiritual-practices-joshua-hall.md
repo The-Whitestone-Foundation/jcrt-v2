@@ -1,4 +1,6 @@
 ---
+nanoid: "SXb1D9"
+doi:
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 1 (Joshua Hall)

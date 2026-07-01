@@ -1,4 +1,5 @@
 ---
+nanoid: "yzmYe1"
 name: James V. Spickard
 affiliation: "University of Redlands"
 bio:

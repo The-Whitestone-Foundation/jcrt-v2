@@ -1,4 +1,6 @@
 ---
+nanoid: "upcnyU"
+doi:
 title: "Reconsidering the Significance of Biogenetic Ties"
 author: "Karey Harwood"
 affilation:

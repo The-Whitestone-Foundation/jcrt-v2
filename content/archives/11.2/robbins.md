@@ -1,4 +1,6 @@
 ---
+nanoid: "LXB9uT"
+doi:
 title: "Operation Neptune Spear"
 author: "Jeffrey W Robbins"
 affilation:

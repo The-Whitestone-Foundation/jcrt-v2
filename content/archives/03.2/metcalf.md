@@ -1,4 +1,6 @@
 ---
+nanoid: "6B1S-C"
+doi:
 title: "The Word of Freud: Our God Is Logos"
 article_number:
 author: "Robert Metcalf"

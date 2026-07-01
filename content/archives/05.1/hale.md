@@ -1,4 +1,6 @@
 ---
+nanoid: "-fgz_E"
+doi:
 title: "Writing: the Transgression of Religion"
 author: "David Hale"
 affilation:

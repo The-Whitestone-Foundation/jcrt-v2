@@ -1,4 +1,6 @@
 ---
+nanoid: "plYDeU"
+doi:
 title: >-
   The Fracturing Of World Order – A Series of International and
   Interdisciplinary Online Mini-Conferences, Call For Papers And Presentations

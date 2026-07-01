@@ -1,4 +1,6 @@
 ---
+nanoid: "98i6_k"
+doi:
 title: "Keller, Response to Caputo and Muraca Cosmopoetic Entanglements."
 author: "Catherine Keller"
 affilation:

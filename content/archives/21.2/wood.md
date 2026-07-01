@@ -1,4 +1,6 @@
 ---
+nanoid: "Bx3r8s"
+doi:
 title: "From Colonialism to an-Other Community: Reflections on the Radical Thought of Charles H. Long."
 author: "Mark Wood"
 affilation:

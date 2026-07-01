@@ -1,4 +1,6 @@
 ---
+nanoid: "vPK2fo"
+doi:
 title: 'God As Person and Trinity, Lecture 7 (Johannes Zachhuber)'
 description: "The following is the seventh lecture in an eight-lecture series. The most recent one can be found here. The possibility that God is person has often been"
 date: '2019-04-10T10:23:29.000Z'

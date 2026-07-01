@@ -1,4 +1,6 @@
 ---
+nanoid: "A5zdcO"
+doi:
 title: >-
   Thinking About God In A Pluralistic World – The Challenge of Modern Theology,
   Lecture 1 (Johannes Zachhuber)

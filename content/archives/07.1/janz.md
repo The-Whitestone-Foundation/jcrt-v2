@@ -1,4 +1,6 @@
 ---
+nanoid: "m7BKxa"
+doi:
 title: "Bodies: the Exhibition"
 author: "Bruce Janz"
 affilation:

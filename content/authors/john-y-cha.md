@@ -1,4 +1,5 @@
 ---
+nanoid: "-Hz5lv"
 name: John Y Cha
 affiliation: "Gustavus Adolphus College"
 bio:

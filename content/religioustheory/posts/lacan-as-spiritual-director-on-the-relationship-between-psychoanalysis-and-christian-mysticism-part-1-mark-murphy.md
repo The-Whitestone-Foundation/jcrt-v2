@@ -1,4 +1,6 @@
 ---
+nanoid: "MZmgPo"
+doi:
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 1  (Mark Murphy)

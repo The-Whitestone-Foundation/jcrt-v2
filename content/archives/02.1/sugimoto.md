@@ -1,4 +1,6 @@
 ---
+nanoid: "2D7cN-"
+doi:
 title: "The Scandal of the Evangelical Mind"
 article_number:
 author: "Michael Tadashi Sugimoto"

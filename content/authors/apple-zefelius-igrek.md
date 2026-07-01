@@ -1,4 +1,5 @@
 ---
+nanoid: "m1ou46"
 name: Apple Zefelius Igrek
 affiliation: "Seattle University ,Vanderbilt University"
 bio:

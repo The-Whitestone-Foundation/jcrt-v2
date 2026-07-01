@@ -1,4 +1,6 @@
 ---
+nanoid: "6559cW"
+doi:
 title: "The Anthropologic Eye: H.D.‘S Call for a New Poetics"
 author: "Lisa Simon"
 affilation:

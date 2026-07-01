@@ -1,4 +1,6 @@
 ---
+nanoid: "--HFC4"
+doi:
 title: "Parenthesis"
 author: "Niall Gildea"
 affilation:

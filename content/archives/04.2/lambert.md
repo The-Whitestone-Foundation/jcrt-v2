@@ -1,4 +1,6 @@
 ---
+nanoid: "6hGyNR"
+doi:
 title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s Gilles Deleuze and the Ruin of Representation)"
 article_number:
 author: "Gregg Lambert"

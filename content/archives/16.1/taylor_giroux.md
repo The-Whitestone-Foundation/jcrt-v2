@@ -1,4 +1,6 @@
 ---
+nanoid: "f_zhdj"
+doi:
 title: "An Interview with Henry Giroux"
 author: "VICTOR TAYLOR; Henry Giroux"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "U6KRNp"
+doi:
 title: "Apotheosis of the Nothing in Altizer’s Kenotic Atheology."
 author: "Elliot R. Wolfson"
 affilation:

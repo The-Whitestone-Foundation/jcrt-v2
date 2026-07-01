@@ -1,4 +1,5 @@
 ---
+nanoid: "YNKKGQ"
 name: Nikolay Karkov
 affiliation:
 bio:

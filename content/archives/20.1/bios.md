@@ -1,4 +1,6 @@
 ---
+nanoid: "7hRvgj"
+doi:
 author: editors
 title: Author Bios
 affilation:

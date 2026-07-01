@@ -1,4 +1,6 @@
 ---
+nanoid: "95GXHB"
+doi:
 title: >-
   Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and Andrew
   Feenberg on Lukács’ Theory of Reification (Konstantinos Kavoulakos)

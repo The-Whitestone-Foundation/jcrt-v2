@@ -1,4 +1,6 @@
 ---
+nanoid: "AVFuUg"
+doi:
 title: "Unfinished Business: a Response to the Symposium ‘the Merchant of Venice and Contemporary Theory’"
 author: "Aaron Kunin"
 affilation:

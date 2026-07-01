@@ -1,4 +1,6 @@
 ---
+nanoid: "IZ8A0e"
+doi:
 title: "The Death of God: an Investigation into the History of the Western Concept of God"
 author: "Santiago Zabala"
 affilation:

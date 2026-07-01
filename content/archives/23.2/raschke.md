@@ -1,4 +1,6 @@
 ---
+nanoid: "2x-OM7"
+doi:
 title: "Saying “You”: the Grammar of Address and the Limitations of Cognitive Theories of Religion"
 author: "Carl A. Raschke"
 affilation:

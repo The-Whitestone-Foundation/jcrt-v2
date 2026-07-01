@@ -1,4 +1,6 @@
 ---
+nanoid: "TdE2v8"
+doi:
 title: "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot"
 article_number: 02
 author: "Lars Iyer"

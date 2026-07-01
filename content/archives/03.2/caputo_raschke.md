@@ -1,4 +1,6 @@
 ---
+nanoid: "HOIpb-"
+doi:
 title: "Loosening Philosophy’s Tongue: a Conversation with Jack Caputo"
 article_number:
 author: "John D Caputo; Carl A. Raschke"

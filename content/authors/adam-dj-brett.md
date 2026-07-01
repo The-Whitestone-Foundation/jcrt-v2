@@ -1,4 +1,5 @@
 ---
+nanoid: "TvfCxP"
 name: Adam DJ Brett
 affiliation: American Indian Law Alliance, Syracuse University
 bio: Adam D. J. Brett is Visiting Professor for Digital Humanities and

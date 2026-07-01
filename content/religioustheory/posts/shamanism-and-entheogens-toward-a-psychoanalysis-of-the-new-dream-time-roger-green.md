@@ -1,4 +1,6 @@
 ---
+nanoid: "MUzz-s"
+doi:
 title: >-
   Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time”
   (Roger Green)

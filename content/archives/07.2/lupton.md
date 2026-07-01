@@ -1,4 +1,6 @@
 ---
+nanoid: "wadM3E"
+doi:
 title: "Hannah Arendt’s Renaissance: Remarks on Natality"
 author: "Julia Reinhard Lupton"
 affilation:

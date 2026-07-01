@@ -1,4 +1,6 @@
 ---
+nanoid: "4denOy"
+doi:
 title: "Nihilism on a Rollercoaster?"
 author: "Ian McPherson"
 affilation:

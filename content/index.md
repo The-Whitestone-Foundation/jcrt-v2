@@ -1,4 +1,5 @@
 ---
+nanoid: "q6LkMq"
 layout: home.njk
 title: JCRT
 description: Journal for Cultural and Religious Theory

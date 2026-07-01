@@ -1,4 +1,6 @@
 ---
+nanoid: "0VNgSf"
+doi:
 title: "Embodied Restoration: the Cultivation of Quality of Life and Death"
 author: "Stella Indira Auer"
 affilation:

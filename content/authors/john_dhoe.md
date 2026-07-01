@@ -1,4 +1,5 @@
 ---
+nanoid: "n_ZBfG"
 title: John Doe
 name: John Doe
 description: "Professor of Political Science"

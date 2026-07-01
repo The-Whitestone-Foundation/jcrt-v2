@@ -1,4 +1,6 @@
 ---
+nanoid: "VyYe5v"
+doi:
 title: >-
   The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic
   Healings, Part 2 (Anna Magnasco)

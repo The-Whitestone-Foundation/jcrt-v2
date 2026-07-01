@@ -1,4 +1,5 @@
 ---
+nanoid: "CH79tF"
 name: Michael Hardt
 affiliation: "Duke University"
 bio:

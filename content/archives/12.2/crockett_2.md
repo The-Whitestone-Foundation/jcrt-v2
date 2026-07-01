@@ -1,4 +1,6 @@
 ---
+nanoid: "g6aPJH"
+doi:
 title: "Pedagogy and Radical Equality: RanciÈRe’s Ignorant Schoolmaster"
 author: "Clayton Crockett"
 affilation:

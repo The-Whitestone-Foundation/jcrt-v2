@@ -1,4 +1,6 @@
 ---
+nanoid: "oWVe8j"
+doi:
 title: "Divine Absence as Divine Presence."
 author: "Joshua Giardino"
 affilation:

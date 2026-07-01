@@ -1,4 +1,6 @@
 ---
+nanoid: "lbCK2n"
+doi:
 title: "God in the Gallery: a Christian Embrace of Modern Art"
 author: "Francis Sanzaro"
 affilation:

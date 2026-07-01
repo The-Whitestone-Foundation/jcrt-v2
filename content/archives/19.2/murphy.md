@@ -1,4 +1,6 @@
 ---
+nanoid: "7a3NPB"
+doi:
 title: "Lacan and Pneumatology."
 author: "Mark Murphy"
 affilation:

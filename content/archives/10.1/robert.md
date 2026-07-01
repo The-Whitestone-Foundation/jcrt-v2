@@ -1,4 +1,6 @@
 ---
+nanoid: "Ec_s2Y"
+doi:
 title: "Human, Life, and Other Sacred Stuff"
 author: "William Robert"
 affilation:

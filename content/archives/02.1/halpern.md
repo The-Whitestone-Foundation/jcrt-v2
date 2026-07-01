@@ -1,4 +1,6 @@
 ---
+nanoid: "6Lx93L"
+doi:
 title: "Creation: Lacan in Kansas"
 article_number:
 author: "Richard Halpern"

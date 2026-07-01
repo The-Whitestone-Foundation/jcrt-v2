@@ -1,4 +1,6 @@
 ---
+nanoid: "uWAqux"
+doi:
 title: "God and Argument."
 author: "Scott F. Aikin"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "D4PmOD"
+doi:
 title: >-
   Review – Altered States: Buddhism and Psychedelic Spirituality in America
   (Roger Green)

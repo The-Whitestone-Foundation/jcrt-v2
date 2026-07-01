@@ -1,4 +1,6 @@
 ---
+nanoid: "mBFrD8"
+doi:
 title: "Ancestral Devotion, New England Conservation, and the Challenge of Environmental Justice"
 author: "Daniel Mckanan"
 affilation:

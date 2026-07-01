@@ -1,4 +1,6 @@
 ---
+nanoid: "lEFznf"
+doi:
 title: >-
   The Vertical Form – The Iconological Dimension in 20th Century Russian
   Religious Aesthetics and Literary Criticism, Part II (Oleg Komkov)

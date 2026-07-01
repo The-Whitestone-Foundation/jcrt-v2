@@ -1,4 +1,6 @@
 ---
+nanoid: "anaCjC"
+doi:
 title: "Darkness over the Deep: Levinas and the Evil of Being."
 author: "Nicolas de Warren"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "vkNLfC"
+doi:
 title: >-
   The Legacy Of Charles H. Long – Resisting and Short-Circuiting the Discourses
   Of Exclusion In The Theory And Practice Of Administration (Victor E. Taylor)

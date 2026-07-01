@@ -1,4 +1,6 @@
 ---
+nanoid: "mz05HB"
+doi:
 title: "Metaphysical Protestantism: a Comparative Literary Ecology"
 author: "Zane Johnson"
 affilation:

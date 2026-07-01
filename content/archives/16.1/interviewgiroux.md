@@ -1,4 +1,6 @@
 ---
+nanoid: "OHjUqu"
+doi:
 title: "An Interview with Henry Giroux"
 author: "Victor Taylor"
 affilation:

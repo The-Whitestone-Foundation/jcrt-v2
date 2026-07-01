@@ -1,4 +1,6 @@
 ---
+nanoid: "WvcTS1"
+doi:
 title: "Negative Responsibility."
 author: "Marcia SÁ Cavalcante Schuback"
 affilation:

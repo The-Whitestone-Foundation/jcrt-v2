@@ -1,4 +1,6 @@
 ---
+nanoid: "HW-ecQ"
+doi:
 title: "The Secular to Come: Interrogating the Derridean ‘Secular’"
 author: "Mark Cauchi"
 affilation:

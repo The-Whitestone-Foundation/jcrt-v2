@@ -1,4 +1,5 @@
 ---
+nanoid: "yyGyh_"
 name: Charles Nuckolls
 affiliation: "Brigham Young University"
 bio:

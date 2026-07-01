@@ -1,4 +1,5 @@
 ---
+nanoid: "9LKPIj"
 name: Neal Magee
 affiliation: "Le Moyne College, Syracuse University"
 bio:

@@ -1,4 +1,5 @@
 ---
+nanoid: "tsmtx1"
 name: Eric Bain-Selbo
 affiliation: "Western Kentucky University, Lebanon Valley College"
 bio:

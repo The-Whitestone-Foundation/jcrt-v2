@@ -1,4 +1,6 @@
 ---
+nanoid: "PYSqbx"
+doi:
 title: "Radical Multiculturalism and Women of Color Feminisms."
 author: "Maria Lugones"
 affilation:

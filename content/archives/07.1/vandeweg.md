@@ -1,4 +1,6 @@
 ---
+nanoid: "MvXw5o"
+doi:
 title: "Confidence Games: Money and Markets in a World without Redemption"
 author: "R M Van de Weg"
 affilation:

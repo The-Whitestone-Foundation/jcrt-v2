@@ -1,4 +1,6 @@
 ---
+nanoid: "piz2Oy"
+doi:
 title: "Kinkade, Koons, Kitsch"
 author: "Paul Maltby"
 affilation:

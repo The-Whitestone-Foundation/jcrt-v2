@@ -1,4 +1,6 @@
 ---
+nanoid: "lE2FUI"
+doi:
 title: >-
   Religious Studies – The Final Colonization Of American Indians, Part 2 (Tink
   Tinker, wazhazhe udsethe)

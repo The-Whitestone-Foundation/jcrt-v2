@@ -1,4 +1,6 @@
 ---
+nanoid: "1nSHS6"
+doi:
 title: "Reorientation in the Field: Why Religion Matters."
 author: "Wendy Felese"
 affilation:

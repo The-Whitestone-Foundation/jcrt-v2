@@ -1,4 +1,6 @@
 ---
+nanoid: "fUWpYv"
+doi:
 title: >-
   Conference on Populism, Nationalism, and the Future of Democracy – Call for
   Papers and Presentations (Conferences)

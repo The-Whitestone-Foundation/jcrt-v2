@@ -1,4 +1,5 @@
 ---
+nanoid: "9oRAh8"
 name: Adam Katz
 affiliation: "Quinnipiac University"
 bio:

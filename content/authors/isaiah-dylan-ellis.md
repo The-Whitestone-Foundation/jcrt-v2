@@ -1,4 +1,5 @@
 ---
+nanoid: "6--hf0"
 name: Isaiah Dylan Ellis
 affiliation: ""
 bio:

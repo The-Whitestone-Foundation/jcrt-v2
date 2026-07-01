@@ -1,4 +1,6 @@
 ---
+nanoid: "jEBCxV"
+doi:
 title: >-
   Healing As A Multimedia Practice – Contemporary Spirituality In Turkey, Part 1
   (Duygu Sendag)

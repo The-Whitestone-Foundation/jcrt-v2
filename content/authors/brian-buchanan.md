@@ -1,4 +1,5 @@
 ---
+nanoid: "EUZbbu"
 name: Brian Buchanan
 affiliation: "DePaul University "
 bio:

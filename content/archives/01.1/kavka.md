@@ -1,4 +1,6 @@
 ---
+nanoid: "vxdU4I"
+doi:
 title: "The Prayers and Tears of Jacques Derrida: Religion without Religion"
 article_number: 07
 author: "Martin Kavka"

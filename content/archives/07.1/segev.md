@@ -1,4 +1,6 @@
 ---
+nanoid: "7wH7m8"
+doi:
 title: "Thought and Belief: the Attempt at Speculative Seeing in Hegel"
 author: "Alon Segev"
 affilation:

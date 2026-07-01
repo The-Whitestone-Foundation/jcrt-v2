@@ -1,4 +1,5 @@
 ---
+nanoid: "Qx7eXf"
 name: George Quasha
 affiliation: "Barrytown, New York"
 bio:

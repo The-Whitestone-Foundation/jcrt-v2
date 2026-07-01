@@ -1,4 +1,6 @@
 ---
+nanoid: "ZOWHLQ"
+doi:
 layout: archives.njk
 article_number: '15'
 volume: '24'

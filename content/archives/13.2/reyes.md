@@ -1,4 +1,6 @@
 ---
+nanoid: "0z4dW2"
+doi:
 title: "Beyond the Metaphor: Gay Zombies and the Challenge to Homonormativity."
 author: "Xavier Aldana Reyes"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "qSjGFC"
+doi:
 title: "A/Theologies of the Impossible: Antigone, Weil, Badiou and the Strange."
 author: "Benjamin P. Davis"
 affilation:

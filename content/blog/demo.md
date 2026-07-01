@@ -1,4 +1,6 @@
 ---
+nanoid: "1oGzyx"
+doi:
 title: Title
 description: ""
 date: 2018-07-04 #YYY-MM-DD

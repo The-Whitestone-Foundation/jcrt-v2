@@ -1,4 +1,5 @@
 ---
+nanoid: "ZWb77A"
 name: Vivek Swaroop Sharma
 affiliation: "Pomona College"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "PfVORQ"
+doi:
 title: "For Love of the Things Themselves: Derrida’s Hyper-Realism"
 article_number:
 author: "John D Caputo"

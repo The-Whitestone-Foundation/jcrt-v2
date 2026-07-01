@@ -1,4 +1,6 @@
 ---
+nanoid: "w5-fIy"
+doi:
 title: "Deleuze and New Technology"
 author: "Michael J Ardoline"
 affilation:

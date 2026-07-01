@@ -1,4 +1,6 @@
 ---
+nanoid: "OaeXCC"
+doi:
 title: >-
   Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars
   (Announcement)

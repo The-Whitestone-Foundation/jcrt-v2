@@ -1,4 +1,6 @@
 ---
+nanoid: "fdkEcv"
+doi:
 title: "Horror Fiction and Catholic Theology - a Rhetorical Synthesis."
 author: "Gavin Hurley"
 affilation:

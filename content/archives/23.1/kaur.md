@@ -1,4 +1,6 @@
 ---
+nanoid: "3rBZGP"
+doi:
 title: "Sikh Environmental Ethics: Theory and Praxis"
 author: "Harpreet Kaur"
 affilation:

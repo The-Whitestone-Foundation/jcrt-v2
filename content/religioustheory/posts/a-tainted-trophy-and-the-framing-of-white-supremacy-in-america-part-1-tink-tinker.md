@@ -1,4 +1,6 @@
 ---
+nanoid: "5pvnAQ"
+doi:
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 1 (Tink
   Tinker)

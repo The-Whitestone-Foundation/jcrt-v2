@@ -1,4 +1,5 @@
 ---
+nanoid: "jOzlad"
 name: Michael Fagenblat
 affiliation: "Shalem College"
 bio:

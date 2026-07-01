@@ -1,4 +1,6 @@
 ---
+nanoid: "Enoh-P"
+doi:
 title: "The Dangers of Dealing with Derrida: Revisiting the Caputo-HÄGglund Debate on The"
 author: "Neal Deroo"
 affilation:

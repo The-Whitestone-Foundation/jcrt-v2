@@ -1,4 +1,6 @@
 ---
+nanoid: "lfk69H"
+doi:
 title: "Binding Freedom: Embodiment of the Secular and Religious"
 author: "Kevin Hujing"
 affilation:

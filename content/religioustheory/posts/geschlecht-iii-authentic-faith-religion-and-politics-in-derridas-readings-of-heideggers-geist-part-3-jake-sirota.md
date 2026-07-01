@@ -1,4 +1,6 @@
 ---
+nanoid: "Ocp5u1"
+doi:
 title: >-
   Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings
   Of Heidegger’s “Geist”, Part 3 (Jake Sirota)

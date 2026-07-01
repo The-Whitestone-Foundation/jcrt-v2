@@ -1,4 +1,6 @@
 ---
+nanoid: "IjwjG0"
+doi:
 title: >-
   Untimely Meditations on Techno-Theology and Theo-Poetics, Part 2 (John
   Panteleimon Manoussakis)

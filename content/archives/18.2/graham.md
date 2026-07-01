@@ -1,4 +1,6 @@
 ---
+nanoid: "QsZYV6"
+doi:
 title: "Prayer After the Death of God."
 author: "Ashley Graham"
 affilation:

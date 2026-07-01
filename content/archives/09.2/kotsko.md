@@ -1,4 +1,6 @@
 ---
+nanoid: "_Qgd7I"
+doi:
 title: "Politics and Perversion: Situating ŽIŽEk’s Paul"
 author: "Adam Kotsko"
 affilation:

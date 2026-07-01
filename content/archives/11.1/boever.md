@@ -1,4 +1,6 @@
 ---
+nanoid: "Qt4KT5"
+doi:
 title: "Bio-Paulitics"
 author: "Arne De Boever"
 affilation:

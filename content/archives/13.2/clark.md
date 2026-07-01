@@ -1,4 +1,6 @@
 ---
+nanoid: "DuA9hF"
+doi:
 title: "Doing the Zombie Glitch; Haptic Undeadliness as a Political Theory."
 author: "Simon Clark"
 affilation:

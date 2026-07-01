@@ -1,4 +1,6 @@
 ---
+nanoid: "qlV-9R"
+doi:
 title: "Redeeming the Icons"
 author: "Timothy (Timothy W) Stanley"
 affilation:

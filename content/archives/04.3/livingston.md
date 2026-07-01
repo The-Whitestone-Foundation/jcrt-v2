@@ -1,4 +1,6 @@
 ---
+nanoid: "R1IAlh"
+doi:
 title: "Religious Pluralism and the Question of Religious Truth in Wilfred C. Smith"
 author: "James C. (James Craig) Livingston"
 affilation:

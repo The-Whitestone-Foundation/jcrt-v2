@@ -1,4 +1,6 @@
 ---
+nanoid: "5fIqFY"
+doi:
 title: "Theodor Adorno and the Unhopeless Work of the Negative."
 author: "Joseph Winters"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "S6oydM"
+doi:
 title: "Para/Theology: the Study of Religion and the Science of the Negative"
 article_number:
 author: "Carl A. Raschke"

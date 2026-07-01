@@ -1,4 +1,5 @@
 ---
+nanoid: "RSc0Nx"
 name: Ryne Beddard
 affiliation: "University of North Carolina Chapel Hill, University of Denver"
 bio:

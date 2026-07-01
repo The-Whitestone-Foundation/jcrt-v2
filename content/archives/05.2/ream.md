@@ -1,4 +1,6 @@
 ---
+nanoid: "NZ2GPj"
+doi:
 title: "Augustine and Modernity"
 author: "Todd Ream"
 affilation:

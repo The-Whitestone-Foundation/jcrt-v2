@@ -1,4 +1,5 @@
 ---
+nanoid: "-CldQZ"
 name: B C Knowlton
 affiliation: "Assumption College "
 bio:

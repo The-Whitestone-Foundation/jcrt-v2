@@ -1,4 +1,5 @@
 ---
+nanoid: "iSXDPK"
 name: Bradley Onishi
 affiliation: "Skidmore College"
 

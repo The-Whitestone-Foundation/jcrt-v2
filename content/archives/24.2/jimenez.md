@@ -1,4 +1,6 @@
 ---
+nanoid: "s4pxGY"
+doi:
 layout: archives.njk
 article_number: '18'
 volume: '24'

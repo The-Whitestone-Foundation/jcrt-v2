@@ -1,4 +1,6 @@
 ---
+nanoid: "N71HAw"
+doi:
 title: "Benjamin’s Concept of History as a Source of Arendt’s Idea of Judgment."
 author: "Ronald Beiner"
 affilation:

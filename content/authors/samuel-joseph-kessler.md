@@ -1,4 +1,5 @@
 ---
+nanoid: "ociNnh"
 name: Samuel Joseph Kessler
 affiliation:
 bio:

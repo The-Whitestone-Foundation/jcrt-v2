@@ -1,4 +1,5 @@
 ---
+nanoid: "wBZh6y"
 name: Daniel Boscaljon
 affiliation: ""
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "VNx8BR"
+doi:
 title: 'The Hollow Christians Of End Times Fiction, Part 3 (Paul Maltby)'
 description: "The following is the third of a three-part series. The first can be found here, the second here. End Times fiction must be distinguished from other literary"
 date: '2020-03-03T04:32:12.000Z'

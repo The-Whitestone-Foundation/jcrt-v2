@@ -1,4 +1,6 @@
 ---
+nanoid: "2ME6Nm"
+doi:
 title: >-
   “Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious
   Virtues, Part 2 (A.G. Holdier)

@@ -1,4 +1,6 @@
 ---
+nanoid: "LKa70a"
+doi:
 title: "Claude Lefort and the Illegitimacy of Modernity"
 author: "Daniel Steinmetz-Jenkins"
 affilation:

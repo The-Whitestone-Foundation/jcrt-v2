@@ -1,4 +1,5 @@
 ---
+nanoid: "0XaZba"
 name: Jared Lacey
 affiliation: "University of Denver"
 bio:

@@ -1,4 +1,6 @@
 ---
+nanoid: "yfRWFa"
+doi:
 title: "What Gives? Force, Gift, and the Ongoing"
 author: "Carl A. Raschke"
 affilation:

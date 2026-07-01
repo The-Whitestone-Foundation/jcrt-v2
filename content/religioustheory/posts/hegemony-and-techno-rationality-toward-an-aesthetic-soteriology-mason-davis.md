@@ -1,4 +1,6 @@
 ---
+nanoid: "Z1yCQ4"
+doi:
 title: >-
   Hegemony And Techno-Rationality – Toward An Aesthetic Soteriology (Mason
   Davis)

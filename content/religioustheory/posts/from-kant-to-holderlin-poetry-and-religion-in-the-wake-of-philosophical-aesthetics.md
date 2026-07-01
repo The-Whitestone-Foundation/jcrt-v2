@@ -1,4 +1,6 @@
 ---
+nanoid: "j_VtKQ"
+doi:
 title: >-
   From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical
   Aesthetics, Part 1 (Jakob Deibl)

@@ -1,4 +1,6 @@
 ---
+nanoid: "dlSK6S"
+doi:
 title: "The Cultural UN/Life of Zombies."
 author: "DENNIS M. WEISS; Victor Taylor"
 affilation:

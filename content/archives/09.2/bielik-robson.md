@@ -1,4 +1,6 @@
 ---
+nanoid: "pBBlVl"
+doi:
 title: "The Traps of the Sublime"
 author: "Agata Bielik-Robson"
 affilation:

@@ -1,4 +1,6 @@
 ---
+nanoid: "meLG6l"
+doi:
 title: >-
   Review – New Trends In The Theory And Methods For Studying Religion (David
   Kim)

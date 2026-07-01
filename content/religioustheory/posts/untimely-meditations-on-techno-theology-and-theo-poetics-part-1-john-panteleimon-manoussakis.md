@@ -1,4 +1,6 @@
 ---
+nanoid: "Izzi_E"
+doi:
 title: >-
   Untimely Meditations on Techno-Theology and Theo-Poetics, Part 1 (John
   Panteleimon Manoussakis)

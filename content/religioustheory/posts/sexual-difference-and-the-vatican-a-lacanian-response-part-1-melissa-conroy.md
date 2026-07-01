@@ -1,4 +1,6 @@
 ---
+nanoid: "kxK27E"
+doi:
 title: >-
   Sexual Difference And The Vatican – A Lacanian Response, Part 1 (Melissa
   Conroy)

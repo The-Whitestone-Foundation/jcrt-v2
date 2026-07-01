@@ -1,4 +1,6 @@
 ---
+nanoid: "8Ilueg"
+doi:
 title: "Body and Soul: a Sympathetic History of American Spiritualism"
 author: "Aaron Urbanczyk"
 affilation:

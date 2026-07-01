@@ -1,4 +1,6 @@
 ---
+nanoid: "7H6vzi"
+doi:
 title: "The Politics of Paul"
 author: "Jeffrey W Robbins"
 affilation:

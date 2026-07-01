@@ -1,4 +1,6 @@
 ---
+nanoid: "nLLOjr"
+doi:
 title: "Graffiti Theology: Criteria and an Agenda"
 author: "Thomas M Dicken"
 affilation:

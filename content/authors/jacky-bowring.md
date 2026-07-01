@@ -1,4 +1,5 @@
 ---
+nanoid: "rmmufi"
 name: Jacky Bowring
 affiliation: "Lincoln University"
 bio:

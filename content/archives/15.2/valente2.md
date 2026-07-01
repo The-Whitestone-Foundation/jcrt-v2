@@ -1,4 +1,6 @@
 ---
+nanoid: "d4vJDO"
+doi:
 title: "There’s a Girl Inside."
 author: "Joseph Valente"
 affilation:

@@ -1,4 +1,5 @@
 ---
+nanoid: "xg9mno"
 name: Dragos Stoica
 affiliation:
 bio:

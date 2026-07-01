@@ -1,4 +1,6 @@
 ---
+nanoid: "eVTiUu"
+doi:
 title: "God, the Gift, and Postmodernism"
 article_number:
 author: "Jeffrey W Robbins"

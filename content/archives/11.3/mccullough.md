@@ -1,4 +1,6 @@
 ---
+nanoid: "YyS0mZ"
+doi:
 title: "Strange Animal"
 author: "Lissa McCullough"
 affilation:

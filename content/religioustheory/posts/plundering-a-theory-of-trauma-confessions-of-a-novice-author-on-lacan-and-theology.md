@@ -1,4 +1,6 @@
 ---
+nanoid: "smkO_2"
+doi:
 title: >-
   Plundering A Theory of Trauma – Confessions of A Novice Author on Lacan and
   Theology

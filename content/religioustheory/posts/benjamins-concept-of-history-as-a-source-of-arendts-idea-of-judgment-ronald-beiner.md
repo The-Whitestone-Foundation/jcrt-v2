@@ -1,4 +1,6 @@
 ---
+nanoid: "y_Bls_"
+doi:
 title: >-
   Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part
   1 (Ronald Beiner)

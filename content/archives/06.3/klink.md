@@ -1,4 +1,6 @@
 ---
+nanoid: "dwZ0Vs"
+doi:
 title: "The Value of Solitude: the Ethics and Spirituality of Aloneness in Autobiography"
 author: "Aaron Klink"
 affilation:

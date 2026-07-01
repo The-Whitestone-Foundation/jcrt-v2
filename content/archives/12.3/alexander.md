@@ -1,4 +1,6 @@
 ---
+nanoid: "QQjIFP"
+doi:
 title: "Christianity and Contemporary Politics: the Conditions and Possibility of Faithful Witness."
 author: "Laura E. Alexander"
 affilation:

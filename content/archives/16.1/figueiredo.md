@@ -1,4 +1,6 @@
 ---
+nanoid: "BRNCtU"
+doi:
 title: "Introduction to the Journal of Cultural and Religious Theory Special Issue On"
 author: "Sergio C. Figueiredo"
 affilation:

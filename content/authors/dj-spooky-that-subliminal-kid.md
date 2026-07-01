@@ -1,4 +1,5 @@
 ---
+nanoid: "u8-VBY"
 name: DJ Spooky That Subliminal Kid
 affiliation:
 bio:

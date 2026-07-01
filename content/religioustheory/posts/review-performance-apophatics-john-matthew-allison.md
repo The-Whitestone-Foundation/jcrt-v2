@@ -1,4 +1,6 @@
 ---
+nanoid: "rbApFl"
+doi:
 title: Review – Performance Apophatics (John Matthew Allison)
 description: "*Claire Maria Chambers. Performance Studies and Negative Epistemology: Performance Apophatics. Palgrave Macmillan, 2017. Hardback Hardback. It highlights"
 date: '2019-02-07T03:27:46.000Z'
