@@ -2,6 +2,11 @@ name: Publish Standard.site Records
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "content/**/*.md"
+  schedule:
+    - cron: "17 6 1 */3 *"
 
 permissions:
   contents: write
@@ -12,6 +17,7 @@ concurrency:
 
 jobs:
   publish-standard-site:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     timeout-minutes: 45
 
@@ -34,6 +40,7 @@ jobs:
         run: npm run standard:check
 
       - name: Publish Standard.site documents to ATProto
+        if: github.event_name != 'schedule'
         env:
           ATP_IDENTIFIER: jcrt.org
           ATP_APP_PASSWORD: ${{ secrets.ATPROTO_PASSWORD }}
@@ -42,20 +49,21 @@ jobs:
       - name: Verify Standard.site output
         run: npm run standard:check && npm run standard:audit
 
-      - name: Commit Standard.site AT URIs if changed
+      - name: Commit Standard.site ATProto updates if changed
+        if: github.event_name != 'schedule'
         run: |
           set -euo pipefail
 
-          if [ -z "$(git status --porcelain -- _data/standardSiteRecords.yaml public/.well-known/site.standard.publication .sequoia-state.json)" ]; then
-            echo "No Standard.site AT URI changes to commit."
+          if [ -z "$(git status --porcelain -- _data/standardSiteRecords.yaml public/.well-known/site.standard.publication .sequoia-state.json content)" ]; then
+            echo "No Standard.site ATProto changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/standardSiteRecords.yaml public/.well-known/site.standard.publication
+          git add _data/standardSiteRecords.yaml public/.well-known/site.standard.publication content
           if [ -f .sequoia-state.json ]; then
             git add .sequoia-state.json
           fi
-          git commit -m "chore: publish Standard.site AT URIs"
+          git commit -m "chore: sync Standard.site ATProto records"
           git push
