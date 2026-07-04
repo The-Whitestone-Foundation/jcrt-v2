@@ -1,7 +1,7 @@
 ---
 nanoid: "4bIoiq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutbczi62s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturakck22i'
 title: "In Memoriam: Dr. Charles E. Winquist - JCRT 3.2"
 article_number:
 author:

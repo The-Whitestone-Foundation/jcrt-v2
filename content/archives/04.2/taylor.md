@@ -1,7 +1,7 @@
 ---
 nanoid: "vjigtD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut72jzy26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur6bryc2v'
 title: "Refusing Theory: Avital Ronell and the Structure of Stupidity"
 article_number:
 author: "Victor Taylor"

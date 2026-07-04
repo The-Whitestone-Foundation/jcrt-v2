@@ -1,7 +1,7 @@
 ---
 nanoid: "X2EiyH"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut5wiv527'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur55kcb26'
 title: "Flesh and Consciousness: Georges Bataille and the Dionysian"
 author: "Jonathan David York"
 affilation:

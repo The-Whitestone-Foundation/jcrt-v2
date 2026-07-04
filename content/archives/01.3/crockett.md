@@ -1,7 +1,7 @@
 ---
 nanoid: "eCIvjh"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutf3dra2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturewvll2p'
 title: "Economies of Studying Religion"
 article_number:
 author: "Clayton Crockett"

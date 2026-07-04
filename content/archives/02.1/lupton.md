@@ -1,7 +1,7 @@
 ---
 nanoid: "0tfQLp"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuted2gh2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturdl6sm2m'
 title: "Religion and Psychoanalysis: Three Fundamental Concepts"
 author: "Julia Reinhard Lupton"
 affilation:

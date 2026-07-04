@@ -1,7 +1,7 @@
 ---
 nanoid: "F6so2P"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut7jaqg22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur6qfys2i'
 title: "The Future of Theory"
 article_number:
 author: "Victor Taylor; Gregg Lambert"

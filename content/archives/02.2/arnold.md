@@ -1,7 +1,7 @@
 ---
 nanoid: "6zQb2r"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutdsdfw2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturd2asu2m'
 title: "Diversity in the History of Religions"
 article_number:
 author: "Philip P Arnold"

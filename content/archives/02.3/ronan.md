@@ -1,7 +1,7 @@
 ---
 nanoid: "4to33P"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutcqn572k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturbybhr26'
 title: "Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology After Vatican II"
 article_number:
 author: "Marian Ronan"

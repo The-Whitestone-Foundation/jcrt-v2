@@ -1,7 +1,7 @@
 ---
 nanoid: "WNRVjv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut63ds72k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur5cgd22i'
 title: "The Predicament of Postmodern Theology: Radical Orthodoxy or Nihilist Textualism?"
 author: "G Chad Snyder"
 affilation:

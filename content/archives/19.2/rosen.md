@@ -1,7 +1,7 @@
 ---
 nanoid: "_cqL7H"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurtnjs622'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupdu4hx2y'
 title: "To Not Lose Sight of the Good: Notes on the Zapatismo Ethic."
 author: "Matt Rosen"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "1q-gTJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutduqrz2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturd4o7x2b'
 title: "Absolute Nothingness and Taylor’s Imagology"
 article_number:
 author: "Thomas J J Altizer"

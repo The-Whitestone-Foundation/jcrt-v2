@@ -1,7 +1,7 @@
 ---
 nanoid: "wS_eFc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut6y2rd2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur677rg25'
 title: "Theory Change"
 article_number:
 author: "Jeffrey J Williams"

@@ -1,7 +1,7 @@
 ---
 nanoid: "Z4TVwc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkus6wjqb2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuq6qeqh26'
 title: "Street Art and Civic Dialogue: an Interview with Gaia."
 author: "Shelly Clay-Robinson"
 affilation:

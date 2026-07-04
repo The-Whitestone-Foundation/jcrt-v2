@@ -1,7 +1,7 @@
 ---
 nanoid: "wh5cyl"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuroazw62a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuou2hki2v'
 title: "Bushwhacking Derrida: Perception"
 author: "Gary Bedford"
 affilation:

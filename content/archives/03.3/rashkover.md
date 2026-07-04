@@ -1,7 +1,7 @@
 ---
 nanoid: "3Joyst"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutaupyo2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptura3yqm2k'
 title: "The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations"
 article_number:
 author: "Randi Rashkover"

@@ -1,7 +1,7 @@
 ---
 nanoid: "cUJzHt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut7zyoh2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur7bj772y'
 title: "Iconic Revisions of the Modern World Picture"
 article_number:
 author: "Jeffrey L Kosky"

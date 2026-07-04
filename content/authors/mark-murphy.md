@@ -1,6 +1,6 @@
 ---
 nanoid: "OvRGG9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuty3gww22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturxwo3k2m'
 name: Mark Murphy
 affiliation: "Saint Mary’s University"
 bio:

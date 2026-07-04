@@ -1,7 +1,7 @@
 ---
 nanoid: "ETvZ_a"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutasc662k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur7zmvw25'
 title: "On Cosmopolitanism and Forgiveness"
 article_number:
 author: "David Reinhart"

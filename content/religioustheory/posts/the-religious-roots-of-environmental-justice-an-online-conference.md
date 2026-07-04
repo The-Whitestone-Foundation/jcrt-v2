@@ -1,7 +1,7 @@
 ---
 nanoid: "bd5nIE"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuqqnyfp2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuouo2gs2i'
 title: The Religious Roots of Environmental Justice – An Online Conference
 description: "Catherine Keller practices theology as a relation between ancient hints of ultimacy and current matters of urgency. As the George T As the George T. It"
 date: '2023-09-15T22:43:19.000Z'

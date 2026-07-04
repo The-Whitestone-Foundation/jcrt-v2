@@ -1,7 +1,7 @@
 ---
 nanoid: "tXINkd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutdpxbw22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturcxuvp2b'
 title: "Ekphrastic Plastic Fragments: Mark C. Taylor in and Out of Context"
 article_number:
 author: "Camelia Elias"

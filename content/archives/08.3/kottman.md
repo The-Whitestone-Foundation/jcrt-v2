@@ -1,7 +1,7 @@
 ---
 nanoid: "iivQpf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkussikug2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqsemdk2b'
 title: "Avoiding Tragedy in the Merchant of Venice"
 author: "Paul A Kottman"
 affilation:

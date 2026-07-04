@@ -1,7 +1,7 @@
 ---
 nanoid: "gtVAnh"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut6vmkt2r'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur64tcx26'
 title: "Sensible Ecstasy: Mysticism, Sexual Difference, and the Demands of History"
 author: "J Heath Atchley"
 affilation:

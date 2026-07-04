@@ -1,7 +1,7 @@
 ---
 nanoid: "NeXbNk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutbw7eu2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturb5mq32p'
 title: "Preacher"
 article_number:
 author: "Mike Grimshaw"

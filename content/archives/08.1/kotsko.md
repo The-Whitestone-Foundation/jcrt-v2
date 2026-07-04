@@ -1,7 +1,7 @@
 ---
 nanoid: "vdDQsi"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusu7lch2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqu3zk624'
 title: "The Parallax View"
 author: "Adam Kotsko"
 affilation:

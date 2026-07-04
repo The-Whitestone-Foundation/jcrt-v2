@@ -1,7 +1,7 @@
 ---
 nanoid: "bhmI9f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut6hbn72p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur5odh726'
 title: "I Am the Truth: Toward a Philosophy of Christianity"
 author: "Anthony L Macri"
 affilation:

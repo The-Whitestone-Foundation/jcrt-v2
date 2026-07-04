@@ -1,7 +1,7 @@
 ---
 nanoid: "hHg6M6"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutapy6j2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur7xatu2m'
 title: "Why God Won’t Go Away: Brain Science and the Biology of Belief"
 article_number:
 author: "Noel Dane Scott"

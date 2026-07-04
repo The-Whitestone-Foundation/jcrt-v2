@@ -1,7 +1,7 @@
 ---
 nanoid: "f66fe3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusof3pa23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqo7q3y2v'
 title: "The New Orientalists: Representations of Islam from Foucault to Baudrillard"
 author: "Carl A. Raschke"
 affilation:

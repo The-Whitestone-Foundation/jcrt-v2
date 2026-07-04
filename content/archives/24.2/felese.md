@@ -1,7 +1,7 @@
 ---
 nanoid: "EyujJj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkurlfo3o2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuopnhrc2i'
 layout: archives.njk
 article_number: '08'
 volume: '24'

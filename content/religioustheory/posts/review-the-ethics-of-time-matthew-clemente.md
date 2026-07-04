@@ -1,7 +1,7 @@
 ---
 nanoid: "dsA2DP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkur6iuhw22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupn6i2y2v'
 title: Review – The Ethics Of Time (Matthew Clemente)
 description: "The Ethics of Time. Manoussakis, John. New York: Bloomsbury Press, 2017. ISBN: 9781474299169. Hardback. 232 pages. John Manoussakis’s latest book, The Ethics of"
 date: '2018-04-17T04:05:49.000Z'

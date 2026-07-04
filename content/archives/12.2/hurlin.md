@@ -1,7 +1,7 @@
 ---
 nanoid: "eO7nnD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusgut3e2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqgodpc2m'
 title: "Jesus Beyond Christ: Erri De Luca and The"
 author: "Elise Mon℡-Hurlin"
 affilation:

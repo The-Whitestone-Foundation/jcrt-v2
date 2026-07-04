@@ -1,7 +1,7 @@
 ---
 nanoid: "0aaZxl"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkusss3aq25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqsocjs2i'
 title: "Shylock After Auschwitz: the Merchant of Venice on the Post-Holocaust Stage – Subversion, Confrontation, and Provocation"
 author: "Arthur Horowitz"
 affilation:

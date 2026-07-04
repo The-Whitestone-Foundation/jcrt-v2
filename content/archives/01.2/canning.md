@@ -1,7 +1,7 @@
 ---
 nanoid: "093GsM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutftz4w2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturfphzh2y'
 title: "Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi Nistory"
 article_number:
 author: "Peter Canning"

@@ -1,7 +1,7 @@
 ---
 nanoid: "23a20F"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutdipni25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturcqc2x26'
 title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 article_number:
 author: "Andrew Tatusko"

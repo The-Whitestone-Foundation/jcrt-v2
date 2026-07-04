@@ -1,6 +1,6 @@
 ---
 nanoid: "0w91V_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkutn5y572p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturn273u2m'
 name: S. Andrew Stowe
 affiliation: "Anderson University"
 bio:

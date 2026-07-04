@@ -1,6 +1,6 @@
 ---
 nanoid: "fYjNn5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkuub2r3i2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusawvps2m'
 name: Jason W. Alvis
 affiliation: "Stanford University, University of Vienna"
 bio:

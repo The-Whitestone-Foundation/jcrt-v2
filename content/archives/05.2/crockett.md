@@ -1,7 +1,7 @@
 ---
 nanoid: "23mKYt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut4uybt2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur4432h26'
 title: "Long Time Coming: Theology, Methodology, Cultural Theory"
 author: "Clayton Crockett"
 affilation:

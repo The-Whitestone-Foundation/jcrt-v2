@@ -1,7 +1,7 @@
 ---
 nanoid: "3cIImn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpkut77g3q25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur6gm3w25'
 title: "A Conversation on the Future of Theory"
 article_number:
 author: "Jean-Michel Rabaté; Gregg Lambert"
