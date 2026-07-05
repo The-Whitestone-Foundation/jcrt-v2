@@ -12,6 +12,7 @@
     "start:fast": "cross-env SKIP_SITEMAPS_IN_SERVE=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve",
     "dev": "cross-env QUICK_DEV=1 NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --incremental --port=4000",
     "sitemaps:generate": "node scripts/generate-local-sitemaps.mjs",
+    "metadata:export": "node scripts/export-fair-metadata.mjs",
     "sitemaps:check": "node scripts/check-sitemaps.mjs",
     "sitemaps:check:local": "cross-env SITEMAP_CHECK_BASE_URL=http://localhost:8080 node scripts/check-sitemaps.mjs",
     "standard:check": "node scripts/check-standard-site.mjs",

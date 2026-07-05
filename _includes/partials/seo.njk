@@ -25,6 +25,8 @@
 {% endif %}
 {% set canonicalPath = (canonical_url or pageUrl) | stripQueryAndHash %}
 {% set canonicalUrl = canonicalPath if "http" in canonicalPath else metadata.url + canonicalPath %}
+{% set fairPageUrl = metadata.url ~ pageUrl %}
+{% set fairMetadataUrl = metadata.files_url ~ "/metadata" ~ pageUrl ~ "metadata.json" %}
 {% set publishedDateRaw = date or page.date or post.date %}
 {% if (not publishedDateRaw) and year %}
   {% set publishedDateRaw = year ~ "-01-01" %}
@@ -160,6 +162,9 @@
 
 {# ── Dublin Core article + Google Scholar citation tags (article detail pages only) ── #}
 {% if isArchivesArticlePage %}
+  <link rel="cite-as" href="{{ fairPageUrl }}" />
+  <link rel="type" href="https://schema.org/ScholarlyArticle" />
+  <link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ fairMetadataUrl }}" />
   <meta property="dc:type" content="article" />
   <meta property="dc:date" content="{{ citationPublicationDate or publishedDate }}" />
   <meta property="dc:identifier" content="{{ canonicalUrl }}" />
@@ -203,6 +208,11 @@
   <meta property="dc:type" content="text" />
   <meta property="dc:creator" content="{{ pageTitle }}" />
 {% elif isBlogPost %}
+  {% if isTheoryArticlePage %}
+  <link rel="cite-as" href="{{ fairPageUrl }}" />
+  <link rel="type" href="https://schema.org/BlogPosting" />
+  <link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ fairMetadataUrl }}" />
+  {% endif %}
   {% set blogPublicationName = 'JCRT - Religious Theory Blog' if isTheoryArticlePage else 'JCRT - News' %}
   <meta property="zotero:itemType" content="blogPost" />
   <meta property="dc:type" content="article" />
