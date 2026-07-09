@@ -1874,7 +1874,7 @@ body.sidebar-open #menu-toggle-btn {
 
 .home-editorial .home-issue-card h3,
 .home-editorial .home-feature-card h3,
-.home-editorial .home-archive-card h4,
+.home-editorial .home-archive-card h3,
 .home-editorial .home-news-card h3 {
     overflow-wrap: anywhere;
 }
