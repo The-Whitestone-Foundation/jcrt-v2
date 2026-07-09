@@ -9,10 +9,10 @@ permalink: /editors/
 
 - *Senior Editor:* [**Carl Raschke**](mailto:carlraschke@gmail.com), University of Denver \| [articles by Raschke](/authors/carl-a-raschke/)
 - *Executive Editor:* [**Victor Taylor**](mailto:taylorve@gmail.com), Independent Scholar \|[articles by Taylor](/authors/victor-taylor/)
-- *Associate Editor* [**Adam DJ Brett**](https://adamdjbrett.com/contact/), \|[articles by Brett](/authors/adam-dj-brett/)
+- *Associate Editor* [**Adam DJ Brett**](mailto:info@adamdjbrett.com), \|[articles by Brett](/authors/adam-dj-brett/)
 
 ## Assistant Editors
-
+- [**Robert Spinelli**](mailto:rspinelli@ncis.org), Independent Scholar.
 - [**Kevin Grane**](mailto:kev.grane@du.edu), University of Denver \| [Articlces by Grane](/authors/kevin-grane/)
 - [**J.C. Smith**](mailto:mailto:jc.smith@du.edu), University of Denver
 

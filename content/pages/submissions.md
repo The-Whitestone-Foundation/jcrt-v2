@@ -20,7 +20,9 @@ Before submitting, please ensure the following:
 2. Any submitted figures are in TIF, JPG, PNG, or PDF format, with a resolution of at least 300 dpi. Figure files are titled "[LastName]_[FirstName]_[Figure#]_[AdditionalDescriptiveInformation]."
 3. Where available, URLs and DOIs for the references have been provided.
 4. Authors are responsible for the accuracy of references and quotations, and should ensure they are correct in substance and style.
-5. The text is single-spaced, uses Book Antiqua 11-point font, employs italics rather than underlining (except with URL addresses), and places all illustrations, figures, and tables within the text at the appropriate points, rather than at the end.
+5. The text is single-spaced, uses Book Antiqua 12-point font, employs italics rather than underlining (except with URL addresses), and places all illustrations, figures, and tables within the text at the appropriate points, rather than at the end.
+
+[download our submission guidelines as a pdf](https://files.jcrt.org/docs/submission-guidelines-jcrt-stylesheet.pdf)
 
 ### Publication Ethics
 
