@@ -16,8 +16,8 @@ Current institutional sponsors are the University of Denver and Syracuse Univers
 
 Before submitting, please ensure the following:
 
-1. The submission file is in PDF, Microsoft Word, or RTF format and is titled "[LastName]_[FirstName]_[ManuscriptTitle]."
-2. Any submitted figures are in TIF, JPG, PNG, or PDF format, with a resolution of at least 300 dpi. Figure files are titled "[LastName]_[FirstName]_[Figure#]_[AdditionalDescriptiveInformation]."
+1. The submission file is in PDF, Microsoft Word, or RTF format and is titled "[LastName]\_[FirstName]\_[ManuscriptTitle]."
+2. Any submitted figures are in TIF, JPG, PNG, or PDF format, with a resolution of at least 300 dpi. Figure files are titled "[LastName]\_[FirstName]\_[Figure#]\_[AdditionalDescriptiveInformation]."
 3. Where available, URLs and DOIs for the references have been provided.
 4. Authors are responsible for the accuracy of references and quotations, and should ensure they are correct in substance and style.
 5. The text is single-spaced, uses Book Antiqua 12-point font, employs italics rather than underlining (except with URL addresses), and places all illustrations, figures, and tables within the text at the appropriate points, rather than at the end.
