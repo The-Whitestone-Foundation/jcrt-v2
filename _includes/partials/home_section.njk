@@ -10,7 +10,7 @@
             {% for issue in recentIssues %}
             <article class="home-issue-card">
                 <div class="home-issue-card__media">
-                    {% set issueImage = (issue.data.image | ensureImage('/images/jcrt.svg')) if issue.data.image else (metadata.files_url + "/images/jcrt.svg") %}
+                    {% set issueImage = ((issue.data.thumbnail or issue.data.image) | ensureImage('/images/jcrt.svg')) if (issue.data.thumbnail or issue.data.image) else (metadata.files_url + "/images/jcrt.svg") %}
                     <a href="{{ issue.url }}" class="d-block">
                         {% responsiveThumb issueImage, (issue.data.title or ('Volume ' ~ issue.data.volume ~ '.' ~ issue.data.issue)), "img-fluid rounded shadow-sm w-100 home-issue-card__image", "(max-width: 767px) 100vw, (max-width: 991px) 33vw, 240px", "160,240,320", "lazy", "low", (metadata.files_url + "/images/jcrt.svg"), "aspect-ratio: 4 / 3; object-fit: cover;" %}
                     </a>
