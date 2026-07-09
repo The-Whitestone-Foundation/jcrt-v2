@@ -1,3 +1,8 @@
+# Versioned pagefind bundle: templates load /pagefind/v/<version>/*, so a
+# pagefind upgrade changes every asset URL and bypasses stale CDN caches
+# (Cloudflare served a cached 1.4.0 pagefind.js against a 1.5.2 index).
+/pagefind/v/:version/* /pagefind/:splat 200
+
 # Legacy archive article and issue redirects must resolve before the
 # archive directory-index rewrite to avoid redirected 404s.
 /cw /blog/2026-04-22-religion-politics-and-cognitive-warfare-information-interpretation-conspiracy-and-the-struggle-for-reality/ 301

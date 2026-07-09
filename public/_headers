@@ -24,8 +24,25 @@
   Access-Control-Allow-Methods: GET, HEAD, OPTIONS
   Access-Control-Allow-Headers: Content-Type, Accept, Range
 
+# Unhashed pagefind files (pagefind.js, pagefind-ui.js, entry.json, wasm)
+# change on upgrade/deploy under the same URL — revalidate, never cache long.
 /pagefind/*
-  Cache-Control: public, max-age=172800, stale-while-revalidate=604800
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Content-Type, Accept, Range
+  Access-Control-Expose-Headers: Content-Length, Content-Range, ETag
+
+# Content-hashed index/fragment chunks are safe to cache long.
+/pagefind/index/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Content-Type, Accept, Range
+  Access-Control-Expose-Headers: Content-Length, Content-Range, ETag
+
+/pagefind/fragment/*
+  Cache-Control: public, max-age=31536000, immutable
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, HEAD, OPTIONS
   Access-Control-Allow-Headers: Content-Type, Accept, Range

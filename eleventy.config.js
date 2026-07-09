@@ -435,6 +435,13 @@ export default async function (eleventyConfig) {
 	const siteBaseUrl = getSiteUrlFromMetadata();
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 	eleventyConfig.addGlobalData("isLeanBuild", isLeanBuild);
+	// Versioned pagefind bundle path so a pagefind upgrade changes asset URLs
+	// and bypasses stale CDN copies of pagefind.js (see public/_redirects).
+	// Read directly: the pagefind package's "exports" map hides package.json.
+	eleventyConfig.addGlobalData(
+		"pagefindVersion",
+		JSON.parse(fs.readFileSync(path.join(process.cwd(), "node_modules", "pagefind", "package.json"), "utf8")).version,
+	);
 	eleventyConfig.addGlobalData("isBenchMode", isBenchMode);
 	eleventyConfig.addGlobalData("benchIssue", benchIssue);
 
