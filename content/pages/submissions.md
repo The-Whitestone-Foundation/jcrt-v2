@@ -22,7 +22,7 @@ Before submitting, please ensure the following:
 4. Authors are responsible for the accuracy of references and quotations, and should ensure they are correct in substance and style.
 5. The text is single-spaced, uses Book Antiqua 12-point font, employs italics rather than underlining (except with URL addresses), and places all illustrations, figures, and tables within the text at the appropriate points, rather than at the end.
 
-[download our submission guidelines as a pdf](https://files.jcrt.org/docs/submission-guidelines-jcrt-stylesheet.pdf)
+{% button "Download our submission guidelines (PDF)", "https://files.jcrt.org/docs/submission-guidelines-jcrt-stylesheet.pdf", "primary" %}
 
 ### Publication Ethics
 

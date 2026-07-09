@@ -394,6 +394,12 @@ h1.navbar-brand a:focus .text-secondary,
     margin-bottom: 1.55rem;
 }
 
+.jcrt-article-content p,
+.jcrt-article-content li {
+    font-size: inherit;
+    line-height: inherit;
+}
+
 .jcrt-article-content h2,
 .jcrt-article-content h3,
 .jcrt-article-content h4,

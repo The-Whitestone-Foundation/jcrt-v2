@@ -578,6 +578,13 @@ export default async function (eleventyConfig) {
 		eleventyConfig.addShortcode("getBundle", () => "");
 	}
 
+	eleventyConfig.addShortcode("button", (label, href, variant = "primary") => {
+		const safeLabel = escapeHtmlAttr(label);
+		const safeHref = escapeHtmlAttr(href);
+		const safeVariant = String(variant || "primary").replace(/[^a-z0-9-]/gi, "") || "primary";
+		return `<a href="${safeHref}" class="btn btn-${safeVariant} rounded-pill px-4" aria-label="${safeLabel}">${safeLabel}</a>`;
+	});
+
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
 		preAttributes: { tabindex: 0 },
 	});
