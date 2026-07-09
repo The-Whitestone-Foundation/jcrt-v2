@@ -9,7 +9,10 @@ layout: post.njk
   <div class="utility-shell utility-shell--search">
     <div class="p-4 p-md-5 bg-light rounded border">
       <p class="text-secondary mb-3">Search the site here, without using the sidebar.</p>
-      <pagefind-input autofocus></pagefind-input>
+      {# No autofocus: it triggers the engine load during page init, racing
+         pagefind-config's bundle-path and caching a failed load of the
+         default /pagefind/ path (where stale browser caches live). #}
+      <pagefind-input></pagefind-input>
       <pagefind-summary></pagefind-summary>
       <pagefind-results show-images></pagefind-results>
     </div>
