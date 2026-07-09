@@ -221,7 +221,7 @@
 /weblog / 410
 /weblog/ / 410
 /weblog/* / 410
-/cgi-bin/* 410
+/cgi-bin/* / 410
 /blog/demo /blog/ 301
 /blog/demo/ /blog/ 301
 /religioustheory/submissions-2/ https://www.jcrt.org/submissions/ 301
