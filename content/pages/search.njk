@@ -9,13 +9,9 @@ layout: post.njk
   <div class="utility-shell utility-shell--search">
     <div class="p-4 p-md-5 bg-light rounded border">
       <p class="text-secondary mb-3">Search the site here, without using the sidebar.</p>
-      <div id="search-page"></div>
+      <pagefind-input autofocus></pagefind-input>
+      <pagefind-summary></pagefind-summary>
+      <pagefind-results show-images></pagefind-results>
     </div>
   </div>
 </section>
-
-<script>
-  window.addEventListener("DOMContentLoaded", function () {
-    window.renderPagefindSearch?.("#search-page");
-  });
-</script>

@@ -6,18 +6,13 @@
 <div id="sidebar-menu">
 
 <div class="mb-3 p-3">
-<div id="search"></div>
+<pagefind-searchbox show-sub-results></pagefind-searchbox>
 <noscript>
     <form action="/search/" method="get" role="search" style="display:flex;gap:8px;">
         <input type="search" name="q" placeholder="Search" aria-label="Search" style="flex:1;min-width:0;padding:8px;border:1px solid #ccc;-webkit-appearance:none;box-sizing:border-box;">
         <button type="submit" class="btn btn-primary btn-sm">Go</button>
     </form>
 </noscript>
-<script>
-    window.addEventListener("DOMContentLoaded", () => {
-        window.lazyPagefindSearch?.("#search");
-    });
-</script>
 </div>
 
 <div class="p-3 bg-light"> 

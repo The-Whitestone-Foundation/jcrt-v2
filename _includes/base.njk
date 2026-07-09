@@ -37,70 +37,8 @@
   </div>
 </footer>
 </div>
-<script>
-  (function () {
-    let pagefindPromise;
-    const pagefindBundlePath = "/pagefind/v/{{ pagefindVersion }}/";
-    const pagefindOptions = {
-      bundlePath: pagefindBundlePath,
-      showSubResults: true,
-      processResult: (result) => {
-        const currentTitle = result?.meta?.title || result?.title || "";
-        if (!currentTitle.trim()) {
-          const cleanPath = (result?.url || "").replace(/\/$/, "");
-          const fallbackTitle = decodeURIComponent(cleanPath.split("/").pop() || result?.url || "Untitled");
-          result.title = fallbackTitle.replace(/[-_]+/g, " ");
-        }
-        return result;
-      }
-    };
-    const renderFallback = (el) => {
-      if (!el) return;
-      el.innerHTML = '<form action="/search/" method="get" role="search" style="display:flex;gap:8px;"><input type="search" name="q" placeholder="Search" aria-label="Search" style="flex:1;min-width:0;padding:8px;border:1px solid #ccc;-webkit-appearance:none;box-sizing:border-box;"><button type="submit" class="btn btn-primary btn-sm">Go</button></form>';
-    };
-    const loadPagefind = () => {
-      if (!document.querySelector('link[data-pagefind-ui-css]')) {
-        const link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.href = pagefindBundlePath + "pagefind-ui.css";
-        link.dataset.pagefindUiCss = "1";
-        document.head.appendChild(link);
-      }
-      if (window.PagefindUI) return Promise.resolve();
-      if (!pagefindPromise) {
-        pagefindPromise = new Promise((resolve, reject) => {
-          const script = document.createElement("script");
-          script.src = pagefindBundlePath + "pagefind-ui.js";
-          script.async = true;
-          script.onload = resolve;
-          script.onerror = reject;
-          document.head.appendChild(script);
-        });
-      }
-      return pagefindPromise;
-    };
-    window.renderPagefindSearch = function (selector) {
-      const el = typeof selector === "string" ? document.querySelector(selector) : selector;
-      if (!el || el.dataset.pagefindInitialized === "1") return;
-      el.dataset.pagefindInitialized = "1";
-      loadPagefind()
-        .then(() => {
-          if (typeof PagefindUI !== "function") throw new Error("PagefindUI unavailable");
-          new PagefindUI({ ...pagefindOptions, element: `#${el.id}` });
-        })
-        .catch(() => renderFallback(el));
-    };
-    window.lazyPagefindSearch = function (selector) {
-      const el = document.querySelector(selector);
-      if (!el) return;
-      renderFallback(el);
-      const render = () => window.renderPagefindSearch(el);
-      el.addEventListener("focusin", render, { once: true });
-      el.addEventListener("pointerenter", render, { once: true });
-      document.getElementById("menu-toggle-btn")?.addEventListener("click", render, { once: true });
-    };
-  })();
-</script>
+<link href="/pagefind/v/{{ pagefindVersion }}/pagefind-component-ui.css" rel="stylesheet">
+<script type="module" src="/pagefind/v/{{ pagefindVersion }}/pagefind-component-ui.js"></script>
 <script>
   (function () {
     const fallback = "{{ metadata.files_url }}/images/jcrt-open-graph.webp";
