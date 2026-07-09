@@ -50,7 +50,7 @@ Theology has ended,[^1] and religious life proliferates.[^2] No longer presuming
 * * *
 2000 Alan J. Richard. All rights reserved.  
 Updated 07/28/21 .   
-http://jcrt.org /archives/01.3/richard/
+[jcrt.org/archives/01.3/richard](https://jcrt.org/archives/01.3/richard/)
 
 ---
 
@@ -92,7 +92,7 @@ http://jcrt.org /archives/01.3/richard/
 
 [^12]:  Aristotle argues that 'saying' itself commits an interlocutor, not only to religion, but to theology itself. This 'saying' requires 'not that our opponent will say something either is or is not' but only 'that he shall say something which is significant for _himself and for another_.' It is the act of 'saying' itself, rather than the act of advancing a claim, that establishes the faith with which Aristotle imagines we can transcend the variable axiomata of the several sciences toward a science of being qua being, and which Derrida will call 'in essence or calling, religious.'[^24] The structure of saying compels us, Aristotle argues, to acknowledge the capacity of logos, saying, to assume various forms, to pass from mouth to ear or from hand to page to eye, without losing its essential meaning. And once we have acknowledged this, Aristotle argues, we have acknowledged at least one criterion that cannot be denied without contradiction: that anything with being will be itself and not another. In this way, the passage of logos from one to the other is seen to rest on the literally undeniable epistemological priority of unity over the difference traversed in this passage.[^25]
 
-[^12]: Charles H. Long's reading of Mircea Eliade's _Patterns in Comparative Religion_ (Long, C.H., "Mircea Eliade and the Imagination of Matter," _Journal of Cultural and Religious Theory, 1_ (2): https://jcrt.org/archives/01.2/long/) strongly suggests that Eliade at least, far from employing phenomenology as an evasion of theory, explicitly offers a theory of religion whose force comes from an engagement with materialism and the philosophical problematic of "matter."
+[^12]: Charles H. Long's reading of Mircea Eliade's _Patterns in Comparative Religion_ (Long, C.H., "Mircea Eliade and the Imagination of Matter," _Journal of Cultural and Religious Theory, 1_ (2): [jcrt.org/archives/01.2/long](https://jcrt.org/archives/01.2/long/)) strongly suggests that Eliade at least, far from employing phenomenology as an evasion of theory, explicitly offers a theory of religion whose force comes from an engagement with materialism and the philosophical problematic of "matter."
 
 [^13]:  Since saying involves not only speaking but also a hearing, and since both the speaker and the auditor must embrace the faith in saying for a dialogue to occur, it is not even necessary for the individual who denies that faith to say something in order for his or her denial to be refuted, but only that he or she attend to what is said. 'For while disowning reason, he listens to reason.'[^26] Listening implies an act of interpretation that is predicated on a univocity of meaning parallel to the univocity of meaning assumed by the signifying act, making listening as interpretation of speech into a special kind of signifying act: one that takes place _after_ the sounds that make up the material component of significant speech have been uttered. Reason and significant speech are near synonyms: 'if words have no meaning, our reasoning with one another, and indeed with ourselves has been annihilated, for it is impossible to think of anything if we do not think of one thing.'[^27]
 

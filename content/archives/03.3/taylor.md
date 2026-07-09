@@ -81,7 +81,7 @@ _The Exhibition catalogue contains several historical, biographical, and theoret
 
  ['](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.3/taylor/
+[jcrt.org/archives/03.3/taylor](https://jcrt.org/archives/03.3/taylor/)
 
 ---
 

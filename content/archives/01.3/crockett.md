@@ -52,7 +52,7 @@ _One of the significant problems for both understanding and living today involve
 
  
 Updated 07/28/21.   
-http://jcrt.org/archives/01.3/crockett/
+[jcrt.org/archives/01.3/crockett](https://jcrt.org/archives/01.3/crockett/)
 
 ---
 

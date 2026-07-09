@@ -40,7 +40,7 @@ Leora Batnitzky has revised her Ph.D. dissertation into a book that is of great 
 * * *
  2000 Peter Ochs. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.1/ochs/
+[jcrt.org/archives/02.1/ochs](https://jcrt.org/archives/02.1/ochs/)
 
 ---
 

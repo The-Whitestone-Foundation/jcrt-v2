@@ -81,7 +81,7 @@ Desire and mourning are folds[^5] in theological and literary discourse, limits 
 
  ['](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.2/taylor/
+[jcrt.org/archives/03.2/taylor](https://jcrt.org/archives/03.2/taylor/)
 
 ---
 

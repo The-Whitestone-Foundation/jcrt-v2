@@ -96,7 +96,7 @@ Citations from Freud will refer first to the _Standard Edition_'s English transl
 
  ['](https://jcrt.org/copyright/) 2002 Robert Metcalf. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.2/metcalf/
+[jcrt.org/archives/03.2/metcalf](https://jcrt.org/archives/03.2/metcalf/)
 
 ---
 

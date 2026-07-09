@@ -49,7 +49,7 @@ In the Fall of 1997 at Villanova University, a major international conference de
 
  ['](https://jcrt.org/copyright/) 2001 Jeffrey W. Robbins. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.2/robbins/
+[jcrt.org/archives/02.2/robbins](https://jcrt.org/archives/02.2/robbins/)
 
 ---
 

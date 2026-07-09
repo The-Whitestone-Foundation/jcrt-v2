@@ -111,7 +111,7 @@ Wolfe, Alan. _The Human Difference_. Berkeley: U of California P, 1993.
 
 2000 Dennis M. Weiss. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/01.3/weiss/
+[jcrt.org/archives/01.3/weiss](https://jcrt.org/archives/01.3/weiss/)
 
 ---
 

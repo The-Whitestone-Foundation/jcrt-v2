@@ -53,7 +53,7 @@ Contagions describe a communication. The nature of this communication varies: a 
 
  ['](https://jcrt.org/copyright/) 2001 Gerald Majer. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.2/majer/
+[jcrt.org/archives/02.2/majer](https://jcrt.org/archives/02.2/majer/)
 
 ---
 

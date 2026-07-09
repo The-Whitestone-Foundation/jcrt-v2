@@ -65,7 +65,7 @@ Of those places where mystical traditions of Christian thought have received a w
 
  2000 Jeffrey L. Kosky. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/01.3/kosky/
+[jcrt.org/archives/01.3/kosky](https://jcrt.org/archives/01.3/kosky/)
 
 ---
 

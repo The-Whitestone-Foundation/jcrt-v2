@@ -40,7 +40,7 @@ _More than any contemporary American philosopher, John D. ('Jack') Caputo has be
 
  ['](https://jcrt.org/copyright/) 2002 John D. Caputo and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.2/caputo\_raschke/
+[jcrt.org/archives/03.2/caputo\_raschke](https://jcrt.org/archives/03.2/caputo\_raschke/)
 
 ---
 

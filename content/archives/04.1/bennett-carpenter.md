@@ -158,7 +158,7 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 
  ['](https://jcrt.org/copyright/) 2002 Benjamin Bennett-Carpenter. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.1/bennett-carpenter/
+[jcrt.org/archives/04.1/bennett-carpenter](https://jcrt.org/archives/04.1/bennett-carpenter/)
 
 ---
 

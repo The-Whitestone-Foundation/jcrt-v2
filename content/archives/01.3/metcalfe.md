@@ -141,7 +141,7 @@ I spent yesterday searching for where to start this article. Although I'd gone t
 
  2000 Andrew W. Metcalfe. All rights reserved.  
 Updated 07/28/21 .   
-http://jcrt.org /archives/01.3/metcalfe/
+[jcrt.org/archives/01.3/metcalfe](https://jcrt.org/archives/01.3/metcalfe/)
 
 ---
 

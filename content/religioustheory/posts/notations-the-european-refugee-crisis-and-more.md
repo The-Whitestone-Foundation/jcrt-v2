@@ -3,7 +3,7 @@ nanoid: "x2HmFz"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfcy3k22l'
 title: “Notations” – Call for Contributors
-description: "In addition to reviews and commentaries, the new JCRT feature “religious theory” (jcrt.org/religioustheory), updated regularly, will publish in an ongoing"
+description: "In addition to reviews and commentaries, the new JCRT feature “religious theory” ([jcrt.org](https://jcrt.org)/religioustheory), updated regularly, will publish in an ongoing"
 date: '2018-01-01T00:14:28.000Z'
 author: editors
 image: >-

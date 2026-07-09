@@ -45,7 +45,7 @@ In his _Deconstruction of Christianity_, Jean-Luc Nancy makes this provocative c
 
  ['](https://jcrt.org/copyright/) 2002 William Egginton. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.1/egginton/
+[jcrt.org/archives/04.1/egginton](https://jcrt.org/archives/04.1/egginton/)
 
 ---
 

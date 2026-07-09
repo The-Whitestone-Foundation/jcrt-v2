@@ -58,7 +58,7 @@ Scheler's main work in the philosophy of religion is _On the Eternal in Man_, an
 
  ['](https://jcrt.org/copyright/) 2001 Todd A. Gooch. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.1/gooch/
+[jcrt.org/archives/03.1/gooch](https://jcrt.org/archives/03.1/gooch/)
 
 ---
 

@@ -41,7 +41,7 @@ It is a lamentable situation that Heidegger's critique of Scholastic ontology is
 
  ['](https://jcrt.org/copyright/) 2002 Sean J. McGrath. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.1/mcgrath/
+[jcrt.org/archives/04.1/mcgrath](https://jcrt.org/archives/04.1/mcgrath/)
 
 ---
 

@@ -48,7 +48,7 @@ My slide projection pieces each consist in the projection of two separate slides
 
 2000 Christopher M. Taylor. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.1/taylor/
+[jcrt.org/archives/02.1/taylor](https://jcrt.org/archives/02.1/taylor/)
 
 ---
 

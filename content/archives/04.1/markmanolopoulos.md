@@ -63,7 +63,7 @@ Monash University
 
  ['](https://jcrt.org/copyright/) 2002 Mark Manolopoulos. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.1/markmanolopoulos/
+[jcrt.org/archives/04.1/markmanolopoulos](https://jcrt.org/archives/04.1/markmanolopoulos/)
 
 ---
 

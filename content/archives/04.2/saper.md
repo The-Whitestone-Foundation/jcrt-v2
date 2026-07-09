@@ -102,7 +102,7 @@ Theories and histories of modern spectacles and media-inundated society have rec
 
  ['](https://jcrt.org/copyright/) 2003 Craig Saper. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.2/saper/
+[jcrt.org/archives/04.2/saper](https://jcrt.org/archives/04.2/saper/)
 
 ---
 

@@ -135,7 +135,7 @@ Political process models attempt to address the interaction between a social mov
 
  ['](https://jcrt.org/copyright/) 2001 Lora Stone. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.1/stone/
+[jcrt.org/archives/03.1/stone](https://jcrt.org/archives/03.1/stone/)
 
 ---
 

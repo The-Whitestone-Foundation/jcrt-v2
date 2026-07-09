@@ -130,7 +130,7 @@ I should also mention here Judith Butler's "Guant'namo Limbo" in the April 1 iss
 
  ['](https://jcrt.org/copyright/) 2002 Adam Katz. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.2/katz/
+[jcrt.org/archives/03.2/katz](https://jcrt.org/archives/03.2/katz/)
 
 ---
 

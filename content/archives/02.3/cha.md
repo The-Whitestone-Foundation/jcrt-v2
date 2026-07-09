@@ -95,7 +95,7 @@ _dvayam tatra na vidyate_
 
  ['](https://jcrt.org/copyright/) 2001 John Y. Cha. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.3/cha/
+[jcrt.org/archives/02.3/cha](https://jcrt.org/archives/02.3/cha/)
 
 ---
 

@@ -37,7 +37,7 @@ The intoxicated rhetoric of pluralism and tolerance created a monument that cast
 
  ['](https://jcrt.org/copyright/) 2002 Jason M. Flato. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.3/flato/
+[jcrt.org/archives/03.3/flato](https://jcrt.org/archives/03.3/flato/)
 
 ---
 

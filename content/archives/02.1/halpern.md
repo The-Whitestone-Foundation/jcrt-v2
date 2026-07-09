@@ -51,7 +51,7 @@ Jacques Lacan did not, to my knowledge, ever visit Kansas. But this essay will t
 
 2000 Richard Halpern. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.1/halpern/
+[jcrt.org/archives/02.1/halpern](https://jcrt.org/archives/02.1/halpern/)
 
 ---
 

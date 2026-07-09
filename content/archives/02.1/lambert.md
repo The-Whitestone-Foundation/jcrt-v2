@@ -46,7 +46,7 @@ The subject of my essay, on "redemption," concerns something that takes place at
 * * *
 2000 Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.1/lambert/
+[jcrt.org/archives/02.1/lambert](https://jcrt.org/archives/02.1/lambert/)
 
 ---
 

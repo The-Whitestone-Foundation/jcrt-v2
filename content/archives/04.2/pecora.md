@@ -112,7 +112,7 @@ Any attempt to talk briefly about such immense subjects as "religion" and "moder
 
  ['](https://jcrt.org/copyright/) 2003 Vincent P. Pecora. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.2/pecora/
+[jcrt.org/archives/04.2/pecora](https://jcrt.org/archives/04.2/pecora/)
 
 ---
 

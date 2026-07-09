@@ -141,7 +141,7 @@ She also notes that the day after Warhol's death, a Swiss art journal which was 
 > 
 
 
-http://jcrt.org/archives/01.3/carpenter/
+[jcrt.org/archives/01.3/carpenter](https://jcrt.org/archives/01.3/carpenter/)
 
 ---
 

@@ -47,7 +47,7 @@ In assessing the status of contemporary religious thought, many scholars and the
 
  ['](https://jcrt.org/copyright/) 2002 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.3/crockett/
+[jcrt.org/archives/03.3/crockett](https://jcrt.org/archives/03.3/crockett/)
 
 ---
 

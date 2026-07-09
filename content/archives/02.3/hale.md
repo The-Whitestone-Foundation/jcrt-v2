@@ -41,7 +41,7 @@ T_he Critique of Theological Reason_ is an ambitious work - partly critical, par
 
  ['](https://jcrt.org/copyright/) 2001 David Hale. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.3/hale/
+[jcrt.org/archives/02.3/hale](https://jcrt.org/archives/02.3/hale/)
 
 ---
 

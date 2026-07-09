@@ -72,7 +72,7 @@ In recent years, there has been a renewed interest in theories of the 'gift' and
 
  ['](https://jcrt.org/copyright/) 2002 Ken Lokensgard. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.1/lokensgard/
+[jcrt.org/archives/04.1/lokensgard](https://jcrt.org/archives/04.1/lokensgard/)
 
 ---
 

@@ -47,7 +47,7 @@ Originally written between 1936 and 1938, first published in German in 1989, and
 
  ['](https://jcrt.org/copyright/) 2001 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.3/crockett/
+[jcrt.org/archives/02.3/crockett](https://jcrt.org/archives/02.3/crockett/)
 
 ---
 

@@ -65,7 +65,7 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
 
  ['](https://jcrt.org/copyright/) 2002 Randi Rashkover. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.3/rashkover/
+[jcrt.org/archives/03.3/rashkover](https://jcrt.org/archives/03.3/rashkover/)
 
 ---
 

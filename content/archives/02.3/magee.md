@@ -85,7 +85,7 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
 
  ['](https://jcrt.org/copyright/) 2001 Neal E. Magee All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.3/magee/
+[jcrt.org/archives/02.3/magee](https://jcrt.org/archives/02.3/magee/)
 
 ---
 

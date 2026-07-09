@@ -50,7 +50,7 @@ We philosophise on the end of lots of things, but it is here that they actually 
 
  ['](https://jcrt.org/copyright/) 2002 Michael Grimshaw. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/03.2/grimshaw/
+[jcrt.org/archives/03.2/grimshaw](https://jcrt.org/archives/03.2/grimshaw/)
 
 ---
 

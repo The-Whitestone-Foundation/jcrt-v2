@@ -90,7 +90,7 @@ To remain with Derrida's argument for a moment ' not for long though; like Iriga
 
  ['](https://jcrt.org/copyright/) 2003 Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/04.2/lambert/
+[jcrt.org/archives/04.2/lambert](https://jcrt.org/archives/04.2/lambert/)
 
 ---
 

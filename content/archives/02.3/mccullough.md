@@ -59,7 +59,7 @@ This essay considers Jean Baudrillard, the French sociologist and so-called "fat
 
  ['](https://jcrt.org/copyright/) 2001 Lissa McCullough. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.3/mccullough/
+[jcrt.org/archives/02.3/mccullough](https://jcrt.org/archives/02.3/mccullough/)
 
 ---
 

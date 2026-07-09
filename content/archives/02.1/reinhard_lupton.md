@@ -72,7 +72,7 @@ Whereas in Jewish and Christian theology, "Creation" refers to God's primal rela
 
 2000 Kenneth Richard and Julia Reinhard Lupton. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.1/reinhard\_lupton/
+[jcrt.org/archives/02.1/reinhard\_lupton](https://jcrt.org/archives/02.1/reinhard\_lupton/)
 
 ---
 

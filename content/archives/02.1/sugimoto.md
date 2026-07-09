@@ -51,7 +51,7 @@ A  recent cover article in the _Atlantic Monthly_ [^1] and numerous other articl
 
 2000 Mike Sugimoto. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.1/sugimoto/
+[jcrt.org/archives/02.1/sugimoto](https://jcrt.org/archives/02.1/sugimoto/)
 
 ---
 

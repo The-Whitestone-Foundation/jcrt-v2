@@ -38,7 +38,7 @@ Cornelius Castoriadis, who was born in Greece but worked mainly in France, was a
 
 2000 James J. DiCenso. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/01.3/dicenso/
+[jcrt.org/archives/01.3/dicenso](https://jcrt.org/archives/01.3/dicenso/)
 
 ---
 

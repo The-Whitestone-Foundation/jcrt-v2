@@ -40,7 +40,7 @@ _Mark C. Taylor is widely known for his reworking of the theological enterprise 
 
  ['](https://jcrt.org/copyright/) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/02.2/taylor\_raschke/
+[jcrt.org/archives/02.2/taylor\_raschke](https://jcrt.org/archives/02.2/taylor\_raschke/)
 
 ---
 

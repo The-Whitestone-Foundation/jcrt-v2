@@ -37,7 +37,7 @@ During the 1980s and 1990s, Americans saw their country torn apart over issues o
 
 2000 Michael Strysick. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/01.3/strysick/
+[jcrt.org/archives/01.3/strysick](https://jcrt.org/archives/01.3/strysick/)
 
 ---
 

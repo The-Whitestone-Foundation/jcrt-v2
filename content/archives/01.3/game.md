@@ -111,7 +111,7 @@ St Paul's fall is such a shocking experience that we use the expression 'road to
 
 2000 Ann Game. All rights reserved.  
 Updated 07/28/21.   
-http://jcrt.org/archives/01.3/game/
+[jcrt.org/archives/01.3/game](https://jcrt.org/archives/01.3/game/)
 
 ---
 
