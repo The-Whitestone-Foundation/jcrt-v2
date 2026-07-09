@@ -281,11 +281,6 @@
 /religioustheory/posts/12/* /religioustheory/posts/ 301
 
 # Legacy religioustheory tag and tag feed redirects
-/religioustheory/category /religioustheory/categories/ 301
-/religioustheory/category/ /religioustheory/categories/ 301
-/religioustheory/category/:slug /religioustheory/categories/:slug/ 301
-/religioustheory/category/:slug/ /religioustheory/categories/:slug/ 301
-/religioustheory/category/:slug/* /religioustheory/categories/:slug/ 301
 /religioustheory/tags/robert-caserio /religioustheory/tags/ 301
 /religioustheory/tags/robert-caserio/ /religioustheory/tags/ 301
 /religioustheory/tags/dark /religioustheory/tags/ 301
