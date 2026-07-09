@@ -26,3 +26,5 @@
 
 /pagefind/*
   Cache-Control: public, max-age=172800, stale-while-revalidate=604800
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
