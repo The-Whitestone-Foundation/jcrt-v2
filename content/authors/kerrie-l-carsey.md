@@ -1,6 +1,6 @@
 ---
 nanoid: "QMnMm3"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khldztf2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7crzaor27'
 name: Kerrie L. Carsey
 affiliation: "York College of Pensylvania"
 bio:

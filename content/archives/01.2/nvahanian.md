@@ -1,7 +1,7 @@
 ---
 nanoid: "HiJKhL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgwilkg2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc6mt522'
 title: "Rebellious No"
 article_number:
 author: "Noëlle Vahanian"

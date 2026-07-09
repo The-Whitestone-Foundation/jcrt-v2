@@ -1,7 +1,7 @@
 ---
 nanoid: "hFghCo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgwdxxv2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc35gz27'
 title: "An Ethics of Remembering: History, Heterology, and the Nameless Others"
 article_number:
 author: "Steven G Smith"

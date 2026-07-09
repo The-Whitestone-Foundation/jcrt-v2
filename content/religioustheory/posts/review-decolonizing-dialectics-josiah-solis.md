@@ -1,7 +1,7 @@
 ---
 nanoid: "renVw-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kf7sbrj2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ay6nxf2s'
 title: Review – Decolonizing Dialectics (Josiah Solis)
 description: "*Ciccariello-Maher, George. Decolonizing Dialectics. Durham NC: Duke University Press, 2017. 256 pages. ISBN-10: 0822362430 ISBN-10: 0822362430. It highlights"
 date: '2018-11-30T12:46:04.000Z'

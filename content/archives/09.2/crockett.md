@@ -1,7 +1,7 @@
 ---
 nanoid: "Sb0RHm"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgcp3xv2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7bsyqzz2c'
 title: "The Sublime and the Messianic: a Reply to Agata Bielek-Robson"
 author: "Clayton Crockett"
 affilation:

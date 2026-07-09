@@ -1,7 +1,7 @@
 ---
 nanoid: "2D7cN-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kguy2sj2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cazblb2c'
 title: "The Scandal of the Evangelical Mind"
 article_number:
 author: "Michael Tadashi Sugimoto"

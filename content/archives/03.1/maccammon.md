@@ -1,7 +1,7 @@
 ---
 nanoid: "xFua_n"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgta2qn25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7pdnz27'
 title: "The Just"
 article_number:
 author: "Linda M MacCammon"

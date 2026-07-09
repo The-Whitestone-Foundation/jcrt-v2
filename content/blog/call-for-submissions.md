@@ -1,7 +1,7 @@
 ---
 nanoid: "HGrNYv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kefq4df2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ae6tgs25'
 title: Call for Submissions
 description: "The Journal for Cultural and Religious Theory (JCRT) invites submissions for the JCRT.org blog on a rolling basis. JCRT is a peer-reviewed journal devoted to both disciplinary and interdisciplinary scholarship of a cutting-edge nature that engages the phenomenon of religious and cultural theory broadly construed."
 date: 2026-03-03 #YYY-MM-DD

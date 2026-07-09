@@ -1,7 +1,7 @@
 ---
 nanoid: "ucBdeF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtj7nv22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7wdjq2r'
 title: "Across the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion"
 article_number:
 author: "Carol S Anderson"

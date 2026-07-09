@@ -1,7 +1,7 @@
 ---
 nanoid: "nG8y9e"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtwpcx2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cab54c25'
 title: "Beyond Foundationalism: Shaping Theology in a Postmodern Context"
 article_number:
 author: "Paul Lakeland"

@@ -1,7 +1,7 @@
 ---
 nanoid: "yU7aKL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtgwh62b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ulpa2w'
 title: "The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought"
 article_number:
 author: "William D Dean"

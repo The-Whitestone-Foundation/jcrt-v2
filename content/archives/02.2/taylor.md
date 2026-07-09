@@ -1,7 +1,7 @@
 ---
 nanoid: "3tu5L4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kguc5ks22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cajqis25'
 title: "The Metaphysics of Indeterminacy: Postmodern Religious Theory and the Ruin of Referentiality"
 article_number:
 author: "Victor Taylor"

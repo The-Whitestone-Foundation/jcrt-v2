@@ -1,7 +1,7 @@
 ---
 nanoid: "3H0GJL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgqzkxo2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5zm2j2c'
 title: "When Marion’s Theology Seeks Certainty"
 article_number:
 author:

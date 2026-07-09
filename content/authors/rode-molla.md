@@ -1,6 +1,6 @@
 ---
 nanoid: "MjNHDL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kh6e77i2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ci53jf2s'
 name: Rode Molla
 affiliation: "Virginia Theological Seminary, University of Denver/Iliff School of Theology"
 bio:

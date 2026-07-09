@@ -1,7 +1,7 @@
 ---
 nanoid: "B075nw"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgul3ps2l'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caqn6w2x'
 title: "On Contagions: Leviticus and the Fascination of the Abomination"
 article_number:
 author: "Gerald Majer"

@@ -1,7 +1,7 @@
 ---
 nanoid: "7lGkb2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtlg3t2r'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7y2362w'
 title: "A. I: Artificial Intelligence"
 article_number:
 author: "Dennis M Weiss"

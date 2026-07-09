@@ -1,7 +1,7 @@
 ---
 nanoid: "s6LQr3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgvm7bw2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbivhx2b'
 title: "Aristotle and Religious Theory"
 article_number:
 author: "Alan J Richard"

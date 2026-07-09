@@ -1,7 +1,7 @@
 ---
 nanoid: "KOh3sj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kervcgg2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7anf7fu2e'
 title: "From Holistic to in-Between Theology: the Ethiopian Evangelical Church Mekane Yesus"
 author: "Rode Molla"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "uGKH0w"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6keez7we25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7adn5vx2b'
 title: "CFP: Religion, Politics, and Cognitive Warfare"
 description: "This call for papers invites work on religion, politics, and cognitive warfare, exploring how belief, media, conspiracy, identity, and power shape struggles over reality, interpretation, and life in an age of disinformation, polarization, and contested truth. Essays may be theoretical, historical, or contemporary."
 image: /images/header.webp

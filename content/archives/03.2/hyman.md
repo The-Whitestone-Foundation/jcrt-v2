@@ -1,7 +1,7 @@
 ---
 nanoid: "Ph2RDi"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgsscc72c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ej632k'
 title: "Radical Orthodoxy, Ethics and Ambivalence"
 article_number:
 author: "Gavin Hyman"

@@ -1,7 +1,7 @@
 ---
 nanoid: "hJQP6q"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgniqj72c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c3d3m62g'
 title: "Dialectic of the Past / Disjuncture of the Future: Derrida and Benjamin on the Concept of Messianism"
 author: "Owen Ware"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "zQDYIy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgs7ye72c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6wtlg2x'
 title: "Sacred Pain: Hurting the Body for the Sake of the Soul"
 article_number:
 author: "Perri Druen"

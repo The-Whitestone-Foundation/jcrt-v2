@@ -1,7 +1,7 @@
 ---
 nanoid: "ehFOUK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgrz3p22l'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6rqio2x'
 title: "The Benefit of the Doubt: Merold Westphal’s Prophetic Philosophy of Religion"
 article_number:
 author: "B Keith Putt"

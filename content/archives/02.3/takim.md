@@ -1,7 +1,7 @@
 ---
 nanoid: "f9Eojs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtnpbf25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7zpqp2l'
 title: "Muslims: Their Religious Beliefs and Practices"
 article_number:
 author: "Liyakatali Takim"

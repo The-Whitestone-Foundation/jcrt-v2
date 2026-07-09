@@ -1,7 +1,7 @@
 ---
 nanoid: "CByjR-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfhd2rf2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7b5zohu2e'
 title: Review – Reframing Schelling (Rolando Rodriguez)
 description: "Daniel Whistler, **Schelling’s Theory of Symbolic Language: Forming the System of Identity (Oxford, UK: Oxford University Press, 2013), 261 ppgs + xi**"
 date: '2017-11-04T02:51:21.000Z'

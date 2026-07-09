@@ -1,7 +1,7 @@
 ---
 nanoid: "ZSKwB0"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfkvzim25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7basowz27'
 title: The End of Theology and The Event of Truth
 author: Carl Raschke
 affilation:

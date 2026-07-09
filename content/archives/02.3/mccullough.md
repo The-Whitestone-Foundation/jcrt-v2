@@ -1,7 +1,7 @@
 ---
 nanoid: "LsShyG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgts6sg2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca5hwc25'
 title: "Jean Baudrillard and the Death of God"
 article_number:
 author: "Lissa McCullough"

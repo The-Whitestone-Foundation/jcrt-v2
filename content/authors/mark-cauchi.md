@@ -1,6 +1,6 @@
 ---
 nanoid: "tB3wMD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khi36ey2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cpixj42e'
 name: Mark Cauchi
 affiliation: "York University "
 bio:

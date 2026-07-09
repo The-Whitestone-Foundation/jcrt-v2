@@ -1,7 +1,7 @@
 ---
 nanoid: "EM_qEq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfmxk6w2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7bcfizf2x'
 title: Review – Whence and Whither Posthumanism? (Bo Eberle)
 description: "*White, Ryan. The Hidden God: Pragmatism and Posthumanism in American Thought. New York: Columbia University Press, 2015. ISBN-10: 0231171005 Hardcover, e-book."
 date: '2016-10-06T08:00:49.000Z'

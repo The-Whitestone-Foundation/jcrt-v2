@@ -1,7 +1,7 @@
 ---
 nanoid: "9PTTA3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgwblsh2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbysch2l'
 title: "The Division of Religion with Signs Following"
 article_number:
 author: "Victor Taylor"

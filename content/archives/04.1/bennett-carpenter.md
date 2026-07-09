@@ -1,7 +1,7 @@
 ---
 nanoid: "EkLQq5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgrjdqq2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6fnp226'
 title: "Quoting Mieke Bal’s Navel: Contemporary Theory, Preposterous Religion"
 article_number:
 author: "Benjamin Bennett-Carpenter"

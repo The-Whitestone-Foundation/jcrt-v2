@@ -1,7 +1,7 @@
 ---
 nanoid: "2-QQtW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kevwchg2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7aqjqbg2g'
 title: 'Tsimtsum In Life Of Pi, Part 4 (Daniel Reiser)'
 description: "The following is the last of a four-part series. The first can be found here, the second here, the third here. Is what Martel presents his readers only a"
 date: '2020-12-22T05:53:55.000Z'

@@ -1,7 +1,7 @@
 ---
 nanoid: "lYKsvT"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgpqr7a2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c52jsb27'
 title: "Native Pragmatism: Rethinking the Roots of American Philosophy"
 author: "Ken Lokensgard"
 affilation:
