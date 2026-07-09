@@ -345,6 +345,7 @@
 /web/ / 301
 
 # split-repo asset bridge (jcrt-v2 -> files.jcrt.org)
+/images/logos/site.webmanifest /images/logos/site.webmanifest 200
 /images/* https://files.jcrt.org/images/:splat 301
 /docs/* https://files.jcrt.org/docs/:splat 301
 /citations/* https://files.jcrt.org/citations/:splat 301

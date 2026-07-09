@@ -6,43 +6,16 @@
 <div id="sidebar-menu">
 
 <div class="mb-3 p-3">
-<link rel="preload" href="/pagefind/pagefind-ui.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link href="/pagefind/pagefind-ui.css" rel="stylesheet"></noscript>
-<script defer src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
+<noscript>
+    <form action="/search/" method="get" role="search" style="display:flex;gap:8px;">
+        <input type="search" name="q" placeholder="Search" aria-label="Search" style="flex:1;min-width:0;padding:8px;border:1px solid #ccc;-webkit-appearance:none;box-sizing:border-box;">
+        <button type="submit" class="btn btn-primary btn-sm">Go</button>
+    </form>
+</noscript>
 <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        const searchEl = document.querySelector("#search");
-        const renderFallback = () => {
-            if (!searchEl) return;
-            searchEl.innerHTML = `
-                <form action="/search/" method="get" role="search" style="display:flex;gap:8px;">
-                    <input type="search" name="q" placeholder="Search" aria-label="Search" style="flex:1;min-width:0;padding:8px;border:1px solid #ccc;-webkit-appearance:none;box-sizing:border-box;">
-                    <button type="submit" class="btn btn-primary btn-sm">Go</button>
-                </form>
-            `;
-        };
-        if (typeof PagefindUI !== "function") {
-            renderFallback();
-            return;
-        }
-        try {
-            new PagefindUI({
-                element: "#search",
-                showSubResults: true,
-                processResult: (result) => {
-                    const currentTitle = result?.meta?.title || result?.title || "";
-                    if (!currentTitle.trim()) {
-                        const cleanPath = (result?.url || "").replace(/\/$/, "");
-                        const fallbackTitle = decodeURIComponent(cleanPath.split("/").pop() || result?.url || "Untitled");
-                        result.title = fallbackTitle.replace(/[-_]+/g, " ");
-                    }
-                    return result;
-                }
-            });
-        } catch {
-            renderFallback();
-        }
+    window.addEventListener("DOMContentLoaded", () => {
+        window.lazyPagefindSearch?.("#search");
     });
 </script>
 </div>

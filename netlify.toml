@@ -3,14 +3,14 @@
   publish = "_site"
 
 [build.environment]
-  NODE_VERSION = "22"
+  NODE_VERSION = "24"
   NPM_FLAGS = "--prefer-offline"
   NPM_CONFIG_CACHE = ".npm-cache"
   ELEVENTY_ENV = "production"
   SITE_URL = "https://jcrt.org"
 
 [build.processing]
-  skip_processing = false
+  skip_processing = true
 
 [build.processing.html]
   pretty_urls = true
@@ -44,7 +44,7 @@
 [[plugins]]
   package = "netlify-plugin-cache"
   [plugins.inputs]
-    paths = [".cache"]
+    paths = [".cache", ".npm-cache"]
 
 [[edge_functions]]
   function = "allow-indexing-bots"
