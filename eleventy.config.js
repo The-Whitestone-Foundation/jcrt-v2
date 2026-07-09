@@ -438,11 +438,9 @@ export default async function (eleventyConfig) {
 	// Versioned pagefind bundle path so a pagefind upgrade changes asset URLs
 	// and bypasses stale CDN copies of pagefind.js (see public/_redirects).
 	// Read directly: the pagefind package's "exports" map hides package.json.
-	// "-1" busts a CDN-cached 404 for /pagefind/v/1.5.2/pagefind.js recorded
-	// during the rollout of the rewrite; drop it on the next pagefind upgrade.
 	eleventyConfig.addGlobalData(
 		"pagefindVersion",
-		`${JSON.parse(fs.readFileSync(path.join(process.cwd(), "node_modules", "pagefind", "package.json"), "utf8")).version}-1`,
+		JSON.parse(fs.readFileSync(path.join(process.cwd(), "node_modules", "pagefind", "package.json"), "utf8")).version,
 	);
 	eleventyConfig.addGlobalData("isBenchMode", isBenchMode);
 	eleventyConfig.addGlobalData("benchIssue", benchIssue);
