@@ -91,6 +91,15 @@ async function computeSourceSignature() {
 		if (!(await fileExists(sourcePath))) continue;
 		await hashTree(sourcePath, lines);
 	}
+	// A pagefind upgrade must invalidate the cached index (index format follows the binary version).
+	try {
+		const pagefindPkg = JSON.parse(
+			await fs.readFile(path.join(process.cwd(), "node_modules", "pagefind", "package.json"), "utf8"),
+		);
+		lines.push(`pagefind-version|${pagefindPkg.version}`);
+	} catch {
+		lines.push(`pagefind-version|unknown-${Date.now()}`);
+	}
 	lines.sort((a, b) => a.localeCompare(b));
 	return sha256(lines.join("\n"));
 }
