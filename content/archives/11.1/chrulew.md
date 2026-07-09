@@ -1,7 +1,7 @@
 ---
 nanoid: "r-_xeJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqkym672b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg63bi72s'
 title: "The Pauline Ellipsis in Foucault’s Genealogy of Christianity"
 author: "Matthew Chrulew"
 affilation:

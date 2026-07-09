@@ -1,6 +1,6 @@
 ---
 nanoid: "sXiF-8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusm63uc2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6ki3jaod2l'
 name: Christopher Mayes
 affiliation: "Centre for Values, Ethics and the Law in Medicine, University of Sydney"
 bio:

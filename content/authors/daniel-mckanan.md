@@ -1,6 +1,6 @@
 ---
 nanoid: "ZDW2dc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuskqyis2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6ki26pd525'
 name: Daniel Mckanan
 affiliation: "Harvard Divinity School"
 bio:

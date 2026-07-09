@@ -1,7 +1,7 @@
 ---
 nanoid: "Qs4TlX"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupzzikz26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfnjq7w2e'
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tutt)'
 description: "The following is the first installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.” It has been"
 date: '2016-09-05T06:20:15.000Z'

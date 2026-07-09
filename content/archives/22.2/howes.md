@@ -1,7 +1,7 @@
 ---
 nanoid: "j1DaCU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuow7ed22v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kemqovc2l'
 title: "Hegel Contra God: Replying to Gavin Hyman’s ‘New Hegel’"
 article_number:
 author: "Rebekah Howes"

@@ -1,7 +1,7 @@
 ---
 nanoid: "r0-ASx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuoxg3632z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kenuifg2e'
 title: >-
   Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 2
   (Erik Meganck)

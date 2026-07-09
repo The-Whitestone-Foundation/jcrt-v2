@@ -1,7 +1,7 @@
 ---
 nanoid: "rA0bkk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturampb625'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgsgs4h27'
 title: "Desire and Mourning: Theology and the Literary Imagination"
 article_number:
 author: "Victor Taylor"

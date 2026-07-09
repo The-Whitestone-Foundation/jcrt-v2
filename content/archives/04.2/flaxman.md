@@ -1,7 +1,7 @@
 ---
 nanoid: "pEh7jv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur6szc22m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgqqdzt2r'
 title: "Past Imperfect, Future Unknown: the Discourse of Theory"
 article_number:
 author: "Gregory Flaxman"

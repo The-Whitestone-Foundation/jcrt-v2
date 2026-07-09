@@ -1,7 +1,7 @@
 ---
 nanoid: "DZjo-M"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptup3xq2a2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kesjdz52x'
 title: "‘Scale Relative Ontology’ and Simone Weil’s Spiritual Philosophy."
 author: "N. E. Boulting"
 affilation:

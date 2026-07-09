@@ -1,7 +1,7 @@
 ---
 nanoid: "-sJP6x"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturcgmj22m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgu5k3h2c'
 title: "Contributions to Philosophy (from Enowning)"
 article_number:
 author: "Clayton Crockett"

@@ -1,7 +1,7 @@
 ---
 nanoid: "iwtdre"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqhsmre2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg34ggj2w'
 title: "The Intelligence of the Book: the Religious Studies Classroom as Translation Workshop."
 author: "Joseph Ballan"
 affilation:

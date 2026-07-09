@@ -1,6 +1,6 @@
 ---
 nanoid: "GiVzCY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturvm5cp26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khfogda2k'
 name: Michael J Brogan
 affiliation: "Villanova University"
 bio:

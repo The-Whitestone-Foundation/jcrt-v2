@@ -1,7 +1,7 @@
 ---
 nanoid: "B3u3l0"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturezbqc2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgw2tyo2b'
 title: "The Religious Art of Andy Warhol"
 article_number:
 author: "Benjamin Bennett-Carpenter"

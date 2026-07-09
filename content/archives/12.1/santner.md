@@ -1,7 +1,7 @@
 ---
 nanoid: "SkWyOn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqi47qo25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg3fggh2c'
 title: "Response"
 author: "Eric L Santner"
 affilation:

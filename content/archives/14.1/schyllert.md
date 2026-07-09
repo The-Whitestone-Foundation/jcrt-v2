@@ -1,7 +1,7 @@
 ---
 nanoid: "6y9k6E"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqc5aul2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfv2l7o2b'
 title: "Inventing Eden: Primitivism, Millennialism, and the Making of New England."
 author: "Sanna Melin Schyllert"
 affilation:

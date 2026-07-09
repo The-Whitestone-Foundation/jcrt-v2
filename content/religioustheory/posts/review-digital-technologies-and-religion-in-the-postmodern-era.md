@@ -1,7 +1,7 @@
 ---
 nanoid: "oPsJ-7"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuq33zqx2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfoj7yv2w'
 title: >-
   Review – Digital Technologies and Religion in the Postmodern Era (Albert
   McClure)

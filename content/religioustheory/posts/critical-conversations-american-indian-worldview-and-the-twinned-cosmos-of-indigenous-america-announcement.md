@@ -1,7 +1,7 @@
 ---
 nanoid: "ZTNIc_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptup7zffc2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kew7dgs22'
 title: >-
   Critical Conversations – American Indian Worldview And The Twinned Cosmos Of
   Indigenous America (Announcement)

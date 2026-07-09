@@ -1,7 +1,7 @@
 ---
 nanoid: "4V6x0f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturd6z5u2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kguvrj62e'
 title: "Artist’s Statement"
 article_number:
 author: "Christopher M Taylor; Christopher M Taylor"

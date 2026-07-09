@@ -1,7 +1,7 @@
 ---
 nanoid: "I_CzAk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur5ermn2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgpfluj2w'
 title: "World and Life as One: Ethics and Ontology in Wittgenstein’s Early Thought"
 author: "Andrew Saldino"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "k4jH2C"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqcguss2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfvdldo2e'
 title: "“Mother Is God in the Eyes of a Child:” Mariology, Revelation, and Mothers in Silent Hill."
 author: "Amy M. Green"
 affilation:

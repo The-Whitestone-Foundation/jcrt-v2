@@ -1,6 +1,6 @@
 ---
 nanoid: "fq3qTG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturw4vc624'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khg5rjx2c'
 name: Michael Cocksworth
 affiliation:
 bio:

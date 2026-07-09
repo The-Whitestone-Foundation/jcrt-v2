@@ -1,6 +1,6 @@
 ---
 nanoid: "W4wbWx"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusffz742m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khv5gaz2w'
 name: Gabriel Vahanian
 affiliation: "Marc Bloch University"
 bio:

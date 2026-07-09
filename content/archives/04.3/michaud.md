@@ -1,7 +1,7 @@
 ---
 nanoid: "2v4Tpo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur5lxdd2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgpmcm72s'
 title: "The Face of the Deep: a Theology of Becoming"
 author: "Derek Michaud"
 affilation:

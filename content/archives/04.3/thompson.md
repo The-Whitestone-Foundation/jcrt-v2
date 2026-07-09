@@ -1,7 +1,7 @@
 ---
 nanoid: "APZwKr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur57yqo25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgpb66i2k'
 title: "The God Who May Be: a Hermeneutics of Religion"
 author: "Curtis L Thompson"
 affilation:

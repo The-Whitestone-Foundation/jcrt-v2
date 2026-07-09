@@ -1,7 +1,7 @@
 ---
 nanoid: "53sbLe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupddhm42m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kezanro2g'
 title: "Critique in a Postsecular Age: Making Room for Tradition as a Medium"
 author: "Ori Rotlevy"
 affilation:

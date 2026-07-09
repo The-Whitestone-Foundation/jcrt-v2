@@ -1,6 +1,6 @@
 ---
 nanoid: "xZAFcf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptus47vhy2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khlrhjw2b'
 name: Katharine Sarah Moody
 affiliation: "Independent Scholar"
 bio:

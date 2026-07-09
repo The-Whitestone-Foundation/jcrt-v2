@@ -1,6 +1,6 @@
 ---
 nanoid: "E_VKVV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturw2jkg25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khg3mbz2w'
 name: Michael E. Chaness
 affiliation: "Assistant Professor at State University of New York (SUNY) Oswego, State University of New York Oswego"
 bio: |-

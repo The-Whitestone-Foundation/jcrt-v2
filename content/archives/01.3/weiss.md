@@ -1,7 +1,7 @@
 ---
 nanoid: "rdTpAM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturdsg5g25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgvhopq2k'
 title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
 article_number:
 author: "Dennis M Weiss"

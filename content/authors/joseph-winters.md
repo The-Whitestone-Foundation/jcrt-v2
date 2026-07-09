@@ -1,6 +1,6 @@
 ---
 nanoid: "v4h7D9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptus5krsj2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khn4nfw2e'
 name: Joseph Winters
 affiliation: "University of North Carolina, Charlotte"
 bio:

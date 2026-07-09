@@ -1,7 +1,7 @@
 ---
 nanoid: "_eBZ2y"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptup2rjoc2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kerfrfk2l'
 title: "The Beautiful Marrano: a Response to Agata Bielik-Robson"
 author: "Arthur Bradley"
 affilation:

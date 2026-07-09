@@ -1,7 +1,7 @@
 ---
 nanoid: "dVDOsM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuott7sc2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kekjrft2r'
 title: "Modern Theology and the Dialectic of God."
 author: "Kelly Maeshiro"
 affilation:

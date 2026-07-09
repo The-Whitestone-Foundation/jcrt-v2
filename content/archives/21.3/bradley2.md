@@ -1,7 +1,7 @@
 ---
 nanoid: "piSG8Y"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptup2keie2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6keqqsi222'
 title: "Caveat Lector: Introduction"
 author: "Arthur Bradley"
 affilation:

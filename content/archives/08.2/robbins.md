@@ -1,7 +1,7 @@
 ---
 nanoid: "hREZw5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqr62u726'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgdx2by2k'
 title: "Religion, Democracy and the Politics of Fright: Editorial Introduction"
 author: "Jeffrey W Robbins"
 affilation:

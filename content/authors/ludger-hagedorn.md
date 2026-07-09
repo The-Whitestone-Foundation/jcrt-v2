@@ -1,6 +1,6 @@
 ---
 nanoid: "ePWF23"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturzvaqc2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khjm5tz2w'
 name: Ludger Hagedorn
 affiliation: "IWM, Institute for Human Sciences, Vienna"
 bio:

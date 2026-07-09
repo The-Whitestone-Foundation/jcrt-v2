@@ -1,7 +1,7 @@
 ---
 nanoid: "7kzFQC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqtirjx2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgg53in26'
 title: "Digital Nation: Toward an Inclusive Information Society"
 author: "Jeff Ritchie"
 affilation:

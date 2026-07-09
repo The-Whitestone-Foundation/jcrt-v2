@@ -1,7 +1,7 @@
 ---
 nanoid: "F54Q7v"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur773sa2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgr3rbo2g'
 title: "The Matter of Responsibility: Derrida and Gifting Across Cultures"
 article_number:
 author: "Ken Lokensgard"

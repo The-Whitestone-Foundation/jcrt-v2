@@ -1,6 +1,6 @@
 ---
 nanoid: "gGkVxz"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturzjguq2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khjb7bb2w'
 name: Madeline Yonker
 affiliation: "York College of Pennsylvania"
 bio:

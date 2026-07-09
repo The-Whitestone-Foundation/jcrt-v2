@@ -1,7 +1,7 @@
 ---
 nanoid: "5z4-n9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur7sg6c2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgrnz6k22'
 title: "In Our Image: Artificial Intelligence and the Human Spirit"
 article_number:
 author: "Dennis M Weiss"

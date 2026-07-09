@@ -1,6 +1,6 @@
 ---
 nanoid: "wboShF"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturxg3v22b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khhd3xw2g'
 name: Martin Woessner
 affiliation: "The City College of New York"
 bio:

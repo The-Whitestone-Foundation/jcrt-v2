@@ -1,6 +1,6 @@
 ---
 nanoid: "Xy8xBr"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturnx3jk2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kh6gfif22'
 name: Rocco Gangle
 affiliation:
 bio:

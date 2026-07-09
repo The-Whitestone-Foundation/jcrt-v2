@@ -1,7 +1,7 @@
 ---
 nanoid: "zM81xL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuq4ey242m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfpq2bl2r'
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology” – Part 1'
 description: "> Jesus, who was concerned till manhood with his own personal development, was free from the contagious sickness of his age and his people; free from the"
 date: '2016-04-27T01:19:32.000Z'

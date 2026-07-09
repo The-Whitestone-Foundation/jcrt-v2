@@ -1,7 +1,7 @@
 ---
 nanoid: "WROjk_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqmb3ht2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg7g4mc22'
 title: "Christ, History and Apocalyptic: the Politics of Christian Mission"
 author: "Daniel Colucciello Barber"
 affilation:

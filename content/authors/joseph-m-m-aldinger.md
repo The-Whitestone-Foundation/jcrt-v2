@@ -1,6 +1,6 @@
 ---
 nanoid: "7hwNlk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptus5rw7e2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khnd7gd2r'
 name: Joseph M. M. Aldinger
 affiliation: "Lynchburg College"
 bio:

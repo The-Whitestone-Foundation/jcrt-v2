@@ -1,6 +1,6 @@
 ---
 nanoid: "-UQAuV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturreqzt2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khbo6vw2g'
 name: Paul Lakeland
 affiliation: "Fairfield University"
 bio:

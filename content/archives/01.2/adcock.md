@@ -1,7 +1,7 @@
 ---
 nanoid: "jN40op"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturfrwvn2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgwrrgt2l'
 title: "Xena Warrior Princess and the Texture of the Religious: Re-Imagining the Role of Popular Culture in Academic Discourse"
 article_number:
 author: "David A Adcock"

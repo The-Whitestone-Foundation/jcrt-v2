@@ -1,7 +1,7 @@
 ---
 nanoid: "QyABjk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuotcq322b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kek24ew2e'
 title: "Transforming Schema: Toward an Integral Ecology."
 author: "Kevin Hujing"
 affilation:

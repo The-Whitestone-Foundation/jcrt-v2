@@ -1,7 +1,7 @@
 ---
 nanoid: "vzgbB_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuphyplh26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kf5kwlg2g'
 title: "Jonathan Edwards and the Vegan Elect: an Unconventional Calvinist Reading."
 author: "Tadd Ruetenik"
 affilation:

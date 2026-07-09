@@ -1,6 +1,6 @@
 ---
 nanoid: "DeSpEF"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturgqupm2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgxot6d2r'
 name: William Little
 affiliation: "University of Victoria"
 bio:

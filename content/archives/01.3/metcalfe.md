@@ -1,7 +1,7 @@
 ---
 nanoid: "4MUccs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturen4qm2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgvplng2b'
 title: "Wonder, Creativity and Knowledge"
 article_number:
 author: "Andrew W Metcalfe"

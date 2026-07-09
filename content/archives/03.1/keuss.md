@@ -1,7 +1,7 @@
 ---
 nanoid: "l0kLpJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturbjm2w25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtcdwn22'
 title: "DiffÉRance That Comes as One Unknown: Christology After Derrida’s ‘Structure, Sign, and Play in the Discourse of the Human Sciences’"
 article_number:
 author: "Jeffrey F Keuss"

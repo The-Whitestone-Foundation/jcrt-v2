@@ -1,7 +1,7 @@
 ---
 nanoid: "SJKmEA"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupsolz726'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfgr2l72s'
 title: "Biopolitics and Vajrayana Buddhism."
 author: "Padraic Fitzgerald"
 affilation:

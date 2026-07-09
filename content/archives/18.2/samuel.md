@@ -1,7 +1,7 @@
 ---
 nanoid: "z73k72"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupjbfmo25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kf6qvg32r'
 title: "Admitting a Certain Fear of ŽIŽEk’s Theology: a Modest Plea for a Deleuzian Reading of the Death of God."
 author: "Joshua Samuel"
 affilation: Union Theological Seminary

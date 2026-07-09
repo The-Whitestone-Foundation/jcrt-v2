@@ -1,6 +1,6 @@
 ---
 nanoid: "oB8aOg"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusl4vqe2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6ki2jrss22'
 name: Daniel Fishley
 affiliation: "Emmanuel College of Victoria University in the University of Toronto"
 bio:

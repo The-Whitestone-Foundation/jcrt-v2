@@ -1,7 +1,7 @@
 ---
 nanoid: "itzSh-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur7pytv2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgrlqw222'
 title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
 article_number:
 author: "Michael J Zerbe"

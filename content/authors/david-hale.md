@@ -1,6 +1,6 @@
 ---
 nanoid: "6qYy_C"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusjkqlk2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khyx5p222'
 name: David Hale
 affiliation: "Yampa College, University of Denver"
 bio:

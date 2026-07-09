@@ -1,6 +1,6 @@
 ---
 nanoid: "ma_sPf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusmov222b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6ki3yunk22'
 name: Christina Gschwandtner
 affiliation: "FORDHAM UNIVERSITY"
 bio:

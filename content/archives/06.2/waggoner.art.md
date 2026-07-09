@@ -1,7 +1,7 @@
 ---
 nanoid: "_Lwoep"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqxyji42m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgkani525'
 title: "Death of a Discipline"
 author: "Matthew Waggoner"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "KRR9zI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupe5j5r26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kezz7s727'
 title: "The Irreducible."
 author: "Jean-Luc Marion"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "tKsKtS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqrts4e2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgemnoh2s'
 title: "The Politics of Fear and the Gospel of Life"
 author: "Daniel M Jr Bell"
 affilation:

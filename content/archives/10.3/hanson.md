@@ -1,7 +1,7 @@
 ---
 nanoid: "uumiKH"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqlssag24'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg6yky727'
 title: "A Tale of Two Doublets: Derrida and Kierkegaard"
 author: "Jeffrey Hanson"
 affilation: 

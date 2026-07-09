@@ -1,7 +1,7 @@
 ---
 nanoid: "cJhjcM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqceix42m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfvbdz62b'
 title: "The Shepherd Meets the Divine Economy: Foucault, Agamben, and the Christian Genealogy of Governance."
 author: "Lauri SiisiÄInen"
 affilation:

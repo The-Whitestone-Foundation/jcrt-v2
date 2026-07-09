@@ -1,7 +1,7 @@
 ---
 nanoid: "6B1S-C"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturarkzq2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgslhj522'
 title: "The Word of Freud: Our God Is Logos"
 article_number:
 author: "Robert Metcalf"

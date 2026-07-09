@@ -1,6 +1,6 @@
 ---
 nanoid: "QxTR3s"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturlhxzd2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kh44ain25'
 name: Silas Guerriero
 affiliation: "Pontifical Catholic University"
 bio:

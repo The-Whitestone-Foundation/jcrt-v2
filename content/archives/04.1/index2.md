@@ -1,7 +1,7 @@
 ---
 nanoid: "j7YYro"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur7dvcx26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgraark2l'
 title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
 article_number:
 author:

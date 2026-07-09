@@ -1,7 +1,7 @@
 ---
 nanoid: "6Lx93L"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturdpzjn2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgvfhgn2w'
 title: "Creation: Lacan in Kansas"
 article_number:
 author: "Richard Halpern"

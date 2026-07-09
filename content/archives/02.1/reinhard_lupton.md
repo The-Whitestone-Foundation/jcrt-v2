@@ -1,7 +1,7 @@
 ---
 nanoid: "RR1t1a"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturddxgs2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgv2byx2c'
 title: "Revelation: Lacan and the Ten Commandments"
 article_number:
 author: "Kenneth Reinhard; Julia Reinhard Lupton"

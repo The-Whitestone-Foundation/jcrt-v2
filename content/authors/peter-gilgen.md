@@ -1,6 +1,6 @@
 ---
 nanoid: "AYa4IZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturqyswk2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khbdb6n2x'
 name: Peter Gilgen
 affiliation: "Cornell University "
 bio:

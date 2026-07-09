@@ -1,7 +1,7 @@
 ---
 nanoid: "f52Xjv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur6vheb26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgqskc62e'
 title: "After Jacques Derrida Comes the Future"
 article_number:
 author: "John D Caputo"

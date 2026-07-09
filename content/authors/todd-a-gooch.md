@@ -1,6 +1,6 @@
 ---
 nanoid: "FKVnde"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturip3we2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgzitjq2k'
 name: Todd A Gooch
 affiliation: "Eastern Kentucky University"
 bio:

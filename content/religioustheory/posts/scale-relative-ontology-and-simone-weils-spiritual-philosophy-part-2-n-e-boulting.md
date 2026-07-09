@@ -1,7 +1,7 @@
 ---
 nanoid: "L-YjYt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptup5tnd22b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6keu7cl727'
 title: >-
   “Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 2 (N.E.
   Boulting

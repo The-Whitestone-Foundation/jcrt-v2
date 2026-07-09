@@ -1,6 +1,6 @@
 ---
 nanoid: "Bq41ox"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptus4zzkm2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khmkjc72c'
 name: Joshua Ramos
 affiliation: "University of Colorado, Denver"
 bio:

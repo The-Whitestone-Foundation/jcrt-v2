@@ -1,7 +1,7 @@
 ---
 nanoid: "OxVA93"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturada6u2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgs5p3v2x'
 title: "Christianity in Jewish Terms"
 article_number:
 author: "Jason M Flato"

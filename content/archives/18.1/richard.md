@@ -1,7 +1,7 @@
 ---
 nanoid: "ccEjcS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupowyml2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfdddwt2r'
 title: "Freud’s Sociogenesis, and Ours: The"
 author: "Alan Jay Richard"
 affilation:

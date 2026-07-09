@@ -1,6 +1,6 @@
 ---
 nanoid: "URu1-7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturpv4w32z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khab6ey2k'
 name: Raji Singh Soni
 affiliation: "University of Toronto"
 bio:

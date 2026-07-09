@@ -1,6 +1,6 @@
 ---
 nanoid: "DQIZ6K"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturyhktt2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khibsca2k'
 name: Mario Costa
 affiliation: "Drew University"
 bio:

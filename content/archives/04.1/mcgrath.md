@@ -1,7 +1,7 @@
 ---
 nanoid: "R8Gpgr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur727ou2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgqx6nv22'
 title: "PhÄNomenologie Des ReligiÖSen Lebens"
 article_number:
 author: "Sean J McGrath"

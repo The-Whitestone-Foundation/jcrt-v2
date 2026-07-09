@@ -1,7 +1,7 @@
 ---
 nanoid: "K9dbIx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptup5oov624'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6ketz7b62s'
 title: >-
   Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism On The
   Analyst’s Couch (Announcement)

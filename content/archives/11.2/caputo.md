@@ -1,7 +1,7 @@
 ---
 nanoid: "-c0gYS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqkfkmc2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg5jg6f22'
 title: "The Return of Anti-Religion: from Radical Atheism to Radical Theology"
 author: "John D Caputo"
 affilation:

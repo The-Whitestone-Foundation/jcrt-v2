@@ -1,7 +1,7 @@
 ---
 nanoid: "HxXxYE"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuowe4i625'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kemv5fw2s'
 title: "On the Relation of Fashion to Art: An Interview with Ali Hval"
 author: "Ariadne Dubus; Ali Hval; Madeleine Taylor"
 affilation:

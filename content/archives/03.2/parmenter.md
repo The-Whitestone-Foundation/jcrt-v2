@@ -1,7 +1,7 @@
 ---
 nanoid: "Qiek-r"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturap4xg24'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgsj7cf25'
 title: "The Book of the Heart"
 article_number:
 author: "Dorina Miller Parmenter"

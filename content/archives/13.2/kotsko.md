@@ -1,7 +1,7 @@
 ---
 nanoid: "dIoMeI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqdn5fh2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfwhhrs2l'
 title: "Out of the Woods ? on ŽIŽEk’s Less Than Nothing."
 author: "Adam Kotsko"
 affilation:

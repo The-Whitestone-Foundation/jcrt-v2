@@ -1,6 +1,6 @@
 ---
 nanoid: "eqcDJ8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturr36n726'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khbffnj2w'
 name: "Peter d'Errico"
 affiliation: "University of Massachusetts Amherst"
 bio: "Professor Emeritus of Legal Studies Peter d'Errico retired from the niversity of Massachusetts Amherst in August, 2002. A central figure in the development of the Legal Studies Department here at UMass, his research and teaching were focused on the legal issues of Native Americans and indigenous peoples. He has also been active in litigation of indigenous peoples' issues.

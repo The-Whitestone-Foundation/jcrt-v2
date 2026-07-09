@@ -1,6 +1,6 @@
 ---
 nanoid: "RjOadG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptus2uefo25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khkj4ji2k'
 name: Larry T. Shillock
 affiliation: "Wilson College"
 bio:

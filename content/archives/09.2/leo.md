@@ -1,7 +1,7 @@
 ---
 nanoid: "ctZdpB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqpitrt2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgcg2v727'
 title: "Caute: Jonathan Israel’s Secular Modernity"
 author: "Russ Leo"
 affilation:

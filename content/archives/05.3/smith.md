@@ -1,7 +1,7 @@
 ---
 nanoid: "I4TpAx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur22zo72b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgma4sb2w'
 title: "The Cambridge Companion to Postmodern Theology"
 author: "James K A Smith"
 affilation:

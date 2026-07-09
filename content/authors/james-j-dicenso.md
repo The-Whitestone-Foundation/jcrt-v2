@@ -1,6 +1,6 @@
 ---
 nanoid: "3o-rEZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusbtkrs2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khr7jth2s'
 name: James J DiCenso
 affiliation: "University of Toronto"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "hDuffC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupj6z4e2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kf6ooy522'
 title: "If the Qur’an Is God’s Speech, How Does God Speak? Divine Speaking in Contemporary Muslim Discourse."
 author: "Andrea L. Stanton"
 affilation:

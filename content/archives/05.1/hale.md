@@ -1,7 +1,7 @@
 ---
 nanoid: "-fgz_E"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur4wctm2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgoyc3j2w'
 title: "Writing: the Transgression of Religion"
 author: "David Hale"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "hgYhIe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupv3aak2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfix2sp27'
 title: 'Review – The Origins of Neoliberalism: A Racialized Review (Adam F. Braun)'
 description: "*Leshem, Dotan. The Origins of Neoliberalism: Modeling the Economy from Jesus to Foucault. New York: Columbia University Press, 2016. ISBN-10: 0231177763"
 date: '2017-05-04T13:00:57.000Z'

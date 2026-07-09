@@ -1,6 +1,6 @@
 ---
 nanoid: "u8-VBY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusint4t2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khy337v2x'
 name: DJ Spooky That Subliminal Kid
 affiliation:
 bio:

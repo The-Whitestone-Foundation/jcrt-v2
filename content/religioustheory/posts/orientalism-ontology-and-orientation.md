@@ -1,7 +1,7 @@
 ---
 nanoid: "4BGcwc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuoy6rsh2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6keoky3h2c'
 title: >-
   Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H.
   Long, Part 1 (Mehnaz Afridi)

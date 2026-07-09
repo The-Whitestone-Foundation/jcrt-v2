@@ -1,6 +1,6 @@
 ---
 nanoid: "cemGGO"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturt3cog25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khddmqx2s'
 name: Nina P Azari
 affiliation: "Heyendaal Institute University of Nijmegen The Netherlands"
 bio:

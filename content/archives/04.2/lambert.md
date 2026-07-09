@@ -1,7 +1,7 @@
 ---
 nanoid: "6hGyNR"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur6nud22b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgqlsgp2c'
 title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s Gilles Deleuze and the Ruin of Representation)"
 article_number:
 author: "Gregg Lambert"

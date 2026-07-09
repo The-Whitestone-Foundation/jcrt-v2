@@ -1,7 +1,7 @@
 ---
 nanoid: "bG6x4Y"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptur5jj7d2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgpk3df26'
 title: "Varieties of Religion Today: William James Revisited"
 author: "Todd Ream"
 affilation:

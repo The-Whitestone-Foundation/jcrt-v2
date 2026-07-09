@@ -1,7 +1,7 @@
 ---
 nanoid: "mM5F2K"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqhbizp2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg2mdoy2k'
 title: "Pedagogy and Radical Equality: RanciÈRe’s Ignorant Schoolmaster."
 author: "Clayton Crockett"
 affilation:

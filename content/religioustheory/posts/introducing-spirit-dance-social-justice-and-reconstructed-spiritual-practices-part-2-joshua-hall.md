@@ -1,7 +1,7 @@
 ---
 nanoid: "WWTsVd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuoviyxe2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kem3n4b2w'
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 2 (Joshua Hall)

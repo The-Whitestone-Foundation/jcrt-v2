@@ -1,7 +1,7 @@
 ---
 nanoid: "DlAfPr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturbci2a2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgt3lb32r'
 title: "‘Misrecognition of the Limits’: Bourdieu’s Religious Capital and Social Transformation"
 article_number:
 author: "Lora Stone"

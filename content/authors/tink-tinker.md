@@ -1,6 +1,6 @@
 ---
 nanoid: "8E457W"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturiwevb26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgzpifp2s'
 name: Tink Tinker
 affiliation: "wazhazhe/Osage Nation, Iliff School of Theology"
 bio:

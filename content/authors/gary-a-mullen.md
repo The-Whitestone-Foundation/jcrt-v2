@@ -1,6 +1,6 @@
 ---
 nanoid: "UUPCR4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusfbbil2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khuywn222'
 name: Gary A. Mullen
 affiliation: "Gettysburg College"
 bio:

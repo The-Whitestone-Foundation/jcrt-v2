@@ -1,7 +1,7 @@
 ---
 nanoid: "gCs5G3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqayuvo24'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kftyu7b2w'
 title: "God and Epistemic Authority."
 author: "Paul K. Moser"
 affilation:

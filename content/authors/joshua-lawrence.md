@@ -1,6 +1,6 @@
 ---
 nanoid: "jGT6OQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptus5bcge2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khmr2ew2g'
 name: Joshua Lawrence
 affiliation: "Friedens United Church of Christ"
 bio:

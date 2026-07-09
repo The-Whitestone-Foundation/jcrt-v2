@@ -1,7 +1,7 @@
 ---
 nanoid: "0vqWOZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupfapa72y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kf2yrls22'
 title: "Altizer’s Apocalyptic Jesus."
 author: "Theodore W. Jennings"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "JXRVsC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptururydz26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khewes526'
 name: Michael Tadashi Sugimoto
 affiliation:
 bio:

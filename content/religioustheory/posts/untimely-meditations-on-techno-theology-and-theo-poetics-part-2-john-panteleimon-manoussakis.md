@@ -1,7 +1,7 @@
 ---
 nanoid: "IjwjG0"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptupvhhst2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfjcaa72s'
 title: >-
   Untimely Meditations on Techno-Theology and Theo-Poetics, Part 2 (John
   Panteleimon Manoussakis)

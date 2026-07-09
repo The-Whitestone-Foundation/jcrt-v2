@@ -1,6 +1,6 @@
 ---
 nanoid: "40fiPz"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturo3tws2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kh6kwz72s'
 name: Robert Valgenti
 affiliation:
 bio:

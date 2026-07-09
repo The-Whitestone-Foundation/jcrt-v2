@@ -1,7 +1,7 @@
 ---
 nanoid: "3c9WIf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturawfb22i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgspzzv2w'
 title: "Left Traumatized: Zizek’s Lenin and Politics After 9/11"
 article_number:
 author: "Adam Katz"

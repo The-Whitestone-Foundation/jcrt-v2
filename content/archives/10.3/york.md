@@ -1,7 +1,7 @@
 ---
 nanoid: "UlxcCt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqlc2ax26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg6j2v72s'
 title: "Open Spaces, Liminal Places: the Deployment of the Sacred in the Open City"
 author: "Jonathan David York"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "iAj0Up"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturmqoo72b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kh5crvf25'
 name: Sandra Burnup
 affiliation:
 bio:

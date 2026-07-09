@@ -1,7 +1,7 @@
 ---
 nanoid: "Rt2KVM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqgetbw25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfz2lux27'
 title: "Teaching for Social Justice: Creating a Context for Education"
 author: "Rebecca Todd Peters"
 affilation:

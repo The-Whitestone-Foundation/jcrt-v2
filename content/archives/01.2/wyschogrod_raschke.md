@@ -1,7 +1,7 @@
 ---
 nanoid: "-XwQ5a"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturf664624'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgw7dlt2l'
 title: "Heterological History: a Conversation"
 article_number:
 author: "Edith Wyschogrod; Carl A. Raschke"

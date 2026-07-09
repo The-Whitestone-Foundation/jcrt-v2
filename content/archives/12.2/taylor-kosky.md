@@ -1,7 +1,7 @@
 ---
 nanoid: "tGcGQO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqg5pu42m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfytuzv2x'
 title: "Recalling Our Vocation: a Conversation About Teaching with Mark C. Taylor."
 author: "Mark C. Taylor; Jeffrey Kosky"
 affilation:

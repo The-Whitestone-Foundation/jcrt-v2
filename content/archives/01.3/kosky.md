@@ -1,7 +1,7 @@
 ---
 nanoid: "Qd0qE9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturepjjc2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgvrrwf22'
 title: "Contemporary Encounters with Apophatic Theology: the Case of Emmanuel Levinas"
 article_number:
 author: "Jeffrey L Kosky"

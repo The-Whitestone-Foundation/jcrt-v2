@@ -1,6 +1,6 @@
 ---
 nanoid: "eX1Ekw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturhww5r2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgysirj2w'
 name: Vincent F Biondo
 affiliation: "University of California, Santa Barbara"
 bio:

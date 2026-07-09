@@ -1,7 +1,7 @@
 ---
 nanoid: "FAzdwZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuq2pzpe2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfo63lo2e'
 title: >-
   Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part
   2 (Agata Bielik-Robson)

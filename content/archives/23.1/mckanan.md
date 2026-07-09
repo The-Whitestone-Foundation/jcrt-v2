@@ -1,7 +1,7 @@
 ---
 nanoid: "mBFrD8"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuoswtls2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kejov2j2w'
 title: "Ancestral Devotion, New England Conservation, and the Challenge of Environmental Justice"
 author: "Daniel Mckanan"
 affilation:

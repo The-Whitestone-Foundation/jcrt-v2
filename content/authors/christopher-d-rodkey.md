@@ -1,6 +1,6 @@
 ---
 nanoid: "_kNTa5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptusmjzqd2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6ki3uhzk22'
 name: Christopher D Rodkey
 affiliation:
 bio:

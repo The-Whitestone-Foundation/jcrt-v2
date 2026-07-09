@@ -1,7 +1,7 @@
 ---
 nanoid: "VDTtcq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqhiojd2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kg2t3js22'
 title: "Silence, Prayer, and Desire in Pedagogical Practices: a Conversation with Sarah Coakley."
 author: "Sarah Coakley; Tamsin Jones"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "NloI2W"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuqzkcl22i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kglqpn32r'
 title: "Book Profile: Hand to Hand"
 author: "Forrest Clingerman"
 affilation:

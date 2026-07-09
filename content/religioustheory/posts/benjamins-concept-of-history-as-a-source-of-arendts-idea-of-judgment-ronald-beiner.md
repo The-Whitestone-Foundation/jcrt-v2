@@ -1,7 +1,7 @@
 ---
 nanoid: "y_Bls_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuq2l7sa2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kfnzly52x'
 title: >-
   Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part
   1 (Ronald Beiner)

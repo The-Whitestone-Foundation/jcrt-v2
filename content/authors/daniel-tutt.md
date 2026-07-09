@@ -1,6 +1,6 @@
 ---
 nanoid: "CpqWfO"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mptuskhgre2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6khztivq2k'
 name: Daniel Tutt
 affiliation: "George Washington University"
 bio:

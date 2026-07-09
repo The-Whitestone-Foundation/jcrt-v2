@@ -1,7 +1,7 @@
 ---
 nanoid: "mGQQdZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mpturcbugo25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mq6kgtz2jq2k'
 title: "Bluebird: Deliberate Creation of Multiple Personality by Psychiatrists"
 article_number:
 author: "Martin H Katchen"
