@@ -95,7 +95,7 @@ function assertNoArchivePlaceholderSuffixes(failures, ruleLines) {
 		const segments = rule.from.split("/").filter(Boolean);
 		for (const segment of segments) {
 			if (!segment.startsWith(":")) continue;
-			if (/^:[A-Za-z0-9_]+$/.test(segment)) continue;
+			if (/^:[A-Za-z0-9_]+(?:\.[A-Za-z0-9]+)?$/.test(segment)) continue;
 			failures.push(`invalid archive placeholder segment in _redirects "from": ${rule.from}`);
 		}
 	}
@@ -285,8 +285,14 @@ async function validateSearchConsole403Fixtures(failures, matcher) {
 			continue;
 		}
 
-		const shouldRedirectToFiles =
-			sourcePath.startsWith("/citations/") || sourcePath === "/images/logos/site.webmanifest";
+		if (sourcePath === "/images/logos/site.webmanifest") {
+			if (result.status !== 200) {
+				failures.push(`403 fixture ${rawUrl}: expected local manifest to remain 200, got ${result.status}`);
+			}
+			continue;
+		}
+
+		const shouldRedirectToFiles = sourcePath.startsWith("/citations/");
 		if (!shouldRedirectToFiles) {
 			failures.push(`403 fixture ${rawUrl}: unexpected path in fixture`);
 			continue;
@@ -439,9 +445,10 @@ const nonArchiveRules = [
 ];
 
 const assetBridgeRules = [
-	["/images/*", "https://files.jcrt.org/images/:splat"],
-	["/docs/*", "https://files.jcrt.org/docs/:splat"],
-	["/citations/*", "https://files.jcrt.org/citations/:splat"],
+	["/images/logos/site.webmanifest", "/images/logos/site.webmanifest", 200],
+	["/images/*", "https://files.jcrt.org/images/:splat", 301],
+	["/docs/*", "https://files.jcrt.org/docs/:splat", 301],
+	["/citations/*", "https://files.jcrt.org/citations/:splat", 301],
 ];
 
 const malformedPdfRules = [
@@ -458,7 +465,7 @@ for (const rule of [...archiveExceptions, ...archiveIndexRules, archiveRewriteRu
 }
 
 for (const rule of assetBridgeRules) {
-	assertPresentStatus(failures, ruleLines, rule[0], rule[1], 301);
+	assertPresentStatus(failures, ruleLines, rule[0], rule[1], rule[2]);
 }
 
 for (const rule of removedArchiveRules) {
@@ -603,12 +610,7 @@ assertRedirectUrl(
 );
 
 const manifestRedirect = await simulateNetlifyRequest(matcher, "/images/logos/site.webmanifest");
-assertRedirectUrl(
-	failures,
-	manifestRedirect,
-	"https://files.jcrt.org/images/logos/site.webmanifest",
-	"runtime /images/logos/site.webmanifest"
-);
+assertStatus(failures, manifestRedirect, 200, "runtime /images/logos/site.webmanifest");
 
 const imagesRoot = await simulateNetlifyRequest(matcher, "/images/");
 assertStatus(failures, imagesRoot, 410, "runtime /images/");

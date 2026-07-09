@@ -11,25 +11,12 @@ data-bs-target="#searchModal">
 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 </div>
 <div class="modal-body p-3 p-md-3 bg-light rounded opacity-95">
-<link rel="preload" href="/pagefind/pagefind-ui.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link href="/pagefind/pagefind-ui.css" rel="stylesheet"></noscript>
-<script defer src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
+<div id="search-modal-pagefind"></div>
 <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({
-            element: "#search",
-            showSubResults: true,
-            processResult: (result) => {
-                const currentTitle = result?.meta?.title || result?.title || "";
-                if (!currentTitle.trim()) {
-                    const cleanPath = (result?.url || "").replace(/\/$/, "");
-                    const fallbackTitle = decodeURIComponent(cleanPath.split("/").pop() || result?.url || "Untitled");
-                    result.title = fallbackTitle.replace(/[-_]+/g, " ");
-                }
-                return result;
-            }
-        });
+    window.addEventListener("DOMContentLoaded", () => {
+        document.getElementById("searchModal")?.addEventListener("shown.bs.modal", () => {
+            window.renderPagefindSearch?.("#search-modal-pagefind");
+        }, { once: true });
     });
 </script>
 </div>

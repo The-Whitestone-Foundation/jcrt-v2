@@ -99,6 +99,10 @@ export default async (request, context) => {
 		return gone();
 	}
 
+	if (pathname === "/images/logos/site.webmanifest") {
+		return context.next();
+	}
+
 	if (pathname.startsWith("/citations/")) {
 		return redirectToFiles(CITATION_ALIASES.get(pathname) || pathname);
 	}
