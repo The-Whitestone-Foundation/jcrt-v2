@@ -5,6 +5,9 @@
 {% include "partials/seo.njk" %}
 </head>
 <body>
+{# Must precede every pagefind-* component: instance options are read once,
+   and bundle-path auto-detection falls back to the unversioned /pagefind/. #}
+<pagefind-config bundle-path="/pagefind/v/{{ pagefindVersion }}/"></pagefind-config>
 {% include "partials/sidebar.njk" %}
 <div id="content-wrapper" class="site-shell{% if page and page.url == '/' %} site-shell--home{% endif %}">
 {% include "partials/nav_mobile.njk" %}
