@@ -28,3 +28,5 @@
   Cache-Control: public, max-age=172800, stale-while-revalidate=604800
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Content-Type, Accept, Range
+  Access-Control-Expose-Headers: Content-Length, Content-Range, ETag
