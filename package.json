@@ -91,7 +91,7 @@
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-table-of-contents": "^0.8.0",
     "nanoid": "5.1.16",
-    "pagefind": "^1.4.0"
+    "pagefind": "^1.5.2"
   },
   "packageManager": "npm@11.14.0"
 }
