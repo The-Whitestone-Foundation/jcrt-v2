@@ -6,11 +6,53 @@ article_number: '01'
 volume: '24'
 issue: '2'
 pages: 1-5
+subjects:
+  - label: "Decolonization"
+    scheme: "FAST"
+    identifier: "fst00889115"
+    uri: "https://id.worldcat.org/fast/889115"
+    category: "topical"
+  - label: "Doctrine of discovery (International law)"
+    scheme: "FAST"
+    identifier: "fst02040602"
+    uri: "https://id.worldcat.org/fast/2040602"
+    category: "topical"
+  - label: "Indians of North America"
+    scheme: "FAST"
+    identifier: "fst00969633"
+    uri: "https://id.worldcat.org/fast/969633"
+    category: "topical"
+  - label: "Indigenous peoples"
+    scheme: "FAST"
+    identifier: "fst00970213"
+    uri: "https://id.worldcat.org/fast/970213"
+    category: "topical"
+  - label: "Settler colonialism"
+    scheme: "FAST"
+    identifier: "fst02025744"
+    uri: "https://id.worldcat.org/fast/2025744"
+    category: "topical"
+  - label: "Women--Suffrage"
+    scheme: "FAST"
+    identifier: "fst01176996"
+    uri: "https://id.worldcat.org/fast/1176996"
+    category: "topical"
 title: Author Bios
 author: ''
 affiliation: ''
 description: ''
-keywords: []
+keywords:
+  - contributor-biographies
+  - indigenous-studies
+  - doctrine-of-discovery
+  - haudenosaunee
+  - native-american-studies
+  - womens-suffrage
+  - religious-studies
+  - settler-colonialism
+  - environmental-studies
+  - decoloniality
+  - indigenous-values
 pdf: 'author-bios.pdf'
 date: 2026-03-03
 ---

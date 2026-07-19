@@ -5,7 +5,19 @@ author: editors
 title: Author Bios
 affilation:
 abstract:
-keywords: []
+keywords:
+  - contributor-biographies
+  - jewish-thought
+  - marranism
+  - jacques-derrida
+  - political-theology
+  - psychoanalysis
+  - arthur-bradley
+  - sovereignty
+  - biopolitics
+  - deconstruction
+  - kaupapa-maori
+  - settler-colonialism
 pdf: bios.pdf
 sort_id: 01
 volume: 21

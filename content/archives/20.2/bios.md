@@ -5,7 +5,19 @@ title: Author Bios
 author: editors
 affilation:
 abstract:
-keywords: []
+keywords:
+  - contributor-biographies
+  - fundamental-theology
+  - catholic-theology
+  - gianni-vattimo
+  - slavoj-zizek
+  - political-theology
+  - messianism
+  - postmodernism
+  - philosophy-of-religion
+  - materialism
+  - neoliberalism
+  - hans-urs-von-balthasar
 pdf: bios.pdf
 sort_id: 01
 volume: 20

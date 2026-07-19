@@ -19,4 +19,30 @@ issue: 3
 season: spring
 year: 2013
 pages: 140-148
+subjects:
+  - label: "Emigration and immigration"
+    scheme: "FAST"
+    identifier: "fst00908690"
+    uri: "https://id.worldcat.org/fast/908690"
+    category: "topical"
+  - label: "Multiculturalism"
+    scheme: "FAST"
+    identifier: "fst01028836"
+    uri: "https://id.worldcat.org/fast/1028836"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Spivak, Gayatri Chakravorty"
+    scheme: "FAST"
+    identifier: "fst00192388"
+    uri: "https://id.worldcat.org/fast/192388"
+    category: "personal"
+  - label: "Subaltern studies"
+    scheme: "FAST"
+    identifier: "fst01793654"
+    uri: "https://id.worldcat.org/fast/1793654"
+    category: "uniform-title"
 ---

@@ -6,7 +6,18 @@ title: "Confidence Games: Money and Markets in a World without Redemption"
 author: "R M Van de Weg"
 affilation:
 abstract: "A review of Mark C. Taylor, Confidence Games: Money and Markets in a World Without Redemption. Chicago and London: The Chicago University Press, 2004. xx + 395 pp. $32.50 (cloth). ISBN: 0-2267-9166-1. "
-keywords: []
+keywords:
+  - mark-c-taylor
+  - economics
+  - finance
+  - markets
+  - capitalism
+  - religion-and-economics
+  - complexity-theory
+  - secularization
+  - money
+  - network-culture
+  - postmodernism
 pdf: vandeweg.pdf
 sort_id: 14
 volume: 7
@@ -14,4 +25,40 @@ issue: 1
 season: winter
 year: 2005
 pages:
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Economics"
+    scheme: "FAST"
+    identifier: "fst00902116"
+    uri: "https://id.worldcat.org/fast/902116"
+    category: "topical"
+  - label: "Finance"
+    scheme: "FAST"
+    identifier: "fst00924349"
+    uri: "https://id.worldcat.org/fast/924349"
+    category: "topical"
+  - label: "Money"
+    scheme: "FAST"
+    identifier: "fst01025265"
+    uri: "https://id.worldcat.org/fast/1025265"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Secularization"
+    scheme: "FAST"
+    identifier: "fst01110738"
+    uri: "https://id.worldcat.org/fast/1110738"
+    category: "topical"
+  - label: "Taylor, Mark C., 1945-"
+    scheme: "FAST"
+    identifier: "fst00057011"
+    uri: "https://id.worldcat.org/fast/57011"
+    category: "personal"
 ---

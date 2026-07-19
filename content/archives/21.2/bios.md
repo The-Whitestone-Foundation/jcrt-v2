@@ -5,7 +5,19 @@ author: editors
 title: Author Bios
 affilation:
 abstract:
-keywords: []
+keywords:
+  - contributor-biographies
+  - religious-studies
+  - holocaust-studies
+  - islam
+  - antisemitism
+  - indigenous-religions
+  - haudenosaunee
+  - anthropology-of-religion
+  - postcolonial-studies
+  - feminist-theology
+  - african-diaspora
+  - prophetic-pragmatism
 pdf: bios.pdf
 sort_id: 01
 volume: 21

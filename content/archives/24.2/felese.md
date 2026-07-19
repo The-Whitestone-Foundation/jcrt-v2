@@ -7,6 +7,32 @@ article_number: '08'
 volume: '24'
 issue: '2'
 pages: 274-279
+subjects:
+  - label: "Dominion theology"
+    scheme: "FAST"
+    identifier: "fst00896784"
+    uri: "https://id.worldcat.org/fast/896784"
+    category: "topical"
+  - label: "Indians of North America"
+    scheme: "FAST"
+    identifier: "fst00969633"
+    uri: "https://id.worldcat.org/fast/969633"
+    category: "topical"
+  - label: "Indigenous peoples"
+    scheme: "FAST"
+    identifier: "fst00970213"
+    uri: "https://id.worldcat.org/fast/970213"
+    category: "topical"
+  - label: "Land tenure"
+    scheme: "FAST"
+    identifier: "fst00991362"
+    uri: "https://id.worldcat.org/fast/991362"
+    category: "topical"
+  - label: "Traditional ecological knowledge"
+    scheme: "FAST"
+    identifier: "fst01153965"
+    uri: "https://id.worldcat.org/fast/1153965"
+    category: "topical"
 title: 'The Chosen People at Grouse Mountain'
 author: 'Wendy Felese'
 affiliation: ''

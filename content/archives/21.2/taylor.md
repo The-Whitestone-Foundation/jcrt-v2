@@ -18,4 +18,30 @@ issue: 2
 season: spring
 year: 2022
 pages: 220-229
+subjects:
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "Long, Charles H."
+    scheme: "FAST"
+    identifier: "fst00039569"
+    uri: "https://id.worldcat.org/fast/39569"
+    category: "personal"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Religion and culture"
+    scheme: "FAST"
+    identifier: "fst01093823"
+    uri: "https://id.worldcat.org/fast/1093823"
+    category: "topical"
+  - label: "Religion--Study and teaching"
+    scheme: "FAST"
+    identifier: "fst01093807"
+    uri: "https://id.worldcat.org/fast/1093807"
+    category: "topical"
 ---

@@ -6,7 +6,19 @@ title: "The Puppet and the Dwarf: the Perverse Core of Christianity"
 author: "Jared Woodard"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - slavoj-zizek
+  - christianity
+  - psychoanalysis
+  - jacques-lacan
+  - dialectical-materialism
+  - ideology-critique
+  - atheism
+  - saint-paul
+  - political-theology
+  - marxism
+  - perversion
+  - continental-philosophy
 pdf: woodard.pdf
 sort_id: 15
 volume: 5
@@ -14,4 +26,45 @@ issue: 2
 season: spring
 year: 2004
 pages:
+subjects:
+  - label: "Atheism"
+    scheme: "FAST"
+    identifier: "fst00819974"
+    uri: "https://id.worldcat.org/fast/819974"
+    category: "topical"
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Dialectical materialism"
+    scheme: "FAST"
+    identifier: "fst00892465"
+    uri: "https://id.worldcat.org/fast/892465"
+    category: "topical"
+  - label: "Lacan, Jacques, 1901-1981"
+    scheme: "FAST"
+    identifier: "fst00050728"
+    uri: "https://id.worldcat.org/fast/50728"
+    category: "personal"
+  - label: "Paul, the Apostle, Saint"
+    scheme: "FAST"
+    identifier: "fst00037330"
+    uri: "https://id.worldcat.org/fast/37330"
+    category: "personal"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Žižek, Slavoj"
+    scheme: "FAST"
+    identifier: "fst00161373"
+    uri: "https://id.worldcat.org/fast/161373"
+    category: "personal"
 ---

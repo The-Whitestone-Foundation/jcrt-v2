@@ -5,7 +5,19 @@ author: editors
 title: Author Bios
 affilation:
 abstract:
-keywords: []
+keywords:
+  - phenomenology
+  - philosophy-of-religion
+  - continental-philosophy
+  - political-theology
+  - systematic-theology
+  - radical-theology
+  - meister-eckhart
+  - gilles-deleuze
+  - islamic-studies
+  - mysticism
+  - religious-studies
+  - contributor-biographies
 pdf: Bios.pdf
 sort_id: 01
 volume: 18

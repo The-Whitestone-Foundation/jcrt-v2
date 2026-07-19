@@ -17,4 +17,30 @@ issue: 1
 season: winter
 year: 2014
 pages: 101-121
+subjects:
+  - label: "Afro-Caribbean religions"
+    scheme: "FAST"
+    identifier: "fst00800044"
+    uri: "https://id.worldcat.org/fast/800044"
+    category: "topical"
+  - label: "Human body"
+    scheme: "FAST"
+    identifier: "fst01730057"
+    uri: "https://id.worldcat.org/fast/1730057"
+    category: "topical"
+  - label: "Rites and ceremonies"
+    scheme: "FAST"
+    identifier: "fst01098216"
+    uri: "https://id.worldcat.org/fast/1098216"
+    category: "topical"
+  - label: "Santeria"
+    scheme: "FAST"
+    identifier: "fst01105327"
+    uri: "https://id.worldcat.org/fast/1105327"
+    category: "topical"
+  - label: "Sex differences"
+    scheme: "FAST"
+    identifier: "fst01114321"
+    uri: "https://id.worldcat.org/fast/1114321"
+    category: "topical"
 ---

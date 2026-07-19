@@ -6,7 +6,18 @@ title: "Globalization and Its Enemies"
 author: "Diane E Johnson"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - globalization
+  - economics
+  - capitalism
+  - poverty
+  - economic-development
+  - inequality
+  - neoliberalism
+  - global-economy
+  - underdevelopment
+  - world-trade
+  - modernization
 pdf: johnson.pdf
 sort_id: 11
 volume: 8
@@ -14,4 +25,35 @@ issue: 2
 season: spring
 year: 2008
 pages:
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Economic development"
+    scheme: "FAST"
+    identifier: "fst00901785"
+    uri: "https://id.worldcat.org/fast/901785"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "International trade"
+    scheme: "FAST"
+    identifier: "fst00977128"
+    uri: "https://id.worldcat.org/fast/977128"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Poverty"
+    scheme: "FAST"
+    identifier: "fst01074093"
+    uri: "https://id.worldcat.org/fast/1074093"
+    category: "topical"
 ---

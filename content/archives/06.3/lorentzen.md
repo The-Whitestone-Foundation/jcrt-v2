@@ -6,7 +6,16 @@ title: "William James and the Science of Religions: Reexperiencing the Varieties
 author: "Oz Lorentzen"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - william-james
+  - psychology-of-religion
+  - varieties-of-religious-experience
+  - religious-experience
+  - pragmatism
+  - science-of-religion
+  - mysticism
+  - philosophy-of-religion
+  - spirituality
 pdf: lorentzen.pdf
 sort_id: 06
 volume: 6
@@ -14,4 +23,40 @@ issue: 3
 season: fall
 year: 2005
 pages:
+subjects:
+  - label: "Experience (Religion)"
+    scheme: "FAST"
+    identifier: "fst00918383"
+    uri: "https://id.worldcat.org/fast/918383"
+    category: "topical"
+  - label: "James, William, 1842-1910"
+    scheme: "FAST"
+    identifier: "fst00029108"
+    uri: "https://id.worldcat.org/fast/29108"
+    category: "personal"
+  - label: "Mysticism"
+    scheme: "FAST"
+    identifier: "fst01031629"
+    uri: "https://id.worldcat.org/fast/1031629"
+    category: "topical"
+  - label: "Pragmatism"
+    scheme: "FAST"
+    identifier: "fst01074582"
+    uri: "https://id.worldcat.org/fast/1074582"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Religion--Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---

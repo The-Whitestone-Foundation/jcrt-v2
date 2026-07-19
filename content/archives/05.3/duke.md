@@ -6,7 +6,19 @@ title: "The Making of American Liberal Theology 2 Idealism, Realism, and Moderni
 author: "James O Duke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - american-liberal-theology
+  - gary-dorrien
+  - idealism
+  - realism
+  - modernity
+  - protestant-theology
+  - religious-history
+  - social-gospel
+  - modernism
+  - liberalism
+  - theology
+  - religion-and-culture
 pdf: duke.pdf
 sort_id: 14
 volume: 5
@@ -14,4 +26,40 @@ issue: 3
 season: summer
 year: 2004
 pages:
+subjects:
+  - label: "Idealism"
+    scheme: "FAST"
+    identifier: "fst00966832"
+    uri: "https://id.worldcat.org/fast/966832"
+    category: "topical"
+  - label: "Liberalism (Religion)"
+    scheme: "FAST"
+    identifier: "fst00997200"
+    uri: "https://id.worldcat.org/fast/997200"
+    category: "topical"
+  - label: "Modernism (Christian theology)"
+    scheme: "FAST"
+    identifier: "fst01024448"
+    uri: "https://id.worldcat.org/fast/1024448"
+    category: "topical"
+  - label: "Protestantism"
+    scheme: "FAST"
+    identifier: "fst01079920"
+    uri: "https://id.worldcat.org/fast/1079920"
+    category: "topical"
+  - label: "Realism"
+    scheme: "FAST"
+    identifier: "fst01091228"
+    uri: "https://id.worldcat.org/fast/1091228"
+    category: "topical"
+  - label: "Social gospel"
+    scheme: "FAST"
+    identifier: "fst01122474"
+    uri: "https://id.worldcat.org/fast/1122474"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

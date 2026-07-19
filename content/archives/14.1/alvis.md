@@ -21,4 +21,25 @@ issue: 1
 season: fall
 year: 2014
 pages: 25-37
+subjects:
+  - label: "Kant, Immanuel, 1724-1804"
+    scheme: "FAST"
+    identifier: "fst00031763"
+    uri: "https://id.worldcat.org/fast/31763"
+    category: "personal"
+  - label: "Marion, Jean-Luc, 1946-"
+    scheme: "FAST"
+    identifier: "fst00108351"
+    uri: "https://id.worldcat.org/fast/108351"
+    category: "personal"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Subjectivity"
+    scheme: "FAST"
+    identifier: "fst01136568"
+    uri: "https://id.worldcat.org/fast/1136568"
+    category: "topical"
 ---

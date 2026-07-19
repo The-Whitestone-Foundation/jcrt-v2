@@ -6,7 +6,18 @@ title: "Does Human Rights Need God?"
 author: "David B Dillard-Wright"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - human-rights
+  - religion
+  - ethics
+  - theology
+  - secularism
+  - moral-philosophy
+  - universalism
+  - human-dignity
+  - religious-ethics
+  - natural-law
+  - political-theology
 pdf: wright.pdf
 sort_id: 07
 volume: 8
@@ -14,4 +25,40 @@ issue: 1
 season: winter
 year: 2006
 pages:
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Human rights"
+    scheme: "FAST"
+    identifier: "fst00963285"
+    uri: "https://id.worldcat.org/fast/963285"
+    category: "topical"
+  - label: "Natural law"
+    scheme: "FAST"
+    identifier: "fst01034366"
+    uri: "https://id.worldcat.org/fast/1034366"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Secularism"
+    scheme: "FAST"
+    identifier: "fst01110732"
+    uri: "https://id.worldcat.org/fast/1110732"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

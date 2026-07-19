@@ -5,7 +5,19 @@ author: editors
 title: Author Bios
 affilation:
 abstract:
-keywords: []
+keywords:
+  - contributor-biographies
+  - decoloniality
+  - walter-mignolo
+  - catherine-walsh
+  - native-american-religions
+  - american-indian-liberation-theology
+  - tink-tinker
+  - charles-sanders-peirce
+  - philosophy-of-religion
+  - racism
+  - political-theology
+  - dogmatic-theology
 pdf: bios.pdf
 sort_id: 01
 volume: 20
