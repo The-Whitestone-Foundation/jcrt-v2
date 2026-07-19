@@ -3,8 +3,8 @@ nanoid: "JyyeXM"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb6gjc26'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsidered"
 author: "Peter Ochs"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - franz-rosenzweig
+  - idolatry
+  - representation
+  - jewish-philosophy
+  - emmanuel-levinas
+  - textual-reasoning
+  - postcritical-theology
+  - anthropomorphism
+  - hermeneutics
+  - hermann-cohen
+  - martin-buber
+  - george-lindbeck
+  - postliberal-theology
+  - charles-peirce
 subjects:
 abstract:
 year: 2000

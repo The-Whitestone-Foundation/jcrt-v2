@@ -3,8 +3,8 @@ nanoid: "h7lrvN"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5hziy2w'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "Of Spectacularization: Writing New Media Theory"
 author: "Craig J Saper"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - spectacle
+  - new-media-theory
+  - film-theory
+  - guy-debord
+  - society-of-the-spectacle
+  - apparatus-theory
+  - ideology-criticism
+  - cultural-studies
+  - parody
+  - situationism
+  - gilles-deleuze
+  - rhizome
+  - avant-garde
 subjects:
 abstract:
 year: 2003

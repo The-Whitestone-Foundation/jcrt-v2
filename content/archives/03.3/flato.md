@@ -3,8 +3,8 @@ nanoid: "OxVA93"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6v5t72l'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "Christianity in Jewish Terms"
 author: "Jason M Flato"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jewish-christian-relations
+  - incarnation
+  - trinity
+  - scripture
+  - philo-of-alexandria
+  - elliot-wolfson
+  - peter-ochs
+  - interfaith-dialogue
+  - biblical-hermeneutics
+  - torah
+  - anthropomorphism
+  - judaism
 subjects:
 abstract:
 year: 2002

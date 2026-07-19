@@ -3,8 +3,8 @@ nanoid: "OnGARJ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbpzzn22'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "Splitting Religion: Heteronomy, Autonomy, and Reflection"
 author: "James J DiCenso"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - cornelius-castoriadis
+  - marcel-gauchet
+  - autonomy
+  - heteronomy
+  - social-imaginary
+  - radical-imaginary
+  - alterity
+  - iconoclasm
+  - secularization
+  - monotheism
+  - psychoanalysis
+  - jacques-lacan
+  - reflection
+  - critique-of-religion
 subjects:
 abstract:
 year: 2000

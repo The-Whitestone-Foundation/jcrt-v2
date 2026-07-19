@@ -3,8 +3,8 @@ nanoid: "JDhNKe"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6c7ie2e'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "The Christianization of Deconstruction"
 author: "William Egginton"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - deconstruction
+  - christianity
+  - soren-kierkegaard
+  - faith
+  - jean-luc-nancy
+  - negative-theology
+  - mediation
+  - aporia
+  - original-sin
+  - dread
+  - immanuel-kant
+  - jacques-derrida
+  - psychoanalysis
+  - singularity
+  - ethics
 subjects:
 abstract:
 year: 2002

@@ -3,16 +3,29 @@ nanoid: "vker-4"
 doi:
 atproto:
 article_number: 01
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "Theorizing Religion at the Turn of the Millennium: from the Sacred to the Semiotic"
 author: "Carl A. Raschke"
-affiliation:
+affiliation: University of Denver
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - semiotics
+  - religious-studies
+  - jean-baudrillard
+  - postmodernism
+  - deconstruction
+  - jacques-derrida
+  - the-sacred
+  - theory-of-religion
+  - charles-sanders-peirce
+  - simulacra
+  - fredric-jameson
+  - paul-tillich
+  - signification
 subjects:
 abstract:
 year: 1999

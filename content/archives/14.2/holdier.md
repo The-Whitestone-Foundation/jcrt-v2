@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7bi3g
 title: "Meeting Mary in Myth: Pursuing Pre/Post/Modern Apologetics."
 author: "A. G. Holdier"
 affilation:
-abstract: "The article presents the author's views on apologetics which is a sub-field of the philosophy of religion. Apologetics refer to writings that justify something or to reasoned arguments. The views of author C. S. Lewis on Christianity's division is explored as well as continental and analytical philosophies of religion. Other topics include philosopher John Caputo's views on the relationship between analytic and continental philosophy."
+abstract: "The article presents the author's views on apologetics which is a sub-field of the philosophy of religion. Apologetics refer to writings that justify something or to reasoned arguments. The views of author C. S. Lewis on Christianity's division is explored as well as continental and analytical philosophies of religion. Other topics include philosopher John D. Caputo's views on the relationship between analytic and continental philosophy."
 keywords:
   - apologetics
   - philosophy-of-religion

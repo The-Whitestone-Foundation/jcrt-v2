@@ -3,8 +3,8 @@ nanoid: "F54Q7v"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c63cqc25'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "The Matter of Responsibility: Derrida and Gifting Across Cultures"
 author: "Ken Lokensgard"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - gift
+  - marcel-mauss
+  - jacques-derrida
+  - reciprocity
+  - exchange
+  - indigenous-religion
+  - blackfoot
+  - medicine-bundles
+  - commodity
+  - economy
+  - ontology
+  - colonialism
+  - materiality
+  - cross-cultural-exchange
 subjects:
 abstract:
 year: 2002

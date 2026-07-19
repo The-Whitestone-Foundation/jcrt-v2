@@ -3,8 +3,8 @@ nanoid: "S6oydM"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb4ov72l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "Para/Theology: the Study of Religion and the Science of the Negative"
 author: "Carl A. Raschke"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jacques-derrida
+  - negative-theology
+  - deconstruction
+  - study-of-religion
+  - apophasis
+  - mark-c-taylor
+  - atheology
+  - denegation
+  - paralogy
+  - the-sacred
+  - jonathan-z-smith
+  - ritual-theory
+  - differance
+  - martin-heidegger
 subjects:
 abstract:
 year: 2000
@@ -80,7 +94,7 @@ Updated 07/28/21.
 
 [^10] Mark Taylor, "nO nOt nO", in _Derrida and Negative Theology_, p. 175.
 
-[^11]:  Yet such "scientific" considerations are becoming almost inescapable. In recent years "religious studies" as a field has slowly and unremittingly imploded, largely because ethnographical and taxonomical concerns have replaced any gesture toward general theory. A mounting, pathological suspicion of theory itself has made the development of religious studies as a "discipline" well-nigh impossible. Because theory must of itself be comprehensive, it is routinely disparaged as monolithic and "hegemonic" at a political level. A science of religion would of course demand some kind of ontological commitment. But such a commitment not only shatters against today's all-pervasive interpretative strategy of difference, it also confronts the postmodern deontology that has come to be known as "deconstructionism" or "radical hermeneutics," as John Caputo has named it.
+[^11]:  Yet such "scientific" considerations are becoming almost inescapable. In recent years "religious studies" as a field has slowly and unremittingly imploded, largely because ethnographical and taxonomical concerns have replaced any gesture toward general theory. A mounting, pathological suspicion of theory itself has made the development of religious studies as a "discipline" well-nigh impossible. Because theory must of itself be comprehensive, it is routinely disparaged as monolithic and "hegemonic" at a political level. A science of religion would of course demand some kind of ontological commitment. But such a commitment not only shatters against today's all-pervasive interpretative strategy of difference, it also confronts the postmodern deontology that has come to be known as "deconstructionism" or "radical hermeneutics," as John D. Caputo has named it.
 
 [^11] _About Religion_, pp. 40-1.
 

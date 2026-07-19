@@ -3,8 +3,8 @@ nanoid: "itzSh-"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6helo2g'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
 author: "Michael J Zerbe"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - anaximander
+  - greek-philosophy
+  - architecture
+  - technology
+  - presocratic-philosophy
+  - cosmology
+  - thales
+  - rational-discourse
+  - ionian-philosophy
+  - temples
+  - origins-of-philosophy
+  - rhetoric
 subjects:
 abstract:
 year: 2002

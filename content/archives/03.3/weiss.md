@@ -3,8 +3,8 @@ nanoid: "5z4-n9"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6j32j27'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "In Our Image: Artificial Intelligence and the Human Spirit"
 author: "Dennis M Weiss"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - artificial-intelligence
+  - imago-dei
+  - theological-anthropology
+  - karl-barth
+  - relational-anthropology
+  - human-nature
+  - noreen-herzfeld
+  - sherry-turkle
+  - robotics
+  - cybernetic-immortality
+  - philosophy-of-mind
+  - science-fiction
 subjects:
 abstract:
 year: 2002

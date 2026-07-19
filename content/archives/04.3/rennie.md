@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: rennie.pdf
 date:
-keywords: []
+keywords:
+  - comparative-philosophy
+  - indian-philosophy
+  - postmodernism
+  - jacques-derrida
+  - deconstruction
+  - buddhist-philosophy
+  - intentionality
+  - abhinavagupta
+  - shankara
+  - radhakrishnan
+  - nihilism
+  - self-awareness
+  - eisegesis
+  - hermeneutics
 subjects:
 abstract:
 year: 2003

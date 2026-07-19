@@ -3,8 +3,8 @@ nanoid: "6B1S-C"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c77ezg2x'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "The Word of Freud: Our God Is Logos"
 author: "Robert Metcalf"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - sigmund-freud
+  - logos
+  - psychoanalysis
+  - religion-critique
+  - the-future-of-an-illusion
+  - illusion
+  - narcissism
+  - moses-and-monotheism
+  - ethical-monotheism
+  - science
+  - secularization
+  - paul-ricoeur
+  - sublimation
+  - wish-fulfillment
+  - plato
 subjects:
 abstract:
 year: 2002

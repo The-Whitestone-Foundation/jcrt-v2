@@ -3,8 +3,8 @@ nanoid: "bnOOrK"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbo5no2g'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "Falling"
 author: "Ann Game"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - falling
+  - rapture
+  - ecstasy
+  - vertigo
+  - conversion-of-saint-paul
+  - teresa-of-avila
+  - involuntary-memory
+  - marcel-proust
+  - fetishism
+  - mimesis
+  - liminality
+  - embodiment
+  - spirituality
+  - caravaggio
 subjects:
 abstract:
 year: 2000

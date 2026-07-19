@@ -3,8 +3,8 @@ nanoid: "Ph2RDi"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ej632k'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Radical Orthodoxy, Ethics and Ambivalence"
 author: "Gavin Hyman"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - radical-orthodoxy
+  - john-milbank
+  - secular-theology
+  - late-capitalism
+  - postmodern-theology
+  - deconstruction
+  - nihilism
+  - ambivalence
+  - michel-de-certeau
+  - mark-c-taylor
+  - metanarrative
+  - jean-luc-marion
+  - agape
+  - karl-marx
+  - market-populism
 subjects:
 abstract:
 year: 2002

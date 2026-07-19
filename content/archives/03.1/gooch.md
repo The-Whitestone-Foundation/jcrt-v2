@@ -3,8 +3,8 @@ nanoid: "IZUwOE"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7stzf22'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "The Epistemic Status of Value-Cognition in Max Scheler’s Philosophy of Religion"
 author: "Todd A Gooch"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - max-scheler
+  - philosophy-of-religion
+  - phenomenology
+  - value-cognition
+  - ethics-of-value
+  - emotions
+  - religious-experience
+  - evidentialism
+  - faith-and-reason
+  - epistemology
+  - immanuel-kant
+  - edmund-husserl
+  - william-james
+  - blaise-pascal
+  - bertrand-russell
 subjects:
 abstract:
 year: 2001

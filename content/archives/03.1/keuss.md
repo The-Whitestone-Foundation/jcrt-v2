@@ -3,8 +3,8 @@ nanoid: "l0kLpJ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7r2eh2b'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "DiffÉRance That Comes as One Unknown: Christology After Derrida’s ‘Structure, Sign, and Play in the Discourse of the Human Sciences’"
 author: "Jeffrey F Keuss"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - christology
+  - jacques-derrida
+  - deconstruction
+  - poetics
+  - historical-jesus
+  - differance
+  - logocentrism
+  - postmodern-theology
+  - biblical-criticism
+  - nicene-creed
+  - thomas-altizer
+  - paul-tillich
+  - baruch-spinoza
+  - hermann-samuel-reimarus
+  - albert-schweitzer
 subjects:
 abstract:
 year: 2001

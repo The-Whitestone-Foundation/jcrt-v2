@@ -3,8 +3,8 @@ nanoid: "4MUccs"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbkn7o2w'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "Wonder, Creativity and Knowledge"
 author: "Andrew W Metcalfe"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - wonder
+  - creativity
+  - inspiration
+  - gratitude
+  - grace
+  - annunciation
+  - angels
+  - cornelius-castoriadis
+  - michel-serres
+  - emmanuel-levinas
+  - imagination
+  - mystery
+  - the-unsayable
+  - chiaroscuro
 subjects:
 abstract:
 year: 2000

@@ -3,8 +3,8 @@ nanoid: "jN40op"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccfngn22'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "Xena Warrior Princess and the Texture of the Religious: Re-Imagining the Role of Popular Culture in Academic Discourse"
 author: "David A Adcock"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - popular-culture
+  - religion-and-culture
+  - simulacra
+  - hyperreality
+  - reader-response-criticism
+  - cultural-studies
+  - jean-baudrillard
+  - michel-de-certeau
+  - mark-c-taylor
+  - michel-foucault
+  - textuality
+  - academic-discourse
+  - virtualization
 subjects:
 abstract:
 year: 2000

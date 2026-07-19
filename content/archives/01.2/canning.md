@@ -3,8 +3,8 @@ nanoid: "093GsM"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccdvso2w'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi Nistory"
 author: "Peter Canning"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - fabulation
+  - antisemitism
+  - holocaust
+  - christianity
+  - nazism
+  - ritual-murder
+  - blood-libel
+  - human-sacrifice
+  - phantasy
+  - sigmund-freud
+  - jacques-lacan
+  - apocalypse
+  - messianism
+  - scapegoating
 subjects:
 abstract:
 year: 2000

@@ -3,8 +3,8 @@ nanoid: "cUJzHt"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c652el22'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "Iconic Revisions of the Modern World Picture"
 author: "Jeffrey L Kosky"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - icon
+  - image
+  - world-picture
+  - martin-heidegger
+  - nicholas-of-cusa
+  - modernity
+  - subjectivity
+  - representation
+  - perspective
+  - walter-benjamin
+  - aura
+  - phenomenology
+  - invisibility
+  - disenchantment
 subjects:
 abstract:
 year: 2002

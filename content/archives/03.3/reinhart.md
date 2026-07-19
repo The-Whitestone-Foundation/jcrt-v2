@@ -3,8 +3,8 @@ nanoid: "ETvZ_a"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ob4p2l'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "On Cosmopolitanism and Forgiveness"
 author: "David Reinhart"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jacques-derrida
+  - cosmopolitanism
+  - forgiveness
+  - hospitality
+  - deconstruction
+  - cities-of-refuge
+  - immanuel-kant
+  - state-sovereignty
+  - immigration
+  - truth-and-reconciliation
+  - modernity
+  - ethics
 subjects:
 abstract:
 year: 2002

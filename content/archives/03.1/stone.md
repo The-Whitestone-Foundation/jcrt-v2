@@ -3,8 +3,8 @@ nanoid: "DlAfPr"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ltje2e'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "‘Misrecognition of the Limits’: Bourdieu’s Religious Capital and Social Transformation"
 author: "Lora Stone"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - pierre-bourdieu
+  - habitus
+  - field
+  - symbolic-power
+  - cultural-capital
+  - religious-capital
+  - social-movements
+  - womens-ordination
+  - catholic-church
+  - political-process-theory
+  - orthodoxy-and-heresy
+  - misrecognition
+  - sociology-of-religion
+  - social-transformation
+  - max-weber
 subjects:
 abstract:
 year: 2001

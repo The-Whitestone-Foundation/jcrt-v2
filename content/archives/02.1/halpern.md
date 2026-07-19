@@ -3,8 +3,8 @@ nanoid: "6Lx93L"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbdnpy2r'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "Creation: Lacan in Kansas"
 author: "Richard Halpern"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jacques-lacan
+  - creationism
+  - evolution
+  - das-ding
+  - creation-ex-nihilo
+  - sublimation
+  - jouissance
+  - psychoanalysis-and-religion
+  - ethics-of-psychoanalysis
+  - sigmund-freud
+  - moses-and-monotheism
+  - creation-science
+  - the-real
+  - william-blake
 subjects:
 abstract:
 year: 2000

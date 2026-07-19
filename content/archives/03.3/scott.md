@@ -3,8 +3,8 @@ nanoid: "hHg6M6"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6mkha2w'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "Why God Won’t Go Away: Brain Science and the Biology of Belief"
 author: "Noel Dane Scott"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - neuroscience-of-religion
+  - mysticism
+  - spirituality
+  - religious-experience
+  - brain-science
+  - via-negativa
+  - biology-of-belief
+  - andrew-newberg
+  - tradition
+  - interpretation
+  - public-theology
+  - transcendence
 subjects:
 abstract:
 year: 2002

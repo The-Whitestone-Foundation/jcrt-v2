@@ -3,8 +3,8 @@ nanoid: "LsShyG"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca5hwc25'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Jean Baudrillard and the Death of God"
 author: "Lissa McCullough"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jean-baudrillard
+  - death-of-god
+  - negative-theology
+  - simulation
+  - simulacra
+  - hyperreality
+  - nihilism
+  - friedrich-nietzsche
+  - precession-of-simulacra
+  - calvinism
+  - walter-benjamin
+  - cloning
+  - postmodernism
+  - imago-dei
 subjects:
 abstract:
 year: 2001

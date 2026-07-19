@@ -3,8 +3,8 @@ nanoid: "zsrHTe"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6yj7n2s'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "Taking Shape: on the Current Constellation of (Religious) Thought"
 author: "Clayton Crockett"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - religious-thought
+  - philosophical-theology
+  - cultural-religious-theory
+  - new-positivism
+  - politics-of-representation
+  - immanuel-kant
+  - paul-tillich
+  - emmanuel-levinas
+  - jacques-derrida
+  - transcendental-imagination
+  - ethics
+  - representation
+  - higher-education
 subjects:
 abstract:
 year: 2002

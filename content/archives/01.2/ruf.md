@@ -3,8 +3,8 @@ nanoid: "DNCMs3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc4v4p2b'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "The Ride of Passage: the Pursuit of Danger, Trance, and Failure in Mark Twain, Paul Bowles, and US"
 author: "Frederick J Ruf"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - travel
+  - rite-of-passage
+  - liminality
+  - implicit-religion
+  - mark-twain
+  - paul-bowles
+  - henry-miller
+  - danger
+  - trance
+  - rupture
+  - self-transformation
+  - american-literature
 subjects:
 abstract:
 year: 2000

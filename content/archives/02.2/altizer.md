@@ -3,8 +3,8 @@ nanoid: "1q-gTJ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cavubd2k'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "Absolute Nothingness and Taylor’s Imagology"
 author: "Thomas J J Altizer"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - death-of-god
+  - negative-theology
+  - mark-c-taylor
+  - kenosis
+  - nihilism
+  - postmodern-atheology
+  - absolute-nothingness
+  - apocalypticism
+  - friedrich-nietzsche
+  - simulacra
+  - virtual-reality
+  - incarnation
+  - apophatic-theology
+  - sacrifice
 subjects:
 abstract:
 year: 2001

@@ -3,8 +3,8 @@ nanoid: "hFghCo"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc35gz27'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "An Ethics of Remembering: History, Heterology, and the Nameless Others"
 author: "Steven G Smith"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - heterology
+  - philosophy-of-history
+  - alterity
+  - ethics-of-remembering
+  - edith-wyschogrod
+  - historiography
+  - emmanuel-levinas
+  - memory
+  - representation
+  - the-sublime
+  - otherness
+  - collective-memory
 subjects:
 abstract:
 year: 2000

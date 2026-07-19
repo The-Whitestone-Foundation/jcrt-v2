@@ -3,8 +3,8 @@ nanoid: "B3u3l0"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbtje72l'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "The Religious Art of Andy Warhol"
 author: "Benjamin Bennett-Carpenter"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - andy-warhol
+  - jean-baudrillard
+  - simulacra
+  - hyperreality
+  - religious-art
+  - pop-art
+  - iconography
+  - byzantine-icons
+  - catholicism
+  - representation
+  - disappearance-of-art
+  - transfiguration
+  - kitsch
+  - visual-culture
 subjects:
 abstract:
 year: 2000

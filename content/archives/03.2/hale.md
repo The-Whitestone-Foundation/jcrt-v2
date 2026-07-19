@@ -3,8 +3,8 @@ nanoid: "oVh049"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7g4xy2r'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Terror and the Sacred"
 author: "David Hale"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - religious-violence
+  - terrorism
+  - the-sacred
+  - september-11
+  - rudolf-otto
+  - mark-juergensmeyer
+  - scott-appleby
+  - fundamentalism
+  - religious-experience
+  - phenomenology
+  - edmund-husserl
+  - cosmic-war
+  - tolerance
 subjects:
 abstract:
 year: 2002

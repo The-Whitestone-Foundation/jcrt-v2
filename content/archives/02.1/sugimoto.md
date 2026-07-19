@@ -3,8 +3,8 @@ nanoid: "2D7cN-"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cazblb2c'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "The Scandal of the Evangelical Mind"
 author: "Michael Tadashi Sugimoto"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - evangelicalism
+  - mark-noll
+  - nation-state
+  - modern-university
+  - nationalism
+  - enlightenment
+  - secularization
+  - modernity
+  - immanuel-kant
+  - hegel
+  - knowledge-production
+  - higher-education
+  - walter-benjamin
+  - baconianism
 subjects:
 abstract:
 year: 2000

@@ -3,16 +3,29 @@ nanoid: "f52Xjv"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5uexk26'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "After Jacques Derrida Comes the Future"
-author: "John D Caputo"
+author: "John D. Caputo"
 affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - deconstruction
+  - jacques-derrida
+  - death-of-deconstruction
+  - continental-philosophy-of-religion
+  - messianism
+  - hauntology
+  - negative-theology
+  - mark-taylor
+  - emmanuel-levinas
+  - soren-kierkegaard
+  - the-gift
+  - future-of-theory
+  - religion
 subjects:
 abstract:
 year: 2003

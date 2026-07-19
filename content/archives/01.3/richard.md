@@ -3,8 +3,8 @@ nanoid: "s6LQr3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbivhx2b'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "Aristotle and Religious Theory"
 author: "Alan J Richard"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - aristotle
+  - religious-theory
+  - end-of-theology
+  - onto-theology
+  - jacques-derrida
+  - faith-and-knowledge
+  - plato-timaeus
+  - khora
+  - contemplation
+  - unmoved-mover
+  - desire
+  - self-sameness
+  - being-qua-being
+  - study-of-religion
 subjects:
 abstract:
 year: 2000

@@ -3,8 +3,8 @@ nanoid: "ZoyijV"
 doi:
 atproto:
 article_number: 06
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "Jewish Studies and the Secular University: Religion Between Culture and Philosophy"
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jewish-studies
+  - secular-university
+  - judaism
+  - talmud
+  - cultural-studies
+  - critical-theory
+  - neighbor-love
+  - emmanuel-levinas
+  - franz-rosenzweig
+  - jacques-derrida
+  - ethnicity
+  - monotheism
+  - midrash
 subjects:
 abstract:
 year: 1999

@@ -3,8 +3,8 @@ nanoid: "vxdU4I"
 doi:
 atproto:
 article_number: 07
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "The Prayers and Tears of Jacques Derrida: Religion without Religion"
 author: "Martin Kavka"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - deconstruction
+  - jacques-derrida
+  - john-caputo
+  - religion-without-religion
+  - phenomenology
+  - edmund-husserl
+  - messianism
+  - emmanuel-levinas
+  - negative-theology
+  - faith-and-knowledge
+  - alterity
+  - meister-eckhart
+  - rationality
 subjects:
 abstract:
 year: 1999

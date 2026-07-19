@@ -3,8 +3,8 @@ nanoid: "rA0bkk"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c73ws62g'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Desire and Mourning: Theology and the Literary Imagination"
 author: "Victor Taylor"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - theology
+  - literature
+  - gilles-deleuze
+  - leo-tolstoy
+  - desire
+  - mourning
+  - charles-winquist
+  - the-fold
+  - postmodern-theology
+  - ludwig-wittgenstein
+  - the-gospel-in-brief
+  - incommensurability
+  - language
+  - prayer
+  - the-event
 subjects:
 abstract:
 year: 2002

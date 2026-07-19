@@ -3,8 +3,8 @@ nanoid: "fqpD6r"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccc53p2b'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "Mircea Eliade and the Imagination of Matter"
 author: "Charles H Long"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - mircea-eliade
+  - hierophany
+  - sacred-and-profane
+  - homo-religiosus
+  - homo-faber
+  - comparative-religion
+  - religious-symbolism
+  - alchemy
+  - archetypes
+  - imagination-of-matter
+  - rudolf-otto
+  - neolithic-revolution
+  - history-of-religions
 subjects:
 abstract:
 year: 2000

@@ -3,8 +3,8 @@ nanoid: "ehFOUK"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6rqio2x'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "The Benefit of the Doubt: Merold Westphal’s Prophetic Philosophy of Religion"
 author: "B Keith Putt"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - merold-westphal
+  - philosophy-of-religion
+  - hermeneutics-of-suspicion
+  - hermeneutics-of-finitude
+  - soren-kierkegaard
+  - paul-ricoeur
+  - immanuel-kant
+  - postmodernism
+  - epistemology
+  - ontotheology
+  - prophetic-philosophy
+  - sin
+  - faith
 subjects:
 abstract:
 year: 2002
@@ -27,7 +40,7 @@ Samford University
 
 * * *
 
-In recent years, several scholars in the United States have exploited the implications of Continental philosophy for developing new and innovative approaches to religious and theological studies. These thinkers'including, but not limited to Carl A. Raschke, Mark Taylor, Charles Winquist, Edith Wyschogrod, and John Caputo'have embraced various expressions of European philosophy, not in order to offer simple commentaries on those expressions but to utilize them as raw material for developing a uniquely American species of philosophical theology. These new American philosophical voices speak critically and constructively to the biblical paradigms lying behind Western theory, to the traditional religious and theological themes developing out of those paradigms, and to the cultural and social transformations that have changed how those paradigms are appropriated.
+In recent years, several scholars in the United States have exploited the implications of Continental philosophy for developing new and innovative approaches to religious and theological studies. These thinkers'including, but not limited to Carl A. Raschke, Mark Taylor, Charles Winquist, Edith Wyschogrod, and John D. Caputo'have embraced various expressions of European philosophy, not in order to offer simple commentaries on those expressions but to utilize them as raw material for developing a uniquely American species of philosophical theology. These new American philosophical voices speak critically and constructively to the biblical paradigms lying behind Western theory, to the traditional religious and theological themes developing out of those paradigms, and to the cultural and social transformations that have changed how those paradigms are appropriated.
 
 ### Toward an Apologetic for Paralogetics
 
@@ -194,7 +207,7 @@ Updated 07/28/21.
 
 [^33]: Merold Westphal, "Levinas, Kierkegaard, and the Theological Task" _Modern Theology_ 8 (July 1992): 251.
 
-[^34]:  Eliot, in a manner of speaking, has given an aesthetic rendering of Westphal's prophetic philosophy of religion.Westphal, too, believes truth for finite individuals may only come to expression in patterns, and he, too, doubts that the "wisdom of old men" is as pure and comprehensive as they often insist it is. In good postmodern fashion, Westphal quests for what has been left out and why, always questioning theories and motivations as a good prophet should. He agrees with John Caputo that reason ("the wisdom of old men") "is a function of the system of power which is currently in place," which has been institutionalized and instrumentalized in order to protect the status quo.Conversely, the irrational ("folly") "is what is out of power," what the ruling authorities have abandoned and ostracized as not adhering to stable structures, that is, to the proper patterns.[^42]'' More importantly, perhaps, he agrees with Jesus when he condemns the Pharisees for including tithing in their system but neglecting (read: "leaving out") justice, mercy, and faithfulness (Matt. 23:23).Westphal as a philosophical prophet keeps constant vigilance on what has been omitted, erased, or ruled out as folly or insignificant by the rulers who wish to manipulate truth and meaning in some profane ritual of instrumental piety.
+[^34]:  Eliot, in a manner of speaking, has given an aesthetic rendering of Westphal's prophetic philosophy of religion.Westphal, too, believes truth for finite individuals may only come to expression in patterns, and he, too, doubts that the "wisdom of old men" is as pure and comprehensive as they often insist it is. In good postmodern fashion, Westphal quests for what has been left out and why, always questioning theories and motivations as a good prophet should. He agrees with John D. Caputo that reason ("the wisdom of old men") "is a function of the system of power which is currently in place," which has been institutionalized and instrumentalized in order to protect the status quo.Conversely, the irrational ("folly") "is what is out of power," what the ruling authorities have abandoned and ostracized as not adhering to stable structures, that is, to the proper patterns.[^42]'' More importantly, perhaps, he agrees with Jesus when he condemns the Pharisees for including tithing in their system but neglecting (read: "leaving out") justice, mercy, and faithfulness (Matt. 23:23).Westphal as a philosophical prophet keeps constant vigilance on what has been omitted, erased, or ruled out as folly or insignificant by the rulers who wish to manipulate truth and meaning in some profane ritual of instrumental piety.
 
 [^34]: "Taking St. Paul Seriously," p. 208.
 

@@ -3,8 +3,8 @@ nanoid: "wS_eFc"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5eo2x2l'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "Theory Change"
 author: "Jeffrey J Williams"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - literary-criticism
+  - theory-change
+  - paradigm-shift
+  - thomas-kuhn
+  - new-criticism
+  - cultural-studies
+  - research-university
+  - paul-de-man
+  - deconstruction
+  - pierre-bourdieu
+  - habitus
+  - disciplinary-emulation
+  - aesthetic-judgment
 subjects:
 abstract:
 year: 2003

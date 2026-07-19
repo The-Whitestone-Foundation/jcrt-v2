@@ -3,8 +3,8 @@ nanoid: "RR1t1a"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb2x6s26'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "Revelation: Lacan and the Ten Commandments"
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jacques-lacan
+  - revelation
+  - ten-commandments
+  - decalogue
+  - sabbath
+  - name-of-god
+  - jouissance
+  - the-neighbor
+  - das-ding
+  - sublimation
+  - bill-of-rights
+  - objet-petit-a
+  - franz-rosenzweig
+  - sigmund-freud
 subjects:
 abstract:
 year: 2000

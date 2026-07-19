@@ -3,8 +3,8 @@ nanoid: "AqoNaX"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cahyrp2l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Language, Conceptualization and Awakening: on the Paradox of Discourse in Classical Indian Yogacara"
 author: "John Y Cha"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - yogacara
+  - buddhist-philosophy
+  - classical-indian-philosophy
+  - language-and-reality
+  - suchness
+  - emptiness
+  - deconstruction
+  - ontology
+  - epistemology
+  - unreal-mental-construction
+  - sastra
+  - middle-path
+  - asanga
+  - postmodernism
 subjects:
 abstract:
 year: 2001

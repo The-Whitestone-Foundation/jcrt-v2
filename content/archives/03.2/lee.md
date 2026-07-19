@@ -3,8 +3,8 @@ nanoid: "txpvEu"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7b3tq2r'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Dead Man"
 author: "C Jason Lee"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - death
+  - jim-jarmusch
+  - dead-man
+  - william-blake
+  - jean-baudrillard
+  - hyperreality
+  - western-genre
+  - native-american-representation
+  - jacques-lacan
+  - ernest-becker
+  - friedrich-nietzsche
+  - eternal-recurrence
+  - ontology
+  - film-theory
+  - mortality
 subjects:
 abstract:
 year: 2002

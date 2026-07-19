@@ -3,8 +3,8 @@ nanoid: "23a20F"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7can7vl2k'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 author: "Andrew Tatusko"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - cyberspace
+  - simulation
+  - jean-baudrillard
+  - simulacra
+  - postmodern-rationality
+  - hypertext
+  - virtual-community
+  - identity
+  - sherry-turkle
+  - marshall-mcluhan
+  - incarnation
+  - soren-kierkegaard
+  - karl-barth
+  - technology-and-theology
+  - contingency
 subjects:
 abstract:
 year: 2001

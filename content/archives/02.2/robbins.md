@@ -3,8 +3,8 @@ nanoid: "eVTiUu"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caowhh2l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "God, the Gift, and Postmodernism"
 author: "Jeffrey W Robbins"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - negative-theology
+  - jean-luc-marion
+  - jacques-derrida
+  - the-gift
+  - apophasis
+  - deconstruction
+  - de-nomination
+  - john-caputo
+  - name-of-god
+  - postmodern-religion
+  - givenness
+  - phenomenology
+  - theology-of-absence
 subjects:
 abstract:
 year: 2001
@@ -29,7 +42,7 @@ Le Moyne College
 
 * * *
 
-In the Fall of 1997 at Villanova University, a major international conference devoted to the theme of 'Religion and Postmodernism' was held.[^1] A record of the proceedings from this conference has been published recently in _God, the Gift, and Postmodernism,_ a collection of essays edited by John Caputo and Michael Scanlon_._ This volume includes twelve essays from a distinguished body of philosophers and theologians, as well as responses from Jacques Derrida. The introduction states that the purpose of the conference was "to discuss the question of religion at the end of the millennium" (1); and while many contributors of note are included in this volume (e.g., John Caputo, Richard Kearney, Merold Westphal, David Tracy, Mark C. Taylor, Edith Wyschogrod, Fran'oise Meltzer, and John Dominic Crossan), clearly the significance and chief value of this text lies in the clarity it gives to what has become an entrenched debate between Jacques Derrida, Jean-Luc Marion, and their followers.[^2] In fact, the dialogue that took place between Derrida and Marion at this conference was the first public exchange between these two enormously significant thinkers in the field of religion and postmodernism. The review that follows, therefore, will focus exclusively on this exchange, which is represented in the collection by Marion's essay, "In the Name: How to Avoid Speaking of 'Negative Theology'" with a response from Derrida (20-53), and a roundtable discussion between Marion and Derrida, moderated by Richard Kearney (54-78). Through these various exchanges, what will become evident is that the differences between Marion and Derrida do not represent choices either for or against religion, but rather, two distinct denominations of religion in the spirit of postmodernism.
+In the Fall of 1997 at Villanova University, a major international conference devoted to the theme of 'Religion and Postmodernism' was held.[^1] A record of the proceedings from this conference has been published recently in _God, the Gift, and Postmodernism,_ a collection of essays edited by John D. Caputo and Michael Scanlon_._ This volume includes twelve essays from a distinguished body of philosophers and theologians, as well as responses from Jacques Derrida. The introduction states that the purpose of the conference was "to discuss the question of religion at the end of the millennium" (1); and while many contributors of note are included in this volume (e.g., John D. Caputo, Richard Kearney, Merold Westphal, David Tracy, Mark C. Taylor, Edith Wyschogrod, Fran'oise Meltzer, and John Dominic Crossan), clearly the significance and chief value of this text lies in the clarity it gives to what has become an entrenched debate between Jacques Derrida, Jean-Luc Marion, and their followers.[^2] In fact, the dialogue that took place between Derrida and Marion at this conference was the first public exchange between these two enormously significant thinkers in the field of religion and postmodernism. The review that follows, therefore, will focus exclusively on this exchange, which is represented in the collection by Marion's essay, "In the Name: How to Avoid Speaking of 'Negative Theology'" with a response from Derrida (20-53), and a roundtable discussion between Marion and Derrida, moderated by Richard Kearney (54-78). Through these various exchanges, what will become evident is that the differences between Marion and Derrida do not represent choices either for or against religion, but rather, two distinct denominations of religion in the spirit of postmodernism.
 
 * * *
 

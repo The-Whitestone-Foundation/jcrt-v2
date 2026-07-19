@@ -3,16 +3,30 @@ nanoid: "PfVORQ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbvb2d22'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "For Love of the Things Themselves: Derrida’s Hyper-Realism"
-author: "John D Caputo"
+author: "John D. Caputo"
 affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - deconstruction
+  - jacques-derrida
+  - hyper-realism
+  - alterity
+  - wholly-other
+  - emmanuel-levinas
+  - edmund-husserl
+  - phenomenology
+  - singularity
+  - undecidability
+  - messianicity
+  - religion-without-religion
+  - negative-theology
+  - metaphysics-of-presence
 subjects:
 abstract:
 year: 2000

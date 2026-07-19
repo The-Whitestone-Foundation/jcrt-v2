@@ -3,8 +3,8 @@ nanoid: "zQDYIy"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6wtlg2x'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "Sacred Pain: Hurting the Body for the Sake of the Soul"
 author: "Perri Druen"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - sacred-pain
+  - ariel-glucklich
+  - pain
+  - embodiment
+  - self-mutilation
+  - mysticism
+  - rites-of-passage
+  - religious-experience
+  - neuroscience
+  - identity
+  - asceticism
+  - transformation
 subjects:
 abstract:
 year: 2002

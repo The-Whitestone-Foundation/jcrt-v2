@@ -3,8 +3,8 @@ nanoid: "pEh7jv"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5sjer27'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "Past Imperfect, Future Unknown: the Discourse of Theory"
 author: "Gregory Flaxman"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - literary-theory
+  - resistance-to-theory
+  - paul-de-man
+  - jacques-lacan
+  - four-discourses
+  - hysteria
+  - structuralism
+  - poststructuralism
+  - jean-michel-rabate
+  - sigmund-freud
+  - psychoanalysis
+  - institution-of-theory
+  - master-signifier
 subjects:
 abstract:
 year: 2003

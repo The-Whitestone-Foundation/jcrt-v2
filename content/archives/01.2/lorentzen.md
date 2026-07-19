@@ -3,8 +3,8 @@ nanoid: "otwYzk"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccafjk25'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "Difference and Repetition"
 author: "Oz Lorentzen"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - gilles-deleuze
+  - difference-and-repetition
+  - image-of-thought
+  - immanence
+  - deconstruction
+  - fractured-self
+  - theological-thinking
+  - alterity
+  - nihilism
+  - friedrich-nietzsche
+  - transcendence
+  - philosophy-of-religion
 subjects:
 abstract:
 year: 2000

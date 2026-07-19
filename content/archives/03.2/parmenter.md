@@ -3,8 +3,8 @@ nanoid: "Qiek-r"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c75pb522'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "The Book of the Heart"
 author: "Dorina Miller Parmenter"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - book-of-the-heart
+  - eric-jager
+  - medieval-studies
+  - subjectivity
+  - jacques-derrida
+  - grammatology
+  - augustine
+  - textuality
+  - materiality-of-the-book
+  - heart-metaphor
+  - henry-suso
+  - christian-anthropology
+  - memory
 subjects:
 abstract:
 year: 2002

@@ -3,8 +3,8 @@ nanoid: "nG8y9e"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cab54c25'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Beyond Foundationalism: Shaping Theology in a Postmodern Context"
 author: "Paul Lakeland"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - foundationalism
+  - nonfoundationalism
+  - postmodern-theology
+  - evangelical-theology
+  - postliberalism
+  - george-lindbeck
+  - social-constructionism
+  - eschatology
+  - trinity
+  - ecclesiology
+  - wolfhart-pannenberg
+  - stanley-grenz
 subjects:
 abstract:
 year: 2001

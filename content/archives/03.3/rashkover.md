@@ -3,8 +3,8 @@ nanoid: "3Joyst"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6pxw42e'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations"
 author: "Randi Rashkover"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - radical-orthodoxy
+  - jewish-christian-relations
+  - embodiment
+  - incarnation
+  - semiotics
+  - graham-ward
+  - eucharist
+  - rabbinic-hermeneutics
+  - torah
+  - scriptural-reasoning
+  - desire
+  - narrative-theology
+  - gift
 subjects:
 abstract:
 year: 2002

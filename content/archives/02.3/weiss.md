@@ -3,8 +3,8 @@ nanoid: "7lGkb2"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7y2362w'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "A. I: Artificial Intelligence"
 author: "Dennis M Weiss"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - artificial-intelligence
+  - philosophical-anthropology
+  - human-nature
+  - steven-spielberg
+  - sherry-turkle
+  - pinocchio
+  - love
+  - imprinting
+  - sociobiology
+  - digital-culture
+  - human-machine-boundary
+  - arnold-gehlen
+  - posthumanism
 subjects:
 abstract:
 year: 2001

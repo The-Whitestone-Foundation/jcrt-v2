@@ -3,8 +3,8 @@ nanoid: "3c9WIf"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7cscs26'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Left Traumatized: Zizek’s Lenin and Politics After 9/11"
 author: "Adam Katz"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - slavoj-zizek
+  - lenin
+  - leftist-politics
+  - september-11
+  - terrorism
+  - abraham-lincoln
+  - marxism
+  - psychoanalysis
+  - jacques-lacan
+  - eric-gans
+  - universalism
+  - victimhood
+  - judith-butler
+  - political-theology
+  - revolution
 subjects:
 abstract:
 year: 2002

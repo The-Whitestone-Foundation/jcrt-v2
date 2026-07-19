@@ -3,16 +3,29 @@ nanoid: "-FZmh6"
 doi:
 atproto:
 article_number:
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "The Work of Art in the Age of Alien Reproduction"
 author: "Gregg Lambert; Jorge Sicre"
-affiliation: 03
+affiliation: 
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - aesthetics
+  - immanuel-kant
+  - extraterrestrials
+  - gilles-deleuze
+  - philosophy-of-art
+  - sensibility
+  - science-fiction
+  - the-sublime
+  - emmanuel-levinas
+  - alterity
+  - paul-klee
+  - modern-art
+  - perception
 subjects:
 abstract:
 year: 1999

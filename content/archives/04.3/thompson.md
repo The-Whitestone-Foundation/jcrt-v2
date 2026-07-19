@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: thompson.pdf
 date:
-keywords: []
+keywords:
+  - richard-kearney
+  - hermeneutics-of-religion
+  - eschatology
+  - possibility
+  - ontotheology
+  - negative-theology
+  - narrative-identity
+  - otherness
+  - nicholas-of-cusa
+  - kenosis
+  - panentheism
+  - process-philosophy
+  - paul-ricoeur
+  - alfred-north-whitehead
 subjects:
 abstract: "A review of three books by Richard Kearney: On Stories, London: Routledge, 2001; God Who May Be: A Hermeneutics of Religion ; Strangers, Gods, and Monsters: Ideas of Otherness, London: Routledge, 2002."
 year: 2003

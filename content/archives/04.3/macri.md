@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: macri.pdf
 date:
-keywords: []
+keywords:
+  - philosophy-of-christianity
+  - phenomenology
+  - michel-henry
+  - christology
+  - incarnation
+  - radical-immanence
+  - metaphysics-of-presence
+  - truth
+  - jean-luc-marion
+  - gospel-of-john
+  - life
+  - revelation
 subjects:
 abstract:
 year: 2003

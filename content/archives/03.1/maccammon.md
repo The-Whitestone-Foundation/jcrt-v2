@@ -3,8 +3,8 @@ nanoid: "xFua_n"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7pdnz27'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "The Just"
 author: "Linda M MacCammon"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - paul-ricoeur
+  - justice
+  - ethics
+  - fundamental-anthropology
+  - responsibility
+  - vengeance
+  - forgiveness
+  - selfhood
+  - narrative-identity
+  - imputation
+  - reconciliation
+  - phenomenology
+  - hermeneutics
+  - emmanuel-levinas
 subjects:
 abstract:
 year: 2001

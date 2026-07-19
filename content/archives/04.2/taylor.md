@@ -3,8 +3,8 @@ nanoid: "vjigtD"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5gbrj27'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "Refusing Theory: Avital Ronell and the Structure of Stupidity"
 author: "Victor Taylor"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - stupidity
+  - avital-ronell
+  - future-of-theory
+  - gilles-deleuze
+  - paul-de-man
+  - franz-kafka
+  - refusal
+  - deconstruction
+  - allegory
+  - parabasis
+  - transcendental
+  - abraham-and-isaac
 subjects:
 abstract:
 year: 2003

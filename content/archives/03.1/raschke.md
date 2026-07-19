@@ -3,8 +3,8 @@ nanoid: "SQArVQ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7nlzf2s'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies"
 author: "Carl A. Raschke"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - postmodernism
+  - religious-studies
+  - deconstruction
+  - semiotics
+  - onto-theology
+  - alterity
+  - radical-orthodoxy
+  - theology
+  - jacques-derrida
+  - charles-sanders-peirce
+  - edmund-husserl
+  - emmanuel-levinas
+  - jean-baudrillard
+  - friedrich-nietzsche
+  - martin-heidegger
 subjects:
 abstract:
 year: 2001

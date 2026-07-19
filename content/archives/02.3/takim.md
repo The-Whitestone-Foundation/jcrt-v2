@@ -3,8 +3,8 @@ nanoid: "f9Eojs"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7zpqp2l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Muslims: Their Religious Beliefs and Practices"
 author: "Liyakatali Takim"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - islam
+  - islamic-studies
+  - muslim-identity
+  - orientalism
+  - quran
+  - sunna
+  - hadith
+  - islamic-law
+  - shia
+  - sufism
+  - andrew-rippin
+  - historiography
+  - textual-criticism
+  - islamic-theology
 subjects:
 abstract:
 year: 2001

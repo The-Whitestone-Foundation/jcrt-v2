@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: lokensgard.pdf
 date:
-keywords: []
+keywords:
+  - pragmatism
+  - native-american-philosophy
+  - epistemology-of-place
+  - colonialism
+  - john-dewey
+  - william-james
+  - charles-peirce
+  - pluralism
+  - roger-williams
+  - benjamin-franklin
+  - ralph-waldo-emerson
+  - ontology
+  - indigenous-knowledge
+  - hospitality
 subjects:
 abstract:
 year: 2003

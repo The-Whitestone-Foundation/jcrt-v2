@@ -3,16 +3,29 @@ nanoid: "Ur-3d_"
 doi:
 atproto:
 article_number: 02
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "The Ambiguous Gift of Desire"
-author: "Charles E Winquist"
-affiliation:
+author: "Charles Winquist"
+affiliation: Syracuse University
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - desire
+  - consciousness
+  - plane-of-immanence
+  - gilles-deleuze
+  - death-of-god
+  - friedrich-nietzsche
+  - paul-tillich
+  - subjectivity
+  - difference
+  - david-hume
+  - postmodern-theology
+  - eternal-recurrence
+  - deconstruction
 subjects:
 abstract:
 year: 1999

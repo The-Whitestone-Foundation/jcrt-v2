@@ -3,8 +3,8 @@ nanoid: "-XwQ5a"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbx2n522'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "Heterological History: a Conversation"
 author: "Edith Wyschogrod; Carl A. Raschke"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - heterology
+  - philosophy-of-history
+  - alterity
+  - radical-orthodoxy
+  - emmanuel-levinas
+  - jacques-derrida
+  - john-milbank
+  - the-trace
+  - ethics-of-alterity
+  - memory
+  - glory
+  - justice
+  - community
 subjects:
 abstract:
 year: 2000

@@ -3,8 +3,8 @@ nanoid: "bh_1Z3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbh5vg2x'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "Culture Wars, Religion, and the Postmodern Sacred"
 author: "Michael Strysick"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - culture-wars
+  - american-religion
+  - postmodern-sacred
+  - multiculturalism
+  - jean-francois-lyotard
+  - metanarratives
+  - religious-pluralism
+  - death-of-god
+  - secularism
+  - iconography
+  - victor-taylor
+  - separation-of-church-and-state
+  - book-review
+  - parainquiry
 subjects:
 abstract:
 year: 2000

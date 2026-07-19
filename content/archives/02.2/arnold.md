@@ -3,8 +3,8 @@ nanoid: "6zQb2r"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cau3ip2l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "Diversity in the History of Religions"
 author: "Philip P Arnold"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - history-of-religions
+  - mircea-eliade
+  - the-sacred
+  - religious-diversity
+  - multiculturalism
+  - aztec-religion
+  - native-american-religion
+  - haudenosaunee
+  - comparative-religion
+  - cipher-of-religion
+  - charles-long
+  - materiality
+  - colonialism
 subjects:
 abstract:
 year: 2001

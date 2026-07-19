@@ -3,8 +3,8 @@ nanoid: "4to33P"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca3ggn22'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology After Vatican II"
 author: "Marian Ronan"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - roman-catholicism
+  - vatican-ii
+  - gender
+  - sexuality
+  - mourning
+  - melancholia
+  - psychoanalysis
+  - sigmund-freud
+  - eric-santner
+  - neo-thomism
+  - abortion
+  - immaculate-conception
+  - postmodernism
+  - holocaust
+  - womens-ordination
 subjects:
 abstract:
 year: 2001

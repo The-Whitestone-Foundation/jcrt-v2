@@ -3,8 +3,8 @@ nanoid: "hSSNhS"
 doi:
 atproto:
 article_number: 09
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "Deconstructing the Great Chain of Being"
 author: "Jonathan Scott Lee"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - mysticism
+  - plotinus
+  - great-chain-of-being
+  - neoplatonism
+  - negative-theology
+  - apophatic-theology
+  - jacques-derrida
+  - nonduality
+  - prayer
+  - deconstruction
+  - pseudo-dionysius
+  - meister-eckhart
+  - buddhism
 subjects:
 abstract:
 year: 1999

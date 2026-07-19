@@ -3,8 +3,8 @@ nanoid: "LL4gCb"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbbwt226'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "Redemption: Lacan Avec Marx"
 author: "Gregg Lambert"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jacques-lacan
+  - karl-marx
+  - redemption
+  - sabbath
+  - division-of-labor
+  - mode-of-production
+  - capital
+  - death-drive
+  - messianism
+  - das-ding
+  - pleasure-principle
+  - homeostasis
+  - walter-benjamin
+  - sublimation
 subjects:
 abstract:
 year: 2000

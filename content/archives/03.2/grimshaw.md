@@ -3,8 +3,8 @@ nanoid: "NeXbNk"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7if4k25'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Preacher"
 author: "Mike Grimshaw"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - death-of-god
+  - garth-ennis
+  - preacher
+  - graphic-novels
+  - popular-culture
+  - friedrich-nietzsche
+  - jean-baudrillard
+  - a-theology
+  - gnosticism
+  - generation-x
+  - secularization
+  - imago-dei
+  - georges-bataille
+  - western-genre
+  - apocalypticism
 subjects:
 abstract:
 year: 2002

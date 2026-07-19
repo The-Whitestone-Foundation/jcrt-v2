@@ -3,8 +3,8 @@ nanoid: "EkLQq5"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6fnp226'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "Quoting Mieke Bal’s Navel: Contemporary Theory, Preposterous Religion"
 author: "Benjamin Bennett-Carpenter"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - mieke-bal
+  - quotation
+  - preposterous-history
+  - navel-metaphor
+  - representation
+  - semiotics
+  - narratology
+  - deconstruction
+  - feminist-biblical-criticism
+  - word-image-opposition
+  - jacques-derrida
+  - intertextuality
+  - theory-of-religion
+  - roland-barthes
 subjects:
 abstract:
 year: 2002

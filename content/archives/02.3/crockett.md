@@ -3,8 +3,8 @@ nanoid: "-sJP6x"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cage7y2r'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Contributions to Philosophy (from Enowning)"
 author: "Clayton Crockett"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - martin-heidegger
+  - contributions-to-philosophy
+  - being
+  - ereignis
+  - last-god
+  - negative-theology
+  - jean-luc-marion
+  - jacques-derrida
+  - julia-kristeva
+  - ontological-difference
+  - gelassenheit
+  - death-of-god
+  - dasein
+  - continental-philosophy
+  - philosophical-theology
 subjects:
 abstract:
 year: 2001

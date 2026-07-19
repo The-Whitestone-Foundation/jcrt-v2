@@ -3,8 +3,8 @@ nanoid: "6hGyNR"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5oz662x'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s Gilles Deleuze and the Ruin of Representation)"
 author: "Gregg Lambert"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: 09
 date:
-keywords: []
+keywords:
+  - future-of-theory
+  - hysteria
+  - jacques-lacan
+  - four-discourses
+  - psychoanalysis
+  - judith-butler
+  - camille-paglia
+  - roland-barthes
+  - jacques-derrida
+  - paul-de-man
+  - gilles-deleuze
+  - french-theory
+  - jouissance
+  - gender-theory
 subjects:
 abstract:
 year: 2003

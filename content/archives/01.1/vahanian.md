@@ -3,8 +3,8 @@ nanoid: "EZdRys"
 doi:
 atproto:
 article_number: 04
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time"
 author: "Gabriel Vahanian; Warren Clarnette"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - temporality
+  - secularization
+  - eschatology
+  - augustine
+  - martin-heidegger
+  - incarnation
+  - otherness
+  - biblical-theology
+  - rudolf-bultmann
+  - karl-barth
+  - sabbath
+  - alterity
+  - theology-of-time
 subjects:
 abstract:
 year: 1999

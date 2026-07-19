@@ -3,8 +3,8 @@ nanoid: "vJHshV"
 doi:
 atproto:
 article_number: 08
-volume:
-issue:
+volume: 1
+issue: 1
 pages:
 title: "Politics of Friendship"
 author: "William W Young"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - friendship
+  - jacques-derrida
+  - exemplarity
+  - politics-of-friendship
+  - fraternity
+  - aristotle
+  - carl-schmitt
+  - deconstruction
+  - messianism
+  - emmanuel-levinas
+  - georges-bataille
+  - radical-democracy
+  - sexual-difference
 subjects:
 abstract:
 year: 1999
@@ -156,7 +169,7 @@ This essay seeks to explicate Derrida's emphasis on the importance of exemplarit
 
 [^14]: Maurice Blanchot, "The Negative Community," in *The Unavowable Community*, trans. Joris (Barrytown, NY: Station Hill Press, 1988), p. 9. 
 
-[^15]: Such prayer and testimony, while thinkable as separate from praise (what Derrida calls the "encomium" in "How Not to Speak: Denials") always appears conjoined with praise, dissimulating itself in the predicative form of theological discourse. Prayer, in order to be prayer, cannot be reduced to praise. John Caputo's reading of "How Not to Speak," which basically equates the two, misses the secretive relation between prayer and praise that Derrida seeks to capture there. This is not a minor point, since it seems to me to lead to his view of "religion without religion" as attempting to abstract itself from theological discourse and tradition, when it seems to me to make more sense to read deconstruction as an *internal *contestation of theology. See Derrida, "How Not to Speak: Denials," in *Derrida and Negative Theology , *ed. Coward and Foshay (Albany: SUNY Press, 1992), pp. 99, 110-112; John Caputo, *The Prayers and Tears of Jacques Derrida: Religion Without Religion* (Bloomington: Indiana University Press, 1997), pp. pp. 38-9. 
+[^15]: Such prayer and testimony, while thinkable as separate from praise (what Derrida calls the "encomium" in "How Not to Speak: Denials") always appears conjoined with praise, dissimulating itself in the predicative form of theological discourse. Prayer, in order to be prayer, cannot be reduced to praise. John D. Caputo's reading of "How Not to Speak," which basically equates the two, misses the secretive relation between prayer and praise that Derrida seeks to capture there. This is not a minor point, since it seems to me to lead to his view of "religion without religion" as attempting to abstract itself from theological discourse and tradition, when it seems to me to make more sense to read deconstruction as an *internal *contestation of theology. See Derrida, "How Not to Speak: Denials," in *Derrida and Negative Theology , *ed. Coward and Foshay (Albany: SUNY Press, 1992), pp. 99, 110-112; John D. Caputo, *The Prayers and Tears of Jacques Derrida: Religion Without Religion* (Bloomington: Indiana University Press, 1997), pp. pp. 38-9. 
 
 [^16]: Derrida, "*Sauf le nom* (Post-scriptum)," in *On the Name*, trans. Leavey, (Stanford: Stanford University Press, 1995), pp. 38-9. See also *Given Time I. Counterfeit Money*, trans. Kamuf (Chicago: University of Chicago Press, 1992) p. 169. Often overlooked in discussions of the gift is the fact that the gift--if there is any--is an event of friendship. 
 

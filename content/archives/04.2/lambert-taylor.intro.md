@@ -3,8 +3,8 @@ nanoid: "F6so2P"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5qprh2b'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "The Future of Theory"
 author: "Victor Taylor; Gregg Lambert"
@@ -12,7 +12,17 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - future-of-theory
+  - literary-criticism
+  - death-of-theory
+  - prometheus
+  - franz-kafka
+  - friedrich-nietzsche
+  - jean-michel-rabate
+  - ghost-of-theory
+  - continental-philosophy
+  - deconstruction
 subjects:
 abstract:
 year: 2003

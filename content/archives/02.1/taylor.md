@@ -3,8 +3,8 @@ nanoid: "4V6x0f"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caxkt72l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 1
 pages:
 title: "Artist’s Statement"
 author: "Christopher M Taylor; Christopher M Taylor"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - medium-specificity
+  - clement-greenberg
+  - rosalind-krauss
+  - stanley-cavell
+  - post-medium-condition
+  - modernism
+  - acknowledgment
+  - differential-specificity
+  - installation-art
+  - structuralist-film
+  - slide-projection
+  - aesthetics
 subjects:
 abstract:
 year: 2000

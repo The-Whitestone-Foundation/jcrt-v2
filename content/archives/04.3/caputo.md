@@ -7,7 +7,7 @@ volume: 4
 issue: 3
 pages:
 title: "Without Sovereignty, without Being: Unconditionality, the Coming of God and Derrida’s Democracy to Come"
-author: "John D Caputo"
+author: "John D. Caputo"
 affiliation:
 description:
 pdf: caputo.pdf

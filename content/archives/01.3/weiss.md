@@ -3,8 +3,8 @@ nanoid: "rdTpAM"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbfg7w2w'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
 author: "Dennis M Weiss"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - posthuman
+  - cybernetics
+  - katherine-hayles
+  - embodiment
+  - liberal-humanism
+  - artificial-life
+  - information-theory
+  - subjectivity
+  - distributed-cognition
+  - technology
+  - materiality
+  - cyborg
+  - philosophy-of-mind
+  - book-review
 subjects:
 abstract:
 year: 2000

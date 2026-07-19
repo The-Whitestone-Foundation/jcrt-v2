@@ -3,8 +3,8 @@ nanoid: "tXINkd"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7casdrr27'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "Ekphrastic Plastic Fragments: Mark C. Taylor in and Out of Context"
 author: "Camelia Elias"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - ekphrasis
+  - fragment
+  - mark-c-taylor
+  - deconstruction
+  - atheology
+  - baroque
+  - gilles-deleuze
+  - the-fold
+  - imago-dei
+  - representation
+  - hegel
+  - kierkegaard
+  - martin-luther
+  - tracing
+  - postmodern-theology
 subjects:
 abstract:
 year: 2001

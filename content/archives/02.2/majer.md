@@ -3,8 +3,8 @@ nanoid: "B075nw"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caqn6w2x'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "On Contagions: Leviticus and the Fascination of the Abomination"
 author: "Gerald Majer"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - contagion
+  - leviticus
+  - purity-and-danger
+  - mary-douglas
+  - paul-ricoeur
+  - jean-luc-nancy
+  - sacrifice
+  - abomination
+  - defilement
+  - alterity
+  - georges-bataille
+  - the-between
+  - finitude
+  - taboo
+  - ethics
 subjects:
 abstract:
 year: 2001

@@ -3,8 +3,8 @@ nanoid: "yU7aKL"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ulpa2w'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought"
 author: "William D Dean"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - american-philosophy
+  - pragmatism
+  - phenomenology
+  - native-american-thought
+  - radical-empiricism
+  - process-philosophy
+  - enlightenment-dualism
+  - bruce-wilshire
+  - richard-rorty
+  - william-james
+  - john-dewey
+  - charles-sanders-peirce
+  - alfred-north-whitehead
+  - black-elk
 subjects:
 abstract:
 year: 2001

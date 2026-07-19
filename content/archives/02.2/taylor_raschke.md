@@ -3,8 +3,8 @@ nanoid: "YxHlwl"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caliby2r'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 2
 pages:
 title: "About About Religion: a Conversation with Mark C. Taylor"
 author: "Mark C Taylor; Carl A. Raschke"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - mark-c-taylor
+  - atheology
+  - the-sacred
+  - deconstruction
+  - jacques-derrida
+  - denegation
+  - negative-theology
+  - interstitiality
+  - network-culture
+  - study-of-religion
+  - martin-heidegger
+  - hegel
+  - kierkegaard
+  - complexity-theory
+  - theory-of-religion
 subjects:
 abstract:
 year: 2001

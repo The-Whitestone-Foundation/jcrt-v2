@@ -3,8 +3,8 @@ nanoid: "R_q3JK"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca7cid22'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Heidegger, Religion, and the Transience of Digital Memory"
 author: "Neal Magee"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - martin-heidegger
+  - memory
+  - forgetfulness
+  - digital-culture
+  - metaphysics
+  - overcoming-of-metaphysics
+  - deconstruction
+  - mark-c-taylor
+  - death-of-god
+  - jacques-derrida
+  - richard-rorty
+  - rainer-maria-rilke
+  - postmodernism
+  - philosophical-theology
+  - trace
 subjects:
 abstract:
 year: 2001

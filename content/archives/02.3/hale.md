@@ -3,8 +3,8 @@ nanoid: "tuFzxv"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caenfo2x'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "The Critique of Theological Reason"
 author: "David Hale"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - postmodernism
+  - james-mackey
+  - theological-reason
+  - subject-object-dualism
+  - jacques-derrida
+  - deconstruction
+  - process-theology
+  - alfred-north-whitehead
+  - richard-rorty
+  - emmanuel-levinas
+  - onto-theology
+  - eros
+  - metaphysics
 subjects:
 abstract:
 year: 2001

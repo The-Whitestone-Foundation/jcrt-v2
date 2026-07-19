@@ -3,8 +3,8 @@ nanoid: "9PTTA3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbysch2l'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 2
 pages:
 title: "The Division of Religion with Signs Following"
 author: "Victor Taylor"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - religious-theory
+  - deconstruction
+  - semiotics
+  - jacques-derrida
+  - carl-raschke
+  - disciplinarity
+  - supplementarity
+  - critical-theory
+  - mark-c-taylor
+  - clement-greenberg
+  - postmodernism
+  - study-of-religion
+  - philosophy-of-religion
 subjects:
 abstract:
 year: 2000

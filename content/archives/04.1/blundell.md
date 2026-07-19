@@ -3,8 +3,8 @@ nanoid: "0YBGLX"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6dx3322'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "The New Ricoeur Scholarship"
 author: "Boyd Blundell"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - paul-ricoeur
+  - narrative-identity
+  - hermeneutics-of-the-self
+  - subjectivity
+  - ethics
+  - oneself-as-another
+  - emmanuel-levinas
+  - moral-philosophy
+  - theological-ethics
+  - phronesis
+  - practical-wisdom
+  - book-review
 subjects:
 abstract:
 year: 2002

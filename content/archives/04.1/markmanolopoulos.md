@@ -3,8 +3,8 @@ nanoid: "3H0GJL"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5zm2j2c'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "When Marion’s Theology Seeks Certainty"
 author:
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - jean-luc-marion
+  - undecidability
+  - deconstruction
+  - apophatic-theology
+  - negative-theology
+  - dogmatism
+  - jacques-derrida
+  - john-caputo
+  - faith
+  - metaphysics-of-presence
+  - arianism
+  - trinitarianism
+  - god-without-being
 subjects:
 abstract:
 year: 2002

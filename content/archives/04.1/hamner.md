@@ -3,8 +3,8 @@ nanoid: "iFCMKU"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6agp72b'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "A Private Happiness for All, Or, How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
 author: "M. Gail Hamner"
@@ -12,7 +12,19 @@ affiliation: Syracuse University
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - julia-kristeva
+  - revolt
+  - the-sacred
+  - feminism
+  - maternity
+  - psychoanalysis
+  - may-1968
+  - political-action
+  - jouissance
+  - femininity
+  - national-depression
+  - book-review
 subjects:
 abstract:
 year: 2002

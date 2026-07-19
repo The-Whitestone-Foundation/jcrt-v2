@@ -3,8 +3,8 @@ nanoid: "4bIoiq"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c726yd22'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "In Memoriam: Dr. Charles E. Winquist - JCRT 3.2"
 author:
@@ -12,7 +12,17 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - charles-winquist
+  - in-memoriam
+  - obituary
+  - syracuse-university
+  - american-academy-of-religion
+  - postmodern-religious-thought
+  - philosophy-of-religion
+  - desiring-theology
+  - john-caputo
+  - editorial-board
 subjects:
 abstract:
 year: 2002

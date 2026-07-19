@@ -3,8 +3,8 @@ nanoid: "mGQQdZ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cacvox2l'
 article_number:
-volume:
-issue:
+volume: 2
+issue: 3
 pages:
 title: "Bluebird: Deliberate Creation of Multiple Personality by Psychiatrists"
 author: "Martin H Katchen"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - mind-control
+  - mkultra
+  - cia
+  - dissociative-identity-disorder
+  - multiple-personality-disorder
+  - hypnosis
+  - false-memory-syndrome
+  - colin-ross
+  - manchurian-candidate
+  - psychiatric-abuse
+  - trauma
+  - ritual-abuse
+  - intelligence-community
+  - post-traumatic-stress-disorder
 subjects:
 abstract:
 year: 2001

@@ -3,8 +3,8 @@ nanoid: "pW4vZ6"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ktut2k'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "The City of K: Franz Kafka and Prague"
 author: "Victor Taylor"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - franz-kafka
+  - prague
+  - minor-literature
+  - gilles-deleuze
+  - felix-guattari
+  - yiddish-theater
+  - bureaucracy
+  - modernity
+  - identity
+  - jewish-culture
+  - julia-kristeva
+  - postmodernism
+  - exhibition
 subjects:
 abstract:
 year: 2002

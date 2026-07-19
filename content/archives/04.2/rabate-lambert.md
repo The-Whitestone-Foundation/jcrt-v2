@@ -3,8 +3,8 @@ nanoid: "3cIImn"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5jt5g2w'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "A Conversation on the Future of Theory"
 author: "Jean-Michel Rabaté; Gregg Lambert"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - gilles-deleuze
+  - feminism
+  - ruin-of-representation
+  - mary-kelly
+  - phenomenology
+  - psychoanalysis
+  - sexual-difference
+  - becoming-woman
+  - felix-guattari
+  - maurice-merleau-ponty
+  - jacques-derrida
+  - castration
+  - dorothea-olkowski
+  - luce-irigaray
 subjects:
 abstract:
 year: 2003

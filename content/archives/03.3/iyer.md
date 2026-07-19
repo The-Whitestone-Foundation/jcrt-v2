@@ -3,8 +3,8 @@ nanoid: "TdE2v8"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ti4y2w'
 article_number: 02
-volume:
-issue:
+volume: 3
+issue: 3
 pages:
 title: "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot"
 author: "Lars Iyer"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - martin-heidegger
+  - emmanuel-levinas
+  - maurice-blanchot
+  - alterity
+  - politics
+  - polis
+  - holderlin
+  - il-y-a
+  - the-other
+  - community
+  - zionism
+  - ethics
+  - ontology
+  - exemplarism
 subjects:
 abstract: 
 year: 2002
@@ -26,7 +40,7 @@ University of Newcastle upon Tyne
 
 > *The disaster: break with the star, break with every form of totality ...* (Blanchot, *Writing of the Disaster*, 75)
 
-In Plato's *Laws*, the Athenian stranger claims that there are two arguments in particular that foster the belief in the gods -- the antiquity and divinity of the soul and the order of the heavens under the control of reason. No one who has contemplated the heavenly bodies carefully could suppose that celestial events happen by necessity rather than divine intention (*Laws* 966d). And indeed, the stranger maintains, no one can govern the *polis* who does not understand that the stars are steered by a divine will and exist in harmony with customs and law [*nomos*] (*Laws* 968). But what happens when this contemplation reveals neither the order of the soul nor the order of the heavens? What happens with the awareness that the disarray of the universe mirrors the disarray of the soul and it is no longer possible to harmonize the affairs of state according to a *nomos* that encompasses heaven and earth? The *polis* is cast adrift and our condition becomes, in John Caputo's word, *disastrous*, since the stars, *astres*, have fallen (*Against Ethics *6). One can discern a desire to address this fallenness in the search for a lost moral unity, with the cohesion and solidarity of a society founded on hard work and co-operation. One can also find it in the attempt to revive a threatened spiritual unity by seeking, for example, a new embodiment of the early Christian community or the Muslim caliphate. But these attempts to re-harmonize individual, familial and societal responsibilities occur amidst the reign of efficiency and optimization, where the hegemony of the marketplace threatens to overturn old models of being-together. We cannot simply restore the missing *nomos*, placing the stars back in the sky. Indeed, we are no longer sure whether we know who 'we' are -- consumers? citizens? subjects? As Caputo reflects, "It is not a question of knowing what to put in their place, but of just getting along without such a place, of conceding that things are just 'decentered', 'disseminated', 'disastered'. I would say that we are in a fix, except that even to say 'we' is to get into a still deeper fix. We are in the fix that we cannot say 'we'" (*Against Ethics *6). How then can we endure this "disastronomic, disastrological, deconstructive setback" without the model of a stellar *nomos*, a stellar *logos* that could serve as the image of the loftiness of the law? (*Against Ethics *6)
+In Plato's *Laws*, the Athenian stranger claims that there are two arguments in particular that foster the belief in the gods -- the antiquity and divinity of the soul and the order of the heavens under the control of reason. No one who has contemplated the heavenly bodies carefully could suppose that celestial events happen by necessity rather than divine intention (*Laws* 966d). And indeed, the stranger maintains, no one can govern the *polis* who does not understand that the stars are steered by a divine will and exist in harmony with customs and law [*nomos*] (*Laws* 968). But what happens when this contemplation reveals neither the order of the soul nor the order of the heavens? What happens with the awareness that the disarray of the universe mirrors the disarray of the soul and it is no longer possible to harmonize the affairs of state according to a *nomos* that encompasses heaven and earth? The *polis* is cast adrift and our condition becomes, in John D. Caputo's word, *disastrous*, since the stars, *astres*, have fallen (*Against Ethics *6). One can discern a desire to address this fallenness in the search for a lost moral unity, with the cohesion and solidarity of a society founded on hard work and co-operation. One can also find it in the attempt to revive a threatened spiritual unity by seeking, for example, a new embodiment of the early Christian community or the Muslim caliphate. But these attempts to re-harmonize individual, familial and societal responsibilities occur amidst the reign of efficiency and optimization, where the hegemony of the marketplace threatens to overturn old models of being-together. We cannot simply restore the missing *nomos*, placing the stars back in the sky. Indeed, we are no longer sure whether we know who 'we' are -- consumers? citizens? subjects? As Caputo reflects, "It is not a question of knowing what to put in their place, but of just getting along without such a place, of conceding that things are just 'decentered', 'disseminated', 'disastered'. I would say that we are in a fix, except that even to say 'we' is to get into a still deeper fix. We are in the fix that we cannot say 'we'" (*Against Ethics *6). How then can we endure this "disastronomic, disastrological, deconstructive setback" without the model of a stellar *nomos*, a stellar *logos* that could serve as the image of the loftiness of the law? (*Against Ethics *6)
 
 ### I
 

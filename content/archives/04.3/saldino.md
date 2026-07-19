@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: saldino.pdf
 date:
-keywords: []
+keywords:
+  - ludwig-wittgenstein
+  - tractatus-logico-philosophicus
+  - ontology
+  - ethics
+  - philosophy-of-language
+  - logic
+  - realism
+  - ineffability
+  - martin-stokhof
+  - arthur-schopenhauer
+  - meaning
+  - silence
 subjects:
 abstract:
 year: 2003

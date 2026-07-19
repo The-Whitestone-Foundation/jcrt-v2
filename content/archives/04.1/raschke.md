@@ -3,8 +3,8 @@ nanoid: "AcOIl3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5w3u62g'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
 author: "Carl A. Raschke"
@@ -12,7 +12,22 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - emmanuel-levinas
+  - faith
+  - ethics
+  - alterity
+  - infinity
+  - rene-descartes
+  - edmund-husserl
+  - deconstruction
+  - ontotheology
+  - postmodernism
+  - the-face
+  - grammar-of-address
+  - dialogue
+  - heterology
+  - subjectivity
 subjects:
 abstract:
 year: 2002

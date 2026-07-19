@@ -3,8 +3,8 @@ nanoid: "DdfSFU"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5nbid22'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "Laughter as Gesture: Hilarity and the Anti-Sublime"
 author: "Stephen G Nichols"
@@ -12,7 +12,19 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - laughter
+  - gesture
+  - the-sublime
+  - anti-sublime
+  - friedrich-nietzsche
+  - immanuel-kant
+  - max-kommerell
+  - giorgio-agamben
+  - soren-kierkegaard
+  - the-body
+  - thus-spoke-zarathustra
+  - comedy
 subjects:
 abstract:
 year: 2003

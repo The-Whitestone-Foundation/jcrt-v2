@@ -3,8 +3,8 @@ nanoid: "R8Gpgr"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5xue322'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "Phänomenologie des religiösen Lebens"
 author: "Sean J McGrath"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - martin-heidegger
+  - augustine
+  - phenomenology-of-religion
+  - onto-theology
+  - restlessness
+  - care
+  - historicity
+  - facticity
+  - neoplatonism
+  - scholasticism
+  - being-and-time
+  - angst
+  - divine-simplicity
+  - vita-beata
 subjects:
 abstract:
 year: 2002

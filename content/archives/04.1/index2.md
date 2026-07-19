@@ -3,8 +3,8 @@ nanoid: "j7YYro"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c66q5u2e'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 1
 pages:
 title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
 author:
@@ -12,7 +12,18 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - cultural-religious-theory
+  - levinasian-ethics
+  - deconstruction
+  - mieke-bal
+  - iconography
+  - gift-exchange
+  - jean-luc-marion
+  - julia-kristeva
+  - martin-heidegger
+  - paul-ricoeur
+  - continental-philosophy-of-religion
 subjects:
 abstract:
 year: 2002

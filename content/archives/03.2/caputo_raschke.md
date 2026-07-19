@@ -3,16 +3,31 @@ nanoid: "HOIpb-"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7k3wi2r'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 2
 pages:
 title: "Loosening Philosophy’s Tongue: a Conversation with Jack Caputo"
-author: "John D Caputo; Carl A. Raschke"
+author: "John D. Caputo; Carl A. Raschke"
 affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - deconstruction
+  - jacques-derrida
+  - john-caputo
+  - religion-without-religion
+  - messianism
+  - kingdom-of-god
+  - radical-hermeneutics
+  - soren-kierkegaard
+  - mark-c-taylor
+  - emmanuel-levinas
+  - wholly-other
+  - postmodern-theology
+  - negative-theology
+  - faith
+  - gift
 subjects:
 abstract:
 year: 2002

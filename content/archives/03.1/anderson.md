@@ -3,8 +3,8 @@ nanoid: "ucBdeF"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7wdjq2r'
 article_number:
-volume:
-issue:
+volume: 3
+issue: 1
 pages:
 title: "Across the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion"
 author: "Carol S Anderson"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - anthropology-of-religion
+  - comparative-religion
+  - history-of-religions
+  - religious-syncretism
+  - colonialism
+  - postcolonialism
+  - gender-and-sexuality
+  - shamanism
+  - christianization
+  - edward-tylor
+  - james-frazer
+  - evans-pritchard
+  - methodology
 subjects:
 abstract:
 year: 2001

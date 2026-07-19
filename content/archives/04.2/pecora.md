@@ -3,8 +3,8 @@ nanoid: "wf7xHC"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5lktj2c'
 article_number:
-volume:
-issue:
+volume: 4
+issue: 2
 pages:
 title: "Religion and Modernity in Current Debate"
 author: "Vincent P Pecora"
@@ -12,7 +12,20 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - religion
+  - modernity
+  - secularization
+  - islam
+  - christianity
+  - max-weber
+  - rationalization
+  - nationalism
+  - talal-asad
+  - fundamentalism
+  - friedrich-nietzsche
+  - political-theology
+  - clash-of-civilizations
 subjects:
 abstract:
 year: 2003

@@ -3,8 +3,8 @@ nanoid: "eCIvjh"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbrrt32k'
 article_number:
-volume:
-issue:
+volume: 1
+issue: 3
 pages:
 title: "Economies of Studying Religion"
 author: "Clayton Crockett"
@@ -12,7 +12,21 @@ affiliation:
 description:
 pdf: false
 date:
-keywords: []
+keywords:
+  - religious-studies
+  - economy
+  - secular-theology
+  - jacques-derrida
+  - gilles-deleuze
+  - faith-and-knowledge
+  - sacrifice
+  - deontology
+  - utilitarianism
+  - plato-euthyphro
+  - holiness
+  - desire
+  - karl-marx
+  - deconstruction
 subjects:
 abstract:
 year: 2000
