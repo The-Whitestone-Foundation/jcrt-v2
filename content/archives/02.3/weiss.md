@@ -108,7 +108,7 @@ In _Life on the Screen_ Sherry Turkle argues that today the ontological distance
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Dennis Weiss. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Dennis Weiss. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/weiss](https://jcrt.org/archives/02.3/weiss/)
 

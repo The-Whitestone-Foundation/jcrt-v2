@@ -108,7 +108,7 @@ Contrary to positivist trends in the so-called "social sciences" over the last q
 
 ***
 
- 2000 Carl A. Raschke. All rights reserved.  
+2000 Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.1/raschke](https://jcrt.org/archives/02.1/raschke/)
 

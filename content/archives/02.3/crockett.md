@@ -102,7 +102,7 @@ Originally written between 1936 and 1938, first published in German in 1989, and
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Clayton Crockett. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/crockett](https://jcrt.org/archives/02.3/crockett/)
 

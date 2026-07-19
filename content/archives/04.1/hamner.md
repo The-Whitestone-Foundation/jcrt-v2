@@ -150,7 +150,7 @@ Perhaps it is evident that I hold Kristeva's theories at a certain distance, and
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Gail Hamner. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Gail Hamner. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/hamner](https://jcrt.org/archives/04.1/hamner/)
 

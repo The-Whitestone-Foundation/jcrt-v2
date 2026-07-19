@@ -115,7 +115,7 @@ We live in an age of image. This simple statement, often repeated, has complex r
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Jeffrey L. Kosky All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Jeffrey L. Kosky All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/kosky](https://jcrt.org/archives/04.1/kosky/)
 

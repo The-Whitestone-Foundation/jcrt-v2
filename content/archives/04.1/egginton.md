@@ -188,7 +188,7 @@ If deconstruction's calling is to endlessly submit to its own deconstruction, th
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 William Egginton. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 William Egginton. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/egginton](https://jcrt.org/archives/04.1/egginton/)
 

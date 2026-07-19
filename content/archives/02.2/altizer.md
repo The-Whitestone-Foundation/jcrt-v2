@@ -93,7 +93,7 @@ Mark Taylor has remarked many times recently that theology has come to an end in
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Thomas J. J. Altizer All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Thomas J. J. Altizer All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/altizer](https://jcrt.org/archives/02.2/altizer/)
 

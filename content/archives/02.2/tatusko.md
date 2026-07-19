@@ -185,7 +185,7 @@ Wilbur, Shawn P. (1997, 2000) "An Archaeology of Cyberspaces: Virtuality, Commun
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Andrew Tatusko. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Andrew Tatusko. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/tatusko](https://jcrt.org/archives/02.2/tatusko/)
 

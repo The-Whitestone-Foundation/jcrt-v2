@@ -115,7 +115,7 @@ The future of theory, similar to its past, will be Promethean. The legendary, he
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Victor Taylor & Gregg Lambert. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Victor Taylor & Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/lambert-taylor.intro](https://jcrt.org/archives/04.2/lambert-taylor.intro/)
 

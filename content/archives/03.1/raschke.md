@@ -93,7 +93,7 @@ At present theological and religious studies have reached a crisis of severe mag
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Carl A. Raschke. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.1/raschke](https://jcrt.org/archives/03.1/raschke/)
 

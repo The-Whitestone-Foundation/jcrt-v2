@@ -94,7 +94,7 @@ Leora Batnitzky has revised her Ph.D. dissertation into a book that is of great 
 > **Peter Ochs** is Edgar Bronfman Professor of Modern Judaic Studies at the University of Virginia, and Director of its new Program in Jewish Studies. He's cofounder of the Society of Textual Reasoning and the Society of Scriptural Reasoning. Most recent book publications are _Reviewing the Covenant, eugene Borowitz and the Postmodern Renewal of Jewish Theology_ and the co-edited volume, _Christianity in Jewish Terms_.
 
 ***
- 2000 Peter Ochs. All rights reserved.  
+2000 Peter Ochs. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.1/ochs](https://jcrt.org/archives/02.1/ochs/)
 

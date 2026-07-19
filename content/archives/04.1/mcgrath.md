@@ -109,7 +109,7 @@ The being that we are is gripped by a concern for itself _before_ God. God is fu
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Sean J. McGrath. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Sean J. McGrath. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/mcgrath](https://jcrt.org/archives/04.1/mcgrath/)
 

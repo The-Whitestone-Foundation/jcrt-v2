@@ -89,7 +89,7 @@ Since at least the time of the publication of George Lindbeck's _The Nature of D
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Paul Lakeland. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Paul Lakeland. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/lakeland](https://jcrt.org/archives/02.3/lakeland/)
 

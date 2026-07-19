@@ -84,7 +84,7 @@ Any attempt to talk briefly about such immense subjects as "religion" and "moder
 
 > The New York and Washington suicide bombers seem to have been middle-class, educated men, not poor refugees. Instead of getting a wise leadership that stresses education, mass mobilization and patient organization in the service of a cause, the poor and the desperate are often conned into the magical thinking and quick bloody solutions that such appalling models provide, wrapped in lying religious claptrap. This remains true in the Middle East generally, Palestine in particular, but also in the United States, surely the most religious of all countries. It is also a major failure of the class of secular intellectuals not to have redoubled their efforts to provide analysis and models to offset the undoubted sufferings of the large mass of their people, immiserated and impoverished by globalism and an unyielding militarism with scarcely anything to turn to except blind violence and vague promises of future salvation.[^5]
 
-    In such models, US retaliation in Afghanistan and the larger Western focus on Islam as the key to the nature of a modern Arab consciousness falsely assumes a uniformity of world view'one radical Islam'where in fact many and diverse Islams exist, some far more rationalized than others (not to mention very small pockets of equally impoverished Christians in the case of Palestine, Lebanon, Egypt, and elsewhere). More to the point, this model argues that in blaming religious militancy for the economic and political shortcomings of the Arab Middle East and its violent reaction against the West, the West mistakes the symptom for the illness. The turn toward so-called fundamentalist, less rationalized forms of religion in Palestine, Saudi Arabia, Afghanistan, Egypt, Algeria, Tunisia, and so forth is for the liberal-left mainly an ambiguous consequence of neocolonialism.
+In such models, US retaliation in Afghanistan and the larger Western focus on Islam as the key to the nature of a modern Arab consciousness falsely assumes a uniformity of world view'one radical Islam'where in fact many and diverse Islams exist, some far more rationalized than others (not to mention very small pockets of equally impoverished Christians in the case of Palestine, Lebanon, Egypt, and elsewhere). More to the point, this model argues that in blaming religious militancy for the economic and political shortcomings of the Arab Middle East and its violent reaction against the West, the West mistakes the symptom for the illness. The turn toward so-called fundamentalist, less rationalized forms of religion in Palestine, Saudi Arabia, Afghanistan, Egypt, Algeria, Tunisia, and so forth is for the liberal-left mainly an ambiguous consequence of neocolonialism.
 
 * * *
 
@@ -165,7 +165,7 @@ Any attempt to talk briefly about such immense subjects as "religion" and "moder
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Vincent P. Pecora. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Vincent P. Pecora. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/pecora](https://jcrt.org/archives/04.2/pecora/)
 

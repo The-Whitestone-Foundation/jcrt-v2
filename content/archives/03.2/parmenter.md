@@ -86,7 +86,7 @@ At a time when many literary and cultural theorists are grappling with disembodi
 
 > He cried out, "Oh, sweet Lord! If only I could devise some love token which would be an everlasting badge of love between thee and me, an authentic document that I am all thine and that thou art the only beloved of my heart, written in letters which my fickleness can never erase." In his burst of fervor, he pushed back his scapular, bared his bosom, took a sharp stylus, and called on God to help him, saying: "Almighty God, give me strength this day to carry out my desire, for thou must be chiseled into the core of my heart." Then stabbing the stylus backwards and forwards, in and out of the flesh, he engraved the name of Jesus (IHS) over his heart. Blood gushed out of the jagged wounds and saturated his clothing. The bliss he experienced in having a visible pledge of oneness with his truelove made the very pain seem like a sweet delight.[^3]
 
-    This is worth quoting at length because it gives form to the development that Jager traces from the metaphorical internalization of material reading practices, as in the self imagined as a codex located in the heart, to the externalization of the trope, albeit literary, in the fleshy selves/books/hearts of Ignatius and Suso. The last stage is for the book of the heart to be reexternalized as a literal, material codex.
+This is worth quoting at length because it gives form to the development that Jager traces from the metaphorical internalization of material reading practices, as in the self imagined as a codex located in the heart, to the externalization of the trope, albeit literary, in the fleshy selves/books/hearts of Ignatius and Suso. The last stage is for the book of the heart to be reexternalized as a literal, material codex.
 
 * * *
 
@@ -97,7 +97,7 @@ At a time when many literary and cultural theorists are grappling with disembodi
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Dorina Miller Parmenter. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Dorina Miller Parmenter. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/parmenter](https://jcrt.org/archives/03.2/parmenter/)
 

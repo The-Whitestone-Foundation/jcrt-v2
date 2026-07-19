@@ -99,29 +99,29 @@ _The City of K.: Franz Kafka and Prague_ is an ambitious and unsettling postmode
 
 _Audiovisual_ _Traffic_ (_Verkehr_) [^5]
 
-    ![](images/image006.webp)
+![](images/image006.webp)
 
-    ![](images/image008.webp)
+![](images/image008.webp)
 
-    _The Civil Servant and the Artist_ [^6]
+_The Civil Servant and the Artist_ [^6]
 
-    _Measures for the Prevention of Accidents_ [^7]
+_Measures for the Prevention of Accidents_ [^7]
 
-    ![](images/image010.webp)
+![](images/image010.webp)
 
-    ![](images/image012.webp)
+![](images/image012.webp)
 
-    _The Burrow_ [^11]
+_The Burrow_ [^11]
 
-    From the installation _In the Penal Colony_ [^12]
+From the installation _In the Penal Colony_ [^12]
 
-    ![](images/image014.webp)
+![](images/image014.webp)
 
-    ![](images/image016.webp)
+![](images/image016.webp)
 
-    _Prague Castle_ [^14]
+_Prague Castle_ [^14]
 
-    _The Threshold_ [^15]
+_The Threshold_ [^15]
 
 _The Exhibition catalogue contains several historical, biographical, and theoretical essays on Franz Kafka. In particular Mark M. Anderson's essay provides an analysis of Kafka's transformation of the modern. The Jewish Museum, 1109 Fifth Avenue at 92nd Street, New York, New York._
 
@@ -134,7 +134,7 @@ _The Exhibition catalogue contains several historical, biographical, and theoret
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/taylor](https://jcrt.org/archives/03.3/taylor/)
 

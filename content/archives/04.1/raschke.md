@@ -99,7 +99,7 @@ The theoretical question of 'religion' is essentially that of 'divinity,' what t
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Carl Rasckhe. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Carl Rasckhe. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/raschke](https://jcrt.org/archives/04.1/raschke/)
 

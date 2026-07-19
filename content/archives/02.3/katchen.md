@@ -95,7 +95,7 @@ Since Victor Marchetti and John Marks first published _The CIA and The Cult of I
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Martin Katchen. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Martin Katchen. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/katchen](https://jcrt.org/archives/02.3/katchen/)
 

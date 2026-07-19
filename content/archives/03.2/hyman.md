@@ -84,7 +84,7 @@ University of Lancaster
 
 One of the many defining characteristics of the postmodern 'sensibility' may be said to be that of _ambivalence_. To some extent, such ambivalence derives from the dominance of a deconstructive disposition which saturates our postmodern condition. The logic of deconstruction is such that one deconstructs not in order to negate, discard or destroy but in order to problematise, question and interrogate. That which is deconstructed is _both_ affirmed _and_ negated, or _neither_ affirmed _nor_ negated. Whichever strategy is employed, the deconstructive disposition is one of ambivalence. Such ambivalence may be regarded as a performative enactment of a refusal of the false opposites and dualisms with which modern metaphysics presents us. To affirm the System, for instance, is to affirm presence and all the hegemonic structures that that brings, whereas to negate the System is to fall into nothingness and therefore to affirm absence and all the nihilistic corollaries that that entails. Problematising both - presence _and_ absence - entails a difficult process of negotiation which postmodernism - in myriad different ways - calls us to pursue.
 
-    ![](https://jcrt.org/images/black.gif)
+![](https://jcrt.org/images/black.gif)
 
 * * *
 
@@ -95,7 +95,7 @@ One of the many defining characteristics of the postmodern 'sensibility' may be 
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Gavin Hyman. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Gavin Hyman. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/hyman](https://jcrt.org/archives/03.2/hyman/)
 

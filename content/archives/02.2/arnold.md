@@ -134,7 +134,7 @@ I  want to begin my reflections on diversity with a true story. A few weeks ago 
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Philip P. Arnold. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Philip P. Arnold. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/arnold](https://jcrt.org/archives/02.2/arnold/)
 

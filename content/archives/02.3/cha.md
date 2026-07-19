@@ -149,7 +149,7 @@ _dvayam tatra na vidyate_
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 John Y. Cha. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 John Y. Cha. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/cha](https://jcrt.org/archives/02.3/cha/)
 

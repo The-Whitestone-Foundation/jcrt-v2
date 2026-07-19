@@ -79,7 +79,7 @@ Pain can be "medicine, a test, a rite of passage, or an alchemical agent of inne
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Perri Druen. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Perri Druen. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/druen](https://jcrt.org/archives/03.3/druen/)
 

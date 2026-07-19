@@ -235,7 +235,7 @@ impotence
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Gregory Flaxman. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Gregory Flaxman. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/flaxman](https://jcrt.org/archives/04.2/flaxman/)
 

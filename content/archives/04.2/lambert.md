@@ -101,7 +101,7 @@ T_his public conversation was recorded at an event held at [The Slought Gallery]
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Jean Michel Rabaté and Gregg Lambert. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Jean Michel Rabaté and Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/rabate-lambert](https://jcrt.org/archives/04.2/rabate-lambert/)
 

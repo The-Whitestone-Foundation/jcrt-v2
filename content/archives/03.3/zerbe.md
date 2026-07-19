@@ -84,7 +84,7 @@ In _Anaximander and the Architects_, Robert Hahn proposes that ancient Greek sch
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Michael Zerbe. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Michael Zerbe. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/zerbe](https://jcrt.org/archives/03.3/zerbe/)
 

@@ -95,7 +95,7 @@ _Mark C. Taylor is widely known for his reworking of the theological enterprise 
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/taylor\_raschke](https://jcrt.org/archives/02.2/taylor\_raschke/)
 

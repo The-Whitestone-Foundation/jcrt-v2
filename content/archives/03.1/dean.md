@@ -87,7 +87,7 @@ After 300 years, that great majority of philosophers who have regularly dismantl
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 William Dean. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 William Dean. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.1/dean](https://jcrt.org/archives/03.1/dean/)
 

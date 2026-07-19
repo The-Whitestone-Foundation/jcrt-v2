@@ -84,7 +84,7 @@ Contemporary trends in American religion have long been moving away from traditi
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Noel Dane Scott. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Noel Dane Scott. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/scott](https://jcrt.org/archives/03.3/scott/)
 

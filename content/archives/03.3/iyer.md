@@ -87,7 +87,7 @@ In Plato's *Laws*, the Athenian stranger claims that there are two arguments in 
 
 > it could also be that the Germans -- granted that they learn to use freely what is their own and do not evade the conditions required for such learning -- might, in what is foreign to them [...] come to excel what is proper to the Greeks. If, that is, they have become more open, so that "what illuminates" (the heavens' is "open to our open view" [....] It could be that a "guest-house" and establishment might be founded and build for the gods, one that the Greek temples can no longer approach (*Ister* 124).
 
-    If it is impossible simply to reproduce Greece, to build temples to welcome the return of the Greek gods, or to open new hearths in the homes, how might dwelling become possible for the Germans? How can the hearth restore the relation to the sky and the earth?
+If it is impossible simply to reproduce Greece, to build temples to welcome the return of the Greek gods, or to open new hearths in the homes, how might dwelling become possible for the Germans? How can the hearth restore the relation to the sky and the earth?
 
 > the dif-ference does not mediate after the fact by connecting world and things through a middle added on to them. Being the middle, it first determines world and things in their presence, i.e. in their being toward one another, whose unity carries out. (*On the Way to Language* 202)
 
@@ -103,17 +103,17 @@ In Plato's *Laws*, the Athenian stranger claims that there are two arguments in 
 
 > Heideggerian ontology, which subordinates the relationship with the Other to the relation with Being in general, remains under obedience to the anonymous, and leads inevitably to another power, to imperialist domination, to tyranny. (*Totality and Infinity* 47-48)
 
-    Levinas does not dispute the fact that the *polis* provides a certain unity to the relations of the people who belong to it: it does indeed gather and bestow a unity upon the relation to the gods, to festivals, to sacrifice and battle, honor and glory, the relationship between master and slave. But it does not answer to the relation to the Other as *Autrui*; nor does it include the relation to the Levinasian God. The articulation of its unity is repressive; it constitutes an immanence or totality, closing itself off from the relation to which Levinas would attend. But might it be possible to answer this relation?
+Levinas does not dispute the fact that the *polis* provides a certain unity to the relations of the people who belong to it: it does indeed gather and bestow a unity upon the relation to the gods, to festivals, to sacrifice and battle, honor and glory, the relationship between master and slave. But it does not answer to the relation to the Other as *Autrui*; nor does it include the relation to the Levinasian God. The articulation of its unity is repressive; it constitutes an immanence or totality, closing itself off from the relation to which Levinas would attend. But might it be possible to answer this relation?
 
 *  *  *
 
 > man is [...] the irruption of God within Being, or the bursting out of Being towards God; man is the fracture in Being which produces the act of giving, with hands which are full, in place of fighting and pillaging. This is where the idea of being chosen comes from, an idea which can deteriorate into pride, but originally expresses the awareness of an appointment which cannot be called into question; an appointment which is the basis of ethics and which, through its indisputability, isolates the person in his responsibility. ("Revelation in the Jewish Tradition" 202)
 
-    These dense sentences recapitulate the arguments of other texts, of the irruption into the order of being that receives, Levinas claims, its classic elaboration in Descartes' account of the idea of the infinite.[^3] Unlike Descartes, Levinas does not suppose the idea of the infinite to refer to a being so perfect that it must exist, but opens beyond the totality of being. It is to this he alludes a few pages later:
+These dense sentences recapitulate the arguments of other texts, of the irruption into the order of being that receives, Levinas claims, its classic elaboration in Descartes' account of the idea of the infinite.[^3] Unlike Descartes, Levinas does not suppose the idea of the infinite to refer to a being so perfect that it must exist, but opens beyond the totality of being. It is to this he alludes a few pages later:
 
 > The worry is induced by man by God's Infinity, which he can never contain, but which inspires him -- inspiration being the original mode of worry, the inspiration of man by God constituting man's humanity; and the "within" of this "disproportionate within the finite" only becomes possible through the "here I am" of the man welcoming his neighbor. Listening to the Muse dictating one's songs is not the original form of inspiration; instead, it lies in obedience to the Most High by way of the ethical relationship with the Other. ("Revelation in the Jewish Tradition" 207)
 
-    Why does Heidegger heed the poetic Muse rather than the word of God?
+Why does Heidegger heed the poetic Muse rather than the word of God?
 
 ### III
 

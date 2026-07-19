@@ -95,7 +95,7 @@ _More than any contemporary American philosopher, John D. ('Jack') Caputo has be
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 John D. Caputo and Carl A. Raschke. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 John D. Caputo and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/caputo\_raschke](https://jcrt.org/archives/03.2/caputo\_raschke/)
 

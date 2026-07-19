@@ -93,7 +93,7 @@ Like many in America, I was dumbfounded by the "events" of September 11. Add hor
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 David Hale. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 David Hale. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/hale](https://jcrt.org/archives/03.2/hale/)
 

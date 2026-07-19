@@ -91,11 +91,11 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
 
 > Rabbi Joshua b. Levi said: When Moses ascended on high, the ministering angels spoke before the Holy One, blessed be He, 'Sovereign of the universe! What business has one born of woman among us?' He answered them, 'He has come to receive the Torah.' They said to Him, 'That secret treasure . . . Thous desirest to give to flesh and blood! . . . The Holy One, blessed be He, said to Moses, 'Return them an answer.' . . . He &#91;then&#93; spoke before Him, 'Sovereign of the universe! The Torah which Thou givest me, what is written therein? I am the Lord thy God, who brought thee out of the land of Egypt (Exod. 20:2). 'Said he to them &#91;the angels&#93;, 'Did you go down to Egypt? Were you enslaved to Pharoah?, etc. Again what is written therein? Remember the Sabbath day, to keep it holy (Exod. 20:8). Do you then perform work that you need to rest?, etc. Again, what is written therein? Honor thy father and thy mother (Exod. 20:12). Do you have any fathers and mothers? . . . Straight away they conceded to Him." [^23]
 
-     Responding to the story Joseph Soloveitchik says, "God does not wish to hand over His Torah to the ministering angels. . . he handed over His Torah to Moses, who brought it down to the earth and caused it to dwell among human beings . . ."[^24] Elliot Wolfson has done much to highlight the incarnational themes within the mystical tradition and speaks of "the textualization of God ' that is, God's becoming concretely manifest in the form of the Torah."[^25]
+Responding to the story Joseph Soloveitchik says, "God does not wish to hand over His Torah to the ministering angels. . . he handed over His Torah to Moses, who brought it down to the earth and caused it to dwell among human beings . . ."[^24] Elliot Wolfson has done much to highlight the incarnational themes within the mystical tradition and speaks of "the textualization of God ' that is, God's becoming concretely manifest in the form of the Torah."[^25]
 
 > By going back to the Hebrew text from the translations . . . &#91;one discovers&#93; the strange or mysterious ambiguity or polysemy authorized by the Hebrew syntax . . . words coexist rather than immediately being coordinated or subordinated with and to one another . . . returning to the Hebrew text . . . makes it more difficult than one thinks to decide on the ultimate intention of a verse . . . there is no one verse, not one word of the Old Testament - . . . .read by way of revelation that does not half-open to an entire world . . . .[^29]
 
-     Moreover, this plurivocal character acts as an invitation, a mandate, if you will for readers to participate in the creativity of the Torah. The Torah's plurivocity translates into its interpretability and as Levinas says, "this invitation to seek and decipher, to Midrash, already constitutes the reader's participation in the Revelation, in Scripture. The reader, in his own fashion, is a scribe."[^30] Rabbinic hermeneutics is eucharistic and through it "we get a first indication of what we might call the 'status' of the Revelation: its coming from elsewhere, from outside, and simultaneously dwelling in the person who receives it."[^31]
+Moreover, this plurivocal character acts as an invitation, a mandate, if you will for readers to participate in the creativity of the Torah. The Torah's plurivocity translates into its interpretability and as Levinas says, "this invitation to seek and decipher, to Midrash, already constitutes the reader's participation in the Revelation, in Scripture. The reader, in his own fashion, is a scribe."[^30] Rabbinic hermeneutics is eucharistic and through it "we get a first indication of what we might call the 'status' of the Revelation: its coming from elsewhere, from outside, and simultaneously dwelling in the person who receives it."[^31]
 
 ### The Semiotics of Torah and Desire
 
@@ -113,7 +113,7 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Randi Rashkover. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Randi Rashkover. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/rashkover](https://jcrt.org/archives/03.3/rashkover/)
 

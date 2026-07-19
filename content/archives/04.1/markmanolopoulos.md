@@ -116,7 +116,7 @@ Monash University
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Mark Manolopoulos. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Mark Manolopoulos. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/markmanolopoulos](https://jcrt.org/archives/04.1/markmanolopoulos/)
 

@@ -182,7 +182,7 @@ The question to ask is not what is this theological or theographical inquiry, bu
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/taylor](https://jcrt.org/archives/03.2/taylor/)
 

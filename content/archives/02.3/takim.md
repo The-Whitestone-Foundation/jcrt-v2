@@ -91,7 +91,7 @@ T he book is a revised edition of the author's first work that was published in 
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Liyakatali Takim. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Liyakatali Takim. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/takim](https://jcrt.org/archives/02.3/takim/)
 

@@ -108,7 +108,7 @@ A _Work of Love_. If the real means what is present, what is really there, full 
 
 ***
 
- [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2000 John D. Caputo. All rights reserved.  
+[Copyright © held by the author(s).](https://jcrt.org/copyright/) 2000 John D. Caputo. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/01.3/caputo](https://jcrt.org/archives/01.3/caputo/)
 
