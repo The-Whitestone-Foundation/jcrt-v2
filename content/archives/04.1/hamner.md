@@ -26,6 +26,36 @@ keywords:
   - national-depression
   - book-review
 subjects:
+  - label: "Femininity"
+    scheme: "FAST"
+    identifier: "fst00922657"
+    uri: "https://id.worldcat.org/fast/922657"
+    category: "topical"
+  - label: "Feminism"
+    scheme: "FAST"
+    identifier: "fst00922671"
+    uri: "https://id.worldcat.org/fast/922671"
+    category: "topical"
+  - label: "Holy, The"
+    scheme: "FAST"
+    identifier: "fst00959050"
+    uri: "https://id.worldcat.org/fast/959050"
+    category: "topical"
+  - label: "Kristeva, Julia, 1941-"
+    scheme: "FAST"
+    identifier: "fst00015799"
+    uri: "https://id.worldcat.org/fast/15799"
+    category: "personal"
+  - label: "Motherhood"
+    scheme: "FAST"
+    identifier: "fst01026907"
+    uri: "https://id.worldcat.org/fast/1026907"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 abstract:
 year: 2002
 sort_id: 07

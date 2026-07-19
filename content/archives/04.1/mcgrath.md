@@ -28,6 +28,36 @@ keywords:
   - divine-simplicity
   - vita-beata
 subjects:
+  - label: "Augustine, of Hippo, Saint, 354-430"
+    scheme: "FAST"
+    identifier: "fst00061554"
+    uri: "https://id.worldcat.org/fast/61554"
+    category: "personal"
+  - label: "Heidegger, Martin, 1889-1976"
+    scheme: "FAST"
+    identifier: "fst00032385"
+    uri: "https://id.worldcat.org/fast/32385"
+    category: "personal"
+  - label: "Neoplatonism"
+    scheme: "FAST"
+    identifier: "fst01035884"
+    uri: "https://id.worldcat.org/fast/1035884"
+    category: "topical"
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Scholasticism"
+    scheme: "FAST"
+    identifier: "fst01106919"
+    uri: "https://id.worldcat.org/fast/1106919"
+    category: "topical"
 abstract:
 year: 2002
 sort_id: 08

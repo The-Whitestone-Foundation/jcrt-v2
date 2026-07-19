@@ -26,6 +26,36 @@ keywords:
   - asceticism
   - transformation
 subjects:
+  - label: "Asceticism"
+    scheme: "FAST"
+    identifier: "fst00818425"
+    uri: "https://id.worldcat.org/fast/818425"
+    category: "topical"
+  - label: "Experience (Religion)"
+    scheme: "FAST"
+    identifier: "fst00918383"
+    uri: "https://id.worldcat.org/fast/918383"
+    category: "topical"
+  - label: "Human body"
+    scheme: "FAST"
+    identifier: "fst01730057"
+    uri: "https://id.worldcat.org/fast/1730057"
+    category: "topical"
+  - label: "Mysticism"
+    scheme: "FAST"
+    identifier: "fst01031629"
+    uri: "https://id.worldcat.org/fast/1031629"
+    category: "topical"
+  - label: "Pain"
+    scheme: "FAST"
+    identifier: "fst01050382"
+    uri: "https://id.worldcat.org/fast/1050382"
+    category: "topical"
+  - label: "Self-mutilation"
+    scheme: "FAST"
+    identifier: "fst01111786"
+    uri: "https://id.worldcat.org/fast/1111786"
+    category: "topical"
 abstract:
 year: 2002
 sort_id: 07

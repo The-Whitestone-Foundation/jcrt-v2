@@ -24,6 +24,36 @@ keywords:
   - continental-philosophy
   - deconstruction
 subjects:
+  - label: "Continental philosophy"
+    scheme: "FAST"
+    identifier: "fst01765182"
+    uri: "https://id.worldcat.org/fast/1765182"
+    category: "topical"
+  - label: "Criticism"
+    scheme: "FAST"
+    identifier: "fst00883735"
+    uri: "https://id.worldcat.org/fast/883735"
+    category: "topical"
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
+  - label: "Kafka, Franz, 1883-1924"
+    scheme: "FAST"
+    identifier: "fst00073986"
+    uri: "https://id.worldcat.org/fast/73986"
+    category: "personal"
+  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
+    scheme: "FAST"
+    identifier: "fst00031611"
+    uri: "https://id.worldcat.org/fast/31611"
+    category: "personal"
+  - label: "Prometheus (Greek deity)"
+    scheme: "FAST"
+    identifier: "fst01078888"
+    uri: "https://id.worldcat.org/fast/1078888"
+    category: "personal"
 abstract:
 year: 2003
 sort_id: 01

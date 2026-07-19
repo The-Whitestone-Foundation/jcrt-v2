@@ -24,6 +24,31 @@ keywords:
   - john-caputo
   - editorial-board
 subjects:
+  - label: "Caputo, John D."
+    scheme: "FAST"
+    identifier: "fst00026653"
+    uri: "https://id.worldcat.org/fast/26653"
+    category: "personal"
+  - label: "Postmodern theology"
+    scheme: "FAST"
+    identifier: "fst01073163"
+    uri: "https://id.worldcat.org/fast/1073163"
+    category: "topical"
+  - label: "Postmodernism--Religious aspects"
+    scheme: "FAST"
+    identifier: "fst01073172"
+    uri: "https://id.worldcat.org/fast/1073172"
+    category: "topical"
+  - label: "Religion--Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 abstract:
 year: 2002
 sort_id: 01
