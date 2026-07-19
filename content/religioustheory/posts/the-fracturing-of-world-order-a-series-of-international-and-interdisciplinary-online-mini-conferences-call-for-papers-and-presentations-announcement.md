@@ -30,6 +30,37 @@ tags:
   - economic
   - global
   - political
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 [The *Journal for Cultural and Religious Theory*](https://jcrt.org) and *[The New Polis](http://journal.thenewpolis.com/)* in collaboration with representatives of the University of Denver announces a call for papers and presentations for a set of international and interdisciplinary online mini-conferences on the topic of “The Fracturing of World Order.” *JCRT* and *The New Polis* are part of the family of [Whitestone Publications](http://www.thewhitestonefoundation.org/). The schedule of mini-conferences, which will be for one day only, is as follows:
 

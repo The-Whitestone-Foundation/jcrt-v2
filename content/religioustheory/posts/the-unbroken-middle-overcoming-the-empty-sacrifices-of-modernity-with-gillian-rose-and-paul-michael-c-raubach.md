@@ -24,6 +24,37 @@ tags:
   - ethical
   - modernity
   - ritual
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Ritual"
+    scheme: "FAST"
+    identifier: "fst01098241"
+    uri: "https://id.worldcat.org/fast/1098241"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Violence"
+    scheme: "FAST"
+    identifier: "fst01167224"
+    uri: "https://id.worldcat.org/fast/1167224"
+    category: "topical"
 ---
 ## The following is the first of a two-part series.
 
@@ -55,17 +86,17 @@ The modern city, in her words, “…intensifies these perennial diremptions in 
 
 The discourse around George Floyd’s death franticly swung, and still does, between proclamations of murder or just violence by the law, a kind of sacrifice to the law. In this quarrel, law and personhood never touch; instigating a crisis in which naked power and violence are given a claptrap ethical veneer before collapsing into either nihilism or totalitarianism. Floyd is not allowed to be simply murdered. He must be sacrificed. While these positions appear to be two sides in opposition in their understanding, the attempt to transfigure Floyd into a scapegoat sacrifice reveals itself to be the janus face of neo-liberal totalitarianism playing itself out at both the level of thought and of lived experience in way that perpetuates the ‘disasters of modernity’.[^13] 
 
- The collective righteous indignation of secular liberalism at his murder reinstates the premise of nothing beyond the absolute law by attempting to raise Floyd up as a scapegoat sacrifice who can ‘justify’ the violence of the law through blood sacrifice and heal the trauma. According to Rose, this attempt to make meaning out of something meaningless, to prematurely close the brokenness of the encounter in the middle space between law and subject, is a refusal of the “…universal or social law which would classify \[the\] sacrifice as “murder”[^14] , instead attempting by “just violence” the transfiguration of the specific victim, George Floyd, into the, “…unanimous sacrificial solution to social crisis.”[^15] The sacrifice is not beyond the law, it is the foundation of the law.
+ The collective righteous indignation of secular liberalism at his murder reinstates the premise of nothing beyond the absolute law by attempting to raise Floyd up as a scapegoat sacrifice who can ‘justify’ the violence of the law through blood sacrifice and heal the trauma. According to Rose, this attempt to make meaning out of something meaningless, to prematurely close the brokenness of the encounter in the middle space between law and subject, is a refusal of the “…universal or social law which would classify &#91;the&#93; sacrifice as “murder”[^14] , instead attempting by “just violence” the transfiguration of the specific victim, George Floyd, into the, “…unanimous sacrificial solution to social crisis.”[^15] The sacrifice is not beyond the law, it is the foundation of the law.
 
 During the protests in Minneapolis, and indeed around the United States, Floyd’s murder did not merely represent but virtually became the sum of all police injustice, all racial and class inequality and struggle. Yet despite this attempt at a transubstantiating ritual, Floyd’s death remained a murder. The agony could not be overcome because ritual violence is inherent in the totalitarian system of relations.
 
-The public discourse attempts to “pit the sacrifice against law”[^16] by claiming a double movement in which, “…the ethical expression for what \[was done\] was… murder… the religious expression was… sacrifice.”[^17] But this ritual, “…disavowal of… violence” through the scapegoat sacrifice would also requires the disavowal of the very law it is attempting to satiate.[^18] If there is no law, then Floyd’s death at the hands of Chauvin cannot be called a murder. If his death is sacrifice, then his murder is just under the law.
+The public discourse attempts to “pit the sacrifice against law”[^16] by claiming a double movement in which, “…the ethical expression for what &#91;was done&#93; was… murder… the religious expression was… sacrifice.”[^17] But this ritual, “…disavowal of… violence” through the scapegoat sacrifice would also requires the disavowal of the very law it is attempting to satiate.[^18] If there is no law, then Floyd’s death at the hands of Chauvin cannot be called a murder. If his death is sacrifice, then his murder is just under the law.
 
 Here Rose helps us draw out the conclusion of the contradiction: if Floyd’s death is a sacrificial, Derek Chauvin is not guilty of murder, as the sacrifice is a ritual beyond the law. But then if there is no murder, the sacrifice is not necessary to take away with it all the sins and impurities of the community. If the sacrifice is unnecessary then Floyd cannot truly be a scapegoat and the sacrifice is nothing more than murder. But if murder, then the ritual sacrifice must be made.
 
 Floyd’s death cannot serve a double function. Violence under the punitive regime of the totalitarian neo-liberal state begs for justice for individual under the law to preserve order; to legitimize the individual’s status as a subject through the law. Yet also yearns to set the sacrifice beyond the law, beyond subjectivity and outside the community in the act of making them a nameless sacrifice thereby collapsing the whole system of relations into abstraction and meaninglessness or mimetic repetition.  
 
-Rose, riffing on Kierkegaard’s *Fear and Trembling,* suggests the scapegoat ritual is an endeavor via sacrifice to classify all human relations as derivative of an absolute, primordial law. But as Kierkegaard notes, an absolute law also calls for full disclosure, for the externalization of any particularity; there can be no secrets before the universal absolute, no ‘just between you and me’.[^19] For the sacrifice to stand for all, “…the whole of human existence \[must be\] entirely self-enclosed, as a sphere” in which “the ethical is at once the limit and completion.”[^20] In the scapegoat ritual no relation can be particular.
+Rose, riffing on Kierkegaard’s *Fear and Trembling,* suggests the scapegoat ritual is an endeavor via sacrifice to classify all human relations as derivative of an absolute, primordial law. But as Kierkegaard notes, an absolute law also calls for full disclosure, for the externalization of any particularity; there can be no secrets before the universal absolute, no ‘just between you and me’.[^19] For the sacrifice to stand for all, “…the whole of human existence &#91;must be&#93; entirely self-enclosed, as a sphere” in which “the ethical is at once the limit and completion.”[^20] In the scapegoat ritual no relation can be particular.
 
 All relations are held at the abstract level of the faceless ‘other’ of the absolute. There is no me before you, only each of us alone before the law. The most tragic violence of the scapegoat sacrifice then is not in the physical death of the victim, but the annihilation of the victim’s subjectivity when they become the scapegoat in order to become the faceless ‘other’ underpinning the totalitarian system of relations.
 

@@ -20,6 +20,32 @@ tags:
   - subject
   - history
   - aporetic
+subjects:
+  - label: "Aporia"
+    scheme: "FAST"
+    identifier: "fst00811469"
+    uri: "https://id.worldcat.org/fast/811469"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 > Jesus, who was concerned till manhood with his own personal development, was free from the contagious sickness of his age and his people; free from the inhibited inertia which expends its one activity on the common needs and conveniences of life; free too from the ambition and other desires whose satisfaction, once craved, would have compelled him to make terms with prejudice and vice.
 > 
@@ -69,7 +95,7 @@ Specifically in the case of Marx, he shows through his own “materialist” “
 
 Applebaum, in a related context, describes the return of the ghost as a repeating “repetition” that haunts the living: “A forbidden, the *revenant* enters the scene again and returns to where it was before forbidden to repeat repetition per se: a circumstance that closes on itself, and in closure, closes the crypt of meaning.”9   Although not specific to Derrida’s reading of Marx, Applebaum’s description of a ghostly return, in general, captures the process by which ghosts are presumably “busted” and then inconspicuously return in another form as an attempt to close down any and all inquiry regarding the work of spectrality, which takes shape around the heterogeneous unfolding of capacities, past, present, and future.
 
-The inevitable and startling return that is ghostly repetition, we learn from Derrida, reproduces a “visor effect” and makes or posits “materiality,” human labor and the system governing human labor, as the unseen “scene” of foundational reality, i.e. the movement from use to exchange value. Derrida writes, “\[i\]t is not a matter here of negating a use-value or the necessity of referring to it. But of doubting its strict purity. If this purity is not guaranteed, then one would have to say that the phantasmagoria began before the said exchange-value, at the threshold of the value of the value in general, or that the commodity-form began before the commodity form, itself before itself . . . .”10
+The inevitable and startling return that is ghostly repetition, we learn from Derrida, reproduces a “visor effect” and makes or posits “materiality,” human labor and the system governing human labor, as the unseen “scene” of foundational reality, i.e. the movement from use to exchange value. Derrida writes, “it is not a matter here of negating a use-value or the necessity of referring to it. But of doubting its strict purity. If this purity is not guaranteed, then one would have to say that the phantasmagoria began before the said exchange-value, at the threshold of the value of the value in general, or that the commodity-form began before the commodity form, itself before itself . . . .”10
 
 Marx, therefore, according to Derrida, inadvertently creates a *really real* “material” ghostliness as a pure ground (a “before itself”) that comes in advance of a formulation of value “in general,” as an attempt to rid the world of the immaterial.  More simply, Marx ends up creating a particular form of ghostliness (a “visored” ghostliness) when he performs his materialist-exorcism of Stirner’s idealism.
 

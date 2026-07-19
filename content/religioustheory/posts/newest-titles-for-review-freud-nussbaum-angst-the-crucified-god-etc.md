@@ -22,6 +22,32 @@ tags:
   - justice
   - radical
   - theory
+subjects:
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 *Religious Theory* has just added new titles for which we are looking for reviewers (listed below).
 

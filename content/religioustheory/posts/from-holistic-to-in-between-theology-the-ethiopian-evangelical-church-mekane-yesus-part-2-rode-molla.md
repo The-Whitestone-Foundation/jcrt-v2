@@ -23,6 +23,22 @@ tags:
   - theology
   - theological
   - social
+subjects:
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a three-part series.* *The first can be found [here]( /religioustheory/posts/from-holistic-to-in-between-theology-the-ethiopian-evangelical-church-mekane-yesus/).*
 
@@ -48,7 +64,7 @@ Moreover, holistic theology also resisted the Ethiopian feudal emperors’ gover
 
 However, the EECMY and Tumsa focused on creating a church that speaks about politics and religion based on their own beliefs and teachings independently for the holistic development of God’s people. So, when the socialist government and political ideology came to Ethiopia, the EECMY and Tumsa were supportive of the socialist political approach to the poor and the oppressed.
 
-According to Gerd Decke, who worked in the LWF and the EECMY from 1971-77, Tumsa’s political perspective was incredibly progressive. One of the known workshops that Tumsa and the EECMY prepared with LWF was “Christianity and Socialism.” According to Decke, the workshop participants were profoundly motivated and touched by socialist Ethiopia. The socialist approach toward the poor and the oppressed, land for peasants, and education for all encouraged them to see a different Ethiopia than an oppressive and feudal one. Decke writes: “The aim of these seminars was not academic study, but \[was\] meant to enable the Church leadership and eventually the membership to equip themselves for responsible participation in the Ethiopian revolution.8
+According to Gerd Decke, who worked in the LWF and the EECMY from 1971-77, Tumsa’s political perspective was incredibly progressive. One of the known workshops that Tumsa and the EECMY prepared with LWF was “Christianity and Socialism.” According to Decke, the workshop participants were profoundly motivated and touched by socialist Ethiopia. The socialist approach toward the poor and the oppressed, land for peasants, and education for all encouraged them to see a different Ethiopia than an oppressive and feudal one. Decke writes: “The aim of these seminars was not academic study, but &#91;was&#93; meant to enable the Church leadership and eventually the membership to equip themselves for responsible participation in the Ethiopian revolution.8
 
 The theological conversations that were raised in the conferences included: how to use biblical interpretation to resist hierarchical and paternalistic political perspectives and leadership in the Ethiopian context and how a Christian can participate in the class struggle while it is required to love those who do not love us.9 Tumsa was able to overcome the confusion that many African leaders and liberation theologians felt as they struggled to apply socialism as a tool to understand the social and political context of their countries and churches.
 

@@ -8,13 +8,13 @@ author: "Liyakatali Takim"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 10
 year: 2001
 ---
 Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
 
-# Book Profile
+## Book Profile
 
 Andrew Rippin, _Muslims: Their Religious Beliefs and Practices_. London: Routledge, 2001. 346 pages. Second edition. ISBN 0-415-21782-2.
 
@@ -29,13 +29,9 @@ T he book is a revised edition of the author's first work that was published in 
 
 > **Liyakatali Takim** is a Assistant Professor at the University of Denver. He has translated numerous books and is the author of various articles in Islamic studies.. His latest article titled 'From Bid'a to Sunna: The Case of the Wilaya of 'Ali b. Abu Talib in the Shi'i adhan' was published in the _Journal of The American Oriental Study_ in June 2000. He is currently writing on charismatic authority and the emergence of the jurist and holy man in Islam. Fluent in seven languages, Professor Takim has taught at various institutions including at the University of Toronto and the University of Miami.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Liyakatali Takim. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Liyakatali Takim. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/takim](https://jcrt.org/archives/02.3/takim/)
 

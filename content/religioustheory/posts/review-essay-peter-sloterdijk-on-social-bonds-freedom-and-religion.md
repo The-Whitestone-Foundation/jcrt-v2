@@ -17,6 +17,22 @@ tags:
   - religious
   - theory
   - liberalism
+subjects:
+  - label: "Liberalism"
+    scheme: "FAST"
+    identifier: "fst00997183"
+    uri: "https://id.worldcat.org/fast/997183"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 ![](/images/funcke.gif)
 

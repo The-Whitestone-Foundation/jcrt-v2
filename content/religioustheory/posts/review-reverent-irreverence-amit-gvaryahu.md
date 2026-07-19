@@ -19,10 +19,31 @@ tags:
   - confrontation
   - theology
   - comparative
+subjects:
+  - label: "Flippancy"
+    scheme: "FAST"
+    identifier: "fst02009131"
+    uri: "https://id.worldcat.org/fast/2009131"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ***Pious Irreverence: Confronting God in Rabbinic Judaism*. Weiss, Dov.  Philadelphia: University of Pennsylvania Press, 2017.  ISBN 9780812293050. Hardcover, ebook. ix+291 pages.**
 
-*Pious Irreverence* opens with a quote from America’s favorite fictional president, Josiah Bartlet of *The West Wing*. After the funeral of his friend and personal secretary, Dolores Landingham, Bartlet asks for some time alone in the church where he prays, “What did I ever do to yours \[your son\] except praise his glory and praise his name?…Have I displeased you, you feckless thug?” I knew no Latin when I saw this episode, and so couldn’t understand what Bartlet yelled at God immediately after this, but I understood the force of his final words: “cruciatus in crucem, eas in crucem.” Screw you, God, Bartlet said; but wasn’t he also talking to God “as a man speaks with his friend” (Ex 33:11)? Wasn’t he *in church*, having a conversation with the deity with whom he was so angry?
+*Pious Irreverence* opens with a quote from America’s favorite fictional president, Josiah Bartlet of *The West Wing*. After the funeral of his friend and personal secretary, Dolores Landingham, Bartlet asks for some time alone in the church where he prays, “What did I ever do to yours &#91;your son&#93; except praise his glory and praise his name?…Have I displeased you, you feckless thug?” I knew no Latin when I saw this episode, and so couldn’t understand what Bartlet yelled at God immediately after this, but I understood the force of his final words: “cruciatus in crucem, eas in crucem.” Screw you, God, Bartlet said; but wasn’t he also talking to God “as a man speaks with his friend” (Ex 33:11)? Wasn’t he *in church*, having a conversation with the deity with whom he was so angry?
 
 Weiss notes that this scene was dubbed by one analyst as “the most Jewish scene ever written in English,” and his *Pious Irreverence* is about the antecedents to this scene, the rabbinic and post-rabbinic moments that culminated in the God invoked by Aaron Sorkin, the creator of *The West Wing*, through the character of President Bartlet.
 

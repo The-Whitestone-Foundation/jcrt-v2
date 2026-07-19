@@ -22,6 +22,12 @@ tags:
   - justice
   - specific
   - submission
+subjects:
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
 ---
 #### **[Submit proposal](mailto:whitestone.pubs@gmail.com)**
 

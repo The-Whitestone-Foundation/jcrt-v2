@@ -17,4 +17,15 @@ issue: 3
 season: summer
 year: 2018
 pages: 558-564
+subjects:
+  - label: "Ethicists"
+    scheme: "FAST"
+    identifier: "fst00915831"
+    uri: "https://id.worldcat.org/fast/915831"
+    category: "topical"
+  - label: "Psychology"
+    scheme: "FAST"
+    identifier: "fst01081447"
+    uri: "https://id.worldcat.org/fast/1081447"
+    category: "topical"
 ---

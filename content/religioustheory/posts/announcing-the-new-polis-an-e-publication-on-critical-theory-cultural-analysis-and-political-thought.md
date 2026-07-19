@@ -25,6 +25,27 @@ tags:
   - cultural
   - theory
   - editorial
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
 ---
 The directors of The Whitestone Foundation, the Colorado-based 501(c)3 non-profit corporation that has published [*The Journal for Cultural and Religious Theory*](https://jcrt.org) since 1999 and its e-supplement [*Religious Theory*]( /about/) since 2016, announces a new companion publication entitled [*The New Polis*](http://www.thenewpolis.com).
 

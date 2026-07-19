@@ -23,6 +23,42 @@ tags:
   - social
   - psychoanalysis
   - jouissance
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 *The following is the first installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.”  It [has been published concurrently as part of an anthology](http://us.karnacbooks.com/product/sex-and-nothing-bridges-from-psychoanalysis-to-philosophy/37318/) entitled Sex and Nothing: Bridges from Psychoanalysis to Philosophy, edited by [Alejandro Cerda-Rueda](http://us.karnacbooks.com/Author.asp?AID=21559) (New York: Karnac Books, 2016).*
 
@@ -82,7 +118,7 @@ But in the second period of Lacan’s ontology, he formulates jouissance as that
 
 When Lacan writes in the unpublished seminar *Angoisse*, “only love-sublimation makes it possible to humanize jouissance[^20] ” we should immediately note how different this version of sublimation is from the type of sublimation he speaks about in the *Seminar VII* on ethics, which is tied to sublimation as a raising of the object to the dignity of the Thing. This earlier type of sublimation is based on the model of elevation of the idealized object. Love-sublimation, on the other hand, makes it possible for *jouissance* to condescend to desire.
 
-This is a type of sublimation that “humanizes jouissance” as Lacan states,[^21] and this capacity for love to humanize jouissance means that there is a split at the heart of love, similar to comedy. The split inherent to love – and what makes it such an interesting ethico-political category – is its capacity to both rupture the subject in the Real, while also maintaining a rapport with the most banal object in the Other. The Other is sustained in love while the Real is touched, but this touch \[tuché\] does not result in a thrown out of jointness of the subject, as we find in the ethics seminar. Love is no longer on the side of the impossible desire that one must follow into the depths of the unknown as we find in the Greek models of Antigone and Oedipus, but is now, because of love, the site of work and of struggle.
+This is a type of sublimation that “humanizes jouissance” as Lacan states,[^21] and this capacity for love to humanize jouissance means that there is a split at the heart of love, similar to comedy. The split inherent to love – and what makes it such an interesting ethico-political category – is its capacity to both rupture the subject in the Real, while also maintaining a rapport with the most banal object in the Other. The Other is sustained in love while the Real is touched, but this touch &#91;tuché&#93; does not result in a thrown out of jointness of the subject, as we find in the ethics seminar. Love is no longer on the side of the impossible desire that one must follow into the depths of the unknown as we find in the Greek models of Antigone and Oedipus, but is now, because of love, the site of work and of struggle.
 
 In this context, it’s helpful to distinguish desire from love, and what better way to frame the difference than with reference to ![Screen Shot 2016-09-04 at 1.13.29 PM](/images/2016/09/screen-shot-2016-09-04-at-1-13-29-pm.webp)Plato’s metaphor of love in the *Symposium*. Plato’s short fable imagines a hand reaching out to clutch a rose, wherein the rose represents beauty and the desired outcome of reaching out for the rose is that the hand receives the rose in an embrace, and thus attain the object of desire. But imagine that instead of the clutch-taking place, what actually takes place is that the rose reaches back to the hand that reaches for it and embraces the hand in another type of embrace than the one desired. It is this alternative embrace that produces love for Plato. The lesson is clear: love is not achieved when the hand that reaches for the beautiful rose meets the rose itself, for this would be desire.
 

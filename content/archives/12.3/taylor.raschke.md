@@ -18,4 +18,10 @@ issue: 3
 season: spring
 year: 2013
 pages:
+subjects:
+  - label: "Postmodernism (Literature)"
+    scheme: "FAST"
+    identifier: "fst01073181"
+    uri: "https://id.worldcat.org/fast/1073181"
+    category: "topical"
 ---

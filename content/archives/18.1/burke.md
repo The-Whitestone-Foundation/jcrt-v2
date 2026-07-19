@@ -9,11 +9,17 @@ abstract:
 keywords:
   - psychoanalysis
   - sectarian-conflict
-pdf:
+pdf: Burke2.pdf
 sort_id:
 volume: 18
 issue: 1
 season: winter
 year: 2018
 pages: 89-108
+subjects:
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---

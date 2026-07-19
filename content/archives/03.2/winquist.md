@@ -8,13 +8,13 @@ author:
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2002
 ---
 In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
 
-# In Memoriam  
+## In Memoriam
 Dr. Charles E. Winquist (1944 ' 2002)
 
 * * *

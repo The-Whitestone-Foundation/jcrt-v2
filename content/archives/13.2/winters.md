@@ -20,4 +20,15 @@ issue: 2
 season: summer
 year: 2014
 pages: 126-128
+subjects:
+  - label: "Hip-hop"
+    scheme: "FAST"
+    identifier: "fst00957237"
+    uri: "https://id.worldcat.org/fast/957237"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

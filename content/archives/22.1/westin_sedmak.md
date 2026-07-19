@@ -21,4 +21,30 @@ issue: 1
 season: fall
 year: 2023
 pages: 135-138
+subjects:
+  - label: "Interviews"
+    scheme: "FAST"
+    identifier: "fst00977644"
+    uri: "https://id.worldcat.org/fast/977644"
+    category: "topical"
+  - label: "Philosophical anthropology"
+    scheme: "FAST"
+    identifier: "fst01060766"
+    uri: "https://id.worldcat.org/fast/1060766"
+    category: "topical"
+  - label: "Physical anthropology"
+    scheme: "FAST"
+    identifier: "fst01062357"
+    uri: "https://id.worldcat.org/fast/1062357"
+    category: "topical"
+  - label: "Psychic trauma"
+    scheme: "FAST"
+    identifier: "fst01081217"
+    uri: "https://id.worldcat.org/fast/1081217"
+    category: "topical"
+  - label: "Psychology Philosophy"
+    scheme: "FAST"
+    identifier: "fst01081495"
+    uri: "https://id.worldcat.org/fast/1081495"
+    category: "topical"
 ---

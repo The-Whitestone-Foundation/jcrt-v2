@@ -22,6 +22,32 @@ tags:
   - relation
   - story
   - philosophy
+subjects:
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 *The following is the second installment of a two-part series.  The first part can be found [here]( /religioustheory/posts/the-place-of-das-ding-psychoanalysis-phenomenology-religion-part-1-john-panteleimon-manoussakis/).*
 
@@ -49,13 +75,13 @@ Furthermore, the fourfold of saturation—the event, the flesh, the idol, and th
 
 In their respective endeavors, both thinkers, Heidegger and Marion, attempt to re- think *reality*. Yet, one could not hope to make much progress in this attempt without confronting, or rather without being confronted, by the thing. After all, reality is above all the realm of the *res*. In Greek reality, πραγµατικότητα, is the domain of the thing, of the πράγµα. Heidegger, in the same lecture we have been discussing, offers a thoughtful lineage of the various transformations and transmutations which such words as *res* and *causa* underwent through history.
 
-For us here, however, it is enough to note that the secret of the reality-principle is held by the thing, by *das Ding*,15 insofar as it comes to signify an exteriority by far more alien to the subject than the external world which is, at the same time, more intimate than the subject is to itself: hence, Lacan’s term *extimacy*.16 The whole of the psychoanalytic project has often been summarized in Freud’s phrase: *Wo Es war, soll Ich werden*—which Becker translates for his purposes as “Where idol is, there shall flesh give!”17—and which, in another language and in another narrative, was known as “*ubi tu, ibi et ille*,” that is, “where \[your\] mother is, there shall you be.”18
+For us here, however, it is enough to note that the secret of the reality-principle is held by the thing, by *das Ding*,15 insofar as it comes to signify an exteriority by far more alien to the subject than the external world which is, at the same time, more intimate than the subject is to itself: hence, Lacan’s term *extimacy*.16 The whole of the psychoanalytic project has often been summarized in Freud’s phrase: *Wo Es war, soll Ich werden*—which Becker translates for his purposes as “Where idol is, there shall flesh give!”17—and which, in another language and in another narrative, was known as “*ubi tu, ibi et ille*,” that is, “where &#91;your&#93; mother is, there shall you be.”18
 
 Yet, how could one occupy the *mOther’s* place? That is, what does it mean to occupy the place of the *das Ding*? What we were thinking in speaking of a place in relation to *das Ding*?19 Can we assign *it* a place, unless, of course, this phrase: “the place of *das Ding*” is nothing but an infelicitous metaphor, a manner of speaking. Yet, if for one fleeting moment, we were to take ourselves seriously, wouldn’t we be surprised by the implication of what we had said without explicitly saying it—wouldn’t we come to realize that what is left unsaid, yet inescapably implied, in speaking of “the place of *das Ding*” is that *it*, as a the thing par excellence, insofar as of all things it alone is only a thing and nothing else, a thing and nothing more, a thing without qualities or attributes, as “a plentitude that is empty,”20 as an excess of nothingness, then *it*, if it is to take place, must be something bodily, if not the body? This phrase, then, which we have chosen as the title of our presentation, already announces from the outset its central intention, namely, the body as *das Ding*.
 
 ## The Broken Body
 
- “\[F\]leeing from the flesh,” writes Becker with reference to the title of his paper:
+ “Fleeing from the flesh,” writes Becker with reference to the title of his paper:
 
 > is like fleeing from the scene of a crime in which one will inevitably became caught, the facticity of the flesh cannot be undone, and will give itself all the more indubitably in the ego’s attempts to run away from it. 21
 
@@ -146,6 +172,6 @@ At the culmination of this celebration, the celebrant invokes over the void of t
 
 31 Jacques Lacan, *Seminar VII*, p. 121: “And that is why the potter, just like you to whom I am speaking, creates the vase with his hand around this emptiness creates it, just like the mythical creator, *ex nihilo*, starting with a hole.”
 
-\[Close with a clip from *Kaos*: <https://[www.youtube.com/watch?v=-­‐](http://www.youtube.com/watch?v=-)blRmnke7sg\]
+&#91;Close with a clip from *Kaos*: <https://[www.youtube.com/watch?v=-­‐](http://www.youtube.com/watch?v=-)blRmnke7sg&#93;
 
 32 Ibid, p. 71.

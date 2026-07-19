@@ -17,6 +17,22 @@ tags:
   - dialectic
   - decolonial
   - decolonization
+subjects:
+  - label: "Decolonization"
+    scheme: "FAST"
+    identifier: "fst00889115"
+    uri: "https://id.worldcat.org/fast/889115"
+    category: "topical"
+  - label: "Dialectic"
+    scheme: "FAST"
+    identifier: "fst00892462"
+    uri: "https://id.worldcat.org/fast/892462"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Ciccariello-Maher, George. *Decolonizing Dialectics*. Durham NC: Duke University Press, 2017.  256 pages.  ISBN-10: 0822362430.  Hardcover, paperback, e-book.**
 

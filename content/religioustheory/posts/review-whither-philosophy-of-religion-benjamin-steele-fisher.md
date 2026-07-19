@@ -17,6 +17,27 @@ tags:
   - religious
   - continental
   - theology
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ***Religion and European Philosophy: Key Thinkers from Kant to Zizek.* Edited by Philip Goodchild and Hollis Phelps. New York: Routledge, 2017. ISBN 10: 1138188530. Hardcover, Paperback, E-Book. 512 pages.**
 

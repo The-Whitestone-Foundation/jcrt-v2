@@ -17,4 +17,15 @@ issue: 3
 season: summer
 year: 2018
 pages: 501-508
+subjects:
+  - label: "Hegemony"
+    scheme: "FAST"
+    identifier: "fst01202283"
+    uri: "https://id.worldcat.org/fast/1202283"
+    category: "topical"
+  - label: "Rationalism"
+    scheme: "FAST"
+    identifier: "fst01090275"
+    uri: "https://id.worldcat.org/fast/1090275"
+    category: "topical"
 ---

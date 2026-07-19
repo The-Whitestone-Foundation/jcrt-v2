@@ -21,6 +21,17 @@ tags:
   - government
   - question
   - balance
+subjects:
+  - label: "Balance"
+    scheme: "FAST"
+    identifier: "fst01938973"
+    uri: "https://id.worldcat.org/fast/1938973"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
 ---
 *The following is the video and transcript of the fifth “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by  Whitestone Publications and involving indigenous and international scholars. The seminar took place on December 8, 2020*.
 
@@ -52,7 +63,7 @@ So, if I can find what I did with my PowerPoint here…
 
 Okay, alright, is that shared? 
 
-\[And everybody said “yes”.\] 
+&#91;And everybody said “yes”.&#93; 
 
 Great! That’s good. Well, if I can get through it now… Oh, I don’t know how to get through it. Let me stop sharing because somehow or another it’s not advancing. I don’t know why not. Do you know why, Carl? Where’s Carl?
 
@@ -86,7 +97,7 @@ Great! That’s good. Well, if I can get through it now… Oh, I don’t know ho
 
 If you look at Ohio, what I’ve got here, is the 18th century layout of where people were. And people are still in those places, even though we don’t have the reservations that were promised to everybody in Ohio, in the Greenville Treaty of 1795, which, by the way, was not accepted by the majority of the Indigenous people. It was kind of put forward because Anthony Wayne was threatening to murder everybody if people didn’t sign.
 
-All right, so you see up in the north, around the lake, you’ve got a lot of Seneca, some Onondawaga and Seneca people there. Ohio was the original eastern homeland of the Iroquois. A lot of people don’t know that. There’s Susquehanna there, you see? Up there near, \[inaudible\], Ohio. They met in the 18th century and we essentially gave them that land because they were no longer safe in the middle Atlantic area because of a group calling themselves the “Paxton Boys,” that were out on a murder spree trying to kill everybody.
+All right, so you see up in the north, around the lake, you’ve got a lot of Seneca, some Onondawaga and Seneca people there. Ohio was the original eastern homeland of the Iroquois. A lot of people don’t know that. There’s Susquehanna there, you see? Up there near, &#91;inaudible&#93;, Ohio. They met in the 18th century and we essentially gave them that land because they were no longer safe in the middle Atlantic area because of a group calling themselves the “Paxton Boys,” that were out on a murder spree trying to kill everybody.
 
 So, they came running to Ohio and Susquehanna did ask for sanctuary, and we gave it. You’ll see the Lenape there in the middle of the state. The Seneca and Lenape came east together. We were traveling together as two very large groups with each other out there on the grass ocean prairie, and came east together, because there was safety in numbers.
 
@@ -104,7 +115,7 @@ Let me see if I can get share screen here. Let’s see if I can share it. All ri
 
 Okay, this is the map that Cyrus Thomas did in 1894 and I want you to notice where all the red clusters are. That was where the Great Mound Cultural Centers were. They went all the way from Lakota land, West down the  lakes, all the way through to Upstate New York, and all the way down into Florida. And there’s an actual reason that they are going in that particular areas, following the rivers.
 
-You can see that Ohio was right in the thick of it. Ohio is probably the most important central area for the old Mound cultures, that, by the way, are about five thousand years old. They’ve found remains of food — gourd foods — you know, various kinds of gourd vegetables, that were clearly partially eaten. And you kind of don’t do that- leave your \[food\] remains, unless you’re actually living there, raising it, needing those things. So, this shows that one of them was dated to more than 5000 years old. So, whereas archaeologists like to say “Oh Mound Cultures were recent, about 2000 years,” no, they’re more than 2 000 years. They go back about 5000 years.
+You can see that Ohio was right in the thick of it. Ohio is probably the most important central area for the old Mound cultures, that, by the way, are about five thousand years old. They’ve found remains of food — gourd foods — you know, various kinds of gourd vegetables, that were clearly partially eaten. And you kind of don’t do that- leave your &#91;food&#93; remains, unless you’re actually living there, raising it, needing those things. So, this shows that one of them was dated to more than 5000 years old. So, whereas archaeologists like to say “Oh Mound Cultures were recent, about 2000 years,” no, they’re more than 2 000 years. They go back about 5000 years.
 
 You can see the interplay of the lakes here on this: Lake Erie which is the cat about to jump on Lake Ontario, which is farthest to the east. You can see that the Indiana area was heavily mounded as well, and that it was following down the rivers. By and large, all the mounds followed the rivers because having water to the east of the mound was very important for ceremonial space.
 
@@ -136,7 +147,7 @@ Nowadays, of course, high churches like Episcopal churches, can sometimes refer 
 
 More recently, I’ve argued that a fundamental basic difference between the two, it can be determined linguistically between the languages of American Indians and eurochristians. eurochristians live in what cognitive linguists call, an ‘up /down image schema’. The cognitive metaphors build upon, again George Lakoff would say, the physicality of ‘being upright’, of standing up.
 
-The problem is, he \[Lakoff\] imposes that nilly-willie on everybody, when it doesn’t work for Native Americans, for American Indians, because our basic imagery isn’t ‘up /down’ but what I call ‘collateral egalitarian’. It’s horizontal instead of vertical. Because for us, it’s that physical relationship, not just to the land, but to all living persons on the land. And by living persons, I mean to always include the non-human persons — the mountains here in Colorado, the trees the rivers, the lakes, the buffalos, and the squirrels, of course the eagles, and the sparrows.
+The problem is, he &#91;Lakoff&#93; imposes that nilly-willie on everybody, when it doesn’t work for Native Americans, for American Indians, because our basic imagery isn’t ‘up /down’ but what I call ‘collateral egalitarian’. It’s horizontal instead of vertical. Because for us, it’s that physical relationship, not just to the land, but to all living persons on the land. And by living persons, I mean to always include the non-human persons — the mountains here in Colorado, the trees the rivers, the lakes, the buffalos, and the squirrels, of course the eagles, and the sparrows.
 
 All those people are part of this collateral egalitarian world that we share, so that the eurochristian up/ down image schema immediately develops a notion of anthropocentrism, where human beings are in charge. That doesn’t work in an Indian environment. Humans are not in charge, we’re just like everyone else — along for the ride and have our responsibilities back to the rest of the people who share the land with us.
 
@@ -144,7 +155,7 @@ Our responsibility is to the buffalo, who then in turn, fed us as Osages. Our re
 
 When I present this to theologians, they think they got me between a rock and a hard place because they immediately say, “yeah, but Tink, your people had chiefs — certainly you did have an up-down image schema.” See, it works that way in the white world. You have a president, a congress, states, and eventually, you have all the people- the voters, right? So, it’s an up /down image schema-a hierarchy. A CEO, middle management, and the labor class. The bishop, the ministers, and the lay people.
 
-That up / down image schema is there, whether we’re talking about politics, business, or religion. “And you Indian people had chiefs” \[they say\], and I tell them, “yeah, we were better than that. These people you call chiefs, we had two of them in every village. And they took turns every other day being in charge. It was like having Donald Trump on Mondays, and Hillary Clinton on Tuesdays.” That, of course, causes a ripple of laughter that you can’t get in a zoom meeting. But then they suddenly realize there must be something else going on in this person that we Osage just call *gaihega*, other than what the English word ‘chief’ seems to indicate.
+That up / down image schema is there, whether we’re talking about politics, business, or religion. “And you Indian people had chiefs” &#91;they say&#93;, and I tell them, “yeah, we were better than that. These people you call chiefs, we had two of them in every village. And they took turns every other day being in charge. It was like having Donald Trump on Mondays, and Hillary Clinton on Tuesdays.” That, of course, causes a ripple of laughter that you can’t get in a zoom meeting. But then they suddenly realize there must be something else going on in this person that we Osage just call *gaihega*, other than what the English word ‘chief’ seems to indicate.
 
 How the role of the *gaihega*, or the two *gaihegas*, is to reflect back the consensus of the people. And the minute they stop reflecting back the consensus of the people, *they out of a job*. They’re no longer useful to the people. So, we don’t have that up /down hierarchy that results in an autocracy, that can even challenge the validity of an election, right?
 
@@ -164,7 +175,7 @@ So that there’s never this cosmic collision between good and evil, struggling 
 
 **Barbara Mann:**  No, we sure don’t.  Yeah, it’s quite true, and I think that if you understand land the way that we see it, you’ll see that the whole point, the whole responsibility of people, and that includes everything, is to maintain the balance, to keep the twinship always in the right balance. And  there’s a tension there, so we’ve got to make sure that it’s coming together, whereas eurochristians are just describing constantly trying to explode it and break it apart.
 
-So, I’ve got some more screens that I think are a little more meaningful. (come on, all right, hopefully I’m in the right one here, yeah okay). What I want to do was talk about the way that we have a government, and that’s quite right that you’ve got the dual chiefs, and in fact, it’s not just one set of twin chiefs, you’ve also got the women, who have their own chief system.  So you got the we personal \[inaudible\] kind of clan and national-national means this spatial clan needs the blood so you got blood and breath going on there. So, men have their two, and women have their two, and the whole point is that grandmothers and grandfathers \[are\] exchanging information to make sure we’re on the same page. 
+So, I’ve got some more screens that I think are a little more meaningful. (come on, all right, hopefully I’m in the right one here, yeah okay). What I want to do was talk about the way that we have a government, and that’s quite right that you’ve got the dual chiefs, and in fact, it’s not just one set of twin chiefs, you’ve also got the women, who have their own chief system.  So you got the we personal &#91;inaudible&#93; kind of clan and national-national means this spatial clan needs the blood so you got blood and breath going on there. So, men have their two, and women have their two, and the whole point is that grandmothers and grandfathers &#91;are&#93; exchanging information to make sure we’re on the same page. 
 
 One of the things that are going on, are the mountain structures here.  There are a lot of effigies and they’re pretty important for understanding the way that things are seen. You’ve got symbolic designs and you’ve got effigies and they, the whole purpose of those is to connect space and land that’s the whole purpose of everything.
 
@@ -176,7 +187,7 @@ We also have the symbolic designs of the square and circle complex. This was par
 
 And he’s a ‘he’, because he’s connected to sky. And you can see people on the causeway here. We always had these very wide streets, holding things together — causeways they were, and we would pile up the sides of them pretty high. In this area they would be like 10, 15 feet high. Why? Because, if you’re going to ceremony, you got grandma, kids, and the kids are running all over the place, and it kept the little kids from getting lost. And everybody’s getting lost, you couldn’t miss where they were going — kind of like the modern interstate system.
 
-So, this guy is in Putnam County, Georgia. He’s not an early \[inaudible\] in the early period we also have a lot of blood designs. He was an air design, space design, there’s a blood design. This is the canals. These are Hokum Canals. In Arizona, women always built canals and mounds. The women piled the dirt. The men might have come up with some of the designs, but the women piled the dirt because the women are connected with dirt and water.  
+So, this guy is in Putnam County, Georgia. He’s not an early &#91;inaudible&#93; in the early period we also have a lot of blood designs. He was an air design, space design, there’s a blood design. This is the canals. These are Hokum Canals. In Arizona, women always built canals and mounds. The women piled the dirt. The men might have come up with some of the designs, but the women piled the dirt because the women are connected with dirt and water.  
 
 So, somebody noticed that this was already available with river. Okay. And then you’ve all these little lines coming off these, are all the canals that the women built. This is more than just a series of canals coming off the river. This is actually a complement to the Cygnus constellation in the sky. And if you turn them into both the same direction, somebody here highlighted the star patterns, but you can see Cygnus.
 
@@ -230,9 +241,9 @@ Same thing happens in dances. Dances like the Sundance, or the Green Corn Dance.
 
 Spatiality is incredibly important, whereas for eurochristians, it’s always temporality, right? Mass starts at 9 am, 10 am, 11 a.m, and noon, and they last 48 minutes each so we can get people out the door and the new crowd in. If you’re a Protestant, the liturgy’s 59 minutes and 59 seconds. Any longer than that, and you might be out of a job pretty soon, because people have learned, habitually, that they can’t sit any longer than that.
 
-And so, you know a lot of eurochristians would come drop in at Four Winds \[American Indian Council in Denver, Colorado\] when we were having ceremony downtown, where I was doing ceremony for 25 years, and after an hour they get real fidgety. And after two hours, they would get up and excuse themselves and say, “I’m sorry, but we have reservations at the Pancake House.”
+And so, you know a lot of eurochristians would come drop in at Four Winds &#91;American Indian Council in Denver, Colorado&#93; when we were having ceremony downtown, where I was doing ceremony for 25 years, and after an hour they get real fidgety. And after two hours, they would get up and excuse themselves and say, “I’m sorry, but we have reservations at the Pancake House.”
 
-\[Laughter\]
+&#91;Laughter&#93;
 
 Our ceremony would last as long as people spoke, because see, it didn’t depend upon me. I was just there to coordinate traffic. It depended on how much was on people’s minds, because we went around the room, in a circle to let everyone have their say.
 
@@ -328,11 +339,11 @@ Mother, mom, I call it the mother mouth. It’s mother earth. Look at mother ear
 
 All right, just the last one. This came from an art show down there in Newark that we held, and these are all things that were made by people from this area. My granddaughter had one of these. My daughter was given that by a Shawnee woman. It’s wearing…because a child’s umbilical cord after it’s born because the umbilicus is very important for connecting you to here.
 
-This, I love this obsidian, red obsidian knife with the deer handle and one of them carved. Here’s another one. I think this one is beautiful. In any case, I will stop sharing \[my PowerPoint\] now.
+This, I love this obsidian, red obsidian knife with the deer handle and one of them carved. Here’s another one. I think this one is beautiful. In any case, I will stop sharing &#91;my PowerPoint&#93; now.
 
 Okay, so those are some more indications of how earth connects to humans, connects to land, connects to animals. You have the eagle, the claw-land of the eagle, which is the Georgia monument, as well.
 
-But the spatiality and the way it’s used is ceremonial space. There’s not an inch of Turtle Island \[which\] is north america, you know, the turtle’s coming north and then you’ve got mexico in the central americas, the tail, and then south america is a fish zooming up to attach to this turtle who is carrying us about.
+But the spatiality and the way it’s used is ceremonial space. There’s not an inch of Turtle Island &#91;which&#93; is north america, you know, the turtle’s coming north and then you’ve got mexico in the central americas, the tail, and then south america is a fish zooming up to attach to this turtle who is carrying us about.
 
 So, that’s the way that we envision this sort of thing going on and the stars are connected to earth. When I was a kid, we’d go out at night and kind of mimic ceremony.  We were just kids. Whatever constellations were up there, we take sticks and we commemorate whatever that was.
 
@@ -370,7 +381,7 @@ And the two chiefs, one was sky and one was earth.  They lived in the center of
 
 But because my daughter was born into Buffalo clan *toka* the buffalo bull *toka uthsethe*, I had to teach her when she was fifty months old, four years old just barely, “you’re left sided. You put your left shoe on first. You tie your left shoe first. So don’t pay attention to your dad.  I’m Eagle clan born, so I’m right-sided, and I put my right shoe on first, my right arm through a jacket first.”  This isn’t right-handed and left-handed, it’s right-sided and left-sided, and it’s a social device to help us remember who we are every moment of every day.
 
-And that’s critically important, to remember whether I’m sky or earth, and to walk the earth that way and walk in balance with the others in my community who are on the other side of the road. And having a Sky clan daughter helps me enormously \[to\] live that in an urban environment where all the other pressures of urbanality would be inclined to erase that distinction and allow me to forget who I am. But that lives deep. It’s ingrained in us way back. And now it’s ingrained in her and she’s now in sixth grade middle school, her first year in middle school, and she’s attending a school in Denver — remote by the way it’s all distance learning because of Covid — but a school called the American Indian Academy of Denver and I don’t know if Gracie is still with us but my daughter is learning Lakota, not Osage, because they have a Lakota teacher in this school, and she’s pretty good at it.  
+And that’s critically important, to remember whether I’m sky or earth, and to walk the earth that way and walk in balance with the others in my community who are on the other side of the road. And having a Sky clan daughter helps me enormously &#91;to&#93; live that in an urban environment where all the other pressures of urbanality would be inclined to erase that distinction and allow me to forget who I am. But that lives deep. It’s ingrained in us way back. And now it’s ingrained in her and she’s now in sixth grade middle school, her first year in middle school, and she’s attending a school in Denver — remote by the way it’s all distance learning because of Covid — but a school called the American Indian Academy of Denver and I don’t know if Gracie is still with us but my daughter is learning Lakota, not Osage, because they have a Lakota teacher in this school, and she’s pretty good at it.  
 
 **Gracie RedShirt Tyon:** That’s good to hear. I’m still here, Tink, thank you. That’s great, because you…you and I both know that our languages are very similar. Same, yeah, same language group, and I’m happy for her, that she’s able to learn that.
 
@@ -410,9 +421,9 @@ I would like to put in a good word by the way for the great law, of the Iroquois
 
 The women alone controlled the agenda, and so there was that little bit of hierarchy. Men could send it forward, but if we didn’t want to talk about it, nothing more. Nothing more. Okay, by the way, if you get out to outer space, the men have the stage, because space is a breath. But women have total control of their own affairs, and women alone controlled the land.
 
-In 1848, the U.S. government passed laws abolishing, abolishing the \[Iroquoian\] League, and that was in retribution for preventing them from going past our areas for 250 years. They imposed their own form of government in 1848, which totally disempowered the women. We hadn’t been the strongest advocates, saying, “you can’t have land.” \[In\] 1868 they made it even stronger. Women in West Virginia didn’t even get the vote back until like 1968, ’67 or ’68.
+In 1848, the U.S. government passed laws abolishing, abolishing the &#91;Iroquoian&#93; League, and that was in retribution for preventing them from going past our areas for 250 years. They imposed their own form of government in 1848, which totally disempowered the women. We hadn’t been the strongest advocates, saying, “you can’t have land.” &#91;In&#93; 1868 they made it even stronger. Women in West Virginia didn’t even get the vote back until like 1968, ’67 or ’68.
 
-It’s not necessarily the Iroquois form of government that they bastardized that’s the problem. The problem is the monetization, because we have a gift economy. It’s not the exchange economy, which is based on rating. It’s a gift economy, which is based on taking care of the world. We’re not just giving to other human beings. It’s, if you take down a tree you by-god plant a tree. If you’re on it … you’re very very careful \[with\] land and you use it for more than 20 years before you move along your circuit.
+It’s not necessarily the Iroquois form of government that they bastardized that’s the problem. The problem is the monetization, because we have a gift economy. It’s not the exchange economy, which is based on rating. It’s a gift economy, which is based on taking care of the world. We’re not just giving to other human beings. It’s, if you take down a tree you by-god plant a tree. If you’re on it … you’re very very careful &#91;with&#93; land and you use it for more than 20 years before you move along your circuit.
 
 So there are very strict rules of land usage and, by the way, pipelines are not part of it. You were very careful about digging in earth because that was somebody’s house, right? You were very careful about taking down a tree because there was a man in there. There was a man in that tree. So the rules that we had are completely ignored by all the so-called tribal governments of a few reservations, and a lot of them, a lot of those governments, get pretty high-handed, and a lot of people consider them complete neo-colonial expressions.
 
@@ -436,7 +447,7 @@ And I do agree with you, Tink, that can’t be the vehicle that we’re using. T
 
 **Barbara Mann:** So it’s not just about “I don’t want to wear a mask, I don’t have to wear a mask.” It’s about waiting for that grandma over there who could get very very sick. Your first thought has to be your obligation to the people and to everything around you. Your first obligation is not to yourself. So that’s how your autonomy works. You have autonomy, but you also have a responsibility that goes along with it. Is that clear at all?
 
-**Tink Tinker:** When South Dakota AIM \[American Indian Movement\] decided they’d go back to the Black Hills again for sundance…for a number of years, they occupied a camp in the Black Hills camp, Yellow Thunder, but in the early 2000s they decided to go back deeper into the hills, into Wind Cave National Park, and so, out of, as a courtesy, Russell Means went to the park superintendent of Wind Cave to announce that they were going to do this and what the dates were. The superintendent said, “Well we can’t allow you to do that,” and Russell said, “We didn’t ask permission. We’re telling you when we’re doing it.”
+**Tink Tinker:** When South Dakota AIM &#91;American Indian Movement&#93; decided they’d go back to the Black Hills again for sundance…for a number of years, they occupied a camp in the Black Hills camp, Yellow Thunder, but in the early 2000s they decided to go back deeper into the hills, into Wind Cave National Park, and so, out of, as a courtesy, Russell Means went to the park superintendent of Wind Cave to announce that they were going to do this and what the dates were. The superintendent said, “Well we can’t allow you to do that,” and Russell said, “We didn’t ask permission. We’re telling you when we’re doing it.”
 
 And after a much longer conversation, the superintendent said, “Well, okay” and announced that his rangers would be keeping an eye on this massive encampment that was invading the black hills. And Russell said, “No, we know how to leave the land the way we found it, and it will be left the way we found it. Your rangers are welcome to come into our camp. Please tell them to lock their weapons in the car because they will not be allowed in our camp.” And he had to re-emphasize that because the superintendent wasn’t sure that he could send his rangers into an aim encampment without weapons.
 
@@ -444,7 +455,7 @@ But they continue to have that dance. It’s now led by a number of, a couple of
 
 One year…was a good ten years ago, I was up at Pine Ridge and they told me they had counted 32 sundances on that reservation alone, which is to say a lot of families began hosting their own sundances because the large sundances tended to become a little too out of hand, a little too much not enough room to actually *wada* with the *wanagi* who came in to that sundance altar.
 
-So, the AIM sundance was just one of those. I was there two years, two summers ago, I was there — last summer of course it got cancelled \[due to Covid 19\], but I was there two summers ago and it was a wonderful thing to be up there. All the Black Hills, in the middle of the tall grass, and to be camping up there with people. So I don’t know if that answers Adam’s question or not, but you know place still matters. yeah that one cave is the place of emergence for Lakota peoples.
+So, the AIM sundance was just one of those. I was there two years, two summers ago, I was there — last summer of course it got cancelled &#91;due to Covid 19&#93;, but I was there two summers ago and it was a wonderful thing to be up there. All the Black Hills, in the middle of the tall grass, and to be camping up there with people. So I don’t know if that answers Adam’s question or not, but you know place still matters. yeah that one cave is the place of emergence for Lakota peoples.
 
 **Roger Green:** Carl asked me to pass on his question, but Andy Yost has a question. Andy, do you want to speak it yourself?
 
@@ -466,7 +477,7 @@ So my question actually is more of a worldview question for both of you. My ques
 
 You’ve signaled a host of problems that we deal with in this light colonial period. Colonialism has not left Indian people unaffected. Genocide has not left us whole. It affects us psychologically, emotionally, spiritually, physically, all those ways. And one of the coping mechanisms introduced to us by the christians is alcohol, and now drugs, introduced to us by the eurochristians. Sociologically, but they were all Christians, so we may as well name it what it is.
 
-Alcohol was a tool of colonization. It was a way of attacking self-dependency of Indian peoples and it worked way too well and today way too many of our people have succumbed to this disease of alcoholism i spent 30 years beginning with going into San Quentin prison going into facilities federal and state to visit Indian inmates almost all of whom were incarcerated because of things they did when they were inebriated, or later on on drugs, but usually inebriated. That’s the drug of choice, it seems like, \[for\] Indian People.
+Alcohol was a tool of colonization. It was a way of attacking self-dependency of Indian peoples and it worked way too well and today way too many of our people have succumbed to this disease of alcoholism i spent 30 years beginning with going into San Quentin prison going into facilities federal and state to visit Indian inmates almost all of whom were incarcerated because of things they did when they were inebriated, or later on on drugs, but usually inebriated. That’s the drug of choice, it seems like, &#91;for&#93; Indian People.
 
 That’s what you’re dealing with in family systems too, Andy, unfortunately. It’s a postcolonial reality that we have yet to get a handle on as Indian People. Not that we haven’t tried. We have plenty of institutions on every reservation in every urban community struggling to get a handle on that.
 
@@ -492,7 +503,7 @@ And I know it was true, I know it was. He never did get the better of that but h
 
 For example, the… for the Iroquois anyway, the primary male figure for the children, sister’s children, is not her husband but her brother. So we spent a great deal of time with my mother’s brother and his children. I think that had a lot to do with keeping him as straight as he was, because you just do that one old traditional thing and it’s like an anchor, you know, it’s…this is something you can hold on to and hope for.
 
-So, I think going back to the old ways is probably one of the best ways. I was talking a friend \[inaudible\], who was another woman from the pacific northwest who told me, “you know, we just started using the old food.” And I grew up with the old food, we… I never even had cheese till like 22 or anything like it. We just used the old food — corn, beans, and squash — and because we couldn’t get, you know, deer meat and that sort of think or like, turkey.
+So, I think going back to the old ways is probably one of the best ways. I was talking a friend &#91;inaudible&#93;, who was another woman from the pacific northwest who told me, “you know, we just started using the old food.” And I grew up with the old food, we… I never even had cheese till like 22 or anything like it. We just used the old food — corn, beans, and squash — and because we couldn’t get, you know, deer meat and that sort of think or like, turkey.
 
 But it’s old traditional food, I think, that is extremely helpful in keeping your head right. So, do the old things. If you just do the old things, I think that would go a long way helping people. And not demonizing the person who was acting out. I think it’s really important not to do that. People are going to act out, especially after they’ve been through what Indian People went through. Instead of that, you’re all, “Shame on you, you’re bad person! You must be punished!”… But instead of that, going out and doing a traditional thing. You know, just something like that is, I think, of a great deal more help you know than the law they’ve got now.
 
@@ -530,7 +541,7 @@ I wrote a paper for a sister journal that Carl edits on ‘religion’, explaini
 
 **Tink Tinker:** *kakunah*!
 
-**Roger Green:** So, I want to be aware of of time, even though it’s a eurochristian concept. There was maybe one…there’s one more question here, maybe we could end there. It’s from William Elkins, and William, are you still here? Do you want to speak it yourself, or I can read it for you? \[waits\]
+**Roger Green:** So, I want to be aware of of time, even though it’s a eurochristian concept. There was maybe one…there’s one more question here, maybe we could end there. It’s from William Elkins, and William, are you still here? Do you want to speak it yourself, or I can read it for you? &#91;waits&#93;
 
 He says, well, he was asking about a song, so let me just read his question here, it says, “To our Native American spokespersons in general, and all in general, are you familiar with ‘the Eagle’s song, the last resort’” and then he says, “if folks aren’t familiar with the song, I think it will be appreciated. It complements Dr Tinker’s representation of colonial christianity, just read this is my comment.” Do either of you know the song?
 
@@ -544,7 +555,7 @@ So, we’re always wanting more people to write and contribute to *The New Poli
 
 **Tink Tinker:** Gracie just signaled that we should be careful with the word ‘sovereignty’ — that’s another eurochristian abstraction that we don’t have in any Indian language, but you’re also in trying to track down Glenn Morris to get him to do one of these conversations on on the word ‘sovereignty’ and Native People. Thank you, Gracie!
 
-**Roger Green:** Yeah, and I wasn’t…I wasn’t naming Glenn, but now that you’ve named him, Glenn, your name is out there Glenn! \[laughs\]
+**Roger Green:** Yeah, and I wasn’t…I wasn’t naming Glenn, but now that you’ve named him, Glenn, your name is out there Glenn! &#91;laughs&#93;
 
 And one more thing. So, there is a a new a new book called *[The Colonial Compromise](https://rowman.com/ISBN/9781978703728/The-Colonial-Compromise-The-Threat-of-the-Gospel-to-the-Indigenous-Worldview)* that Tink and Barbara and Miguel de la Torre — a lot of people from the community — have recently put out, so you can check that out. It’s kind of expensive, so you might look for it through databases if you have access. So, with that I’ll just thank everybody for being here, and I thank especially Barbara Mann and Tink Tinker for being here. And, any parting words for from either of you?
 

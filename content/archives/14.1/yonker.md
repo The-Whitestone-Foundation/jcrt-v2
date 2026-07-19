@@ -18,4 +18,10 @@ issue: 1
 season: fall
 year: 2014
 pages: 165-170
+subjects:
+  - label: "Book cover art"
+    scheme: "FAST"
+    identifier: "fst01893019"
+    uri: "https://id.worldcat.org/fast/1893019"
+    category: "topical"
 ---

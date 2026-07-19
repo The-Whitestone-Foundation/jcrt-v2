@@ -22,6 +22,32 @@ tags:
   - responsibility
   - ethical
   - humanity
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Humanity"
+    scheme: "FAST"
+    identifier: "fst00963659"
+    uri: "https://id.worldcat.org/fast/963659"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
+  - label: "Responsibility"
+    scheme: "FAST"
+    identifier: "fst01095857"
+    uri: "https://id.worldcat.org/fast/1095857"
+    category: "topical"
 ---
 *The following is the first of a two-part series*.
 
@@ -39,7 +65,7 @@ The *Ethics* is not a unified treatise, nor even disparate chapters from what wo
 
 One of Bonhoeffer’s pivotal aims in *Ethics* is the reclamation of Luther’s two-kingdoms doctrine from what he considers improper use and interpretation. In this regard, “Bonhoeffer styles himself the true Lutheran.”[^6] This concern arises in Bonhoeffer’s first essay, “Christ, Reality, and God.” Instead of viewing the “church” and the “world” as distinct and separate realms, Bonhoeffer argues that these two realms are inextricably united in Christ.
 
-Treating them as distinct and separate would grant the world a sort of independence from God’s presence and action in the church that Bonhoeffer, thinking in christological categories, rejects. For Bonhoeffer, “the world has no reality of its own independent of God’s revelation in Christ…there are not two realms, but only the one realm of the Christ-reality \[*Christuswirklichkeit*\], in which the reality of God and the reality of the world are united.”[^7] The context for Bonhoeffer’s ethics is this vision of the world grounded in and interpreted by Christ. That is what he means by “reality.”
+Treating them as distinct and separate would grant the world a sort of independence from God’s presence and action in the church that Bonhoeffer, thinking in christological categories, rejects. For Bonhoeffer, “the world has no reality of its own independent of God’s revelation in Christ…there are not two realms, but only the one realm of the Christ-reality &#91;*Christuswirklichkeit*&#93;, in which the reality of God and the reality of the world are united.”[^7] The context for Bonhoeffer’s ethics is this vision of the world grounded in and interpreted by Christ. That is what he means by “reality.”
 
 Furthermore, the unity of God and the world in a single Christ-reality is not a static condition established in the past. Rather, this intimate relation between God and the world is a dynamic unity that “established in Christ (repeats itself, or, more exactly) realizes itself again and again in human beings.”[^8] The dynamic character of this continuing realization of the unity between God and world that is Christ-reality underscores that this unity must be the primary frame of reference for Christian existence. One betrays Christian existence by treating this unity as a stale reality, separable or distinct from the world in practice.
 
@@ -49,7 +75,7 @@ Bonhoeffer’s fifth essay, “Ultimate and Penultimate Things,” provides furt
 
 The first, “radical solution” conceives “only the complete demolition of the penultimate” where “Christ is the destroyer and enemy of everything penultimate and everything penultimate is the enemy of Christ.” This approach to the relation between ultimate and penultimate highlights Christ’s judgment, and Bonhoeffer rightly recognizes that such an emphasis on the ultimate can lead to a lack of concern for the penultimate. If Christ is all, the logic might go, then all else is nothing. Or, as Bonhoeffer puts it in more evocative language, “The world has to burn.”[^11]
 
-Second, there is the compromise solution: the ultimate makes no claim upon the penultimate so that the penultimate “retains its inherent rights…\[and\] is not threatened or endangered by the ultimate.” This approach to the relation between ultimate and penultimate highlights Christ’s mercy, and Bonhoeffer rightly recognizes that such maintenance of the penultimate against the ultimate can result in their separation. This is the state of affairs that Bonhoeffer protested against in his reclamation of Luther’s two-kingdom doctrine described previously, namely, the sort of Christian existence that fails to engage with the world. Worse still, it could be that the ultimate would finally serve—as it did in German Christianity—“as an eternal justification of all that exists.”[^12] 
+Second, there is the compromise solution: the ultimate makes no claim upon the penultimate so that the penultimate “retains its inherent rights…&#91;and&#93; is not threatened or endangered by the ultimate.” This approach to the relation between ultimate and penultimate highlights Christ’s mercy, and Bonhoeffer rightly recognizes that such maintenance of the penultimate against the ultimate can result in their separation. This is the state of affairs that Bonhoeffer protested against in his reclamation of Luther’s two-kingdom doctrine described previously, namely, the sort of Christian existence that fails to engage with the world. Worse still, it could be that the ultimate would finally serve—as it did in German Christianity—“as an eternal justification of all that exists.”[^12] 
 
 These two inadequate conceptions of the relation between ultimate and penultimate do not result from failing to think about that relation out of a center in Jesus Christ. In fact, Jesus Christ is the keystone in both these conceptions. Neither of them violate Bonhoeffer’s dictum that “the relationship between the ultimate and the penultimate is resolved only in Christ.”[^13] It is the reductive understandings of Christ at work in these conceptions that make them inadequate.
 
@@ -69,7 +95,7 @@ The goal, then, is not to bring about the ultimate through all too human and pen
 
 Still, it is not a matter of no concern that the penultimate correspond relatively more than less to the ultimate. Bonhoeffer puts it this way: “To give the hungry bread is not yet to proclaim to them the grace of God and justification, and to have received bread does not yet mean to stand in faith. But for the one who does something penultimate for the sake of the ultimate, this penultimate thing is related to the ultimate. It is the pen-*ultimate*.”[^21]
 
-This account of the relationship between ultimate and penultimate calls church and Christian to an existence characterized by freedom and responsibility. Bonhoeffer discusses this in his second essay on “History and Good.” It is important to correctly identify the whence and whither of this freedom and responsibility, however. “Responsibility \[*Verantwortung*\]” is a life “lived in response \[*Antwort*\] to the life of Jesus Christ.”[^22] It comes from and returns to the ultimate, Jesus Christ, but it does so by way of the penultimate.
+This account of the relationship between ultimate and penultimate calls church and Christian to an existence characterized by freedom and responsibility. Bonhoeffer discusses this in his second essay on “History and Good.” It is important to correctly identify the whence and whither of this freedom and responsibility, however. “Responsibility &#91;*Verantwortung*&#93;” is a life “lived in response &#91;*Antwort*&#93; to the life of Jesus Christ.”[^22] It comes from and returns to the ultimate, Jesus Christ, but it does so by way of the penultimate.
 
 Christians are responsible before Christ for those aspects of the penultimate that have been entrusted to their care. This undergirds Bonhoeffer’s claim that “the attention of responsible people is directed to concrete neighbors in their concrete reality.”[^23] Christ calls people of faith to exercise responsible care for those aspects of the penultimate within their purview. 
 
@@ -79,9 +105,9 @@ Christians are freed from the necessity of self-justification by means of any pe
 
 The result of this coupling of freedom and responsibility is a movement in Christian ethics beyond “an ultimately dependable knowledge of good and evil.”[^26] Because the Christian stands reconciled with God, the question that arises when faced with the need to act with free responsibility toward the penultimate is not whether a proposed course of action is morally good or evil, but whether that proposed course of action is better or worse for those it intends to serve. With one’s justification before God settled in Christ, the only pertinent question that remains is this: Which course of action is better for my neighbor, on whose behalf I propose to act? One who acts in freedom and responsibility, Bonhoeffer writes, “dares to act and leaves the judgment about good and evil up to God.”[^27]
 
-Bonhoeffer does not descend into antinomianism, however. He reflects on the extent to which the law of God revealed in the Decalogue and in the divine mandates might establish a “boundary for any responsible action.”[^28] This is a serious consideration, but one that Bonhoeffer ultimately subordinates to Jesus Christ, who is “the ultimate reality to whom \[responsible activity\] is responsible.”[^29] Law finally gives way to gospel; or, better, Bonhoeffer refuses to separate the law from its giver.
+Bonhoeffer does not descend into antinomianism, however. He reflects on the extent to which the law of God revealed in the Decalogue and in the divine mandates might establish a “boundary for any responsible action.”[^28] This is a serious consideration, but one that Bonhoeffer ultimately subordinates to Jesus Christ, who is “the ultimate reality to whom &#91;responsible activity&#93; is responsible.”[^29] Law finally gives way to gospel; or, better, Bonhoeffer refuses to separate the law from its giver.
 
-While the law is invaluable for establishing general guidelines for exercising responsible care of the penultimate, situations may arise where violation of the law becomes a necessity for such care. However, violation of the law in those cases does not constitute a rejection of the law; rather, what occurs in those situations is an “act of breaking the law to sanctify it,” or a “suspension of the law” that “serve\[s\] its true fulfillment.”[^30]
+While the law is invaluable for establishing general guidelines for exercising responsible care of the penultimate, situations may arise where violation of the law becomes a necessity for such care. However, violation of the law in those cases does not constitute a rejection of the law; rather, what occurs in those situations is an “act of breaking the law to sanctify it,” or a “suspension of the law” that “serves its true fulfillment.”[^30]
 
 How, then, do Christians become the sort of people who act in this freely responsible way? It is largely to answer such a question that Bonhoeffer writes his essay on “Ethics as Formation.” The core idea here is that Christians are to assume the form of Jesus Christ or, better, that Christ takes form in Christians and the church. As Bonhoeffer says in no uncertain terms, “‘Formation’ means…Jesus Christ taking form in Christ’s church.”[^31] This taking form of Jesus Christ in the church does not mean that Christians become repetitions or exact imitations of Christ. Even less does it mean that humans become ontologically divine. Rather, it means that church and Christians develop patterns of free and responsible activity in relation to the world that reflect—in their own capacity and context—the trifold form of Jesus Christ as incarnate, crucified, and resurrected. 
 

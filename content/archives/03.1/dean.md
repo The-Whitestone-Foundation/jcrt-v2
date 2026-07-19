@@ -8,13 +8,13 @@ author: "William D Dean"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 07
 year: 2001
 ---
 Dean - The Archaeology of American Thought - JCRT 3.1 
 
-# Book Profile: The Archaeology of American Thought
+## Book Profile: The Archaeology of American Thought
 
 Bruce Wilshire, _The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought_. University Park, Pennsylvania: The Pennsylvania State University Press, 2000. 241 pages. ISBN: 0-271-02026-1. 
 
@@ -25,13 +25,9 @@ Iliff School of Theology
 
 After 300 years, that great majority of philosophers who have regularly dismantled traditions of wisdom now seem like a rather predictable group. By those standards, today's true philosophical radicals are those who risk their reputations by affirming these traditions. Even so, it is still implicitly believed that good philosophers judiciously destroy, leaving judiciously, construction to the bad ones. Thus, for example, when Richard Rorty wrote _Achieving Our Country_ to endorse just one of America's traditions (the liberal political tradition) . . . well, this was slightly embarrassing.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 William Dean. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 William Dean. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.1/dean](https://jcrt.org/archives/03.1/dean/)
 

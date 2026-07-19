@@ -21,6 +21,22 @@ tags:
   - politics
   - philosophy
   - unconscious
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 ## Recovering the Unconscious
 

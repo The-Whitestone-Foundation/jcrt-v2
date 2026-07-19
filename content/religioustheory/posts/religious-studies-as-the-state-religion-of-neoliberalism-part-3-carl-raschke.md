@@ -19,6 +19,17 @@ tags:
   - political
   - neoliberalism
   - colonial
+subjects:
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the last of a three-part series. The first can be found [here]( /religioustheory/posts/religious-studies-as-the-state-religion-of-neoliberalism-carl-raschke/)* , *the second* [*here.*]( /religioustheory/posts/religious-studies-as-the-state-religion-of-neoliberalism-part-2-carl-raschke/)
 
@@ -28,7 +39,7 @@ A genealogy of the neoliberalization, together with the desiccation and commodif
 
 Modernity has replaced metaphysics and ontology with a certain rigorous epistemology, and Mignolo summons us to recognize the unavoidable distinction. Such an approach he dubs one of fostering the “re-existence” of previously denied or discarded subjectivities.  Mignolo remarks that
 
-> …reason, the materiality of the world (its ontology) is shaped by epistemology (world sense projected into storytelling and argument \[logos\])ive coded, in every culture and/or civilization, as knowledge (epistemology). If I am not careful, I can break my nose running into a “standing piece of living wood” (ontology), but a tree is another story—it is a particular name given to the standing piece of living wood that occupies a particular place in human imagination who invented the concept of ‘nature.’ When it comes to democracy, being, art, and religion, the same principle applies, though the circumstances change: they depend on how universes of meaning are built.[^1]  
+> …reason, the materiality of the world (its ontology) is shaped by epistemology (world sense projected into storytelling and argument &#91;logos&#93;)ive coded, in every culture and/or civilization, as knowledge (epistemology). If I am not careful, I can break my nose running into a “standing piece of living wood” (ontology), but a tree is another story—it is a particular name given to the standing piece of living wood that occupies a particular place in human imagination who invented the concept of ‘nature.’ When it comes to democracy, being, art, and religion, the same principle applies, though the circumstances change: they depend on how universes of meaning are built.[^1]  
 
 In other words, there is no such thing as “religion” other than a genesis of the real that is somehow susceptible to being swept up in the net of abstraction, iteration, and classification that give full rein to the colonial matrix of *discursive* power. Reproducing in some viable format this modernist manufacture of the *real* should be the true task for any venture in authentic critical theory in the neoliberal era.
 
@@ -64,7 +75,7 @@ The “Romanization” of religion under the sign of neoliberalism, however, pos
 
 The vaunted religious pluralism of Rome, however, was a cover for the unconstrained concentration of power in a single individual, largely because political authority in Rome was ultimately vested in the military.  Such authority was dubbed *imperium*, the same word from which we derive “empire”.  In other words, Roman politics, even with the Republic, was an incessant power struggle in which the most ruthless and the most cunning came to rule  by brute force.  Whoever that might be simply won the title of *princeps,* or “first citizen”.  We might be so crass as to translate the word as “top dog”. There was no transcendental principle which might decide who should in a neutral or normative sense be allowed to rule.  *Auctoritas –* social prestige, or the qualification to command = was simply granted to whomever came out on top, and after the solidification of empire it was embellished with the title of *divus,* or “deity”.  
 
-As Gradel emphasizes, this state of affairs was the inevitable outcome of the intimate association of the sacral in ancient Rome with the ability to vanquish one’s enemies. In the view of Adrastos Omissi “to understand \[Roman\] imperial power, one must understand usurpation.”  Furthermore, he notes:
+As Gradel emphasizes, this state of affairs was the inevitable outcome of the intimate association of the sacral in ancient Rome with the ability to vanquish one’s enemies. In the view of Adrastos Omissi “to understand &#91;Roman&#93; imperial power, one must understand usurpation.”  Furthermore, he notes:
 
 > From the moment of its creation, Roman imperial power was power usurped. The Roman Republic had been governed by an aristocracy whose members competed with one another for power and prestige within a political system the express function of which was to limit the concentration of power in individual hands. But during the first century BC, as the spoils of conquest poured into Roman coffers, the regulations that governed the Republic began to break down and powerful men fought with one another to rule a Roman state that now spanned the Mediterranean.[^11]
 

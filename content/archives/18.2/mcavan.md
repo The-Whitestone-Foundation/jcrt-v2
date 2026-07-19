@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2019
 pages: 236-245
+subjects:
+  - label: "Christians"
+    scheme: "FAST"
+    identifier: "fst00859760"
+    uri: "https://id.worldcat.org/fast/859760"
+    category: "topical"
+  - label: "Revenge"
+    scheme: "FAST"
+    identifier: "fst01096476"
+    uri: "https://id.worldcat.org/fast/1096476"
+    category: "topical"
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
 ---

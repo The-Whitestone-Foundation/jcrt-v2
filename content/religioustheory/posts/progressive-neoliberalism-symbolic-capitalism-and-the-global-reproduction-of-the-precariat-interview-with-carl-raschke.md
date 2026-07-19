@@ -20,6 +20,22 @@ tags:
   - political
   - progressive
   - economic
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Interviews"
+    scheme: "FAST"
+    identifier: "fst00977644"
+    uri: "https://id.worldcat.org/fast/977644"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
 ---
 **Raschke, Carl.  *[Neoliberalism and Political Theology: From Kant to Identity Politics](https://books.google.com/books?id=uCTBwgEACAAJ&dq=neoliberalism+and+political+theology&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj4mPvmiPTlAhVG4qwKHaqYAhgQ6AEwAXoECAIQAg).*  Edinburgh: Edinburgh University Press, 2019.  ISBN-13: 978-1474454551.**
 

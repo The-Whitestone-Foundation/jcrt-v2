@@ -20,6 +20,22 @@ tags:
   - identity
   - difference
   - real
+subjects:
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -47,7 +63,7 @@ The third section analyzes the Vatican’s claims regarding the societal and spi
 
 ## Sensing the Real
 
-Versaldi and Zani contend that one of the reasons gender theory is a problem is because it makes “a radical break with the actual *biological difference* between male and female.”[^9] The authors turn to the story of Genesis to explain the divine origin of sexual dimorphism, that is, the idea that humans are born as one of two physical forms: “Christian anthropology has its roots in the narrative of human origins that appears in the Book of Genesis, where we read that ‘God created man in his own image \[. . .\] male and female he created them (Gen. 1: 27).’”[^10]
+Versaldi and Zani contend that one of the reasons gender theory is a problem is because it makes “a radical break with the actual *biological difference* between male and female.”[^9] The authors turn to the story of Genesis to explain the divine origin of sexual dimorphism, that is, the idea that humans are born as one of two physical forms: “Christian anthropology has its roots in the narrative of human origins that appears in the Book of Genesis, where we read that ‘God created man in his own image &#91;. . .&#93; male and female he created them (Gen. 1: 27).’”[^10]
 
 In addition to the creation story of Genesis, Versaldi and Zani state that sexual dimorphism is evident throughout the human body, maintaining that sexual difference has a natural, biological origin: sexual dimorphism “can be demonstrated scientifically by such fields as genetics, endocrinology and neurology.”[^11] This sentiment is echoed in Pope John Paul II’s *Theology of the Body* where he declares that “the fundamental fact of human existence at every stage of history is that God ‘created them male and female.’ He always created them in this way and they are always such.”[^12] People who identify outside of the binary framework are belittled as nothing but a “provocative” display while third genders are dismissed as a “fictitious construct.”[^13]
 

@@ -8,13 +8,13 @@ author: "Boyd Blundell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 10
 year: 2002
 ---
 Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
 
-# The New Ricoeur Scholarship
+## The New Ricoeur Scholarship
 
 **Book Profiles:**  
 Richard A. Cohen and James L. Marsh, eds., _Ricoeur As Another: The Ethics of Subjectivity_. State University of New York Press, 2002. 236 pages, xvi, index.
@@ -32,13 +32,9 @@ A decade after the appearance of _Oneself as Another_ in English, Ricoeur schola
 
 > **Boyd Blundell** is a doctoral candidate in Theological Ethics at Boston College. His dissertation examines the implications of Paul Ricoeur's theory of narrative identity for Christian anthropology. His publications include "Theological Manners," in _Theology and the Social Sciences_ and "At Arm's Length: Theology, Hermeneutics, and Ricoeur's Double Life," in _Between the Human and the Divine_.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Boyd Blundell. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Boyd Blundell. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/blundell](https://jcrt.org/archives/04.1/blundell/)
 

@@ -18,4 +18,10 @@ issue: 2
 season: spring
 year: 2020
 pages: 262-275
+subjects:
+  - label: "Horror tales"
+    scheme: "FAST"
+    identifier: "fst00960387"
+    uri: "https://id.worldcat.org/fast/960387"
+    category: "topical"
 ---

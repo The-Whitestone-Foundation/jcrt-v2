@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2017
 pages: 142-162
+subjects:
+  - label: "Feminism"
+    scheme: "FAST"
+    identifier: "fst00922671"
+    uri: "https://id.worldcat.org/fast/922671"
+    category: "topical"
+  - label: "Postsecularism"
+    scheme: "FAST"
+    identifier: "fst01764747"
+    uri: "https://id.worldcat.org/fast/1764747"
+    category: "topical"
 ---

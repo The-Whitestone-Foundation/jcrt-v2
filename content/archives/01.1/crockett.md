@@ -28,13 +28,39 @@ keywords:
   - sublime
   - bergeron
   - danielle
-pdf:
+pdf: false
 sort_id: 05
 volume: 1
 issue: 1
 season: winter
 year: 1999
 pages:
+subjects:
+  - label: "Feminist theory"
+    scheme: "FAST"
+    identifier: "fst00922816"
+    uri: "https://id.worldcat.org/fast/922816"
+    category: "topical"
+  - label: "Other (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01048904"
+    uri: "https://id.worldcat.org/fast/1048904"
+    category: "topical"
+  - label: "Psychoanalysis and religion"
+    scheme: "FAST"
+    identifier: "fst01081280"
+    uri: "https://id.worldcat.org/fast/1081280"
+    category: "topical"
+  - label: "Science fiction"
+    scheme: "FAST"
+    identifier: "fst01108566"
+    uri: "https://id.worldcat.org/fast/1108566"
+    category: "topical"
+  - label: "Subject (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01136447"
+    uri: "https://id.worldcat.org/fast/1136447"
+    category: "topical"
 ---
 Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
 
@@ -42,10 +68,10 @@ Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
 
 Clayton Crockett  
 Wesley College
-Anxiety and the S(ub)lime Body of God
-=====================================
 
-Clayton Crockett\
+## Anxiety and the S(ub)lime Body of God
+
+Clayton Crockett
 Wesley College
 
 > *But let us imagine what would take place in a patient who saw in his analyst an exact replica of himself....To take an extreme case, if experienced in the form of strangeness proper to apprehensions of the *double*, this situation would set up an uncontrollable anxiety on the part of the analysand.*\
@@ -53,8 +79,7 @@ Wesley College
 
 * * * * *
 
-The Jouissance of the Other
----------------------------
+### The Jouissance of the Other
 
 In his seminar on *The Four Fundamental Concepts of Psycho-Analysis*, Jacques Lacan provocatively claims that "man's desire is the desire of the Other."[^1]  The Other (*Autre*) represents the social unconscious, but in a structural or functional, rather than ontological sense. Socially, human beings are constructed in their subjectivity by social pressures and demands. There exists within individuals an opening towards the social field as a whole, which is evoked in every action or desire of the individual.
 
@@ -67,19 +92,17 @@ In his seminar on *The Four Fundamental Concepts of Psycho-Analysis*, Jacques L
 8.  Danielle Bergeron suggests another way to think about the *jouissance* of the Other in her essay on "Aliens and the Psychotic Experience." She claims that the movie *Aliens* "scripts a psychotic fantasy--the position of a subject who has become an object delivered up to the all-powerful Other that demands entire satisfaction of its needs."[^7] According to Bergeron, the Alien is a xenomorph, or a radically unfamiliar form which signifies the absence of a father, or any meaningful symbolic order, and therefore the imaginary confrontation with "the real of the Thing."[^8] A psychotic is a person who has been completely delivered up to the *jouissance* of the Other, represented in the movie by the little girl, Newt. Ripley's therapeutic task is to restore her to the position of a subject. Bergeron follows Willy Apollon in claiming that in order to free oneself from the *jouissance* of the Other, one must externalize the Other as an object which is "the determinative step in the process of separation securing the psychotic's treatment."[^9] In the case of *Aliens*, the externalization of the Other is the steel Beast which Ripley uses to destroy the "real" Beast, which frees Newt (and also Ripley herself, although not completely, as we discover in the third movie) from being a "plaything of the Other."[^10]
 9.  The Other is usually feminized in its representation, to demonstrate the absence of a father, that is, a signifying relation. For Lacan, psychosis is a disavowal of the Name of the Father, and the acceptance of the Name or Law of the Father is what ensures passage into social discourse and signification. In Bergeron's essay, the Other is nearly equated with the real, or the Thing, beyond all symbolic relation, but it is important to remember that this representation of the limit of representation and of the real takes place within symbolic discourse and signification.
 
-The Slimy Subject
------------------
+### The Slimy Subject
 
 1.  I have set up an opposition between a *jouissance* of the Other experienced as psychotic-demonic and an individual subject characterized as a protagonist. Bergeron's therapeutic task is to free psychotics from their (mis)understanding of themselves and their situation as that of a plaything in relation to the Other as real and beyond signification, whereas a sane person presumably negotiates a more healthy relation to the social and symbolic Other. Ripley, however, who accomplishes the healing in the little girl, discovers in the third movie that her dream of being invaded by the Alien is not merely a dream. Or in other words, to quote Julia Kristeva, "psychosis is the crisis of truth in language."[^11] This means that we are all inhabited by the Other, whether we want to disavow the horror of that insight or not.
 2.  Furthermore, this relation to the *jouissance* of the Other is not simply an external relation of the subject, but an intimate one which constitutes the subject. Slavoj Zizek claims that the subject or *cogito* comes into existence by the rejection of an absolute formlessness which later horrifies him. Writing about the movie *Alien* in *Tarrying With the Negative*, Zizek claims that: "here we encounter *cogito* at its purest when (what will become) the subject constitutes itself by rejecting the slimy substance of *jouissance*."[^12] In other words, the condition of the emergence of subjectivity involves the rejection of a formless slime which (re)emerges elsewhere as matter. This slimy substance, which was intimate to the embodied human, then exerts a powerful horror but also fascination on him or her. In addition, the emergent and victorious *cogito* is masculinized while the slimy *jouissance* is feminized. Zizek argues that the subject is a pure form, a Kantian "I think," which cannot be filled out with a determinate content, and that Kant and Hegel draw out these conclusions which Descartes left undeveloped. The real hero for Zizek, however, is Lacan, whose formula for subjectivity implies that "at the very moment of my reduction to a pure cogito qua impossible gaze, a formless slime of the substance of *jouissance* had to emerge somewhere else."[^13] In other words, subjectivity is constituted in the process of sloughing off one's body, which is perceived as slime, and this externalized body encountered as substance provokes horror and sublimity.
 3.  Lacan demonstrates a similar insight in his Seminar II when he describes Freud's reaction to his dream of Irma's Injection. In the dream, Freud looks deeply into the back of his patient's throat and is horrified by what he sees there:
 
-    > There's a horrendous discovery here, that of the flesh one never sees, the foundation of things, the other side of the face, the secretory glands *par excellence*, the flesh from which everything exudes, at the very heart of the mystery, the flesh in as much as it is suffering, is formless, in as much as it is something which provokes anxiety. Spectre of anxiety, identification of anxiety, the final revelation of *you are this--You are this, which is so far from you, this which is the ultimate formlessness*.[^14]
+> There's a horrendous discovery here, that of the flesh one never sees, the foundation of things, the other side of the face, the secretory glands *par excellence*, the flesh from which everything exudes, at the very heart of the mystery, the flesh in as much as it is suffering, is formless, in as much as it is something which provokes anxiety. Spectre of anxiety, identification of anxiety, the final revelation of *you are this--You are this, which is so far from you, this which is the ultimate formlessness*.[^14]
 
 4.  This dream represents Freud's famous and first successful self-analysis. His reaction testifies to the enormous anxiety which results when one recognizes oneself in the substance of the *jouissance* of the Other in an uncanny way after the rejection of the body as other. One experiences not simply the determinate form of the human being, but body as body, body as pure substance and absolute formlessness.
 
-Freud's Anxiety and God's Body
-------------------------------
+### Freud's Anxiety and God's Body
 
 1.  In his late work, *Inhibitions, Symptoms, and Anxiety*, Freud revises his previous understanding of anxiety. For most of his professional life, he believed that anxiety was transformed libido, and that it was produced by repression. In his 1915 essay on "The Unconscious," Freud claims that primal repression consists of an "*anticathexis*, by means of which the system Pcs guards itself against the intrusion of the unconscious idea."[^15]  This anticathexis prevents an unconscious idea from becoming preconscious or conscious, and this process of repression generates "anxiety-hysteria," in which anxiety appears "without the subject knowing what he is afraid of."[^16]    In 1928, however, he states that he "can no longer maintain this view." Rather, "it was anxiety which produced repression" and not the other way around.[^17]  This shift in the understanding of anxiety takes place in the context of two important developments of Freud's later years. The first consists of an emphasis on a more literal explanation of castration, which is elaborated in essays such as "The Infantile Genital Organization" and "Anatomical Sex-Distinction." In these essays, the basic difference between boys and girls hinges on a girl's lack of possession of a penis, which is experienced by the girl as a profound lack or wound. The little boy, on the other hand, not only compares his own penis to that of his father, and feels a sense of inferiority regarding size, but more importantly, a boy experiences tremendous anxiety when confronted with the absence of a penis in a girl or woman. The little boy reacts by denying or disavowing the reality he sees, because to admit that girls do not possess a penis is to admit the contingency of his own, and the possibility of losing it. The little girl, on the other hand, presumably knows exactly what she sees and exactly what she wants. Freud's certainty here about female desire contrasts with his famous acknowledgment elsewhere that he cannot understand what (a) woman wants. "A little girl behaves differently," Freud writes, "She makes her judgment and her decision in a flash. She has seen it and knows that she is without it and wants to have it."[^18] This anatomical sex-distinction underlies Freud's conclusion in *Inhibitions, Symptoms and Anxiety* that "the anxiety felt in animal phobias is the ego's fear of castration."[^19]
 2.  The other feature of Freud's later work, which also manifests itself in the last sentence, is a turn toward the ego as a protagonist in its defenses against a primal id and a punitive superego. It is the ego's fear of castration which prompts anxiety, and this anxiety must be repressed, sublimated, diverted, or otherwise defensed in order to survive amid civilization's discontents. Both of these characteristics of Freud's late work, the single-minded focus on the ego as well as the obsessive concern to ground anxiety in a literal concern with castration, are open to criticism. In fact, the overriding theme of Lacan's Seminar II, *The Ego in Freud's Theory and in the Technique of Psychoanalysis*, constitutes a critique of ego psychology along with any restriction of psychoanalysis to this practice. Lacan also precludes any identification of the subject (I) with the ego (me). He concludes that the ego is by  nature resistant, reactive and inertial, and it attempts to thwart the irruption of insistent speech which marks the truth of the subject.[^20] To focus on the ego, Lacan holds, is to obliterate the revolutionary power of the problematic Freud opens up.
@@ -89,8 +112,7 @@ Freud's Anxiety and God's Body
 6.  To bring together a notion of theology as a discourse of anxiety, or possibly a discourse which responds to anxiety, along with Lacan and Zizek's understanding of the constitution of subjectivity as a rejection of the substance of the *jouissance* of the Other, is to ask about the body of God. One can read the history of theology as an uncontrollable anxiety regarding God which theologians often attempt to cover over or contain. Martin Luther's writings, for example, illustrate a tremendous anxiety regarding justification. In his treatise on *The Freedom of a Christian*, for example, Luther claims that "the moment you begin to have faith you learn that all things in you are sinful and damnable."[^24] Luther writes at length how "savage and destructive a beast is a guilty conscience," that whips or tortures the individual soul "as if it were in hell."[^25] On this reading of anxiety, one could understand Luther's discourse as connected to a profound horror of the body of God understood as substance or *jouissance*. On the one hand, theologians attempt to deny God any materiality or capriciousness, representing divinity as pure self-transparent thinking, a *cogito* writ large. On the other hand, this disavowal of the body of God by most orthodox theologians leads to a return of the repressed, understood as an experience of absolute sinfulness or damnation.
 7.  In addition, nature which cannot be harnessed under divine providence and purpose become demonized as the source of profound horror. I am thinking of nature "red in tooth and claw," which is experienced as slimy, gooey, oozing, primordial, insect-like, reptilian, voracious, etc. Although some of the resonances of this description of nature are Darwinian, in a classical sense nature can be understood as unformed matter, which in some Neo-Platonic, Christian and Gnostic thinking is viewed with profound antipathy if not horror. Nature at its most hideous takes on the aspects of absolute formlessness which characterizes the substance of the *jouissance* of the Other as a sublime Thing. This vision is encapsulated, as Zizek points out, by the Alien, but one can see another manifestation in the Borg, which is the cyborg yet strangely hivelike collective consciousness which serves as the enemy in *Star Trek VIII: First Contact*. The sinister enemy of Picard and the crew compromises the distinction between living creature and machine in a way which recalls Donna Haraway's description of a cyborg, and it threatens to totalize or colonize all individual intelligent consciousness in its voracious hunger or desire. [^26] For the heroes, it is essential to distinguish Data as an android from Picard as a living and passionate human, even though Data desires to become human. In fact, the desire to become human validates Data and makes his power over the Borg acceptible because it reaffirms cherished humanistic values. In some ways, the Borg can be understood as reflecting a modern and humanistic horror of a certain understanding of postmodernism.
 
-Not-All vs. the Exception: Anxiously Writing the Body of God
-------------------------------------------------------------
+### Not-All vs. the Exception: Anxiously Writing the Body of God
 
 1.  We can understand this description of sublime nature in the history of theology, then, as a return of the repressed. By ignoring or avoiding questions concerning the embodiment or sexuality of God, theology enacts a repression which later erupts in the form of a sublime *jouissance*, which creates ever more powerful anxiety. This is a reading of theology in the light of Freud's earlier version of anxiety, where anxiety is a reaction or response to repression. In order to grasp an alternative reading, where theology would understand itself as a repressive response to anxiety, I want to return to Zizek and read his dichotomy between the mathematical and the dynamical sublime.
 2.  According to Zizek's Lacanian reading of Kant, "the split of the Sublime itself...into 'mathematical' and 'dynamical' Sublime, is far from negligible since it directly concerns sexual difference."[^27] In other words, although the distinction between beauty and sublime in Kant and others is commonly seen in terms of a feminine beauty and a masculine sublime, Zizek argues that sexual difference is more primordially inscribed into the split of the sublime into mathematical and dynamical. Zizek continues by associating the mathematical sublime with the feminine, while the dynamical sublime is inherently masculine. He then relates Kant's distinctions of the sublime back to the *Critique of Pure Reason*, where Kant divides the Antinomies into mathematical and dynamical. Finally, Zizek combines this Kantian philosophical logic with Lacan's sexual distinction of the feminine as "not all" and the masculine as universality constituted through exception. [^28]
@@ -99,7 +121,7 @@ Not-All vs. the Exception: Anxiously Writing the Body of God
 5.  I have suggested that an understanding of anxiety as a response to repression can lead to an anxious theology which must defensively struggle with the return of the repressed. This relationship of repression to anxiety can also be thought in terms of Zizek's logic of exceptionality, the dynamical sublime, and a priority of beyond over limit. Such a theology is constrained to think God solely in terms of exceptionality and paradoxical universality which mirrors the Cartesian exceptional subject. God is the exception which proves or upholds the rule, and God's beyond or divine sphere establishes the finite world as limit. This very exceptionality, however, provokes tremendous anxiety, because the intimate or "extimate" relation between God and the world remains problematic, and finite humans must always already exist beyond the limit to which they are consigned in order to think God, that is, to think theologically.
 6.  In terms of the dynamical sublime, that is, the elevation of human dignity or moral worth over the raging power of nature which is felt as an exceptional connection to divinity, Zizek points out the intimate and unsettling relation between the dynamical sublime and the superego. "The logic at work in the experience of the dynamical sublime is therefore," he writes:
 
-    > true, I may be a tiny particle of dust thrown around by wind and sea, powerless in face of the raging forces of nature, *yet all this fury of nature pales in comparison with the absolute pressure exerted on me by the superego, which humiliates me and compels me to act against my fundamental interests!*[^33]
+> true, I may be a tiny particle of dust thrown around by wind and sea, powerless in face of the raging forces of nature, *yet all this fury of nature pales in comparison with the absolute pressure exerted on me by the superego, which humiliates me and compels me to act against my fundamental interests!*[^33]
 
 7.  The structure of the dynamical sublime is here understood in terms of a logic of exceptionality, that is, an exception to the forces of nature. A transcendent dignity given from beyond (usually God) raises humanity above the nature which threatens to destroy it. The logic of this sublimity recoils into the psychoanalytic notion of the superego, however, because the inherent dignity cannot be separated from one's own conscience, and (as we saw in Luther) this guilty conscience flays the human soul more powerfully than the external might of nature.
 8.  If we think of anxiety as a limiting or fixation of attention from the beyond to the limit, then the attempt to surmount the limit and reach the beyond inevitably fails, which is another form of the logic of the return of the repressed. According to the neuroscientist Jean-Pierre Changeux, the difficulties of schizophrenics with thought and language can be "interpreted as defects in attention, involving both poor selectivity...and excessive fixation of attention." [^34] The fixation on a beyond effectively limits access to the beyond and bars it, which prompts a further eruption of anxiety. Of what, then, does the alternate understanding of anxiety consist? Following the later Freud, and taking anxiety to be the source of repression, we could think about repression less in terms of its widespread negative connotations than in terms of a Nietzschean active forgetting.

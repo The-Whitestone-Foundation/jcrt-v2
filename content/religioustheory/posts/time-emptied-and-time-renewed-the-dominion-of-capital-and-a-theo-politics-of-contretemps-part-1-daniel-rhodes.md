@@ -22,6 +22,37 @@ tags:
   - experience
   - history
   - social
+subjects:
+  - label: "Capital"
+    scheme: "FAST"
+    identifier: "fst00846272"
+    uri: "https://id.worldcat.org/fast/846272"
+    category: "topical"
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 ## The following is the first installment of a three-part series.
 
@@ -39,7 +70,7 @@ Lastly, I develop a theo-politics of the practice of *contretemps* derived from 
 
 ## Time Emptied: The Dominion of Capital
 
-In the chapter on money in the *Grundrisse*, Marx states that for capital “the determination of time remains, of course, essential” because the key to the entire process is the “economization of time.” At its core, then, he summarizes, “all economy ultimately reduces itself” to the “\[e\]conomy of time.”[^6] Such is the basis of the order of capital. Within this order, the circuits of capital have succeeded in shaping a regnant social time that greatly defines the experience of time itself in all of its dimensions, whether they be biological, psychic, cosmological, or of course, socio-political.
+In the chapter on money in the *Grundrisse*, Marx states that for capital “the determination of time remains, of course, essential” because the key to the entire process is the “economization of time.” At its core, then, he summarizes, “all economy ultimately reduces itself” to the “economy of time.”[^6] Such is the basis of the order of capital. Within this order, the circuits of capital have succeeded in shaping a regnant social time that greatly defines the experience of time itself in all of its dimensions, whether they be biological, psychic, cosmological, or of course, socio-political.
 
 As a dominant time, it also informs rationality and orders history, establishing its hegemony through a process that quantifies and homogenizes time for exchange and accumulation, ultimately distorting its human quality by monetizing it.[^7] Within this system “time is money,” designating the way in which capital solidifies its unrivalled dominion and ascendency over the social and the political.[^8]
 
@@ -55,7 +86,7 @@ Time is intrinsically difficult to conceive and because of this the human experi
 
 Similarly, time as storied is also eviscerated. While other more expansive accounts of capital temporality exist, a brief recap of this history will help to clarify how the hegemony of capital crystalized in the ascendency of its determination of time and why its dominion is concentrated here.[^12] To elucidate this, I will rely most heavily on the path cut by Éric Alliez whose chiastic reading of the history of philosophy displays how the conception of time becomes dislodged from the framework of the polis and the cosmos only then to be reconfigured through financialization for the process of exchange and accumulation.[^13]
 
-According to Alliez, the origin of the homogenous and rectilinear time of capital appears already in Aristotle’s discussion of chrematistics in the *Politics*. Because by nature the charging of interest monetizes time, Aristotle recognized that the practice of chrematistics (or the art of money-making) severed and disfigured the social and political lineaments of the polis, ultimately “\[emptying\] the city of its self-presence.”[^14] As a result, it was not possible to fully integrate this technique of money-making, or money lending, into the life of the city state.
+According to Alliez, the origin of the homogenous and rectilinear time of capital appears already in Aristotle’s discussion of chrematistics in the *Politics*. Because by nature the charging of interest monetizes time, Aristotle recognized that the practice of chrematistics (or the art of money-making) severed and disfigured the social and political lineaments of the polis, ultimately “&#91;emptying&#93; the city of its self-presence.”[^14] As a result, it was not possible to fully integrate this technique of money-making, or money lending, into the life of the city state.
 
 While it was a skill that inevitably developed within the workings of the city, it always remained at odds or incompletely reconciled to it, a contradiction the Aristotelian polis is never able to resolve.[^15] A vector dislodged from the natural movement of the cosmos and the just movement of the polis, the art of chrematistics redirected time from their circular movement, consequently, disordering human relations by conforming them to a quantified time incommensurate with the epistemic and ontological register of Aristotelian philosophy.
 
@@ -111,7 +142,7 @@ Time has become fully monetized, and *homo* *temporalis* has become *homo* *econ
 
 [^2]: Derrida, *Specters of Marx*, 96.
 
-[^3]: Ibid., 110. Derrida states, “I believe in the political virtue of the contretemps. And if a contretemps does not have the good luck, a more or less calculated luck, to come *just in time*, then the inopportuneness of a strategy (political or other) may still *bear witness*, precisely \[justement\], to justice, bear witness, at least, to the justice which is demanded and about which we were saying a moment ago that it must be disadjusted, irreducible to exactness \[justesse\] and to law.”
+[^3]: Ibid., 110. Derrida states, “I believe in the political virtue of the contretemps. And if a contretemps does not have the good luck, a more or less calculated luck, to come *just in time*, then the inopportuneness of a strategy (political or other) may still *bear witness*, precisely &#91;justement&#93;, to justice, bear witness, at least, to the justice which is demanded and about which we were saying a moment ago that it must be disadjusted, irreducible to exactness &#91;justesse&#93; and to law.”
 
 [^4]: I am indebted to Benjamin Kunkel for the use of the term “Marxish.” See his *Utopia or Bust: A Guide to the Present Crisis* (New York: Verso, 2014).
 
@@ -119,7 +150,7 @@ Time has become fully monetized, and *homo* *temporalis* has become *homo* *econ
 
 [^6]: Karl Marx, *Grundrisse: Foundations of the Critique of Political Economy (Rough Draft)*, trans. Martin Nicolaus (1973; repr., London: Penguin Books, 1993), 172-73. Highlighting Marx’s insight, Daniel Bensaïd states that because “Capital is a specific, contradictory conceptual organization of social time…, the category of time is at the heart of the critique of political economy.” Daniel Bensaïd, *Marx for Our Times: Adventures and Misadventures of a Critique*, trans. Gregory Elliott (New York: Verso, 2002), 74, 77.
 
-[^7]: My view of the dynamic character of capital’s dominion is indebted to the insight of Louis Althusser. As Fredric Jameson notes in his introduction to *Lenin and Philosophy and Other Essays,* Althusser provided a real contribution in reconceiving the static or simplistic notions of base and superstructure. He states, “When one combines the base-and-superstructure formula with the problem of social reproduction \[as Althusser did\], everything changes. The former is now set in motion as it were, and a whole new account of social temporality is required which it is the function of the influential Althusserian conception of the Ideological State Apparatus (as distinguished from the repressive apparatuses of the State) to supply” (Fredric Jameson, “Introduction,” in *Lenin and Philosophy and Other Essays*, by Louis Althusser (New York: Monthly Review Press, 2001), xiii).
+[^7]: My view of the dynamic character of capital’s dominion is indebted to the insight of Louis Althusser. As Fredric Jameson notes in his introduction to *Lenin and Philosophy and Other Essays,* Althusser provided a real contribution in reconceiving the static or simplistic notions of base and superstructure. He states, “When one combines the base-and-superstructure formula with the problem of social reproduction &#91;as Althusser did&#93;, everything changes. The former is now set in motion as it were, and a whole new account of social temporality is required which it is the function of the influential Althusserian conception of the Ideological State Apparatus (as distinguished from the repressive apparatuses of the State) to supply” (Fredric Jameson, “Introduction,” in *Lenin and Philosophy and Other Essays*, by Louis Althusser (New York: Monthly Review Press, 2001), xiii).
 
 [^8]: Benjamin Franklin, “Poor Richard’s Almanac, Jan. 1751,” in *The Papers of Benjamin Franklin*, ed. L.W. Labaree, W.J. Bell, H. C. Boatfield, and H. H. Fineman, vol. 4 (New Haven: Yale University Press, 1961), 86-7, cited in E.P. Thompson, “Time, Work-Discipline, and Industrial Capitalism,” *Past & Present* 38, no.1 (1967): 89.
 
@@ -149,7 +180,7 @@ Time has become fully monetized, and *homo* *temporalis* has become *homo* *econ
 
 [^21]: Agamben, *Infancy and History*, 103-104.
 
-[^22]: Alliez, *Capital Times*, 100ff. Commenting on the internal, invisible location of Christian faith that emerges in Augustine, Alliez notes earlier, “Far from there being a social norm, there remains for the Christian only an internal difference, which is revealed in the temporal dialectics of *intention* and *distention*. In the heart of the subject, in one’s innermost heart \[*son for interne*\], is where there is the projected shadow of the ontological fracture and of transcendence, whose process of expression is merged with the history of the principle of individuality. The chain of being broken, the divinity abandons the world to creation in order to coil back into the great spaces and vast palaces of memory.” Ibid., 88.
+[^22]: Alliez, *Capital Times*, 100ff. Commenting on the internal, invisible location of Christian faith that emerges in Augustine, Alliez notes earlier, “Far from there being a social norm, there remains for the Christian only an internal difference, which is revealed in the temporal dialectics of *intention* and *distention*. In the heart of the subject, in one’s innermost heart &#91;*son for interne*&#93;, is where there is the projected shadow of the ontological fracture and of transcendence, whose process of expression is merged with the history of the principle of individuality. The chain of being broken, the divinity abandons the world to creation in order to coil back into the great spaces and vast palaces of memory.” Ibid., 88.
 
 [^23]: Ibid., 82.
 

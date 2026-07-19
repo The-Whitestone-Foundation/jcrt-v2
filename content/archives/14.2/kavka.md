@@ -20,4 +20,25 @@ issue: 2
 season: spring
 year: 2015
 pages:
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Humanism, Religious"
+    scheme: "FAST"
+    identifier: "fst00963530"
+    uri: "https://id.worldcat.org/fast/963530"
+    category: "topical"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
+  - label: "Religious communities"
+    scheme: "FAST"
+    identifier: "fst01093964"
+    uri: "https://id.worldcat.org/fast/1093964"
+    category: "topical"
 ---

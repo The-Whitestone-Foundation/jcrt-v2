@@ -23,6 +23,27 @@ tags:
   - revelation
   - salvation
   - philosophical
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Revelation"
+    scheme: "FAST"
+    identifier: "fst01096460"
+    uri: "https://id.worldcat.org/fast/1096460"
+    category: "topical"
+  - label: "Salvation"
+    scheme: "FAST"
+    identifier: "fst01104418"
+    uri: "https://id.worldcat.org/fast/1104418"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first of a three-part series.* *It will appear as a full article in the Fall 2021 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org).
 
@@ -68,7 +89,7 @@ This participation is no denunciation of living in the world; instead, it is a n
 
 Returning to Paul’s themes of understanding human living, the determination of a person’s own existence by the flesh (σαρξ) or by the Spirit (πνευμα) represent different ways of living in this world (Rom 8:1–17; Gal 3:3). Therefore, life in the Spirit is not to be understood as an abjuration or a denunciation of the world.[^18] The baptized person neither leaves the world nor is he or she driven out of the world by the Spirit.
 
-Differences between a being in the ‘flesh’ and a being in the ‘spirit’ can nevertheless be described very well. Personal attributes and categories (such as \[social\] gender, status or nationality) do not disappear or become invisible within the Church. A baptized person is still branded with these markers and remains socially recognizable. But, through baptism, these markers have become meaningless and ineffective within the body of Christ.[^19]
+Differences between a being in the ‘flesh’ and a being in the ‘spirit’ can nevertheless be described very well. Personal attributes and categories (such as &#91;social&#93; gender, status or nationality) do not disappear or become invisible within the Church. A baptized person is still branded with these markers and remains socially recognizable. But, through baptism, these markers have become meaningless and ineffective within the body of Christ.[^19]
 
 The reason for this change of existence lies in baptism itself. Because through dying, being buried, and rising in the New Adam (Rom 6), the baptized person puts on Christ like a garment, thus opening up an eschatological community in a unity never seen before.[^20] Fixed markers of division and separation in the world cannot be harmonized with an eschatological model of life, and for this reason eschatological ethics should also arise from the grace of baptism.[^21]
 

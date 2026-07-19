@@ -21,6 +21,32 @@ tags:
   - theology
   - symbolic
   - imaginary
+subjects:
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 There has been much work on Lacan in describing his relationship to a Christological theology. We see this in work such as Žižek’s *The Fragile Absolute* and also in his dual work with John Milbank, *The Monstrosity of Christ*.[^1] We also see a Christological perspective on the value of Lacan’s work in Marcus Pound’s *Theology, Psychoanalysis and Trauma*.[^2] However, there has generally been less of a focus on the explicitly Pneumatological value of Lacan’s work concerning theology. This is obviously discounting Žižek’s work on the community of the Holy Spirit and Badiou’s *Paul’s New moment*.[^3]
 
@@ -34,7 +60,7 @@ However, this lack of an object must not be fully identified with *object a,* wh
 
  Enigmatically, Lacan then goes on to say, in this seminar, that the ‘Holy Spirit is the entry of the signifier into the world’ and so invariably tied to the death instinct. He states:
 
-> The Holy Spirit is the entry of the Signifier into the world, that is very certainly what Freud brought us under the term the death instinct. It is a matter of the limit of what is *signified* which is never attained by any living being, or even, which is never attained at all, except in exceptional cases, probably mythic, since we encounter it only in the \[ultimate\] texts of a certain philosophical experience.[^10]
+> The Holy Spirit is the entry of the Signifier into the world, that is very certainly what Freud brought us under the term the death instinct. It is a matter of the limit of what is *signified* which is never attained by any living being, or even, which is never attained at all, except in exceptional cases, probably mythic, since we encounter it only in the &#91;ultimate&#93; texts of a certain philosophical experience.[^10]
 
 We can assume that the philosophical texts are those of Plato, as he says this earlier: “The Platonic perspective founds all apprehension of the object upon recognition, reminiscence of a type that is in some way preformed. This is separated, by all the distance that there is between modern experience and ancient experience.[^11]
 
@@ -46,7 +72,7 @@ It is nevertheless something which is virtually at the limit of man’s reflecti
 
  The signifier’s entry into the body has radically pushed out life (being) and replaced it with its own existence. This is the original trauma or what Lacan calls in this seminar ‘Symbolic debt.’[^13] Earlier in 1953, he writes that the symbol is what kills the ‘thing’  and is what causes the chain of signifiers that creates desire.[^14]  Hence, all that is spoken ‘veils death’ as it entails a type of suppression of death as a result of symbolic castration.[^15] Part of the reaction to this castration is the formation of symptoms via the imaginary register in its operation to disguise castration. A few lines down Lacan says this:
 
-> We shall put what is at the basis of the existence of the signifier \[the Holy Spirit\], of its presence in the world, into our schema, as the efficacious surface of the signifier in which the latter in some way reflects what one could call the last word of the signified, that is of life, of what is lived, of the flux of emotions &hellip; This is death, insofar as it is the support, the base, the operation of the Holy Spirit by which the signifier exists.[^16]
+> We shall put what is at the basis of the existence of the signifier &#91;the Holy Spirit&#93;, of its presence in the world, into our schema, as the efficacious surface of the signifier in which the latter in some way reflects what one could call the last word of the signified, that is of life, of what is lived, of the flux of emotions &hellip; This is death, insofar as it is the support, the base, the operation of the Holy Spirit by which the signifier exists.[^16]
 
 In short, our entire psychic libidinal life is a response to the reality of death, which is mediated by the signifier. Lacan states that the Holy Spirit is the basis of the *operation of the signifier* itself. The Holy Spirit is, thus, not the signified (the spoken) but the complex synchronic and diachronic sliding of the signifier (speech) in its response to an ever-present lack that keeps it in momentum. The first signifier that cuts into the real as death, which, as a limit, is veiled and omnipresent in the subject.
 
@@ -113,7 +139,7 @@ Thus, not only is God—as a transcendent spiritual experience—apophatically p
 
 [^11]: Lacan, 7. ‘Une perspective platonicienne, celle qui fonde toute appréhension, toute reconnaissance sur la réminiscence d’un type en quelque sorte préformé, à une notion profondément différente, de toute la distance qu’il y a entre l’expérience moderne et l’expérience antique’ (SE, IV : 13-14). (Unedited *l’Association freudienne internationale* version)
 
-[^12]: Lacan, 44. ‘\[Ce\] de même quelque chose qui virtuellement se trouve à la limite de cette réflexion de l’homme sur sa vie même, qui lui permet d’en entrevoir la mort comme sa limite, comme la condition absolue, indépassable comme s’exprime Heidegger, de son existence. C’est très précisément à cette possibilité de suppression &hellip;’ (SE, IV : 48). (Unedited *l’Association freudienne internationale* version)
+[^12]: Lacan, 44. ‘&#91;Ce&#93; de même quelque chose qui virtuellement se trouve à la limite de cette réflexion de l’homme sur sa vie même, qui lui permet d’en entrevoir la mort comme sa limite, comme la condition absolue, indépassable comme s’exprime Heidegger, de son existence. C’est très précisément à cette possibilité de suppression &hellip;’ (SE, IV : 48). (Unedited *l’Association freudienne internationale* version)
 
 [^13]: Lacan, 33.
 

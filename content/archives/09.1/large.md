@@ -33,4 +33,25 @@ issue: 1
 season: winter
 year: 2008
 pages:
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Messianism"
+    scheme: "FAST"
+    identifier: "fst01017438"
+    uri: "https://id.worldcat.org/fast/1017438"
+    category: "topical"
+  - label: "Redemption"
+    scheme: "FAST"
+    identifier: "fst01092243"
+    uri: "https://id.worldcat.org/fast/1092243"
+    category: "topical"
+  - label: "Time Philosophy"
+    scheme: "FAST"
+    identifier: "fst01151053"
+    uri: "https://id.worldcat.org/fast/1151053"
+    category: "topical"
 ---

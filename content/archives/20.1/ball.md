@@ -19,4 +19,10 @@ issue: 1
 season: winter
 year: 2024
 pages: 1-13
+subjects:
+  - label: "Public sphere"
+    scheme: "FAST"
+    identifier: "fst02010609"
+    uri: "https://id.worldcat.org/fast/2010609"
+    category: "topical"
 ---

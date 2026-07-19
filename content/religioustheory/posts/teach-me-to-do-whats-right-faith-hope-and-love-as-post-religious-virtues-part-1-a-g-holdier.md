@@ -20,6 +20,17 @@ tags:
   - post-religious
   - religious
   - cardinal
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religion and literature"
+    scheme: "FAST"
+    identifier: "fst01093839"
+    uri: "https://id.worldcat.org/fast/1093839"
+    category: "topical"
 ---
 ## The following is the first of a two-part series.
 

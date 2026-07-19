@@ -19,6 +19,27 @@ tags:
   - religious
   - spirituality
   - experience
+subjects:
+  - label: "Buddhism"
+    scheme: "FAST"
+    identifier: "fst00840028"
+    uri: "https://id.worldcat.org/fast/840028"
+    category: "topical"
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---
 **![buddhabrot](/images/2016/07/buddhabrot.webp)Osto, Douglas. *Altered States: Buddhism and Psychedelic Spirituality in America.* New York: Columbia University Press, 2016. ISNB 10:** **0231177305 Hardcover, e-book. 328 pages.**
 

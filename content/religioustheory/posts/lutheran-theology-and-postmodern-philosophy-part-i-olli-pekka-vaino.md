@@ -20,6 +20,22 @@ tags:
   - metaphysics
   - theological
   - philosophical
+subjects:
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first installment of a two-part series.
 
@@ -91,7 +107,7 @@ Furthermore, speaking about God effectively means taking God captive. This claim
 
 There are, however, ways within postmodern philosophy to allow one to speak about metaphysics, but often this is just a way of referring to not-world, of which we can speak only be denying that it is something ultimately different from the world.[^18]
 
-Lutheran theologians, since Luther himself, have been suspicious of grand metaphysical projects. Already in *The* *Heidelberg Disputation* (1519), Luther launches a critique of metaphysical theology that tries to climb a ladder from this world to transcendence: “That person does not deserve to be called a theologian who looks upon the invisible things of God as though they were clearly perceptible in those things which have actually happened \[Rom. 1.20\].” Luther’s “Theology of the Cross” is often seen as a critique of metaphysics but this is clearly an overstatement.[^19] Instead, Luther offers a critique of particular kind of metaphysics that does not proceed from a properly Biblical basis (this was already discussed in relation to language).
+Lutheran theologians, since Luther himself, have been suspicious of grand metaphysical projects. Already in *The* *Heidelberg Disputation* (1519), Luther launches a critique of metaphysical theology that tries to climb a ladder from this world to transcendence: “That person does not deserve to be called a theologian who looks upon the invisible things of God as though they were clearly perceptible in those things which have actually happened &#91;Rom. 1.20&#93;.” Luther’s “Theology of the Cross” is often seen as a critique of metaphysics but this is clearly an overstatement.[^19] Instead, Luther offers a critique of particular kind of metaphysics that does not proceed from a properly Biblical basis (this was already discussed in relation to language).
 
 This enterprise was intensified in later Lutheran generations, especially after Kant.[^20] Someone could even claim that Lutheranism produced postmodern philosophy or at least created a seed-bed where it could grow.[^21] These claims are, to some extent, warranted although Luther and other magisterial reformers would quite likely abhor many things that are attributed to them. Even if there has been an anti-metaphysical trend in Lutheran theology and Luther scholarship, I take that this turn to be ultimately a wrong one.
 

@@ -36,4 +36,30 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Art"
+    scheme: "FAST"
+    identifier: "fst00815177"
+    uri: "https://id.worldcat.org/fast/815177"
+    category: "topical"
+  - label: "Bacon"
+    scheme: "FAST"
+    identifier: "fst00825145"
+    uri: "https://id.worldcat.org/fast/825145"
+    category: "topical"
+  - label: "Human figure in art"
+    scheme: "FAST"
+    identifier: "fst01896063"
+    uri: "https://id.worldcat.org/fast/1896063"
+    category: "topical"
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---

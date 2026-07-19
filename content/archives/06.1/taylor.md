@@ -20,4 +20,15 @@ issue: 1
 season: winter
 year: 2004
 pages:
+subjects:
+  - label: "Everyman's library. Theology & philosophy"
+    scheme: "FAST"
+    identifier: "fst01937862"
+    uri: "https://id.worldcat.org/fast/1937862"
+    category: "title"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
 ---

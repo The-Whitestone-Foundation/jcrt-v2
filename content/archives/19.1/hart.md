@@ -18,4 +18,15 @@ issue: 1
 season: winter
 year: 2020
 pages: 216-218
+subjects:
+  - label: "Hermeneutics"
+    scheme: "FAST"
+    identifier: "fst00955492"
+    uri: "https://id.worldcat.org/fast/955492"
+    category: "topical"
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
 ---

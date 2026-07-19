@@ -19,4 +19,15 @@ issue: 2
 season: spring
 year: 2018
 pages: 268-280
+subjects:
+  - label: "Religious life"
+    scheme: "FAST"
+    identifier: "fst01094112"
+    uri: "https://id.worldcat.org/fast/1094112"
+    category: "topical"
+  - label: "Soul"
+    scheme: "FAST"
+    identifier: "fst01432098"
+    uri: "https://id.worldcat.org/fast/1432098"
+    category: "topical"
 ---

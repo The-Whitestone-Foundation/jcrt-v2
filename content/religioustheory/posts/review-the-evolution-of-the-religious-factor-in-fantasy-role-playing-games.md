@@ -20,6 +20,27 @@ tags:
   - religion
   - panic
   - hegemony
+subjects:
+  - label: "Hegemony"
+    scheme: "FAST"
+    identifier: "fst01202283"
+    uri: "https://id.worldcat.org/fast/1202283"
+    category: "topical"
+  - label: "Panic"
+    scheme: "FAST"
+    identifier: "fst01052112"
+    uri: "https://id.worldcat.org/fast/1052112"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Laycock, Joseph P.  *Dangerous Games: What the Moral Panic over Role-Playing Games Says about Play, Religion, and Imagined Worlds*. Berkeley CA: University of California Press, 2015.  ISBN-10: 0520284925.  Hardback, paperback, e-book.  368 pp.**
 

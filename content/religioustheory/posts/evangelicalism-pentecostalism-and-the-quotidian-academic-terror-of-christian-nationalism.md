@@ -23,6 +23,32 @@ tags:
   - religion
   - religious
   - politics
+subjects:
+  - label: "Nationalism"
+    scheme: "FAST"
+    identifier: "fst01033832"
+    uri: "https://id.worldcat.org/fast/1033832"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
 ---
 *The following essay appeared recently in* [The New Polis](http://thenewpolis.com)*. It is republished here because of its timeliness and importance.*
 

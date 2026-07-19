@@ -17,6 +17,12 @@ tags:
   - social
   - economic
   - ecological
+subjects:
+  - label: "Environmental ethics"
+    scheme: "FAST"
+    identifier: "fst00912979"
+    uri: "https://id.worldcat.org/fast/912979"
+    category: "topical"
 ---
 ## Introduction
 

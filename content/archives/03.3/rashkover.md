@@ -8,13 +8,13 @@ author: "Randi Rashkover"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 04
 year: 2002
 ---
 Rashkover - The Semiotics of Embodiment - JCRT 3.3 
 
-# The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations
+## The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations
 
 Randi Rashkover  
 York College of Pennsylvania
@@ -35,17 +35,17 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
 
 ### The Torah and the Nearness of the Divine Word
 
-     > Rabbi Joshua b. Levi said: When Moses ascended on high, the ministering angels spoke before the Holy One, blessed be He, 'Sovereign of the universe! What business has one born of woman among us?' He answered them, 'He has come to receive the Torah.' They said to Him, 'That secret treasure . . . Thous desirest to give to flesh and blood! . . . The Holy One, blessed be He, said to Moses, 'Return them an answer.' . . . He \[then\] spoke before Him, 'Sovereign of the universe! The Torah which Thou givest me, what is written therein? I am the Lord thy God, who brought thee out of the land of Egypt (Exod. 20:2). 'Said he to them \[the angels\], 'Did you go down to Egypt? Were you enslaved to Pharoah?, etc. Again what is written therein? Remember the Sabbath day, to keep it holy (Exod. 20:8). Do you then perform work that you need to rest?, etc. Again, what is written therein? Honor thy father and thy mother (Exod. 20:12). Do you have any fathers and mothers? . . . Straight away they conceded to Him." [^23]
+> Rabbi Joshua b. Levi said: When Moses ascended on high, the ministering angels spoke before the Holy One, blessed be He, 'Sovereign of the universe! What business has one born of woman among us?' He answered them, 'He has come to receive the Torah.' They said to Him, 'That secret treasure . . . Thous desirest to give to flesh and blood! . . . The Holy One, blessed be He, said to Moses, 'Return them an answer.' . . . He &#91;then&#93; spoke before Him, 'Sovereign of the universe! The Torah which Thou givest me, what is written therein? I am the Lord thy God, who brought thee out of the land of Egypt (Exod. 20:2). 'Said he to them &#91;the angels&#93;, 'Did you go down to Egypt? Were you enslaved to Pharoah?, etc. Again what is written therein? Remember the Sabbath day, to keep it holy (Exod. 20:8). Do you then perform work that you need to rest?, etc. Again, what is written therein? Honor thy father and thy mother (Exod. 20:12). Do you have any fathers and mothers? . . . Straight away they conceded to Him." [^23]
 
      Responding to the story Joseph Soloveitchik says, "God does not wish to hand over His Torah to the ministering angels. . . he handed over His Torah to Moses, who brought it down to the earth and caused it to dwell among human beings . . ."[^24] Elliot Wolfson has done much to highlight the incarnational themes within the mystical tradition and speaks of "the textualization of God ' that is, God's becoming concretely manifest in the form of the Torah."[^25]
 
-     > By going back to the Hebrew text from the translations . . . \[one discovers\] the strange or mysterious ambiguity or polysemy authorized by the Hebrew syntax . . . words coexist rather than immediately being coordinated or subordinated with and to one another . . . returning to the Hebrew text . . . makes it more difficult than one thinks to decide on the ultimate intention of a verse . . . there is no one verse, not one word of the Old Testament - . . . .read by way of revelation that does not half-open to an entire world . . . .[^29]
+> By going back to the Hebrew text from the translations . . . &#91;one discovers&#93; the strange or mysterious ambiguity or polysemy authorized by the Hebrew syntax . . . words coexist rather than immediately being coordinated or subordinated with and to one another . . . returning to the Hebrew text . . . makes it more difficult than one thinks to decide on the ultimate intention of a verse . . . there is no one verse, not one word of the Old Testament - . . . .read by way of revelation that does not half-open to an entire world . . . .[^29]
 
      Moreover, this plurivocal character acts as an invitation, a mandate, if you will for readers to participate in the creativity of the Torah. The Torah's plurivocity translates into its interpretability and as Levinas says, "this invitation to seek and decipher, to Midrash, already constitutes the reader's participation in the Revelation, in Scripture. The reader, in his own fashion, is a scribe."[^30] Rabbinic hermeneutics is eucharistic and through it "we get a first indication of what we might call the 'status' of the Revelation: its coming from elsewhere, from outside, and simultaneously dwelling in the person who receives it."[^31]
 
 ### The Semiotics of Torah and Desire
 
-     > Scriptural Reasoning therefore emerges out of the dialectic of modernity as the expression of a new, creative activity. . . . One may begin to see a coherence among the use of the following chain of tropes: a world to come, which is the product of resurrection; the Oral Torah, in which the written Torah lives its resurrected life; recreation, which is the way in which this second life is created; and, finally the "revealing of the divine presence," which -- to be distinguished from some aboriginal divine voice ' God speaks again and there is new life. . . . \[B\]y listening to the voice of our Creator speaking through the words of scripture we have received through the past traditions that have interpreted them, through the sufferings that have engendered the end of modernity, and through finally the hope that must move us if we are at all to move.[^38]
+> Scriptural Reasoning therefore emerges out of the dialectic of modernity as the expression of a new, creative activity. . . . One may begin to see a coherence among the use of the following chain of tropes: a world to come, which is the product of resurrection; the Oral Torah, in which the written Torah lives its resurrected life; recreation, which is the way in which this second life is created; and, finally the "revealing of the divine presence," which -- to be distinguished from some aboriginal divine voice ' God speaks again and there is new life. . . . By listening to the voice of our Creator speaking through the words of scripture we have received through the past traditions that have interpreted them, through the sufferings that have engendered the end of modernity, and through finally the hope that must move us if we are at all to move.[^38]
 
 ### Semiotics of Embodiment and Jewish-Christian Relations
 
@@ -57,13 +57,9 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
 
 > **Randi Rashkover** received her doctorate from the University of Virginia and is an assistant professor of religious studies at York College of Pennsylvania.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Randi Rashkover. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Randi Rashkover. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/rashkover](https://jcrt.org/archives/03.3/rashkover/)
 
@@ -93,7 +89,7 @@ Updated 07/28/21.
 
 [^r8] "Displaced Body," p. 167.
 
-[^9]:  For Ward, Jesus' corporeal displacement has theological significance. As the Word of God, Jesus' "flesh \[is\] of complex theological designation."[^5] That is, Jesus' semiotic displacements mirror the displacements that transpire within the Word of God as the Word of God relates trinitarianly to itself and to the world it creates. Jesus' corporeal displacements engender a sense of the holy for those who bear witness to them. In its presence, "we listen, we receive, we worship, we give thanks."[^6]
+[^9]:  For Ward, Jesus' corporeal displacement has theological significance. As the Word of God, Jesus' "flesh &#91;is&#93; of complex theological designation."[^5] That is, Jesus' semiotic displacements mirror the displacements that transpire within the Word of God as the Word of God relates trinitarianly to itself and to the world it creates. Jesus' corporeal displacements engender a sense of the holy for those who bear witness to them. In its presence, "we listen, we receive, we worship, we give thanks."[^6]
 
 [^r9] Ibid., p. 170.
 
@@ -129,7 +125,7 @@ Updated 07/28/21.
 
 [^r18] Ibid.
 
-[^19]:  Nonetheless, receiving his body, "we are attracted to the man and beyond him . . . . the erotic economy propels our desire towards what lies beyond and yet does so in and through this man's particular body."[^13] Attracted to Jesus' body, observers' desire, though real, is transformed. The gift of Jesus' semiotic displacement "breaks upon them as one situated within another economy . . ."[^14] - that is, witnesses do not receive an object that they pry from its owner and take for themselves. They receive a sign already displaced - a sign, generously and consciously given - a sign whose source maintains no claim to possession. Consequently, "\[t\]his transfigurability and, its subsequent beauty and goodness, is not something \[we\] lack and will now strive to attain. Jesus cannot now become an ego-ideal."[^15] Instead, witnesses receive Jesus' body as a gift that testifies to the renewability of the created order they have inherited and will continue to inherit in the future. Desire is not denied or nullified. It is re-situated amidst plenitude and grace and merges with gratitude, worship and joy.
+[^19]:  Nonetheless, receiving his body, "we are attracted to the man and beyond him . . . . the erotic economy propels our desire towards what lies beyond and yet does so in and through this man's particular body."[^13] Attracted to Jesus' body, observers' desire, though real, is transformed. The gift of Jesus' semiotic displacement "breaks upon them as one situated within another economy . . ."[^14] - that is, witnesses do not receive an object that they pry from its owner and take for themselves. They receive a sign already displaced - a sign, generously and consciously given - a sign whose source maintains no claim to possession. Consequently, "this transfigurability and, its subsequent beauty and goodness, is not something &#91;we&#93; lack and will now strive to attain. Jesus cannot now become an ego-ideal."[^15] Instead, witnesses receive Jesus' body as a gift that testifies to the renewability of the created order they have inherited and will continue to inherit in the future. Desire is not denied or nullified. It is re-situated amidst plenitude and grace and merges with gratitude, worship and joy.
 
 [^r19] Ibid., 163.
 
@@ -195,7 +191,7 @@ Updated 07/28/21.
 
 [^r36] See David Weiss Halivni, _Revelation Restored: Divine Writ and Critical Responses_ (Westview Press, 1997).
 
-[^37]:  A similar dialectical moment appears within rabbinic semiotic activity. If Jesus is the man whose carnality is continually de-stabilized and re-created through the semiotics of receiving and giving signs, so the Torah is the concrete text whose meaning is always received from a prior interpretation and offered to a future interpretation. Christians are privy to and thereby seized by this semiotics when reading the gospel accounts of Jesus while Jews meet this dialectical moment in studying the conversations of rabbinic sages as presented in rabbinic texts. As Robert Gibbs' work has shown, a close analysis of rabbinic texts reveals that while the rabbis described in the texts enter a conversation out of a desire to justify themselves or their own particular claim, their semiotic behavior eventually indicates their awareness of the need to justify their claim for the future reader or interpreter of the claim, that is, for the other. Readers of rabbinic texts become privy to this semiotic behavior, both by studying rabbinic conversations as well as by becoming involved in the conversations the texts offer when those conversations offer attractive points of discussion. In rabbinic exegesis, Gibbs says, "I 'use' the text to interpret my world . . . \[but\] the relation to the text is always open to another reader, to another intepreter . . ."[^35] In other words, I go to the text to get something but so involved, realize that my reading is for another. Like Christian witness, rabbinic pragmatics includes this dialectical moment of challenge or command. And, like Christian hermeneutics, the text commands me not because it issues a perfect claim but because it is as David Weiss Halivni says, "maculate"[^36] ' that is, it is incomplete at any given moment and therefore implies and requires future interpretations. No witness or claim to interpretation is invulnerable to the creative life of the Word as it will continue through future readers.
+[^37]:  A similar dialectical moment appears within rabbinic semiotic activity. If Jesus is the man whose carnality is continually de-stabilized and re-created through the semiotics of receiving and giving signs, so the Torah is the concrete text whose meaning is always received from a prior interpretation and offered to a future interpretation. Christians are privy to and thereby seized by this semiotics when reading the gospel accounts of Jesus while Jews meet this dialectical moment in studying the conversations of rabbinic sages as presented in rabbinic texts. As Robert Gibbs' work has shown, a close analysis of rabbinic texts reveals that while the rabbis described in the texts enter a conversation out of a desire to justify themselves or their own particular claim, their semiotic behavior eventually indicates their awareness of the need to justify their claim for the future reader or interpreter of the claim, that is, for the other. Readers of rabbinic texts become privy to this semiotic behavior, both by studying rabbinic conversations as well as by becoming involved in the conversations the texts offer when those conversations offer attractive points of discussion. In rabbinic exegesis, Gibbs says, "I 'use' the text to interpret my world . . . &#91;but&#93; the relation to the text is always open to another reader, to another intepreter . . ."[^35] In other words, I go to the text to get something but so involved, realize that my reading is for another. Like Christian witness, rabbinic pragmatics includes this dialectical moment of challenge or command. And, like Christian hermeneutics, the text commands me not because it issues a perfect claim but because it is as David Weiss Halivni says, "maculate"[^36] ' that is, it is incomplete at any given moment and therefore implies and requires future interpretations. No witness or claim to interpretation is invulnerable to the creative life of the Word as it will continue through future readers.
 
 [^r37] Gillian Rose often launched this critique of contemporary Jewish thought. See Gillian Rose, _The Broken Middle: Out of Our Ancient Society_, (Blackwell,1992). Nonetheless, Rose could not consider a number of thinkers whose work, written after her death, focuses on the relationship between desire and ethics e.g., David Novak, Miriam Peskowitz, Rachel Adler, et. al.
 

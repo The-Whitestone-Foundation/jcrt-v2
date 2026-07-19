@@ -23,6 +23,17 @@ tags:
   - hermeneutic
   - ethical
   - theological
+subjects:
+  - label: "Possibility"
+    scheme: "FAST"
+    identifier: "fst01072695"
+    uri: "https://id.worldcat.org/fast/1072695"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first installment of a two-part series.
 
@@ -62,7 +73,7 @@ When and insofar as humans partake in the Kingdom of the Possible (that is, part
 
 Kearney goes on to say, “every moment we are actualizing the Kingdom or not-actualizing the Kingdom.”[^12] His sense of the divine, then, is that it unfolds in the possibilities of the ordinary activities of daily life, and through the hope in the possibilities of the future.  There is no guarantee of the existence of God’s being, however, because of the human capacity to reject the messianic possibilities. The existence of God’s being in the world is a promise that may become actualized, depending on the human participation in that promise.
 
-Thus, Kearney argues that the Kingdom of God – and in fact, God’s very being- is an eternal promise. In this sense it is imbued with a transcendent quality. The transcendent aspect of divinity, then, “is described \[by a variety of biblical texts\] as a possibilizing of divine love and logos in the order of human history where it would otherwise have been impossible. In other words, the divine reveals itself here as the possibility of the Kingdom.”[^13]
+Thus, Kearney argues that the Kingdom of God – and in fact, God’s very being- is an eternal promise. In this sense it is imbued with a transcendent quality. The transcendent aspect of divinity, then, “is described &#91;by a variety of biblical texts&#93; as a possibilizing of divine love and logos in the order of human history where it would otherwise have been impossible. In other words, the divine reveals itself here as the possibility of the Kingdom.”[^13]
 
 As eternal, the Kingdom defies containment in chronology.  It both is and is yet to come.  He describes God as saying, “I will show up as promised, but I cannot *be* in time and history. I cannot become fully embodied in the flesh of the world, unless you show up and answer my call ‘Where are you?’ with the response ‘Here I am.’”[^14]
 
@@ -76,7 +87,7 @@ Thus Preus’ argument demonstrates that, for Luther, God speaks to humanity thr
 
 Yet Luther goes even further in tying the promise of God’s action in the world to the faithful human response.  In *The Babylonian Captivity of the Church,* for instance, Luther writes,
 
-> For God does not deal, nor has he ever dealt, with man otherwise than through a Word of promise. …We in turn cannot deal with God otherwise than through faith in the Word of his promise. He does not desire works, nor has he need of them; … But God has need of this: that we consider him faithful in his promises \[Heb. 10:23\], and patiently persist in this belief … \[P\]romise and faith must necessarily go together. For without the promise there is nothing to be believed; while without faith the promise is useless, since it is established and fulfilled through faith.[^18]
+> For God does not deal, nor has he ever dealt, with man otherwise than through a Word of promise. …We in turn cannot deal with God otherwise than through faith in the Word of his promise. He does not desire works, nor has he need of them; … But God has need of this: that we consider him faithful in his promises &#91;Heb. 10:23&#93;, and patiently persist in this belief … Promise and faith must necessarily go together. For without the promise there is nothing to be believed; while without faith the promise is useless, since it is established and fulfilled through faith.[^18]
 
 Faith here is more than simply intellectual assent, but is rather a participation in the promises of God. Faith, for Luther, is the basis of hope and love; it is thus the basis for the possibility of participation in the divine promise. The category of promise and faithful response in a sense overcomes the dichotomy of signifier and referent, and permits an active participation in the gap between them.
 
@@ -94,7 +105,7 @@ Kearney points to the importance of the face in the Transfiguration scene, writi
 
 In this opening of his face to the possibilities of the God of promise, Kearney calls Jesus as Christ the *prosopon par excellence*.[^20] Jeffrey Bloechl, another philosopher of religion, explains that for Kearney, “It is in and through Jesus…that we may catch sight of the spiritual dimension of a humanity…irreducible to physical and material concerns – the dimension that opens each of us to his or her own future beyond the limits of this world.”[^21]
 
-Christ in this sense is a paradigmatically deep opening of the person to the *persona* and the potentialities lying therein. Again, Kearney argues, “Christ \[is\] the possibility of all humans becoming ‘sons of God’ – that is, by being transfigured into their own unique *personas*.” Christ is related to the historical figure of Jesus, but exceeds that particularity as a promise of potential, as “a *way* not a terminus, an *eikon* not a fundamentalist fact, a *figure* of the end but not the end itself.”[^22]
+Christ in this sense is a paradigmatically deep opening of the person to the *persona* and the potentialities lying therein. Again, Kearney argues, “Christ &#91;is&#93; the possibility of all humans becoming ‘sons of God’ – that is, by being transfigured into their own unique *personas*.” Christ is related to the historical figure of Jesus, but exceeds that particularity as a promise of potential, as “a *way* not a terminus, an *eikon* not a fundamentalist fact, a *figure* of the end but not the end itself.”[^22]
 
 Thus, for Kearney, Christ seems to be what empowers humans to be open to the uniqueness of their own *persona,* while Jesus’ unique *persona* is encompassed in Christ. Yet Kearney seems to reserve the title of Christ for Jesus’ openness to his own *persona*.
 

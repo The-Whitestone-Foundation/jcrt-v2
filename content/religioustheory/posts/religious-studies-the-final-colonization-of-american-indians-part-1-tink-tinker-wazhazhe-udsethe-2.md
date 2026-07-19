@@ -20,6 +20,17 @@ tags:
   - religion
   - academic
   - community
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/religious-studies-the-final-colonization-of-american-indians-part-1-tink-tinker-wazhazhe-udsethe/).*
 

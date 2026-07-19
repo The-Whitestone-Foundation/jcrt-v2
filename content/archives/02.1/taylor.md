@@ -8,13 +8,13 @@ author: "Christopher M Taylor; Christopher M Taylor"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2000
 ---
 Taylor - Art Exhibit - JCRT 2.1 
 
-# Artist's Statement
+## Artist's Statement
 
 Christopher M. Taylor
 
@@ -40,11 +40,7 @@ My slide projection pieces each consist in the projection of two separate slides
 
 > **Christopher M. Taylor** is an artist who lives in Columbus, OH and teaches in the Department of Art at Ohio State University. Born in Norwalk, CN and raised in Somers, NY, he received a BFA in painting from SUNY Purchase in 1992 and an MFA in painting from Ohio State University in 1996. His art work has been exhibited in Berkeley, CA; Columbus, OH; New York City, NY; and Berlin, Germany.
 
-* * *
-
-> 
-
-* * *
+***
 
 2000 Christopher M. Taylor. All rights reserved.  
 Updated 07/28/21.   

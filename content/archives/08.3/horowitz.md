@@ -27,4 +27,25 @@ issue: 3
 season: fall
 year: 2007
 pages:
+subjects:
+  - label: "Antisemitism"
+    scheme: "FAST"
+    identifier: "fst00810769"
+    uri: "https://id.worldcat.org/fast/810769"
+    category: "topical"
+  - label: "Religion and drama"
+    scheme: "FAST"
+    identifier: "fst01093827"
+    uri: "https://id.worldcat.org/fast/1093827"
+    category: "topical"
+  - label: "Theater"
+    scheme: "FAST"
+    identifier: "fst01149217"
+    uri: "https://id.worldcat.org/fast/1149217"
+    category: "topical"
+  - label: "Theater and society"
+    scheme: "FAST"
+    identifier: "fst01149315"
+    uri: "https://id.worldcat.org/fast/1149315"
+    category: "topical"
 ---

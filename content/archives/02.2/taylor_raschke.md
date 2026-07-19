@@ -8,13 +8,13 @@ author: "Mark C Taylor; Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 02
 year: 2001
 ---
 Taylor & Raschke - About About Religion - JCRT 2.2 
 
-# About _About Religion_: A Conversation with Mark C. Taylor
+## About _About Religion_: A Conversation with Mark C. Taylor
 
 Mark C. Taylor  
 Williams College
@@ -32,13 +32,9 @@ _Mark C. Taylor is widely known for his reworking of the theological enterprise 
 > 
 > **Carl A. Raschke** is Professor of Religious Studies at the University of Denver. He is the author of many books and hundreds of articles on subjects ranging from postmodern religious thought to higher education and the digital revolution. He is the senior editor of the _Journal for Cultural and Religious Theory_.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/taylor\_raschke](https://jcrt.org/archives/02.2/taylor\_raschke/)
 
@@ -112,7 +108,7 @@ Updated 07/28/21.
 
 [^37]:  **TAYLOR:** Let me approach this question or cluster of questions by distinguishing the issue of religious studies as a field and/or discipline from the issue of the function of the sacred within a topology of network culture. While I agree with your criticism of the discipline of religious studies, I'm not sure other so-called disciplines are any better off. Does literature, for example, have "an identifiable methodology that engenders its subject matter"? Indeed, the way in which the notion of the literary works in much recent criticism - I'm thinking especially of post-structuralism - is very similar to the way in which the religious functions in other contexts. Rather than trying to identify the distinctive domains of different disciplines, I think it is more fruitful to consider areas of inquiry as mobile sites of intersecting lines of investigation. I have no idea where religion ends and philosophy begins, or where art ends and religion begins. They intersect, overlap, interrelated in ways that are unstable and constantly morphing.
 
-[^38]:  As a point of transition to the question of the sacred, I would rewrite your comment "the 'religious' \[is\] a sort of episodic signal in the interpretation of culture on the whole" to read "the 'religious' is a sort of episodic noise in the interpretation of culture as a whole." It is a question of noise not of signal. That is to say, the sacred interrupts and disrupts lines of communication. It is important to realize that one of the most important systems of communication that the sacred interupts and disrupts is religion. This disruption can have several results: the system can repress it; the system can reconfigure itself to take account of the disruption; or the system can collapse. Noise is not merely destructive because it can lead to a recasting of the system or interpretive framework that is more complex and more adequate. In this sense, this process gets us somewhere but there is no antecedent teleology at work. Since noise is aleatory, the transformation it occasions is, in important ways, a matter of chance.
+[^38]:  As a point of transition to the question of the sacred, I would rewrite your comment "the 'religious' &#91;is&#93; a sort of episodic signal in the interpretation of culture on the whole" to read "the 'religious' is a sort of episodic noise in the interpretation of culture as a whole." It is a question of noise not of signal. That is to say, the sacred interrupts and disrupts lines of communication. It is important to realize that one of the most important systems of communication that the sacred interupts and disrupts is religion. This disruption can have several results: the system can repress it; the system can reconfigure itself to take account of the disruption; or the system can collapse. Noise is not merely destructive because it can lead to a recasting of the system or interpretive framework that is more complex and more adequate. In this sense, this process gets us somewhere but there is no antecedent teleology at work. Since noise is aleatory, the transformation it occasions is, in important ways, a matter of chance.
 
 [^39]:  **RASCHKE:** The signal/noise paronymy you lay out is intriguing, but I am not persuaded that you can treat of the "sacred" (on anybody's terms) simply in terms of the disruption of the flow of information. If the sacred is merely "noise," how does one account for the naming of sacred "irruptions"? Hierophany implies hieronymy. It would seem to me that some kind of semiosis is involved, and that necessarily takes us beyond "noise," if one is going to invoke information theory. I agree that the sacred disrupts the signifying process we call religion. Theologically speaking, that trenches upon what in the past has been called "revelation." Or we can of course say "hierophany," if we need to recur to Eliadisms. I am curious why you don't introduce here some version of the "paralectic." That might suffice to finish out the paronym.
 

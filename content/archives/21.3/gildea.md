@@ -19,11 +19,27 @@ keywords:
   - derrida
   - michel
   - biopolitics-sociobiology
-pdf:
+pdf: Bradley3.pdf
 sort_id:
 volume: 21
 issue: 3
 season: fall
 year: 2022
 pages: 418-421
+subjects:
+  - label: "Biopolitics"
+    scheme: "FAST"
+    identifier: "fst00832668"
+    uri: "https://id.worldcat.org/fast/832668"
+    category: "topical"
+  - label: "Nothing (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01039602"
+    uri: "https://id.worldcat.org/fast/1039602"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---

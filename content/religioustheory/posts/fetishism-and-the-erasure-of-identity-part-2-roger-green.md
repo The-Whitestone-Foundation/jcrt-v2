@@ -18,6 +18,32 @@ tags:
   - fetishism
   - anthropology
   - history
+subjects:
+  - label: "Anthropology"
+    scheme: "FAST"
+    identifier: "fst00810196"
+    uri: "https://id.worldcat.org/fast/810196"
+    category: "topical"
+  - label: "Anthropology of religion"
+    scheme: "FAST"
+    identifier: "fst01738842"
+    uri: "https://id.worldcat.org/fast/1738842"
+    category: "topical"
+  - label: "Fetishism"
+    scheme: "FAST"
+    identifier: "fst00923418"
+    uri: "https://id.worldcat.org/fast/923418"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second of a two-part series.  The initial installment can be found [here]( /religioustheory/posts/fetishism-and-the-erasure-of-identity-part-1-roger-green/).*
 
@@ -29,13 +55,13 @@ Fick notes that most sources point to a particular voodoo ceremony performed a w
 
 Fick’s use of “still fethistic” stands out to me, like Hegel’s conception of the fetish existing in the moment just preceding History.  When we compare Fick’s work with Rachel Harding’s work on alternative spaces of Blackness in Brazil and Aisha M. Beliso-De Jesús’s work on Cuba in *Electric Santería*, it is easy to see the persistence of spiritual revolt and the use of “dark forces” against oppression similar to what Taussig’s work describes.
 
-For example, Beliso-De Jesús argues that in Cuba, “Afro-Monteceros &hellip; are produced through a complex historical interaction between self and cityscape.”  Much like gradients between Hoodoo, Voodoo and Santería in the U.S., which move toward more intense uses of “dark magic,” Mantanzas Santería “darkens” with its geontological relationship to slave resistance and revolt.[^4]  Additionally, she continues, “\[o\]ne might say that ‘trance’ of copresences renders Santería’s transnationalism as possessed by multiple interconnected assemblages of power.”[^5]
+For example, Beliso-De Jesús argues that in Cuba, “Afro-Monteceros &hellip; are produced through a complex historical interaction between self and cityscape.”  Much like gradients between Hoodoo, Voodoo and Santería in the U.S., which move toward more intense uses of “dark magic,” Mantanzas Santería “darkens” with its geontological relationship to slave resistance and revolt.[^4]  Additionally, she continues, “one might say that ‘trance’ of copresences renders Santería’s transnationalism as possessed by multiple interconnected assemblages of power.”[^5]
 
 Beliso-De Jesús’s term, ‘copresencing,’ offers another way of conceiving fetishism in the trajectory of Deleuze to which Pietz pointed us.  Beliso-De Jesús argues for attention to copresences, not only in the sense that an anthropologist ought to leave room for the phenomenological experiences of devotees who perform rituals to question the dominance of rationality and objectivity, “but also to emphasize how these spheres are interrelated.”[^6]  She goes on:
 
 Among the spirits of the dead slaves, Santería priests, and ethnographers, what has been written also haunts us.  Reading Santería copresence through ethnographic diffraction, then, might allow us to see that anthropology is also constructed through *muertos*.  Indeed, even the spirits of anthropology might be conceived of as possessing us similar to the electrifying oricha who mount the bodies of practitioners.[^7]
 
-Copresences invoke the simultaneity of the deathspace of the past, of which academic work plays a part.  Beliso-De Jesús’s method in support of this thesis relies on anthropology “of the body and phenomenological theories of race and sexuality \[which\] are helpful in decentering particular forms of Cartesian consciousness by shifting elemental awareness and attending to bodies as primary locus of experience.”[^8]
+Copresences invoke the simultaneity of the deathspace of the past, of which academic work plays a part.  Beliso-De Jesús’s method in support of this thesis relies on anthropology “of the body and phenomenological theories of race and sexuality &#91;which&#93; are helpful in decentering particular forms of Cartesian consciousness by shifting elemental awareness and attending to bodies as primary locus of experience.”[^8]
 
 When combined with the historical persistence of the fetish in Fick and Harding, we can resist any facile claims that the attention Beliso-De-Jesús gives to phenomenological method is “merely subjective.”  It is rather like Indigenous claims to the persistence of tradition in the face of claims of essentialism and the masked persistence of mechanisms attempting the erasure of indigeneity.
 
@@ -61,7 +87,7 @@ The malady, the evil-eye of the inversion impulse, the *perversion of the revolt
 
 In Mann’s description of Turtle Island cosmology, sustaining balance between blood and breath is central, rather than a fetish of state power or ‘religion’ as itself a fetish-concept.  To the extent that current ecological millennialism attaches itself to Indigenous movements, such as those against the Dakota Access Pipeline, an Indigenous perspective might claim that “Western” activists need to divest in eurochristian trappings that inform “revolutionary” and millenarian sensibilities.  It is fundamentally not about the fetish, but the *fascination* with the fetish continues to tint the perspective of those who gaze upon Indigeneity, especially in terms of spirituality and religion.
 
-There must, in other words, be another way of approaching being in the world than Hegel’s *Aufhebung*, either in its sense of uplifting – what Heidegger might later on call “enframing” \[*Gestell*\] – or in its sense of sublation or negation.  This other way is best addressed (for the moment) in terms of what Eduardo Viveiros de Castro calls Amerindian Perspectivism.
+There must, in other words, be another way of approaching being in the world than Hegel’s *Aufhebung*, either in its sense of uplifting – what Heidegger might later on call “enframing” &#91;*Gestell*&#93; – or in its sense of sublation or negation.  This other way is best addressed (for the moment) in terms of what Eduardo Viveiros de Castro calls Amerindian Perspectivism.
 
 According to Viveiros de Castro, “perspectivism supposes a constant epistemology and variable ontologies, the same representations and other objects, a single meaning and multiple referents.”[^16]  In contrast to the accepted language of multiculturalism, Perspectivism assumes a static ontology with varying epistemologies, which downplays embodied notions of difference.  As Viveiros de Castro explains:
 
@@ -69,7 +95,7 @@ According to Viveiros de Castro, “perspectivism supposes a constant epistemolo
 
 This produces a perspective that is mono-cultural but “multinatural”:
 
-> Such a difference of perspective – not a plurality of views of a single world, but a single view of different worlds – cannot derive the soul, since the latter is the ground of being. Rather, such difference is located in the bodily difference between species, for the body and its affections \[. . .\] is the site and instrument of ontological differentiation and referential disjunction.[^18]
+> Such a difference of perspective – not a plurality of views of a single world, but a single view of different worlds – cannot derive the soul, since the latter is the ground of being. Rather, such difference is located in the bodily difference between species, for the body and its affections &#91;. . .&#93; is the site and instrument of ontological differentiation and referential disjunction.[^18]
 
 Rather than occupying a “zero degree,” a liminal space between subject and object, conscious and unconscious, immanent and transcendent; perspectivism advances an interspecies recognition of personhood.[^19]  This does not mean that Amerindians are somehow incapable of noticing differences in species.  This is emphasized by Viveiros de Castro’s description of the work of the so-called “shaman”:[^20]
 
@@ -81,7 +107,7 @@ One important place to note the premodern history of the term is in the developm
 
 In contrast to Manicheanism, Augustine argued that the soul was created *ex nihilo* by God and therefore was neither of the same substance as God, nor was it of the same substance as the body: “in the Christian worldview, plants and animals do not have immortal souls: being animate, they must have souls, but the substance of these souls is corporeal rather than spiritual.[^23]  Viveiros de Castro’s conception of Perspectivism, while certainly intriguing, needs to be read critically with this Christian metaphysical history in mind.
 
-Pietz goes on to note that the original conception of idolatry had to do with religious practice as opposed to inner faith.  *Superstitio*, on the other hand, dealt with “improper religious attitudes.”[^24] *Religio* “referred to a person’s sense of how rightly to achieve a true bond with divine power, the fundamental definition of *superstitio*” and thus Lactantius noted, “*religio, veri cultus est, superstitio falsi* (“religion is the cult of the true \[God\], superstition that of the false”).  Pietz also notes that the use of relics and saints were accepted without being considered idolatrous.
+Pietz goes on to note that the original conception of idolatry had to do with religious practice as opposed to inner faith.  *Superstitio*, on the other hand, dealt with “improper religious attitudes.”[^24] *Religio* “referred to a person’s sense of how rightly to achieve a true bond with divine power, the fundamental definition of *superstitio*” and thus Lactantius noted, “*religio, veri cultus est, superstitio falsi* (“religion is the cult of the true &#91;God&#93;, superstition that of the false”).  Pietz also notes that the use of relics and saints were accepted without being considered idolatrous.
 
 Pope Gregory I “authorized the use of art for anagogic value,”  which then created the need for “a clear theory regarding true and false sacramental objects.”[^25]  Later in the Middle Ages, under Christian *law* as opposed to Christian *theology*, a conflation of idolatry with superstition occupied and was superimposed onto the term *feitiçaria* and the heresy of witchcraft.[^26]  But whereas Theodosian codes (438 CE) were developed to penalize paganism of Roman senators resisting Christianity as the official religion of the Empire, this concept of *feitiçaria* was “minimal” in West Africa because the law’s initial concern was to preserve the State against “divination” or “evil deeds” – *maleficia*, which threatened it.
 

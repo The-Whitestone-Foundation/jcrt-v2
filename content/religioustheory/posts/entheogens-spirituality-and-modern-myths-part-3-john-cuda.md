@@ -19,6 +19,22 @@ tags:
   - spiritual
   - magical
   - economic
+subjects:
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---
 *The following is the third of a three-part* series. *The [first]( /religioustheory/posts/entheogens-spirituality-and-modern-myths/) and [second](https://jcrt.org/religioustheory/2021/10/13/entheogens,-spirituality,-and-modern-myths,-part-2-\(john-cuda\)/\(opens%20in%20a%20new%20tab\)) can be found here*.
 

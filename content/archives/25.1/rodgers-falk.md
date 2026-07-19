@@ -19,6 +19,12 @@ keywords:
   - indigenous-sovereignty
   - white-supremacy
   - decolonization
+subjects:
+  - label: "Decolonization"
+    scheme: "FAST"
+    identifier: "fst00889115"
+    uri: "https://id.worldcat.org/fast/889115"
+    category: "topical"
 ---
 This paper traces the historical and legal evolution of sovereignty in relation to Indigenous land rights, exploring how colonial legal systems have sustained race-based power structures through legal fictions such as *terra nullius* and *res nullius*. It argues that the colonial legal system has consistently framed Indigenous peoples as *usufructuaries*, entitled to the "use" of land but not ownership, while maintaining the ultimate sovereignty of the colonial state. The paper examines the conceptual parallels between Blackstone's doctrine of *occupancy,* the U.S. Supreme Court's decision in *Johnson v. McIntosh* (1823), and the modern recognition of *native title*, particularly in Australia's landmark *Mabo v. Queensland* (1992) decision.Occupancy and native title, like Blackstone's "user" rights, reflects a colonial framework that subordinates Indigenous land rights to the Crown's absolute sovereignty, a sovereignty founded on the principles of the *Doctrine of Discovery* and the *Act of Supremacy* (1534).
 

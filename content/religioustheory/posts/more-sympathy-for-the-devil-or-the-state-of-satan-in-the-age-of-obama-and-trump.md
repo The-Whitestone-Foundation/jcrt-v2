@@ -21,6 +21,22 @@ tags:
   - academic
   - panic
   - religious
+subjects:
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Panic"
+    scheme: "FAST"
+    identifier: "fst01052112"
+    uri: "https://id.worldcat.org/fast/1052112"
+    category: "topical"
+  - label: "Satanism"
+    scheme: "FAST"
+    identifier: "fst01105622"
+    uri: "https://id.worldcat.org/fast/1105622"
+    category: "topical"
 ---
 Fifty years ago this weekend in the year 1966, according to lore and legend, San Francisco showman, musician, and self-professed huckster Howard Stanton Levey a.k.a. Anton Szandor LaVey founded the Church of Satan, proclaiming at the same time the advent of the Age of Satan (coinciding roughly with the immense popularity of the Rolling Stones song “Sympathy for the Devil”).
 
@@ -38,7 +54,7 @@ What exactly is the “unified story” *The Invention of Satanism*, which actua
 
 The narrative goes something like this:
 
-*   In the 1980s and early 1990s there occurred, first in America and then throughout the world, a “moral panic” that engulfed American society and spawned a virulent epidemic of unfounded and irrational fears about the threat of satanism and satanic crime, which was either non-existent or wildly exaggerated, but somehow came to be blown up in the inflamed popular imagination as a gigantic conspiracy.  As Bromley sums it up in his 1991 essay, the agents of this “satanic panic” link together “phenomena through an assertion that a nationally organized, underground, hierarchially structured cult…\[as\] the ultimate source of these form of deviance.” (49)
+*   In the 1980s and early 1990s there occurred, first in America and then throughout the world, a “moral panic” that engulfed American society and spawned a virulent epidemic of unfounded and irrational fears about the threat of satanism and satanic crime, which was either non-existent or wildly exaggerated, but somehow came to be blown up in the inflamed popular imagination as a gigantic conspiracy.  As Bromley sums it up in his 1991 essay, the agents of this “satanic panic” link together “phenomena through an assertion that a nationally organized, underground, hierarchially structured cult…&#91;as&#93; the ultimate source of these form of deviance.” (49)
 *   At the same time, these alleged assertions of conspiracy were, and continue to be, perhaps part of a “vast right-wing conspiracy” (to use Hillary Clinton’s famous words from that era) to spread hysteria, manipulate the population, and suppress legitimate social deviance.  Once more Bromley:  the anti-satanists have been “led by family-based groups and conservative religious interests with strong support from some mental health professionals and local law enforcement officers.” (49)  The same authors routinely – and ritually – compare the “panic” with the Catholic Inquisition of the late Middle Ages as well as the Salem Witch Trials of the 1690s (and to a lesser extent the McCarthy denunciations of the 1950s).
 *   Like earlier “witch hunts,” the “Satanic panic” of the 1980s left a trail of many victims unjustly accused, or even doing jail time for crimes they obviously never committed.
 

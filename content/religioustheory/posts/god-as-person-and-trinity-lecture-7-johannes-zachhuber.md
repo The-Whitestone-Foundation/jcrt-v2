@@ -19,6 +19,22 @@ tags:
   - trinity
   - theology
   - important
+subjects:
+  - label: "Personality"
+    scheme: "FAST"
+    identifier: "fst01058667"
+    uri: "https://id.worldcat.org/fast/1058667"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Trinity"
+    scheme: "FAST"
+    identifier: "fst01156777"
+    uri: "https://id.worldcat.org/fast/1156777"
+    category: "topical"
 ---
 *The following is the seventh lecture in an eight-lecture series. The most recent one can be found [here]( /religioustheory/posts/god-and-language-lecture-6-johannes-zachhuber/).*
 
@@ -102,7 +118,7 @@ He sums up his interpretation of Greek Patristic trinitarian theology by saying 
 
 It is out of the free and creative personality of the Father that the being of the Trinity derives, and this being is necessarily communal. Why did these theologians discover this essential truth for the first time? Zizioulas thinks that this is because they were bishops and as such had an intimate understanding of the communal character of the church and its theological significance.
 
-> The experience \[of the *ecclesial* *being*\] revealed something very important: the being of God could be known only through personal relationships and personal love. Being means life and life means *communion*.
+> The experience &#91;of the *ecclesial* *being*&#93; revealed something very important: the being of God could be known only through personal relationships and personal love. Being means life and life means *communion*.
 
 We can here see where Zizioulas’ book derives its title from: being is communion, and this is the communion of the church as much as it is ultimately the communion of the trinity. Yet as the intratrinitarian life can only flourish and be understood on the basis that it has its source and origin within the personal life of one, namely the Father, so the Church flourishes because it has its historical and theological source and origin within one person, Jesus Christ.
 

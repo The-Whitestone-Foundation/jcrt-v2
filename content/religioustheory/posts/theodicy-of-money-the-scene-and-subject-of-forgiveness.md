@@ -18,6 +18,37 @@ tags:
   - christianity
   - subject
   - identity
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Forgiveness"
+    scheme: "FAST"
+    identifier: "fst00932854"
+    uri: "https://id.worldcat.org/fast/932854"
+    category: "topical"
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion and economics"
+    scheme: "FAST"
+    identifier: "fst01939306"
+    uri: "https://id.worldcat.org/fast/1939306"
+    category: "topical"
 ---
 Today the question of debt forgiveness has become an eminently practical, not to mention political, question.  From sovereign debt crises in Greece, Spain, Puerto Rico and elsewhere, to ballooning student debt bubbles, to the aftermath of the mortgage crisis, it seems like everyone is talking about forgiveness.
 

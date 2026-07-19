@@ -20,6 +20,22 @@ tags:
   - social
   - sexual
   - historical
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Sex"
+    scheme: "FAST"
+    identifier: "fst01114160"
+    uri: "https://id.worldcat.org/fast/1114160"
+    category: "topical"
+  - label: "Gender studies"
+    scheme: "Homosaurus"
+    identifier: "homoit0000579"
+    uri: "https://homosaurus.org/v5/homoit0000579"
+    category: "topical"
 ---
 *The following is the second of a three-part series.* *The first can be found [here]( /religioustheory/posts/body-erotic-john-boswells-history-of-eurochristian-sexuality-and-the-case-for-transcendental-somatics-part-1-kieryn-wurts/)*.
 
@@ -47,7 +63,7 @@ A very strict social constructionist position would hold that there are no sexua
 
 Boswell himself addresses these methodological issues in his 1989 essay *Revolutions, Universals, and Sexual Categories,*  in which he compares the substance of essentialist/social constructionist debates to the universalist/nominalist debates of the High Middle Ages.[^6] Ultimately both are debates about the structure and function of language. For the universalist or essentialist, human categories assign names to already existing structures of reality.
 
-For the nominalist or the constructivist, categories are only names agreed upon by humans and “the ‘order’ \[that\]people see is rather their *creation* than their *perception*.”[^7] Mediations between these positions have been at play in most of the history of Western philosophy. Kantian critical philosophy for example seeks to synthesize empiricist and idealist epistemological positions in a system in which *both* human construction of categories and human perception of transcendentals shape their complex interactions in the world. Kant’s critical mediation of empiricism and idealism addresses the same epistemological issues inherent in the nominalist/universalist debates that preceded it as well as to the social constructionist/essentialist debates which followed.
+For the nominalist or the constructivist, categories are only names agreed upon by humans and “the ‘order’ &#91;that&#93;people see is rather their *creation* than their *perception*.”[^7] Mediations between these positions have been at play in most of the history of Western philosophy. Kantian critical philosophy for example seeks to synthesize empiricist and idealist epistemological positions in a system in which *both* human construction of categories and human perception of transcendentals shape their complex interactions in the world. Kant’s critical mediation of empiricism and idealism addresses the same epistemological issues inherent in the nominalist/universalist debates that preceded it as well as to the social constructionist/essentialist debates which followed.
 
 The problems of strictly essentialist approaches to human sexuality have already been demonstrated—even a cursory historical study will make clear that attitudes, mores, and categories of gender and sexuality vary and fluctuate across time and communities. Regardless of the dogmatic claims of many Christians, there is no historical or theological consensus within Christianity on the “right” way to be sexual or the “right” way to inhabit a gender. On the other hand, a social constructionist position, like that of Butler’s on gender and sex, holds that there is no such thing as a pre-discursive sexual reality. In some sense, this is true.
 
@@ -83,7 +99,7 @@ Through their historical interventions, Foucault and Boswell provide a truly inn
 
 Boswell’s archaeological method, inspired by Michel Foucault, falls short of an *embodied discourse*, that is, a discourse that implicates and interrogates the bodies and desires of the interlocutors. A disembodied discourse will always fall short of formulating a coherent sexual ethics. Indeed, the failures of theological, ethical, and social conversations on human sexuality, their disintegration into culture war polemics which eventually lose sight of their referent, might be attributed to their inability to locate the body, to *in-carnate*, so to speak. The only path out of such culture-war dead-ends is the establishment of an embodied discourse*,* which a re-locates the embodied, desiring, speaking subject and calls the bluff on the tactic of avoidance present in the extremes of essentialist and social constructionist approaches. Both the absolute submission to interdiction *and* an absolutely *laisse-faire* attitude to sexuality share the great advantage of never requiring one to pose the question: *What do I desire, and why?*
 
-Foucault gets at something very important in stating that, in the nineteenth century, “sex was \[re\]constituted as a problem of truth.”[^10] If there is a truth to be found in sex, the greatest problem with the modernist essentialist approaches lies in a misapprehension of the structure and function of truth. The truth of sex cannot dispense with the realities of the body. In his 1996 *Fire and Roses,* Carl Raschke proposes *transcendental somatics* as an approach with the potential to transform the parameters of what embodied or incarnate discourse might entail. Boswell and Foucault’s clever inquiries into the practices of absent, historical bodies provide an initial destabilization of the reductive absolutisms which govern essentialist approaches to sexuality. Raschke’s transcendental somatics then, provides conceptual tools to ensure against the spiral into self-referential triviality which so plagues social constructionist discourses on sexuality.
+Foucault gets at something very important in stating that, in the nineteenth century, “sex was &#91;re&#93;constituted as a problem of truth.”[^10] If there is a truth to be found in sex, the greatest problem with the modernist essentialist approaches lies in a misapprehension of the structure and function of truth. The truth of sex cannot dispense with the realities of the body. In his 1996 *Fire and Roses,* Carl Raschke proposes *transcendental somatics* as an approach with the potential to transform the parameters of what embodied or incarnate discourse might entail. Boswell and Foucault’s clever inquiries into the practices of absent, historical bodies provide an initial destabilization of the reductive absolutisms which govern essentialist approaches to sexuality. Raschke’s transcendental somatics then, provides conceptual tools to ensure against the spiral into self-referential triviality which so plagues social constructionist discourses on sexuality.
 
 ## Transcendental Somatics as the Framework of Embodied Discourse
 

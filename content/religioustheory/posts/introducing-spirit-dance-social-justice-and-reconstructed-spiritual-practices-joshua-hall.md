@@ -22,6 +22,22 @@ tags:
   - justice
   - global
   - social
+subjects:
+  - label: "Dance"
+    scheme: "FAST"
+    identifier: "fst00887402"
+    uri: "https://id.worldcat.org/fast/887402"
+    category: "topical"
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 

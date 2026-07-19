@@ -25,4 +25,20 @@ issue: 2
 season: spring
 year: 2004
 pages:
+subjects:
+  - label: "Events (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00917152"
+    uri: "https://id.worldcat.org/fast/917152"
+    category: "topical"
+  - label: "History Philosophy"
+    scheme: "FAST"
+    identifier: "fst00958266"
+    uri: "https://id.worldcat.org/fast/958266"
+    category: "topical"
+  - label: "Messianism"
+    scheme: "FAST"
+    identifier: "fst01017438"
+    uri: "https://id.worldcat.org/fast/1017438"
+    category: "topical"
 ---

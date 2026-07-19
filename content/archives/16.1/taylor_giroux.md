@@ -13,11 +13,17 @@ keywords:
   - henry-a
   - municipal-art
   - social-criticism
-pdf:
+pdf: InterviewGiroux.pdf
 sort_id:
 volume: 16
 issue: 1
 season: winter
 year: 2016
 pages: 163-175
+subjects:
+  - label: "Art, Municipal"
+    scheme: "FAST"
+    identifier: "fst00816679"
+    uri: "https://id.worldcat.org/fast/816679"
+    category: "topical"
 ---

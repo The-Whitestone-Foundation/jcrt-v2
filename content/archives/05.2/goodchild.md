@@ -22,4 +22,15 @@ issue: 2
 season: spring
 year: 2004
 pages:
+subjects:
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Theology Methodology"
+    scheme: "FAST"
+    identifier: "fst01149580"
+    uri: "https://id.worldcat.org/fast/1149580"
+    category: "topical"
 ---

@@ -21,11 +21,27 @@ tags:
   - religious
   - technology
   - social
+subjects:
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Technology"
+    scheme: "FAST"
+    identifier: "fst01145078"
+    uri: "https://id.worldcat.org/fast/1145078"
+    category: "topical"
 ---
 **Han, Sam. *Technologies of Religion: Spheres of the Sacred in a Post-Secular Modernity*. Routledge Research in Information Technology and Society 19. New York: Routledge, 2016.  **ISBN-10:** 1138855863.  Hardback, e-book.  142 pages.  
 **
 
-In *Technologies of Religion* Sam Han discusses religions’ relationships to new media technologies in the post-modern era. The key question Han raises is: “what is \[religions’\] relationship\[s\] to technology and media?”  Further, he claims that “to reckon with the consequences of new media technologies and religion is necessary to understand what ‘the secular’ as well as ‘the religious’ mean today” (2).
+In *Technologies of Religion* Sam Han discusses religions’ relationships to new media technologies in the post-modern era. The key question Han raises is: “what is &#91;religions’&#93; relationships to technology and media?”  Further, he claims that “to reckon with the consequences of new media technologies and religion is necessary to understand what ‘the secular’ as well as ‘the religious’ mean today” (2).
 
 Thus, Han draws our attention to the modern, secularist linkage of religion-tradition-old *versus* technology-secular-new, pointing to the common use of this oppositional linkages in scholarship about technology and religion, suggesting that, uncritically, scholars have understood technology as a mere tool of moderns, as opposed to a active-causative-factor in human development (cf. Latour’s account of network actor theory in [*Reassembling the Social*](https://books.google.com/books?id=7ZGknQEACAAJ&dq=network+actor+theory+latour&hl=en&sa=X&ved=0ahUKEwj-tJy88_HNAhUl5oMKHTY9C5cQ6AEIHDAA)).
 

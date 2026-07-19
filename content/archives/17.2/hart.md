@@ -18,4 +18,20 @@ issue: 2
 season: spring
 year: 2018
 pages: 369-395
+subjects:
+  - label: "Cloud of unknowing"
+    scheme: "FAST"
+    identifier: "fst01356418"
+    uri: "https://id.worldcat.org/fast/1356418"
+    category: "title"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---

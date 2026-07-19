@@ -23,6 +23,27 @@ tags:
   - direction
   - experience
   - discourse
+subjects:
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The first can be found [here]( /religioustheory/posts/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-1-mark-murphy/).*
 
@@ -62,11 +83,11 @@ In the truest sense of the term John dis-orientates us, he shows us that the Way
 
 The threat of death was always tied up with this landscape and how it could destroy subjectivity at any moment. Similarly, for Lacan, the analyst must never forget that they too are surrounded by the indeterminate desert of the signifier. Like the desert, language presents us with the false hopes of mirages. They plague us with illusions of determination and wholeness:
 
-> Let me simply say that this, in my view, constitutes an objection to any reference to totality in the individual\[… \]Psychoanalysis is what clearly relegates \[this\] to the status of mirages[^16] .
+> Let me simply say that this, in my view, constitutes an objection to any reference to totality in the individual&#91;… &#93;Psychoanalysis is what clearly relegates &#91;this&#93; to the status of mirages[^16] .
 
 The analyst must resist the urge to to turn language into something precise and stable. He must not fill the void of the desert with the false plenum of signified:
 
-If the psychoanalyst is not aware that this is how speech functions, he will experience its call \[appel\] all the more strongly; and if emptiness is the first thing to make itself heard in analysis, he will feel it in himself, and he will seek a reality beyond speech to fill the emptiness[^17] .
+If the psychoanalyst is not aware that this is how speech functions, he will experience its call &#91;appel&#93; all the more strongly; and if emptiness is the first thing to make itself heard in analysis, he will feel it in himself, and he will seek a reality beyond speech to fill the emptiness[^17] .
 
 To fill this void with meaning, is in essence, to shut down the operations of desire and to shift the analysand back into the register of the imaginary and therefore close up the unconscious in the false certainty of the ego.
 
@@ -198,4 +219,4 @@ By introducing this concept, he problematized the split between the affective an
 
 [^39]: Lacan also suggests that this logic of participation is found in medieval theological formulations:
 
-“In the Freudian field, the words notwithstanding, consciousness \[ego\] is a characteristic that is as obsolete to us in grounding the unconscious &hellip; (that unconscious dates back to Saint Thomas Aquinas)—as affect is unsuited to play the role of the protopathic subject, since it is a function without a functionary. Starting with Freud, the unconscious becomes a chain of signifiers that repeats and insists somewhere (on another stage or in a different scene, as he wrote), interfering in the cuts offered it by actual discourse and the cogitation it informs” Lacan, *Ecrit:The First Complete Edition in English.*, 676.It is possible to suggest that Lacan is alluding to the Old Theological arguments during Aquinas time. Aquinas was arguing against other formulations of Theology and Philosophy which aimed to create strict separations between the created and creature, faith and reason, intellect and affect.  Similarly for Lacan the ego only has its existences by participation in the greater linguistic field of the unconscious and it can’t just be simply reduced  to a mere emotion.
+“In the Freudian field, the words notwithstanding, consciousness &#91;ego&#93; is a characteristic that is as obsolete to us in grounding the unconscious &hellip; (that unconscious dates back to Saint Thomas Aquinas)—as affect is unsuited to play the role of the protopathic subject, since it is a function without a functionary. Starting with Freud, the unconscious becomes a chain of signifiers that repeats and insists somewhere (on another stage or in a different scene, as he wrote), interfering in the cuts offered it by actual discourse and the cogitation it informs” Lacan, *Ecrit:The First Complete Edition in English.*, 676.It is possible to suggest that Lacan is alluding to the Old Theological arguments during Aquinas time. Aquinas was arguing against other formulations of Theology and Philosophy which aimed to create strict separations between the created and creature, faith and reason, intellect and affect.  Similarly for Lacan the ego only has its existences by participation in the greater linguistic field of the unconscious and it can’t just be simply reduced  to a mere emotion.

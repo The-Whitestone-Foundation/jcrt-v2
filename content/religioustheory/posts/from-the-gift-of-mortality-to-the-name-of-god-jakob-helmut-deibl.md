@@ -19,6 +19,22 @@ tags:
   - narrative
   - biblical
   - mortality
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Mortality"
+    scheme: "FAST"
+    identifier: "fst01026502"
+    uri: "https://id.worldcat.org/fast/1026502"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is a continuation of* *a series of articles corresponding to chapters of the book* Preis der Sterblichkeit: Christentum und Neuer Humanismus *(Freiburg im Bresgau: Verlag Herder, 2015), edited by Kurt Appel, translated by Rachel Thomas.  English editor, Carl Raschke.  This volume of essays represents one of the major works in the new Catholic “cultural humanism” from Central Europe.* 
 

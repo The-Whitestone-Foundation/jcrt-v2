@@ -21,4 +21,15 @@ issue: 3
 season: spring
 year: 2013
 pages: 165-167
+subjects:
+  - label: "Anthropology"
+    scheme: "FAST"
+    identifier: "fst00810196"
+    uri: "https://id.worldcat.org/fast/810196"
+    category: "topical"
+  - label: "Human beings"
+    scheme: "FAST"
+    identifier: "fst00962832"
+    uri: "https://id.worldcat.org/fast/962832"
+    category: "topical"
 ---

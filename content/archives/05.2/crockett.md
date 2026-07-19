@@ -25,4 +25,20 @@ issue: 2
 season: spring
 year: 2004
 pages:
+subjects:
+  - label: "Culture Philosophy"
+    scheme: "FAST"
+    identifier: "fst00885075"
+    uri: "https://id.worldcat.org/fast/885075"
+    category: "topical"
+  - label: "Religionsgeschichtliche Schule"
+    scheme: "FAST"
+    identifier: "fst01093923"
+    uri: "https://id.worldcat.org/fast/1093923"
+    category: "topical"
+  - label: "Theology Methodology"
+    scheme: "FAST"
+    identifier: "fst01149580"
+    uri: "https://id.worldcat.org/fast/1149580"
+    category: "topical"
 ---

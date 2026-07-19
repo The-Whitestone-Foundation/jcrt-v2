@@ -22,6 +22,27 @@ tags:
   - liberation
   - existence
   - potentiality
+subjects:
+  - label: "Liberty"
+    scheme: "FAST"
+    identifier: "fst00997251"
+    uri: "https://id.worldcat.org/fast/997251"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first installment of a multi-part series.
 

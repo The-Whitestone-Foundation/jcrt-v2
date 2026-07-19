@@ -27,4 +27,30 @@ issue: 2
 season: summer
 year: 2008
 pages:
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Power (Social sciences)"
+    scheme: "FAST"
+    identifier: "fst01074219"
+    uri: "https://id.worldcat.org/fast/1074219"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
+  - label: "Subject (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01136447"
+    uri: "https://id.worldcat.org/fast/1136447"
+    category: "topical"
 ---

@@ -19,6 +19,22 @@ tags:
   - pastness
   - justice
   - critical
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Liberalism"
+    scheme: "FAST"
+    identifier: "fst00997183"
+    uri: "https://id.worldcat.org/fast/997183"
+    category: "topical"
 ---
 Emphasized in a temporalized modality, and bringing together elements of our phenomenological and political reflections above, we may specifically unpack the hegemony of White Christianity as a blow against pastness: Where pastness signals the facts and facticity of a fettered social and historical situation (with parameters imposed from outside, a need to escape those parameters felt on the inside, and all-in-all a lived limit to freedom and presence), White Christian hegemony signals at the very worst the desire and at the very least the ability to live unfettered by chains of the past.
 
@@ -56,7 +72,7 @@ The structural silencing of minoritized, racialized, marginalized subjects emerg
 
 Would we not find that it is the minoritized, racialized, marginalized subject who in this sense allows the Father, White Christianity, to avoid consuming itself in a bringing of same into same (with all the vigor of Dali’s ‘Autumnal Cannibalism’) through a totalizing mastery over state and thought-space? In contrast to Vattimo’s declaration of Christ’s kenosis as an end of hegemony, and in contrast to the similarly ironic tendency of much contemporary political theology and various flavors of post-metaphysical atheology to uphold grace, incarnation, Pauline anti-nomianism, and Christ’s kenosis as signaling the ends of hegemony, we might wonder if it is instead only the moments at which White Christianity fails—fails, that is, to assimilate the bodies of minorities who are not White Christians, and fails (in related spirit) to install kenosis, the death of God, and similarly Christian constructs as the grounding markers of emancipation in various disciplinary lexicons—that kenotically empty Christianity (and with it, various motions of liberalism and universalism) of its constricting holds (including holds that uphold the status quo and its many structures of inequity).
 
-Christianity’s failures in this sense—along with the (God-willing) future failures of Christianity to totalize (failures made possible precisely by our “remain\[ing\] Jews \[and other non-White-Christians\] before you”[^12] paves a path to the liberations of justice (albeit of the non-overjoyed, Derrida-meets-Levinas, pausal variety of justice that is always yet to come\].
+Christianity’s failures in this sense—along with the (God-willing) future failures of Christianity to totalize (failures made possible precisely by our “remain&#91;ing&#93; Jews &#91;and other non-White-Christians&#93; before you”[^12] paves a path to the liberations of justice (albeit of the non-overjoyed, Derrida-meets-Levinas, pausal variety of justice that is always yet to come&#93;.
 
 *Sarah Pessin is Professor of Philosophy and Jewish Thought at the University of Denver. She works on Levinas, Phenomenology, Greek and Medieval cosmologies and ethics, philosophies of religion and race, and interfaith civics. She is the author of* Ibn Gabirol’s Theology of Desire *(Cambridge, 2013), and is currently working on a book on Levinasian “pausal subjectivity” and its relation to politics of responsibility*.
 
@@ -64,7 +80,7 @@ Christianity’s failures in this sense—along with the (God-willing) future fa
 ## Footnotes
 
 
-[^1]: Levinas makes this point in “Philosophy of Hitlerism.” \[Emmanuel Levinas, “Reflections on the Philosophy of Hitlerism,” in *Critical Inquiry*, 17(1), (1934/1990), 62-71.\] In that context, Levinas is praising Christianity (and Judaism) for appropriately robust phenomenologies of pardon, and noting that a liberal (Protestant European) form of life has—in its strongly disembodied, idealizing, and abstracting tendencies—decidedly lost hold of the best of what Judeo-Christian religion has to offer in terms of pardon and, relatedly, in terms of addressing the needs of concrete embodied humans. He goes on to suggest that liberalism’s inability to address embodied needs opens a path to Hitlerism’s own racist “blood and soil” ability to feed those embodied human needs. For a further discussion of this point, see Sarah Pessin, “America’s Love Problem: How Oprah’s Call to Friendship Feeds Bannon’s Call to Racism (or: On Three Strains of Liberal Lovesickness),” in *Political Theology Network*, (2018). <https://politicaltheology.com/americas-love-problem/. Extending to our current point, we may note that where Levinas in his 1934 essay moves from a focus on what is best about Christianity (viz. concreteness and pardon) to the loss of those features in its afterlife in liberalism, our point about liberalism above will be all the harsher given that we are here inspired by Levinas’ 1947 emphasis on what is worst about Christianity (viz. a loss of pastness, origins, and pardon): If what is best about Christianity gives way to a sad state in liberalism, a fortiori what is worst about Christianity gives way to an even sadder state in liberalism.
+[^1]: Levinas makes this point in “Philosophy of Hitlerism.” &#91;Emmanuel Levinas, “Reflections on the Philosophy of Hitlerism,” in *Critical Inquiry*, 17(1), (1934/1990), 62-71.&#93; In that context, Levinas is praising Christianity (and Judaism) for appropriately robust phenomenologies of pardon, and noting that a liberal (Protestant European) form of life has—in its strongly disembodied, idealizing, and abstracting tendencies—decidedly lost hold of the best of what Judeo-Christian religion has to offer in terms of pardon and, relatedly, in terms of addressing the needs of concrete embodied humans. He goes on to suggest that liberalism’s inability to address embodied needs opens a path to Hitlerism’s own racist “blood and soil” ability to feed those embodied human needs. For a further discussion of this point, see Sarah Pessin, “America’s Love Problem: How Oprah’s Call to Friendship Feeds Bannon’s Call to Racism (or: On Three Strains of Liberal Lovesickness),” in *Political Theology Network*, (2018). <https://politicaltheology.com/americas-love-problem/. Extending to our current point, we may note that where Levinas in his 1934 essay moves from a focus on what is best about Christianity (viz. concreteness and pardon) to the loss of those features in its afterlife in liberalism, our point about liberalism above will be all the harsher given that we are here inspired by Levinas’ 1947 emphasis on what is worst about Christianity (viz. a loss of pastness, origins, and pardon): If what is best about Christianity gives way to a sad state in liberalism, a fortiori what is worst about Christianity gives way to an even sadder state in liberalism.
 
 [^2]: Emmanuel Levinas, “Reflections on the Philosophy of Hitlerism,” in *Critical Inquiry*, 17(1), (1934/1990). 69.
 

@@ -19,4 +19,10 @@ issue: 1
 season: winter
 year: 2024
 pages: 144-166
+subjects:
+  - label: "Miracles"
+    scheme: "FAST"
+    identifier: "fst01023535"
+    uri: "https://id.worldcat.org/fast/1023535"
+    category: "topical"
 ---

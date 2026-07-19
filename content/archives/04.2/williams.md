@@ -3,18 +3,18 @@ nanoid: "wS_eFc"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5eo2x2l'
 title: "Theory Change"
-article_number:
 author: "Jeffrey J Williams"
-affilation:
 abstract:
+affilation:
+article_number:
 keywords: []
-pdf:
+pdf: false
 sort_id: 08
 year: 2003
 ---
 Williams - Theory Change - JCRT 4.2 
 
-# Theory Change
+## Theory Change
 
 Jeffrey J. Williams  
 University of Missouri-Columbia
@@ -23,7 +23,7 @@ University of Missouri-Columbia
 
 One striking fact of contemporary criticism is its seemingly relentless change. Change, such that theories or "critical approaches" have half-lives not of a few decades but of a few years, has become a normal, accepted part of our system of professional discourse, inflecting if not driving what the reception theorist Hans Robert Jauss called "the horizon of expectation" of criticism and scholarship. For instance, in the not too distant past, the myth criticism inspired by Northrop Frye dominated much of the critical writing of the 1960s, looking at the Earth Mother in fields spanning from Beowulf to modernist poetry, but now its seems an antiquated memory, a reminder of times past like a water basin in an antiques store. Similarly, the structuralism that proposed a technical revolution toward a more exact scientific description of literature claimed central attention on the scene in the 1970s, now seems an outmoded invention, like a 64k computer. More recently, the vehement debates over the status of a text and the location of interpretation in reader-response and deconstructive criticism that filled the pages of many a critical journal in the late 1970s and 1980s now has been sidestepped, like the 60s debate over long hair. Through the 1990s, it seemed that change, if anything, accelerated, ushering in new critical approaches, frames, and lexicons at every MLA convention.
 
-     > For example, Greenblatt's famous essay on _Twelfth Night_, "Fiction and Friction," argues for the constructedness of Renaissance sexuality by juxtaposing materials from an obscure trial in Normandy with the gender confusions that animate Shakespeare's play. Greenblatt nowhere claims'how could he?'that Shakespeare knew about this trial. He does assert, however, that the ideology of sexuality it bespeaks was part of common cultural knowledge in Elizabethan England: 'The relation I wish to establish between medical and theatrical practice is not one of cause and effect or source and literary realization. We are dealing rather with a shared code, a set of interlocking tropes and similitudes that function not only as the objects but as the conditions of representation' (86). But how, one cannot help asking, did this 'shared code' come to be constructed in the first place; and how, to make the relevant point about the relationship between Shakespeare's play and Renaissance medical discourse on hermaphrodism, did it come to be widely 'shared'? (158-159)
+> For example, Greenblatt's famous essay on _Twelfth Night_, "Fiction and Friction," argues for the constructedness of Renaissance sexuality by juxtaposing materials from an obscure trial in Normandy with the gender confusions that animate Shakespeare's play. Greenblatt nowhere claims'how could he?'that Shakespeare knew about this trial. He does assert, however, that the ideology of sexuality it bespeaks was part of common cultural knowledge in Elizabethan England: 'The relation I wish to establish between medical and theatrical practice is not one of cause and effect or source and literary realization. We are dealing rather with a shared code, a set of interlocking tropes and similitudes that function not only as the objects but as the conditions of representation' (86). But how, one cannot help asking, did this 'shared code' come to be constructed in the first place; and how, to make the relevant point about the relationship between Shakespeare's play and Renaissance medical discourse on hermaphrodism, did it come to be widely 'shared'? (158-159)
 
 * * *
 
@@ -55,7 +55,7 @@ One striking fact of contemporary criticism is its seemingly relentless change. 
 > 
 > Nelson, Cary. "Always Already Cultural Studies." 1991. _Manifesto of a Tenured Radical_. New York: NYU P, 1997.
 > 
-> Ransom, John Crowe. "Criticism, Inc." _The World's Body_. Baton Rouge: Louisiana State UP, 1968 \[1938\]. 327-50.
+> Ransom, John Crowe. "Criticism, Inc." _The World's Body_. Baton Rouge: Louisiana State UP, 1968 &#91;1938&#93;. 327-50.
 > 
 > Sosnoski, James P. "The Theory Junkyard." _The Institution of Literature_. Ed. Jeffrey J. Williams. Albany: SUNY P, 2002. 25-42.
 > 
@@ -75,15 +75,11 @@ One striking fact of contemporary criticism is its seemingly relentless change. 
 
 * * *
 
-> **Jeffrey J. Williams** teaches the novel, the history of criticism, and contemporary theory at the University of Missouri-Columbia. He has publisned widely on fiction, theory, and the politics of the profession. His books include _Theory and the Novel: Narrative Reflexivity in the British Tradition_ (Cambridge, 1998), and the edited collections _PC Wars: Politics and Theory in the Academy_ (Routledge, 1995), and \[editor\] _The Institution of Literature_ (SUNY, 2001), and _Critics at Work: Interviews_ (New York University Press, 2003). He is also an editor of the _Norton Anthology of Literary Theory and Criticism_ and of the literary and critical journal, [_The Minnesota Review_](http://www.theminnesotareview.org/).
+> **Jeffrey J. Williams** teaches the novel, the history of criticism, and contemporary theory at the University of Missouri-Columbia. He has publisned widely on fiction, theory, and the politics of the profession. His books include _Theory and the Novel: Narrative Reflexivity in the British Tradition_ (Cambridge, 1998), and the edited collections _PC Wars: Politics and Theory in the Academy_ (Routledge, 1995), and &#91;editor&#93; _The Institution of Literature_ (SUNY, 2001), and _Critics at Work: Interviews_ (New York University Press, 2003). He is also an editor of the _Norton Anthology of Literary Theory and Criticism_ and of the literary and critical journal, [_The Minnesota Review_](http://www.theminnesotareview.org/).
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2003 Jeffrey J. Williams. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Jeffrey J. Williams. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/williams](https://jcrt.org/archives/04.2/williams/)
 

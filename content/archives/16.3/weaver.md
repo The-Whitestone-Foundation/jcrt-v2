@@ -19,4 +19,15 @@ issue: 3
 season: fall
 year: 2017
 pages: 367-381
+subjects:
+  - label: "Secularization (Theology)"
+    scheme: "FAST"
+    identifier: "fst01110740"
+    uri: "https://id.worldcat.org/fast/1110740"
+    category: "topical"
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
 ---

@@ -19,4 +19,10 @@ issue: 3
 season: summer
 year: 2018
 pages: 509-522
+subjects:
+  - label: "Semiotics"
+    scheme: "FAST"
+    identifier: "fst01112351"
+    uri: "https://id.worldcat.org/fast/1112351"
+    category: "topical"
 ---

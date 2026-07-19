@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2014
 pages: 68-80
+subjects:
+  - label: "Feminism"
+    scheme: "FAST"
+    identifier: "fst00922671"
+    uri: "https://id.worldcat.org/fast/922671"
+    category: "topical"
+  - label: "Multiculturalism"
+    scheme: "FAST"
+    identifier: "fst01028836"
+    uri: "https://id.worldcat.org/fast/1028836"
+    category: "topical"
 ---

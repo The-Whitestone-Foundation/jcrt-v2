@@ -23,6 +23,32 @@ tags:
   - charity
   - theology
   - christianity
+subjects:
+  - label: "Charity"
+    scheme: "FAST"
+    identifier: "fst00852445"
+    uri: "https://id.worldcat.org/fast/852445"
+    category: "topical"
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Science"
+    scheme: "FAST"
+    identifier: "fst01108176"
+    uri: "https://id.worldcat.org/fast/1108176"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -122,7 +148,7 @@ Late-modernity, I then contend, is when and where hope and faith inform a philos
 
 [^19]: If we need to determine a distinction between science and religion, then it could be this: science informs, religion transforms. A philosophy that recognizes its religious purport is a philosophy that realizes that thinking is never neutral, objective, coldly logical, sterile, etc. Thinking becomes testifying, see Gert-Jan van der Heiden, *The Voice of Misery. A Continental Philosophy of Testimony.* New York: SUNY Press, 2020.
 
-[^20]: Nietzsche already warned us for this modern obsession with the ‘novum’ as a reaction to the rejection of the authority of tradition. To be “new” used to become a moral argument. It is new; therefore it has to be better. Anyone who rejects the “new” is reactionary and holds up progress. It has also infected political debate. We are all familiar with the rhetorical exclamation: ‘How is it possible that, in 2022, we still \[anything, really\].’ You read this also on posters recommending an exposition of a contemporary artist: ‘No-one has ever done this before!’ Then, when I visit that exposition, there always seems to be a very good reason for that.
+[^20]: Nietzsche already warned us for this modern obsession with the ‘novum’ as a reaction to the rejection of the authority of tradition. To be “new” used to become a moral argument. It is new; therefore it has to be better. Anyone who rejects the “new” is reactionary and holds up progress. It has also infected political debate. We are all familiar with the rhetorical exclamation: ‘How is it possible that, in 2022, we still &#91;anything, really&#93;.’ You read this also on posters recommending an exposition of a contemporary artist: ‘No-one has ever done this before!’ Then, when I visit that exposition, there always seems to be a very good reason for that.
 
 [^21]: Remember the Grand Unified Theory.
 
@@ -136,7 +162,7 @@ Late-modernity, I then contend, is when and where hope and faith inform a philos
 
 [^26]: bruno-latour.fr/sites/default/files/P-176-LAUDATO SI.pdf (3/11/2019)
 
-[^27]: Surprisingly, it is Nietzsche who introduced the theological virtues in philosophy. In the preface to the re-edition of his *The Gay Science*, he testifies of a ‘spirit who has patiently resisted a terrible, long pressure – patiently, severely, coldly, without submitting, but also without hope – and who is now all at once attacked by hope, the hope for health, and the intoxication of convalescence.’ Faith and belief arrive a little later, where Nietzsche in the same vein and style sings of a ‘merry-making after a long privation and powerlessness, the rejoicing of strength that is returning, of a reawakened faith in tomorrow and the day after tomorrow, of a certain sense and anticipation of a future, of impending adventures, of seas that are opened again, of goals that are permitted again, believed again.’ Finally, ‘The trust in life has gone: life itself has become a problem. Yet one should not jump to the conclusion that this necessarily makes one gloomy. Even love of life is still possible, only one loves differently.’ Friedrich Nietzsche. *The Gay Science \[Fröhliche Wissenshaft\]*. New York: Random House, 1974, 32; 36 – 37. Of course, these three terms do not refer to God here. They announce the “end” of metaphysics. See Meganck, ‘Ratio *est* Fides.’
+[^27]: Surprisingly, it is Nietzsche who introduced the theological virtues in philosophy. In the preface to the re-edition of his *The Gay Science*, he testifies of a ‘spirit who has patiently resisted a terrible, long pressure – patiently, severely, coldly, without submitting, but also without hope – and who is now all at once attacked by hope, the hope for health, and the intoxication of convalescence.’ Faith and belief arrive a little later, where Nietzsche in the same vein and style sings of a ‘merry-making after a long privation and powerlessness, the rejoicing of strength that is returning, of a reawakened faith in tomorrow and the day after tomorrow, of a certain sense and anticipation of a future, of impending adventures, of seas that are opened again, of goals that are permitted again, believed again.’ Finally, ‘The trust in life has gone: life itself has become a problem. Yet one should not jump to the conclusion that this necessarily makes one gloomy. Even love of life is still possible, only one loves differently.’ Friedrich Nietzsche. *The Gay Science &#91;Fröhliche Wissenshaft&#93;*. New York: Random House, 1974, 32; 36 – 37. Of course, these three terms do not refer to God here. They announce the “end” of metaphysics. See Meganck, ‘Ratio *est* Fides.’
 
 [^28]: Aristotle’s virtues were canonized later on into what are called the cardinal virtues. They are the virtues that the world and its workings ‘hinge’ upon. As its moral hinges, they belong to the world. Theological virtues do not, they are understood as a divine a gift to the world. They do not allow the world to just continue, they turn the world into heaven.
 

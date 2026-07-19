@@ -7,19 +7,19 @@ author: "Gabriel Vahanian; Warren Clarnette"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 04
 year: 1999
 ---
 Vahanian - The Otherness of Time - JCRT 1.1
 
-# The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time
+## The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time
 
 Gabriel Vahanian
 
-> \[Translated by Warren Clarnette from an earlier version in French published as "L’autre et le temps: sécularisation et sanctification du temps," _Autres Temps_ 57 (1998) 47-62, and substantially revised by the author.\]
+> &#91;Translated by Warren Clarnette from an earlier version in French published as "L’autre et le temps: sécularisation et sanctification du temps," _Autres Temps_ 57 (1998) 47-62, and substantially revised by the author.&#93;
 > 
-> _The Lord \[Eternal\] is my shepherd, I lack nothing._  
+> _The Lord &#91;Eternal&#93; is my shepherd, I lack nothing._  
 > \--Psalm 23
 > 
 > _I am the first and the last, the living One._  
@@ -122,7 +122,7 @@ If there really is a text that _seems_ "timeless," that acquires kind of a timel
 
 45.  The biblical approach to time is sabbatical. It calls for the hallowing of time. Liturgical would, therefore, be just as appropriate a description of it. And because the hallowing of time hinges ultimately on the secularisation of the Eternal Now, and conversely the latter on the former, this approach is ruled, not by an anamnestic process, but by the proleptic dialectic of sin and grace, in other words of the incarnation, of the worlding of the Word. This is a dialectic of which the two horns can also be described as nature (desacralised) and history (defatalised) or as creation and pleroma. Or again it is a dialectic of the eschaton and the novum and hence is eminently liturgical, though not necessarily in the mystical so much as in the ethical, social, political sense of public action the term originally referred to. As interface of the eternal and the temporal, of heaven and earth, of church and world, the liturgy thus aims less to "represent" the Eternal than to secularise it (preaching) insofar as, conversely, it aims at the sanctification of time (sacrament).[^44] Essentially proleptic, the liturgy is a prophetic act. But, since this act involves the so-called priesthood of all believers, the liturgy must of necessity entwine the religious and the secular. And, in this sense, the liturgy can also be viewed as a charismatic act. It consists in redeeming the time when the opportunity presents itself--or when the word becomes flesh.
      
-46.  Barth himself did not fail to stress it: "The word has become flesh" means also "the word has become time"[^45] and that the time is fulfilled. As happens at Easter. Or even as already happens when God blesses the seventh day and hallows it and "thus the world is being worlded all the while it is created \[through the Word\]"[^46]--and, from beginning to end, God makes all things new.[^47]
+46.  Barth himself did not fail to stress it: "The word has become flesh" means also "the word has become time"[^45] and that the time is fulfilled. As happens at Easter. Or even as already happens when God blesses the seventh day and hallows it and "thus the world is being worlded all the while it is created &#91;through the Word&#93;"[^46]--and, from beginning to end, God makes all things new.[^47]
      
 47.  Still, is there anything which, like the new, reminds us more of the old, indeed of the past, even while timing us with the future ? On the seventh day, the sabbath does just that. As symbolic of the kingdom of God, it stands for the otherness of time and ushers in the end of time, its fullness. But this fullness of time or its eschatic otherness, what is it if not, time and again, an opportunity for its ultimate rehearsal, its kairos--world without end? Enduring time, such is the sabbath which breaks with nature; and even breaks with time that passes as it breaks with the ritual of the six days which precede it, and yet is their fulfillment. And, just because it then fulfils no less than God’s own work, it also breaks with the ritual of work: work does not exhaust God any more than time exhausts eternity.
      
@@ -209,7 +209,7 @@ If there really is a text that _seems_ "timeless," that acquires kind of a timel
 > 
 > Michel Hulin, _La face cachée du temps,_ Fayard, Paris, 1985.
 > 
-> Karl Jaspers, _Origine et sens de l’histoire,_ Plon, Paris \[1954\].
+> Karl Jaspers, _Origine et sens de l’histoire,_ Plon, Paris &#91;1954&#93;.
 > 
 > Jean-Louis Leuba (ed.), _Temps et eschatologie: Données bibliques et problématiques contemporaines,_ éditions du Cerf, Paris 1994.
 > 

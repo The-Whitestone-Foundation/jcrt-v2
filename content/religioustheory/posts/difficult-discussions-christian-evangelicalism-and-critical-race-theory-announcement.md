@@ -26,6 +26,32 @@ tags:
   - discussion
   - political
   - social
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Discussion"
+    scheme: "FAST"
+    identifier: "fst00895143"
+    uri: "https://id.worldcat.org/fast/895143"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 **When:** Thursday, September 23, 2021, 10 am-12 pm (Mountain Daylight Time)
 

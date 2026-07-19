@@ -18,6 +18,17 @@ tags:
   - philosophy
   - theological
   - fundamental
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the fourth lecture in an eight-part lecture series.  Readers can also refer to lectures [one]( /religioustheory/posts/thinking-about-god-in-a-pluralistic-world-the-challenge-of-modern-theology-lecture-1-johannes-zuchaber/), [two]( /religioustheory/posts/the-critique-of-theism-kant-hegel-feuerbach-nietzsche-lecture-2-johannes-zachhuber/), and [three]( /religioustheory/posts/negative-theology-and-its-problems-barth-and-marion-lecture-3-johannes-zachhuber/).*
 

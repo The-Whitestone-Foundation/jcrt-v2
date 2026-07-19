@@ -19,4 +19,10 @@ issue: 2
 season: summer
 year: 2014
 pages: 129-131
+subjects:
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
 ---

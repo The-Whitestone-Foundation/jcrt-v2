@@ -17,4 +17,10 @@ issue: 2
 season: spring
 year: 2016
 pages: 4-25
+subjects:
+  - label: "Arts Psychology"
+    scheme: "FAST"
+    identifier: "fst00817797"
+    uri: "https://id.worldcat.org/fast/817797"
+    category: "topical"
 ---

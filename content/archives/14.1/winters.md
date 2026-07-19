@@ -19,4 +19,15 @@ issue: 1
 season: fall
 year: 2014
 pages: 171-200
+subjects:
+  - label: "Hope"
+    scheme: "FAST"
+    identifier: "fst00960068"
+    uri: "https://id.worldcat.org/fast/960068"
+    category: "topical"
+  - label: "Negativism"
+    scheme: "FAST"
+    identifier: "fst01035502"
+    uri: "https://id.worldcat.org/fast/1035502"
+    category: "topical"
 ---

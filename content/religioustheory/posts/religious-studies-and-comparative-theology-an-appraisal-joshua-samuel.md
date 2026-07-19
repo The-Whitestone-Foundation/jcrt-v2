@@ -20,6 +20,22 @@ tags:
   - religious
   - comparative
   - category
+subjects:
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 The title “religious scholar,” it must be remembered, is a very ambiguous categorization. It could either mean those who are engaged in academic work in the religious department of a university or it could also include those involved in subjective religious study, like in a seminary.
 
@@ -49,13 +65,13 @@ This knowledge acquisition and construction was especially done by way of compar
 
 Second, another offshoot from the colonial roots of religious pluralism was the creation of the category of “world religions,” that pushed other religions to the level of lesser or primitive religions. Masuzawa, in her study of the invention of the world religions discourse, shows that those religions with textual traditions (translated and interpreted by Orientalists) that were assumed to be ethically focused and those that were relatable to Christianity beyond their geographical boundaries had come to be classified as world religions; the non-textual and the locally-bound religions related to nature (studied by the anthropologists), however, became the primitive or lesser religions.[^7]
 
-Masuzawa notes that in the 19th century, “\[I\]n contrast to the great world religions, each with its own history, primitive religions lacked interest at this time because, supposedly, primitive religions had experienced little historical transformation.”[^8] However, the “recognition” of some as world religions was no less hegemonic either, for it was in fact “just another name for Christianity and for Christianity alone” which “became available to men and women of faith as a new conceptual framework, which facilitated the adaption of Christian absolutism to the modern reality.” Thus, “world religion,” in this exclusivist sense, was not synonymous with but rather distinct from and diametrically opposed to the “religions of the world,” that is, other religions.[^9]
+Masuzawa notes that in the 19th century, “In contrast to the great world religions, each with its own history, primitive religions lacked interest at this time because, supposedly, primitive religions had experienced little historical transformation.”[^8] However, the “recognition” of some as world religions was no less hegemonic either, for it was in fact “just another name for Christianity and for Christianity alone” which “became available to men and women of faith as a new conceptual framework, which facilitated the adaption of Christian absolutism to the modern reality.” Thus, “world religion,” in this exclusivist sense, was not synonymous with but rather distinct from and diametrically opposed to the “religions of the world,” that is, other religions.[^9]
 
 Thus, as Masuzawa clarifies, the entire project of “world religions” was—and is—nothing less than a clandestine effort to maintain a Christian-centered European hegemony that also transmitted/s this hegemony upon other subaltern faith communities.[^10]
 
 Thirdly, as another consequence of colonialism (which also coincided with the Protestant idea of the separation of the church and the state), religion tended to separate itself from the public sphere to be(come) a “private” matter, thanks to the religious-political events of the post-reformation period.[^11] Nongbri, asserts that in a context of colonialism and newly discovered differences, it seemed strategic that
 
-> \[W\]hen uniformity of religion is impossible to achieve, the best means for subjugating a people and maintaining a stable state is to allow distinct groups to live according to their own beliefs… \[by emphasizing\] …a highly personalized notion of religion that focused on the salvation of the individual soul. It is here that the theoretical differentiation of something called “religion” from the civic arena becomes quite clear.[^12]
+> When uniformity of religion is impossible to achieve, the best means for subjugating a people and maintaining a stable state is to allow distinct groups to live according to their own beliefs… &#91;by emphasizing&#93; …a highly personalized notion of religion that focused on the salvation of the individual soul. It is here that the theoretical differentiation of something called “religion” from the civic arena becomes quite clear.[^12]
 
 Further as Asad observes, the relegation of religion to the “irrational” private space was also a result of the ascent of secularism *as* the public space. He notes,
 
@@ -157,7 +173,7 @@ Finally, comparative theology also needs to be committed to its ethical responsi
 
 [^17] In simple terms, while Habermas follows the Rawlsian ideal of insisting that though religion has a lot of worth for the society, it must be translated into a secular language to be of public use, whereas Taylor contends that the religious and the secular would have to challenge and learn from each other. Jurgen Habermas, ““THE POLITICAL” The Rational Meaning of a Questionable Inheritance of Political Theology” & Charles Taylor, “Why We Need a Radical Redefinition of Secularism,” in Eduado Mendieta & Jonathan Vanantwerpen (ed.), *The Power of Religion in the Public Sphere*, (New York: Columbia University Press, 2011), pp. 26 – 28 & pp. 51 – 56.
 
-[^18] For example, read the proposition made by Smith in Jonathan Z. Smith, “Tillich\[‘s\] Remains…”, in *Journal of the American Academy of Religion,* December 2010, Vol. 78, No. 4, pp. 1146 – 1157.
+[^18] For example, read the proposition made by Smith in Jonathan Z. Smith, “Tillich&#91;‘s&#93; Remains…”, in *Journal of the American Academy of Religion,* December 2010, Vol. 78, No. 4, pp. 1146 – 1157.
 
 [^19] John J. Thatamanil, “Comparing Professors Smith and Tillich: A response to Jonathan Z. Smith’s “Tillich(‘s) Remains,”” in *Journal of the American Academy of Religion*, December 2010, Vo. 78, No. 4, (Oxford University Press, 2010), pp. 1175 – 1178.
 

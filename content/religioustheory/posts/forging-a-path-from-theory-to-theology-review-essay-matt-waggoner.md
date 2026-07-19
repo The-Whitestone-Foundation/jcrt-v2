@@ -19,6 +19,17 @@ tags:
   - political
   - radical
   - politics
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Blanton, Ward.  Crockett, Clayton.  Robbins, Jeffrey.  Vahanian, Noëlle.    *An Insurrectionist Manifesto: Four New Gospels for a Radical Politics* (Insurrections: Critical Studies in Religion, Politics, and Culture).   New York: Columbia University Press, 2016.  ISBN: 0231176236.  Hardcover, paperback, e-book.**
 
@@ -166,7 +177,7 @@ It isn’t that theology needs theory to complicate its grasp of the beyond, as 
 
 My final assessment of *An Insurrectionist Manifesto* is that the obstacles that it throws in the path toward appreciating its most basic desires and impulses do not entirely succeed in preventing them from getting through, that there is, for instance, something happening in this book that is conceptually superior to the argument of Amin and Thrift in *Arts of the Political*. Amin and Thrift shared a similar desire for a sense of the beyond, but could only envision it in a highly traditional way by identifying it with a sense of futurity, which is a staple of the kinds of temporal imagination that have defined the traditional left.
 
-![20897046879_6fe2f8731b_c](/images/2017/04/20897046879_6fe2f8731b_c.webp)Where, in this respect, the superiority of *An Insurrectionist Manifesto* is most evident to me is in a passage by Blanton, in which he contrasts the “vampiric transcendence” of insurrectionism with the twin tendencies of a “return” to the past and a “leap forward” to the future,” which he describes as inclinations that have historically masqueraded as the only viable routes to emancipation. Insurrectionism, he adds, is not “a breakthrough, a piercing of the collective or epochal veil,” or the “bearer of … newness.” What it is instead is a freedom to “cast about, even just to shuffle around, for instances of solidarities that these other stratagems, these other visions, tend to have missed.” It is not so much “coming, on the way, breaking through” as it is the “patiently inventive practice of archiving \[which is to say\] recategorizing, realigning, and differently accessing … in the search of solidarities we might enhance, encourage, develop” (95-96).
+![20897046879_6fe2f8731b_c](/images/2017/04/20897046879_6fe2f8731b_c.webp)Where, in this respect, the superiority of *An Insurrectionist Manifesto* is most evident to me is in a passage by Blanton, in which he contrasts the “vampiric transcendence” of insurrectionism with the twin tendencies of a “return” to the past and a “leap forward” to the future,” which he describes as inclinations that have historically masqueraded as the only viable routes to emancipation. Insurrectionism, he adds, is not “a breakthrough, a piercing of the collective or epochal veil,” or the “bearer of … newness.” What it is instead is a freedom to “cast about, even just to shuffle around, for instances of solidarities that these other stratagems, these other visions, tend to have missed.” It is not so much “coming, on the way, breaking through” as it is the “patiently inventive practice of archiving &#91;which is to say&#93; recategorizing, realigning, and differently accessing … in the search of solidarities we might enhance, encourage, develop” (95-96).
 
 This strikes me as something that is not a refusal of *beyondness* and transcendence, but also as avoiding the pitfalls of assuming that such things can only be found in the language of futurity or in that which is epic and edgy. I don’t know that it is a surge or an insurrection, but it is a useful set of analogies for the patient practice of forging solidarities and finding resources in the detritus of the damaged conditions of contemporary life for preserving a sense of, and of enhancing, encouraging, and developing, that which exceeds them.
 

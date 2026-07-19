@@ -22,6 +22,32 @@ tags:
   - religion
   - cultural
   - spiritual
+subjects:
+  - label: "Conversion"
+    scheme: "FAST"
+    identifier: "fst00877225"
+    uri: "https://id.worldcat.org/fast/877225"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first installment of a two-part series.
 

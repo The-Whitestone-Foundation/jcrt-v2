@@ -21,6 +21,22 @@ tags:
   - nationalism
   - religious
   - political
+subjects:
+  - label: "Democracy"
+    scheme: "FAST"
+    identifier: "fst00890077"
+    uri: "https://id.worldcat.org/fast/890077"
+    category: "topical"
+  - label: "Nationalism"
+    scheme: "FAST"
+    identifier: "fst01033832"
+    uri: "https://id.worldcat.org/fast/1033832"
+    category: "topical"
+  - label: "Populism"
+    scheme: "FAST"
+    identifier: "fst01071658"
+    uri: "https://id.worldcat.org/fast/1071658"
+    category: "topical"
 ---
 **When**: Sept. 25-26, 2025
 
@@ -68,4 +84,4 @@ Important Dates:
 
 ## Submission Process
 
-All proposals should be submitted as email attachments to the editor via the [contact form](/contact/) with the header “Populism, Nationalism, and the Future of Demovtsvy – \[Title\]”.[JCRT](https://jcrt.org)
+All proposals should be submitted as email attachments to the editor via the [contact form](/contact/) with the header “Populism, Nationalism, and the Future of Demovtsvy – &#91;Title&#93;”.[JCRT](https://jcrt.org)

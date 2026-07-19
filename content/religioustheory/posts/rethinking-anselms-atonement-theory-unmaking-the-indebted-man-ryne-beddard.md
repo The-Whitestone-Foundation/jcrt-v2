@@ -23,6 +23,32 @@ tags:
   - atonement
   - gregory
   - salvation
+subjects:
+  - label: "Atonement"
+    scheme: "FAST"
+    identifier: "fst00820671"
+    uri: "https://id.worldcat.org/fast/820671"
+    category: "topical"
+  - label: "Humanity"
+    scheme: "FAST"
+    identifier: "fst00963659"
+    uri: "https://id.worldcat.org/fast/963659"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Salvation"
+    scheme: "FAST"
+    identifier: "fst01104418"
+    uri: "https://id.worldcat.org/fast/1104418"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 Throughout Church history Christians have used various images and illustrations to explain why God became a human and died, and why these actions have been considered by the tradition to be salvific. These are referred to as atonement theories, and in general they seek to answer three questions: How is humanity saved through Jesus? Who or what is humanity saved from? And what is the scope of this salvation? These theories have developed and adapted over time but we can group them in three main categories.
 

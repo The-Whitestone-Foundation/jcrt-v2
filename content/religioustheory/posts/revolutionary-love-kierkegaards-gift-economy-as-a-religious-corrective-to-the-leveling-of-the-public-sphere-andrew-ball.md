@@ -21,6 +21,12 @@ tags:
   - relation
   - individual
   - inwardness
+subjects:
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -36,7 +42,7 @@ The leveling notion of the public evinces the absence of strong communal life an
 
 The “public,” for Kierkegaard, is neither a community nor a congregation, but is rather a vacuum, a “monstrous nonentity” (EK 262). This is to say that community and political upbuilding are not antithetical to existential transformation or the single individual’s capacity to stand alone, quite the contrary. Rather, it is the individual’s movement into the religious that will allow for the creation of a unified community where the Christian command for neighborly love is translated into the social whole. For Kierkegaard, we may only remedy the deficiency of modernity where individuals have forgotten how to suffer for the other when the individual can learn how to engage in a proper relation to the other. This education will allow sectarianism and partisanship to be replaced by solidarity and a “deliberative union of individuals” (Matuštik 240).
 
-Kierkegaard claims that in order to begin living the religious corrective to the leveling effects of modernity—those that have instantiated violent international antagonism among differing cultural value spheres (be they doctrinal, economic, or territorial) and stifled the existential maturation of individuals—“an entirely different revolution…must take place” (WOL 102). Particularly in *Works of Love*, Kierkegaard reveals the contours of this corrective, where he makes subtle use of the dual sense of revolution \[*omdrejning*\], both as political upheaval and resistance to the established order (in regard to both the State and the Church), in addition to the existential sense of a turning \[*omdrejning*\] (away from externality, toward the other, inwardness, God, and love), or the perpetual re/turn to the difficult beginnings of the lived corrective.
+Kierkegaard claims that in order to begin living the religious corrective to the leveling effects of modernity—those that have instantiated violent international antagonism among differing cultural value spheres (be they doctrinal, economic, or territorial) and stifled the existential maturation of individuals—“an entirely different revolution…must take place” (WOL 102). Particularly in *Works of Love*, Kierkegaard reveals the contours of this corrective, where he makes subtle use of the dual sense of revolution &#91;*omdrejning*&#93;, both as political upheaval and resistance to the established order (in regard to both the State and the Church), in addition to the existential sense of a turning &#91;*omdrejning*&#93; (away from externality, toward the other, inwardness, God, and love), or the perpetual re/turn to the difficult beginnings of the lived corrective.
 
 Kierkegaard’s existential/religious revolution is one that must be built from the ground up, beginning with the turn to inwardness. But we must recall that turning inward is not the existential equivalent of sticking one’s head in the sand in order to turn away from the world. Rather, inwardness is a religious relation and as such requires that one turn toward the other and to God as well as to the self. The revolutionary self-other-God relation is complex and often seemingly paradoxical, or as Kierkegaard has put it, appears to be both too much and too little, but deliberating on this relation, we find that Kierkegaard proposes that an earnestly agapic gift economy, perpetually re/turned to its difficult beginnings, will serve as the lived corrective to modern mass culture, fanaticism, and the negation of the individual.
 

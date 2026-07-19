@@ -21,6 +21,17 @@ tags:
   - intensity
   - musical
   - revival
+subjects:
+  - label: "Anthropology of religion"
+    scheme: "FAST"
+    identifier: "fst01738842"
+    uri: "https://id.worldcat.org/fast/1738842"
+    category: "topical"
+  - label: "Music"
+    scheme: "FAST"
+    identifier: "fst01030269"
+    uri: "https://id.worldcat.org/fast/1030269"
+    category: "topical"
 ---
 *The following is the first of a three-part series. The full article is also available in the Spring 2022 issue of the* [*Journal for Cultural and Religious Theory*](https://jcrt.org/archives/21.2/)*.*
 
@@ -86,7 +97,7 @@ Among the Enga people living in the Baiyer River area of the Papua New Guinea hi
 
 Radically intensified musical affect is intensely corporeal. Spiritually catalysed musical eruptions don’t just bring people together, they compel violent, stifling, exhausting collisions. Performance is brutal, incendiary, depleting.  Emerging out of their 1977 ‘revival’, Urapmin *spirit disko* famously described by Robbins in *Becoming Sinners* (2004) entail nighttime possession dances of great energy and near-violence that go on for hours in darkened churches…Once several people become possessed, bodies fly about wildly, and people get bumped and banged. With the dancers pounding and the possessed stomping and flailing, large slats of the church’s bark floor break…The feeling of intense energy that pervades the dance…a sense of violence and danger pervades the ecstasy of the rite.[^47]
 
-Near Ialibu, in the highlands of Papua New Guinea, in 1981, while singing “Children between the ages of 7 and 15 and many older women and some men would smile and be very happy and weave \[sic\] their hands and arms over their heads. The tempo would increase until it was almost a frenzy!”[^48] During the spread of religious intensity around the Lake Kutubu area in 1974, “People began to shake in the all night singing, the constancy of which made people so tired that husbands or wives went home and left their spouses in the company of others, clean contrary to tribal custom.”[^49] Exhausting and wild, overflowing sonic intensity is also hot to the touch. During their performances, the Urapmin felt “extremely hot”[^50] for instance. But affective heat may not just be corporeal, but also ontological.
+Near Ialibu, in the highlands of Papua New Guinea, in 1981, while singing “Children between the ages of 7 and 15 and many older women and some men would smile and be very happy and weave &#91;sic&#93; their hands and arms over their heads. The tempo would increase until it was almost a frenzy!”[^48] During the spread of religious intensity around the Lake Kutubu area in 1974, “People began to shake in the all night singing, the constancy of which made people so tired that husbands or wives went home and left their spouses in the company of others, clean contrary to tribal custom.”[^49] Exhausting and wild, overflowing sonic intensity is also hot to the touch. During their performances, the Urapmin felt “extremely hot”[^50] for instance. But affective heat may not just be corporeal, but also ontological.
 
 As molecular bodies relentlessly and contagiously careen into each other within musical performances, the temperature of being is raised. Thus, Handman speaks of traditional ritual heat interpolated into revivalist musical performance among the Guhu-Samane.[^51] Further afield in Haiti, Butler similarly describes how songs “become most powerful when they “heat up” (“chofe”) the space. Heating up occurs as worshippers use joyously energetic worship to invite the Holy Spirit into their midst.”[^52] Not an individual ‘strangely warmed heart’ but a region of communities whose outer and inner dimensions are burning to the sound of music. Ontological pyrotechnics. 
 

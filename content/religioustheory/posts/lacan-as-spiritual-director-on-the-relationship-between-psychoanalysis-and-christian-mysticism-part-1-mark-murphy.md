@@ -22,6 +22,27 @@ tags:
   - psychoanalysis
   - happiness
   - theology
+subjects:
+  - label: "Happiness"
+    scheme: "FAST"
+    identifier: "fst00951160"
+    uri: "https://id.worldcat.org/fast/951160"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first installment of a three-part series.
 
@@ -81,7 +102,7 @@ Whenever the importance of experience is determined only by intensity, by absolu
 
 It is claimed that there may be suffering in an individual’s life, yes there may be pain but with the right direction, the right way of listening, with the right prayers along with the right therapy, you can open yourself up to happiness and healing:
 
-> \[Negative experiences\] are evidence of the lower, unactualised rungs of the ladder. Our way shall be around them. Meditate, contemplate, exercise through them and away from them, but do not dwell there for insight. Analysis of them leads downward into fragmentation, into the bits and functions and complexes of partial man and away from wholeness and unity. This denial sees in psychopathological events misplaced energies by which one may be scourged by which ultimately shall be transformed to work for one and toward the One&hellip;Divinity is up at the peaks, not the swamps of our funk, and not in&hellip;anxiety&hellip;[^34]
+> &#91;Negative experiences&#93; are evidence of the lower, unactualised rungs of the ladder. Our way shall be around them. Meditate, contemplate, exercise through them and away from them, but do not dwell there for insight. Analysis of them leads downward into fragmentation, into the bits and functions and complexes of partial man and away from wholeness and unity. This denial sees in psychopathological events misplaced energies by which one may be scourged by which ultimately shall be transformed to work for one and toward the One&hellip;Divinity is up at the peaks, not the swamps of our funk, and not in&hellip;anxiety&hellip;[^34]
 
 Hillman sees this perspective as being antithetical to older forms of spiritual direction and forms of spirituality. He could see the gradual transformation of the language of the soul into something which negated some of its most fundamental aspects.   It is this drive toward ‘positive experientialism’ which allows our modern neoliberal society, which has consumption and production at its very heart, to utilize the disciplines of therapy and spiritual direction to create a subject who is shaped by this drive toward experiential enjoyment.
 

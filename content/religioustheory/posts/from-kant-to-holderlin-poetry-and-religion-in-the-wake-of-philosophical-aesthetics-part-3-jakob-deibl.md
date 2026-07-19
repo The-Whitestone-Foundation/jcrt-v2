@@ -21,6 +21,22 @@ tags:
   - modality
   - reality
   - subject
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Possibility"
+    scheme: "FAST"
+    identifier: "fst01072695"
+    uri: "https://id.worldcat.org/fast/1072695"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The first one can be found [here]( /religioustheory/posts/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics/).  Translated by Philipp Schlögl.*
 
@@ -74,11 +90,11 @@ Reality and possibility neither stand side by side without connection, nor are t
 
 Second, *Repetition* – understood in Hölderlin’s sense – opens reality up to a space of possibility that eludes any immediate conceptual definition. Starting from here, Hölderlin can take the transition to the *aesthetic ideas*, as Kant determines them in the *Critique of Judgment*. In this, the concept of repetition (“then I am only repeating the prior consciousness”, EaL 232) is decisive.[^19]
 
-In the first paragraph of the *Critique of Judgment*, Kant distinguishes the judgment of taste from the judgment of cognition. The judgment of taste, which indicates whether something is beautiful, does not refer to an idea of the object in order to determine it more accurately, but refers the idea to the “subject \[which\] feels himself, \[namely\] how he is affected by the presentation”.[^20] What the categories of modality and the judgments of taste have in common is that they do not convey any knowledge about the object, but rather open up the space of the subject’s respective relationship to the notion of an object – be it with regard to the subject’s corresponding cognitive faculty (modality), be it in its affection by the imagination (judgment of taste) – as a moment that is *accompanying* (*mitgängig*) the cognitive process, the process of the constitution of the object.
+In the first paragraph of the *Critique of Judgment*, Kant distinguishes the judgment of taste from the judgment of cognition. The judgment of taste, which indicates whether something is beautiful, does not refer to an idea of the object in order to determine it more accurately, but refers the idea to the “subject &#91;which&#93; feels himself, &#91;namely&#93; how he is affected by the presentation”.[^20] What the categories of modality and the judgments of taste have in common is that they do not convey any knowledge about the object, but rather open up the space of the subject’s respective relationship to the notion of an object – be it with regard to the subject’s corresponding cognitive faculty (modality), be it in its affection by the imagination (judgment of taste) – as a moment that is *accompanying* (*mitgängig*) the cognitive process, the process of the constitution of the object.
 
 Special attention should be paid to the turn of phrase that in the judgments of taste, the subject, affected by the imagination, feels itself. As in the representation of the inner sense, i.e. of time, in the *Critique of Pure Reason*, a hiatus, a difference, a distance, which cannot be closed by conceptual knowledge (logical judgments), is also shown here through the affection in the subject. Hölderlin also sees this difference in the transition from reality to possibility. The repetition corresponds to this distance, this difference, this displacement. According to Hölderlin, poetry (art) and religion, which (as shown below) are conceived on the basis of repetition, are symbolizations or forms of dealing with and shaping this opening moment.[^21]
 
-4) In need of clarification is what Hölderlin’s strange determination of the category of possibility is all about as a repetition of what really is. In my view the key to this lies in paragraph 49 of the *Critique of Judgment*, in which Kant unfolds the meaning of *aesthetic ideas*: “by an aesthetic idea I mean a presentation of the imagination which prompts much thought, but to which no determinate thought whatsoever, i.e., no \[determinate\] *concept* can be adequate, so that no language can express it completely and allow us to grasp it”.[^22] And a little later he adds as an explanation: “For the imagination (in its role as a productive cognitive power) is very mighty when it creates, as it were, another nature out of the material that actual nature gives it.”[^23] The productive power of imagination, which has already been present in the chapter on schematism and which, in Kant’s case, in a certain way represents the heart of the process of cognition (because it allows the categories to be applied to perception), is thus not merely a tool, but “creative”[^24] .
+4) In need of clarification is what Hölderlin’s strange determination of the category of possibility is all about as a repetition of what really is. In my view the key to this lies in paragraph 49 of the *Critique of Judgment*, in which Kant unfolds the meaning of *aesthetic ideas*: “by an aesthetic idea I mean a presentation of the imagination which prompts much thought, but to which no determinate thought whatsoever, i.e., no &#91;determinate&#93; *concept* can be adequate, so that no language can express it completely and allow us to grasp it”.[^22] And a little later he adds as an explanation: “For the imagination (in its role as a productive cognitive power) is very mighty when it creates, as it were, another nature out of the material that actual nature gives it.”[^23] The productive power of imagination, which has already been present in the chapter on schematism and which, in Kant’s case, in a certain way represents the heart of the process of cognition (because it allows the categories to be applied to perception), is thus not merely a tool, but “creative”[^24] .
 
 It is not exhausted in its logical function, which serves the acquisition of knowledge (the determination of the object).[^25] The power of imagination has an anarchic moment in itself which cannot be grasped in a certain concept and which does not (directly) contribute anything to the (scientific, logical) knowledge of an object, but which accompanies the process of application of the categories of understanding to perception, and therefore does not merely originate from imagination.
 
@@ -112,7 +128,7 @@ The power of imagination is “very mighty when it creates, as it were, another 
 
 [^11]: Cf. Michael Franz, *Hölderlins Logik. Zum Grundriß von ‚Seyn Urtheil Möglichkeit‘*, in: HJb 1986/87, 93-124; here especially: 118-123; Michael Franz., *Einige Editorische Probleme von Hölderlins theoretischen Schriften. Zur Textkritik von ‚Seyn, Urtheil, Modalität‘, ‚Über den Begriff der Straffe‘ und ‚Fragment philosophischer Briefe‘*, in: HJb 2000/01, 330-344, here: 330-333; Michael Franz, *Theoretische Schriften*, in: *Hölderlin Handbuch*, 224-246, here: 228-232; Kreuzer, TS XIII-XV and 119.
 
-[^12]: Cf. The beautiful formulation by Michael Franz: “Under the condition of (the) ‘Ur-Teilung’ (primal-separation), the categories of modality constitute a relationship between the separated parts – subject and object.” (vgl. Franz, *Theoretische Schriften*, in: *Hölderlin Handbuch*, 224-246, here: 232 \[Translation: Sara Walker\]).
+[^12]: Cf. The beautiful formulation by Michael Franz: “Under the condition of (the) ‘Ur-Teilung’ (primal-separation), the categories of modality constitute a relationship between the separated parts – subject and object.” (vgl. Franz, *Theoretische Schriften*, in: *Hölderlin Handbuch*, 224-246, here: 232 &#91;Translation: Sara Walker&#93;).
 
 [^13]: I adopt this term from Dieter Mersch.
 
@@ -128,7 +144,7 @@ The power of imagination is “very mighty when it creates, as it were, another 
 
 [^19]: Hölderlin talks about his own version of aesthetic ideas in a letter to Neuffer dated 10 October 1794: “Perhaps I’ll be able to send you an essay on aesthetic ideas; &hellip; In essence it is to contain an analysis of the beautiful and the sublime in which the Kantian analysis will be simplified and also, from another perspective, varied and extended, as Schiller has already done in part in his treatise on ‘Grace and Dignity’, though he has ventured a step less beyond the Kantian borderline than he should have done in my opinion.” (Brief 88, 10. Oktober 1794, MA II, 548-551, here: 550f/EaL 31-35, here: 34) On the significance of the term aesthetic ideas for Hölderlin cf. Violetta Waibel, *“Wenn der Dichter einmal des Geistes mächtig …”.* *„Leben. Geist. Bewegung. Thätigkeit“. Anmerkungen zum Geistbegriff der Dichterphilosophen Hölderlin und Hardenberg*, will be published in 2019.
 
-[^20]: Kant, *Kritik der Urteilskraft,* Werkausgabe Band X, hrsg. von Wilhelm Weischedel, Frankfurt am Main 212014 \[below KdU\] § 1, 115/Kant, *Critique of Judgement*, translated, with an introduction, by Werner S. Pluhar, with a foreword by Mary J. Gregor, Indianapolis/Cambridge 1987, 44. The judgment on taste does not state that the object x is objectively beautiful and that this determination is part of its characterisation.
+[^20]: Kant, *Kritik der Urteilskraft,* Werkausgabe Band X, hrsg. von Wilhelm Weischedel, Frankfurt am Main 212014 &#91;below KdU&#93; § 1, 115/Kant, *Critique of Judgement*, translated, with an introduction, by Werner S. Pluhar, with a foreword by Mary J. Gregor, Indianapolis/Cambridge 1987, 44. The judgment on taste does not state that the object x is objectively beautiful and that this determination is part of its characterisation.
 
 [^21]: I owe this consideration to Kurt Appel.
 
@@ -142,4 +158,4 @@ The power of imagination is “very mighty when it creates, as it were, another 
 
 [^26]: Kant, KdU § 49, 250/Kant, *Critique of Judgement*, 182.
 
-[^27]: The category of possibility is therefore of decisive importance. Dieter Henrich, however, has a different view on the unusual classification of the categories of modality in *Being Judgement Possibility*: “It \[classification\] seems to aim at minimalizing the role of the concept of possibility” (Dieter Henrich, *Der Grund im Bewußtsein. Untersuchungen zu Hölderlins Denken (1794-1795)*, 709, cf. also 715 \[Translation: Sara Walker\]).
+[^27]: The category of possibility is therefore of decisive importance. Dieter Henrich, however, has a different view on the unusual classification of the categories of modality in *Being Judgement Possibility*: “It &#91;classification&#93; seems to aim at minimalizing the role of the concept of possibility” (Dieter Henrich, *Der Grund im Bewußtsein. Untersuchungen zu Hölderlins Denken (1794-1795)*, 709, cf. also 715 &#91;Translation: Sara Walker&#93;).

@@ -19,6 +19,12 @@ tags:
   - patient
   - reality
   - religious
+subjects:
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
 ---
 ***Notations is a feature of the JCRT’s*** **Religious Theory** ***weblog.  From time to time we solicit pieces from contributors who are on the scene and able to theorize from the actual site of major world events.  This week we publish a series of contributions from observers and scholars who have witnessed first-hand the European refugee crisis.***
 
@@ -27,7 +33,7 @@ tags:
 
 *“Whenever one hears admiring talk of the savage, one can be sure that one is in the presence of sophisticates. Indeed it took a sophisticate, Sigmund Freud, to reveal what incestuous desires may lurk within our dreams of sensuous wholeness, our hankering for a body which is warmly palpable yet eternally elusive.” – Terry Eagleton*
 
- *“You ask who this person in the dream can be. It’s* *not* *my mother” \[“Die Mutter ist es nicht” says the subject\]. Thus, \[the analyst can certainly conclude\] it is the mother \[Also ist es die Mutter\].” – Sigmund Freud*
+ *“You ask who this person in the dream can be. It’s* *not* *my mother” &#91;“Die Mutter ist es nicht” says the subject&#93;. Thus, &#91;the analyst can certainly conclude&#93; it is the mother &#91;Also ist es die Mutter&#93;.” – Sigmund Freud*
 
  *“What is called Spirit?, Was heist der Geist? – the title of a book Heidegger never wrote.” – Jacques Derrida*
 

@@ -24,6 +24,27 @@ tags:
   - demonic
   - biblical
   - scriptural
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Hermeneutics"
+    scheme: "FAST"
+    identifier: "fst00955492"
+    uri: "https://id.worldcat.org/fast/955492"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first part in a two-part installment.
 
@@ -143,7 +164,7 @@ Divinely inspired texts, and of course doctrinal and confessional formulations a
 
 ![](/images/2018/02/divinely-inspired.webp)Specifically, the element of his analysis, which should be applied in a new hermeneutic begins with, or at least fundamentally includes the notion that all writing effectively presents a “free play” of undecidability within every system of communication, every discourse. To quote Norris again, the operations of writing “are precisely those which escape the self-consciousness of speech and its deluded sense of the mastery of concept over language.”[^16] By this reckoning, in all writing, in all texts, the assumed and trusted connection between signifier (language) and signified (any and all referents including the “transcendental signified”) has been shown to be problematized at best and deceiving at worst.
 
-So, the response to this situation, argues Derrida, is to acknowledge that finite language is in effect a field of “play” – to quote him, “a field of infinite substitutions because it is finite … \[and\] there is something missing from it: a center which arrests and grounds the play of substitutions.” By “play” then, Derrida appears to mean that in reading one must recognize and respond as he or she will to the de-stabilized and de-stabilizing condition inherent in the signifying language. Play, or “free play,” is required because all written content lacks definitive meaning, and thus the adequate communication of information intended by the writer can never be assured.
+So, the response to this situation, argues Derrida, is to acknowledge that finite language is in effect a field of “play” – to quote him, “a field of infinite substitutions because it is finite … &#91;and&#93; there is something missing from it: a center which arrests and grounds the play of substitutions.” By “play” then, Derrida appears to mean that in reading one must recognize and respond as he or she will to the de-stabilized and de-stabilizing condition inherent in the signifying language. Play, or “free play,” is required because all written content lacks definitive meaning, and thus the adequate communication of information intended by the writer can never be assured.
 
 At risk of complicating this facet of Derrida’s theory that I find especially relevant, I note his additional observation: “The *overabundance* of the signifier, it *supplementary* character, is thus the result of a finitude, that is to say, the result of a lack which must be *supplemented*.“[^17] No meaning of a term is fixed, rendering definitive definition effectively impossible. So, every term necessarily requires a supplement or supplements, something or some things which help it exist and be understood.
 

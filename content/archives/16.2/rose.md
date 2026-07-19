@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2017
 pages: 240-259
+subjects:
+  - label: "Angels"
+    scheme: "FAST"
+    identifier: "fst00808746"
+    uri: "https://id.worldcat.org/fast/808746"
+    category: "topical"
+  - label: "Cyborgs"
+    scheme: "FAST"
+    identifier: "fst00885806"
+    uri: "https://id.worldcat.org/fast/885806"
+    category: "topical"
+  - label: "Postsecularism"
+    scheme: "FAST"
+    identifier: "fst01764747"
+    uri: "https://id.worldcat.org/fast/1764747"
+    category: "topical"
 ---

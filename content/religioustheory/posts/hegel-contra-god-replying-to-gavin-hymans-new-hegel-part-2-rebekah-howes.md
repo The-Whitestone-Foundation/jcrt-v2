@@ -21,10 +21,31 @@ tags:
   - political
   - ethical
   - philosophy
+subjects:
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-1-rebekah-howes/). The earlier article by Prof. Hyman to which the author replies can be found* [*here*]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-3-gavin-hyman/)*.*
 
-But what is always at stake in these arguments, writes Hyman, is the question of the contamination of the Absolute or God. Can we still speak of God as God if God is conditioned by what is other to God? This limitation is what Hyman, and the new interpretations, are interested in. What they find in Hegel is ‘a genuine \[or originary\] divine transcendence’[^1] which makes possible the distinction between transcendence and immanence as something posited. This ‘truly transcendent and unconditioned’[^2] God or Absolute is not distinct from the finite or immanent world because immanence is ‘the process of the self-manifestation of this divine Absolute.’[^3]
+But what is always at stake in these arguments, writes Hyman, is the question of the contamination of the Absolute or God. Can we still speak of God as God if God is conditioned by what is other to God? This limitation is what Hyman, and the new interpretations, are interested in. What they find in Hegel is ‘a genuine &#91;or originary&#93; divine transcendence’[^1] which makes possible the distinction between transcendence and immanence as something posited. This ‘truly transcendent and unconditioned’[^2] God or Absolute is not distinct from the finite or immanent world because immanence is ‘the process of the self-manifestation of this divine Absolute.’[^3]
 
 In other words, its manifestation is the posited distinction between transcendence and immanence through which it appears in, and as, both.  For Hyman, the doctrine of the trinity in Hegel expresses the triune nature of this unconditioned unity; God as Father (transcendent), as Son (immanence) and as Spirit (the mutually mediating relation of both). Hyman equates Williams’ Hegelian God to the transcendent element of the trinity and Žižek’s to the element of immanence in order to assert the ‘necessity of their co-belonging’ in a structure within which negativity (Spirit) is ‘the condition and dimension’[^4] of their unity and difference.
 
@@ -40,7 +61,7 @@ Hyman writes little about actuality directly here, so it is worth saying a littl
 
 Thinking the absolute is seeing ‘particular forms of relative ethical life as distortions, and which therefore opens up the possibility of our deliverance from them.’[^16] The absolute and actuality in Hegel are ‘the foundation of the critique of law and of property relations.’[^17] This is why Hegel does not overcome the ego in some illusory or impossible ideal, says Hyman, but ‘dissolves and maintains’ it as ‘a certain *dispossession*,’[^18] within which we continue to ‘make decisions, act, and interact,’ but in ways ‘not *fully* determined’[^19] by prevailing property relations. ‘If actuality is not thought, then thinking has no social import.’[^20]
 
-Despite the re-conception of political critique and activity in Rose’s notion of absolute ethical life, Hyman, with Osborne, remains uneasy about its capacity to offer a substantial vision of absolute ethical life. He goes on to invoke Williams’ theological reading of Rose, and Wittgenstein’s ‘language games,’ as supplements to Rose’s thinking, seeing in them both ‘a more positive “substantive” \[affirmative\] direction’ than one which leads seemingly to an infinity of dead ends. This move by Hyman, I suggest, shows that he remains hostage to a certain sort of logic or identity thinking regarding God or absolute ethical life. 
+Despite the re-conception of political critique and activity in Rose’s notion of absolute ethical life, Hyman, with Osborne, remains uneasy about its capacity to offer a substantial vision of absolute ethical life. He goes on to invoke Williams’ theological reading of Rose, and Wittgenstein’s ‘language games,’ as supplements to Rose’s thinking, seeing in them both ‘a more positive “substantive” &#91;affirmative&#93; direction’ than one which leads seemingly to an infinity of dead ends. This move by Hyman, I suggest, shows that he remains hostage to a certain sort of logic or identity thinking regarding God or absolute ethical life. 
 
 He still posits the ambiguous status of the absolute in Rose as a negative dialectic in need of a more positive, and by implication non-contradictory affirmation. Critics of Rose, like Osborne, rarely push further into the logic that is not of ordinary propositions or indeed that of ordinary logic itself. Rarely do they seek to educate the abstraction of their own critique ‘by expounding the process of its determination,’[^21] as she commends. But, too often, even Rose’s supporters, like Hyman, shy away from naming God or the absolute as the difficulty of this different logic and do so because they remain in thrall to logic’s continuing domination of the criteria by which truth, or the absolute, or God must be judged. At the heart of this domination is its control over the distinction between the knowable and the unknowable, a challenge that Rose meets head on in her work. This deserves a little of our attention now.
 

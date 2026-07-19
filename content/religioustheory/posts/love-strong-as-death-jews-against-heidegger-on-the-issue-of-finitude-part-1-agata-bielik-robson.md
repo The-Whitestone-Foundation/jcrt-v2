@@ -22,6 +22,22 @@ tags:
   - impossibility
   - philosophical
   - decision
+subjects:
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Possibility"
+    scheme: "FAST"
+    identifier: "fst01072695"
+    uri: "https://id.worldcat.org/fast/1072695"
+    category: "topical"
 ---
 *This article is published in two parts.  The second portion will appear on August 1.*
 
@@ -119,7 +135,7 @@ And again, Heidegger provides the textual evidence: “The ecstatical character 
 
 [^1]: Jean-Luc Nancy, *The Sense of the World*, trans. Jeffrey S. Librett, Minneapolis: University of Minnesota Press, 1997, p. 29.
 
-[^2]: “In Heidegger, the ethical relation, the *Miteinandersein*, the being-with-another-person, is only one moment of our presence in the world. It does not have the central place. Mit is always being next to… it is not in the first instance the Face, it is *zusammensein* \[being-together\], perhaps *zusammen**marschieren* \[marching-together\]”: Emmanuel Levinas, “Philosophy, Justice, and Love,” in *Entre Nous, Thinking of The Other*, trans. Michael B. Smith and Barbara Harshav, New York: Columbia University Press, 1998, p. 116 (*Entre* *Nous:* *Essays sur* *le* *penser-a-l’autre*, Editions Grasset & Fasquelle 1991).
+[^2]: “In Heidegger, the ethical relation, the *Miteinandersein*, the being-with-another-person, is only one moment of our presence in the world. It does not have the central place. Mit is always being next to… it is not in the first instance the Face, it is *zusammensein* &#91;being-together&#93;, perhaps *zusammen**marschieren* &#91;marching-together&#93;”: Emmanuel Levinas, “Philosophy, Justice, and Love,” in *Entre Nous, Thinking of The Other*, trans. Michael B. Smith and Barbara Harshav, New York: Columbia University Press, 1998, p. 116 (*Entre* *Nous:* *Essays sur* *le* *penser-a-l’autre*, Editions Grasset & Fasquelle 1991).
 
 [^3]: Harold Bloom, *The Anxiety of Influence. A Theory of Poetry (With a New Preface on Shakespeare)*. New Haven & London: Yale University Press, 1997, p. xxvii.
 

@@ -25,6 +25,42 @@ tags:
   - theoryPosts
   - religious
   - theory
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 ![951986_stock-photo-music-notes-on-old-paper-sheet-to-use-for-the-background](/images/2016/02/951986_stock-photo-music-notes-on-old-paper-sheet-to-use-for-the-background-2.webp)In addition to reviews and commentaries, the new JCRT feature “religious theory” ([jcrt.org/religioustheory]( /)), updated regularly, will publish in an ongoing sequence short analysis or reflections that respond to certain burning issues or questions of the day, or at least those issues or questions where there are hot coals or embers.  For more information, go to [https://jcrt.org/religioustheory/notations/]( /religioustheory/posts/notations-agambens-homo-sacer-refugees-and-the-crisis-of-european-values/).
 

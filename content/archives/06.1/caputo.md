@@ -18,4 +18,10 @@ issue: 1
 season: winter
 year: 2004
 pages:
+subjects:
+  - label: "Obituaries"
+    scheme: "FAST"
+    identifier: "fst01042781"
+    uri: "https://id.worldcat.org/fast/1042781"
+    category: "topical"
 ---

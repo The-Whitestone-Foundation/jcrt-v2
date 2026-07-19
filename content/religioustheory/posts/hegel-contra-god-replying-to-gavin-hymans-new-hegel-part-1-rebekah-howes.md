@@ -21,6 +21,27 @@ tags:
   - philosophy
   - transcendence
   - logic
+subjects:
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first of a three-part series. The earlier article by Prof. Hyman to which the author replies can be found* [*here*]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-3-gavin-hyman/)*.*
 
@@ -50,7 +71,7 @@ But, in the same way that the question of God divided traditional Hegelian schol
 
 Williams, writes Hyman, sees the convergence of theology and philosophy in what, for Hegel, it means to think about thinking. The ‘grammar’ of God is ‘the grammar of thought.’[^8] In other words, ‘we can’t think God apart from thinking ourselves; to think it as separate is to fail in thinking-as-such.’[^9] Williams is faithful to Hegel, says Hyman, because he resists ‘*both* an undue *separation* between God and the world and also an unwarranted *identification* of God with the world.’[^10] God’s self-sufficiency is not ‘a life lived “beyond” us that we can yet talk about’ because such an ‘“exceeding” of thought cannot itself be thought or spoken.’[^11] Williams, says Hyman, is walking a fine line here regarding the theological integrity of transcendence but his aim is to bring Hegel’s insights to bear on the thinking of God in theology so as to trouble ‘any straightforward opposition between transcendence and immanence.’[^12]
 
-Žižek’s atheistic Hegelian God, writes Hyman, is close to Williams in that it also refuses the trap of dualistic thinking. The transcendent is an ‘inescapable feature of the immanent itself’[^13] and whilst this might look like ‘a world history determined by the purposive guiding hand of the Absolute or Geist,’[^14] its teleological necessity is rather the result of a retroactive contingency undermining necessity with its own logic of becoming.  This logic, which makes transcendence ‘the result of its own \[alienating\] activity,’[^15] is also the logic of Hegel’s absolute and his conception of God, ‘posited through our activity as its presupposition.’[^16] Hyman calls this an ‘atheistic ontology’ because God is the ‘thought and activity of human subjects’ without being merely a ‘subjective ‘projection.’’[^17]
+Žižek’s atheistic Hegelian God, writes Hyman, is close to Williams in that it also refuses the trap of dualistic thinking. The transcendent is an ‘inescapable feature of the immanent itself’[^13] and whilst this might look like ‘a world history determined by the purposive guiding hand of the Absolute or Geist,’[^14] its teleological necessity is rather the result of a retroactive contingency undermining necessity with its own logic of becoming.  This logic, which makes transcendence ‘the result of its own &#91;alienating&#93; activity,’[^15] is also the logic of Hegel’s absolute and his conception of God, ‘posited through our activity as its presupposition.’[^16] Hyman calls this an ‘atheistic ontology’ because God is the ‘thought and activity of human subjects’ without being merely a ‘subjective ‘projection.’’[^17]
 
 God and human thought are mutually implicated such that as humanity becomes self-conscious through its idea of God in religion, so God becomes self-conscious in humanity. The finite and subjective element is Christ as a ’transubjective “it”’[^18] exceeding or transcending humanity but only ‘in-through us.’[^19] Subjectivity carries the transcendent as an excess which it cannot control except in the organisation of itself as a religious community.  Žižek does not, then, simply reject the theological resonances of Hegel’s philosophy in favour of a ‘secular humanism’ for ‘there must be a moment of thinking that it is not we who are acting, but a higher force that is acting through us. This element has to be maintained.’[^20] This means that God is no ‘big Other,’ nor is God absolutely immanent. God is a ‘‘transcendent ‘force’ or ‘power’’ but only as an ‘effect of immanence itself.’[^21]
 
@@ -62,7 +83,7 @@ Hyman begins by showing that Williams’ account of the dialectic emphasises not
 
 His exposition of the death of God in theological and philosophical terms is an original and speculative demonstration of the ‘structural solidarity’ between the divine and the human for what is represented in religion as ‘one moment within the absolute Idea’ is realised in modern Enlightenment philosophy as the ‘truth of human subjectivity.’[^28] In other words, divine and human subjectivity in Hegel are ‘mutually informing and constructing’’[^29] subjectivities. According to Malabou, it is the ‘possibility of self-solicitation’ as it constitutes the moment of self-identity that guarantees both ‘the unity of the relation of the same to the other’[^30] and its dissolution into separation from the other. This mutual motility in Hegel is a ‘strange synthesis of synthesis and non-synthesis’[^31] and is a more ‘originary’ unity than that of simple self-identity.
 
-For Longuenesse, writes Hyman, such a synthesis occupies a similar role to that of the transcendental unity of apperception in Kant, except that the externality of the object which is presupposed in Kant is, in Hegel, a presupposition ‘immanent to thought itself.’ [^32] Phenomenological consciousness teaches us that knowledge of the object is the knowledge that we have of ourselves and our own rational shapes, which are not that of an individual consciousness, but the ‘Spirit \[God\], a ‘We’ \[God\]’ [^33] which ‘makes possible particular knowing subjects.’[^34] God is the name for the immanent and transcendent subjectivity at work in the I that is a We and the We that is an I.
+For Longuenesse, writes Hyman, such a synthesis occupies a similar role to that of the transcendental unity of apperception in Kant, except that the externality of the object which is presupposed in Kant is, in Hegel, a presupposition ‘immanent to thought itself.’ [^32] Phenomenological consciousness teaches us that knowledge of the object is the knowledge that we have of ourselves and our own rational shapes, which are not that of an individual consciousness, but the ‘Spirit &#91;God&#93;, a ‘We’ &#91;God&#93;’ [^33] which ‘makes possible particular knowing subjects.’[^34] God is the name for the immanent and transcendent subjectivity at work in the I that is a We and the We that is an I.
 
 The point, Hyman emphasises, is that Hegel insists on the necessity of the co-belonging of the unconditioned Absolute and the dimension of its ‘constitutive subjectivity.’[^35] Longuenesse goes on to show how this Hegelian unconditioned is the structure within which Kant’s fourth antinomy regarding the existence of a necessary being appears. The argument has implications for our understanding of God because God becomes both the condition of the possibility of the antinomy and that ‘about which both sides of the antinomy are true.’[^36]
 

@@ -27,6 +27,32 @@ tags:
   - theory
   - sovereignty
   - want
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---
 *The following is the second part of a transcript of one of our ongoing “Critical Conversations” with [distinguished British political philosopher Arthur Bradley](https://www.lancaster.ac.uk/english-literature-and-creative-writing/people/arthur-bradley). The conversation took place on March 10, 2022. The first part can be found [here]( /religioustheory/posts/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-1/)*. *The discussion centers around his recent boo*k [Unbearable Life: A Genealogy of Political Erasure](https://www.google.com/books/edition/Unbearable_Life/Q2SIDwAAQBAJ?hl=en&gbpv=1&dq=unbearable+life&printsec=frontcover).
 

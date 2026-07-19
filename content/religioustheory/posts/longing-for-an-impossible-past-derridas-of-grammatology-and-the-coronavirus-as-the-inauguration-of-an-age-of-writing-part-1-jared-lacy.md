@@ -22,6 +22,22 @@ tags:
   - religioustheory
   - representation
   - social
+subjects:
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Representative government and representation"
+    scheme: "FAST"
+    identifier: "fst01094941"
+    uri: "https://id.worldcat.org/fast/1094941"
+    category: "topical"
 ---
 ## The following is the first installment of a two-part series.
 
@@ -51,9 +67,9 @@ In many ways, the advent of these technologies seems to confirm the possibility 
 
 By this token, it might be said, then, that the Zoom meeting represents a further step toward Rousseau’s teleology of the image, in that “the telos of the image is its own imperceptibility.”[^7] Indeed, compared to previous telecommunications technologies such as email, wherein no illusion of presence obtains in the face of graphic representation, and telephone, wherein the illusion of the presence of voice is disembodied and represented via technology, the Zoom meeting appears to take a step closer to the imperceptibility of the sign, in that representation supplements presence by way of an image and voice that simulates an embodied presence through an unseen writing of computer code.
 
-Likewise, this writing (as well as that of telecommunications in general) seems to achieve a new level of freedom of the sign from any particular language. In *Of Grammatology*, Derrida compares the level of universality of phonetic writing with the “natural universality of a sort in the most archaic degree of writing,” saying that “painting, as much as the alphabet, is not tied to any determined language.” The difference between these two degrees of writing being that, for painting “its freedom with reference to languages is due not to the distance which separates \[it\] from its model but to the imitative proximity which binds them,” while “by contrast, the ideal universality of phonetic writing is due to its infinite distance with respect to the sound … and to the sense signified by the spoken word.”[^8] 
+Likewise, this writing (as well as that of telecommunications in general) seems to achieve a new level of freedom of the sign from any particular language. In *Of Grammatology*, Derrida compares the level of universality of phonetic writing with the “natural universality of a sort in the most archaic degree of writing,” saying that “painting, as much as the alphabet, is not tied to any determined language.” The difference between these two degrees of writing being that, for painting “its freedom with reference to languages is due not to the distance which separates &#91;it&#93; from its model but to the imitative proximity which binds them,” while “by contrast, the ideal universality of phonetic writing is due to its infinite distance with respect to the sound … and to the sense signified by the spoken word.”[^8] 
 
-However, in the writing that is the Zoom meeting the universality comes from the fact that the infinite distance of the digital writing that makes Zoom possible from the spoken word becomes “the imitative proximity which binds them.” Thus one gets the sense in the Zoom meeting, as with painting, that “under a universal appearance, \[it\] would thus be perfectly empirical, multiple, and changeful like the sensory units that it represents outside of any code.”[^9]
+However, in the writing that is the Zoom meeting the universality comes from the fact that the infinite distance of the digital writing that makes Zoom possible from the spoken word becomes “the imitative proximity which binds them.” Thus one gets the sense in the Zoom meeting, as with painting, that “under a universal appearance, &#91;it&#93; would thus be perfectly empirical, multiple, and changeful like the sensory units that it represents outside of any code.”[^9]
 
 Thus, the writing that is the Zoom meeting, which ultimately is reducible to an unseen binary script, much like the *I Ching* hexagrams that prefigured its discovery, bears a certain relation to Leibniz’s search for a *Characteristica universalis*. Leibniz envisioned his *Characteristica universalis* as “an instrument for philosophical reasoning and communication as well as creation.”[^10] Of this kind of universal writing Derrida has this to say:
 

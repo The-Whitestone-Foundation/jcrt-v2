@@ -18,4 +18,15 @@ issue: 1
 season: winter
 year: 2020
 pages: 219-224
+subjects:
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
+  - label: "Transformative learning"
+    scheme: "FAST"
+    identifier: "fst01743611"
+    uri: "https://id.worldcat.org/fast/1743611"
+    category: "topical"
 ---

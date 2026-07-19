@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2019
 pages: 156-174
+subjects:
+  - label: "Predestination"
+    scheme: "FAST"
+    identifier: "fst01075012"
+    uri: "https://id.worldcat.org/fast/1075012"
+    category: "topical"
+  - label: "Sexual orientation"
+    scheme: "FAST"
+    identifier: "fst01114902"
+    uri: "https://id.worldcat.org/fast/1114902"
+    category: "topical"
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
 ---

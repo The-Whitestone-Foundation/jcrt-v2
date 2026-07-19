@@ -22,6 +22,22 @@ tags:
   - deconstruction
   - religious
   - politics
+subjects:
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the third of a three-part series. The first can be found* [*here*]( /religioustheory/posts/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-1-jake-sirota/)*, the second* [*here*]( /religioustheory/posts/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-2-jake-sirota/)*.*
 
@@ -31,7 +47,7 @@ While Derrida’s writing on Heidegger *vis* religion and Nazism take Christiani
 
 On one hand, to attempt to simply jettison religion, as Heidegger does, appears just as misguided from a Derridean standpoint as does the attempt to disambiguate religion, spirit, and politics. On the other hand, Derrida is obviously not simply trying to rehabilitate a version of either Judaism or Christianity that would be recognizable to either’s orthodoxy, as is clear from his dialogue on the despair of the Christian. In a sense, Derridean deconstruction at once requires disaffiliation with claims to divine authority while at the same time requiring a radical openness to the possibility of the irruption of the divine.
 
-In this sense deconstruction must always be open to the possibility of its own failure – to the advening of a God whose transcendental authority would render deconstructive displacement of the ‘transcendental signified’ an error. To Derrida, even as “everything \[he\] interprets… under the Greek name khôra, the place, the ahuman and atheological location” seems entirely foreign to “the God of the Jews,” “this manner of interpreting the place can still keep a deep affinity with a certain nomination of God from the Jews.”[^3]
+In this sense deconstruction must always be open to the possibility of its own failure – to the advening of a God whose transcendental authority would render deconstructive displacement of the ‘transcendental signified’ an error. To Derrida, even as “everything &#91;he&#93; interprets… under the Greek name khôra, the place, the ahuman and atheological location” seems entirely foreign to “the God of the Jews,” “this manner of interpreting the place can still keep a deep affinity with a certain nomination of God from the Jews.”[^3]
 
 The oscillation of the role of religion found across Derrida’s texts signals the way in which it functions both as both a resource for and as a threat to deconstruction. Religion, exemplified in certain later writing as Derrida’s ‘Being-Jew,’ “would then be something more, something other than the simple lever – strategic or methodological – of a general deconstruction; it would be its very experience, its chance, its threat, its destiny, its seism.”[^4] In other words, while religion operates in certain ways and at certain times as that which threatens deconstruction through its character as the ‘undeconstructible,’ it is also that very same character that allows for deconstruction in the first place.
 

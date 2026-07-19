@@ -17,4 +17,15 @@ issue: 3
 season: summer
 year: 2018
 pages: 480-485
+subjects:
+  - label: "Christian philosophy"
+    scheme: "FAST"
+    identifier: "fst01746483"
+    uri: "https://id.worldcat.org/fast/1746483"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
 ---

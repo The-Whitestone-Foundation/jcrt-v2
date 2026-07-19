@@ -29,4 +29,30 @@ issue: 2
 season: spring
 year: 2008
 pages:
+subjects:
+  - label: "Fear"
+    scheme: "FAST"
+    identifier: "fst00922034"
+    uri: "https://id.worldcat.org/fast/922034"
+    category: "topical"
+  - label: "Fundamentalism"
+    scheme: "FAST"
+    identifier: "fst00936186"
+    uri: "https://id.worldcat.org/fast/936186"
+    category: "topical"
+  - label: "Life"
+    scheme: "FAST"
+    identifier: "fst01198505"
+    uri: "https://id.worldcat.org/fast/1198505"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Religion and politics"
+    scheme: "FAST"
+    identifier: "fst01093842"
+    uri: "https://id.worldcat.org/fast/1093842"
+    category: "topical"
 ---

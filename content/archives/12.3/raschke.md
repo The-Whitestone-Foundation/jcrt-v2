@@ -18,4 +18,15 @@ issue: 3
 season: spring
 year: 2013
 pages: 1-19
+subjects:
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Translations"
+    scheme: "FAST"
+    identifier: "fst01154827"
+    uri: "https://id.worldcat.org/fast/1154827"
+    category: "topical"
 ---

@@ -8,13 +8,13 @@ author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 02
 year: 2002
 ---
 Raschke - From Religion to Faith - JCRT 4.1 
 
-# From Religion to Faith: Levinasian Ethics and the Grammar of Address
+## From Religion to Faith: Levinasian Ethics and the Grammar of Address
 
 Carl A. Raschke  
 University of Denver
@@ -27,7 +27,7 @@ _Terrible Spirit, your discourse has smitten me to the ground._
 
 The theoretical question of 'religion' is essentially that of 'divinity,' what the Greeks from Homer through the early Church fathers understand as _ho_ _theos,_ that which 'shines forth.' That question belongs appropriately neither to 'theology' nor to philosophy. It is not a question 'about' God, whatever that token may indicate in a 'cross-cultural' or 'multi-traditional' sense. Nor does it cycle within the orbit of what in these later decades has acquired the non-descript classification of 'religious studies,' or 'the study of religion.' It is a question that can only be posed in the breach. The query itself assaults the lattice of significations that girds the discourse we in the Occident have come to know as 'questioning.' It pries open a space; it constitutes a style of _'criture_ that is equally a means of 'erasure', giving us an epiphany of darkness that has nothing to do with the lucidity of the proposition, representation, or statement which the theoretical mind anticipates.
 
-     > With you inspiring me I shall be affirming true things, which by your will I draw out these words. For I do not believe I give true exposition if anyone other than you is inspiring me. You are the truth, but every man is a liar.[^21]
+> With you inspiring me I shall be affirming true things, which by your will I draw out these words. For I do not believe I give true exposition if anyone other than you is inspiring me. You are the truth, but every man is a liar.[^21]
 
 * * *
 
@@ -36,13 +36,9 @@ The theoretical question of 'religion' is essentially that of 'divinity,' what t
 
 > **Carl A. Raschke** is professor of religious studies at the University of Denver and senior editor of the Journal for Religious and Cultural Theory. His major books include _The End of Theology_ (The Davies Group, 2000), _Fire and Roses: Postmodernity and the Thought of the Body_ (SUNY 1996), _The Engendering God_ (Westminster Press, 1995), _Painted Black_ (Harper Collins, 1990), _Theological Thinking_ (Scholars Press, 1988). He is the author of over 200 popular and scholarly articles on subjects ranging from postmodern religious thought to computer-mediated education to new religious movements. He is formerly president of the Rocky Mountain-Great Plains Region of the American Academy of Religion and an editor of several series with the American Academy of Religion. He is also a well-known national media personality.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Carl Rasckhe. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Carl Rasckhe. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/raschke](https://jcrt.org/archives/04.1/raschke/)
 
@@ -76,7 +72,7 @@ Updated 07/28/21.
 
 [^8]: _Collected Philosophical Papers_, p. 53.
 
-[^9]:  Levinas has correctly apprehended this grand 'eschatological' assize for modernism in his own examination of Descartes. Modernism, Levinas suggests, is the full flower of Greek idealism wherein 'the first person, the soul conversing with itself, or qua reminiscence, rediscovering the teachings it receives, thus promotes freedom. Freedom will triumph when the soul's monologue will have reached universality, will have encompassed the totality of being, encompassing even the animal individual which lodged this thought.'[^5] This critique of the modern epoch, of course, echoes Heidegger, who regards Cartesian subjectivism as simply the obverse of the one and the same metaphysical coinage. But there is a fatal flaw in Heideggerian ontology, which in stipulating the 'ontological difference' while drawing a boundary line between Being and 'beings' ends up subordinating 'the relation with the other to the relation with the neuter'\[and\] continues to exalt the will to power, whose legitimacy the other alone can unsettle.'[^6]
+[^9]:  Levinas has correctly apprehended this grand 'eschatological' assize for modernism in his own examination of Descartes. Modernism, Levinas suggests, is the full flower of Greek idealism wherein 'the first person, the soul conversing with itself, or qua reminiscence, rediscovering the teachings it receives, thus promotes freedom. Freedom will triumph when the soul's monologue will have reached universality, will have encompassed the totality of being, encompassing even the animal individual which lodged this thought.'[^5] This critique of the modern epoch, of course, echoes Heidegger, who regards Cartesian subjectivism as simply the obverse of the one and the same metaphysical coinage. But there is a fatal flaw in Heideggerian ontology, which in stipulating the 'ontological difference' while drawing a boundary line between Being and 'beings' ends up subordinating 'the relation with the other to the relation with the neuter'&#91;and&#93; continues to exalt the will to power, whose legitimacy the other alone can unsettle.'[^6]
 
 [^9]: Rene Descartes, _The Meditations_, trans. John Vietch (London: M. Walter Dunne, 1901), p. 248.
 

@@ -22,6 +22,37 @@ tags:
   - materialism
   - materialist
   - historicism
+subjects:
+  - label: "Historicism"
+    scheme: "FAST"
+    identifier: "fst00958216"
+    uri: "https://id.worldcat.org/fast/958216"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Materialism"
+    scheme: "FAST"
+    identifier: "fst01011758"
+    uri: "https://id.worldcat.org/fast/1011758"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion and economics"
+    scheme: "FAST"
+    identifier: "fst01939306"
+    uri: "https://id.worldcat.org/fast/1939306"
+    category: "topical"
 ---
 *“Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment” by Ronald Beiner is published in two parts during successive weeks.  The following is the first portion.*
 

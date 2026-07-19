@@ -19,6 +19,17 @@ tags:
   - position
   - oceanic
   - coloniality
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following article will appear next month in the Winter 2021-22 issue of the* Journal for Cultural and Religious Theory. *It is published in three installments.*
 
@@ -32,7 +43,7 @@ Drawing from and contributing to this great interest in Wynter’s writings, thi
 
 Wynter introduces “demonic ground” in her well-known and controversial essay “Beyond Miranda’s Meanings: Un/Silencing the ‘Demonic Ground’ of Caliban’s ‘Woman,’” which served as the After/Word for *Out of the Kumbla: Caribbean Women and Literature*. Published in 1990, this edited volume offered one of the first comprehensive accounts of writings by Caribbean women and sought to open up a conversation about a specific “Caribbean feminist theoretical position.”[^2] Here’s Wynter, in a characteristically long sentence, packed with meaning and implication:
 
-I want to argue in this After/Word, *from its projected “demonic ground” outside of our present governing system of meaning, or theory/ontology in \[A.T.\] de Nicolas’ sense of the word* that is precisely the variable ‘race’ which imposes upon these essays the contradictory dualism by which the writers both work within the “regime of truth” of the discourse of feminism, at the same time as they make use of this still essentially Western discourse to point towards the epochal threshold of a new post-modern and post-Western mode of cognitive inquiry; one which goes beyond the limits of our present “human sciences,” to constitute itself as a new science of human life.[^3]
+I want to argue in this After/Word, *from its projected “demonic ground” outside of our present governing system of meaning, or theory/ontology in &#91;A.T.&#93; de Nicolas’ sense of the word* that is precisely the variable ‘race’ which imposes upon these essays the contradictory dualism by which the writers both work within the “regime of truth” of the discourse of feminism, at the same time as they make use of this still essentially Western discourse to point towards the epochal threshold of a new post-modern and post-Western mode of cognitive inquiry; one which goes beyond the limits of our present “human sciences,” to constitute itself as a new science of human life.[^3]
 
 It will take the space of this essay to fully explicate this passage; for now, three things are noteworthy. First, Wynter conceived her essay as written from the “demonic ground.” Two, this “demonic ground” exists outside of the hegemonic, structuring episteme. Three, she arrives at this outsider position by building on but also moving beyond the “Caribbean feminist theoretical position” outlined in the essays that she reflects on. While I will explicate the term over the course of the essay, we may therefore define “demonic ground,” for now, as the “position of the unthought” and the locale of and for radical epistemic innovation.[^4]
 

@@ -25,6 +25,37 @@ tags:
   - sovereignty
   - hegemony
   - subject
+subjects:
+  - label: "Hegemony"
+    scheme: "FAST"
+    identifier: "fst01202283"
+    uri: "https://id.worldcat.org/fast/1202283"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---
 *Sign up for this online seminar with distinguished British political philosopher Arthur Bradley on the compelling and most timely issue of “political erasure.*“
 

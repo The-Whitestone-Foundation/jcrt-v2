@@ -18,4 +18,15 @@ issue: 3
 season: fall
 year: 2019
 pages: 526-535
+subjects:
+  - label: "Comparative studies"
+    scheme: "FAST"
+    identifier: "fst01423767"
+    uri: "https://id.worldcat.org/fast/1423767"
+    category: "form-genre"
+  - label: "Scholarships"
+    scheme: "FAST"
+    identifier: "fst01432095"
+    uri: "https://id.worldcat.org/fast/1432095"
+    category: "topical"
 ---

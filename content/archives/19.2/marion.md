@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2020
 pages: 326-335
+subjects:
+  - label: "Faith (Christianity)"
+    scheme: "FAST"
+    identifier: "fst02040698"
+    uri: "https://id.worldcat.org/fast/2040698"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

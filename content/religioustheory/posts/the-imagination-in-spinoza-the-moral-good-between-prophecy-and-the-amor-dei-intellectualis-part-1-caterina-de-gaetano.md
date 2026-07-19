@@ -20,6 +20,12 @@ tags:
   - political
   - moral
   - external
+subjects:
+  - label: "Imagination"
+    scheme: "FAST"
+    identifier: "fst00967585"
+    uri: "https://id.worldcat.org/fast/967585"
+    category: "topical"
 ---
 *The following is the first of a two-part series.* *[The entire article](https://jcrt.org/archives/22.1/Degaetano.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 
@@ -45,7 +51,7 @@ While that which we understand *clare et distincte* via the *intellectus* is obt
 
 It follows that neither when the prophecy is experienced in first person, nor when someone hears or reads the revelation, the knowledge they gain makes one more learned (TTP II, 2-3). The fact is that the prophets do nothing more than repeat already held opinions to express something about God. This is the reason why different prophets have described God in a great variety of manners: the *imaginatio* alone cannot bring the person to recognize rational common features shared by the structures of nature and therefore to recognize the univocal true nature of God.
 
-Here, Spinoza introduces the expression *ad captum \[alicuius\]* (TTP II, 13): the prophecy is constructed, and it is consequently expressed according to the intellectual capabilities of the person to whom it is addressed. The prophecy cannot create new knowledge because its intrinsic nature is to accommodate itself to the opinions already held by the individual. Hence, when Joshua said that God could stop the sun revolving around the Earth, he did so because the knowledge expressed in his prophecy relied only on the opinions of his time and of his education (specifically, the earth stands still, and the sun moves). Having access only to an imaginative way of knowing, Joshua had no way to conceive of God other than through what he already held as a previous belief (TTP II, 13).
+Here, Spinoza introduces the expression *ad captum &#91;alicuius&#93;* (TTP II, 13): the prophecy is constructed, and it is consequently expressed according to the intellectual capabilities of the person to whom it is addressed. The prophecy cannot create new knowledge because its intrinsic nature is to accommodate itself to the opinions already held by the individual. Hence, when Joshua said that God could stop the sun revolving around the Earth, he did so because the knowledge expressed in his prophecy relied only on the opinions of his time and of his education (specifically, the earth stands still, and the sun moves). Having access only to an imaginative way of knowing, Joshua had no way to conceive of God other than through what he already held as a previous belief (TTP II, 13).
 
 This idea of the excellence of the imagination among the prophet’s virtues can be traced back to Islamic and Jewish medieval philosophy. Inspired by the Neo-platonic concept of emanation and the Aristotelian structure of the intellect[^6] , philosophers of these traditions conceived the process of acquiring knowledge as an emanation from the First Intellect to the human faculties.
 
@@ -91,7 +97,7 @@ Thus, the reason is clear why the imagination plays a powerful role in shaping t
 
 ## Footnotes
 
-[^1]: Spinoza, Benedictus. *Spinoza. Tutte le opere* (Italian Edition). Milano: Bompiani, 2014.  Hereafter the following works are cited: The following works were cited:*Tractatus Theologico-Politicus* \[1670\]; Tractatus de Intellectus Emendatione. In *Opera Posthuma* \[1677\]; *Ethica*. In *Opera Posthuma* \[1677\]; *Epistolae*. In *Opera Posthuma* \[1677\].
+[^1]: Spinoza, Benedictus. *Spinoza. Tutte le opere* (Italian Edition). Milano: Bompiani, 2014.  Hereafter the following works are cited: The following works were cited:*Tractatus Theologico-Politicus* &#91;1670&#93;; Tractatus de Intellectus Emendatione. In *Opera Posthuma* &#91;1677&#93;; *Ethica*. In *Opera Posthuma* &#91;1677&#93;; *Epistolae*. In *Opera Posthuma* &#91;1677&#93;.
 
 [^2]: The concrete elaboration of this theme was developed due to important feedbacks received during the presentation of this papers´ general idea at the conference about *The Body and the Sacred* on 28-9th September 2022, organized conjointly by the University of Vienna and the University of Denver.
 

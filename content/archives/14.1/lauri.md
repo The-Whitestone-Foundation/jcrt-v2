@@ -24,4 +24,10 @@ issue: 1
 season: fall
 year: 2014
 pages: 53-69
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

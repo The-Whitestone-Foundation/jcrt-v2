@@ -22,6 +22,22 @@ tags:
   - theological
   - theology
   - magical
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first half of the article*.  *The second installment [can be found here]( /religioustheory/posts/untimely-meditations-on-techno-theology-and-theo-poetics-part-2-john-panteleimon-manoussakis/).*
 
@@ -37,7 +53,7 @@ Several ideas find their birthplace in this image of the aboriginal flowing of n
 
 The need of a reduction back to one principle was deeply felt in the Greek mind, yet no Greek god could be raised to the dignity of a first principle. Hence, Simplicius, the last of the pagan philosophers, can call Thales an atheist[^5] without fear of contradicting the thinker who conceived of a world asphyxiating with gods. As Origen was quick to realize, all polytheism is essentially atheism in disguise.[^6]
 
-Aristotle’s philosophy operates precisely on the distinction between what is man-made (*technē*) and what is independent of human craftsmanship (*physei*, i.e., the natural).[^7] The very concept of *physis* makes sense only within such a schema that distinguishes the natural from the artificial.  Heidegger’s reading of Aristotle discovers in the distinction between *physis* and *technē* “\[t\]wo kinds of generation” that “are contrasted with each other.”[^8] He, then, continues: “When Aristotle time and again characterizes growing things by way of analogy with artifacts, does this mean he already understands the φύσει ὄντα as self-making artifacts? No, quite the contrary, he conceives of φύσις as self-production.”[^9]
+Aristotle’s philosophy operates precisely on the distinction between what is man-made (*technē*) and what is independent of human craftsmanship (*physei*, i.e., the natural).[^7] The very concept of *physis* makes sense only within such a schema that distinguishes the natural from the artificial.  Heidegger’s reading of Aristotle discovers in the distinction between *physis* and *technē* “two kinds of generation” that “are contrasted with each other.”[^8] He, then, continues: “When Aristotle time and again characterizes growing things by way of analogy with artifacts, does this mean he already understands the φύσει ὄντα as self-making artifacts? No, quite the contrary, he conceives of φύσις as self-production.”[^9]
 
 The difference between *physis* and *technē* inscribes them in an identity as the one can only be conceived by means of the other: indeed, either concept describes the same phenomenon, that of origination, it is only the manner of origination that differs. And their difference is man. *Technē* is man-made. Nature is not man-made (thus, it must make itself), rather nature is what makes man. Although nature “makes” man, no man is technically a man by nature, for it is *technē* that makes man him who makes (*homo habilis*). By the first tool man makes for himself a hand—for the hand becomes a hand when it ceases to be a tool and becomes that which handles tools. By the hand, man acquires the word (man speaks with his hands). The man of words stands up. By standing up (*homo erectus*) man also stands over against nature.
 
@@ -55,7 +71,7 @@ In more than one way, man was able to develop the ability to speak thanks to his
 
 Indeed, in one of his characteristically dense passages, Heidegger attempts to establish such a connection between the hand and the word:
 
-> Man himself acts \[*handelt*\] though the hand \[*Hand*\]; for the hand is, together with the word, the essential distinction of man. Only a being which, like man, “has” the word (μῦθος, λόγος), can and must “have” “the hand.” Through the hand occur both prayer and murder, greeting and thanks, oath and signal, and also the “work” of the hand, the “hand-work,” and the tool. The handshake seals the covenant. The hand brings about the “work” of destruction. The hand exists as hand only where there is disclosure and concealment. No animal has a hand, and a hand never originates from a paw or a claw or talon. Even the hand of one in desperation (it least of all) is never a talon, with which a person clutches wildly. The hand sprang forth only out of the word and together with the word. Man does not “have” hands, but the hand holds the essence of man, because the word as the essential realm of the hand is the ground of the essence of man.[^13]
+> Man himself acts &#91;*handelt*&#93; though the hand &#91;*Hand*&#93;; for the hand is, together with the word, the essential distinction of man. Only a being which, like man, “has” the word (μῦθος, λόγος), can and must “have” “the hand.” Through the hand occur both prayer and murder, greeting and thanks, oath and signal, and also the “work” of the hand, the “hand-work,” and the tool. The handshake seals the covenant. The hand brings about the “work” of destruction. The hand exists as hand only where there is disclosure and concealment. No animal has a hand, and a hand never originates from a paw or a claw or talon. Even the hand of one in desperation (it least of all) is never a talon, with which a person clutches wildly. The hand sprang forth only out of the word and together with the word. Man does not “have” hands, but the hand holds the essence of man, because the word as the essential realm of the hand is the ground of the essence of man.[^13]
 
 Dare we say that without his hands man would have been also unable to think? That man began thinking, ![random-magic-sparks-image-public-domain-pixabay-640x375](/images/2017/03/random-magic-sparks-image-public-domain-pixabay.webp)and still thinks, *with* his hands, that is, according to a fundamental structure implied by paradigms of touch? That “every motion of the hand in every one of its works carries itself through the element of thinking” … so that “all the work of the hand is rooted in thinking”?[^14] It seems that Aristotle would have agreed with this.
 
@@ -63,9 +79,9 @@ It must have been language that suggested to man the notion of creator God, that
 
 Therefore, we could speak of two epoch-making moments in the evolution of humanity with respect to such techno-theo-logy: The first technological achievement is man—that is, that being who, by the use of tools, fashions himself as a human over against the animal and the natural world. The second technological achievement is narrated in Mary Shelley’s *Frankenstein*. That is, not as one may assume, the animation of a corpse, but rather the self-deification of man—who, by the use of techno-science, makes himself a god. Mary Shelley aptly names Dr. Frankenstein “Victor” after God’s name “the potent Victor” in Milton’s *Paradise Lost*. Furthermore, the suggestive subtitle of *Frankenstein* “The Modern Prometheus” echoes Kant’s hailing a hero of technological innovation, Benjamin Franklin, as “the Prometheus of modern times.”[^15]
 
-Freud writing of the technological advances of his time suggests that they should be understood as the means by which humanity strives to attain those very characteristics humans have always attributed to their gods (e.g., omniscience, omnipresence, and so on). Thanks to technology, Freud argues, “\[man\] has become a god himself”—what he calls more explicitly “a prosthetic God.”[^16] Derrida, echoing Freud, speaks of “artifacts and prostheses” that “tend to become more animistic, magical, mystical,”[^17] so much so as to allow us to speak of religion as “the theological machine, the ‘machine of making gods.’”[^18]
+Freud writing of the technological advances of his time suggests that they should be understood as the means by which humanity strives to attain those very characteristics humans have always attributed to their gods (e.g., omniscience, omnipresence, and so on). Thanks to technology, Freud argues, “&#91;man&#93; has become a god himself”—what he calls more explicitly “a prosthetic God.”[^16] Derrida, echoing Freud, speaks of “artifacts and prostheses” that “tend to become more animistic, magical, mystical,”[^17] so much so as to allow us to speak of religion as “the theological machine, the ‘machine of making gods.’”[^18]
 
-Thus, he proposes that “Instead of opposing them, as is almost always done, \[religion and technology\] ought to be thought together, as one and the same possibility: the machine-like and faith…”[^19] It is within this techno-theo-logical framework that we can understand Bergson’s enigmatic conclusion to his essay on religion:
+Thus, he proposes that “Instead of opposing them, as is almost always done, &#91;religion and technology&#93; ought to be thought together, as one and the same possibility: the machine-like and faith…”[^19] It is within this techno-theo-logical framework that we can understand Bergson’s enigmatic conclusion to his essay on religion:
 
 Mankind lies groaning, half crushed beneath the weight of its own progress. Men do not sufficiently realize![image](/images/2017/03/image.webp) that their future is in their own hands. Theirs is the task of determining first of all whether they want to go on living or not. Theirs the responsibility, then, for deciding if they want merely to live, or intend to make just the extra effort required for fulfilling, even on their refractory planet, the essential function of the universe, which is a machine for the making of gods.[^20]
 

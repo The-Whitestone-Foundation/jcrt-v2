@@ -19,6 +19,27 @@ tags:
   - secularism
   - ethics
   - political
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Secularism"
+    scheme: "FAST"
+    identifier: "fst01110732"
+    uri: "https://id.worldcat.org/fast/1110732"
+    category: "topical"
 ---
 **Beyond Habermas?  Critical Theory, Political Theology, and Interreligious Dialogue** 
 

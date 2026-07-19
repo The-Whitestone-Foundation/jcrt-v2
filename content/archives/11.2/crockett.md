@@ -36,4 +36,25 @@ issue: 2
 season: spring
 year: 2011
 pages:
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Other (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01048904"
+    uri: "https://id.worldcat.org/fast/1048904"
+    category: "topical"
+  - label: "Psychoanalysis and religion"
+    scheme: "FAST"
+    identifier: "fst01081280"
+    uri: "https://id.worldcat.org/fast/1081280"
+    category: "topical"
+  - label: "Semiotics"
+    scheme: "FAST"
+    identifier: "fst01112351"
+    uri: "https://id.worldcat.org/fast/1112351"
+    category: "topical"
 ---

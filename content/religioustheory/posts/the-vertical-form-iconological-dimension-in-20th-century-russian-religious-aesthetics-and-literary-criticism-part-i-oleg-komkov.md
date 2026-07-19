@@ -25,6 +25,22 @@ tags:
   - aesthetics
   - ontological
   - poetic
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first part in a two-part installment.* 
 

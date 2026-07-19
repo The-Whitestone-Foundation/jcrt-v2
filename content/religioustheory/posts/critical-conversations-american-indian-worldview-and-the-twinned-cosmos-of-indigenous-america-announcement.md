@@ -21,6 +21,17 @@ tags:
   - theology
   - identity
   - politics
+subjects:
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *Participants are invited to join us live in the fifth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe.* ***If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. If you have not participated in previous seminars, please provide us with a brief sentence or two explaining your interest in this particular “Critical Conversation”. Or you may simply sign up through the registration link below.*
 

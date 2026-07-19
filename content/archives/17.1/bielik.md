@@ -17,4 +17,10 @@ issue: 1
 season: winter
 year: 2018
 pages: 17-36
+subjects:
+  - label: "Jews"
+    scheme: "FAST"
+    identifier: "fst00983135"
+    uri: "https://id.worldcat.org/fast/983135"
+    category: "topical"
 ---

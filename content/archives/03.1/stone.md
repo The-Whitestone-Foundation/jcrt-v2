@@ -8,13 +8,13 @@ author: "Lora Stone"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 04
 year: 2001
 ---
 Stone - "Misrecognition of the Limits" - JCRT 3.1 
 
-# "Misrecognition of the Limits": Bourdieu's _Religious Capital_ and Social Transformation
+## "Misrecognition of the Limits": Bourdieu's _Religious Capital_ and Social Transformation
 
 Lora Stone  
 University of New Mexico
@@ -127,13 +127,9 @@ Political process models attempt to address the interaction between a social mov
 
 > **Lora Stone** is currently a doctoral student and an instructor in the Department of Sociology at the University of New Mexico. Her research interests include culture, religion, social movements, and theology.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Lora Stone. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Lora Stone. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.1/stone](https://jcrt.org/archives/03.1/stone/)
 
@@ -201,7 +197,7 @@ Updated 07/28/21.
 
 [^47]:  Perhaps, the argument against women's ordination in the Catholic Church can be understood, at least in part, as a misrecognition of inegalitarian gender roles: habitus of the early middle ages became codified into a rationalized religious institution, which in turn shaped subsequent habitus. The specialists of the religious field, those who educate and administrate, possess the symbolic power to legitimate obedience to the orthodox, institutional church. Yet, much like Bourdieu's conceptualization of habitus, the religious field is both structural and dynamic; it is both fluid and fixed. Those challenging the orthodox stance on women's ordination can be seen as recognizing, at least partially, the once misrecognized socio-political interests at the base of current institutional ordination practices. Leonardo Boff, in his analysis of Vatican II, presents this particular challenge as an element of the "confrontation between two ecclesiological paradigms, that of church-society and that of church-community" (Boff 1999:31). Historically, the first paradigm was that of church-community, while the successive dominant paradigm, developing and rising after the first millennium C.E., was and has continued to be that of church-society.
 
-[^48]:  Taking the historical distinction even further, some challenge the declaration that the current orthodox position is "founded on the written Word of God," and "from the beginning \[has been\] constantly preserved and applied in the Tradition of the Church" (Congregation for the Doctrine of the Faith 1995:401). This challenge has been mounted not only by those considered by definition to be radical, such as feminist scholars, but by the 1997 Task Force of the Catholic Theological Society of America. Likewise, the National Coalition of American Nuns, in response to the 1995 Vatican Congregation for the Doctrine of the Faith's reassertion of infallibility in pronouncing that only males can be ordained, have criticized the institutional church'which can be seen as the material manifestation of the church-society paradigm'and its invocation of "tradition . . . as a sacramental to bless centuries of injustice. The persistence of an evil practice over time does not legitimate its continuation" (NCAN 1995). As to being "founded on the written Word of God," heretics, as well as sympathizers outside of the religious field, point to the scriptural absence of a defining statement on the question of the ordination of women in the Catholic Church.
+[^48]:  Taking the historical distinction even further, some challenge the declaration that the current orthodox position is "founded on the written Word of God," and "from the beginning &#91;has been&#93; constantly preserved and applied in the Tradition of the Church" (Congregation for the Doctrine of the Faith 1995:401). This challenge has been mounted not only by those considered by definition to be radical, such as feminist scholars, but by the 1997 Task Force of the Catholic Theological Society of America. Likewise, the National Coalition of American Nuns, in response to the 1995 Vatican Congregation for the Doctrine of the Faith's reassertion of infallibility in pronouncing that only males can be ordained, have criticized the institutional church'which can be seen as the material manifestation of the church-society paradigm'and its invocation of "tradition . . . as a sacramental to bless centuries of injustice. The persistence of an evil practice over time does not legitimate its continuation" (NCAN 1995). As to being "founded on the written Word of God," heretics, as well as sympathizers outside of the religious field, point to the scriptural absence of a defining statement on the question of the ordination of women in the Catholic Church.
 
 [^49]:  In that it is engaged in the political process of challenging existing power relations, including confronting elites, authorities, and opponents, the recently increasing collection of groups and individuals in favor of women's ordination in the Catholic Church can be described as a social movement. Given that it is not only a social movement, but an internal movement within a clearly defined field, inserting Bourdieu's concepts into a modified political process model can be part of an insightful analysis. Habitus, as the system of dispositions that were and are the generative base of structured practices, can explain some aspects of the historical change: in the original communal church, ordination practices had regional differences, with these in turn being increasingly influenced by Greek and Roman law and practice regarding the status of women. What began as gendered division of labor of a practical sort, was later constructed as divinely inspired law, a righteous commandment, and transcendent truth, bringing us back to Bourdieu's description of habitus as "necessity made into virtue." The subsequent emergence of the institutional church was accompanied by the emergence of a religious habitus that predisposed all participants toward reproduction of the religious field. In Bourdieu's analysis, this generative base of religious habitus allows for the distribution of religious capital and the exertion of symbolic-religious power (Bourdieu 1991:22). Regarding the issue of women's ordination in the Catholic Church, religious habitus remains the generative base for both the orthodox and the heretical: predispositions are beneath the stated concern for thinking and acting in the "best" or "right" way as defined by the field.
 

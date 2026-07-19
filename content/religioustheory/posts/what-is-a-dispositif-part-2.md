@@ -24,6 +24,42 @@ tags:
   - function
   - tactics
   - politics
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Tactics"
+    scheme: "FAST"
+    identifier: "fst01141865"
+    uri: "https://id.worldcat.org/fast/1141865"
+    category: "topical"
 ---
 *The following article by internationally known theory scholar Gregg Lambert is the second of a two-part series.  The first part was published on July 11, 2016 and can be found [here]( /religioustheory/posts/what-is-a-dispositif-part-1/).  
 *
@@ -38,7 +74,7 @@ Finally, in response to the question of Foucault’s resistance to a Marxist the
 
 For the purpose of defining these terms in Foucault’s usage, I will depend upon a very fine analysis given by Matteo Pasquinelli in which he traces the genealogy explicitly through Foucault’s inheritance of the term dispositif from the biology of Georges Canguilhem (who, as Pasquinelli shows, owes his usage in some respects from Goldstein, the 20th century neurologist). As Pasquinelli observes, in Canguilhem’s earlier article we have the first know usage of the term “dispositif ” to denote simply the idea of mechanism applied in modern biology.
 
-According to this definition, Canguilhem writes: “With the exception of vertebrates, living beings and their forms rarely display to the scrupulous observer devices \[*dispositifs*\] that could evoke the idea of a mechanism, in the sense given to this term by scientists”.2
+According to this definition, Canguilhem writes: “With the exception of vertebrates, living beings and their forms rarely display to the scrupulous observer devices &#91;*dispositifs*&#93; that could evoke the idea of a mechanism, in the sense given to this term by scientists”.2
 
 Moreover, the second definition that Canguilhem gives to the term is simply that of a tool that is invented or fabricated to act on nature, as described by modern ethnographers, but also he points out that the rationalization of techniques to explain the invention of specific tools (or machines) seems “to forget the irrational origin of machines themselves” (95). This will lead to a crucial point that I will return later on: it is the innate tendency to rationalize the idea of mechanism, as Descartes did, as a knowledge that is particular to the subject of Man and not a universal biological phenomenon that is already found to be latent in all organisms, which anthropomorphizes the natural relation between machine and organism in the form of a rupture or discontinuity that the form of rationalization of the idea of mechanism modern science first introduces.
 

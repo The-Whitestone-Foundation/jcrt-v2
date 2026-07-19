@@ -13,7 +13,7 @@ keywords:
   - herrero
   - tinker
   - webinars
-pdf:
+pdf: Decoloniality.pdf
 sort_id: 08
 volume: 20
 issue: 3

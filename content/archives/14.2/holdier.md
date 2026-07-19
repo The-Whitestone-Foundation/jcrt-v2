@@ -23,4 +23,20 @@ issue: 2
 season: spring
 year: 2015
 pages: 319-338
+subjects:
+  - label: "Apologetics"
+    scheme: "FAST"
+    identifier: "fst00811449"
+    uri: "https://id.worldcat.org/fast/811449"
+    category: "topical"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
+  - label: "Religious thought"
+    scheme: "FAST"
+    identifier: "fst01094322"
+    uri: "https://id.worldcat.org/fast/1094322"
+    category: "topical"
 ---

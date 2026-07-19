@@ -19,6 +19,12 @@ tags:
   - pentecostal
   - spirituality
   - erotic
+subjects:
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---
 In [the first installment]( /religioustheory/posts/spiritual-erotics-affect-theory-and-the-transformation-of-machismo-among-latino-pentecostal-men-part-1/) of this three-part book preview of my forthcoming work on machismo in Latino culture I explored the role of the new, and “hot”, methodology of affect theory as a lens through which to achieve a radical, new set of insights about a somewhat contested phenomenon.  In [the second part]( /religioustheory/posts/spiritual-erotics-part-2-the-nature-and-history-of-machismo-and-its-feminine-counterpart-as-marianismo/) I discussed the nature and history of machismo and its relationship to Marianismo, its feminine counterpart.  In this third, and final, essay I talk about the meaning of the concept of *spiritual erotics* itself, and how it serves to frame the problem of machismo.  I conclude with a brief effort to contextualize my research with respect to other current literature.
 
@@ -34,7 +40,7 @@ My reading of these men’s narratives demonstrates the transmission of Eros, th
 
 I draw on a number of definitions of Eros in order to customize my theory. Originally, Eros, the Greek God, was deified lust, love, sexuality and fertility. His Roman avatar was called Cupid—desire and love. Like Dionysus, he was known as “the liberator” for his unshackling of sexual restraints—particularly the love among men. Spartan warriors prayed to him before battle. My work retrieves this primal meaning, particularly as representing the affection and unity among men.
 
-Along these lines, C.S. Lewis argues: “Of all loves he \[Eros\] is, at his height, most god-like; therefore most prone to demand our worship. Of himself he always tends to turn ‘being in love’ into a kind of religion.”[^4] Similarly, Bataille argues: “Eroticism is primarily a religious matter….”[^5] Pentecostal male spirituality is a natural place to find ErosI also follow Freud who famously proposed that Eros is the psychic life force, existing in dialectical relationship with Thanatos, or the death drive. According to Freud “the main purpose of Eros—that of uniting and binding—in so far as it helps towards establishing the unity, or tendency, which is particularly characteristic of the ego.”[^6]
+Along these lines, C.S. Lewis argues: “Of all loves he &#91;Eros&#93; is, at his height, most god-like; therefore most prone to demand our worship. Of himself he always tends to turn ‘being in love’ into a kind of religion.”[^4] Similarly, Bataille argues: “Eroticism is primarily a religious matter….”[^5] Pentecostal male spirituality is a natural place to find ErosI also follow Freud who famously proposed that Eros is the psychic life force, existing in dialectical relationship with Thanatos, or the death drive. According to Freud “the main purpose of Eros—that of uniting and binding—in so far as it helps towards establishing the unity, or tendency, which is particularly characteristic of the ego.”[^6]
 
 Herbert Marcuse, one of the pillars of the later Frankfurt School, clarifies Freud’s definition as follows: “striving to form living substance into ever greater unities, so that life may be prolonged and brought to higher development.”[^7] Bataille has added to this definition, claiming: “Eroticism opens the way to death. Death opens the way to the denial of our individual lives.”[^8]    Like religion, Eros binds people together into fresh and distinctive organisms.
 
@@ -64,9 +70,9 @@ While Orozco’s book focuses on men, he leaves the data largely under theorized
 ## Footnotes
 
 
-[^1]: Michel Foucault, The History of Sexuality Volume Three, trans. by Robert Hurley (NY: Vintage Books, \[1984, 1990), 3-4.
+[^1]: Michel Foucault, The History of Sexuality Volume Three, trans. by Robert Hurley (NY: Vintage Books, &#91;1984, 1990), 3-4.
 
-[^2]: Georges Bataille, *Erotism: Death and Sensuality*, trans. by Mary Dalwood (San Francisco: City Lights Books \[1957\] 1986), 69.
+[^2]: Georges Bataille, *Erotism: Death and Sensuality*, trans. by Mary Dalwood (San Francisco: City Lights Books &#91;1957&#93; 1986), 69.
 
 [^3]: Castillo, *Massacre of the Dreamers*, 103.
 
@@ -76,7 +82,7 @@ While Orozco’s book focuses on men, he leaves the data largely under theorized
 
 [^6]: Sigmund Freud, *The Ego and the Id*, trans. by Joan Riviere (NY: Norton, 1960), 44.
 
-[^7]: Herbert Marcuse, *Eros and Civilization: A Philosophical Inquiry into Freud* (NY: Vintage Books \[1955\] 1962), 193.
+[^7]: Herbert Marcuse, *Eros and Civilization: A Philosophical Inquiry into Freud* (NY: Vintage Books &#91;1955&#93; 1962), 193.
 
 [^8]: Ibid., 25.
 

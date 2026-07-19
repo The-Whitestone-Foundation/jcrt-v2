@@ -39,6 +39,27 @@ keywords:
   - doctrine-of-discovery
 pdf: 'barry.pdf'
 date: 2026-03-03
+subjects:
+  - label: "Colonization"
+    scheme: "FAST"
+    identifier: "fst00868483"
+    uri: "https://id.worldcat.org/fast/868483"
+    category: "topical"
+  - label: "Genocide"
+    scheme: "FAST"
+    identifier: "fst00940208"
+    uri: "https://id.worldcat.org/fast/940208"
+    category: "topical"
+  - label: "Industrialization"
+    scheme: "FAST"
+    identifier: "fst00971825"
+    uri: "https://id.worldcat.org/fast/971825"
+    category: "topical"
+  - label: "Sacred space"
+    scheme: "FAST"
+    identifier: "fst01103191"
+    uri: "https://id.worldcat.org/fast/1103191"
+    category: "topical"
 ---
 In its bicentennial year, the Erie Canal is widely celebrated as a triumph of American
 ingenuity, economic growth, and national identity. This essay interrogates how that identity is

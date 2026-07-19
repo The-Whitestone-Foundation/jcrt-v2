@@ -26,4 +26,15 @@ issue: 3
 season: fall
 year: 2017
 pages: 382-402
+subjects:
+  - label: "Identity politics"
+    scheme: "FAST"
+    identifier: "fst01747531"
+    uri: "https://id.worldcat.org/fast/1747531"
+    category: "topical"
+  - label: "Jews Identity"
+    scheme: "FAST"
+    identifier: "fst00983278"
+    uri: "https://id.worldcat.org/fast/983278"
+    category: "topical"
 ---

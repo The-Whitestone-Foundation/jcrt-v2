@@ -18,4 +18,15 @@ issue: 2
 season: spring
 year: 2022
 pages: 158-169
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Orientalism"
+    scheme: "FAST"
+    identifier: "fst01048139"
+    uri: "https://id.worldcat.org/fast/1048139"
+    category: "topical"
 ---

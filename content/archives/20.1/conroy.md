@@ -16,4 +16,10 @@ issue: 1
 season: winter
 year: 2024
 pages: 19-40
+subjects:
+  - label: "Sex discrimination"
+    scheme: "FAST"
+    identifier: "fst01114365"
+    uri: "https://id.worldcat.org/fast/1114365"
+    category: "topical"
 ---

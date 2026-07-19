@@ -19,6 +19,17 @@ tags:
   - political
   - neoliberal
   - social
+subjects:
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **![reagan thatcher](/images/2017/02/reagan-thatcher.webp)Brown, Wendy. *Undoing the Demos: Neoliberalism’s Stealth Revolution.* New York: Zone Books, 2015. ISBN-10: 1935408534. Hardcover. 296 pages.** 
 

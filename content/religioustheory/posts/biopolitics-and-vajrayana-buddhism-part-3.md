@@ -18,6 +18,32 @@ tags:
   - invocation
   - religious
   - biopolitical
+subjects:
+  - label: "Biopolitics"
+    scheme: "FAST"
+    identifier: "fst00832668"
+    uri: "https://id.worldcat.org/fast/832668"
+    category: "topical"
+  - label: "Invocation"
+    scheme: "FAST"
+    identifier: "fst00978497"
+    uri: "https://id.worldcat.org/fast/978497"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Ritual"
+    scheme: "FAST"
+    identifier: "fst01098241"
+    uri: "https://id.worldcat.org/fast/1098241"
+    category: "topical"
 ---
 *The following is the third and final installment in a three-part series.  The first installment was published on May 27, 2016 and can be found [here]( /religioustheory/posts/biopolitics-and-vajranayana-buddhism-part-1/).  The [second installment]( /religioustheory/posts/biopolitics-and-vajrayana-buddhism-part-2/) was published on June 13.  
 *

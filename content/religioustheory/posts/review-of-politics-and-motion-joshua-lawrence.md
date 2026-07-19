@@ -17,6 +17,17 @@ tags:
   - political
   - movement
   - politics
+subjects:
+  - label: "Motion"
+    scheme: "FAST"
+    identifier: "fst01027064"
+    uri: "https://id.worldcat.org/fast/1027064"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **![vortex_in_draining_bottle_of_water](/images/2016/09/vortex_in_draining_bottle_of_water.webp)Nail, Thomas. *The Figure of the Migrant*. Stanford: Stanford University Press, 2015. ISBN-10: 0804796580. 312 pages.**
 

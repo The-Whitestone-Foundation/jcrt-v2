@@ -25,6 +25,42 @@ tags:
   - neoliberalism
   - social
   - neoliberal
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 ## The following is the first of a three-part series.
 
@@ -34,7 +70,7 @@ The very concept of political theology insinuates a transcendental source of val
 
 Instead we must interrogate more closely the character of neoliberal subjectivity itself and how it materializes these value propositions.  There is one such factor in neoliberal subjectivity that Foucault identifies as essential to the “analytic of finitude.”  That factor is what we know as *religion*.  Within the immense sweep of culture, language, and personal identity religion serves as the decisive inscription of difference. 
 
-As Talal Asad has presciently observed, the genealogy of religion is not about the fabrication of private experiences. The grammar of religion goes hand in hand with the maintenance of state power, because it is the state that inscribes difference.  Religion is a power grid made up of “different ways in which it \[has\] created and worked through legal institutions, different selves that it shaped and responded to, and different categories of knowledge which it authorized and made available.”[^1]   The “separation” of religion from the state is a modernist fiction, Talal argues, only because with the decline of monarchy the invisible power that renders the state coherent is less visible and more diffuse.  “Freedom of religion” merely refers to a plurality of standardized confessions or discursivities that are no longer formally associated with the state apparatus.
+As Talal Asad has presciently observed, the genealogy of religion is not about the fabrication of private experiences. The grammar of religion goes hand in hand with the maintenance of state power, because it is the state that inscribes difference.  Religion is a power grid made up of “different ways in which it &#91;has&#93; created and worked through legal institutions, different selves that it shaped and responded to, and different categories of knowledge which it authorized and made available.”[^1]   The “separation” of religion from the state is a modernist fiction, Talal argues, only because with the decline of monarchy the invisible power that renders the state coherent is less visible and more diffuse.  “Freedom of religion” merely refers to a plurality of standardized confessions or discursivities that are no longer formally associated with the state apparatus.
 
 But the biopolitical regimen of the modern liberal state requires a more rarefied and remote machinery of legitimation that is neither coercive nor discernible.   Modern state power comes, according to t James Scott, with its capacity to “make a society legible,” insofar as “the legibility of a society provides the capacity for large-scale social engineering”.  The process of making legible, Scott contends, began in the seventeenth century with absolute monarchs bent on enhancing their control over their subjects by collecting previously unreported demographic information.  Today it manifests in the deepening alliance between big government and “big data”, between the surveillance state and the sprawling tech monopolies.  The preoccupation with social “legibility”, in turn, requires the elaboration of increasingly “authoritarian” state instrumentalities, leaving in its wake “an incapacitated civil society”[^2] . 
 

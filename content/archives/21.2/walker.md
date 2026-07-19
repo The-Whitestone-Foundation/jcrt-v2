@@ -18,4 +18,10 @@ issue: 2
 season: spring
 year: 2022
 pages: 230-240
+subjects:
+  - label: "Religion historians"
+    scheme: "FAST"
+    identifier: "fst01093875"
+    uri: "https://id.worldcat.org/fast/1093875"
+    category: "topical"
 ---

@@ -18,6 +18,17 @@ tags:
   - absence
   - presence
   - experience
+subjects:
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first part in a two-part installment.
 
@@ -65,7 +76,7 @@ In the relation of two beings, three dimensions are suitable. But what if God is
 
 Time precedes and exceeds us, making possible all conceptual holds without retaining them. Like khora, it makes possible the space that is no place. It simply *is* in order to make possible what *becomes*, what *will be*… Time is the concept that the ellipsis marks, the passage of pauses, sustained ad infinitum.
 
-Time is also what allows asymmetry, not the false symmetry of self and other, the synthesis of space and representation—but the diachrony and dialogue: the self + 1 (time in the other), the self + 2 (justice), the self + … (ongoing vigilance, love). It is no wonder that Levinas would speak of “God in terms of desire,” and ethics as sacramental (“the smallest and most common place gestures \[that\] bear witness to the ethical.”)[^12]
+Time is also what allows asymmetry, not the false symmetry of self and other, the synthesis of space and representation—but the diachrony and dialogue: the self + 1 (time in the other), the self + 2 (justice), the self + … (ongoing vigilance, love). It is no wonder that Levinas would speak of “God in terms of desire,” and ethics as sacramental (“the smallest and most common place gestures &#91;that&#93; bear witness to the ethical.”)[^12]
 
 Time, like Marion’s grace, or Levinas’ desire, perpetuates becoming. It may simply be the difference between noting the infinite as the (n + 1…) from the side of the *n* (the other as addition) or the side of the receding one (the other as an extension that escapes).
 
@@ -117,7 +128,7 @@ Caputo’s weak theology proclaims two weaknesses: the weakness of words (logoi)
 
 These weaknesses are not unrelated. They join in the questions of *poiesis* (meaning made form): God’s incarnation, humanity’s prayers… Why put in words what cannot be definitively expressed by containers? Why should a God become man and subject Himself to misunderstanding, misappropriation, abuse, crucifixion? Why should an eternal spirit take residence in flesh? Why should the spirit in us wish to articulate what should perhaps be left to groans, or silence?
 
-To get at these paradoxes without collapsing the disproportion, Caputo begins his essay, “A Concluding Prayer,” with a word of prayer: a constraint that permits mobility, an end that irrupts an opening without crossing the chasm’s difference. Prayer-thinking attempts to maintain the aporia of an encountered alterity. It clears the way, makes possible Derrida’s desert: “the uncleared way \[that is\] also the condition of *decision* or *event*, which consists in opening the way, in *(sur)passing*, thus in going *beyond*…”[^28] This desert, negative theology’s words can only recall or archive in the oscillating motion of decisions. Prayer as passing, as going beyond, seems something more than the competing claims of apophasis-kataphasis. Prayer evokes a third…
+To get at these paradoxes without collapsing the disproportion, Caputo begins his essay, “A Concluding Prayer,” with a word of prayer: a constraint that permits mobility, an end that irrupts an opening without crossing the chasm’s difference. Prayer-thinking attempts to maintain the aporia of an encountered alterity. It clears the way, makes possible Derrida’s desert: “the uncleared way &#91;that is&#93; also the condition of *decision* or *event*, which consists in opening the way, in *(sur)passing*, thus in going *beyond*…”[^28] This desert, negative theology’s words can only recall or archive in the oscillating motion of decisions. Prayer as passing, as going beyond, seems something more than the competing claims of apophasis-kataphasis. Prayer evokes a third…
 
 ## II. Prayer as haesitatio: Thinking in between
 
@@ -137,11 +148,11 @@ Respect can take the surname of fear, but it can also take the mannerisms of dis
 
 There seems a discernible difference between the “something else that is taking shape, something, I know not what”[^34] and the possibility of nothing happening at all. There must be a difference between the emptying of sense (senselessness, dangerous desensitization) and the kenosis of love: the surrender, the relinquish, the deferring to the Other.
 
-Love’s emptying might ask us to abandon all. Pseudo-Dionysius asks us to “leave behind every divine light, every voice, every word from heaven”[^35] to approach the darkness of a Love that surpasses understanding. Kierkegaard’s Abrahamic knight of faith abandons all aesthetic and ethical standards for the call of an irreducible Other. Derrida’s admired Silesius strives “to become nothing \[in order to\] become God.”[^36] In each case, to use the name faithfully in love is to abandon it, to make way for “giv\[ing\] that which it does not have, that in which and prior to everything, may consist the essence, that is to say—beyond being—the nonessence of the gift.”[^37]
+Love’s emptying might ask us to abandon all. Pseudo-Dionysius asks us to “leave behind every divine light, every voice, every word from heaven”[^35] to approach the darkness of a Love that surpasses understanding. Kierkegaard’s Abrahamic knight of faith abandons all aesthetic and ethical standards for the call of an irreducible Other. Derrida’s admired Silesius strives “to become nothing &#91;in order to&#93; become God.”[^36] In each case, to use the name faithfully in love is to abandon it, to make way for “giv&#91;ing&#93; that which it does not have, that in which and prior to everything, may consist the essence, that is to say—beyond being—the nonessence of the gift.”[^37]
 
 For Chrétien, the voice in prayer enacts this gift. The human voice opened by prayer’s event guts out a space, “a place where the world returns to God. It gives what it does not have—which does not mean that it gives nothing—and it can itself only because it is not in possession of itself.”[^38]  The human voice—dispossessed and non-possessive—becomes like khora in prayer, in the sense that it is “over there but more ‘here’ than any ‘here’.”[^39] Its abandonment, its forsaking is for the sake of an Other: the otherness of self, the possibilities of the neighbor, the yet-to-come of God’s kingdom. For every self-denial the finite makes before the Infinite Other, it is not simply praying with both hands—it is giving the upper-hand to God.
 
-The prayer’s gift goes beyond the give and take of negative theology or even the excess and recess of Post-Heideggerian metaphysics. Here, prayer exceeds or subverts thinking because thinking provides a discourse *on* language, on the surfaces of saying—it can only “suspend desire…\[it\] leaves without ever going away.”[^40] Though Caputo does not dissociate thinking from praying, he distinguishes prayer as a thinking *with* and *because of* desire, in the Name of Desire—thinking overtaken by desire, by a thirst in search, too desperate to discard the Name and too daring to deny it altogether.
+The prayer’s gift goes beyond the give and take of negative theology or even the excess and recess of Post-Heideggerian metaphysics. Here, prayer exceeds or subverts thinking because thinking provides a discourse *on* language, on the surfaces of saying—it can only “suspend desire…&#91;it&#93; leaves without ever going away.”[^40] Though Caputo does not dissociate thinking from praying, he distinguishes prayer as a thinking *with* and *because of* desire, in the Name of Desire—thinking overtaken by desire, by a thirst in search, too desperate to discard the Name and too daring to deny it altogether.
 
 Prayer requires true dialogue, a vocative vulnerability before the other that alters (or wounds) the self. But prayer is not mere conversation between beings, or the undecidability of perpetual trial (negative theology). As Chretien notes, the self-manifestation before the divine “does not merely bring to light what was there before it; it has its own light: that of an event, the event wherein what is invisible to myself illuminates me in a fashion phenomenologically different from a conversation with myself or an examination of consciousness.”[^41] There is a certain vulnerability, as Lacoste would note in the event of exposition, that makes prayerful thinking distinct from the ambiguity of negative theology.[^42]
 
@@ -161,7 +172,7 @@ Thus, a negative theology that is too attached to cleverness and not grounded in
 
 [^3]: John Caputo, “A Concluding Prayer—for Theology, for the Truth, for the Event,” *The Weakness of God* (Bloomington: The Indiana University Press, 2006), 283.
 
-[^4]: “A Concluding Prayer” serves, in some regard, as a tribute to one of his philosophical tributaries, Emmanuel Levinas—namely in the play of adieu. See Emmanuel Levinas, “Diachrony and Representation,” *Entre-Nous: On \[\] Thinking \[\] of the \[\] Other* (New York: Columbia University Press, 1998).
+[^4]: “A Concluding Prayer” serves, in some regard, as a tribute to one of his philosophical tributaries, Emmanuel Levinas—namely in the play of adieu. See Emmanuel Levinas, “Diachrony and Representation,” *Entre-Nous: On &#91;&#93; Thinking &#91;&#93; of the &#91;&#93; Other* (New York: Columbia University Press, 1998).
 
 [^5]: Here, Caputo attempts to subvert (or make simultaneous) Novalis’ distinction in his *Encylclopedia,* “To pray is in *religion* what to think is in *philosophy*.” Quoted in Jean-Louis Chrétien’s “The Wounded Word: The Phenomenology of Prayer,” in *Phenomenology and the “Theological Turn”: The French Debate* (New York: Fordham University Press, 2000), 148.
 

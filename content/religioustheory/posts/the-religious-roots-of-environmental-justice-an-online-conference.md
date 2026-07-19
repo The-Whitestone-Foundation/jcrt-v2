@@ -18,6 +18,17 @@ tags:
   - environmental
   - religious
   - ecological
+subjects:
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 #### **Sponsored by** ***[The Journal for Cultural and Religious Theory](https://jcrt.org)*** **and** ***[The New Polis](http://thenewpolis.com/)*** **in co-operation with the University of Denver**
 

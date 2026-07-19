@@ -22,6 +22,32 @@ tags:
   - religious
   - philosophical
   - science
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Science"
+    scheme: "FAST"
+    identifier: "fst01108176"
+    uri: "https://id.worldcat.org/fast/1108176"
+    category: "topical"
 ---
 *The following is the third of a three part-series. The first can be found* [*here*]( /religioustheory/posts/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-1-erik-meganck/), *the second [here]( /religioustheory/posts/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-2-erik-meganck/).*
 

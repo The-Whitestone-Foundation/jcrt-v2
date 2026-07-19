@@ -28,4 +28,30 @@ issue: 1
 season: winter
 year: 2022
 pages: 118-135
+subjects:
+  - label: "Authenticity (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00821634"
+    uri: "https://id.worldcat.org/fast/821634"
+    category: "topical"
+  - label: "Faith"
+    scheme: "FAST"
+    identifier: "fst01198492"
+    uri: "https://id.worldcat.org/fast/1198492"
+    category: "topical"
+  - label: "Language and languages Philosophy"
+    scheme: "FAST"
+    identifier: "fst00992193"
+    uri: "https://id.worldcat.org/fast/992193"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Religion Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
 ---

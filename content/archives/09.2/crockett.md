@@ -27,4 +27,25 @@ issue: 2
 season: summer
 year: 2008
 pages:
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Messianism"
+    scheme: "FAST"
+    identifier: "fst01017438"
+    uri: "https://id.worldcat.org/fast/1017438"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---

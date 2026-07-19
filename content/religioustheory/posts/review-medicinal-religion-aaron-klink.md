@@ -17,6 +17,22 @@ tags:
   - medical
   - theological
   - theology
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Balboni, Michael J. and Peteet, John R. eds. *Spirituality and Religion Within the Culture of Medicine: From Evidence to Practice*. Oxford, UK and New York, NY: Oxford University Press 2017. ISBN 9780190272432  Hardcover. 419 pages.**
 

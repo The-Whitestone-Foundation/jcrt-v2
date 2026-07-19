@@ -16,4 +16,15 @@ issue: 3
 season: summer
 year: 2018
 pages: 522-526
+subjects:
+  - label: "Anthropology"
+    scheme: "FAST"
+    identifier: "fst00810196"
+    uri: "https://id.worldcat.org/fast/810196"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---

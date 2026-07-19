@@ -26,4 +26,30 @@ issue: 3
 season: fall
 year: 2020
 pages: 413-427
+subjects:
+  - label: "Messianism"
+    scheme: "FAST"
+    identifier: "fst01017438"
+    uri: "https://id.worldcat.org/fast/1017438"
+    category: "topical"
+  - label: "Methodology"
+    scheme: "FAST"
+    identifier: "fst01018722"
+    uri: "https://id.worldcat.org/fast/1018722"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Religions Study and teaching"
+    scheme: "FAST"
+    identifier: "fst01093917"
+    uri: "https://id.worldcat.org/fast/1093917"
+    category: "topical"
 ---

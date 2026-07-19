@@ -17,6 +17,22 @@ tags:
   - history
   - conversation
   - colonial
+subjects:
+  - label: "Conversation"
+    scheme: "FAST"
+    identifier: "fst00877209"
+    uri: "https://id.worldcat.org/fast/877209"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Decolonial theory"
+    scheme: "Homosaurus"
+    identifier: "homoit0003616"
+    uri: "https://homosaurus.org/v5/homoit0003616"
+    category: "topical"
 ---
 *The following is a transcript of a [community-wide debriefing](https://thenewpolis.com/2021/06/15/debriefing-on-decoloniality-a-public-conversation/) by participants for the online conference “*[*Decoloniality and the Disintegration of Cognitive Empire – Rethinking Sovereignty and Territoriality in the 21st Century.”*](https://thenewpolis.com/conferences-and-calls-for-presentations/)  *The conference was held April 14-16, 2021 and featured such international luminaries as Walter Mignolo, Catherine Walsh, and Tink Tinker. Because of the length of the conversation, it is in two parts.*
 
@@ -66,7 +82,7 @@ And the question I’m more interested in is what does “doing” decoloniality
 
 **Jared Lacy:** I have something to say to that, I think.
 
-Several years ago, I had the chance to hear Tink Tinker speak for my first time at Metro State and he was he was saying something I’ve heard him say a number of times since: that he’s not interested in any apologies that don’t include land-back and somebody in the audience asked the question, “I hear you and I appreciate that but, what do I do if I don’t have any land to give back?” What does the person do who’s just in their own positionality without land to give back? And his answer, as far as I recall, was \[that\] the best thing you can do is educate yourself and know the history as thoroughly as possible and the answer, of course, is it’s not really going to work to just send all white people back to Europe.
+Several years ago, I had the chance to hear Tink Tinker speak for my first time at Metro State and he was he was saying something I’ve heard him say a number of times since: that he’s not interested in any apologies that don’t include land-back and somebody in the audience asked the question, “I hear you and I appreciate that but, what do I do if I don’t have any land to give back?” What does the person do who’s just in their own positionality without land to give back? And his answer, as far as I recall, was &#91;that&#93; the best thing you can do is educate yourself and know the history as thoroughly as possible and the answer, of course, is it’s not really going to work to just send all white people back to Europe.
 
 So if you’re here, you need to educate yourself on that history as thoroughly as possible. And so I think that leads into, for me, how I see decoloniality playing out around me. And also taking on something that Walter Mignolo said, where he’s saying he’s doing much more important work outside of the academy in his real life, and attempting to use the academy, also to promote those goals.
 
@@ -82,7 +98,7 @@ And what the British did, and people that were abolitionists, is they stopped bu
 
 And so this is like the idea of “Okay, now we’re aware, but it’s still a sort of purgation. It’s sort of, “We feel better about ourselves because we’re highlighting this problem that has been put before us.” So, it’s more about showing awareness; it’s more about the self than the other.
 
-And I think a part of the source of that \[is\] related but it’s not a part of necessarily what Alyssa was talking about with decoding which I think is pretty integral as a propaedeutic process (like a prerequisite process) to the whole endeavor of decoloniality: there needs to be a can *kenosis*, an emptying out of the previous epistemology because when we think about decoloniality if we haven’t done that we’re going to think about it in a colonial mindset, so when we think about something like land-back are we thinking that that means giving property back to the indigenous people, because that can’t be what it means, because they don’t have that concept in the first place. So, it requires a sort of emptying out before a filling up with action points and agendas of what we can do, because without that then we’re just going to be kind of perpetuating a sort of wokeist version of the coloniality that’s not really accomplishing anything but just changing the accoutrement, the guise, that coloniality has taken on.
+And I think a part of the source of that &#91;is&#93; related but it’s not a part of necessarily what Alyssa was talking about with decoding which I think is pretty integral as a propaedeutic process (like a prerequisite process) to the whole endeavor of decoloniality: there needs to be a can *kenosis*, an emptying out of the previous epistemology because when we think about decoloniality if we haven’t done that we’re going to think about it in a colonial mindset, so when we think about something like land-back are we thinking that that means giving property back to the indigenous people, because that can’t be what it means, because they don’t have that concept in the first place. So, it requires a sort of emptying out before a filling up with action points and agendas of what we can do, because without that then we’re just going to be kind of perpetuating a sort of wokeist version of the coloniality that’s not really accomplishing anything but just changing the accoutrement, the guise, that coloniality has taken on.
 
 **Kieryn Wurts:** Yeah, just one more short thing on that is – I mean, Carl’s done good work on this tradition of white wokeness which isn’t that new. It’s kind of the fetishized image of the white liberal that doesn’t really – that purports to be doing something for social justice or something decolonial and really isn’t and I think that’s so all over the conversation that it’s really hard to even get at the problem from an authentic place. It makes it difficult for me anyway.
 
@@ -114,11 +130,11 @@ Maybe we should go backwards, Brian, and I’ll go to question nine:
 
 **Joshua Ramos:** I think the first thing we can do to decolonize the academy, speaking of control mechanisms and power – and the American academy is what I have my target on right now – is the student loan crisis which is going to blow up. And so saturating the entire generations beginning from the millennials and on down to gen Z and so forth, with easily six figures of debts.
 
-That’s slavery. That’s called “slavery.” That’s &hellip; capitalism. You look at other nations \[and they\] don’t quite have that same problem that we have so it’s a particularly American phenomenon. So how precise does this lead to knowledge? I guess we’re aiming to gain knowledge and indebeting ourselves for this, but I think that that’s probably the most practical thing we can do right now in the US is to kill the whole student loan thing. It’s gotten way out of hand, and it will be our albatross around the neck probably within the next 10 years.
+That’s slavery. That’s called “slavery.” That’s &hellip; capitalism. You look at other nations &#91;and they&#93; don’t quite have that same problem that we have so it’s a particularly American phenomenon. So how precise does this lead to knowledge? I guess we’re aiming to gain knowledge and indebeting ourselves for this, but I think that that’s probably the most practical thing we can do right now in the US is to kill the whole student loan thing. It’s gotten way out of hand, and it will be our albatross around the neck probably within the next 10 years.
 
 **Kieryn Wurts:** Thanks for that, Joshua. I remember, I think Walter Mignolo when he gave his *New Polis* talk that wasn’t tied to this conference a few months ago, had a nice little one-liner that stuck with me like “Good luck trying to decolonize the academy, like decolonizing the state,” which I thought was a good one-liner. But Joshua’s absolutely right. I mean, if you’re going to decolonize the academy I think it’s like you need to talk about student debt and also accessibility. Because these high tuition rates lock so many people out of higher education and the people that – it’s absolutely a class issue.
 
-We could talk about the epistemic ways in which knowledge is structured in the academy and that’s a really good conversation, but also just \[the\] question of access. If most of the world can’t access the academy,then I don’t think there’s any hope to decolonize it if they can’t access it if they wanted.
+We could talk about the epistemic ways in which knowledge is structured in the academy and that’s a really good conversation, but also just &#91;the&#93; question of access. If most of the world can’t access the academy,then I don’t think there’s any hope to decolonize it if they can’t access it if they wanted.
 
 **Joshua Ramos:** Yeah, exactly. Accessibility and issues of class are at hand here with this whole student loan thing and, in particular, because if I’m going to talk about my perspective, I’m Mexican-American. My grandmother was an undocumented who crossed the Rio Grande some time in the 1940s and was shot at by border security and had a horrifying trauma, PTSD, over the whole issue because she had lost – people next to her had perished. So, part of my whole narrative – because my mother had never finished high school; my dad has a high school diploma – but part of narrative was become educated, become educated. And so I grew up with this narrative that English is my first language because my mother experienced racism going to school – they would slap her on the hand whenever she spoke Spanish, so she had this sort of trauma about that too, and I had to know English as my first language. And so I did. Of my family, I have the highest education credentials. By the grace of God, I have a PhD and I’m very thankful for it.
 
@@ -184,13 +200,13 @@ It’s baptismal in a way. You’re washed off of what came before. Although, no
 
 In terms of what white people can do, if you want to go the Malcolm X route, he would say talk to your own community, but don’t get involved with the rest of us.
 
-     And you know, a part of that is the danger of tokenism because if you’re saying, “well, we’ll just follow the lead of whoever’s up there,” but then, if you are in institutions and you happen to be in positions of authority and able to select these people, then you know, can you be sure… if you’re not running in meritocratic way or if you’re not able to see through the color -because choosing people to lead because of their color is the same thing as choosing them not \[to\]. Putting them down, it’s the same as putting them up.
+     And you know, a part of that is the danger of tokenism because if you’re saying, “well, we’ll just follow the lead of whoever’s up there,” but then, if you are in institutions and you happen to be in positions of authority and able to select these people, then you know, can you be sure… if you’re not running in meritocratic way or if you’re not able to see through the color -because choosing people to lead because of their color is the same thing as choosing them not &#91;to&#93;. Putting them down, it’s the same as putting them up.
 
 In order to avoid tokenism, there is that opinion in the ether that you should stick with your own community, these communities stay with themselves or work together. Mignolo talked about the Bandung Conference, which I think is pretty helpful example of that line of thinking because that was just all the weak countries, basically, you know all the major nations in the Third World coming together and talking about how they can – basically it was like a cooperative effort from all these non-white, non-European, non-American communities and traditions. So you know that opinion is there and then there’s the other opinion that everybody needs to work together and then kind of figure out where everybody’s place in the effort. Which way it’s going to go, though, I don’t know. I don’t have any position on that.
 
 **Jennifer McCurdy:** I will add, though, I thought about this about this question a lot too.
 
-And just as it’s not up to me to indigenize something, I feel like in a lot of ways as a white person it’s not up to me to decolonize something. But I do think that what is colonialism at its base: it’s capitalism, profit, it’s inequality, it’s Christiandom \[sic\], it’s this moral and ethical exceptionalism or epistemological dominance. And so I feel like as anybody if we’re rejecting those things, in a lot of ways we’re rejecting colonialism.
+And just as it’s not up to me to indigenize something, I feel like in a lot of ways as a white person it’s not up to me to decolonize something. But I do think that what is colonialism at its base: it’s capitalism, profit, it’s inequality, it’s Christiandom &#91;sic&#93;, it’s this moral and ethical exceptionalism or epistemological dominance. And so I feel like as anybody if we’re rejecting those things, in a lot of ways we’re rejecting colonialism.
 
 And so we can even do these things in our basic, personal, individual lives.
 

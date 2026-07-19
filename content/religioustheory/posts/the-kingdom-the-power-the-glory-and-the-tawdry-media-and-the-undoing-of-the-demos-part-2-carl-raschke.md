@@ -22,6 +22,32 @@ tags:
   - social
   - theory
   - capitalism
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Economics"
+    scheme: "FAST"
+    identifier: "fst00902116"
+    uri: "https://id.worldcat.org/fast/902116"
+    category: "topical"
+  - label: "Glory"
+    scheme: "FAST"
+    identifier: "fst00943612"
+    uri: "https://id.worldcat.org/fast/943612"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *This article is the second of three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk Conference Center (Stift Melk, Austria) sponsored by the [Religion and Transformation in Contemporary Society Platform at the University of Vienna](http://sowi.univie.ac.at/en/research/research-platforms/religion-and-transformation-in-contemporary-society/) (June 27, 2017). The [first installment can be found here]( /religioustheory/posts/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-1-carl-raschke/). The final one will be published on July 18.* 
 

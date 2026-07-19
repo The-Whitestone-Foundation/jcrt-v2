@@ -19,4 +19,10 @@ issue: 2
 season: summer
 year: 2014
 pages: 96-101
+subjects:
+  - label: "Philosophers"
+    scheme: "FAST"
+    identifier: "fst01060746"
+    uri: "https://id.worldcat.org/fast/1060746"
+    category: "topical"
 ---

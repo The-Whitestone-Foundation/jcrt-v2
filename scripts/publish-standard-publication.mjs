@@ -4,6 +4,7 @@ import yaml from "js-yaml";
 
 const ROOT = process.cwd();
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
+const ICON_FILE = path.join(ROOT, "public", "images", "logos", "standard-site-icon.webp");
 const DEFAULT_SERVICE = "https://bsky.social";
 
 function requireEnv(name) {
@@ -42,6 +43,20 @@ async function xrpc(service, method, body, accessJwt = "") {
 	return data;
 }
 
+async function uploadIcon(service, accessJwt) {
+	const response = await fetch(`${service}/xrpc/com.atproto.repo.uploadBlob`, {
+		method: "POST",
+		headers: {
+			"content-type": "image/webp",
+			authorization: `Bearer ${accessJwt}`,
+		},
+		body: fs.readFileSync(ICON_FILE),
+	});
+	const data = await response.json();
+	if (!response.ok) throw new Error(`Icon upload failed (${response.status}): ${data?.message || data?.error || response.statusText}`);
+	return data.blob;
+}
+
 const service = String(process.env.ATP_SERVICE || DEFAULT_SERVICE).replace(/\/$/, "");
 const identifier = String(process.env.ATP_IDENTIFIER || "jcrt.org").trim();
 const password = requireEnv("ATP_APP_PASSWORD");
@@ -56,11 +71,14 @@ if (standardSite.did && session.did !== standardSite.did) {
 	throw new Error(`Authenticated DID ${session.did} does not match configured DID ${standardSite.did}.`);
 }
 
+const icon = await uploadIcon(service, session.accessJwt);
+
 const record = {
 	$type: "site.standard.publication",
 	name: standardSite.name,
 	url: standardSite.url,
 	description: standardSite.description,
+	icon,
 };
 
 const result = await xrpc(

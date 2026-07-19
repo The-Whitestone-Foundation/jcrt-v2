@@ -17,4 +17,15 @@ issue: 3
 season: fall
 year: 2019
 pages: 563-575
+subjects:
+  - label: "Entomology"
+    scheme: "FAST"
+    identifier: "fst00912735"
+    uri: "https://id.worldcat.org/fast/912735"
+    category: "topical"
+  - label: "Inner cities"
+    scheme: "FAST"
+    identifier: "fst00973711"
+    uri: "https://id.worldcat.org/fast/973711"
+    category: "topical"
 ---

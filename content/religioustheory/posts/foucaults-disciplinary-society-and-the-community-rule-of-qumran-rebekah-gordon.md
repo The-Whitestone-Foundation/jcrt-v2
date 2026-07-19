@@ -23,6 +23,37 @@ tags:
   - exclusion
   - expulsion
   - individual
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Hermeneutics"
+    scheme: "FAST"
+    identifier: "fst00955492"
+    uri: "https://id.worldcat.org/fast/955492"
+    category: "topical"
+  - label: "Punishment"
+    scheme: "FAST"
+    identifier: "fst01084107"
+    uri: "https://id.worldcat.org/fast/1084107"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## Foregrounding the Problem
 

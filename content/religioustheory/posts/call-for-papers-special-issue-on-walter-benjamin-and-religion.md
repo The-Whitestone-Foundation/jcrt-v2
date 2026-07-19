@@ -21,6 +21,37 @@ tags:
   - religious
   - metaphysics
   - modernity
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 What does Walter Benjamin’s work suggest about religion and the methods of studying it? This special issue of *[The Journal for Cultural and Religious Studies (JCRT](https://jcrt.org))* offers new perspectives on Benjamin and religion.  Many studies consider Benjamin’s engagement with Judaism.  Others, fewer in number, consider the role of Christianity, usually framed as theology, in his work. A third area of research been the religious dimensions of Benjamin’s modernity.
 

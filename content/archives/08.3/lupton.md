@@ -32,4 +32,30 @@ issue: 3
 season: fall
 year: 2007
 pages:
+subjects:
+  - label: "Antisemitism"
+    scheme: "FAST"
+    identifier: "fst00810769"
+    uri: "https://id.worldcat.org/fast/810769"
+    category: "topical"
+  - label: "Jews History"
+    scheme: "FAST"
+    identifier: "fst00983241"
+    uri: "https://id.worldcat.org/fast/983241"
+    category: "topical"
+  - label: "Philosophical anthropology"
+    scheme: "FAST"
+    identifier: "fst01060766"
+    uri: "https://id.worldcat.org/fast/1060766"
+    category: "topical"
+  - label: "Statutes and codes"
+    scheme: "FAST"
+    identifier: "fst01774314"
+    uri: "https://id.worldcat.org/fast/1774314"
+    category: "form-genre"
+  - label: "Theater and society"
+    scheme: "FAST"
+    identifier: "fst01149315"
+    uri: "https://id.worldcat.org/fast/1149315"
+    category: "topical"
 ---

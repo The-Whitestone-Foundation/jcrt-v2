@@ -8,13 +8,13 @@ author: "Gavin Hyman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 04
 year: 2002
 ---
 Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 
 
-# Radical Orthodoxy, Ethics and Ambivalence
+## Radical Orthodoxy, Ethics and Ambivalence
 
 Gavin Hyman  
 University of Lancaster
@@ -32,13 +32,9 @@ One of the many defining characteristics of the postmodern 'sensibility' may be 
 
 > **Gavin Hyman**, is Lecturer in Religious Studies at the University of Lancaster, U.K. He is author of _The Predicament of Post-modern Theology: Radical Orthodoxy or Nihilist Textualism?_ (Westminser Press, 2001) and of numerous articles.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Gavin Hyman. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Gavin Hyman. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/hyman](https://jcrt.org/archives/03.2/hyman/)
 
@@ -194,7 +190,7 @@ Updated 07/28/21.
 
 [^42]: Jean-Luc Marion, _God Without Being: Hors-Texte_, tr. Thomas A. Carlson (Chicago: University of Chicago Press, 1991), p. 102.
 
-[^43]: See, for instance, Michel de Certeau, _The Mystic Fable, Vol. I: The Sixteenth and Seventeenth Centuries_, tr. Michael B. Smith (Chicago: University of Chicago Press, 1992), p. 15: 'To locate \[the Other\] apart, to isolate it from the texts that exhaust themselves trying to express it, would be tantamount to exorcising it by providing it with its own place and name, to identifying it with a remnant not assimilated by constituted rationalities, or to transforming the question that appears in the guise of a limit into a particular religious representation'.
+[^43]: See, for instance, Michel de Certeau, _The Mystic Fable, Vol. I: The Sixteenth and Seventeenth Centuries_, tr. Michael B. Smith (Chicago: University of Chicago Press, 1992), p. 15: 'To locate &#91;the Other&#93; apart, to isolate it from the texts that exhaust themselves trying to express it, would be tantamount to exorcising it by providing it with its own place and name, to identifying it with a remnant not assimilated by constituted rationalities, or to transforming the question that appears in the guise of a limit into a particular religious representation'.
 
 [^44]: See, for instance, Jacques Derrida, 'How to Avoid Speaking: Denials' in Harold Coward and Toby Foshay (eds.), _Derrida and Negative Theology_ (Albany: State University of New York Press, 1992), where he says that '"negative theology" seems to reserve, beyond all positive predication, beyond all negation, even beyond Being, some hyperessentiality, a being beyond Being', p. 77. Again, he speaks of the 'ontological wager of hyperessentiality that one finds at work both in Dionysius and in Meister Eckhart', p. 78.
 

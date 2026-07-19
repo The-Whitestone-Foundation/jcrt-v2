@@ -19,4 +19,15 @@ issue: 1
 season: fall
 year: 2015
 pages: 72-89
+subjects:
+  - label: "Gifts, Spiritual"
+    scheme: "FAST"
+    identifier: "fst00942667"
+    uri: "https://id.worldcat.org/fast/942667"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
 ---

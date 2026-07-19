@@ -8,13 +8,13 @@ author: "Noel Dane Scott"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 10
 year: 2002
 ---
 Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 
 
-# Brain Science Supports Contemporary Religious Trends
+## Brain Science Supports Contemporary Religious Trends
 
 a review of Andrew Newberg M.D., et al., _[Why God Wont Go Away: Brain Science and the Biology of Belief](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0345440331&bfmtype=book)_. New York: The Ballantine Publishing Group, 2001. 320pp. $14.00. ISBN: 0345440331
 
@@ -29,13 +29,9 @@ Contemporary trends in American religion have long been moving away from traditi
 
 > **Noel Dane Scott** is Assistant Professor of Philosophy and Religion at Western Carolina University. She earned a B.S. from University of Califonia at Riverside, a M.A. from Graduate Theological Union, and a Ph.D. from Vanderbilt University. Dr. Scott specializes social and environmental ethics.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Noel Dane Scott. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Noel Dane Scott. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/scott](https://jcrt.org/archives/03.3/scott/)
 
@@ -47,7 +43,7 @@ Updated 07/28/21.
 
 [^5]:  Excluding the first three chapters, most of the book is what Karl Popper would call pseudo-science, or more accurately, meta-scientific (metaphysical) speculations made in the guise of science. Such speculation can reveal legitimate insights. However, to avoid confusion about what warrants a particular assertion, distinctions should be made between scientific assertions and metaphysical ones. At times the authors are careful to qualify their meta-scientific speculations as speculations. Unfortunately, like many scientists who attempt to answer metaphysical questions, they are not always disciplined in making this distinction. With this caution in mind, the author's meta-scientific speculations are provocative. For instance, the authors' make the provocative claim that neuroscience reveals that the origin of all religions is to be found in a continuum of brain states. This continuum is hierarchical and represents something like an ascent up Plato's line that leads to a direct encounter with the "Absolute Unity of Being (162)." For Plato, enlightenment is noetic and requires decades of rigorous and systematic education to achieve. For Newberg, et al., enlightenment happens in the range of experiences one has during meditation or prayer as neural input decreases to the orientation areas in the brain. The orientation areas are the parts of the brain that create our sense of individuality or self. So, as neural input to these areas decreases one loses one's sense of self. On rare occasions, during intense spiritual exercise, the fundamental categories of self and not-self, which, again, are constructed by the orientation areas, dissolves as neural input to these areas completely shuts down. When this happens the spiritual practitioner experiences the mystical oneness of Absolute Unity. The authors describe this experience from the standpoint of brain science. They write: "There would be no discrete objects or beings, no sense of space or the passage of time, no line between self and the rest of the universe (119)."
 
-[^6]:  The authors' most provocative claim is that this experience is an encounter with 'God.' Moreover, this experience is the ground of all spiritual reality and the beginning and end of all true religion. The authors write: "In \[every religion\]' the authority of that religion and essential realness of its God are rooted in transcendent experience of mystical union, whether mild or extremely powerful (139)." Later they continue this theme: "When we realize that any specific conception of God is a piece of this larger puzzle, rooted in a mystical understanding of what's fundamentally real, then all religions become siblings, all faiths become true, and all incarnations of God can be understood as real (162)."
+[^6]:  The authors' most provocative claim is that this experience is an encounter with 'God.' Moreover, this experience is the ground of all spiritual reality and the beginning and end of all true religion. The authors write: "In &#91;every religion&#93;' the authority of that religion and essential realness of its God are rooted in transcendent experience of mystical union, whether mild or extremely powerful (139)." Later they continue this theme: "When we realize that any specific conception of God is a piece of this larger puzzle, rooted in a mystical understanding of what's fundamentally real, then all religions become siblings, all faiths become true, and all incarnations of God can be understood as real (162)."
 
 [^7]:  While the authors argue that the encounter with 'God' can be explained in terms of brain architecture, mechanics and what happens to neural inputs during meditation and prayer, they want to say that this experience is nevertheless one of genuine transcendence (162). They in no way want to be dismissive of the reality of' 'God'. Their basic argument for this claim is that those who have had this experience are sure that it is real, and moreover, we should take their word for this as there is something about such experiences that self-certify their reality. Furthermore, these experiences are epistemically foundational for religious truth. They point out, in an embarrassing comment, that "After centuries of inquiry, philosophers have come to suggest that true reality possess an unmistakable quality (152)." Wittgenstein, for example, does remark in _On Certainty_ that at times doubt makes no sense, but I am sure he would have doubts about the above statement. The above statement is but one of many weaknesses in the story of religion from brain science. I will not attempt to make a list, but I would like to point out two obvious difficulties that caught my attention. One is that the authors frequently appeal to the theological point of _via negativa_. They approvingly cite mystics and theologians who in various ways affirm _via negativa_: the position that God so transcends the human understanding that we can make no positive assertions about God's nature. Yet in one sentence the authors affirm that God's nature is unknowable, then in the next define God's essence. They write: "God is by nature unknowable' he is' being itself, the absolute, undifferentiated oneness that is the ground of all existence (159)." These terms are not being used metaphorically, analogically or even ironically, in the manner of negative theology. These are positive descriptions of the real experience of transcendence when neural input is shut down to the orientation areas of the brain.
 

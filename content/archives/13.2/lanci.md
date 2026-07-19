@@ -19,4 +19,10 @@ issue: 2
 season: summer
 year: 2014
 pages:
+subjects:
+  - label: "Zombies"
+    scheme: "FAST"
+    identifier: "fst01184595"
+    uri: "https://id.worldcat.org/fast/1184595"
+    category: "topical"
 ---

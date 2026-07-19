@@ -17,4 +17,15 @@ issue: 3
 season: spring
 year: 2013
 pages: 20-38
+subjects:
+  - label: "Anti-globalization movement"
+    scheme: "FAST"
+    identifier: "fst00810338"
+    uri: "https://id.worldcat.org/fast/810338"
+    category: "topical"
+  - label: "Ejército Zapatista de Liberación Nacional (Mexico)"
+    scheme: "FAST"
+    identifier: "fst00699014"
+    uri: "https://id.worldcat.org/fast/699014"
+    category: "corporate"
 ---

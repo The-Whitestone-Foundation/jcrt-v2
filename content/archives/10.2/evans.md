@@ -14,11 +14,17 @@ keywords:
   - 1919-1988
   - duncan
   - h-d-hilda-doolittle
-pdf:
+pdf: duncan-transcription.pdf
 sort_id:
 volume: 10
 issue: 2
 season: spring
 year: 2010
 pages:
+subjects:
+  - label: "Poetry"
+    scheme: "FAST"
+    identifier: "fst01067691"
+    uri: "https://id.worldcat.org/fast/1067691"
+    category: "topical"
 ---

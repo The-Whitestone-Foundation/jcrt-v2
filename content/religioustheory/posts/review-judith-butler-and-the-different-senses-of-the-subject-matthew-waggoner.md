@@ -19,6 +19,12 @@ tags:
   - relation
   - condition
   - materiality
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 *Note:  This review is [also published simultaneously](https://jcrt.org/archives/16.1/ReviewButler) in the PDF special issue of JCRT 16.1.*
 
@@ -110,7 +116,7 @@ For Irigaray, to speak of the ethical relation must instead be to invoke the inc
 
 Butler observes that Irigaray’s *Ethics of Sexual Difference* (1993) approaches the ethical relation differently than what was at the time the more well known *Speculum of the Other Woman* (1985). Irigaray’s method in *Ethics of Sexual Difference* of engaging in critical dialogue with the texts she reads acknowledges her debts to them, which is not a model of equality or substitution but it is also not a model of radical opposition and otherness. It is instead, Butler argues, a model of intertwinement.
 
-And yet, Irigaray specifically challenges Merleau-Ponty’s concept of intertwinement as one that repudiates the maternal origins of the masculine (Irigaray borrows the idea of the maternal origins of the masculine from Freud) even as he disguises it in a theory of the flesh. Butler defends Merleau-Ponty (describing Irigaray’s criticisms of him as unpersuasive) by reiterating that his theory of the flesh is not masculine in the way Irigaray suggests since “the embodied status of the ‘I’ is precisely what implicates the ‘I’ in a fleshly world outside of itself \[so that\] the ‘I’ is no longer its center or ground.” This chapter then contains what I regard as the most succinct statement of Butler’s thesis in *Senses of the Subject*:
+And yet, Irigaray specifically challenges Merleau-Ponty’s concept of intertwinement as one that repudiates the maternal origins of the masculine (Irigaray borrows the idea of the maternal origins of the masculine from Freud) even as he disguises it in a theory of the flesh. Butler defends Merleau-Ponty (describing Irigaray’s criticisms of him as unpersuasive) by reiterating that his theory of the flesh is not masculine in the way Irigaray suggests since “the embodied status of the ‘I’ is precisely what implicates the ‘I’ in a fleshly world outside of itself &#91;so that&#93; the ‘I’ is no longer its center or ground.” This chapter then contains what I regard as the most succinct statement of Butler’s thesis in *Senses of the Subject*:
 
 To have one’s being implicated in the other is thus to be entwined from the start, but not for that reason to be reducible to—or exchangeable with—one another. Moreover, to be implicated elsewhere from the start suggests that the subject, as flesh, is primarily an intersubjective being, finding itself as other, finding its primary sociality in a set of relations that are never fully recoverable or traceable. This view stands in stark contrast both to the Freudian conception of the ‘ego’, understood as the site of primary narcissism, and to the various forms of atomistic individualism derived from Cartesian and liberal philosophical traditions. (168)
 

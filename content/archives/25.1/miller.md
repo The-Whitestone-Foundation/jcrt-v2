@@ -27,6 +27,22 @@ keywords:
   - christianity
   - civilization
   - conquest
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Civilization"
+    scheme: "FAST"
+    identifier: "fst00862898"
+    uri: "https://id.worldcat.org/fast/862898"
+    category: "topical"
+  - label: "Conquest"
+    scheme: "FAST"
+    identifier: "fst01198642"
+    uri: "https://id.worldcat.org/fast/1198642"
+    category: "topical"
 ---
 Six hundred years ago, the Church and Spain and Portugal began developing the international law of Christian European colonization. That law is better known today as the Doctrine of Discovery. Joined by England, France, Russia, and Holland, European countries used this law to claim and acquire the lands, assets, sovereign rights, and even the existence of Indigenous nations and peoples. When the United States was formed, it also adopted this colonizing legal regime. This international law still applies today and is very relevant to Indigenous nations and peoples and seriously impacts their rights and existence even now. This chapter lays out the ten elements, or factors, that comprise the Doctrine. These elements were clearly defined and applied by the United States Supreme Court in the landmark Indian law case of *Johnson v. M'Intosh* in 1823.
  

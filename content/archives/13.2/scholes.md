@@ -20,4 +20,10 @@ issue: 2
 season: summer
 year: 2014
 pages: 123-125
+subjects:
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---

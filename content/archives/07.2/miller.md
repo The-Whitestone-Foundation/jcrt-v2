@@ -28,4 +28,25 @@ issue: 2
 season: spring
 year: 2006
 pages:
+subjects:
+  - label: "Pain"
+    scheme: "FAST"
+    identifier: "fst01050382"
+    uri: "https://id.worldcat.org/fast/1050382"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Refugees"
+    scheme: "FAST"
+    identifier: "fst01092797"
+    uri: "https://id.worldcat.org/fast/1092797"
+    category: "topical"
+  - label: "Gender"
+    scheme: "Homosaurus"
+    identifier: "homoit0000560"
+    uri: "https://homosaurus.org/v5/homoit0000560"
+    category: "topical"
 ---

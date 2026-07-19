@@ -22,6 +22,22 @@ tags:
   - theological
   - holistic
   - ethnic
+subjects:
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 The comparison between evangelical Christianity and EOC Christianity is their approach to the language. The Westerners use the mother tongue to translate Christianity to the Oromo and other ethnic groups to be converted to evangelical Christianity. The Amharas use the Amharic language and liturgical language *Geez*, the liturgical language of the EOC, to evangelize and dominate the Oromo and others. Many believe that even though the evangelical faith tradition requires conversion as a practice to join the Christian community, it was a liberating experience, not a dominating one.
 

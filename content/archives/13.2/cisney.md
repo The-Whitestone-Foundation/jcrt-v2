@@ -19,4 +19,10 @@ issue: 2
 season: summer
 year: 2014
 pages: 58-81
+subjects:
+  - label: "Zombie films"
+    scheme: "FAST"
+    identifier: "fst01184593"
+    uri: "https://id.worldcat.org/fast/1184593"
+    category: "topical"
 ---

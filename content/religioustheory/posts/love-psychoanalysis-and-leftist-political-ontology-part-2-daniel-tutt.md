@@ -24,6 +24,27 @@ tags:
   - ethical
   - theory
   - political
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 *The following is the second installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.”  It [has been published concurrently as part of an anthology](http://us.karnacbooks.com/product/sex-and-nothing-bridges-from-psychoanalysis-to-philosophy/37318/) entitled Sex and Nothing: Bridges from Psychoanalysis to Philosophy, edited by [Alejandro Cerda-Rueda](http://us.karnacbooks.com/Author.asp?AID=21559) (New York: Karnac Books, 2016).  The first part of the article as it appears in* Religious Theory *[can be found here]( /religioustheory/posts/love-psychoanalysis-and-leftist-political-ontology-part-1-daniel-tutt/).*
 
@@ -77,7 +98,7 @@ In Badiou’s conception of love he radically eschews prior definitions of love 
 
 As he remarks in his text on *St. Paul*: “Love is a-cosmic and illegal, refusing integration into any totality and signaling nothing. It delivers no law, no form of mastery.”[^20]
 
-Love is always an un-binding and a break from the social bonds that are tied to the Law of the symbolic. Love is exposed in its resistance to the law of being and thus, far from ‘naturally’ regulating the supposed relation between the sexes, love is what makes truth of the \[social\] un-binding.[^21] Therefore, love “produces a truth of the situation in such a way that the disjunction is constituted as law. The truth composed by love proceeds to infinity”[^22] – and paradoxically, “the scene of the two” that love emerges from, has no third. Similar to Badiou’s atheism, there is no third mediation point (the big Other, God, etc.) that situates or establishes the meaning of love in its own field of expression. Love always remains tied to the logic of the two.
+Love is always an un-binding and a break from the social bonds that are tied to the Law of the symbolic. Love is exposed in its resistance to the law of being and thus, far from ‘naturally’ regulating the supposed relation between the sexes, love is what makes truth of the &#91;social&#93; un-binding.[^21] Therefore, love “produces a truth of the situation in such a way that the disjunction is constituted as law. The truth composed by love proceeds to infinity”[^22] – and paradoxically, “the scene of the two” that love emerges from, has no third. Similar to Badiou’s atheism, there is no third mediation point (the big Other, God, etc.) that situates or establishes the meaning of love in its own field of expression. Love always remains tied to the logic of the two.
 
 As one of Badiou’s four ‘truth conditions,’ love is what might include religion and psychoanalysis, two discourses that Badiou claims are incapable of producing new truths. But love on the other hand, produces new truths because it is a subjective encounter. Love is what Badiou calls a “minimal communism,”[^23] Because love is a process-oriented encounter, grounded in the scene of the two, the implication is that love is no longer a solitary and private-intimate experience but is elevated to a universal experience. As Badiou states:
 

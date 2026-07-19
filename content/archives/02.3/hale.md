@@ -8,13 +8,13 @@ author: "David Hale"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 07
 year: 2001
 ---
 Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 
 
-# Book Profile: Dissing Postmodernism
+## Book Profile: Dissing Postmodernism
 
 James P. Mackey, _The Critique of Theological Reason._ Cambridge: Cambridge University Press, 2000. 333 pages. ISBN: 0521772931.
 
@@ -33,13 +33,9 @@ T_he Critique of Theological Reason_ is an ambitious work - partly critical, par
 
 > **David Hale** is a doctoral candidate in the joint Ph.D. program of the University of Denver and Iliff School of Theology. He lives in Aspen, Colorado,where he writes the religion column for the _Aspen Times_, and teaches philosophy and history for Colorado Mountain College. He has writes for the _American Alpine Journal_ as well as for a variety of journals and magazines.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 David Hale. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 David Hale. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/hale](https://jcrt.org/archives/02.3/hale/)
 

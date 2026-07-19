@@ -22,6 +22,22 @@ tags:
   - transfiguration
   - hermeneutic
   - wilderness
+subjects:
+  - label: "Baptism"
+    scheme: "FAST"
+    identifier: "fst00827229"
+    uri: "https://id.worldcat.org/fast/827229"
+    category: "topical"
+  - label: "Possibility"
+    scheme: "FAST"
+    identifier: "fst01072695"
+    uri: "https://id.worldcat.org/fast/1072695"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second part in a two-part installment. The first  part can be found [here]( /religioustheory/posts/john-the-possibilizer-the-promise-of-a-kearnian-baptismal-hermeneutic-part-i-eric-trozzo/).*
 
@@ -71,7 +87,7 @@ The one who was baptized encountered not just the wild and crazy man John, but t
 
 To be sure, the Gospel writer of Luke is clear that John’s baptism is superseded by baptism into Christ. In Acts 19:3-4, for instance, it reads,
 
-> Then \[Paul\] said, ‘Into what then were you baptized?’ \[The disciples in Corinth\] answered, ‘Into John’s baptism.’ Paul said, ‘John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, in Jesus.
+> Then &#91;Paul&#93; said, ‘Into what then were you baptized?’ &#91;The disciples in Corinth&#93; answered, ‘Into John’s baptism.’ Paul said, ‘John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, in Jesus.
 
 Yet this move makes sense in the Kearnian scheme of encounter with *persona*. Put simply, if an encounter with the *persona* of John the Baptizer through the tehomic waters opened a person up to the possibilities of the kingdom of God, how much more open would they become through an encounter with the *prosopon par excellence* of Christ?  It is a *qal va-homer* argument: if John’s baptism leads to transfiguration and an opening to the divine possibilities, even more so does baptism in Christ, the one most fully open to divine possibility.
 

@@ -17,6 +17,22 @@ tags:
   - theological
   - religious
   - spiritual
+subjects:
+  - label: "Redemption"
+    scheme: "FAST"
+    identifier: "fst01092243"
+    uri: "https://id.worldcat.org/fast/1092243"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Yadin-Israel, Azzan. *The Grace of God and the Grace of Man: The Theologies of Bruce Springsteen.* Highland Park: Lingua Press, 2016. ISBN-10: 0692718516. 202 pages. Paperback, e-book.**
 

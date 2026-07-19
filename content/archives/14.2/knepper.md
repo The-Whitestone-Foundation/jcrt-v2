@@ -19,4 +19,20 @@ issue: 2
 season: spring
 year: 2015
 pages: 277-286
+subjects:
+  - label: "Critical thinking"
+    scheme: "FAST"
+    identifier: "fst00883692"
+    uri: "https://id.worldcat.org/fast/883692"
+    category: "topical"
+  - label: "Metaphor"
+    scheme: "FAST"
+    identifier: "fst01018283"
+    uri: "https://id.worldcat.org/fast/1018283"
+    category: "topical"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
 ---

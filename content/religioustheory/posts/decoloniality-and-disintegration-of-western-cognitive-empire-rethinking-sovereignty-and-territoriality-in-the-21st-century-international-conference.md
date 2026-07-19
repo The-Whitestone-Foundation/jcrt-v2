@@ -22,6 +22,22 @@ tags:
   - cognitive
   - indigenous
   - theology
+subjects:
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Decolonial theory"
+    scheme: "Homosaurus"
+    identifier: "homoit0003616"
+    uri: "https://homosaurus.org/v5/homoit0003616"
+    category: "topical"
 ---
 ## **April 14-16, 2021**
 

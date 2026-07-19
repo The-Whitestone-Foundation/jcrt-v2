@@ -24,6 +24,27 @@ tags:
   - community
   - social
   - reflexive
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is a talk presented at the Weatherhead Center for International Affairs, Harvard University, and is the second installment of a two-part series. The first installment can be found [here]( /religioustheory/posts/slow-journalism-ethnography-as-a-means-of-understanding-religious-social-activism-part-1-james-v-spickard/).*
 
@@ -57,7 +78,7 @@ Dorothy Day, by the way, was similarly difficult, but she always said that she�
 
 How do these people maintain their faith and their community, in the face of overwhelming opposition to their goals and the ongoing repressive direction of American public life? (Saint Dorothy also famously said, “Our chief problem is this stinking, filthy, rotten System,” a sentiment that her present followers affirm.) How do they keep going, when they acknowledge their complete political ineffectiveness, even at protecting the homeless from police sweeps?
 
-Part of the answer is their insight that they must do this work, effective or not, because, to quote one of their leaders, “we will die \[spiritually\] if we do not practice what we believe.”[^7] To use an old language, it saves their souls – not in some future world but here, right now. Their social activism is thus profoundly religious, even sacramental.
+Part of the answer is their insight that they must do this work, effective or not, because, to quote one of their leaders, “we will die &#91;spiritually&#93; if we do not practice what we believe.”[^7] To use an old language, it saves their souls – not in some future world but here, right now. Their social activism is thus profoundly religious, even sacramental.
 
 Another part of the answer, though, comes from their ritual life, specifically their Wednesday evening masses, held at their house in Boyle Heights, East L.A. Together with “family” and friends, often led by whichever priest they sprung from jail after their Wednesday morning protests – and when not, by a member of their own community – these celebrations help renew their sense of the rightness of what they are doing and of the appropriateness of the identity that they have chosen. Specifically, the *experience* of this ritual restores a polythetic sense of “rightness” to their world. By structuring time and attention, the house-mass restores their sense of their mission’s sacred character.
 

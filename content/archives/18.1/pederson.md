@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 26-36
+subjects:
+  - label: "Economics"
+    scheme: "FAST"
+    identifier: "fst00902116"
+    uri: "https://id.worldcat.org/fast/902116"
+    category: "topical"
+  - label: "Psychosexual development"
+    scheme: "FAST"
+    identifier: "fst01081706"
+    uri: "https://id.worldcat.org/fast/1081706"
+    category: "topical"
 ---

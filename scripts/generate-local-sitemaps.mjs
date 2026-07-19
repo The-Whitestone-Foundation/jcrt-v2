@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
+import { subjectLabels } from "../_config/subjects.js";
 import {
   buildOaiRecord,
   OAI_METADATA_PREFIX,
@@ -9,6 +10,7 @@ import {
 
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
+const THEORY_DIR = path.join(ROOT, "content", "religioustheory", "posts");
 const OUT_DIR = path.join(ROOT, "public", "sitemaps");
 const BASE_URL = "https://jcrt.org";
 const FILES_URL = "https://files.jcrt.org";
@@ -156,6 +158,7 @@ function readArchiveEntries() {
     const { sp, ep } = parsePages(data.pages);
     const authors = splitAuthors(data.author);
     const keywords = splitKeywords(data.keywords);
+    const subjects = subjectLabels(data);
     const description = String(data.description || data.abstract || "").trim();
     const title = String(data.title || "").trim();
     const published = data.published !== false;
@@ -180,6 +183,7 @@ function readArchiveEntries() {
       title,
       authors,
       keywords,
+      subjects,
       description,
       volume,
       issueNum,
@@ -194,11 +198,48 @@ function readArchiveEntries() {
       canonicalFormat,
       published,
       sitemapIgnore,
+      section: "archives",
     });
   }
 
   entries.sort(issueSort);
   return entries;
+}
+
+function readTheoryEntries() {
+  return walkMarkdown(THEORY_DIR).flatMap((filePath) => {
+    const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+    if (!data || typeof data !== "object") return [];
+    const slug = String(data.slug || path.basename(filePath, ".md")).trim();
+    const title = String(data.title || "").trim();
+    if (!slug || !title) return [];
+    const dateStr = toDateOnly(data.date);
+    const authors = splitAuthors(data.author || data.authors);
+    const pageUrl = `${BASE_URL}/religioustheory/posts/${slug}/`;
+    return [{
+      issue: "religioustheory",
+      slug,
+      title,
+      authors: authors.length ? authors : ["JCRT Editors"],
+      keywords: [...splitKeywords(data.categories), ...splitKeywords(data.tags)].filter((value) => value !== "theoryPosts"),
+      subjects: subjectLabels(data),
+      description: String(data.description || data.abstract || "").trim(),
+      volume: "",
+      issueNum: "",
+      sp: "",
+      ep: "",
+      dateStr,
+      pdfFile: "",
+      citationStem: "",
+      pageUrl,
+      pdfUrl: "",
+      canonicalUrl: pageUrl,
+      canonicalFormat: "text/html",
+      published: data.published !== false && !data.draft,
+      sitemapIgnore: !!data.sitemapIgnore,
+      section: "religioustheory",
+    }];
+  });
 }
 
 function generateDoaj(entries) {
@@ -267,7 +308,9 @@ function generateOai(entries) {
       return true;
     })
     .map((e) => {
-      const oaiId = `oai:jcrt.org:archives:${e.issue}:${e.slug}`;
+      const oaiId = e.section === "religioustheory"
+        ? `oai:jcrt.org:religioustheory:${e.slug}`
+        : `oai:jcrt.org:archives:${e.issue}:${e.slug}`;
       const datestamp = e.dateStr || today;
       const citation = e.volume
         ? `Vol. ${e.volume}${e.issueNum ? `, No. ${e.issueNum}` : ""}${e.sp ? `, pp. ${e.sp}${e.ep ? `-${e.ep}` : ""}` : ""}`
@@ -278,7 +321,7 @@ function generateOai(entries) {
           datestamp,
           title: e.title,
           authors: e.authors,
-          keywords: e.keywords,
+          subjects: e.subjects?.length ? e.subjects : e.keywords,
           description: e.description,
           canonicalUrl: e.canonicalUrl,
           pdfUrl: e.pdfUrl,
@@ -353,11 +396,12 @@ function writeFile(relativePath, content) {
 }
 
 const entries = readArchiveEntries();
+const theoryEntries = readTheoryEntries();
 
 const doaj = generateDoaj(entries);
 writeFile("doaj-archives.xml", doaj.xml);
 
-const oai = generateOai(entries);
+const oai = generateOai([...entries, ...theoryEntries]);
 writeFile("oai_dc.xml", oai.xml);
 writeFile("oai-records.json", `${JSON.stringify(oai.index, null, 2)}\n`);
 

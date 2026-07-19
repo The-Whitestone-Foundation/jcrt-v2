@@ -17,4 +17,20 @@ issue: 1
 season: winter
 year: 2018
 pages: 37-45
+subjects:
+  - label: "Communitarianism"
+    scheme: "FAST"
+    identifier: "fst00870629"
+    uri: "https://id.worldcat.org/fast/870629"
+    category: "topical"
+  - label: "Democracy"
+    scheme: "FAST"
+    identifier: "fst00890077"
+    uri: "https://id.worldcat.org/fast/890077"
+    category: "topical"
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
 ---

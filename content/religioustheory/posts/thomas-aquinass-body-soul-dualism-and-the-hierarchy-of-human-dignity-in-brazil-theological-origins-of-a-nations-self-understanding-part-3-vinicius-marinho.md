@@ -21,6 +21,12 @@ tags:
   - existence
   - rational
   - intellectual
+subjects:
+  - label: "Dignity"
+    scheme: "FAST"
+    identifier: "fst00893760"
+    uri: "https://id.worldcat.org/fast/893760"
+    category: "topical"
 ---
 *The following is the second of a three-part series.The first can be found [here]( /religioustheory/posts/thomas-aquinass-body-soul-dualism-and-the-hierarchy-of-human-dignity-in-brazil-theological-origins-of-a-nations-hierarchical-self-understanding-part-1-vinicius-marinho/)*, *the second [here]( /religioustheory/posts/thomas-aquinass-body-soul-dualism-and-the-hierarchy-of-human-dignity-in-brazil-theological-origins-of-a-nations-self-understanding-part-2-vinicius-marinho/)*.
 

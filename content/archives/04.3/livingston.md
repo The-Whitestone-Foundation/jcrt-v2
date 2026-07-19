@@ -23,4 +23,15 @@ issue: 3
 season: summer
 year: 2003
 pages:
+subjects:
+  - label: "Religious pluralism"
+    scheme: "FAST"
+    identifier: "fst01094200"
+    uri: "https://id.worldcat.org/fast/1094200"
+    category: "topical"
+  - label: "Truth"
+    scheme: "FAST"
+    identifier: "fst01158235"
+    uri: "https://id.worldcat.org/fast/1158235"
+    category: "topical"
 ---

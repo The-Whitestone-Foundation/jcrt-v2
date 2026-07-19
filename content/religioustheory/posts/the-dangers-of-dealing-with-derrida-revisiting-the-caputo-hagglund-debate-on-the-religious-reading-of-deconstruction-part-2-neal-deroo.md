@@ -21,6 +21,32 @@ tags:
   - logical
   - justice
   - experience
+subjects:
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The first one can be found [here.]( /religioustheory/posts/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-1-neal-deroo/)*
 
@@ -30,7 +56,7 @@ If deconstruction problematizes the idea of a ‘pure’ logical structure, devo
 
 Indeed, this is precisely the distinction between Kantian transcendentals and Derridean quasi-transcendentals—for Kant, transcendentals are “pure,” devoid of content in and of themselves though they are always filled by content that remains extrinsic to those forms. That is to say, structures of experience, for Kant, operate by an *intrinsic* necessity to be put in contact with *extrinsic* factors: while *a priori* structures are always experienced with content-filled experience, we can (at least logically or theoretically) distinguish between those structures and that content, and can do so “purely”: there are (again, at least logically or theoretically) “pure” *a priori* structures, devoid of content, and “pure” content, devoid of structure.
 
-But such purity is precisely what Hägglund (I think correctly) claims Derrida renders at least problematic, if not downright impossible. For Derrida, the very structures of experience themselves are never “pure,” but are inherited (and not just inhabited) in particular ways.[^1] So, when Hägglund claims that “Caputo and a number of other influential readers of Derrida have *misconstrued the logic* of the relation between the unconditional and the conditional” (137; emphasis added), he means to say that Caputo’s use of the language of the ‘unconditional’ is a logical problem, a violation of “the distinction between the conditional and the unconditional \[that\] is therefore a *logical* distinction” (138).
+But such purity is precisely what Hägglund (I think correctly) claims Derrida renders at least problematic, if not downright impossible. For Derrida, the very structures of experience themselves are never “pure,” but are inherited (and not just inhabited) in particular ways.[^1] So, when Hägglund claims that “Caputo and a number of other influential readers of Derrida have *misconstrued the logic* of the relation between the unconditional and the conditional” (137; emphasis added), he means to say that Caputo’s use of the language of the ‘unconditional’ is a logical problem, a violation of “the distinction between the conditional and the unconditional &#91;that&#93; is therefore a *logical* distinction” (138).
 
 And, again, his later statement that “The messianic is therefore *not* an endless waiting for something that never comes, but *the structure of faith in the here and now*” (148) accuses Caputo of a logical error, a *metabasis eis allo genos*: taking something as being part of one category (i.e., of the experience of experience) that is, in fact, part of another category (the structure of experience).
 
@@ -58,7 +84,7 @@ However, if Hägglund wants to claim that the “constitutive undecidability of 
 
 We see this line of thinking emerge in Hägglund near the end of the article. There, he states “Whether a given struggle should be supported or resisted is a different question, which *cannot be answered through deconstructive analysis* and requires concrete political engagement. It is precisely *by not providing an ethical or political principle of any kind* that deconstruction politicizes our actions and insists on a responsibility from which one cannot be absolved” (149-150; emphasis added).
 
-While on the surface Hägglund is right to claim that deconstructive analysis is neither ethical nor political, but instead makes us aware of the necessary conditions for them, by stating it this way he clearly indicates that that analysis itself—the logic of that analysis, of deconstruction—is ethically and politically neutral. Indeed, it is precisely “the priority of the good that informs \[Caputo’s\] fable of God” that Hägglund “takes issue with” (129).
+While on the surface Hägglund is right to claim that deconstructive analysis is neither ethical nor political, but instead makes us aware of the necessary conditions for them, by stating it this way he clearly indicates that that analysis itself—the logic of that analysis, of deconstruction—is ethically and politically neutral. Indeed, it is precisely “the priority of the good that informs &#91;Caputo’s&#93; fable of God” that Hägglund “takes issue with” (129).
 
 This ‘taking-issue’ is not only, then, in the prevalence given to the good, but also in the presence of a simplistic distinction between ‘good’ and ‘bad,’ a distinction that is inherently problematic, from the perspective of a deconstructive logic: “evil is intrinsic to the good that we desire. Evil is thus ‘radical’ for Derrida in the sense that it is at the root of the good as such” (131). Challenging this simplistic dichotomy between ‘good’ and bad,’ then, is the second reason one could contest the claim that we ought to use the logic of deconstruction to support ‘good’ things rather than ‘bad’ things.
 
@@ -74,7 +100,7 @@ This evaluative necessity re-emerges implicitly every time we speak of the “st
 
 Finally, then, let us revisit the third claim that Caputo makes in regard to deconstruction, namely that Derrida would think Justice, Democracy, etc. are ‘good’ rather than ‘bad’ things, which is not to say, as we have tried to show above, that one is absolutely good and the other absolutely bad, but merely that we can distinguish—though not ‘purely’—between them and their opposite, and that, for whatever reason, we ought to prefer them to their opposite. It is this question of “reason” that Hägglund raises in response to Caputo, claiming that Caputo does not provide any reason for why we should think that it is better to be more open, rather than less open, to the future.
 
-Since being ‘open to the future’ is how Caputo glosses the preference for Justice, Democracy, etc., as Hägglund ably shows, we must view it as a direct counter to Caputo when Hägglund claims explicitly that “Derrida never aligns any of these terms \[gift, justice, hospitality\] with the good” (130). Hägglund argues against Caputo’s claim on two points, one logical, one extra-logical. However, it is telling that, in dealing with the extra-logical point, he answers it only by appeal to logic again, so in reality he argues against Caputo on this score only by appealing to logic—which, we have tried to show, is indicative of his argument to this point, and is so necessarily. But we cannot get ahead of ourselves.
+Since being ‘open to the future’ is how Caputo glosses the preference for Justice, Democracy, etc., as Hägglund ably shows, we must view it as a direct counter to Caputo when Hägglund claims explicitly that “Derrida never aligns any of these terms &#91;gift, justice, hospitality&#93; with the good” (130). Hägglund argues against Caputo’s claim on two points, one logical, one extra-logical. However, it is telling that, in dealing with the extra-logical point, he answers it only by appeal to logic again, so in reality he argues against Caputo on this score only by appealing to logic—which, we have tried to show, is indicative of his argument to this point, and is so necessarily. But we cannot get ahead of ourselves.
 
 First, Hägglund argues that the logic of deconstruction cannot abide the kind of simplistic dualism that seems to be operative in Caputo. “For Caputo to refute my argument, then, he would have to show that there is something in the very claim made upon us by the future that ‘calls’ us always to be more open rather than less, always to expose ourselves more rather than less.
 
@@ -88,13 +114,13 @@ He states that “Derrida’s remark would thus mean that we should not oppose a
 
 But death is significant here precisely for its stark introduction of non-logical factors into the sphere of life. That is, in death we are reminded that logical structures are always the logical structures *of someone*, and as such become irrelevant upon that person’s death. This is not to say that death violates those logical structures, but rather that it is of another order than those structures.
 
-While Hägglund is, understandably and probably correctly, concerned about the idea of two distinct orders in deconstructive logic (cf. 136 ff.), this does not cancel out the fact that there might be orders other than that of logic, even for deconstruction, that is, that deconstruction might be more than just a logic.  Hägglund contends that “\[w\]hat Derrida is arguing in the interview, however, is that the coming of the event is *not* good in itself and that we should *not ‘*give up trying to prevent certain things from coming to pass (without which there would be no decision, no responsibility, ethics or politics)’” (144n.47), and therefore Caputo’s reading of the situation—as Derrida favoring being open to the future over not being open to the future—is incorrect.
+While Hägglund is, understandably and probably correctly, concerned about the idea of two distinct orders in deconstructive logic (cf. 136 ff.), this does not cancel out the fact that there might be orders other than that of logic, even for deconstruction, that is, that deconstruction might be more than just a logic.  Hägglund contends that “what Derrida is arguing in the interview, however, is that the coming of the event is *not* good in itself and that we should *not ‘*give up trying to prevent certain things from coming to pass (without which there would be no decision, no responsibility, ethics or politics)’” (144n.47), and therefore Caputo’s reading of the situation—as Derrida favoring being open to the future over not being open to the future—is incorrect.
 
 Again, logically speaking, this may be true. But Derrida, like all of us, is not merely a logical animal (some of the rhetoric in the Caputo- Hägglund debate clearly reveals this to be true of them as well). To say Derrida’s remark is “imprecise” is, itself, “imprecise”—one should say, rather, that Derrida’s remark is *logically* imprecise; this does not mean, however, that it does not precisely reveal something of Derrida’s extra-logical commitments. Hence, Hägglund’s use of the logic of deconstruction, even in opposition to Derrida’s own remarks, is not incorrect, though it is perhaps imprecisely applied.
 
 That is, while the logic itself is sound, one would need a more thorough reflection on the context in which that logic was being deployed, to consider whether or not the use was warranted in this situation (which is, of course, distinct from considering whether or not the logic was well-used, or used correctly once it was employed).
 
-When Hägglund ends his discussion of that quotation from Derrida by stating that “Caputo does not provide any reason for why we should make this inference \[that keeping the future open is better than being closed to it\]; he merely assumes it” (144n.47), this quote is as damning of Hägglund as it is of Caputo. For, surely, Caputo does give reasons for this assumption—the reasons he gives just appeal to extra-logical (i.e., contextual) factors that Hägglund infers are insignificant for the study of deconstruction. However, he “does not provide any reason for why we should make this inference; he merely assumes it.” Or rather, the reasons that he gives for this inference already assume the prevalence of logic in terms of deconstruction.
+When Hägglund ends his discussion of that quotation from Derrida by stating that “Caputo does not provide any reason for why we should make this inference &#91;that keeping the future open is better than being closed to it&#93;; he merely assumes it” (144n.47), this quote is as damning of Hägglund as it is of Caputo. For, surely, Caputo does give reasons for this assumption—the reasons he gives just appeal to extra-logical (i.e., contextual) factors that Hägglund infers are insignificant for the study of deconstruction. However, he “does not provide any reason for why we should make this inference; he merely assumes it.” Or rather, the reasons that he gives for this inference already assume the prevalence of logic in terms of deconstruction.
 
 *Neal DeRoo is the Canada Research Chair in Phenomenology and Philosophy of Religion at The King’s University in Edmonton, Alberta, Canada. Before coming to King’s in 2016, he taught at Brock University and Dordt College and served as the Director of the Andreas Center for Reformed Scholarship and Service.  He publishes and lectures worldwide on topics related to phenomenology, oppression theory, and philosophy of religion. He is currently working on a project that uses the concept of expression in phenomenology to show how everything we do in our lives is expressive of a deeper spirituality that shapes us and our society to the core.*
 

@@ -8,13 +8,13 @@ author: "Marian Ronan"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 03
 year: 2001
 ---
 Ronan - Blessed Are They Who Mourn - JCRT 2.3 
 
-# Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology after Vatican II
+## Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology after Vatican II
 
 Marian Ronan  
 American Baptist Seminary of the West
@@ -43,13 +43,9 @@ One widely accepted reading of twentieth century Roman Catholicism is that the C
 
 > **Marian Ronan** is Assistant Professor of Contemporary Theology and Religion at the American Baptist Seminary of the West in Berkeley, CA, and president of the (Roman Catholic) Women's Ordination Conference.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Marian Ronan. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Marian Ronan. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/ronan](https://jcrt.org/archives/02.3/ronan/)
 

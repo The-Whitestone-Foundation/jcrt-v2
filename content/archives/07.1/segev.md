@@ -26,4 +26,25 @@ issue: 1
 season: winter
 year: 2005
 pages:
+subjects:
+  - label: "Difference (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00893405"
+    uri: "https://id.worldcat.org/fast/893405"
+    category: "topical"
+  - label: "Everyman's library. Theology & philosophy"
+    scheme: "FAST"
+    identifier: "fst01937862"
+    uri: "https://id.worldcat.org/fast/1937862"
+    category: "title"
+  - label: "Idealism"
+    scheme: "FAST"
+    identifier: "fst00966832"
+    uri: "https://id.worldcat.org/fast/966832"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
 ---

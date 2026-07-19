@@ -18,6 +18,22 @@ tags:
   - subjectivity
   - religion
   - immanent
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Subjectivity"
+    scheme: "FAST"
+    identifier: "fst01136568"
+    uri: "https://id.worldcat.org/fast/1136568"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The first one can be found [here]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-1-gavin-hyman/).*
 
@@ -103,13 +119,13 @@ What this means is that Hegel ‘raises simultaneously the possibility of co-exi
 
 [^10]: Williams, ‘Hegel and the gods of postmodernity,’ p. 29-30.
 
-[^11]: Catherine Malabou,  *The Future of Hegel: Plasticity, Temporality and Dialectic*, tr. Lisabeth During  (London: Routledge, 2005 \[1996\]), p. 103.
+[^11]: Catherine Malabou,  *The Future of Hegel: Plasticity, Temporality and Dialectic*, tr. Lisabeth During  (London: Routledge, 2005 &#91;1996&#93;), p. 103.
 
 [^12]: Ibid.
 
 [^13]: Ibid., p. 111.
 
-[^14]: G. W. F. Hegel, *Lectures on the Philosophy of Religion*, Vol. I  (Berkeley: University of California Press, 1987), p. 119 \[translation modified\], quoted in Malabou, *Future of Hegel*, p. 112.
+[^14]: G. W. F. Hegel, *Lectures on the Philosophy of Religion*, Vol. I  (Berkeley: University of California Press, 1987), p. 119 &#91;translation modified&#93;, quoted in Malabou, *Future of Hegel*, p. 112.
 
 [^15]: Malabou, *Future of Hegel*, p. 112.
 

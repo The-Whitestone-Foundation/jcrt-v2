@@ -22,6 +22,32 @@ tags:
   - orientalism
   - colonial
   - ontology
+subjects:
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Orientalism"
+    scheme: "FAST"
+    identifier: "fst01048139"
+    uri: "https://id.worldcat.org/fast/1048139"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first of a two-part series. The full article is published in the spring 2022 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org)*.*
 

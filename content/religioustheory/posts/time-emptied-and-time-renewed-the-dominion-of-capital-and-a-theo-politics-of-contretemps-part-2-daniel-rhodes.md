@@ -21,6 +21,27 @@ tags:
   - political
   - history
   - accumulation
+subjects:
+  - label: "Capital"
+    scheme: "FAST"
+    identifier: "fst00846272"
+    uri: "https://id.worldcat.org/fast/846272"
+    category: "topical"
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The link to the first portion can be found [here]( /religioustheory/posts/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-1-daniel-rhodes/).*
 
@@ -32,7 +53,7 @@ For Kant, because time is both the “formal condition of the manifold of inner 
 
 With respect to human subjectivity, and this subjectivity is considered to be universal for Kant, time functions as the form and the medium within which the imagination makes possible our understanding of the outside world because it is time that serves to homogenize the subject and the object with one another. In short, just as time is the element and power by which human subjectivity orders and arranges the world in a manner that is useful, conceptualizing intuition, it is also through temporalizing the world that we master the objective world, filling our thoughts with content.[^6]
 
-Kant’s philosophical sketch lodges the quantitative and homogenous time of capital within the transcendental unity of apperception, solidifying the hegemony of this time within subjectivity. “From this point of view then,” as Antonio Negri observes, “the *Critique of Pure Reason* serves to found the bourgeois conception of time, both in its *superior form* \[internal and external, *not* internal and/or external\], and in its schematic project.”[^7] Kant, that is to say, normalizes the disjointed (economized) time of capital, theorizing it as the ordering mechanism of pure reason actualized in process of schematization as the way the subject makes sense out of her world.
+Kant’s philosophical sketch lodges the quantitative and homogenous time of capital within the transcendental unity of apperception, solidifying the hegemony of this time within subjectivity. “From this point of view then,” as Antonio Negri observes, “the *Critique of Pure Reason* serves to found the bourgeois conception of time, both in its *superior form* &#91;internal and external, *not* internal and/or external&#93;, and in its schematic project.”[^7] Kant, that is to say, normalizes the disjointed (economized) time of capital, theorizing it as the ordering mechanism of pure reason actualized in process of schematization as the way the subject makes sense out of her world.
 
 The result is that the quantitative and rectilinear time of capital accumulation, of money and profit, of production and consumption with their linkages in circulation, distribution, and exchange, are lodged within the subject, as the very field of resonance within which the world makes sense and becomes knowable.[^8] A true turning point in the conception of time, Kant provides modern, capitalist culture with a philosophical rendering of the subject’s self-understanding and its understanding of the world in the form of rationality determined by and correlated to the homogenous and rectilinear time of accumulation.
 
@@ -66,13 +87,13 @@ Truth be told, even time within capital remains heterogeneous and multiple. Desp
 
 Given this situation, the revolutionary political task, according to Daniel Bensaïd, is to take advantage of the “arrhythmias of crisis” intrinsic to the structure of capital time so as to cultivate and embolden alternative times.[^18] Exploiting the discordance of times endemic to human existence, an asynchrony even the dominant circulatory flows of capital cannot eviscerate, the practice of *contretemps* aims to free persons in their time (their time of joy, labor, eating, agony, love, etc.) from the chronometric hold of the market.
 
-Thus, *contretemps* is at the same time a critique of capital time and an exigent politics. Profaning the status quo through a critique that demystifies the seeming inevitability of capital and disenchants its logical superiority, Bensaïd’s reading of Marx elicits a “syncopated history” set against the homogenous and empty time of capital and evokes a newly social and political time “tuned into \[a\] ‘revolutionary frequency.’”[^19] To this extent, Bensaïd’s development of *contretemps* draws heavily off of the thought of Walter Benjamin.
+Thus, *contretemps* is at the same time a critique of capital time and an exigent politics. Profaning the status quo through a critique that demystifies the seeming inevitability of capital and disenchants its logical superiority, Bensaïd’s reading of Marx elicits a “syncopated history” set against the homogenous and empty time of capital and evokes a newly social and political time “tuned into a ‘revolutionary frequency.’”[^19] To this extent, Bensaïd’s development of *contretemps* draws heavily off of the thought of Walter Benjamin.
 
-It is Benjamin’s sense of messianic time, a “now-time” \[*Jetztzeit*\],[^20] that Bensaïd extends to contrast the crude homogenization of time within the history of capital. As he puts it, “Lacerated and torn, messianic time destroys the myth of a homogeneous history of being, its beginnings and decline.”[^21] In contrast to the empty and quantified moments of duration or the monotonous line of progress-as-accumulation, messianic time resonates with an urgency of action emerging from the doubling back, skipping forward, or fits and starts of an aleatory history.
+It is Benjamin’s sense of messianic time, a “now-time” &#91;*Jetztzeit*&#93;,[^20] that Bensaïd extends to contrast the crude homogenization of time within the history of capital. As he puts it, “Lacerated and torn, messianic time destroys the myth of a homogeneous history of being, its beginnings and decline.”[^21] In contrast to the empty and quantified moments of duration or the monotonous line of progress-as-accumulation, messianic time resonates with an urgency of action emerging from the doubling back, skipping forward, or fits and starts of an aleatory history.
 
 Thus, Benjamin develops a historical materialism pregnant with a temporality attuned to transitions and interruptions, rifts and spurts. As Bensaïd avers, Benjamin finds in Marx a “new representation of time as social relation” and this discovery makes it possible then to conceptualize “anachronisms and contretemps.”[^22] No longer the prophet of historical determinism, Marx is freed from this arcane orthodox straight-jacket by Benjamin and becomes, for Bensaïd, a proponent of an “aleatory materialism, allied with the subtleties of messianic reason.”[^23] Emphasizing an alternative conception of time as social relation, with all of its contingency, particularity, and potency, Bensaïd asserts, Marx does not so much construct a universal history as he combines critique and politics to politicize the present such that “history becomes intelligible to anyone who wishes to engage in action to change the world. ‘Politics attains primacy over history.’”[^24]
 
-![643ae368272c32e67a1ebe800d42622a](/images/2016/12/643ae368272c32e67a1ebe800d42622a.webp)The art of *contretemps*, then, aims to subvert and to resist the de-politicization of life under capital with its smoothing out of time by eliciting the discordant tempos and rhythms of real relations and human action so as to privilege extant moments of crisis and heightened political judgment. In this sense, it means to cultivate an embodied attunement to cultural and societal untimeliness as a presence of permanent revolution: to become out of joint with a disjointed capital time. As Bensaïd puts it, such “Messianic times, when an older order breaks without the new order having yet taken shape \[as a moment pregnant with political possibility\], are necessarily out of joint.”[^25]
+![643ae368272c32e67a1ebe800d42622a](/images/2016/12/643ae368272c32e67a1ebe800d42622a.webp)The art of *contretemps*, then, aims to subvert and to resist the de-politicization of life under capital with its smoothing out of time by eliciting the discordant tempos and rhythms of real relations and human action so as to privilege extant moments of crisis and heightened political judgment. In this sense, it means to cultivate an embodied attunement to cultural and societal untimeliness as a presence of permanent revolution: to become out of joint with a disjointed capital time. As Bensaïd puts it, such “Messianic times, when an older order breaks without the new order having yet taken shape &#91;as a moment pregnant with political possibility&#93;, are necessarily out of joint.”[^25]
 
 *Contretemps*, thus, suggests the radicalization of Marx’s critique so as to re-politicize it, igniting a new discordance or asynchrony to the reign of capital.[^26] Illuminating the field of resistance and counter-practice, the art of *contretemps* seeks to interjects a new political cadence into the public realm, cultivating a different mode of judgment that is more open and receptive to ruptures and asynchronies. Given that “politics is precisely the point where… discordant times intersect,” the public practice of a new time initiates conflict and debate.[^27] Attending to the friction, rifts, and fissures that arise from the intersection of discordant times, the possibility for a political judgment not reliant on markets or capital flows to resolve conflicts and to discern outcomes can be employed.[^28]
 
@@ -128,7 +149,7 @@ Yet, a theo-politics of *contretemps*, one set within an ecclesial practice of p
 
 [^16]: Daniel Bensaïd, *An Impatient Life: A Political Memoir*, trans. David Fernbach (New York: Verso, 2013), 306.
 
-[^17]: Ibid. The indelible connection between the violence of the state and the emergence of the market is also described by David Graeber. As he notes there is an intimate connection between quantification (market logic) and violence (state power), “\[turning\] human relations into mathematics.” David Graeber, *Debt: The First 5,000 Years*, Updated and Expanded Edition (Brooklyn, NY: Melville House, 2014), 14. Commenting further on this connection, he states, “In \[the\] common-sense view, the State and the Market tower above all else as diametrically opposed principles. Historical reality reveals, however, that they were born together and have always been intertwined. The one thing all of these misconceptions have in common… is that they tend to reduce all human relations to exchange, as if our ties to society, even to the cosmos itself, can be imagined in the same terms as a business deal.” Ibid., 19.
+[^17]: Ibid. The indelible connection between the violence of the state and the emergence of the market is also described by David Graeber. As he notes there is an intimate connection between quantification (market logic) and violence (state power), “&#91;turning&#93; human relations into mathematics.” David Graeber, *Debt: The First 5,000 Years*, Updated and Expanded Edition (Brooklyn, NY: Melville House, 2014), 14. Commenting further on this connection, he states, “In &#91;the&#93; common-sense view, the State and the Market tower above all else as diametrically opposed principles. Historical reality reveals, however, that they were born together and have always been intertwined. The one thing all of these misconceptions have in common… is that they tend to reduce all human relations to exchange, as if our ties to society, even to the cosmos itself, can be imagined in the same terms as a business deal.” Ibid., 19.
 
 [^18]: Bensaïd, *Marx for Our Times*, 77.
 

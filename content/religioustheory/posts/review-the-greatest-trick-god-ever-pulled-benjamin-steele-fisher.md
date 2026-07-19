@@ -17,6 +17,27 @@ tags:
   - demonic
   - modernity
   - theology
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Kotsko, Adam. *The Prince of this World.* Stanford: Stanford University Press, 2017. ISBN-10: 1503600203. Hardcover, paperback, e-book. 225 pages.**
 

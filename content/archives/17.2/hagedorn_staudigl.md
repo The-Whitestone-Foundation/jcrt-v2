@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2018
 pages: 238-253
+subjects:
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Secularism"
+    scheme: "FAST"
+    identifier: "fst01110732"
+    uri: "https://id.worldcat.org/fast/1110732"
+    category: "topical"
 ---

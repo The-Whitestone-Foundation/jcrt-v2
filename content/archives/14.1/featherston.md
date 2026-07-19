@@ -17,4 +17,15 @@ issue: 1
 season: fall
 year: 2014
 pages: 70-83
+subjects:
+  - label: "Mark"
+    scheme: "FAST"
+    identifier: "fst01198506"
+    uri: "https://id.worldcat.org/fast/1198506"
+    category: "topical"
+  - label: "Terrorism"
+    scheme: "FAST"
+    identifier: "fst01148101"
+    uri: "https://id.worldcat.org/fast/1148101"
+    category: "topical"
 ---

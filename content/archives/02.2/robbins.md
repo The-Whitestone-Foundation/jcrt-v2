@@ -8,13 +8,13 @@ author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 07
 year: 2001
 ---
 Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
 
-# De-Nominating Religion and Postmodernism: A Conversation between Jean-Luc Marion and Jacques Derrida
+## De-Nominating Religion and Postmodernism: A Conversation between Jean-Luc Marion and Jacques Derrida
 
 A review of _[God, the Gift, and Postmodernism](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0253213282&bfmtype=book)_, John D. Caputo and Michael J. Scanlon, eds. (Bloomington: Indiana University Press, 1999); $19.95.
 
@@ -41,13 +41,9 @@ In the Fall of 1997 at Villanova University, a major international conference de
 
 > **Jeffrey W. Robbins** teaches part-time in the Philosophy department at both Le Moyne College and Cayuga Community College. He received a M.Div. from Brite Divinity School in 1997 and his Ph.D. in Religion from Syracuse University in 2001. He has published articles in the _CSSR Bulletin_ (vol 28/4, 29/2) and the _Journal for Christian Theological Research_ (vol 5/5). His interests are in Continental Philosophy of Religion.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Jeffrey W. Robbins. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Jeffrey W. Robbins. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/robbins](https://jcrt.org/archives/02.2/robbins/)
 

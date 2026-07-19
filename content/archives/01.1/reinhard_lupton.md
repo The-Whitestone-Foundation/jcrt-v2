@@ -7,7 +7,7 @@ author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 1999
 ---

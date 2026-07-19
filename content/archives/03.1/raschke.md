@@ -8,13 +8,13 @@ author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2001
 ---
 Raschke - The Deposition of the Sign - JCRT 3.1 
 
-# The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies
+## The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies
 
 Carl A. Raschke  
 University of Denver
@@ -30,13 +30,9 @@ At present theological and religious studies have reached a crisis of severe mag
 
 > **Carl A. Raschke** is professor of religious studies at the University of Denver and senior editor of the Journal for Religious and Cultural Theory. His major books include _The End of Theology_ (The Davies Group, 2000), _Fire and Roses: Postmodernity and the Thought of the Body_ (SUNY 1996), _The Engendering God_ (Westminster Press, 1995), _Painted Black_ (Harper Collins, 1990), _Theological Thinking_ (Scholars Press, 1988). He is the author of over 200 popular and scholarly articles on subjects ranging from postmodern religious thought to computer-mediated education to new religious movements. He is formerly president of the Rocky Mountain-Great Plains Region of the American Academy of Religion and an editor of several series with the American Academy of Religion. He is also a well-known national media personality.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Carl A. Raschke. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.1/raschke](https://jcrt.org/archives/03.1/raschke/)
 

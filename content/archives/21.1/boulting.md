@@ -18,4 +18,10 @@ issue: 1
 season: winter
 year: 2022
 pages: 23-43
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---

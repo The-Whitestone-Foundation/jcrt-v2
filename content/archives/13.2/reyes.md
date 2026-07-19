@@ -17,4 +17,15 @@ issue: 2
 season: summer
 year: 2014
 pages: 1-12
+subjects:
+  - label: "Homosexuality in motion pictures"
+    scheme: "FAST"
+    identifier: "fst00959829"
+    uri: "https://id.worldcat.org/fast/959829"
+    category: "topical"
+  - label: "Zombie films"
+    scheme: "FAST"
+    identifier: "fst01184593"
+    uri: "https://id.worldcat.org/fast/1184593"
+    category: "topical"
 ---

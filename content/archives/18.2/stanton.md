@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2019
 pages: 202-213
+subjects:
+  - label: "Islam Doctrines"
+    scheme: "FAST"
+    identifier: "fst00979787"
+    uri: "https://id.worldcat.org/fast/979787"
+    category: "topical"
+  - label: "Muslims"
+    scheme: "FAST"
+    identifier: "fst01031029"
+    uri: "https://id.worldcat.org/fast/1031029"
+    category: "topical"
 ---

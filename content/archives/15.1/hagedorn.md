@@ -19,4 +19,10 @@ issue: 1
 season: fall
 year: 2015
 pages: 105-118
+subjects:
+  - label: "Sacrifice"
+    scheme: "FAST"
+    identifier: "fst01103249"
+    uri: "https://id.worldcat.org/fast/1103249"
+    category: "topical"
 ---

@@ -13,6 +13,7 @@ public/citations/
 
 # Binary assets now served from files.jcrt.org
 public/images/**/*.webp
+!public/images/logos/standard-site-icon.webp
 public/images/**/*.jpg
 public/images/**/*.jpeg
 public/images/**/*.png

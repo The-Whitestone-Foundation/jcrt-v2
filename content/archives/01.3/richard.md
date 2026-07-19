@@ -8,13 +8,13 @@ author: "Alan J Richard"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 04
 year: 2000
 ---
 Richard - Aristotle and Religious Theory - JCRT 1.3 
 
-# Aristotle and Religious Theory
+## Aristotle and Religious Theory
 
 Alan J. Richard
 
@@ -30,7 +30,7 @@ Theology has ended,[^1] and religious life proliferates.[^2] No longer presuming
 
 ## Self-Movement
 
-     > Just as when one contemplates the painting in the picture as being a likeness, and without having \[at that moment\] seen the actual Corsicus, contemplates it as a likeness of Corsicus, and in that case the experience involved in this contemplation of it \[as relative\] is different from what one has when he contemplates it simply as a painted figure ' \[so in the case of memory we have the analogous difference, for\], of the objects in the soul, the one \[the unrelated object\] presents itself simply as a thought, but the other \[the related object\], just because, as in the painting, it is a likeness, presents itself as a mnemonic token.[^61]
+> Just as when one contemplates the painting in the picture as being a likeness, and without having &#91;at that moment&#93; seen the actual Corsicus, contemplates it as a likeness of Corsicus, and in that case the experience involved in this contemplation of it &#91;as relative&#93; is different from what one has when he contemplates it simply as a painted figure ' &#91;so in the case of memory we have the analogous difference, for&#93;, of the objects in the soul, the one &#91;the unrelated object&#93; presents itself simply as a thought, but the other &#91;the related object&#93;, just because, as in the painting, it is a likeness, presents itself as a mnemonic token.[^61]
 
 ## The Theology of Theory
 
@@ -43,18 +43,14 @@ Theology has ended,[^1] and religious life proliferates.[^2] No longer presuming
 
 > **Alan Jay Richard**, Ph.D., an independent researcher, is principal investigator for 'Formative Research on Cocaine Use among Hispanics in the Southwestern United States,' a three-year, multimillion dollar research effort funded by the National Institutes on Drug Abuse. He has served as co-investigator on a number of other federal research grants in the areas of HIV risk, social networks, and addiction. He has published over 70 articles in peer-reviewed journals in the fields of religion, ethics, sociology, and psychology. Besides religious theory, his scholarly and research interests include emotional attachment, affective neuroscience, addiction, sociology of religion, American religion, and the erotic imagination.
 
-* * *
-
-> 
-
-* * *
+***
 2000 Alan J. Richard. All rights reserved.  
 Updated 07/28/21 .   
 [jcrt.org/archives/01.3/richard](https://jcrt.org/archives/01.3/richard/)
 
 ---
 
-[^1]: "Theology has ended" here primarily refers to Carl A. Raschke's usage of the phrase "end of theology," the most extended discussion of which occurs in Raschke, C., _The Alchemy of the Word: Language and the End of Theology_. (Missoula, MT: Scholars Press, 1979). Since the publication of this work, Raschke ("Theology, Hermeneutics, and the Shattering of Foundations," _Encounter_ \[Autumn, 1982\], 401-407) has summarized his use of the phrase as designating "not the cessation of what might be loosely imagined as 'theological' conversation, but abstention from any 'theologizing' that recurs to privileged representations such as kerygma, doctrine, or even 'God' in the doctrinaire meaning of the word." On the other hand, the word "end" in _Alchemy of the Word_ implies the notion of fulfillment as well as the notion of termination, just it reminds us that "destruction" or "deconstruction" is not so much about sheer iconoclasm as it is about a dismantling that frees what has hitherto remained unthought within the ontotheological tradition.
+[^1]: "Theology has ended" here primarily refers to Carl A. Raschke's usage of the phrase "end of theology," the most extended discussion of which occurs in Raschke, C., _The Alchemy of the Word: Language and the End of Theology_. (Missoula, MT: Scholars Press, 1979). Since the publication of this work, Raschke ("Theology, Hermeneutics, and the Shattering of Foundations," _Encounter_ &#91;Autumn, 1982&#93;, 401-407) has summarized his use of the phrase as designating "not the cessation of what might be loosely imagined as 'theological' conversation, but abstention from any 'theologizing' that recurs to privileged representations such as kerygma, doctrine, or even 'God' in the doctrinaire meaning of the word." On the other hand, the word "end" in _Alchemy of the Word_ implies the notion of fulfillment as well as the notion of termination, just it reminds us that "destruction" or "deconstruction" is not so much about sheer iconoclasm as it is about a dismantling that frees what has hitherto remained unthought within the ontotheological tradition.
 
 [^2]: This seeming paradox - the proliferation of religious life and academic chatter about it, along with the philosophical disenfranchisement of theological discourse - is the starting point for Charles E. Winquist's reflection on the critical vocation of the theologian after the end of theology in _Epiphanies of Darkness: Deconstruction in Theology._ (Philadelphia: Fortress Press, 1986). Winquist insists that a "surplus of unsaid meaning calling from the darkness of primary religious experience" (p. 19) pressures thinking toward a transgression of the delimitations that "semantic anxiety" has imposed on theology and its successor, the academic study of religion.''
 
@@ -202,7 +198,7 @@ Updated 07/28/21 .
 
 [^42]:  Aristotle's God has the distinction of being an activity in which humans can participate ' in theory. Aristotle calls the kind of thinking God does and is 'theory' (qewria), [^87] and notes that qewria is available to us inasmuch as we are able to engage in active thinking.[^88] qewria is the most fully realized form of thinking, the form of thinking to which all thinking aspires. It is a self-contained thinking that can be 'agent' and 'patient' simultaneously. qewria is distinguished both from productive thought (which aims at ends such as building or carving) and from deliberative thought (which aims at what is to be done) because it aims purely at its own activity, is performed for its own sake rather than for the sake of building or doing.[^89]
 
-[^42]: Lear, p. 105. \[Need full biblio\]
+[^42]: Lear, p. 105. &#91;Need full biblio&#93;
 
 [^43]:  According to Aristotle, qewria is the greatest human activity because thinking is the best thing we do, and the objects of thinking are the best knowable objects.[^90] qewria is the noblest activity because it is the most continuous 'since we can contemplate truth more continuously than we can _do_ anything.'[^91] qewria is the most pleasant of activities, being not equivalent to inquiry but to the purity of self-sufficient knowledge.[^92] qewria is self-sufficient because those who contemplate can do so without needing anything other than 'the necessaries of life.'[^93] Other noble activities are noble because they make room for leisure, while qewria seems both to be superior in serious worth and to aim at no end beyond itself, and to have its pleasure proper to itself (and this augments the activity), and the self-sufficiency, leisureliness, unweariedness (so far as this is possible for man), and all the other attributes ascribed to the supremely happy man are evidently those connected with this activity.[^94]
 
@@ -234,7 +230,7 @@ Updated 07/28/21 .
 
 [^50]:  Jonathan Lear attempts to help Aristotle get around this problem by arguing that Active Mind is the object that is received by phenomenal thinkers.[^113]'' For instance, the house that is cognized _is_ Active Mind as Active Mind is received by a receptive mind that is only phenomenal. If this is the case, then only phenomenal receptive minds, inasmuch as they are the potential for thought rather than the actuality of thought, can 'have' objects. This explanation is consistent with Aristotle's distinction between active and receptive mind, where God is identified with active mind only. But if the 'object' of phenomenal, receptive mind (e.g., the cognized house) is a specific reception of active mind, then how was it ever able to become a specific object (such as a house) at all?
 
-[^50]: This is precisely the role Kant assigns to the reproductive imagination in the first _Critique_ (p. 183): 'the _image_ is a product of the empirical faculty of reproductive imagination; the _schema_ of sensible concepts, such as of figures in space, is a product and, as it were, a monogram, of pure _a priori_ imagination, through which, and in accordance with which, images themselves first become possible;' see also pp. 218-219. Kant himself notes a fundamental problem with the epistemological reliability of the Kantian imagination when he describes it as a '_blind_ but indispensable function of the soul' (_Critique of Pure Reason_, p. 112). On this particular problem as it affects Kant's various restatements of the doctrine of the faculties, see Deleuze, _Kant's Critical Philosophy_, _op. cit._ Stuart Hampshire ('Public and private morality,' in _Morality and Conflict_ \[Cambridge, Mass: Harvard University Press, 1983\], pp. 101-1250) argues that Aristotle's _phantasia_ shares this weakness, and so cannot serve as the moral guide Nussbaum seems to want it to be.
+[^50]: This is precisely the role Kant assigns to the reproductive imagination in the first _Critique_ (p. 183): 'the _image_ is a product of the empirical faculty of reproductive imagination; the _schema_ of sensible concepts, such as of figures in space, is a product and, as it were, a monogram, of pure _a priori_ imagination, through which, and in accordance with which, images themselves first become possible;' see also pp. 218-219. Kant himself notes a fundamental problem with the epistemological reliability of the Kantian imagination when he describes it as a '_blind_ but indispensable function of the soul' (_Critique of Pure Reason_, p. 112). On this particular problem as it affects Kant's various restatements of the doctrine of the faculties, see Deleuze, _Kant's Critical Philosophy_, _op. cit._ Stuart Hampshire ('Public and private morality,' in _Morality and Conflict_ &#91;Cambridge, Mass: Harvard University Press, 1983&#93;, pp. 101-1250) argues that Aristotle's _phantasia_ shares this weakness, and so cannot serve as the moral guide Nussbaum seems to want it to be.
 
 [^51]:  The escape from finitude without loss is what qualifies Aristotle's qewria as theological. Conversely, the end of theology undoes this escape, and to some extent, exposes theory to an indistinct differentiation between the nouV/dhmiourgoV and cwra that emerges in Raschke's reference to the 'fury of the formless' hidden behind the name of God,[^114] and in Derrida's distinction 'between the theological movement that speaks and is inspired by the Good beyond Being or by light and the apophatic path that exceeds the Good.'[^115] Theoretically, the crux of religious theory, its critical edge, lies in this indistinct differentiation. Aristotle's theological foundation for theory_,_ a foundation that continues to hold sway over the sciences and has in fact resulted in their appropriation of theology's traditional status,[^116] cannot make qewria see determinate objects or phenomena as anything other than its own potentiality. It cannot make the world more distinct than Plato's indistinct differentiation, since the 'One' that God is in the self-affection of thought both grounds and precludes the 'one' that makes each being distinct from every other.
 

@@ -20,6 +20,12 @@ keywords:
   - dei
 pdf: 'jimenez.pdf'
 date: 2026-03-03
+subjects:
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
 ---
 This article examines the ubiquity of white supremacy and its impact on educational environments. White supremacy is an imminent threat to education at all levels; it shapes curricula that further marginalize non-white perspectives and distort historical accuracy. The current paper details the importance of confronting white supremacy in criminal justice education, specifically, as the U.S. criminal legal system is built by and for white supremacy. Criminal justice coursework only benefits from conversations centering race, power, and oppression, as these are the foundations that continue to reverberate throughout law and policy. Through a personalized lens, the author addresses the power of identity and representation in their pedagogical contributions to the field.
 

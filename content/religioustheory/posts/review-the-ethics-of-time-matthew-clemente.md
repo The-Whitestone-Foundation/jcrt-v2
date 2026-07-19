@@ -20,14 +20,40 @@ tags:
   - aesthetic
   - experience
   - movement
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ***The Ethics of Time.*** **Manoussakis, John. New York: Bloomsbury Press, 2017. ISBN: 9781474299169. Hardback. 232 pages.**
 
 John Manoussakis’s latest book, *The Ethics of Time* (2017)—the second volume of a trilogy to be—should be read as a continuation of the work he began a decade ago in *God After Metaphysics* (2007). In that earlier book, which bore as its subtitle *A Theological Aesthetic*, he sought to consider by means of phenomenology’s own principles that which phenomenology has long claimed to be impossible: namely, religious experience as given through the senses. For Manoussakis, “it is our body that allows us to be united with the divine.”[^1] [^1]
 
-This provocative claim—which runs counter to the traditional philosophical prioritizing of mind over body—makes it clear why Manoussakis’s theological aesthetic “has little to do with… that branch of philosophy that deals with the notion of beauty and fine arts” and instead derives “from \[the\] original Greek sense of *aisthanomani*: to feel by means of one’s senses.”[^2] [^2] A theological aesthetic is, for Manoussakis, an encounter with God made possible by our capacity to receive that which is outside or *other* through taste, touch, sight, and sound.
+This provocative claim—which runs counter to the traditional philosophical prioritizing of mind over body—makes it clear why Manoussakis’s theological aesthetic “has little to do with… that branch of philosophy that deals with the notion of beauty and fine arts” and instead derives “from &#91;the&#93; original Greek sense of *aisthanomani*: to feel by means of one’s senses.”[^2] [^2] A theological aesthetic is, for Manoussakis, an encounter with God made possible by our capacity to receive that which is outside or *other* through taste, touch, sight, and sound.
 
-Yet if such an aesthetic is possible—that is to say if we can have a sensory, tactile experience of God—it is only because our bodies exist in time or, to put it more accurately, because time belongs to the body. Manoussakis agrees with phenomenology’s claim that consciousness both constitutes and is constituted by time, but he also insists that there can be “no consciousness that is not embodied,” no time without the body.[^3] [^3] Similarly, it would make no sense to speak of the body without time: “A body that becomes hungry”—i.e. a body that functions as body, that does what bodies do—“is a body affected by time.”[^4] [^4] It is *that* body, that hungering, lacking, limited body “that allows us to be united with the divine.” For, when God “becomes what He is not, non-God, the sarx of the incarnation,”[^5] [^5] when he ceases to be “a god who sees (*theos*) \[and becomes\] a god who touches and can be touched even to the folly of being eaten,”[^6] [^6] he opens up the possibility of receiving him through the senses: a theological aesthetic.
+Yet if such an aesthetic is possible—that is to say if we can have a sensory, tactile experience of God—it is only because our bodies exist in time or, to put it more accurately, because time belongs to the body. Manoussakis agrees with phenomenology’s claim that consciousness both constitutes and is constituted by time, but he also insists that there can be “no consciousness that is not embodied,” no time without the body.[^3] [^3] Similarly, it would make no sense to speak of the body without time: “A body that becomes hungry”—i.e. a body that functions as body, that does what bodies do—“is a body affected by time.”[^4] [^4] It is *that* body, that hungering, lacking, limited body “that allows us to be united with the divine.” For, when God “becomes what He is not, non-God, the sarx of the incarnation,”[^5] [^5] when he ceases to be “a god who sees (*theos*) &#91;and becomes&#93; a god who touches and can be touched even to the folly of being eaten,”[^6] [^6] he opens up the possibility of receiving him through the senses: a theological aesthetic.
 
 This reversal of the Platonic/Neo-Platonic ascent away from the body which insists that the answer to man’s fallenness can only “be found in and effected by a descent into the bodily”[^7] [^7] is first introduced in *God After Metaphysics*, but it is not until not *The Ethics of Time*, in which Manoussakis offers an extended commentary on Augustine’s *Confessions*, that it receives its fullest articulation. In his consideration of the phenomenology of conversion, that is the phenomenology of *change*, Manoussakis provide us with a truly original reading of Augustine’s project.
 
@@ -67,7 +93,7 @@ That time heals all wounds is a truism. In *The Ethics of Time*, John Manoussaki
 
 [^7]: Ibid, 102.
 
-[^8]: See, “Freud’s *Beyond the Pleasure Principle* \[is\] a book which, in its discussion of infancy and children’s games, memory, and time, offers thematically a close resemblance to the *Confessions*.” Manoussakis, John, *The Ethics of Time* (London: Bloomsbury, 2017) 101.
+[^8]: See, “Freud’s *Beyond the Pleasure Principle* &#91;is&#93; a book which, in its discussion of infancy and children’s games, memory, and time, offers thematically a close resemblance to the *Confessions*.” Manoussakis, John, *The Ethics of Time* (London: Bloomsbury, 2017) 101.
 
 [^9]: Cf. “To . . . translate psychoanalysis to phenomenology and phenomenology to psychoanalysis is an admirable task of which I am fully supportive. Without question, it is the ability of a synthetic mind and of a good scholar to recognize family resemblances between one’s own field and that of others, to be ‘multilingual’ when it comes to the language games by which specific schools of thought articulate themselves, and to refuse the confinement to one’s epistemic home. Freud himself was famous for being such a merchant of ideas, importing and exporting concepts and terms that have now become a commodity of our everyday language.” Manoussakis, John, “The Place Of Das Ding: Psychoanalysis, Phenomenology, Religion,” in *Religious Theory* the online edition of *The Journal for Cultural and Religious Theory* (February, 2017).
 

@@ -22,16 +22,42 @@ tags:
   - negative
   - subject
   - give
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second part in a two-part installment. The first part can be found [here]( /religioustheory/posts/prayer-after-the-death-of-god-part-i-ashley-gay-graham/).*
 
 ## III. Prayer As Confession: Thinking in love
 
-This abandonment is not a permanent void; rather, it demonstrates the Eckhartian notion of leaving behind beings not because they are insufficient, but because they are allusions, traces, references to love.[^1] Here Derrida would echo that the Name, like any other limited being, “record\[s\] the referential transcendence…a prayer, too, a testimony of love, but an ‘I love you’ on the way to prayer and to love, always, on the way.”[^2] To record and reference what transcends is to hold in language the shadows.
+This abandonment is not a permanent void; rather, it demonstrates the Eckhartian notion of leaving behind beings not because they are insufficient, but because they are allusions, traces, references to love.[^1] Here Derrida would echo that the Name, like any other limited being, “records the referential transcendence…a prayer, too, a testimony of love, but an ‘I love you’ on the way to prayer and to love, always, on the way.”[^2] To record and reference what transcends is to hold in language the shadows.
 
 Again, it is holding what cannot be possessed, or paradoxically owing what exceeds economics.[^3] Prayer is not symmetrical exchange (“the most formal economical” expression of negative theology) but rather disproportionate conversation; the call of the Other will always exceed and precede the self as response.
 
-This paradoxical notion of outstripping economics by “giving what one does not have” attracts Levinas’ ethics as an a priori obligation to give to the other one’s life. It also underwrites Derrida’s quasi-ethical exposition in *The Gift of Death*. Here, death is not the gift that can be given or taken; my death is my responsibility and also the possibility that institutes “giving and taking….In the name \[of death\] giving and taking become possible.”[^4] Because of the Name of Death, giving and taking can be an event.
+This paradoxical notion of outstripping economics by “giving what one does not have” attracts Levinas’ ethics as an a priori obligation to give to the other one’s life. It also underwrites Derrida’s quasi-ethical exposition in *The Gift of Death*. Here, death is not the gift that can be given or taken; my death is my responsibility and also the possibility that institutes “giving and taking….In the name &#91;of death&#93; giving and taking become possible.”[^4] Because of the Name of Death, giving and taking can be an event.
 
 But how to reconcile the *Name of Death* (the event that makes possible even as it resists economy) with a prayer in the *Name of God* (the event that makes possible exchange, even though it offers no-thing)? What distinct gifts do they bear—what events do they make possible? Is there not a difference between the gift of death that makes us responsible and the gift of life that turns us toward—makes us desire—kenotic love?
 
@@ -41,13 +67,13 @@ So why should one bother to pray or relate to an unknown that is conceptually as
 
 If a Name resembles Khora, and the event resembles death—both would fail to account for the particularities of love. As Chretien might critique, “One cannot describe prayer without describing the power to whom it is addressed.”[^6] Caputo would shirk at Chretien’s use of potency—but what of his point’s *potential*. There is, after all, a difference between acknowledging one’s deficiencies before a Wholly Other, and claiming that the Wholly Other is powerless. There is a difference between sheer limping and receiving my name’s blessing along with my limp.
 
-Even Derrida suggests that prayer is an attempt to surpass negative theology.[^7] Prayer, like God, cannot be thought, it must occur in particularities. It is not enough to simply “ask nothing”—prayer must also, simultaneously, “\[ask\] more than everything. It asks God to give himself rather than gifts.”[^8]
+Even Derrida suggests that prayer is an attempt to surpass negative theology.[^7] Prayer, like God, cannot be thought, it must occur in particularities. It is not enough to simply “ask nothing”—prayer must also, simultaneously, “&#91;ask&#93; more than everything. It asks God to give himself rather than gifts.”[^8]
 
 But to pray this gift is to ask God’s giving: phenomenal revelation in the incarnation, kenotic destitution in the crucifixion, and the spirit’s indwelling at the ascension. It does not, of course, assume that God has given Himself definitively in these ways—nor does it preclude desire. To ask for God’s presence as gift is not to discount desire felt in God’s absence; rather, to ask for givenness, for the coming presence, is to swallow khora and vocalize one’s faith, one’s indeterminate hope, in prayer.
 
 In some way, there is no room for fear in love, though there is much room for mystery. Perhaps Caputo’s prayers are an attempt to fear the not yet known; but in doing so, he romanticizes the deferral as the space for desire. Can there be a prayer that, like love, is restless until it finds rest in the Lover? This rest is not ease, it still includes Caputo’s suggestion that we perpetually “prepare the way” of the Lord, of the yet-to-arrive or lately departed guest.
 
-But this is not to say that prayer is beyond apophantic truth claims. As Derrida points out, Pseudo-Dionysius “prays to God, not mammon.”[^9] So perhaps we cannot wear (as we prepare) Christ’s excuse, “\[We\] know not what \[we\] do” or ‘we know not who is coming.’ We may not know in full at any given moment who is coming, but does this mean that we do not determine the preparations of our house based on certain expectations of the guest yet to come? Prayer, as Chretien would suggest and Caputo would exemplify, is a preparation of the space (khora) and the home (ousia)[^10] : “‘Lord teach us to pray’…or also, ‘I believe! Come and help my unbelief!’”[^11] The space is our grace, the home is our selves—where God knocks, or if need be, breaks and enters, in the night.
+But this is not to say that prayer is beyond apophantic truth claims. As Derrida points out, Pseudo-Dionysius “prays to God, not mammon.”[^9] So perhaps we cannot wear (as we prepare) Christ’s excuse, “&#91;We&#93; know not what &#91;we&#93; do” or ‘we know not who is coming.’ We may not know in full at any given moment who is coming, but does this mean that we do not determine the preparations of our house based on certain expectations of the guest yet to come? Prayer, as Chretien would suggest and Caputo would exemplify, is a preparation of the space (khora) and the home (ousia)[^10] : “‘Lord teach us to pray’…or also, ‘I believe! Come and help my unbelief!’”[^11] The space is our grace, the home is our selves—where God knocks, or if need be, breaks and enters, in the night.
 
 ## IV. Prayer as home(coming): Thinking as welcoming
 
@@ -73,15 +99,15 @@ In prayer, we form the world with our words, holding the earth within the orbit 
 
 Derrida, Ricoeur, Levinas, Irigaray, and Marion account for this asymmetry in their own ways: each trying to preserve the disproportion of call and response that Heidegger noted in his later writings on language.[^23] Is God a secret half-heard and ever halving in retreat (Derrida) or an excess abundantly given (Marion)?
 
-In either case, the surplus or the deficiency of the call requires the patience of time, the vigilance toward the other that prayer cultivates. Whether inundated with sound or straining to hear its softness, both actions (a response in themselves) require an attuned deciphering, a sifting and lifting of what is given, humbled always by what is with\[/\]held.
+In either case, the surplus or the deficiency of the call requires the patience of time, the vigilance toward the other that prayer cultivates. Whether inundated with sound or straining to hear its softness, both actions (a response in themselves) require an attuned deciphering, a sifting and lifting of what is given, humbled always by what is with&#91;/&#93;held.
 
-Marion frames God as the \[w\]hole—that which exceeds, shines through the irruptions of phenomenal givenness. Derrida frames God as the w\[hole\]—the spaces gaping in our systems, necessarily left open for God’s coming in the messianic fulfillment. Levinas might call this hole the rupture or tear of subjectivity, of totalities, in which the face serves as a placemarker for the Divine, its trauma and its trace. In Marion’s terms, this would be the icon shining through the idol, burning its contours by speaking through, saturating the phenomena that we are tempted to reduce.
+Marion frames God as the whole—that which exceeds, shines through the irruptions of phenomenal givenness. Derrida frames God as the w&#91;hole&#93;—the spaces gaping in our systems, necessarily left open for God’s coming in the messianic fulfillment. Levinas might call this hole the rupture or tear of subjectivity, of totalities, in which the face serves as a placemarker for the Divine, its trauma and its trace. In Marion’s terms, this would be the icon shining through the idol, burning its contours by speaking through, saturating the phenomena that we are tempted to reduce.
 
 In turn, when trying to combat this superabundant asymmetry of Marion’s hyperousia—Derrida frames the gift as hypo-ousia. Ousia, before its troublesome rendering as the Latin substantia, etymologically roots in practical notions. Heidegger strained Aristotle’s metaphysics through his practical ethics, recalling ousia as “household, property.”[^24]
 
 I recount this to state that all notice an *umheimlichkeit*\-houseguest has broken, entered, and left being. How they account the traces of this guest and its coming may in the end be denominational differences or hermeneutical preferences. What resonates in their expressions is the noted de-centering. Prayer seems this in-breaking’s anamnestic enactment; its sacramental remembrance.
 
-![](/images/2018/01/3454425607_ae45b1abb4_b.webp)John Caputo begins his “Concluding Prayer” by en*act*ing prayer: de-centering the self, relinquishing any tight-fist conceptual choke on thematized truth.[^25] He opens by opening himself before the reader, before the Other of an unseen, though not unsolicited audience. Stepping forward, revealing himself: nearly every sentence beginning with “I am” until the halting, “But—.” Suddenly, as if hitting a wall we did not anticipate and one he cannot see,[^26] the retreat, the backstep of apophasis, “confess\[ing\]”: “none of us…know who we are.”[^27] It is as if he experiences the wounding encounter of alterity. Chretien would mark this event as a call that “recalls us \[even as it is\] a promise that keeps us beholden…giv\[ing\] us speech only by gripping us by the throat.”[^28]
+![](/images/2018/01/3454425607_ae45b1abb4_b.webp)John Caputo begins his “Concluding Prayer” by en*act*ing prayer: de-centering the self, relinquishing any tight-fist conceptual choke on thematized truth.[^25] He opens by opening himself before the reader, before the Other of an unseen, though not unsolicited audience. Stepping forward, revealing himself: nearly every sentence beginning with “I am” until the halting, “But—.” Suddenly, as if hitting a wall we did not anticipate and one he cannot see,[^26] the retreat, the backstep of apophasis, “confess&#91;ing&#93;”: “none of us…know who we are.”[^27] It is as if he experiences the wounding encounter of alterity. Chretien would mark this event as a call that “recalls us &#91;even as it is&#93; a promise that keeps us beholden…giv&#91;ing&#93; us speech only by gripping us by the throat.”[^28]
 
 This simultaneous encounter that is both gift and grip founds the event of prayer, a prayer that has made Caputo prey.[^29] Theology as an event or encounter is a way of acknowledging the presence of an alterity without rendering that presence as “understandable”, or denying its “perceptible” absence.[^30] Again, God finds a safer ana-logy with time than with being. The “event” is a way of *doing* what negative theology can only cleverly posit in aphorisms. For as Anne Davenport recalls, in conversation with Chretien:
 
@@ -93,7 +119,7 @@ And yet, in prayer, the voice that calls to God unearths. By virtue of the praye
 
 The question remains: is prayer simply the house, the space, that is no space, but that God no doubt enters? Though we lock our doors in thinking or tear our walls in deconstructing, we anticipate the Lord who asks us to seek, knock, that his door will be opened into us, unto us.
 
-This is the same Lord, who upon returning, stands among us saying, “Peace be with you,” even “though the doors were locked.”[^35] Thus, the event of the coming Name, for Caputo, can be intimated by the “name of God \[which\] is the name of an event, of an event that comes calling at our door, which can and must be translated into the event of hospitality.”[^36] Perhaps, in this sense, prayer-thinking, not unlike poetry, can provide a space for the philosophical wagers (and theological visitors) of hermeneutical hospitality.
+This is the same Lord, who upon returning, stands among us saying, “Peace be with you,” even “though the doors were locked.”[^35] Thus, the event of the coming Name, for Caputo, can be intimated by the “name of God &#91;which&#93; is the name of an event, of an event that comes calling at our door, which can and must be translated into the event of hospitality.”[^36] Perhaps, in this sense, prayer-thinking, not unlike poetry, can provide a space for the philosophical wagers (and theological visitors) of hermeneutical hospitality.
 
 *Ashley (Gay) Graham received her Ph.D. in Religion from Emory University and her Master’s in Theological Research from Andover Newton Theological School. Graham’s manuscript, “God’s Absence is Not Nothing: Thinking the Absolute Otherwise,” pursues the perennial question of God’s alterity as it pertains to the limits of thought and the corruptibility of institutions.* 
 
@@ -113,7 +139,7 @@ This is the same Lord, who upon returning, stands among us saying, “Peace be w
 
 [^6]: “Wounded Word,” 149.
 
-[^7]: He writes, “Emptiness is essential and necessary to \[negative theologians\]. If they guard against this, it is through the moment of prayer or the hymn.” Derrida seems to suggest that prayer is what keeps them from ultimately living their apohasis as Husserlian *crisis*—the “forgetting of the full and originary intuition.” “Sauf le nom” 50-51.
+[^7]: He writes, “Emptiness is essential and necessary to &#91;negative theologians&#93;. If they guard against this, it is through the moment of prayer or the hymn.” Derrida seems to suggest that prayer is what keeps them from ultimately living their apohasis as Husserlian *crisis*—the “forgetting of the full and originary intuition.” “Sauf le nom” 50-51.
 
 [^8]: “Sauf le nom,” 56. Prayer guards against the emptiness of forgetting by replacing it with the kenosis of prayer’s faithful devotion. It is a kenosis in living (faith, hope, love) that betrays in some way their apophatic attempts at a sort of pseudo-intellectual-kenosis.
 

@@ -18,6 +18,27 @@ tags:
   - narrative
   - religion
   - different
+subjects:
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---
 *The following is the second of a three-part series. The [first]( /religioustheory/posts/entheogens-spirituality-and-modern-myths/) can be found here*.
 

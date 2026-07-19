@@ -18,6 +18,17 @@ tags:
   - social
   - economic
   - theory
+subjects:
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *The following is the first installment of a lecture delivered to the faculty and students of the Research Platform on Religion and Transformation from the University of Vienna at Melk Monastery (Austria) on July 26, 2016.  The second installment will be published on Aug. 29.  Select portions of this essay appeared earlier in the online publication* [Political Theology Today](http://www.politicaltheology.com/blog)*.*
 

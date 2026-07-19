@@ -17,4 +17,15 @@ issue: 3
 season: fall
 year: 2019
 pages: 400-414
+subjects:
+  - label: "Eurocentrism"
+    scheme: "FAST"
+    identifier: "fst00916597"
+    uri: "https://id.worldcat.org/fast/916597"
+    category: "topical"
+  - label: "Feminist theory"
+    scheme: "FAST"
+    identifier: "fst00922816"
+    uri: "https://id.worldcat.org/fast/922816"
+    category: "topical"
 ---

@@ -19,4 +19,10 @@ issue: 1
 season: winter
 year: 2014
 pages: 155-158
+subjects:
+  - label: "Feminism"
+    scheme: "FAST"
+    identifier: "fst00922671"
+    uri: "https://id.worldcat.org/fast/922671"
+    category: "topical"
 ---

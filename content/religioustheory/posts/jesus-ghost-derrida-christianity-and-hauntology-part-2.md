@@ -19,6 +19,22 @@ tags:
   - christianity
   - marxism
   - deconstruction
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
 ---
 *The following is Part 2 of a 3-part series by Victor Taylor on how one might reflect theologically on Jesus and the Christian message from a Derridean perspective that departs significantly from the work of John D. Caputo. [The first part was published]( /religioustheory/posts/jesus-ghost-derrida-christianity-and-hauntology-part-1/) in* Religious Theory *on April 27, 2016.  This section considers the meaning of the term “heritage.”*
 
@@ -26,7 +42,7 @@ The un-closable “phantasmagoria” that supposedly first begins “before itse
 
 This insight, which is consistent with Derrida’s long- standing deconstruction of western metaphysics, has significant implications for the establishment of a particular kind of “heritage,” more specifically a “heritage” that is posited as being “ghostly” when it is in fact “spectral.”
 
-Spectral heritages, with all their acknowledged capacities and traces, therefore, are out of compliance with what one might conventionally expect from a traditional heritage— clear inheritances that are presumed to touch or rest upon a “possible,” primal, *really real* ground of an undisturbed, pure, “crypted” tradition. This is why in *Paper Machine* Derrida writes, “\[w\]hat does inheriting from a tradition mean in these conditions, when one thinks from within it and thinks in its name, for sure, but *against it in its name,* against the very thing it will have thought it had to save in order to survive by losing itself?”
+Spectral heritages, with all their acknowledged capacities and traces, therefore, are out of compliance with what one might conventionally expect from a traditional heritage— clear inheritances that are presumed to touch or rest upon a “possible,” primal, *really real* ground of an undisturbed, pure, “crypted” tradition. This is why in *Paper Machine* Derrida writes, “what does inheriting from a tradition mean in these conditions, when one thinks from within it and thinks in its name, for sure, but *against it in its name,* against the very thing it will have thought it had to save in order to survive by losing itself?”
 
 Derrida continues, “Again the possibility of the impossible: inheritance would only be possible at the point where it becomes the im-possible. This is one of the possible definitions of deconstruction—as inheritance. I did propose this once: deconstruction might perhaps be “the experience of the impossible.”11 A spectral inheritance, as opposed to a ghostly inheritance, acknowledges the “possibility of im-possibility” as it relates to a demand, obligation, undertaking or what I will discuss later in terms of Derrida’s reading of Heidegger, *Zusage*. If inheritance is deconstruction and *vice versa*, then we are brought back to the most fundamental aspect of Derridean inquiry, the “structure of the aporia.”12
 
@@ -38,7 +54,7 @@ In the chapter entitled “Artifactualities” from *Echographies of Television*
 
 In a so-called typical “traditional, pure heritage,” however, traditions and things are passed forward, inherited by someone or bequeathed to someone in a strongly non-reflexive or non- recursive capacity—one, as a subject, in receiving a traditional, pure heritage, is traditionally under the strict obligation of the unmitigated inheritance; one, again, as a subject, “carries on” a heritage and when the time comes strictly bequeaths it forward in relation to a set of acquired, unmitigated responsibilities. In other words, confers a legacy. The point, however, is to see this work of inheritance in the opposite way, as not “strict” but as thoroughly mitigating, deconstructing; giving and receiving a “heritage” is, in fact, “un-restricted,” strongly *reflexive*, like, as Derrida notes in the subtitle of *Specters of Marx*, the work of mourning.
 
-In the context of Derridean spectrality, a traditional relationship of a subject to a “heritage” and to the work of inheritance (receiving and bequeathing) is shown to be more than merely custodial—someone, a subject (a legacy), who will bequeath and to whom something is bequeathed, contrary to the typical strictures or conventions of tradition, actually shapes the “inheritance”/“heritage,” modifies and deconstructs it, defaces it in the “act” of stewardship: “When one inherits,” Derrida writes, “*one sorts, one shifts, one reclaims, one reactivates*”14 \[my emphasis\]. This is what Derrida means when he states that “deconstruction is inheritance.”
+In the context of Derridean spectrality, a traditional relationship of a subject to a “heritage” and to the work of inheritance (receiving and bequeathing) is shown to be more than merely custodial—someone, a subject (a legacy), who will bequeath and to whom something is bequeathed, contrary to the typical strictures or conventions of tradition, actually shapes the “inheritance”/“heritage,” modifies and deconstructs it, defaces it in the “act” of stewardship: “When one inherits,” Derrida writes, “*one sorts, one shifts, one reclaims, one reactivates*”14 &#91;my emphasis&#93;. This is what Derrida means when he states that “deconstruction is inheritance.”
 
 “Heritage,” which comes from an inheritance, then, is from this perspective precisely the opposite of how it is conventionally understood as a simple, perhaps even dogmatic, “bequeathing,” “receiving” and, in general, a “carrying on” of a discursive assemblage by a subject of a tradition.   “Heritage,” in general, along with its receiving and bequeathing subjects, becomes, for Derrida, “spectral,” mitigated, deconstructed, and haunted by the ghosting of ontology/teleology or the heritage’s own inability to maintain and sustain its commands, its presumed incorrigibility, and its purported “strict purity.”
 
@@ -110,7 +126,7 @@ One could ask, as Caputo does, “But what about Jesus?” And, the answer, more
 
 The whole point of the *tout autre* in deconstruction, the cutting edge behind this idea, if it is an idea, its burning passion, is a messianic one, to keep the system open, to prevent the play of differences from regathering and reassembling in a systematic whole with infinite warrant, and to take its stand with everyone and everything that is rejected and expelled by this omnivorous gathering, everything that is disempowered by all this power, with everyone who suffers at the hands of this gathering power, with all the detritus and excrement of the System.26
 
-From Caputo’s application, derived directly from a close reading of Derrida and further mapped onto Christianity in his short book *What Would Jesus Deconstruct?*, Jesus, as a messianic figure, holds “open the door” of the would-be closed and total system, preventing it from a self-shutting and thus creating an “inside” separated from an “outside.” The messianic Jesus, then, is unique among the range of “Jesuses” in that he, as representing the wholly other in Christianity, “keeps the system open,” and, more significantly, open to “everyone and everything that is \[would be\] rejected and expelled” from a totalized, self-shutting “ghosted” Christianity.
+From Caputo’s application, derived directly from a close reading of Derrida and further mapped onto Christianity in his short book *What Would Jesus Deconstruct?*, Jesus, as a messianic figure, holds “open the door” of the would-be closed and total system, preventing it from a self-shutting and thus creating an “inside” separated from an “outside.” The messianic Jesus, then, is unique among the range of “Jesuses” in that he, as representing the wholly other in Christianity, “keeps the system open,” and, more significantly, open to “everyone and everything that is &#91;would be&#93; rejected and expelled” from a totalized, self-shutting “ghosted” Christianity.
 
 This, I will point out, is to no one’s surprise the exact same lesson that Derrida draws from his astute examination of “Marx” and “Marxism”—that “Marx” is a “messianic subject” (wholly other) and a figure who produces a “messianic” subjectivity that prevents the ideological “heritage” or “political philosophy” from enclosing itself. The Derridean insight, quite apart from Caputo’s “Jesus who deconstructs,” here is complex and, at the same time, crucial insofar as we have a Jesus who, like Marx, holds open heritages—a figure, understood as an un- restricted spectral figure, that is not necessarily nor exclusively a member of the heritage that he historically and theological founds.
 

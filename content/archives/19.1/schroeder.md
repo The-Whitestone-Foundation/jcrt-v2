@@ -19,4 +19,20 @@ issue: 1
 season: winter
 year: 2020
 pages: 85-102
+subjects:
+  - label: "Buddhism"
+    scheme: "FAST"
+    identifier: "fst00840028"
+    uri: "https://id.worldcat.org/fast/840028"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
 ---

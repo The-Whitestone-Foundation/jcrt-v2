@@ -23,4 +23,10 @@ issue: 2
 season: spring
 year: 2015
 pages:
+subjects:
+  - label: "Philosophers"
+    scheme: "FAST"
+    identifier: "fst01060746"
+    uri: "https://id.worldcat.org/fast/1060746"
+    category: "topical"
 ---

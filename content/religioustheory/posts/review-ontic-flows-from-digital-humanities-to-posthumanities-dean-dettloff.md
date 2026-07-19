@@ -20,6 +20,17 @@ tags:
   - religious
   - theory
   - critical
+subjects:
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Bernico, Matt, and Kölke, Manuela (Eds.). *Ontic Flows: From Digital Humanities to Posthumanities.* New York: Atropos Press, 2016. ISBN-10: 1940813085. Hardcover, paperback, e-book. 296 pages.** 
 
@@ -37,7 +48,7 @@ The following section heading, “Transforming Digital Research & Pedagogy,” s
 
 Frederick W. Gibbs, in an essay called “The Poetics of Digital Scholarship,” looks at the challenges digital media poses for academic habits developed in and for a print ecology, including citation conventions and critical review (the somewhat amphibious space of *Religious Theory*, situated between a peer-reviewed journal and a blog, is in fact an interesting test case for some of Gibbs’ ideas). These themes are picked up again by John Monroe, who considers the complexities of Wikipedia, not simply rehearsing the stereotype of Wikipedia as a problem for citation and research one encounters with young or lazy scholars, but rather as a platform that presents knowledge, that is, acts as a pedagogue, in unique ways.
 
-Finally, utilizing a largely Deleuzean toolset with help from New Materialism, Shannon Stevens and Richard Wainwright propose a project of “\[Onto\]Riffology,” aiming to articulate the new forms of pedagogical assemblages made possible by e-mails, rapid text editing, and other creative strategies unique to digital media.
+Finally, utilizing a largely Deleuzean toolset with help from New Materialism, Shannon Stevens and Richard Wainwright propose a project of “&#91;Onto&#93;Riffology,” aiming to articulate the new forms of pedagogical assemblages made possible by e-mails, rapid text editing, and other creative strategies unique to digital media.
 
 The last section, “From Digital Humanities to Posthumanities,” rounds out the collection with a series of challenges for humans, humanism, and the humanities. Ellen Moll enumerates “The Seven (Possibly) Deadly Sins of Making the Humanities More Like Science,” making pointed suggestions like refusing to assume digital sciences are neutral tools and rejecting the idea of a technical universalism that occludes identities like race or ability.
 

@@ -8,7 +8,7 @@ author:
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2002
 ---

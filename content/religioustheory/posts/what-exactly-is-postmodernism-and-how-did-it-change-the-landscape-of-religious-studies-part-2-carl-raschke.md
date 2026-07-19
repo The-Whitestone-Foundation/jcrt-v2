@@ -24,6 +24,22 @@ tags:
   - radical
   - theology
   - academic
+subjects:
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *This article is published in two installments. The first can be found [here]( /religioustheory/posts/what-exactly-is-postmodernism-and-how-did-it-change-the-landscape-of-religious-studies-part-1-carl-raschke/).*
 
@@ -31,7 +47,7 @@ III.
 
 Taylor’s typification of postmodernism as Flatland, however, as the quintessential Hegelian “bone”, did not sit well with the British participants in the *Shadow of Spirit* conference, who represented both the majority and in certain measure the intellectual heavy weights for the Church of England.  Rowan Williams, who later would become Archbishop of Canterbury, was one of the contributors. 
 
-British philosopher Gillian Rose criticized Taylor for misappropriating Hegel, casting postmodernism as a kind of totalizing *tour de force* that results when one removes “diremption” (i.e., the act of splitting in two) from the dialectic.  Postmodernism makes a “Christian new Jerusalem”, she wrote, out of “old Athens”.   Postmodern theology, in particular, with its declaration that everything is text pretends to be a “prodigious, omniscient ‘western’ intellectuality that would crown \[itself\] or a/theology – ‘queen of the sciences’.”  It is “comprehensive while decrying comprehension”.[^1]
+British philosopher Gillian Rose criticized Taylor for misappropriating Hegel, casting postmodernism as a kind of totalizing *tour de force* that results when one removes “diremption” (i.e., the act of splitting in two) from the dialectic.  Postmodernism makes a “Christian new Jerusalem”, she wrote, out of “old Athens”.   Postmodern theology, in particular, with its declaration that everything is text pretends to be a “prodigious, omniscient ‘western’ intellectuality that would crown &#91;itself&#93; or a/theology – ‘queen of the sciences’.”  It is “comprehensive while decrying comprehension”.[^1]
 
 John Milbank’s article “Problematizing the Secular: The Post-Postmodern Agenda”, however, sketched out a completely unprecedented and (for those now sated with Derrida, deconstruction, and God’s death) quirky new modus operandi for Christian reflection that later in the decade would be known as “radical orthodoxy”.  The phrase, developed strategically by the editors at Routledge who had already published *Shadow of Spirit*, does not appear in the 1992 anthology. 
 

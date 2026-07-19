@@ -8,13 +8,13 @@ author: "Andrew W Metcalfe"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2000
 ---
 Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
 
-# Wonder, Creativity and Knowledge
+## Wonder, Creativity and Knowledge
 
 Andrew W. Metcalfe  
 University of New South Wales
@@ -47,13 +47,13 @@ University of New South Wales
 
 I spent yesterday searching for where to start this article. Although I'd gone to the computer inspired, the rhythm failed and the words sounded false and forced. I countered this dispirited feeling with a renewed determination to find 'the right starting point', believing, crazily, that I couldn't begin writing without it. As the discarded sentences continued to pile, however, I began taking their failure personally, splitting my attention between the problem of the starting point and the larger problem of _me_: why couldn't I find where to start? My concern had initially been the intuition buzzing in my gut but now it shifted to a concern with the place where I should have been, and with this shift my failings and problems began multiplying, like the brooms in _The Sorcerer's Apprentice_. I could no longer hold a thought steadily. I was everywhere else, with nothing to hold me, no feeling of depth or resonance or belonging. My breathing was fast and shallow, as if I hadn't time to breathe, as if I didn't want the air inside me, as if it didn't belong to me.
 
-     > The respiratory rhythm can acquire such a degree of interior manifestation that one can say: 'I am all breathing.' \[_Tr._ This translation is but a feeble approximation of the German expression _'Es atmet mich,'_ literally 'It breathes me.' In other words, the world comes to breathe within me; I participate in the good breathing of' the world; I am plunged into a breathing world. Everything breathes in the world'\] (Schultz, quoted in Bachelard, 1971: 179).
+> The respiratory rhythm can acquire such a degree of interior manifestation that one can say: 'I am all breathing.' &#91;_Tr._ This translation is but a feeble approximation of the German expression _'Es atmet mich,'_ literally 'It breathes me.' In other words, the world comes to breathe within me; I participate in the good breathing of' the world; I am plunged into a breathing world. Everything breathes in the world'&#93; (Schultz, quoted in Bachelard, 1971: 179).
 
 ## **Gratitude**
 
 > _Einstein was once asked, 'What's the most important question you can ask in life?' And his answer was, 'Is the universe a friendly place or not?' ' I tell my students that every time you see angels mentioned in the Bible you should think Einstein, because you're dealing with the same issue. It's the ultimate cosmological issue. Can we trust the cosmos? Is the cosmos benign? (Fox and Sheldrake, 1996: 12)_
 
-     > 'And' is the decisive word in give-and-take. Mere giving is as lifeless as mere taking. If you merely take a breath and stop there, you are dead. And when you merely breathe out and stop there, you are also dead. Life is not giving _or_ taking, but give-_and_\-take. Breathing is an obvious example, but the same give-and-take can be found wherever there is life. It is the dynamic expression of universal belonging. (1984: 199)
+> 'And' is the decisive word in give-and-take. Mere giving is as lifeless as mere taking. If you merely take a breath and stop there, you are dead. And when you merely breathe out and stop there, you are also dead. Life is not giving _or_ taking, but give-_and_\-take. Breathing is an obvious example, but the same give-and-take can be found wherever there is life. It is the dynamic expression of universal belonging. (1984: 199)
 
 ## **Wonder** 
 
@@ -63,9 +63,9 @@ I spent yesterday searching for where to start this article. Although I'd gone t
 
 ## **The wonderful**
 
-> _\[In Fra Angelico's painting, the\] Angel for Vigils wears a dark scarlet garment and holds his horn as if he were ready to blow, but he is not yet blowing. His left hand makes a strange gesture that signals, 'Wait; not yet.' His eyes are turned upward. He waits in that reverent silence out of which every genuine sound must come. This angel personifies the expectant listening attitude that precedes genuine word or song.' (Steindl-Rast, 1998: 24)_
+> _&#91;In Fra Angelico's painting, the&#93; Angel for Vigils wears a dark scarlet garment and holds his horn as if he were ready to blow, but he is not yet blowing. His left hand makes a strange gesture that signals, 'Wait; not yet.' His eyes are turned upward. He waits in that reverent silence out of which every genuine sound must come. This angel personifies the expectant listening attitude that precedes genuine word or song.' (Steindl-Rast, 1998: 24)_
 
-     > a void which swells in the already said; a void which is determined in the sense that the one who is about to speak knows that there is something other and more to be said than what has already been said, but nothing positive beyond that fact, beyond the fact that it is not said by what has already been said. (Castoriadis, 1984: 132)
+> a void which swells in the already said; a void which is determined in the sense that the one who is about to speak knows that there is something other and more to be said than what has already been said, but nothing positive beyond that fact, beyond the fact that it is not said by what has already been said. (Castoriadis, 1984: 132)
 
 ## **Annunciation**
 
@@ -75,7 +75,7 @@ I spent yesterday searching for where to start this article. Although I'd gone t
 
 > Our Western culture which is famous for its activism has very underdeveloped muscles of receptivity. We tend to fill this hole with junk because we're afraid of the dark or, if you will, afraid of nothingness. (Sheldrake and Fox, 1996: 126)
 
-     > the reality of the process of writing: a small glimmer illuminates the initial moment of creativity - next to the writer, outside of him, outside of his body, his pen, his page, his table.... Who is the shadow that holds it? Is this an angelic figure that resembles him like a brother? Is it a demon seeking to put him to death? Or is it the owner of a storehouse or treasury in which he can fish, before then, in turn, taking his place as an intermediary?
+> the reality of the process of writing: a small glimmer illuminates the initial moment of creativity - next to the writer, outside of him, outside of his body, his pen, his page, his table.... Who is the shadow that holds it? Is this an angelic figure that resembles him like a brother? Is it a demon seeking to put him to death? Or is it the owner of a storehouse or treasury in which he can fish, before then, in turn, taking his place as an intermediary?
 
 * * *
 
@@ -133,11 +133,7 @@ I spent yesterday searching for where to start this article. Although I'd gone t
 
 > **Andrew Metcalfe** teaches Sociology at the University of New South Wales. With his colleague Ann Game he published _Passionate Sociology_ in 1996, and they have just completed a new book, _Doing Nothing and Other Ways of Being_.
 
-* * *
-
-> 
-
-* * *
+***
 
  2000 Andrew W. Metcalfe. All rights reserved.  
 Updated 07/28/21 .   
@@ -175,7 +171,7 @@ Updated 07/28/21 .
 
 [^17]:  I imagine that when Bach wrote music as an offering to the glory of God, he was carried toward glory by his sense of gratitude for the gratitude that gave him his compositional gift of accepting the gift of God that produced the work. This ecstatic spiralling logic of the 'and' is the nature of divine music. It is also the nature of love and love-making, for who gives and takes in love-making? Who is active and who is passive? Whose body, breath and voice is whose?
 
-[^18]:  Taking the form of praiseful thanksgiving, creativity and love no longer seem a manifestations of ego or acts of self-expression. Through creativity we find our central Godlikeness, but in a humble rather than Oedipal or Promethean way, through our nothingness. Praising and thanking God, saying Yes to the God's gift of life, we cannot help (re)creating the world, and in doing so we are doing God's work and imitating God's own gift of creativity. The empty receptivity of gratefulness is itself a form of overflowing fullness. As Hildegard of Bingen says, and Wim Wenders' film _Wings of Desire_ shows, this fleshy creativity amazes angels, '\[f\]or the angel without the work of the flesh is simply praise; but the humans with their corporeal works are a glorification: therefore the angels praise humans' work' (Hildegard of Bingen, quoted in Fox and Sheldrake, 1996: 165).
+[^18]:  Taking the form of praiseful thanksgiving, creativity and love no longer seem a manifestations of ego or acts of self-expression. Through creativity we find our central Godlikeness, but in a humble rather than Oedipal or Promethean way, through our nothingness. Praising and thanking God, saying Yes to the God's gift of life, we cannot help (re)creating the world, and in doing so we are doing God's work and imitating God's own gift of creativity. The empty receptivity of gratefulness is itself a form of overflowing fullness. As Hildegard of Bingen says, and Wim Wenders' film _Wings of Desire_ shows, this fleshy creativity amazes angels, 'for the angel without the work of the flesh is simply praise; but the humans with their corporeal works are a glorification: therefore the angels praise humans' work' (Hildegard of Bingen, quoted in Fox and Sheldrake, 1996: 165).
 
 [^19]:  Sceptics might say this argument focuses on joy and overlooks sorrow, but these aren't opposing terms. My joy in my friends and family, for example, is inseparable from the anguish of my knowledge that I will lose them at some time. Because it reminds us of our blessings, sorrow is itself a blessing, and anyone who turns from sorrow slips into a half-life, the fear of being really alive leading them to take the world for granted. As long as we attend to it, everything the world offers is a gift that awakens us to life. Once I could attend to it, for example, my writer's block gave me the right place to start this article.'
 

@@ -23,4 +23,20 @@ issue: 2
 season: fall
 year: 2012
 pages: 187-195
+subjects:
+  - label: "Ethnology"
+    scheme: "FAST"
+    identifier: "fst00916106"
+    uri: "https://id.worldcat.org/fast/916106"
+    category: "topical"
+  - label: "Material culture"
+    scheme: "FAST"
+    identifier: "fst01011739"
+    uri: "https://id.worldcat.org/fast/1011739"
+    category: "topical"
+  - label: "Other (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01048904"
+    uri: "https://id.worldcat.org/fast/1048904"
+    category: "topical"
 ---

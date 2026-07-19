@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
+import { controlledSubjects } from "../_config/subjects.js";
 
 const ROOT = path.resolve(process.cwd());
 const TARGET_ROOT = process.argv[2]
@@ -66,6 +67,7 @@ function splitAuthors(value) {
 
 function dateOnly(value) {
   if (!value) return "";
+  if (/^\d{4}$/.test(String(value))) return `${value}-01-01`;
   const date = value instanceof Date ? value : new Date(value);
   if (!Number.isNaN(date.getTime())) return date.toISOString().slice(0, 10);
   return String(value).slice(0, 10);
@@ -120,6 +122,21 @@ function baseSchema({ type, url, title, description, date, image, authors, citat
   return schema;
 }
 
+function addSubjects(schema, data) {
+  const subjects = controlledSubjects(data.subjects);
+  if (subjects.length) {
+    schema.about = subjects.map((subject) => ({
+      "@type": "DefinedTerm",
+      name: subject.label,
+      termCode: subject.identifier,
+      url: subject.uri,
+      inDefinedTermSet: subject.scheme === "FAST" ? "https://id.worldcat.org/fast/" : "https://homosaurus.org/v5",
+      additionalProperty: { "@type": "PropertyValue", name: "authority category", value: subject.category },
+    }));
+  }
+  return schema;
+}
+
 function exportArchives() {
   let count = 0;
   for (const filePath of walk(ARCHIVES_DIR).filter((file) => file.endsWith(".md"))) {
@@ -162,7 +179,7 @@ function exportArchives() {
         contentUrl: pdfUrl,
       };
     }
-    writeJson(`archives/${issue}/${slug}`, schema);
+    writeJson(`archives/${issue}/${slug}`, addSubjects(schema, data));
     count += 1;
   }
   return count;
@@ -198,7 +215,7 @@ function exportTheory() {
       },
       identifier: data.doi || data.nanoid || url,
     };
-    writeJson(`religioustheory/posts/${slug}`, schema);
+    writeJson(`religioustheory/posts/${slug}`, addSubjects(schema, data));
     count += 1;
   }
   return count;

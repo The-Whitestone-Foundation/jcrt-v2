@@ -20,6 +20,12 @@ tags:
   - argument
   - definition
   - natural
+subjects:
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -140,4 +146,4 @@ We can now conclude that, for Hume, *not all miracles are religious miracles*. Y
 
 [^19]: Hume, “Of Miracles,” 184. The evidence against religious miracles, claims Hume, is so overwhelming that only a charlatan or self-deluded individual could believe otherwise: “human testimony, in these circumstances, loses all pretensions to authority. A religionist may be an enthusiast, and imagine he sees what has no reality: He may know his narrative to be false, and yet persevere in it, with the best intentions in the world, for the sake of promoting so holy a cause&hellip;” (ibid., 175).
 
-[^20]: The conclusion of my argument is one Fogelin agrees with. Regarding Hume’s second definition, Fogelin writes: “\[Hume\] seems to be making the intervention of a divine (or at least invisible) agent an essential feature of a miracle. Yet elsewhere, indeed, even in this very footnote, Hume uses the notion of a miracle in a wider sense that includes the notion of nonreligious miracles. The discussion in part 2 relies on this contrast between religious and nonreligious miracles. It seems, then, that Hume’s intention here cannot be to narrow the notion of a miracle to religious miracles, but only to define one particular kind of miracle—those that are supposed to depend upon divine intervention” (*A Defense*, 14, note 6).
+[^20]: The conclusion of my argument is one Fogelin agrees with. Regarding Hume’s second definition, Fogelin writes: “&#91;Hume&#93; seems to be making the intervention of a divine (or at least invisible) agent an essential feature of a miracle. Yet elsewhere, indeed, even in this very footnote, Hume uses the notion of a miracle in a wider sense that includes the notion of nonreligious miracles. The discussion in part 2 relies on this contrast between religious and nonreligious miracles. It seems, then, that Hume’s intention here cannot be to narrow the notion of a miracle to religious miracles, but only to define one particular kind of miracle—those that are supposed to depend upon divine intervention” (*A Defense*, 14, note 6).

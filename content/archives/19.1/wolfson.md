@@ -19,4 +19,20 @@ issue: 1
 season: winter
 year: 2020
 pages: 52-84
+subjects:
+  - label: "Philosophers"
+    scheme: "FAST"
+    identifier: "fst01060746"
+    uri: "https://id.worldcat.org/fast/1060746"
+    category: "topical"
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
 ---

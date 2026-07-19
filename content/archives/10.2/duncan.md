@@ -11,11 +11,22 @@ keywords:
   - 1886-1961
   - h-d-hilda-doolittle
   - literature-and-society
-pdf:
+pdf: scans.pdf
 sort_id:
 volume: 10
 issue: 2
 season: spring
 year: 2010
 pages:
+subjects:
+  - label: "Bibliographies"
+    scheme: "FAST"
+    identifier: "fst01919895"
+    uri: "https://id.worldcat.org/fast/1919895"
+    category: "form-genre"
+  - label: "Literature and society"
+    scheme: "FAST"
+    identifier: "fst01000096"
+    uri: "https://id.worldcat.org/fast/1000096"
+    category: "topical"
 ---

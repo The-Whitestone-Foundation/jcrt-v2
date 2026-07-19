@@ -20,6 +20,27 @@ tags:
   - tolerance
   - multiculturalism
   - reluctant
+subjects:
+  - label: "Hospitality"
+    scheme: "FAST"
+    identifier: "fst00961114"
+    uri: "https://id.worldcat.org/fast/961114"
+    category: "topical"
+  - label: "Multiculturalism"
+    scheme: "FAST"
+    identifier: "fst01028836"
+    uri: "https://id.worldcat.org/fast/1028836"
+    category: "topical"
+  - label: "Religion and literature"
+    scheme: "FAST"
+    identifier: "fst01093839"
+    uri: "https://id.worldcat.org/fast/1093839"
+    category: "topical"
+  - label: "Toleration"
+    scheme: "FAST"
+    identifier: "fst01152232"
+    uri: "https://id.worldcat.org/fast/1152232"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here.]( /religioustheory/posts/the-reluctant-fundamentalist-and-the-inhospitable-state-abrahamic-hospitality-and-the-limits-of-multiculturalism-emily-mcavan/)*
 
@@ -37,7 +58,7 @@ Hamid keenly uses the word “civilization” here, which has its corollary the 
 
 Indeed, this defensive show of patriotism and pain quickly turned into hate.  The climate of the United States becomes (and remains) decidedly unfriendly for many people from the Middle East and the subcontinent. The “American” wrath Changez describes is scattershot, applied to those believed to “look” Muslim. This is indeed a nebulous idea, a slide between religion and race that can attach to many forms of alterity—Lebanese restaurants were held to be suspicious if not flying American flags in their windows in the aftermath of 9/11,[^7] whilst Sikhs ran an advertising campaign “a turban is not a hat.”[^8]
 
-Queer theorist Jasbir Puar suggests that the phenomenon of “misrecognition” in the racist backlash against Sikhs involves a return of the repressed, a re-emergence of racial scapegoating against the community in a time of crisis.[^9] Gilroy puts the situation acerbically but not inaccurately when he says that “the \[multicultural\] corpse is now being laid to rest amid the multiple anxieties of the war on terror” (2004, 1)—a situation which is only been exacerbated by the recent turns toward protectionist nationalism in Trump’s America. Wendy Brown has noted the increased “tensions between national interests and the global market, hence between the nation and the state, and between the security of the subject and the movements of capital”[^10] arguing that these have become incarnated in the walls springing up in and between nations. Multiculturalism has become increasingly constituted as threatening to the imagined-white nation, with the term “globalist” has sprung up as a new insult from the anti-immigration right wing in the US.
+Queer theorist Jasbir Puar suggests that the phenomenon of “misrecognition” in the racist backlash against Sikhs involves a return of the repressed, a re-emergence of racial scapegoating against the community in a time of crisis.[^9] Gilroy puts the situation acerbically but not inaccurately when he says that “the &#91;multicultural&#93; corpse is now being laid to rest amid the multiple anxieties of the war on terror” (2004, 1)—a situation which is only been exacerbated by the recent turns toward protectionist nationalism in Trump’s America. Wendy Brown has noted the increased “tensions between national interests and the global market, hence between the nation and the state, and between the security of the subject and the movements of capital”[^10] arguing that these have become incarnated in the walls springing up in and between nations. Multiculturalism has become increasingly constituted as threatening to the imagined-white nation, with the term “globalist” has sprung up as a new insult from the anti-immigration right wing in the US.
 
 Changez’s turn towards true alterity begins at the level of the visual. After coming home to Pakistan as war with India threatens to break out, Changez returns to the United States with a full beard, a sign of silent protest at the United States’ complicity with India’s aggression. He says, “it is remarkable, given its insignificance—it is only a hairstyle, after all—the impact a man of my complexion has on your fellow countrymen.”[^11] At work, Changez becomes “overnight a subject of whispers and stares.”[^12] Wainwright, his Jamaican friend and colleague at Underwood Samson, suggests that Changez shave the beard off, because despite the firm’s multiracial appearance, “you need to be careful. The whole corporate collegiality veneer goes so deep. Believe me.”[^13] Simply through a change in hairstyle Changez becomes suspect to his colleagues because of the semiotic function of the beard on a Pakistani man—a sign of visual Muslimness. In a parking lot, Changez has a confrontation with a stranger who calls him a “fucking Arab.”[^14]
 
@@ -47,7 +68,7 @@ As these metaphors of writing (ascriptive, marked) suggest, the object of tolera
 
 Hamid paints a contrast between the “tolerated” subject of multiculturalism and the entitlement of privileged Americans abroad. Changez travels to group with some friends from Princeton to Greece in the summer after they have finished their undergraduate degrees. Changez notes their self-righteousness in dealing with those whom they had paid for a service. “
 
-> But you *told* us,” they would say to Greeks twice their age, before insisting things be done their way. I \[. . .\]       found myself wondering by what quirk of human history my companions \[. . .\] were in a position to conduct themselves in the world as though they were its ruling class.[^18]
+> But you *told* us,” they would say to Greeks twice their age, before insisting things be done their way. I &#91;. . .&#93;       found myself wondering by what quirk of human history my companions &#91;. . .&#93; were in a position to conduct themselves in the world as though they were its ruling class.[^18]
 
 Indeed, for the rest of the world, hospitality with this ruling class brings with it not only self-righteousness, but considerable danger. Changez’s hospitality for the American in Lahore ends with the chilling suggestion that the man, a potential CIA agent, has killed him (“I detect a glint of metal”[^19] ).  Yet this is as Derrida points out, a necessary risk of radical hospitality.
 
@@ -73,7 +94,7 @@ Yet Erica’s isolation is not only sympathetically drawn but curiously alluring
 
 Because you’re the most real and you make her lose her balance.”[^23] Hartnell argues that that that this exchange can be read as suggesting that “Changez is the ideal vehicle by which Erica might be wrested away from Chris and thus made more truly American.”[^24] In other words, (Amer) Erica might be returned to herself by the reality of the Muslim migrant. Hartnell suggests that this recalls the narratives by which the country has historically legitimated itself as exceptional, which has “has historically collaborated with notions of superiority and racial chauvinism.”[^25]
 
-Yet perhaps we can also see this as the briefest flare of Abrahamic hospitality.  Erica tells Changez “you look cute \[. . .\] your beard brings out your eyes.”[^26] Changez’s beard, the very sign of his alterity and rejection by the multiculturalist state, is also capable of being appreciated by the United States. By implication, Muslims too are capable of being appreciated by the US, and indeed not merely because of desire, but an Abrahamic form that gives by receiving. Rather than conditional acceptance, Erica’s comment that Changez’s beard “brings out your eyes” suggests that it is the signs of alterity itself that add to his attractiveness, that bring out his best features as well as returning Erica to herself. In this briefest of exchanges, we see the ways in which “bringing out” may be a coming in \[*Entrez donc*\], and tarrying with alterity may be an Abrahamic “here I am.”
+Yet perhaps we can also see this as the briefest flare of Abrahamic hospitality.  Erica tells Changez “you look cute &#91;. . .&#93; your beard brings out your eyes.”[^26] Changez’s beard, the very sign of his alterity and rejection by the multiculturalist state, is also capable of being appreciated by the United States. By implication, Muslims too are capable of being appreciated by the US, and indeed not merely because of desire, but an Abrahamic form that gives by receiving. Rather than conditional acceptance, Erica’s comment that Changez’s beard “brings out your eyes” suggests that it is the signs of alterity itself that add to his attractiveness, that bring out his best features as well as returning Erica to herself. In this briefest of exchanges, we see the ways in which “bringing out” may be a coming in &#91;*Entrez donc*&#93;, and tarrying with alterity may be an Abrahamic “here I am.”
 
 If we follow Derrida’s arguments about hospitality, we may see how a cosmopolitan living *with* difference may also be a living with the divine in our midst. 
 

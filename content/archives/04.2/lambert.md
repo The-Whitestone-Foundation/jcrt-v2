@@ -14,7 +14,7 @@ year: 2003
 ---
 Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
 
-# Conversation on _The Future of Theory_\*
+## Conversation on _The Future of Theory_\*
 
 Jean-Michel Rabaté  
 University of Pennsylvania
@@ -24,7 +24,7 @@ Syracuse University
 
 * * *
 
-T_his public conversation was recorded at an event held at [The Slought Gallery](http://slought.org), Philadelphia, November 1st 2002, as part of a series called "Conversations in Theory," organized by Aaron Levy, curator. (Approximately 80 mins. in length.) A streaming audio archive of this event is available_:    ![](/images/jcrt-open-graph.webp) [**Real Media Stream**](http://www.slought.net/toc/archives/residue.php?play1=1065)    ![](/images/jcrt-open-graph.webp) [**Windows Media Stream**](http://www.slought.net/toc/archives/residue.php?play4=1065)   \[ [Media Support](http://slought.org/toc/support/streamingmedia-use.php) \]
+T_his public conversation was recorded at an event held at [The Slought Gallery](http://slought.org), Philadelphia, November 1st 2002, as part of a series called "Conversations in Theory," organized by Aaron Levy, curator. (Approximately 80 mins. in length.) A streaming audio archive of this event is available_:    ![](/images/jcrt-open-graph.webp) [**Real Media Stream**](http://www.slought.net/toc/archives/residue.php?play1=1065)    ![](/images/jcrt-open-graph.webp) [**Windows Media Stream**](http://www.slought.net/toc/archives/residue.php?play4=1065)   &#91; [Media Support](http://slought.org/toc/support/streamingmedia-use.php) &#93;
 
 * * *
 
@@ -39,13 +39,9 @@ T_his public conversation was recorded at an event held at [The Slought Gallery]
 
 > **Gregg Lambert**, Professor of English & Textual Studies, Syracuse University, has written and published on the philosophy of Gilles Deleuze, contemporary literary theory, aesthetics, and the fate of the Humanities' disciplines in the contemporary university. Publications include _The Non-Philosophy of Gilles Deleuze_ (Continuum, 2002) and _Report to the Academy_ (Critical Studies in the Humanities, Davies 2001). Forthcoming in 2003 from Continuum is _The Return of the Baroque: Art, History, and Theory in the Modern Age_.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2003 Jean Michel Rabaté and Gregg Lambert. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Jean Michel Rabaté and Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/rabate-lambert](https://jcrt.org/archives/04.2/rabate-lambert/)
 
@@ -59,7 +55,7 @@ Updated 07/28/21.
 
 [^6]:  Since I have started shaving in front of you, I can confess more. Most of this book--it may not be obvious--is autobiographical. When I came to Penn in ninety-two, the first local star who was mentioned to me was Camille Paglia. I never heard of the name but she was the most famous anti-theoretician living in the US at that time. One day, an acquaintance suggested that I should invite her to my seminar because she had "kicked Derrida in the ass!" My response was: "Oh really? That might be interesting." Then I heard Camille Paglia talk a few times and loved the way she kept contradicting herself without any qualms--indeed, it was an hysterical reaction to Theory's hystericizing discourse. She was the living proof that that Theory could antagonize or hystericize, thus produce effects that, for better or worse, are similar to those of classical hysteria. This led me back to the discourse of the Surrealists who, in 1928, published a praise of hysteria. My gesture in the opening pages of the book was simply to take passages from this manifesto for hysteria written by Breton and his friends, and whenever the word "hysteria" was used, I replaced it with the word "theory." And it works!
 
-[^7]:  **Lambert:** I think I remember Paglia, at that time, published an article where she recommended that we \[Americans\] have a second Boston Tea Party and throw all the French back into sea.
+[^7]:  **Lambert:** I think I remember Paglia, at that time, published an article where she recommended that we &#91;Americans&#93; have a second Boston Tea Party and throw all the French back into sea.
 
 [^8]:  **Rabaté:** Yes, so this confirms the autobiographical element here. I like this idea of "importation," a lot has been written about the French as these "interlopers," like the Greeks were for the Romans. This is what Camille Paglia says, basically. These sophists were invited to American universities because they make more money in the states, but they pervert everything, and they now need to be sanitized and thrown back.
 

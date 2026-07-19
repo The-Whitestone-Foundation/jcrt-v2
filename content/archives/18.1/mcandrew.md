@@ -18,4 +18,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 20-25
+subjects:
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Veterans"
+    scheme: "FAST"
+    identifier: "fst01165710"
+    uri: "https://id.worldcat.org/fast/1165710"
+    category: "topical"
 ---

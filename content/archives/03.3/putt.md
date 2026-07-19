@@ -8,13 +8,13 @@ author: "B Keith Putt"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 03
 year: 2002
 ---
 Putt - The Benefit of the Doubt - JCRT 3.3 
 
-# The Benefit of the Doubt: Merold Westphal's Prophetic Philosophy of Religion
+## The Benefit of the Doubt: Merold Westphal's Prophetic Philosophy of Religion
 
 B. Keith Putt  
 Samford University
@@ -25,25 +25,25 @@ In recent years, several scholars in the United States have exploited the implic
 
 ### Toward an Apologetic for Paralogetics
 
-     > There is, it seems to us,  
-     > At best, only a limited value  
-     > In the knowledge derived from experience.  
-     > The knowledge imposes a pattern and falsifies,  
-     > For the pattern is new in every moment  
-     > And every moment is a new and shocking  
-     > Valuation of all we have been (81-87)
+> There is, it seems to us,  
+> At best, only a limited value  
+> In the knowledge derived from experience.  
+> The knowledge imposes a pattern and falsifies,  
+> For the pattern is new in every moment  
+> And every moment is a new and shocking  
+> Valuation of all we have been (81-87)
 
      Human beings always experience reality from finite perspectives, always standing between some protological moment of immediate clarity and some eschatological moment of total realization.Consequently, they live out this finitism through ontological patterns, various attempts at ordering reality into cosmetic world structures that give value to existence. These patterns always falsify to greater or lesser degrees in that they are either opaque to reality and, hence, in error, or offer numerous intensities of translucence, and, hence, promise only incomplete views of existence. Eliot seems to give in these lines a poetic translation of the irreducible manifold previously referred to as Westphal's "dark prism."
 
-     > Do not let me hear  
-     > Of the wisdom of old men, but rather of their folly,  
-     > Their fear of fear and frenzy, their fear of possession,  
-     > Of belonging to another, or to others, or to God. (93-97)
+> Do not let me hear  
+> Of the wisdom of old men, but rather of their folly,  
+> Their fear of fear and frenzy, their fear of possession,  
+> Of belonging to another, or to others, or to God. (93-97)
 
      Since individuals are never born _in vacuo_, they never live outside of various world patterns that have preceded them. These patterns of reality are legacies bequeathed to each generation by their ancestors, those whom Eliot calls the "old men." Their patterns are the wisdom that offers guidance, stability, truth, and meaning to the community, legitimating the community's legislating interpretations by embracing systematically and boldly all aspects of culture and nature.In accepting the authority of the "old men" and their wisdom, individuals live out these systems as comprehensive and uncontaminated.
 
-     > The only wisdom we can hope to acquire  
-     > Is the wisdom of humility: humility is endless (97-98).
+> The only wisdom we can hope to acquire  
+> Is the wisdom of humility: humility is endless (97-98).
 
      Westphal's prophetic paradigm seeks this very wisdom and teaches that humility'the fear of the Lord as the consciousness of finitude and fallenness'is the preeminent benefit of the doubt.
 
@@ -54,13 +54,9 @@ In recent years, several scholars in the United States have exploited the implic
 
 > **B. Keith Putt** is Professor of Philosophy at Samford University in Birmingham, Alabama. He earned his M.A. and Ph.D. from Rice University in Houston, Texas. He has published several articles on the radical hermeneutics of John D. Caputo.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 B. Keith Putt. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 B. Keith Putt. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/putt](https://jcrt.org/archives/03.3/putt/)
 
@@ -146,7 +142,7 @@ Updated 07/28/21.
 
 [^21]: "Postmodernism and Religious Reflection," p. 134.
 
-[^22]:  The benefit of the doubt in Westphal's prophetic philosophy of religion not only addresses the issue of finitude and the amorality of a situational epistemology but also, and more importantly, acknowledges the specifically ethical implications of human sin and its possible noetic effects. Here again the biblical roots of this approach surface. Jeremiah clearly admits that the "heart is deceitful above all things and desperately corrupt; who can understand it?" (Jer.17:9)The Apostle Paul concurs when he writes that human beings "are disposed to 'suppress the truth' and thereby to become individuals whose 'senseless minds \[are\] darkened' (Rom. 1:18,21)."Consequently, if Christian philosophers genuinely desire to embrace the prophetic paradigm, they must decipher sin as "an essential epistemological category."[^25] Here the Kierkegaardian trunk of Westphal's prophetic family tree once again becomes prominent, in that Kierkegaard does indeed factor into his own "doubtful" hermeneutic the significance of human sinfulness as an obstacle to "knowing" God properly.[^26] He develops this theme most succinctly in _Philosophical Fragments_, in which he contrasts Socrates's anamnestic epistemology with Jesus's creational occasionism. Precisely because of human rebellion against God and its refusal to accept God's truth, the divine Teacher must be a Savior who grants the occasion for knowledge and supplies that knowledge in the moment of encounter.[^27] Accordingly, faith and knowledge are ultimately ethical issues, whose opposite is not doubt but disobedience. For Westphal, then, Kierkegaard just acknowledges the Pauline, Augustinian, Lutheran, and Calvinian affirmations of the ubiquitous effects of the Fall on human beings. Sin distorts, subverts, contaminates, impedes, and rejects knowledge and truth. The sinfulness of the human knower, therefore, means that a prophetic epistemology must move "beyond the hermeneutics of transcendental finitude to the hermeneutics of transcendental depravity."[^28]
+[^22]:  The benefit of the doubt in Westphal's prophetic philosophy of religion not only addresses the issue of finitude and the amorality of a situational epistemology but also, and more importantly, acknowledges the specifically ethical implications of human sin and its possible noetic effects. Here again the biblical roots of this approach surface. Jeremiah clearly admits that the "heart is deceitful above all things and desperately corrupt; who can understand it?" (Jer.17:9)The Apostle Paul concurs when he writes that human beings "are disposed to 'suppress the truth' and thereby to become individuals whose 'senseless minds &#91;are&#93; darkened' (Rom. 1:18,21)."Consequently, if Christian philosophers genuinely desire to embrace the prophetic paradigm, they must decipher sin as "an essential epistemological category."[^25] Here the Kierkegaardian trunk of Westphal's prophetic family tree once again becomes prominent, in that Kierkegaard does indeed factor into his own "doubtful" hermeneutic the significance of human sinfulness as an obstacle to "knowing" God properly.[^26] He develops this theme most succinctly in _Philosophical Fragments_, in which he contrasts Socrates's anamnestic epistemology with Jesus's creational occasionism. Precisely because of human rebellion against God and its refusal to accept God's truth, the divine Teacher must be a Savior who grants the occasion for knowledge and supplies that knowledge in the moment of encounter.[^27] Accordingly, faith and knowledge are ultimately ethical issues, whose opposite is not doubt but disobedience. For Westphal, then, Kierkegaard just acknowledges the Pauline, Augustinian, Lutheran, and Calvinian affirmations of the ubiquitous effects of the Fall on human beings. Sin distorts, subverts, contaminates, impedes, and rejects knowledge and truth. The sinfulness of the human knower, therefore, means that a prophetic epistemology must move "beyond the hermeneutics of transcendental finitude to the hermeneutics of transcendental depravity."[^28]
 
 [^22]: "Positive Postmodernism as Radical Hermeneutics," p. 61.
 
@@ -208,7 +204,7 @@ Updated 07/28/21.
 
 [^37]: _God, Guilt, and Death_, pp. 138-39.
 
-[^38]:  The paralogist ironically shares with the apologist a love for the tradition and intends every offensive inquiry into its patterns to eventuate in a defensive affirmation and reception of its gift. Paralogy and apology do not have to contradict each other.'' One may indeed be both a priest _and_ a prophet within one's religious world structure and aspire to honor one's heritage by handing it over to the next generation as a purer gift. The apo/paralogist walks the straight and narrow with something of a crooked gait, yearning to be one of the faithful followers but always with what Jacques Derrida calls "a kind of filial lack of piety" toward the tradition.[^46] This "filial lack of piety" leads the apo/paralogist to engage in an immanent critique of the tradition, that is, a critique that, although often dependent upon different idioms borrowed from other traditions, determines to locate the reflexive reversals where the tradition turns back upon itself and is called into question by its own legislating language. Westphal refers to this immanent critique as an "inside job" predicated upon _ad hominem_ speech by which prophetic philosophers of religion "are always appealing to the tradition against the tradition ... \[and\] are always affirming that which \[they are\] critiquing."[^47]'' The apo/paralogist (dis) respects the tradition enough to believe s/he can find God in it without idolizing the tradition and mistaking it for God.
+[^38]:  The paralogist ironically shares with the apologist a love for the tradition and intends every offensive inquiry into its patterns to eventuate in a defensive affirmation and reception of its gift. Paralogy and apology do not have to contradict each other.'' One may indeed be both a priest _and_ a prophet within one's religious world structure and aspire to honor one's heritage by handing it over to the next generation as a purer gift. The apo/paralogist walks the straight and narrow with something of a crooked gait, yearning to be one of the faithful followers but always with what Jacques Derrida calls "a kind of filial lack of piety" toward the tradition.[^46] This "filial lack of piety" leads the apo/paralogist to engage in an immanent critique of the tradition, that is, a critique that, although often dependent upon different idioms borrowed from other traditions, determines to locate the reflexive reversals where the tradition turns back upon itself and is called into question by its own legislating language. Westphal refers to this immanent critique as an "inside job" predicated upon _ad hominem_ speech by which prophetic philosophers of religion "are always appealing to the tradition against the tradition ... &#91;and&#93; are always affirming that which &#91;they are&#93; critiquing."[^47]'' The apo/paralogist (dis) respects the tradition enough to believe s/he can find God in it without idolizing the tradition and mistaking it for God.
 
 [^38]: S'ren Kierkegaard, _The Purity of Heart is to Will One Thing_, trans. Douglas V. Steere (New York: Harper & Row Publishers, 1948), pp. 53, 79, 99, 104.
 

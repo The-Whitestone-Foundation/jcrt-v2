@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2020
 pages: 365-376
+subjects:
+  - label: "Ejército Zapatista de Liberación Nacional (Mexico)"
+    scheme: "FAST"
+    identifier: "fst00699014"
+    uri: "https://id.worldcat.org/fast/699014"
+    category: "corporate"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Political participation"
+    scheme: "FAST"
+    identifier: "fst01069386"
+    uri: "https://id.worldcat.org/fast/1069386"
+    category: "topical"
 ---

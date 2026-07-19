@@ -22,6 +22,17 @@ tags:
   - pentecostal
   - anthropology
   - social
+subjects:
+  - label: "Anthropology"
+    scheme: "FAST"
+    identifier: "fst00810196"
+    uri: "https://id.worldcat.org/fast/810196"
+    category: "topical"
+  - label: "Anthropology of religion"
+    scheme: "FAST"
+    identifier: "fst01738842"
+    uri: "https://id.worldcat.org/fast/1738842"
+    category: "topical"
 ---
 *The following is the first of a two-part series.* *It was originally published in issue [22.1](https://jcrt.org/archives/22.1/) of the Journal for Cultural and Religious Studies.*
 
@@ -41,7 +52,7 @@ In this context, biomedicine is recognized as a natural science and, like the ot
 
 Modern *ars medica* definitively renounces any theurgic vocation and takes the form of a pure “experimental and quantitative science of the organism”,[^10] obtaining exclusive status in the investigation of functions and dysfunctions of the body. Accompanied by the theoretical assumptions of modern physiology and pathological anatomy,[^11] medical knowledge develops a mechanistic conception of the body: a naturally given set of cellular structures, organs, and molecules. The human organism works like a machine, whose normal[^12] functioning must be promptly restored every time it runs into some alteration of a biological nature, manifested through physical ‘signs’ – symptoms.
 
-Thus, the main assignment of clinical medicine becomes the diagnosis[^13] of the *disease*: the physical dimension of suffering. Diseases are mere facts of nature – “biological \[and\] universal”[^14] – that emerge when regular vital mechanisms fail.[^15] This biomedical conception adheres to an “abstract, highly technical, impersonal”[^16] explanatory model, and provides the development of a specific analysis, etiology, and prognosis in order to re-establish the “proper functioning”[^17] of the organs involved. In addition to the diagnosis, biomedicine identifies the rational treatment of the disease: the patient will follow specific steps that will lead to the “regulation of the internal environment”[^18] and the re-stabilization of the regular parameters.
+Thus, the main assignment of clinical medicine becomes the diagnosis[^13] of the *disease*: the physical dimension of suffering. Diseases are mere facts of nature – “biological &#91;and&#93; universal”[^14] – that emerge when regular vital mechanisms fail.[^15] This biomedical conception adheres to an “abstract, highly technical, impersonal”[^16] explanatory model, and provides the development of a specific analysis, etiology, and prognosis in order to re-establish the “proper functioning”[^17] of the organs involved. In addition to the diagnosis, biomedicine identifies the rational treatment of the disease: the patient will follow specific steps that will lead to the “regulation of the internal environment”[^18] and the re-stabilization of the regular parameters.
 
 At this point in the argumentation, we are dealing with what a large part of medical anthropology that literature[^19] understands as a ‘dehumanizing’ turn of biomedicine: observing disease and health as empirical evidence of physical realities; the growing reductionism in medical approaches rejects all remaining dimensions of suffering experience itself. In this context, the human being is framed as a bare organic entity – not as a person, including the moral, existential, cultural, and political aspects of illness[^20] and health.
 

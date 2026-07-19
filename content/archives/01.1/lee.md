@@ -7,7 +7,7 @@ author: "Jonathan Scott Lee"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 09
 year: 1999
 ---
@@ -42,7 +42,7 @@ Updated 11|11|99.
 
 [^1]: Huston Smith, in conversation, 26 June 1990.
 
-[^2]: The translation here and throughout is that of A. H. Armstrong, in _Plotinus_, with an English translation by A. H. Armstrong, 6 vols. in 7 (Cambridge: Harvard University Press \[Loeb Classical Library\], 1966-1988).
+[^2]: The translation here and throughout is that of A. H. Armstrong, in _Plotinus_, with an English translation by A. H. Armstrong, 6 vols. in 7 (Cambridge: Harvard University Press &#91;Loeb Classical Library&#93;, 1966-1988).
 
 [^3]: For a useful review of the issues at stake in this controversy, see Donald Rothberg, 'Understanding Mysticism: Transpersonal Theory and the Limits of Contemporary Epistemological Frameworks,' _ReVISION_ 12, #2 (Fall 1989):5-21.
 
@@ -54,7 +54,7 @@ Updated 11|11|99.
 
 [^6]: Michael A. Sells, _Mystical Languages of Unsaying_ (Chicago: The University of Chicago Press, 1994), 231, note 31.
 
-[^7]:  I know of no better illustration of this philosophical tension than that found throughout the _Enneads_ of Plotinus. For example, in his important and rather early treatise, 'On the Good or the One' (_Ennead_ VI.9 \[9\]), we see this tension reflected in the deeply paradoxical status of 'centering.' On the one hand, it is clear here and throughout Plotinus' work that the moral impetus of his thought is towards a centering of the soul on the fundamental realities--ultimately the One itself--which already exist within it. Thus, in chapter 8 of VI.9, Plotinus compares the One to a center, around which souls and gods circle, and he then describes the goal of the individual soul as follows: '...we lift ourselves up by the part which is not submerged in the body and by this join ourselves at our own centers to something like the center of all things, just as the centers of the greatest circles join the center of the encompassing sphere, and we are at rest' (lines 18-22).[^2]
+[^7]:  I know of no better illustration of this philosophical tension than that found throughout the _Enneads_ of Plotinus. For example, in his important and rather early treatise, 'On the Good or the One' (_Ennead_ VI.9 &#91;9&#93;), we see this tension reflected in the deeply paradoxical status of 'centering.' On the one hand, it is clear here and throughout Plotinus' work that the moral impetus of his thought is towards a centering of the soul on the fundamental realities--ultimately the One itself--which already exist within it. Thus, in chapter 8 of VI.9, Plotinus compares the One to a center, around which souls and gods circle, and he then describes the goal of the individual soul as follows: '...we lift ourselves up by the part which is not submerged in the body and by this join ourselves at our own centers to something like the center of all things, just as the centers of the greatest circles join the center of the encompassing sphere, and we are at rest' (lines 18-22).[^2]
 
 [^7]: Ibid., 15.
 

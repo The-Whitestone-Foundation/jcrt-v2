@@ -22,6 +22,17 @@ tags:
   - existence
   - reversal
   - un-essence
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a two-part series.  The first segment was published on July 25, 2016 and [can be accessed here]( /religioustheory/posts/love-strong-as-death-jews-against-heidegger-on-the-issue-of-finitude-part-1-agata-bielik-robson/).*
 
@@ -37,7 +48,7 @@ We could thus sum up the confrontation between Heidegger and Rosenzweig on the i
 
 First, Heidegger. In the series of lectures composed in 1935 and then edited under the title *Introduction to Metaphysics*, Heidegger only confirms Blanchot’s suspicion as to the aporetic nature of death within his system. Here, he openly presents death as the *ultimate aporia*, by drawing on the original Greek meaning of the word as “no way-out,” “no exit,” the unsurpassable “blocking of the passage.” Man, who likes to see himself as *pantoporos*, the most resourceful creature which “begets in itself its own un-essence, the versatility (*Vielwendigkeit*) of many twists and turns,”[^4] deep down appears to be, in fact, *aporos*: a priori blocked and thwarted –
 
-There is only *one* thing against which all violence-doing \[of the *pantoporos* hubristic human *Dasein*\] directly shatters. That is death. It is an end beyond all completion, a limit beyond all limits. Here there is no breaking forth and breaking up, no capturing and subjugating. But this un-canny thing, which sets us simply and suddenly out from everything homely once and for all, is not a special event that must also be mentioned among others, because it, too, ultimately does occur. *The human being has no way out in the face of death, not only when it is time to die, but constantly and essentially*. Insofar as humans *are*, the stand in the no-exit of death (IM, 168-9; my emphasis).
+There is only *one* thing against which all violence-doing &#91;of the *pantoporos* hubristic human *Dasein*&#93; directly shatters. That is death. It is an end beyond all completion, a limit beyond all limits. Here there is no breaking forth and breaking up, no capturing and subjugating. But this un-canny thing, which sets us simply and suddenly out from everything homely once and for all, is not a special event that must also be mentioned among others, because it, too, ultimately does occur. *The human being has no way out in the face of death, not only when it is time to die, but constantly and essentially*. Insofar as humans *are*, the stand in the no-exit of death (IM, 168-9; my emphasis).
 
 For Rosenzweig, just like for Heidegger, human life is with no pre-established essence: indefinite, open, question-like. The latter, in the *Introduction to Metaphysics*, states firmly that “the determination of the essence of the human being is *never* an answer, but is essentially a question” (IM, 149). Yet, the two thinkers play it out very differently.
 
@@ -59,7 +70,7 @@ When commenting on affinities and divergences between Rosenzweig and Heidegger, 
 
 True, but this eternal completion (which can never be attained by man, the self-contradicting *pantoporos aporos*, in Heidegger) is possible only on the grounds of the more fundamental form of infinity which plays itself out in human life, despite its finitude. We may call it *in/de/finity* or even *infinitiveness* (deriving from the grammatical concept of the infinitive which alludes to the potentially infinite uses into which the verb may be put): the peculiar condition of human life which refuses the be concrete ‘something” without actually slipping into a lethal “nothing” or the Blanchotian “unreality” –
 
-> …we must daringly seize upon a life which is content to be an in-between state, merely a transition from one thing to another. Let us reject the ever-present answer, “Life is,” “Man is – ” and let us become part of the onward-moving life of man. Here life “is” not, it simply occurs \[*geshieht*\] (USH, 80).
+> …we must daringly seize upon a life which is content to be an in-between state, merely a transition from one thing to another. Let us reject the ever-present answer, “Life is,” “Man is – ” and let us become part of the onward-moving life of man. Here life “is” not, it simply occurs &#91;*geshieht*&#93; (USH, 80).
 
 This is an outright apology of the inessential life: something very adversarial to Heidegger, who called it a wrong type of “un-essence,” superficial and resourceful as Odysseus (to whom this phrase originally refers) and as such incapable to plunge metaphysically into the abysses of Being.
 

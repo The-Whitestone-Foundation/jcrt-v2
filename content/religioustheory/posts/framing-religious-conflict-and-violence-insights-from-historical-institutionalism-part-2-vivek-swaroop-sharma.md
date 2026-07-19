@@ -24,6 +24,37 @@ tags:
   - political
   - religion
   - communal
+subjects:
+  - label: "Economics"
+    scheme: "FAST"
+    identifier: "fst00902116"
+    uri: "https://id.worldcat.org/fast/902116"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Violence"
+    scheme: "FAST"
+    identifier: "fst01167224"
+    uri: "https://id.worldcat.org/fast/1167224"
+    category: "topical"
 ---
 *The following is the second installment of a two-part series.  The first installment can be found [here]( /religioustheory/posts/framing-religious-conflict-and-violence-insights-from-historical-institutionalism-part-1-vivek-swaroop-sharma/).*
 

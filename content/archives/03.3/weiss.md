@@ -8,13 +8,13 @@ author: "Dennis M Weiss"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2002
 ---
 Weiss - Review of In Our Image - JCRT 3.3 
 
-# In Our Image
+## In Our Image
 
 a review of Noreen Herzfeld, _[In Our Image: Artificial Intelligence and the Human Spirit](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0800634764&bfmtype=book)_. Fortress Press, 2002. 135 pp. $16.00. ISBN: 0800634764
 
@@ -27,11 +27,11 @@ In her 1997 sociological study of cyberculture and identity formation entitled _
 
 > ...Cog "noticed" me soon after I entered its room. Its head turned to follow me and I was embarrassed to note that this made me happy. I found myself competing with another visitor for its attention. At one point, I felt sure that Cog's eyes had "caught" my own. My visit left me shaken'not by anything that Cog was able to accomplish but by my own reaction to "him." For years whenever I had heard Rodney Brooks speak about his robotic "creatures," I had always been careful to mentally put quotation marks around the word. But now, with Cog, I had found the quotation marks had disappeared. Despite myself and despite my continuing skepticism about this research project, I had behaved as though in the presence of another being. (266)
 
-    > Thus we find in the quest for AI support for the view that it is in our relationships that we find the center of the human, and, this, the image of God....We tend to identify with our minds, but we have come to recognize that those minds, visible in what we say or do, are formed in community and expressed in community. Rationality or intelligence, by itself, is not the defining characteristic of being human. It cannot, in fact, be captured as an isolated quality. We are relational beings; we give expression to our recognition of that fact in our search for AI. (51-52)
+> Thus we find in the quest for AI support for the view that it is in our relationships that we find the center of the human, and, this, the image of God....We tend to identify with our minds, but we have come to recognize that those minds, visible in what we say or do, are formed in community and expressed in community. Rationality or intelligence, by itself, is not the defining characteristic of being human. It cannot, in fact, be captured as an isolated quality. We are relational beings; we give expression to our recognition of that fact in our search for AI. (51-52)
 
-     > If the stories we tell in science fiction are an accurate indication of the general public's hopes and fears for artificial intelligence, they tell us that we seek artificial intelligence for its relational potential rather than merely its rational or functional potentials. This is congruent with Barth's interpretation of humans as relational beings...We are most human when we are engaged in encounter with an other. (66-67)
+> If the stories we tell in science fiction are an accurate indication of the general public's hopes and fears for artificial intelligence, they tell us that we seek artificial intelligence for its relational potential rather than merely its rational or functional potentials. This is congruent with Barth's interpretation of humans as relational beings...We are most human when we are engaged in encounter with an other. (66-67)
 
-     > Brooks and Breazeal are imagining...a feedback loop in which humans and machines constantly modify one another. As such, their work has moved beyond the challenge of simply engineering better robots'they are also engineering a new kind of social relationship. "Kismet was designed to be a human-robot system, not just a robot," explains Breazeal.
+> Brooks and Breazeal are imagining...a feedback loop in which humans and machines constantly modify one another. As such, their work has moved beyond the challenge of simply engineering better robots'they are also engineering a new kind of social relationship. "Kismet was designed to be a human-robot system, not just a robot," explains Breazeal.
 
 * * *
 
@@ -53,13 +53,9 @@ In her 1997 sociological study of cyberculture and identity formation entitled _
 
 > **Dennis Weiss** is editor of _Interpreting Man_ (Davies Publishing Group 2002) and associate professor of philosophy and departmental chair at York College of Pennsylvania.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Dennis Weiss. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Dennis Weiss. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/weiss](https://jcrt.org/archives/03.3/weiss/)
 
@@ -83,7 +79,7 @@ Updated 07/28/21.
 
 [^12]:  Herzfeld criticizes proponents of cybernetic immortality, such as Hans Moravec and Ray Kurzweil, both of whom look forward to a time when human beings can download their consciousness into cyberspace, for their inadequate conceptions of human nature and immortality. Visions of downloaded minds living an eternity in cyberspace, are dualistic and dismissive of the importance of the human body. Yet Herzfeld argues our finite bodies are an integral part of who we are. "The essential nature of the human being always contains two inseparable elements, self-transcending mind and finite creaturely being" (74). Furthermore, such visions of immortality define the everlasting as simply more time on this earth, rather than as an eternity outside of the spatiotemporal framework. Herzfeld is also critical of our growing reliance on technology and our willingness to cede our responsibility to computers. "When we remove ourselves from the loop, we become slaves to our machines, acting on their behest and not our own. Yet, as the story of the fall makes clear, we remain responsible before God for our decisions, even when they were suggested to us by another. If dominion over nature is a part of our imaging of God, we must ensure that we remain in control of and take responsibility for that dominion" (79). Finally, the desire to create something nonhuman with which we can relate, to the extent that such a desire is driven by feelings of isolation and solitude, fails to take significantly the relational nature of human beings and our relation to God, and replaces relationship with God with relationship with our own artifacts, a form of idolatry (83).
 
-[^13]:  The final chapter of _In Our Image_ builds on the relational view of _imago Dei_ to pose the question of how we ought to understand our relationship to computers. To address this issue, Herzfeld develops several implications of the relational understanding of the image of God. First there is the recognition that Being is at root relational and that relationship with God is the _sine qua non_ of our very being (86). Secondly, if Being is at root relational, then there is no such thing as a self-sufficient individual. The autonomous self is an illusion. "...\[O\]ur potential for growth and wisdom, even in spiritual life, comes not from some latent power within ourselves, but from the life constituted by relationship with God and with others" (88). Finally there is a recognition of the interdependence of all living beings. There is no essential difference between humans and other creatures and no separation of humans from nature.
+[^13]:  The final chapter of _In Our Image_ builds on the relational view of _imago Dei_ to pose the question of how we ought to understand our relationship to computers. To address this issue, Herzfeld develops several implications of the relational understanding of the image of God. First there is the recognition that Being is at root relational and that relationship with God is the _sine qua non_ of our very being (86). Secondly, if Being is at root relational, then there is no such thing as a self-sufficient individual. The autonomous self is an illusion. "...Our potential for growth and wisdom, even in spiritual life, comes not from some latent power within ourselves, but from the life constituted by relationship with God and with others" (88). Finally there is a recognition of the interdependence of all living beings. There is no essential difference between humans and other creatures and no separation of humans from nature.
 
 [^14]:  What are the implications of a relational understanding of _imago Dei_ for our relationship with computers? Herzfeld suggests that computers cannot enter into authentic relationship with human beings for they lack a common ground on which to meet. Herzfeld characterizes authentic encounter between humans as occurring when we "speak to that of God" in the other, which provides the "basis for a mutual self-disclosure and aid that can be understood and accepted. Without this ground, words will not reach their goal; actions, even aid, will be ultimately egoistic" (91). Herzfeld does borrow from the Rule of St. Benedict to suggest some guidelines for interacting with computers, including not subordinating human-human relationship to human-material relationships, recognizing that human-computer relationships are a poor substitute for more authentic relationships, and treating all tools and goods with respect.
 

@@ -21,6 +21,17 @@ tags:
   - trauma
   - psychoanalysis
   - public
+subjects:
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 Nietzsche’s advice to young authors was to never admit error, for our critics will neither give an inch nor forgive our humility in siding against ourselves. The aphorism’s *hubris* stands in stark contrast to the insecurity all -too-commonly felt when publishing for the first time.
 
@@ -38,9 +49,9 @@ The truth, of course, is that the book was a result of much more than I will eve
 
 In a sense, that conference title, “Taking Lacan Public,” served as a reference point for the year since. Of all my novice fears, the only one that seems to have been realized was that my book was incredibly dense, even inaccessibly so. Those who’ve read even a single page of Lacan will know that even secondary texts, those introductions taking the difficulty down a few notches, can still be more obscure than nearly any other discipline’s literature. So if the critique was that my book was opaque, and if I am so deeply and personally invested in this theory, my next book will attempt to put the basics of psychoanalytic thought into a format even more publicly accessible.
 
-The difficulty was not unforeseen, for as Lacan famously told us, “I did not write \[*É**crits*\] in order for people to understand them, I wrote them in order for people to read them. Which is not even remotely the same thing . . . People don’t understand anything, that is perfectly true, for a while, but the writings do something to them.”[^2] I began my book with this line, and with it I perhaps betray the master.
+The difficulty was not unforeseen, for as Lacan famously told us, “I did not write &#91;*É**crits*&#93; in order for people to understand them, I wrote them in order for people to read them. Which is not even remotely the same thing . . . People don’t understand anything, that is perfectly true, for a while, but the writings do something to them.”[^2] I began my book with this line, and with it I perhaps betray the master.
 
-As I myself put it, “When someone worth listening to speaks, the word will be cryptic enough to be meaningful, which is to say it will be cryptic enough to be misinterpreted.”[^3] People find meaning in a text that the author never intended, for better or worse. Lacan had a conflicted relationship with orthodoxy, for while he adamantly claimed a superior understanding of Freud and demanded a theoretical adherence, he also had this to say: “One remains true to \[orthodoxy\] because one has nothing to say about the doctrine itself.”[^4] Taking Lacan public risks betraying the master, truncating the theory and diminishing is capacities, but it is a risk that we, as teachers, must always take. The teacher risks transgressing another Nietzschean aphorism, which says that the worst readers are plundering soldiers who pluck their valuables, confuse the rest, and thus blaspheme the entire work.
+As I myself put it, “When someone worth listening to speaks, the word will be cryptic enough to be meaningful, which is to say it will be cryptic enough to be misinterpreted.”[^3] People find meaning in a text that the author never intended, for better or worse. Lacan had a conflicted relationship with orthodoxy, for while he adamantly claimed a superior understanding of Freud and demanded a theoretical adherence, he also had this to say: “One remains true to &#91;orthodoxy&#93; because one has nothing to say about the doctrine itself.”[^4] Taking Lacan public risks betraying the master, truncating the theory and diminishing is capacities, but it is a risk that we, as teachers, must always take. The teacher risks transgressing another Nietzschean aphorism, which says that the worst readers are plundering soldiers who pluck their valuables, confuse the rest, and thus blaspheme the entire work.
 
 Yet a terrible method of reading is precisely required of the teacher, who is always constrained (by time, syllabi, and attention spans) to plundering insights. Just as any decent pedagogue knows, the analyst’s discourse is one that guards *against* too much information-transfer and instead incites the desire of the analysand and student alike to explore further. If all my work does nothing more than inciting a reader’s desire to interrogate the unconscious, I would consider the effort a success.
 

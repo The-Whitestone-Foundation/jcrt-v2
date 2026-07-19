@@ -22,6 +22,17 @@ tags:
   - significance
   - supernatural
   - normative
+subjects:
+  - label: "Supernatural"
+    scheme: "FAST"
+    identifier: "fst01138960"
+    uri: "https://id.worldcat.org/fast/1138960"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The Sense of “miracle” That Matters
 
@@ -57,7 +68,7 @@ Rather, he means that the new usage is insignificant within the religious contex
 
 Phillips uses John Perry’s example of a miracle as a foil for assessing the debate over whether religious propositions can be objectively proved. For Perry is engaged in the same dialectical debate as Hume. Perry asks us to suppose that an individual witnesses the gentle rising and setting back of the Rock of Gibraltar “for no apparent reason.”[^5] Phillips comments that by “no apparent reason”
 
-\[Perry\] means that no causal explanation has been found for it rising. He does not mean that God has done it for no apparent reason, but for all he says about the religious significance of the miracle, Perry’s character could be read in this way. He has no idea what it means to attribute the miracle to God. But, then, how does he know he is describing a miracle? Apparently, because he thinks it makes sense to do so. But what *sense* is that? Where does Perry’s character get it from? Certainly, not from religion.[^6]
+&#91;Perry&#93; means that no causal explanation has been found for it rising. He does not mean that God has done it for no apparent reason, but for all he says about the religious significance of the miracle, Perry’s character could be read in this way. He has no idea what it means to attribute the miracle to God. But, then, how does he know he is describing a miracle? Apparently, because he thinks it makes sense to do so. But what *sense* is that? Where does Perry’s character get it from? Certainly, not from religion.[^6]
 
 Phillips’ point is not merely that the meaning of “miracle” is insignificant within a religious context. Philips is also stressing a dialectical point. Applying the religious term “miracle” outside of its normal religious context—say, to denote unexplained events, like the rising and setting back of the Rock of the Gibraltar—fails for the philosopher’s dialectical purpose of assessing whether miracles can provide a just foundation for religion. For unless a religious reason is given for the rising and setting back of the Rock of Gibraltar, we cannot properly call this event a *religious* miracle; ipso facto, the event cannot serve as a just foundation for a system of religion.
 

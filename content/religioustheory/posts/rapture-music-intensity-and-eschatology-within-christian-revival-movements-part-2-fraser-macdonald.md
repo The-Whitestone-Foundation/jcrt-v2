@@ -22,6 +22,17 @@ tags:
   - intensity
   - musical
   - revival
+subjects:
+  - label: "Anthropology of religion"
+    scheme: "FAST"
+    identifier: "fst01738842"
+    uri: "https://id.worldcat.org/fast/1738842"
+    category: "topical"
+  - label: "Music"
+    scheme: "FAST"
+    identifier: "fst01030269"
+    uri: "https://id.worldcat.org/fast/1030269"
+    category: "topical"
 ---
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/rapture-music-intensity-and-eschatology-within-christian-revival-movements-part-1-fraser-macdonald/). The full article is also available in the Spring 2022 issue of the* [*Journal for Cultural and Religious Theory*](https://jcrt.org/archives/21.2/)*.*
 

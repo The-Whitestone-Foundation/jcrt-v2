@@ -17,6 +17,22 @@ tags:
   - religious
   - story
   - postmodernism
+subjects:
+  - label: "Judaism"
+    scheme: "FAST"
+    identifier: "fst00984280"
+    uri: "https://id.worldcat.org/fast/984280"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the last of a four-part series. The first can be found [here]( /religioustheory/posts/tsimtsum-in-life-of-pi-part-1-daniel-reiser/)*, *the second [here]( /religioustheory/posts/tsimtsum-in-life-of-pi-part-2-daniel-reiser/)*, *the third [here]( /religioustheory/posts/tsimtsum-in-life-of-pi-part-3-daniel-reiser/).*
 
@@ -98,7 +114,7 @@ Western cultures, both religious and secular alike, are founded on the Platonic 
 
 The particularistic outlook of Judaism, the religion of the “chosen people,” paradoxically allows for difference. This construct, which has been subject to much criticism, does not imply a racial or discriminatory preference.[^27] The person who elects to marry the love of his life does not claim, in doing so, that other women are less intelligent, beautiful, or inferior in some other way. Countless others share, or even exceed, her particular qualities. One’s spouse is not superior to others, yet she is “chosen,” bound together by an intimate tie.
 
-The Jewish people relate to their religion and tradition in much the same way. The Sabbath, for instance, is viewed as an intimate bond between God and the Jewish people. The Torah declares that “\[the Sabbath\] will be a sign between me and the Israelites forever,” (Exodus 31:17) implying that those outside of the collective category of Israel are not obligated in its observance. This model leads to the formation of Jewish values and truths which the rest of humanity are not obligated to accept, and Judaism does not impose its intimate practices on others. This is the secret of difference:
+The Jewish people relate to their religion and tradition in much the same way. The Sabbath, for instance, is viewed as an intimate bond between God and the Jewish people. The Torah declares that “&#91;the Sabbath&#93; will be a sign between me and the Israelites forever,” (Exodus 31:17) implying that those outside of the collective category of Israel are not obligated in its observance. This model leads to the formation of Jewish values and truths which the rest of humanity are not obligated to accept, and Judaism does not impose its intimate practices on others. This is the secret of difference:
 
 The Jew sanctifies Saturday, the Muslim Friday, and the Christian Sunday, and the Jewish people do not seek to impose their lifestyle on others in the name of any “truth.” Particularism, which certain modern European outlooks transformed into a violent nationalism, originated in Judaism as a value of tolerance, acceptance, and inclusion.
 
@@ -132,7 +148,7 @@ Pi Patel offers two ways of grappling with suffering, derived from the dual inte
 
 [^2]: Zeitlin, *Hasidic Spirituality for a New Era*, 131.
 
-[^3]: That is to say, religious practice is compared to a zoo cage. On the one hand, it is restrictive while, on the other hand, it provides tranquility and security. The unleashed and undefined life, by contrast, is ostensibly free, yet Pi brings two argument against this freedom: (1) This is an illusory freedom as frameworks of social hierarchy continue to bind the person, who will never be truly free; (2) This freedom withholds from a person calm and security in both time and space, negating any freedom. This approach finds expression in a poem of R. Judah Halevi, “Servants of Time”: “Servants of time are servants of servants / Only God’s servant is free / Therefore, when every human being requests their portion / my heart says: May God Himself be my share.” (Franz Rosenzweig, *Ninety-Two Poems and Hymns of Yehuda Halevi*, trans. Thomas Kovach, Eva Jospe, and Gilya Gerda Schmidt \[Albany: SUNY Press, 2000\], 124). Dostoevsky takes the question of freedom and religious framework to an extreme. In a phenomenological account, he describes how the church executed Jesus because the latter’s call for freedom posed a danger to humanity. See Fyodor Dostoevsky, “The Grand Inquisitor,” in idem., *The Brothers Karamozov*, trans. Richard Pevear and Larissa Volokhonsky (New York and Toronto: Everyman’s Library, 1992), 246-264.
+[^3]: That is to say, religious practice is compared to a zoo cage. On the one hand, it is restrictive while, on the other hand, it provides tranquility and security. The unleashed and undefined life, by contrast, is ostensibly free, yet Pi brings two argument against this freedom: (1) This is an illusory freedom as frameworks of social hierarchy continue to bind the person, who will never be truly free; (2) This freedom withholds from a person calm and security in both time and space, negating any freedom. This approach finds expression in a poem of R. Judah Halevi, “Servants of Time”: “Servants of time are servants of servants / Only God’s servant is free / Therefore, when every human being requests their portion / my heart says: May God Himself be my share.” (Franz Rosenzweig, *Ninety-Two Poems and Hymns of Yehuda Halevi*, trans. Thomas Kovach, Eva Jospe, and Gilya Gerda Schmidt &#91;Albany: SUNY Press, 2000&#93;, 124). Dostoevsky takes the question of freedom and religious framework to an extreme. In a phenomenological account, he describes how the church executed Jesus because the latter’s call for freedom posed a danger to humanity. See Fyodor Dostoevsky, “The Grand Inquisitor,” in idem., *The Brothers Karamozov*, trans. Richard Pevear and Larissa Volokhonsky (New York and Toronto: Everyman’s Library, 1992), 246-264.
 
 [^4]: Such statements of defense are found in Jewish philosophy of the twentieth century (for good reason! For they are responding to the criticism of religion and secularism that spouted during the late nineteenth and twentieth centuries, not to classic criticisms of religion), primarily in the writings of R. Joseph B. Soloveitchik, such as his *Halakhic Man*, and Abraham Joshua Heschel in his *God in Search of Man*. R. Soloveitchik writes, at the beginning of *Halakhic Man*, that “It is not the plan of this essay to discuss the millennium-old problem of faith and reason. Theory is not my concern at the moment. I want instead to focus attention on a human life situation in which the man of faith as an individual concrete being, with his cares and hopes, concerns and needs, joys and sad moments, is entangled.” This is not a book concerned with theological axioms. It is interested, rather, in the character of religion in the deepest sense. It commends the “religious man,” with his humility, modesty, etc., in contrast to the “secular man,” while demonstrating they both dwell together in dialectical tension within the human soul. Heschel’s book, meanwhile, takes a different approach in its condemnation of secular man who has forsaken the sense of amazement and attentiveness to the mystery and wonder of the world.
 
@@ -144,11 +160,11 @@ Pi Patel offers two ways of grappling with suffering, derived from the dual inte
 
 [^8]: R. Nahman of Bratslav, *Likkutei Moharan*, vol. 1, §133.
 
-[^9]: Jean-François Lyotard, *The Postmodern Condition: A Report on Knowledge*, trans. Geoff Bennington and Brian Massumi (Minneapolis, MI: University of Minnesota Press, 1984), xxiii-xxv; Eliezer Schweid, *New Gordonian Essays: Globalization, Post-Modernism, Post-Humanism and the Jewish People* (Tel Aviv, Hakibbutz Hameuchad, 2005), 11-16 \[Hebrew\]. Adi Ophir formulates nine negative defining characteristics of postmodernism: (1) There is no transcendental viewpoint; (2) There is no valid process of a priori judgement; (3) There is no ultimate meaning, etc., Adi Ophir, “Postmodernism: Emdah Filosofit,” in Ilav Gur-Ze’ev (ed.), *Education in the Era of Postmodern Discourse* (Jerusalem: Magnes, 1996), 135-163 \[Hebrew\].
+[^9]: Jean-François Lyotard, *The Postmodern Condition: A Report on Knowledge*, trans. Geoff Bennington and Brian Massumi (Minneapolis, MI: University of Minnesota Press, 1984), xxiii-xxv; Eliezer Schweid, *New Gordonian Essays: Globalization, Post-Modernism, Post-Humanism and the Jewish People* (Tel Aviv, Hakibbutz Hameuchad, 2005), 11-16 &#91;Hebrew&#93;. Adi Ophir formulates nine negative defining characteristics of postmodernism: (1) There is no transcendental viewpoint; (2) There is no valid process of a priori judgement; (3) There is no ultimate meaning, etc., Adi Ophir, “Postmodernism: Emdah Filosofit,” in Ilav Gur-Ze’ev (ed.), *Education in the Era of Postmodern Discourse* (Jerusalem: Magnes, 1996), 135-163 &#91;Hebrew&#93;.
 
 [^10]: See above, -.
 
-[^11]: See Ilan Gur-Ze’ev, *Toward a Diaspora Education: Multi-Culturalism, Post-Colonialism and Counter-Education in a Post-Modern Era* (Tel Aviv: Resling, 2004), 16-20 \[Hebrew\]; Rabbi Shagar \[Shimon Gershon Rosenberg\], *Faith Shattered and Restored: Judaism in the Postmodern Age*, trans. Elie Leshem (Jerusalem: Maggid Books, 2017), 97-99.
+[^11]: See Ilan Gur-Ze’ev, *Toward a Diaspora Education: Multi-Culturalism, Post-Colonialism and Counter-Education in a Post-Modern Era* (Tel Aviv: Resling, 2004), 16-20 &#91;Hebrew&#93;; Rabbi Shagar &#91;Shimon Gershon Rosenberg&#93;, *Faith Shattered and Restored: Judaism in the Postmodern Age*, trans. Elie Leshem (Jerusalem: Maggid Books, 2017), 97-99.
 
 [^12]: Ibid., 111. Regarding postmodern trends in Judaism including in R. Shagar’s and Tamar Ross’s theology see, Miriam Kaye, *Jewish theology for a Postmodern Age* (London: The Littman Library of Jewish Civilization in association with Liverpool University Press, 2019); Hava Tirosh-Samuelson, Aaron W. Hughes (eds.), *Tamar Ross: Constructing Faith* (Leiden and Boston: Brill, 2016).
 
@@ -158,7 +174,7 @@ Pi Patel offers two ways of grappling with suffering, derived from the dual inte
 
 [^15]: Ibid., 114-115
 
-\[italics in original\]
+&#91;italics in original&#93;
 
 .
 
@@ -166,7 +182,7 @@ Pi Patel offers two ways of grappling with suffering, derived from the dual inte
 
 [^17]: There are of course particularistic trends in Judaism that consider it a higher truth and Jews ontologically superior, such as R. Judah Halevi and R. Shneur Zalman of Lyady, who are mentioned throughout this paper. Therefore it must be noted that I am referring to “traditional Halakhic Judaism,” namely rabbinic Judaism as it has developed from the time of the Rabbis (*Hazal*, 250 BCE – 625 CE) to the halakhic decisors of our present day.   
 
-[^18]: R. Shmuel Eliezer Eidels, *Hidushei Maharsh”a*, vol. 1 on b.Hulin 106a; R. Menahem Meiri (on b.Hulin 13 s.v. “ha-Mishna ha-Shishit”) states: “You learn \[from here\] that it is permitted at the outset to cook, on behalf of a gentile, a meal of pork prepared in milk.”; R. Shimon ben Tsemah, *Shu”t ha-Tashbe”ts*, vol. 3, §294; R. Yehudah Asad, *Shu”t Yehudah Ya’aleh*, *Yorah De’ah* § 148; R. Aryeh Leibush Balhuver, *Shem Aryeh*, *Yorah De’ah* § 26; R. Yo’av Yehoshua Weingarten, *Helkat Yo’av*, *Yorah De’ah* § 18.
+[^18]: R. Shmuel Eliezer Eidels, *Hidushei Maharsh”a*, vol. 1 on b.Hulin 106a; R. Menahem Meiri (on b.Hulin 13 s.v. “ha-Mishna ha-Shishit”) states: “You learn &#91;from here&#93; that it is permitted at the outset to cook, on behalf of a gentile, a meal of pork prepared in milk.”; R. Shimon ben Tsemah, *Shu”t ha-Tashbe”ts*, vol. 3, §294; R. Yehudah Asad, *Shu”t Yehudah Ya’aleh*, *Yorah De’ah* § 148; R. Aryeh Leibush Balhuver, *Shem Aryeh*, *Yorah De’ah* § 26; R. Yo’av Yehoshua Weingarten, *Helkat Yo’av*, *Yorah De’ah* § 18.
 
 [^19]: R. Joseph Karo, *Shulhan Arukh*, *Orah Hayyim* §440, section 3. See the gloss of the *Mishna Berurah*, ibid., as well. A Jew is all the more so permitted to serve a non-Jew leaven in the latter’s house. See R. Joseph Molkho, *Shulhan Gavo’ah*, *Orah Hayyim* §440, section 11.
 
@@ -174,7 +190,7 @@ Pi Patel offers two ways of grappling with suffering, derived from the dual inte
 
 [^21]: It was in response to this accusation that R. Judah Halevi authored his *The Book of Proof and Evidence in Support of the Abased Religion*, known as the *Kuzari*. Not only does this work not refute the allegation of Judaism’s particularistic nature, the book’s first treatise transforms this “shortcoming” into an advantage by claiming that only a particularistic revelation—such as God’s revelation at Mount Sinai to the entire Jewish people—may be verified by reason.
 
-[^22]: On the universal aspects of Judaism, see Jacob Neusner, *Recovering Judaism: The Universal Dimension of Judaism* (Minneapolis, MN.: Fortress Press, 2001); Leo Schaya, *Universal Aspects of the Kabbalah and Judaism* (Bloomington, IN: World Wisdom, 2014); Elisabeth Goldwyn, “The Universal Mission of the Jewish People in the Thought of Emmanuel Levinas,” *Iyunim: Multidisciplinary Studies in Israeli and Modern Jewish Society* 18 (2008): 79-98 \[Hebrew\]. See below, in the following note.
+[^22]: On the universal aspects of Judaism, see Jacob Neusner, *Recovering Judaism: The Universal Dimension of Judaism* (Minneapolis, MN.: Fortress Press, 2001); Leo Schaya, *Universal Aspects of the Kabbalah and Judaism* (Bloomington, IN: World Wisdom, 2014); Elisabeth Goldwyn, “The Universal Mission of the Jewish People in the Thought of Emmanuel Levinas,” *Iyunim: Multidisciplinary Studies in Israeli and Modern Jewish Society* 18 (2008): 79-98 &#91;Hebrew&#93;. See below, in the following note.
 
 [^23]: Judaism identifies the covenant of Noah as a link between God and humanity, while the Jewish people are bound by the covenant of Abraham. The Noahide code consists of seven universal laws which enable each community to develop its own legal system and mode of worship. See Elijah Benamozegh, *Israel and Humanity*, trans. Maxwell Luria (Mahwah, NY: Paulist Press, 1995), 253-284; Novak, David, *The Image of the Non-Jew in Judaism: A Historical and Constructive Study of the Noahide Laws* (New York: E. Mellen Press, 1983); idem., *Natural Law in Judaism* (Cambridge and New York: Cambridge University Press, 1998).
 
@@ -184,15 +200,15 @@ Pi Patel offers two ways of grappling with suffering, derived from the dual inte
 
 [^26]: Heschel, *God in Search of Man*, 15.
 
-[^27]: See Eliezer Schweid, *Homeland and a Land of Promise* (Tel Aviv: Am Oved, 1979), 59-60 \[Hebrew\].
+[^27]: See Eliezer Schweid, *Homeland and a Land of Promise* (Tel Aviv: Am Oved, 1979), 59-60 &#91;Hebrew&#93;.
 
 [^28]: Isaac Abarbanel, *Rosh Amanah*, chapter 23; R. David ben Zimra, *Shu”t* *ha-Radba”z*, vols. 1-3, §344; Moses Mendelssohn, *Jerusalem: Or on Religious Power and Judaism*, trans. Allan Arkush (Waltham, MA: Brandeis University Press, 1983), 100-101; R. Samson Raphael Hirsch, *The Nineteen Letters*, trans. Karin Paritsky (New York: Feldheim Publishers, 1995), 200-207; Menachem Kellner, *Must a Jew Believe Anything?*, 2nd edition (Oxford: Littman Library of Jewish Civilization, 2006); Leora Batnitzky, *How Judaism Became a Religion: An Introduction to Modern Jewish Thought* (Princeton: Princeton University Press, 2013).
 
-[^29]: Maimonides’ thirteen principles, laid out in his commentary to the Mishnah, are rendered into English in J. Abelson, “Maimonides on the Jewish Creed,” *The* *Jewish Quarterly Review* 19, no. 1 (Oct., 1906): 24-58. For the Islamic influence on Maimonides, see Sarah Stroumsa, *Maimonides in His World: Portrait of a Mediterranean Thinker* (Princeton: Princeton University Press, 2009), 24-83, esp. 68-71; idem., “Was Maimonides an Almohad Thinker,” in Daniel Lasker and Haggai Ben-Shammai (eds.), *Alei Asor: Proceedings of the Tenth Conference of the Society for Judaeo-Arabic Studies* (Beer-Sheva: Ben-Gurion University of the Negev Press, 2008), 151-171 \[Hebrew\]; George F. Hourani, “Maimonides and Islam,” in William M. Brinner and Stephen D. Ricks (eds.), *Studies in Islamic and Judaic Traditions: Papers Presented at the Institute for Islamic-Judaic Studies, University of Denver* (Atlanta: Scholars Press, 1986), 153-166.
+[^29]: Maimonides’ thirteen principles, laid out in his commentary to the Mishnah, are rendered into English in J. Abelson, “Maimonides on the Jewish Creed,” *The* *Jewish Quarterly Review* 19, no. 1 (Oct., 1906): 24-58. For the Islamic influence on Maimonides, see Sarah Stroumsa, *Maimonides in His World: Portrait of a Mediterranean Thinker* (Princeton: Princeton University Press, 2009), 24-83, esp. 68-71; idem., “Was Maimonides an Almohad Thinker,” in Daniel Lasker and Haggai Ben-Shammai (eds.), *Alei Asor: Proceedings of the Tenth Conference of the Society for Judaeo-Arabic Studies* (Beer-Sheva: Ben-Gurion University of the Negev Press, 2008), 151-171 &#91;Hebrew&#93;; George F. Hourani, “Maimonides and Islam,” in William M. Brinner and Stephen D. Ricks (eds.), *Studies in Islamic and Judaic Traditions: Papers Presented at the Institute for Islamic-Judaic Studies, University of Denver* (Atlanta: Scholars Press, 1986), 153-166.
 
 [^30]: See above, note 105.
 
-[^31]: Moshe Idel, “On Three Models of Faith in Judaism,” *Identities* 2 (2013): 15-16 \[Hebrew\].
+[^31]: Moshe Idel, “On Three Models of Faith in Judaism,” *Identities* 2 (2013): 15-16 &#91;Hebrew&#93;.
 
 [^32]: The classic work on biblical theology is Yehezkel Kaufmann, *The Religion of Israel: From its Beginnings to the Babylonian Exile*, trans. Moshe Greenberg (Chicago: University of Chicago Press, 1960). For rabbinic theology, see Efraim Elimelech Urbach, *The Sages, Their Concepts and Beliefs*, trans. Israel Abrahams (Jerusalem: Magnes, 1975).
 

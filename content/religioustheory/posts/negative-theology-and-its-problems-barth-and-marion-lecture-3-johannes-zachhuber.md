@@ -24,6 +24,32 @@ tags:
   - theological
   - revelation
   - religion
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Revelation"
+    scheme: "FAST"
+    identifier: "fst01096460"
+    uri: "https://id.worldcat.org/fast/1096460"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the third lecture in an eight-lecture series.* 
 
@@ -51,7 +77,7 @@ Theology, he would urge, is not theology if it does not think God. We can see he
 
 Second, for the moment it is more important that even the dialectical Barth saw thinking about God as the task of theology. Yet the way he conceived of that task was almost entirely formed by the terms of Kant’s critical epistemology. Barth completely agreed with the emphasis of the *Critique of Pure Reason* on divine transcendence and the impossibility to reach God through the means of our own cognition. Consider the following quotation from *Romans*:
 
-> Being what we are, human beings in the world, we cannot hope to have escaped the ‘religious possibility.’ &hellip; We may storm from one room into another, but not out of the house into the open. We may understand, however, that even this final, inescapable possibility \[i.e. religion\] is, even in its most daring, most acute, strongest, “most impossible” variants a human possibility…
+> Being what we are, human beings in the world, we cannot hope to have escaped the ‘religious possibility.’ &hellip; We may storm from one room into another, but not out of the house into the open. We may understand, however, that even this final, inescapable possibility &#91;i.e. religion&#93; is, even in its most daring, most acute, strongest, “most impossible” variants a human possibility…
 
 There are three statements contained in this quotation, and these may be said to be pure Kantianism: first, human beings cannot get beyond the limit that is set to their cognitive capacities. Secondly, we therefore have to confine ourselves to the realm of experience. But thirdly, we are able at least to appreciate that this is our situation, we are, that is, capable of an epistemological critique of our religion. Barth’s theological reappraisal of the need to bring God back into the centre of theology is, then, in its first form strongly influenced by Kant’s epistemic challenge to theology.
 

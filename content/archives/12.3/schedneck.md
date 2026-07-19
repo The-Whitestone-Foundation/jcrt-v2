@@ -18,4 +18,20 @@ issue: 3
 season: spring
 year: 2013
 pages: 36-54
+subjects:
+  - label: "Asia"
+    scheme: "FAST"
+    identifier: "fst01240495"
+    uri: "https://id.worldcat.org/fast/1240495"
+    category: "geographic"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

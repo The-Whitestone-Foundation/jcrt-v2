@@ -14,6 +14,22 @@ slug: review-genealogies-of-mahayana-buddhism-ananda-abeysekara
 tags:
   - theoryPosts
   - buddhism
+subjects:
+  - label: "Buddhism"
+    scheme: "FAST"
+    identifier: "fst00840028"
+    uri: "https://id.worldcat.org/fast/840028"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 Joseph Walser, _Genealogies of Mahāyāna Buddhism: Emptiness, Power, and the Question of Origin_. Oxford and New York: Routledge, 2018. 288 pages. IBSN: 978-1-13-895556-1.
 

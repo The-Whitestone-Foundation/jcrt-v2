@@ -17,4 +17,15 @@ issue: 3
 season: fall
 year: 2019
 pages: 492-507
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Theology Philosophy"
+    scheme: "FAST"
+    identifier: "fst01149584"
+    uri: "https://id.worldcat.org/fast/1149584"
+    category: "topical"
 ---

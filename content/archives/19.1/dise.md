@@ -18,4 +18,15 @@ issue: 1
 season: winter
 year: 2020
 pages: 118-133
+subjects:
+  - label: "Incarnation"
+    scheme: "FAST"
+    identifier: "fst00968453"
+    uri: "https://id.worldcat.org/fast/968453"
+    category: "topical"
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
 ---

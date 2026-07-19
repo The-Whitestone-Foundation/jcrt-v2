@@ -16,4 +16,10 @@ issue: 2
 season: spring
 year: 2019
 pages: 329-337
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
 ---

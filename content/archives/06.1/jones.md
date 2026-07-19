@@ -38,4 +38,30 @@ issue: 1
 season: winter
 year: 2004
 pages:
+subjects:
+  - label: "Friedrich, Wilhelm"
+    scheme: "FAST"
+    identifier: "fst01498082"
+    uri: "https://id.worldcat.org/fast/1498082"
+    category: "personal"
+  - label: "Reductionism"
+    scheme: "FAST"
+    identifier: "fst01092307"
+    uri: "https://id.worldcat.org/fast/1092307"
+    category: "topical"
+  - label: "Religion Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
+  - label: "Religious life"
+    scheme: "FAST"
+    identifier: "fst01094112"
+    uri: "https://id.worldcat.org/fast/1094112"
+    category: "topical"
+  - label: "Secularization (Theology)"
+    scheme: "FAST"
+    identifier: "fst01110740"
+    uri: "https://id.worldcat.org/fast/1110740"
+    category: "topical"
 ---

@@ -22,6 +22,12 @@ tags:
   - pentecostalism
   - discourse
   - social
+subjects:
+  - label: "Pentecostalism"
+    scheme: "FAST"
+    identifier: "fst01057199"
+    uri: "https://id.worldcat.org/fast/1057199"
+    category: "topical"
 ---
 *From time to time Religious Theory (RT) invites well-known academic authors to outline current book projects that have not yet been published.  This second installment of the article, released in three parts, reflects a recent talk in California by Prof. Luis Leon, a well-known author of several key books on the theory of Latino religions and borderlands theory.*
 

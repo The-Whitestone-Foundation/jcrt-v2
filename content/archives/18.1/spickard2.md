@@ -20,4 +20,20 @@ issue: 1
 season: winter
 year: 2018
 pages: 138-155
+subjects:
+  - label: "Ethnology"
+    scheme: "FAST"
+    identifier: "fst00916106"
+    uri: "https://id.worldcat.org/fast/916106"
+    category: "topical"
+  - label: "Journalism"
+    scheme: "FAST"
+    identifier: "fst00984032"
+    uri: "https://id.worldcat.org/fast/984032"
+    category: "topical"
+  - label: "Social advocacy"
+    scheme: "FAST"
+    identifier: "fst01122271"
+    uri: "https://id.worldcat.org/fast/1122271"
+    category: "topical"
 ---

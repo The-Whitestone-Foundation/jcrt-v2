@@ -21,4 +21,15 @@ issue: 2
 season: fall
 year: 2012
 pages: 228-239
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Poetics"
+    scheme: "FAST"
+    identifier: "fst01067682"
+    uri: "https://id.worldcat.org/fast/1067682"
+    category: "topical"
 ---

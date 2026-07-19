@@ -20,6 +20,22 @@ tags:
   - homosexuality
   - sexual
   - social
+subjects:
+  - label: "Homosexuality"
+    scheme: "FAST"
+    identifier: "fst00959755"
+    uri: "https://id.worldcat.org/fast/959755"
+    category: "topical"
+  - label: "Sex"
+    scheme: "FAST"
+    identifier: "fst01114160"
+    uri: "https://id.worldcat.org/fast/1114160"
+    category: "topical"
+  - label: "Gender studies"
+    scheme: "Homosaurus"
+    identifier: "homoit0000579"
+    uri: "https://homosaurus.org/v5/homoit0000579"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 

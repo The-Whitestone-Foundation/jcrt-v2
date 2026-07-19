@@ -25,6 +25,22 @@ keywords:
   - us-property-law
   - territorial-authority
   - indigenous-rights
+subjects:
+  - label: "Colonization"
+    scheme: "FAST"
+    identifier: "fst00868483"
+    uri: "https://id.worldcat.org/fast/868483"
+    category: "topical"
+  - label: "Indigenous peoples"
+    scheme: "FAST"
+    identifier: "fst00970213"
+    uri: "https://id.worldcat.org/fast/970213"
+    category: "topical"
+  - label: "Indigenous peoples Civil rights"
+    scheme: "FAST"
+    identifier: "fst00970219"
+    uri: "https://id.worldcat.org/fast/970219"
+    category: "topical"
 ---
 The legal doctrine of "Christian Discovery" remains the foundation of United States federal anti-Indian law, yet it is rarely challenged directly in litigation. This essay argues that confronting the doctrine poses not merely a legal challenge but a metaphysical crisis for the United States itself. Through close analysis of the nineteenth-century "Marshall Trilogy"&mdash;*Johnson v. McIntosh*, *Cherokee Nation v. Georgia*, and *Worcester v. Georgia*&mdash;the essay demonstrates that federal Indian law is grounded in an explicit claim of Christian European land appropriation and a corresponding denial of Indigenous sovereignty.
 

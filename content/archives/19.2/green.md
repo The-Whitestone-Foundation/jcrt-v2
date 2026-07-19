@@ -18,4 +18,15 @@ issue: 2
 season: spring
 year: 2020
 pages: 225-242
+subjects:
+  - label: "Commodification"
+    scheme: "FAST"
+    identifier: "fst01893315"
+    uri: "https://id.worldcat.org/fast/1893315"
+    category: "topical"
+  - label: "Essentialism (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01430323"
+    uri: "https://id.worldcat.org/fast/1430323"
+    category: "topical"
 ---

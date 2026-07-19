@@ -13,11 +13,32 @@ keywords:
   - mashups-musical-form
   - auditing
   - higher-education
-pdf:
+pdf: trakikis.pdf
 sort_id: 08
 volume: 14
 issue: 2
 season: spring
 year: 2015
 pages: 287-298
+subjects:
+  - label: "Auditing"
+    scheme: "FAST"
+    identifier: "fst00821166"
+    uri: "https://id.worldcat.org/fast/821166"
+    category: "topical"
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
 ---

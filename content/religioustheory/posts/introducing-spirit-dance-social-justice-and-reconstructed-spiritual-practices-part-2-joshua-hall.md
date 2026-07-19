@@ -21,6 +21,27 @@ tags:
   - social
   - philosophy
   - spiritual
+subjects:
+  - label: "Dance"
+    scheme: "FAST"
+    identifier: "fst00887402"
+    uri: "https://id.worldcat.org/fast/887402"
+    category: "topical"
+  - label: "Magic"
+    scheme: "FAST"
+    identifier: "fst01005468"
+    uri: "https://id.worldcat.org/fast/1005468"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---
 *The following is the second of a three-part series.* *The first can be found [here]( /religioustheory/posts/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-joshua-hall/).*
 
@@ -28,7 +49,7 @@ As to the purpose of this spirit dancing, Kopenawa constantly emphasizes that it
 
 “As fine and translucent as spider webs or fishing lines,” Kopenawa relates, “the *xapiri*’s shining paths will become fixed along our arms and legs” (referring to the limbs of an experienced Yanomami shaman) (378). “Then the spirits will come down along them to tear our chest and open a large clearing in it where they will be do their presentation dance,” Kopenawa concludes, the interpretation of dances is the shaman’s constant, lifelong occupation (378).
 
-As Bruce Albert puts it, in his translator’s afterword to the book, “the ‘I’ of Davi Kopenawa’s account also embodies the voices of many shamanic ‘images’ of animal ancestors and cosmological beings” (447). From this, Albert concludes that his interviews with Kopenawa, which form the basis of *The Falling Sky*, amount to “shamanic intercultural exchanges” (448). From Albert’s outsider perspective, though, this practice initially looked unrecognizably different. “The \[shamans\] appear to be doing everything possible to impress their hosts with the exuberance of their performance,” he writes, recalling his “first experience of the elaborate chants, sumptuous ornamentation, and impressive *choreography* of such shamanic opera” (437, emphasis added).
+As Bruce Albert puts it, in his translator’s afterword to the book, “the ‘I’ of Davi Kopenawa’s account also embodies the voices of many shamanic ‘images’ of animal ancestors and cosmological beings” (447). From this, Albert concludes that his interviews with Kopenawa, which form the basis of *The Falling Sky*, amount to “shamanic intercultural exchanges” (448). From Albert’s outsider perspective, though, this practice initially looked unrecognizably different. “The &#91;shamans&#93; appear to be doing everything possible to impress their hosts with the exuberance of their performance,” he writes, recalling his “first experience of the elaborate chants, sumptuous ornamentation, and impressive *choreography* of such shamanic opera” (437, emphasis added).
 
 For Kopenawa, too, the core of the spirits is dancing, as is clear from his own simple explanation of the same event: “They were making the spirits dance together” (437). Thus, the dance of the spirits is performatively identical to the dance of the shamans, which is one reason I chose the name “Spirit/Dance” for this assemblage of spiritual practices. Eschewing a more conventionally abstract title, I wished to emphasize the embodied physicality and worldliness of Spirit/Dance’s indirect empowering of revolution.
 

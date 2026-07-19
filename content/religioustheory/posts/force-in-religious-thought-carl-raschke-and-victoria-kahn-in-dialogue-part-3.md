@@ -21,6 +21,32 @@ tags:
   - liberal
   - theology
   - democracy
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Democracy"
+    scheme: "FAST"
+    identifier: "fst00890077"
+    uri: "https://id.worldcat.org/fast/890077"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion and economics"
+    scheme: "FAST"
+    identifier: "fst01939306"
+    uri: "https://id.worldcat.org/fast/1939306"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the last of a three-part series.  [The first part]( /religioustheory/posts/force-in-religious-thought-carl-raschke-and-victoria-kahn-in-dialogue-part-1/) was published on May 31, 2016.  [The second part]( /religioustheory/posts/force-in-religious-thought-carl-raschke-and-victoria-kahn-in-dialogue-part-2/) was published on June 17.  
 *
@@ -71,7 +97,7 @@ The theological is a cipher not for the hidden economy of *ressentiment*, or str
 
 Theologically, Raschke importantly ascribes the Christian moment, not to Jesus Christ, but to the “force of God,” in which resurrection/insurrection does not appear as either *chronos* or *kairos*, nor does it appear to be a mystical union or proclamation. Linking this force to a perhaps Derridean “democracy to come” in “acknowledgment of this *divine sovereignty and economy*,”[^13] Raschke makes one of his strongest assertions about current liberal crises:
 
-One of the reason\[s\] the very idea of a political theology, especially a “global” political theology, makes us uncomfortable is that we are virtually hypnotized these days, particularly in America, to think – *politically* – solely in terms of an economy of entitlement and resentment, which we mistakenly associated with some vague idea of “justice.” Agamben has forced us decisively into rethinking our “economic” and “ecumenical” models of the new global political as ultimately the “God” question. *We are now all now political theologians*, mainly because all theology is political and all politics is theological.[^14]
+One of the reasons the very idea of a political theology, especially a “global” political theology, makes us uncomfortable is that we are virtually hypnotized these days, particularly in America, to think – *politically* – solely in terms of an economy of entitlement and resentment, which we mistakenly associated with some vague idea of “justice.” Agamben has forced us decisively into rethinking our “economic” and “ecumenical” models of the new global political as ultimately the “God” question. *We are now all now political theologians*, mainly because all theology is political and all politics is theological.[^14]
 
 A powerful statement here, and certainly not without controversy, but it is nevertheless *timely* in the foregrounding of assumptions some people may have concerning the shadow text of American democratic liberalism.
 
@@ -85,7 +111,7 @@ As American root-workers will tell clients, “It is done; you do not have to be
 
 I see in Kahn’s emphasis on poetics and Raschke’s articulation of saints the possibility for a revived sense of liberalism which sees itself not as the ruptured modern subjectivity that founds itself but as the product of a *force.* This force must take into account a more global frame without reducing itself to what Badiou calls the emptiness of market capitalism or neo-liberalism.  A sense of community must be retained.
 
-As articulated earlier with Heidegger’s account of Aristotle on politics, being there (*Dasein*) is always being-with (*mitsein*), and as Jean-Luc Nancy points out in *The Inoperative Community*, “\[d\]eath irremediably exceeds the resources of a metaphysics of the subject” and “\[a\]ll of Heidegger’s research into ‘being-for (or toward)-death’ was nothing other than an attempt to state this: *I* is not—*am* not – a subject.”[^15] The determination of “I” exceeds what the “I” can experience.
+As articulated earlier with Heidegger’s account of Aristotle on politics, being there (*Dasein*) is always being-with (*mitsein*), and as Jean-Luc Nancy points out in *The Inoperative Community*, “death irremediably exceeds the resources of a metaphysics of the subject” and “all of Heidegger’s research into ‘being-for (or toward)-death’ was nothing other than an attempt to state this: *I* is not—*am* not – a subject.”[^15] The determination of “I” exceeds what the “I” can experience.
 
 As Nancy says, Heidegger undoes the modern idea of self-contained subject, not just by pointing to something more porous, but also by opening up the communal and social aspects constitutive for subjectivity – and it is certainly in the radical nature of this communion that a tendency to merge with a “national socialism” is more dangerous than any “will-to-power” conceived as an extension of an individual.
 

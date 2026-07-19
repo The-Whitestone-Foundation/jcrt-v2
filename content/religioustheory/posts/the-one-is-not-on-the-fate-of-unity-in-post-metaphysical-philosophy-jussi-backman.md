@@ -24,6 +24,27 @@ tags:
   - metaphysics
   - metaphysical
   - multiplicity
+subjects:
+  - label: "Concord"
+    scheme: "FAST"
+    identifier: "fst00874107"
+    uri: "https://id.worldcat.org/fast/874107"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **A Turkish translation of a version of this essay has been published as “Bir, bir şey değildir: post-metafizik düşüncede birlik ve çokluğun akıbeti,” trans. Mustafa Yalçınkaya, *Sabah Ülkesi: Üç aylık kültür-sanat ve felsefe dergisi*, no. 51, Nisan 2017, 16–19. Available online at [http://www.sabahulkesi.com/sayi.php?no=51](http://www.sabahulkesi.com/sayi.php?no=51), retrieved 27 April 2017. The themes of this essay are discussed in more detail, with a special focus on Heidegger, in Jussi Backman, *Complicated Presence: Heidegger and the Postmetaphysical Unity of Being* (Albany, NY: State University of New York Press, 2015).**
 
@@ -41,9 +62,9 @@ This model, identified by Martin Heidegger as the cornerstone of Western metaphy
 
 ## The Late Modern Disintegration of Metaphysical Unities
 
-However, while the German idealists still took for granted the conception of philosophy as a quest for ultimate unity, in philosophical late modernity since Nietzsche—separated from Hegel by what Reiner Schürmann calls “the most difficult decades to understand in our entire history”[^2] —the status of unity becomes profoundly unsettled and transformed. In one of his late fragments, Nietzsche exclaims that “the overall character of existence may not be interpreted by means of the concept of ‘*aim*,’ the concept of ‘*unity*,’ or the concept of ‘*truth*.’ . . . \[A\]ny comprehensive unity in the plurality of occurrences is lacking.”[^3]
+However, while the German idealists still took for granted the conception of philosophy as a quest for ultimate unity, in philosophical late modernity since Nietzsche—separated from Hegel by what Reiner Schürmann calls “the most difficult decades to understand in our entire history”[^2] —the status of unity becomes profoundly unsettled and transformed. In one of his late fragments, Nietzsche exclaims that “the overall character of existence may not be interpreted by means of the concept of ‘*aim*,’ the concept of ‘*unity*,’ or the concept of ‘*truth*.’ . . . Any comprehensive unity in the plurality of occurrences is lacking.”[^3]
 
-The category of unity is one that we “used to insert some value into the world,” but with the advent of modern nihilism and its “devaluation of the supreme values,” this category is once again extracted. Like all other values, unity was no more than a temporary instrumental projection. “We need ‘unities’ in order to be able to *reckon* \[*rechnen*\]: that does not mean we must suppose that there *are* such unities.”[^4] For Nietzsche, reality is a chaotic plurality without inherent unity, aim, or structure, ceaselessly rearticulated by the will to power as the essence of subjectivity. This unending and aimless process ![](/images/2017/05/hendrik_ter_brugghen_-_democritus.webp)of ceaseless reconfiguration is the only permanent identity, the cyclic “eternal recurrence of the same.”
+The category of unity is one that we “used to insert some value into the world,” but with the advent of modern nihilism and its “devaluation of the supreme values,” this category is once again extracted. Like all other values, unity was no more than a temporary instrumental projection. “We need ‘unities’ in order to be able to *reckon* &#91;*rechnen*&#93;: that does not mean we must suppose that there *are* such unities.”[^4] For Nietzsche, reality is a chaotic plurality without inherent unity, aim, or structure, ceaselessly rearticulated by the will to power as the essence of subjectivity. This unending and aimless process ![](/images/2017/05/hendrik_ter_brugghen_-_democritus.webp)of ceaseless reconfiguration is the only permanent identity, the cyclic “eternal recurrence of the same.”
 
 For Heidegger, Nietzsche’s metaphysics of the will to power represents the final stage, completion, and closure of the modern metaphysics of subjectivity—and, in this sense, the “end” of the Western metaphysical tradition as a whole. In Nietzsche, the principal hierarchies of Platonic metaphysics are inverted: being is subordinated to becoming, ideality to sensuousness, truth to art—and unity to multiplicity. For post-Nietzschean thought, an ultimate unity of being, situated in a supreme substance or a fundamental, constitutive subjectivity, became a chimera. The philosophical hermeneutics, poststructuralism, empiricism, and naturalism of the twentieth century all came to a harmonious agreement in their rejection of any foundational metaphysics of unity and identity.
 
@@ -89,11 +110,11 @@ While we tend to be increasingly suspicious of the unifying hegemonic principles
 ## Footnotes
 
 
-[^1]: G. W. F. Hegel, *Vorlesungen: Ausgewählte Nachschriften und Manuskripte*, vol. 7: *Vorlesungen über die Geschichte der Philosophie,* vol. *2: Griechische Philosophie, 1: Thales bis Kyniker* \[1825–26\], ed. Pierre Garniron und Walter Jaeschke (Hamburg: Meiner, 1989), 52–54; *Lectures on the History of Philosophy 1825–6*, vol. 2: *Greek Philosophy*, ed. and trans. Robert F. Brown (Oxford: Oxford University Press, 2006), 57–58.
+[^1]: G. W. F. Hegel, *Vorlesungen: Ausgewählte Nachschriften und Manuskripte*, vol. 7: *Vorlesungen über die Geschichte der Philosophie,* vol. *2: Griechische Philosophie, 1: Thales bis Kyniker* &#91;1825–26&#93;, ed. Pierre Garniron und Walter Jaeschke (Hamburg: Meiner, 1989), 52–54; *Lectures on the History of Philosophy 1825–6*, vol. 2: *Greek Philosophy*, ed. and trans. Robert F. Brown (Oxford: Oxford University Press, 2006), 57–58.
 
 [^2]: Reiner Schürmann, *Des hégémonies brisées* (Mauvezin: Trans-Europ-Repress, 1996), 641; *Broken Hegemonies*, trans. Reginald Lilly (Bloomington, IN: Indiana University Press, 2003), 513.
 
-[^3]: Friedrich Nietzsche, “Aus dem Nachlaß der Achtzigerjahre” \[1884–88\], in *Werke in drei Bänden*, vol. 3, ed. Karl Schlechta (München: Hanser, 1956), 678 (*Der Wille zur Macht* n. 12); *The Will to Power*, trans. Walter Kaufmann and R. J. Hollingdale (New York: Vintage Books, 1968), 13. (Tr. mod.)
+[^3]: Friedrich Nietzsche, “Aus dem Nachlaß der Achtzigerjahre” &#91;1884–88&#93;, in *Werke in drei Bänden*, vol. 3, ed. Karl Schlechta (München: Hanser, 1956), 678 (*Der Wille zur Macht* n. 12); *The Will to Power*, trans. Walter Kaufmann and R. J. Hollingdale (New York: Vintage Books, 1968), 13. (Tr. mod.)
 
 [^4]: Nietzsche, “Aus dem Nachlaß der Achtzigerjahre,” 777 (*Der Wille zur Macht* n. 635); *The Will to Power*, 338. (Tr. mod.)
 
@@ -101,7 +122,7 @@ While we tend to be increasingly suspicious of the unifying hegemonic principles
 
 [^6]: Jacques Derrida, *Marges de la philosophie* (Paris: Minuit, 1972), 7; *Margins of Philosophy,* trans. Alan Bass (Brighton: Harvester Press, 1982), 7. (Tr. mod.)
 
-[^7]: Gilles Deleuze, *Différence et répétition* \[1968\], 11th ed. (Paris: Presses Universitaires de France, 2005), 1; *Difference and Repetition*, trans. Paul Patton (New York: Columbia University Press, 1994), xix.
+[^7]: Gilles Deleuze, *Différence et répétition* &#91;1968&#93;, 11th ed. (Paris: Presses Universitaires de France, 2005), 1; *Difference and Repetition*, trans. Paul Patton (New York: Columbia University Press, 1994), xix.
 
 [^8]: Martin Heidegger, *Gesamtausgabe,* vol. 65: *Beiträge zur Philosophie (Vom Ereignis)*, ed. Friedrich-Wilhelm von Herrmann (Frankfurt am Main: Klostermann, 1989), 459–60; *Contributions to Philosophy (Of the Event)*, trans. Richard Rojcewicz and Daniela Vallega-Neu (Bloomington, IN: Indiana University Press, 2012), 361–62.
 

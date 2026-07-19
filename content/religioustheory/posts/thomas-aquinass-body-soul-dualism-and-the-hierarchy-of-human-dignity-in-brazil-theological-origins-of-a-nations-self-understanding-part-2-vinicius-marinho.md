@@ -22,6 +22,22 @@ tags:
   - authority
   - dignity
   - hierarchical
+subjects:
+  - label: "Authority"
+    scheme: "FAST"
+    identifier: "fst00821653"
+    uri: "https://id.worldcat.org/fast/821653"
+    category: "topical"
+  - label: "Dignity"
+    scheme: "FAST"
+    identifier: "fst00893760"
+    uri: "https://id.worldcat.org/fast/893760"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---
 *The following is the second of a three-part series.* *The first can be found [here]( /religioustheory/posts/thomas-aquinass-body-soul-dualism-and-the-hierarchy-of-human-dignity-in-brazil-theological-origins-of-a-nations-hierarchical-self-understanding-part-1-vinicius-marinho/).*
 

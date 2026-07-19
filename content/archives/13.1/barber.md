@@ -16,4 +16,10 @@ issue: 1
 season: winter
 year: 2014
 pages: 142-150
+subjects:
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
 ---

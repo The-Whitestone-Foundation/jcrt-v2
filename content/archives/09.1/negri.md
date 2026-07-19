@@ -24,4 +24,30 @@ issue: 1
 season: winter
 year: 2008
 pages:
+subjects:
+  - label: "Economics History"
+    scheme: "FAST"
+    identifier: "fst00902141"
+    uri: "https://id.worldcat.org/fast/902141"
+    category: "topical"
+  - label: "Liberation theology"
+    scheme: "FAST"
+    identifier: "fst00997211"
+    uri: "https://id.worldcat.org/fast/997211"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Power (Social sciences)"
+    scheme: "FAST"
+    identifier: "fst01074219"
+    uri: "https://id.worldcat.org/fast/1074219"
+    category: "topical"
+  - label: "Subject (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01136447"
+    uri: "https://id.worldcat.org/fast/1136447"
+    category: "topical"
 ---

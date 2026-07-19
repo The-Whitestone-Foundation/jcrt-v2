@@ -21,6 +21,22 @@ tags:
   - theology
   - catholicism
   - rhetorical
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Fiction"
+    scheme: "FAST"
+    identifier: "fst00923709"
+    uri: "https://id.worldcat.org/fast/923709"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first installment of a two-part series.
 

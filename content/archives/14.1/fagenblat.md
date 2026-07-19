@@ -21,4 +21,15 @@ issue: 1
 season: fall
 year: 2014
 pages: 8-24
+subjects:
+  - label: "Antisemitism"
+    scheme: "FAST"
+    identifier: "fst00810769"
+    uri: "https://id.worldcat.org/fast/810769"
+    category: "topical"
+  - label: "Zionism"
+    scheme: "FAST"
+    identifier: "fst01184468"
+    uri: "https://id.worldcat.org/fast/1184468"
+    category: "topical"
 ---

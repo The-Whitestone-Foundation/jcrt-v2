@@ -8,13 +8,13 @@ author: "John D Caputo; Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 03
 year: 2002
 ---
 Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
 
-# Loosening Philosophy's Tongue: A Conversation with Jack Caputo
+## Loosening Philosophy's Tongue: A Conversation with Jack Caputo
 
 John D. Caputo  
 Villanova University
@@ -32,13 +32,9 @@ _More than any contemporary American philosopher, John D. ('Jack') Caputo has be
 > 
 > **Carl A. Raschke** is professor of religious studies at the University of Denver and senior editor of the Journal for Religious and Cultural Theory. His major books include _The End of Theology_ (The Davies Group, 2000), _Fire and Roses: Postmodernity and the Thought of the Body_ (SUNY 1996), _The Engendering God_ (Westminster Press, 1995), _Painted Black_ (Harper Collins, 1990), _Theological Thinking_ (Scholars Press, 1988). He is the author of over 200 popular and scholarly articles on subjects ranging from postmodern religious thought to computer-mediated education to new religious movements. He is formerly president of the Rocky Mountain-Great Plains Region of the American Academy of Religion and an editor of several series with the American Academy of Religion. He is also a well-known national media personality.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 John D. Caputo and Carl A. Raschke. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 John D. Caputo and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/caputo\_raschke](https://jcrt.org/archives/03.2/caputo\_raschke/)
 
@@ -98,7 +94,7 @@ Updated 07/28/21.
 
 [^29]:  So it would produce new hybrid analyses that would nonetheless be very pointed, analyses that, on the one hand, perhaps, would succeed in giving religion a new hearing (which is fitting, seeing that it has never ceased to have a hearing outside academic walls), but, on the other hand, would also make us take a new look at the social and institutional structures around us. Our social institutions do not often resemble the Kingdom of God, even as the churches do not often resemble the democracy to come. It would infuse Kingdom motifs into secular structures and at the same time demand that the Kingdom find a way to be embodied in the _kosmos_, the "present age," the world of business and politics. It would be a way both to pitch the tents of the Kingdom in the world and also not to conform to the world, which is the double bind we are all under. So if all this were to succeed, the effects would be felt in ethics, politics, religion, the seminary and the academy, on many fronts, all of which would become more porous to one another, and more open-ended and revisable in themselves.
 
-[^30]:  **Raschke:** If I may venture a "religious" annotation here, I will say amen. But as an African-American Pentecostal pastor, who had a major impact on my thinking, once said, "if you're going to have Kingdom men and women, you \[as a preacher\] have got to make them stop thinking like kings." Foucault somewhere talks about regicide, separating from the body the head of the "king", as the historical "sign" that brings to a close the self-referential (or what Heidegger would term "subjectist") reflexivity that charts the history of Western philosophy. In a semiotic sense, the king is the political arche-presence, the transcendental signified, the anchoring representation of all "rationality", the "what" that one really loves when they love their God (I am alluding here to what you and Derrida do with Augustine's celebrated line). Along these lines I am intrigued by your referencing the "democracy" that is "to come", and its signification with respect to the "Kingdom."
+[^30]:  **Raschke:** If I may venture a "religious" annotation here, I will say amen. But as an African-American Pentecostal pastor, who had a major impact on my thinking, once said, "if you're going to have Kingdom men and women, you &#91;as a preacher&#93; have got to make them stop thinking like kings." Foucault somewhere talks about regicide, separating from the body the head of the "king", as the historical "sign" that brings to a close the self-referential (or what Heidegger would term "subjectist") reflexivity that charts the history of Western philosophy. In a semiotic sense, the king is the political arche-presence, the transcendental signified, the anchoring representation of all "rationality", the "what" that one really loves when they love their God (I am alluding here to what you and Derrida do with Augustine's celebrated line). Along these lines I am intrigued by your referencing the "democracy" that is "to come", and its signification with respect to the "Kingdom."
 
 [^31]:  Perhaps the follow-up question, then, would be how to "write", which is what you say we should be doing, in the anticipation of a "democratic" Kingdom without kings. If deconstruction is at heart a "style", then it is a style that should be infecting all our other styles, including the style of writing. It should be infecting JCRT, which I am not sure it is even beginning to do. That is a far cry from the _skandalon_ of Jesus, let alone its still awaited (_invienens_) _parousia_. If we academics are only a scandal to ourselves, then we do not create much scandal. We are only creating "palace scandals," titillating ourselves within earshot of the king, who remains ensconced on his throne. Now and then we announce that the "king is dead" (thanatotheology), which we don't really know, so we can try to run the palace for a while. What is the style of writing in your estimation when writing is no longer in the "royal" (academic) style?
 

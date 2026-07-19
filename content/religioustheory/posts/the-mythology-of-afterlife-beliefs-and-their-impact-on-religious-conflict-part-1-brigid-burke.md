@@ -24,6 +24,42 @@ tags:
   - immortality
   - conception
   - punishment
+subjects:
+  - label: "Conception"
+    scheme: "FAST"
+    identifier: "fst00872956"
+    uri: "https://id.worldcat.org/fast/872956"
+    category: "topical"
+  - label: "Immortality"
+    scheme: "FAST"
+    identifier: "fst00967853"
+    uri: "https://id.worldcat.org/fast/967853"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Punishment"
+    scheme: "FAST"
+    identifier: "fst01084107"
+    uri: "https://id.worldcat.org/fast/1084107"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 ## The following is the first installment of a two-part series.
 

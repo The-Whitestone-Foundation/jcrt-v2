@@ -17,4 +17,10 @@ issue: 3
 season: fall
 year: 2019
 pages: 442-453
+subjects:
+  - label: "Transnationalism"
+    scheme: "FAST"
+    identifier: "fst01154884"
+    uri: "https://id.worldcat.org/fast/1154884"
+    category: "topical"
 ---

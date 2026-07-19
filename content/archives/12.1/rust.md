@@ -32,4 +32,25 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Group identity"
+    scheme: "FAST"
+    identifier: "fst00948442"
+    uri: "https://id.worldcat.org/fast/948442"
+    category: "topical"
+  - label: "Political plays"
+    scheme: "FAST"
+    identifier: "fst01069480"
+    uri: "https://id.worldcat.org/fast/1069480"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
 ---

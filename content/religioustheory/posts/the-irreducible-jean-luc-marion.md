@@ -20,6 +20,17 @@ tags:
   - impossibility
   - essence
   - statement
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## Translated by Jason Alvis
 
@@ -59,7 +70,7 @@ Saying “I believe in God” or “ I do not believe in God” doesn’t say an
 
 It says that I am ascribing myself into a broader community beyond the non-human (that of the divine), or on the contrary into a strictly human community in which all can equally participate (a political position, so to speak).  It says that I no doubt find in this position a comfort, confidence, insurance, etc. (a psychological disposition of heteronomy), or on the contrary, that I reject every external or transcendent authority (a psychological disposition of autonomy).  Yet in all of this, there is nothing that actually refers to “God.”
 
-Could it not be argued that the statement “I believe in God” (or not), however, says something about something, namely the existence of “God” to actually mean “\[I believe\] God exists” (or not)?   In which case, objectively speaking it would be a propositional statement that is capable of being proven or disproven, or in short, could be argued rationally.  This, however, is only a mere illusion.
+Could it not be argued that the statement “I believe in God” (or not), however, says something about something, namely the existence of “God” to actually mean “&#91;I believe&#93; God exists” (or not)?   In which case, objectively speaking it would be a propositional statement that is capable of being proven or disproven, or in short, could be argued rationally.  This, however, is only a mere illusion.
 
 In a strictly metaphysical sense, to say “God exists (or not)” doesn’t say anything about God, and this is for two reasons.  First, that is because this statement does not yet indicate what it proposes and because, as the history of philosophy confirms, *for and against* arguments are not self-evident.  Thus, even a purely theoretical utterance (statement/enunciation) is ineffective (or fails to move the addressee).  So nothing, de jure, can be said decisively about “God” except this:  when it comes to the matter of “God,” conclusions concerning “God” do not belong to him, but to the one who thinks him.
 

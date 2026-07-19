@@ -21,16 +21,31 @@ keywords:
   - rosenzweig
   - revelation-on-sinai
   - redemption-comparative-studies
-pdf:
+pdf: false
 sort_id: 04
 volume: 2
 issue: 1
 season: winter
 year: 2000
 pages:
+subjects:
+  - label: "Creation History of doctrines"
+    scheme: "FAST"
+    identifier: "fst00882387"
+    uri: "https://id.worldcat.org/fast/882387"
+    category: "topical"
+  - label: "Psychoanalysis and religion"
+    scheme: "FAST"
+    identifier: "fst01081280"
+    uri: "https://id.worldcat.org/fast/1081280"
+    category: "topical"
+  - label: "Revelation on Sinai"
+    scheme: "FAST"
+    identifier: "fst01096474"
+    uri: "https://id.worldcat.org/fast/1096474"
+    category: "topical"
 ---
-Religion and Psychoanalysis: Three Fundamental Concepts
-=======================================================
+## Religion and Psychoanalysis: Three Fundamental Concepts
 
 Introduction\
 Julia Reinhard Lupton\

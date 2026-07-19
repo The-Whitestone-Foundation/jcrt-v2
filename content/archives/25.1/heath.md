@@ -26,6 +26,12 @@ keywords:
   - land-justice
   - indigenous-land-reclamation
   - treaty-enforcement
+subjects:
+  - label: "Colonization"
+    scheme: "FAST"
+    identifier: "fst00868483"
+    uri: "https://id.worldcat.org/fast/868483"
+    category: "topical"
 ---
 This article examines how the doctrine of Christian discovery and domination continues to serve as the foundational legal justification used by United States courts to deny treaty rights and dismiss Indigenous land rights claims, with particular focus on Haudenosaunee nations. Centering the Supreme Court's decision in *City of Sherrill v. Oneida Indian Nation* (2005), the article critiques the Court's revival of colonial doctrine through a fabricated "equitable" defense mislabeled as laches. It traces Sherrill's jurisprudential roots to *Johnson v. M'Intosh* (1823), where Chief Justice John Marshall embedded Christian European claims of domination into United States law as a mechanism for Indigenous dispossession.
 

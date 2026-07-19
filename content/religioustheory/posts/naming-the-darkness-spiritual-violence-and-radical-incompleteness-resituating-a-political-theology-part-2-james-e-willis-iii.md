@@ -25,6 +25,37 @@ tags:
   - theology
   - incompleteness
   - violence
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Violence"
+    scheme: "FAST"
+    identifier: "fst01167224"
+    uri: "https://id.worldcat.org/fast/1167224"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/naming-the-darkness-spiritual-violence-and-radical-incompleteness-resituating-a-political-theology-james-e-willis-iii/)*[.]( /religioustheory/posts/naming-the-darkness-spiritual-violence-and-radical-incompleteness-resituating-a-political-theology-james-e-willis-iii/)
 
@@ -34,7 +65,7 @@ A philosophy of finite human time is one way to read Martin Hägglund’s recent
 
 While the totality of Hägglund’s democratic socialism is beyond the scope here, I seek to focus on some specific points he makes in relation to religion.  Hägglund sees the state as being originary over the free individual, and this extends spiritually: “…there can be no spiritual life without some form of the state: some form of institutional organization of our life-activities governed by norms to which we have bound ourselves.”[^4]
 
-Hägglund supports reinterpreting religion through faith in the secular and social justice for its own sake,[^5] just as he supports the “reinvent\[ion\]” of the state rather than some form of incoherent abolition of the state.[^6] Hägglund’s position, while potent in quarters where capitalism exposes the worst of societal abuses, is markedly and purposefully reformist: “To subordinate the state to society is to transform the state into an *actual* democracy.”[^7]
+Hägglund supports reinterpreting religion through faith in the secular and social justice for its own sake,[^5] just as he supports the “reinvent&#91;ion&#93;” of the state rather than some form of incoherent abolition of the state.[^6] Hägglund’s position, while potent in quarters where capitalism exposes the worst of societal abuses, is markedly and purposefully reformist: “To subordinate the state to society is to transform the state into an *actual* democracy.”[^7]
 
 Hägglund locates the basis by which democratic socialism functions in what he calls “secular faith,” or the “commitment to our shared, finite lives as ends in themselves.”[^8] Hägglund takes a cue from Marx in his criticism of both capitalism and religion as “self-alienation,” or the devaluing of our time in less than meaningful work and religion which devalues time in its promise of “eternity.”[^9] Both capitalism and religion, Hägglund reiterates, “make us *disown* our lives, rather than enabling us to *own* the question of what we ought to do with our finite time.”[^10]
 
@@ -50,7 +81,7 @@ Hägglund and Critchley are doing different things in their respective books, of
 
 Hägglund and Critchley share a skepticism of representative government in general and democracy in particular. They together question whether representative government actually expresses the wishes and collective will of the represented. A point of divergence is the role of sovereign power resulting from this skepticism. Where Hägglund subsumes sovereignty into the collective (i.e. democratic) will of the people pursuing social ends for the “common good,”[^15]
 
-Critchley traces the “paradox” of sovereignty through the continued “fiction” of representative government.[^16] The fictive is just as important in Hägglund because it must be overcome, just as in Critchley, because “\[w\]e demand a better society and we now that it depends on us.”[^17] This is to say the *fictive* has some operational power to rethink the political not as abstraction, but as a motivational tool for individuals to wake up to “…’God’ \[as\]…the first anarchist, calling us into a struggle with the mythic violence of law, the state, and politics by allowing us to glimpse the possibility of something that stands apart, an infinite demand that cannot be fulfilled, that divide subjectivity that tries to follow it.”[^18] The fictive, which not only undergirds representative government, also provides the route into the moral (“infinite demand” in Critchley[^19] and “spiritual freedom” in Hägglund[^20] ).
+Critchley traces the “paradox” of sovereignty through the continued “fiction” of representative government.[^16] The fictive is just as important in Hägglund because it must be overcome, just as in Critchley, because “we demand a better society and we now that it depends on us.”[^17] This is to say the *fictive* has some operational power to rethink the political not as abstraction, but as a motivational tool for individuals to wake up to “…’God’ &#91;as&#93;…the first anarchist, calling us into a struggle with the mythic violence of law, the state, and politics by allowing us to glimpse the possibility of something that stands apart, an infinite demand that cannot be fulfilled, that divide subjectivity that tries to follow it.”[^18] The fictive, which not only undergirds representative government, also provides the route into the moral (“infinite demand” in Critchley[^19] and “spiritual freedom” in Hägglund[^20] ).
 
 Such a moral route means no less than “absolute daring”[^21] for Critchley, and it is informed by “sheer ethical overload” because one’s own limited life means we – finite – are met with an infinite demand: “…we are doubly bound: both to follow the thumb-line of the divine commandment and to accept responsibility for choosing not to follow it.”[^22] For Hägglund, however, the stakes are clear: political theology must be overcome by a reshaping of human labor in one’s finite time.
 
@@ -58,7 +89,7 @@ For Hägglund, morality, freedom, and political theology meet the same end in on
 
 Hägglund and Critchley both work out human freedom in political terms, whether as a type of interior anarchy (Critchley) or as an expression of one’s anxiety to find meaning in life’s fleeting time (Hägglund). Yet, this connection is superficial. The spiritual violence I surface here is opposing in these two thinkers: for Critchley, the natural trajectory is exterior (the state) to interior (mystical anarchy) whereas for Hägglund the interior (anxiety) unfolds to the exterior (state emancipation). The differences in trajectory suggest how to frame spiritual violence in political theology, at least as far as these two thinkers are concerned.
 
-The movement from the exterior to the interior (Critchley) means reshaping our views of the order of life: “Opposition to the fictions of state and government is advanced not in the name of disorder, but of another principle of order: free organization, self-determination, self-determination, \[and\] collaboration…”[^23] In contrast, the move from the interior to the exterior (Hägglund) is a revaluation of human freedom because it is “…a new vision of democratic socialism that is committed to providing the material and spiritual conditions for each one of us to lead a free life, in mutual recognition of our dependence on one another.”[^24] Human freedom is, for both of them, the ends worth pursuing, though the “violence” done here is entirely spiritual because both entail ultimate risk, the cost of which has real consequences.
+The movement from the exterior to the interior (Critchley) means reshaping our views of the order of life: “Opposition to the fictions of state and government is advanced not in the name of disorder, but of another principle of order: free organization, self-determination, self-determination, &#91;and&#93; collaboration…”[^23] In contrast, the move from the interior to the exterior (Hägglund) is a revaluation of human freedom because it is “…a new vision of democratic socialism that is committed to providing the material and spiritual conditions for each one of us to lead a free life, in mutual recognition of our dependence on one another.”[^24] Human freedom is, for both of them, the ends worth pursuing, though the “violence” done here is entirely spiritual because both entail ultimate risk, the cost of which has real consequences.
 
 For Critchley, human freedom is undertaken in the risk of reliance on human goodness whereas for Hägglund, such goodness flourishes in the risk of relying on the protections of effective government. At the heart of both thinkers is the notion of collaboration of free persons who undertake risk. This risk is underpinned by the threat of physical violence, whether that is through the use of surveillance (Critchley) or the tangibility of loss through meaninglessness (Hägglund). Both, too, contain spiritual risk because of the relations of persons to themselves and others. Governance and its attendant protocols form the surrogacy of risk in relationality.
 
@@ -70,7 +101,7 @@ Yet, for Hägglund, the state is needed to realize human potential, so where wou
 
 Here, at the greatest point of divergence, a theological reconsidering of anarchy through Newman’s “ascesis,” or “practices of self-transformation,”[^34] is where both Critchley and Hägglund converge in the most productive way: spiritual life’s demands extend beyond the material and, thus, the govern-able, yet there an incompleteness which is at once threatened by governance protocols and is also liberated in the reaffiliation with others in meaningful relation. This is to say the key aspect of Critchley and Hägglund, which is conceptually illuminated by Newman, is human incompleteness, which is most acutely expressed in one’s spiritual life. A political theology which considers the potency of anarchism locates a radical incompleteness in human vulnerability.[^35] The relationship between human incompleteness and spiritual violence can be read through recent Death of God thinking.
 
-I return to my earlier point adapted from Peterson’s point about developing a radical theology insofar as the task of the theologian is less about God-speak than it is about “nam\[ing\] the darkness, the feeling of loss, the sense of divine absence.”[^36] Peterson here also sets out something of an agenda for theology in our time: to figure out “tools for working out a new kind of ‘God/less’ talk that takes the otherwise overwhelming silence of God into account as the starting point for theological reflection.”[^37]
+I return to my earlier point adapted from Peterson’s point about developing a radical theology insofar as the task of the theologian is less about God-speak than it is about “nam&#91;ing&#93; the darkness, the feeling of loss, the sense of divine absence.”[^36] Peterson here also sets out something of an agenda for theology in our time: to figure out “tools for working out a new kind of ‘God/less’ talk that takes the otherwise overwhelming silence of God into account as the starting point for theological reflection.”[^37]
 
 Political theology, at least as construed above, is not so much one of those tools, but rather a set of models to unpack human incompleteness in its vulnerability. Mystical anarchy, then, is one of those models with which to reconfigure language to make cogency out of the “overwhelming silence of God.”[^38]  Spiritual violence, rewritten around this incompleteness, becomes another model for understanding “the feeling of loss, the sense of divine absence.”[^39] Anarchy, religiously understood as an act of reconfiguration in social relations to one another in communion away from the gaze of governance, becomes the tool.
 

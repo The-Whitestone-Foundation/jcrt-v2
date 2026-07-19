@@ -20,6 +20,17 @@ tags:
   - critical
   - philosophy
   - religious
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Couture, Jean-Pierre. [*Sloterdijk*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-074566380X.html) (Key Contemporary Thinkers). Boston: Polity, 2015. 208 pages. ISBN-***10: 0745663818.  Hardback, paperback, e-book, 208 pages.  
 **

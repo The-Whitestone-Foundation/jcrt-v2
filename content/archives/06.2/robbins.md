@@ -25,4 +25,20 @@ issue: 2
 season: spring
 year: 2005
 pages:
+subjects:
+  - label: "Christianity and politics"
+    scheme: "FAST"
+    identifier: "fst00859736"
+    uri: "https://id.worldcat.org/fast/859736"
+    category: "topical"
+  - label: "Everyman's library. Theology & philosophy"
+    scheme: "FAST"
+    identifier: "fst01937862"
+    uri: "https://id.worldcat.org/fast/1937862"
+    category: "title"
+  - label: "Friedrich, Wilhelm"
+    scheme: "FAST"
+    identifier: "fst01498082"
+    uri: "https://id.worldcat.org/fast/1498082"
+    category: "personal"
 ---

@@ -22,6 +22,22 @@ tags:
   - dialectic
   - special
   - religious
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Dialectic"
+    scheme: "FAST"
+    identifier: "fst00892462"
+    uri: "https://id.worldcat.org/fast/892462"
+    category: "topical"
 ---
 Since the philosopher Nietzsche announced the “death of God” over a century ago, the specter of divine absence has hovered over Western civilization.
 

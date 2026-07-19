@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 1-5
+subjects:
+  - label: "Rationalism"
+    scheme: "FAST"
+    identifier: "fst01090275"
+    uri: "https://id.worldcat.org/fast/1090275"
+    category: "topical"
+  - label: "Totalitarianism"
+    scheme: "FAST"
+    identifier: "fst01153040"
+    uri: "https://id.worldcat.org/fast/1153040"
+    category: "topical"
 ---

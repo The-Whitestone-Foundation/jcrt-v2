@@ -19,6 +19,22 @@ tags:
   - native
   - colonial
   - historical
+subjects:
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first of a two-part series. It was originally published at a 2019 conference in Athens, Greece.1*
 
@@ -78,7 +94,7 @@ They share historical continuity with pre- colonial and/or pre-settler societies
 
 Encounters and conflicts in colonized places emanate from conflicting ontologies. I draw from the work of Anishinaabe scholar Mark Freeland and use his metaphor of a house to explain an “interrelated set of logics that fundamentally orient a culture to space (land), time, the rest of life, and provides a prescription for how to live that life.”28
 
-\[It\] provides the foundation, on which…conscious ideologies are built, like the walls and roof of the house. The institutions build walls within the house, sectioning off the house into compartments that the people of the culture can go in and out of. Finally, the people of the culture live in that house and their everyday performances provide the color of the rooms, the flooring on which they step and the décor and furnishings of their culture. This idea of building the culture from the ground up does work metaphorically and helps to understand the
+&#91;It&#93; provides the foundation, on which…conscious ideologies are built, like the walls and roof of the house. The institutions build walls within the house, sectioning off the house into compartments that the people of the culture can go in and out of. Finally, the people of the culture live in that house and their everyday performances provide the color of the rooms, the flooring on which they step and the décor and furnishings of their culture. This idea of building the culture from the ground up does work metaphorically and helps to understand the
 
 ## Religion Matters
 
@@ -135,7 +151,7 @@ produced by Robert Flaherty, distributed by Pathé Exchange, 1922.
 
 20Shari M. Huhndorf, *Going Native, Indians in the American Cultural Imagination,* (Ithaca: Cornell University, 2001), 83-84.
 
-21W.E.B. DuBois, *The Souls of Black Folk,* (NY: Bantam 1989 \[1903\]), 3.
+21W.E.B. DuBois, *The Souls of Black Folk,* (NY: Bantam 1989 &#91;1903&#93;), 3.
 
 22Hunhndorf, 94-95.
 

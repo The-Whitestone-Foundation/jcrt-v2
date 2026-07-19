@@ -19,4 +19,15 @@ issue: 1
 season: fall
 year: 2015
 pages: 90-104
+subjects:
+  - label: "Gifts, Spiritual"
+    scheme: "FAST"
+    identifier: "fst00942667"
+    uri: "https://id.worldcat.org/fast/942667"
+    category: "topical"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
 ---

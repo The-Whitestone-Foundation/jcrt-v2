@@ -20,6 +20,12 @@ tags:
   - religious
   - theory
   - commentary
+subjects:
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 *Religious Theory* is the new commentary, review, and conversation blog for [The Journal for Cultural and Religious Theory](https://jcrt.org).  We plan to go live no later than the middle of February, 2016.
 

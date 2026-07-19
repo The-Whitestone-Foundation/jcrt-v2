@@ -20,4 +20,15 @@ issue: 2
 season: spring
 year: 2016
 pages:
+subjects:
+  - label: "Neoclassicism (Art)"
+    scheme: "FAST"
+    identifier: "fst01035771"
+    uri: "https://id.worldcat.org/fast/1035771"
+    category: "topical"
+  - label: "Wells"
+    scheme: "FAST"
+    identifier: "fst01173723"
+    uri: "https://id.worldcat.org/fast/1173723"
+    category: "topical"
 ---

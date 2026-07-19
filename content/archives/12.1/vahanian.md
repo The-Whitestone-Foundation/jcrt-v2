@@ -23,4 +23,25 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Antisemitism"
+    scheme: "FAST"
+    identifier: "fst00810769"
+    uri: "https://id.worldcat.org/fast/810769"
+    category: "topical"
+  - label: "Jewish-Arab relations"
+    scheme: "FAST"
+    identifier: "fst00983106"
+    uri: "https://id.worldcat.org/fast/983106"
+    category: "topical"
+  - label: "Judaism and politics"
+    scheme: "FAST"
+    identifier: "fst00984439"
+    uri: "https://id.worldcat.org/fast/984439"
+    category: "topical"
+  - label: "Zionism"
+    scheme: "FAST"
+    identifier: "fst01184468"
+    uri: "https://id.worldcat.org/fast/1184468"
+    category: "topical"
 ---

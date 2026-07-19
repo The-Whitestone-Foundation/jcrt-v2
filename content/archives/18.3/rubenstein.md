@@ -16,4 +16,10 @@ issue: 3
 season: fall
 year: 2019
 pages: 454-465
+subjects:
+  - label: "Continental philosophy"
+    scheme: "FAST"
+    identifier: "fst01765182"
+    uri: "https://id.worldcat.org/fast/1765182"
+    category: "topical"
 ---

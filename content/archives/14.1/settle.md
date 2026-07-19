@@ -18,4 +18,10 @@ issue: 1
 season: fall
 year: 2014
 pages:
+subjects:
+  - label: "Miracles"
+    scheme: "FAST"
+    identifier: "fst01023535"
+    uri: "https://id.worldcat.org/fast/1023535"
+    category: "topical"
 ---

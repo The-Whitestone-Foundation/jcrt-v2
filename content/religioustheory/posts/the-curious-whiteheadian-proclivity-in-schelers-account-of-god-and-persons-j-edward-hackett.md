@@ -21,6 +21,22 @@ tags:
   - religious
   - phenomenological
   - ethics
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
 ---
 ## The following is published in two parts.
 
@@ -32,7 +48,7 @@ Scheler’s term for the region of consciousness in which intuitional showing an
 
 By contrast, Husserl regarded it as a method. As Manfred Frings explains that phenomena for Scheler, “are bracketed in intuition, not by it.”[^2] Accordingly, phenomenology is the enlargement and purification of immediate intuition in immanent consciousness. The phenomenologist is, then, working out givenness in immanence of immediate intuition of a phenomenon *in the personal sphere* abstracted and demonstrated “in isolation from everything else.”[^3] According to Scheler “only what is intuitively in an act of experiencing (even if this essence should point to a content beyond itself)…can belong to it.”[^4] Likewise, the essences (*Wesenschau*) discerned through immediate intuition points to what’s real—the very essences that constitute all intentional acts. Let’s give an example where this led in Scheler’s early efforts.
 
-Scheler’s ethical personalism is based on allowing the first initial grasp in intuitive apprehension of a phenomenon we enter into relation in the feeling acts of consciousness. “The actual seat of the entire value-cognition or value-intuition (*Wert-Erschauung*) comes to the fore in feeling \[acts\], in basically love and hate, as well as the interconnections of values.”[^5] By contrast, such apprehension and discernment of the structure of being an act in Heidegger would always be mediated by an interpretive horizon. In Scheler, “all non-phenomenological experience is in principle an experience through or by means of symbols and, hence, a mediated experience that never gives things ‘themselves’.” He continues, “Only phenomenological experience is in principle *non-*symbolic and, hence, able to fulfill *all* possible symbols.”[^6] For Scheler, material *a priori* ethics is prior to the interpretive lens through which Heidegger limited phenomenology. Scheler puts this contrast of phenomenology more directly,
+Scheler’s ethical personalism is based on allowing the first initial grasp in intuitive apprehension of a phenomenon we enter into relation in the feeling acts of consciousness. “The actual seat of the entire value-cognition or value-intuition (*Wert-Erschauung*) comes to the fore in feeling &#91;acts&#93;, in basically love and hate, as well as the interconnections of values.”[^5] By contrast, such apprehension and discernment of the structure of being an act in Heidegger would always be mediated by an interpretive horizon. In Scheler, “all non-phenomenological experience is in principle an experience through or by means of symbols and, hence, a mediated experience that never gives things ‘themselves’.” He continues, “Only phenomenological experience is in principle *non-*symbolic and, hence, able to fulfill *all* possible symbols.”[^6] For Scheler, material *a priori* ethics is prior to the interpretive lens through which Heidegger limited phenomenology. Scheler puts this contrast of phenomenology more directly,
 
 > …phenomenology is neither the name of a new science nor a substitute for the word philosophy; it is the name of an attitude of spiritual seeing in which one can see or experience something which otherwise remains hidden, namely, a realm of facts of a particular kind. I say attitude, not method. A method is a goal-directed procedure for thinking about facts…before they have been fixed by logic, and second, of a procedure of seeing… That which is seen and experienced is given only in the seeing and experiencing of the act itself, in its being acted out; it appears in that act and only in it.[^7]
 
@@ -87,7 +103,7 @@ Scheler starts his *Human Place and the Cosmos* with three conceptions of the hu
 *    The *Created persons* interpretation is a result of the Jewish-Christian tradition. Scheler does not mention Islam as contributing to this conception of the person even though it is an Abrahamic religion like the other two just mentioned.
 *   The *Rational persons* interpretation is a result of Scheler painting with a large brush of our Ancient Greek tradition. Let me reproduce the entire passage,
 
-> …the human being is what he is through his possession of what is variably called “reason,” *logos, phronesis, ratio, mens*—“logos” meaning here the possession of speech as well as the ability to grasp the “what” \[the essence\] of each and every entity. Closely connected with this view is the theory that there is also a reason above the human being that underlies the whole universe and with which the human being alone is in a state of participation.[^24]
+> …the human being is what he is through his possession of what is variably called “reason,” *logos, phronesis, ratio, mens*—“logos” meaning here the possession of speech as well as the ability to grasp the “what” &#91;the essence&#93; of each and every entity. Closely connected with this view is the theory that there is also a reason above the human being that underlies the whole universe and with which the human being alone is in a state of participation.[^24]
 
 In this passage, we participate in a rational universe. This ontological participation harmonizes with the larger sense or order and purpose in it. Thus, we can see how and why Scheler may find the participation of persons within purpose meaningful since his phenomenology discerns the ontological relations through which we apprehend our involvement from beginning in an experience all the way through to an experience’s end. 
 

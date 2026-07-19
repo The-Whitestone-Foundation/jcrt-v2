@@ -24,4 +24,25 @@ issue: 2
 season: spring
 year: 2006
 pages:
+subjects:
+  - label: "Children"
+    scheme: "FAST"
+    identifier: "fst00854835"
+    uri: "https://id.worldcat.org/fast/854835"
+    category: "topical"
+  - label: "Life"
+    scheme: "FAST"
+    identifier: "fst01198505"
+    uri: "https://id.worldcat.org/fast/1198505"
+    category: "topical"
+  - label: "Philosophy History"
+    scheme: "FAST"
+    identifier: "fst01060788"
+    uri: "https://id.worldcat.org/fast/1060788"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
 ---

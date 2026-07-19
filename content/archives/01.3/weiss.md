@@ -8,13 +8,13 @@ author: "Dennis M Weiss"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 10
 year: 2000
 ---
 Weiss - Posthuman Pleasures - JCRT 1.3
 
-# Posthuman Pleasures: Review of N. Katherine Hayles' _How We Became Posthuman_
+## Posthuman Pleasures: Review of N. Katherine Hayles' _How We Became Posthuman_
 
 a review of _How We Became Posthuman_, N. Katherine Hayles. (Chicago: University of Chicago Press, 1999); $49.00.
 
@@ -25,7 +25,7 @@ York College of Pennsylvania
 
 _Cover shot_: _Wired_, a magazine of and for the digerati, February 2000.' Poised against an ominous backdrop, 'cybernetics pioneer' Kevin Warwick stands with his shirt sleeve rolled up ready for a fix. But in this case 'the fix' is a superimposed x-ray image disclosing a glass-enclosed microchip surgically implanted in Warwick's left arm. Warwick, the cover announces, is upgrading the human body'starting with himself. 'Cyborg 1.0,' the accompanying article penned by Warwick, outlines his plan to become one with his computer. Writes Warwick: 'I was born human. But this was an accident of fate'a condition merely of time and place. I believe it's something we have the power to change. I will tell you why' (145). Warwick intends to implant a chip in his arm that will send signals back and forth between his nervous system and a computer. For Warwick, being human is merely an accident of time and place, an accident that given the right computing power and the right cybernetics, we might well be able to 'fix.'
 
-    > If my nightmare is a culture inhabited by posthumans who regard their bodies as fashion accessories rather than the ground of being, my dream is a version of the posthuman that embraces the possibilities of information technologies without being seduced by fantasies of unlimited power and disembodied immortality, that recognizes and celebrates human finitude as a condition of human being, and that understands human life is embedded in a material world of great complexity, one on which we depend for our continued survival. (5)
+> If my nightmare is a culture inhabited by posthumans who regard their bodies as fashion accessories rather than the ground of being, my dream is a version of the posthuman that embraces the possibilities of information technologies without being seduced by fantasies of unlimited power and disembodied immortality, that recognizes and celebrates human finitude as a condition of human being, and that understands human life is embedded in a material world of great complexity, one on which we depend for our continued survival. (5)
 
     1.  The posthuman view privileges informational pattern over material instantiation, so that embodiment in a biological substrate is seen as an accident of history rather than an inevitability of life.
 
@@ -35,9 +35,9 @@ _Cover shot_: _Wired_, a magazine of and for the digerati, February 2000.' Poise
 
     4.  The posthuman view configures human being so that it can be seamlessly articulated with intelligent machines. In the posthuman, there are no essential differences or absolute demarcations between bodily existence and computer simulation, cybernetic mechanism and biological organism, robot teleology and human goals.
 
-     > Artificial life'is devoted to the creation and study of lifelike organisms and systems built by humans. The stuff of this life is nonorganic matter, and its essence is information: computers are the kilns from which these new organisms emerge. Just as medical scientists have managed to tinker with life's mechanisms in vitro, the biologists and computer scientists of a-life hope to create life _in silico_.' (5)
+> Artificial life'is devoted to the creation and study of lifelike organisms and systems built by humans. The stuff of this life is nonorganic matter, and its essence is information: computers are the kilns from which these new organisms emerge. Just as medical scientists have managed to tinker with life's mechanisms in vitro, the biologists and computer scientists of a-life hope to create life _in silico_.' (5)
 
-     > Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.' (61)
+> Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.' (61)
 
 > When system boundaries are defined by information flows and feedback loops rather than epidermal surfaces, the subject becomes a system to be assembled and disassembled rather than an entity whose organic wholeness can be assumed. (160).
 
@@ -53,9 +53,9 @@ _Cover shot_: _Wired_, a magazine of and for the digerati, February 2000.' Poise
 
 > In this account, emergence replaces teleology; reflexive epistemology replaces objectivism; distributed cognition replaces autonomous will; embodiment replaces a body seen as a support system for the mind; and a dynamic partnership between humans and intelligent machines replaces the liberal humanist subject's manifest destiny to dominant and control nature. (288)
 
-     > Although human behavior varies across a wide spectrum of actualization, it nevertheless has an underlying universal structure determined by evolutionary adaptations. Thus a _science_ of evolutionary psychology is possible, for the existence of a universal underlying structure guarantees the regularities that any science needs in order to formulate coherent and consistent knowledge. (242, italics in the original)
+> Although human behavior varies across a wide spectrum of actualization, it nevertheless has an underlying universal structure determined by evolutionary adaptations. Thus a _science_ of evolutionary psychology is possible, for the existence of a universal underlying structure guarantees the regularities that any science needs in order to formulate coherent and consistent knowledge. (242, italics in the original)
 
-     > From an evolutionary biologist's point of view, modern humans, for all their technological prowess, represent an eye blink in the history of life, a species far too recent to have significant evolutionary impact on human biological behaviors and structures .'The body is the net result of thousands of years of sedimented evolutionary history, and it is na've to think that this history does not affect human behavior at every level of thought and action. (284)
+> From an evolutionary biologist's point of view, modern humans, for all their technological prowess, represent an eye blink in the history of life, a species far too recent to have significant evolutionary impact on human biological behaviors and structures .'The body is the net result of thousands of years of sedimented evolutionary history, and it is na've to think that this history does not affect human behavior at every level of thought and action. (284)
 
 > When the body is revealed as a construct, subject to radical change and redefinition, bodies of knowledge are similarly apt to be seen as constructs, no more inevitably than the organic form that images them. (85)
 
@@ -103,11 +103,7 @@ Wolfe, Alan. _The Human Difference_. Berkeley: U of California P, 1993.
 
 > **Dennis M. Weiss** is Associate Professor of Philosophy in the English and Humanities Department at York College of Pennsylvania. He received his Ph.D. in philosophy from The University of Texas at Austin. His interests revolve around philosophical theories of human nature, feminist philosophy, and the digital culture. He is currently working on an edited collection of essays on philosophical anthropology and a text on the meaning of human being in the digital age. He has published a number of journal essays exploring the role of philosophical anthropology in contemporary philosophy, the impact of digital media on human nature, and the significance of the computer culture. These essays critique the 'thin' accounts of human nature prevalent in work on the digital culture from the perspective of the more developed, 'thick' accounts of human nature in the work of philosophical anthropologists such as Michael Landmann, Martin Buber, Jose Ortega y Gassett, Arnold Gehlen, and others.
 
-* * *
-
-> 
-
-* * *
+***
 
 2000 Dennis M. Weiss. All rights reserved.  
 Updated 07/28/21.   
@@ -143,7 +139,7 @@ Updated 07/28/21.
 
 [^16]:  Hayles' analysis of the three waves of cybernetics returns regularly to the manner in which embodied reality is made into a messy instantiation of a clean and orderly abstract form. She demonstrates how models developed in one area are transformed into multipurpose metaphors that are used to forge connections between distinct disciplinary areas. Shannon's original theory of information, as an example, was, Hayles argues, appropriate in its context but when taken out of context and appropriated by other disciplines, was mistakenly taken to be fully commensurate with human thought.
 
-[^17]:  The McCullough-Pitts neuron is another example in which a simplified model is used to 'forge connections between relatively simple neural circuits and the complexities of embodied experience' (57). Hayles persuasively demonstrates the power of analogy as the main rhetorical trope in Wiener's _The Human Use of Human Beings_, arguing that cybernetics, as a discipline, could not have been created without analogy (91). Analogy and metaphor are also the central ingredients in the narratives of artificial life that underwrite the claim that computer codes are alive and that computer programs replicating in computers are living organisms. Hayles' analysis of the rhetoric of artificial life enthusiasts demonstrates how, as she puts it, 'analogy is not incidental or belated but is central too the program's \[of artificial life\] artifactual design' (228).
+[^17]:  The McCullough-Pitts neuron is another example in which a simplified model is used to 'forge connections between relatively simple neural circuits and the complexities of embodied experience' (57). Hayles persuasively demonstrates the power of analogy as the main rhetorical trope in Wiener's _The Human Use of Human Beings_, arguing that cybernetics, as a discipline, could not have been created without analogy (91). Analogy and metaphor are also the central ingredients in the narratives of artificial life that underwrite the claim that computer codes are alive and that computer programs replicating in computers are living organisms. Hayles' analysis of the rhetoric of artificial life enthusiasts demonstrates how, as she puts it, 'analogy is not incidental or belated but is central too the program's &#91;of artificial life&#93; artifactual design' (228).
 
 [^18]:  It is precisely these analogies, metaphors, and narratives that permit the researchers in cybernetics, artificial intelligence, and artificial life to elide the difference between disembodied information and embodied materiality. The abstract models, mechanisms and rhetorical tropes appropriate to the rarefied theorizing of the science lab are mistakenly taken to objectively represent reality and anything that doesn't fit the model, including embodiment, complexity, ambiguity, particularity, and specificity, what Hayles sometimes refers to as the 'prolix noise of materiality,' (22) is seen as marginal and inessential.
 
@@ -183,7 +179,7 @@ Updated 07/28/21.
 
 [^36]:  What does she mean by 'the body' in this context? Recall that Hayles contrasts the abstract 'body' with the specificity and particularity of 'embodiment.' Here, her discussion of the history of the body would seem to elide that distinction altogether. This discussion is further complicated by fact that it implies a rather static view of the body, a view undermined by earlier comments Hayles makes. While discussing the connections between the body and technology, for instance, Hayles seems to suggest that the body is in fact quite malleable:
 
-[^37]:  Again, the meaning of 'the body' in this context is not clear. In her discussion of her own experience of virtual reality \[VR\], Hayles again implies a more malleable body, potentially at odds with her account of the body in evolutionary psychology.
+[^37]:  Again, the meaning of 'the body' in this context is not clear. In her discussion of her own experience of virtual reality &#91;VR&#93;, Hayles again implies a more malleable body, potentially at odds with her account of the body in evolutionary psychology.
 
 [^38]:  More endemic to Hayles' discussion of embodiment is the manner in which it reinscribes the very kind of dualism it is meant to overcome. Hayles' account of the posthuman is motivated in part by an effort to see the human being as an holistic phenomenon. She criticizes conceiving of information as a thing separate from the medium instantiating it as an imaginary act that constructs a holistic phenomenon as an information/matter duality (13). She cautions that the distinctions between body/embodiment and inscription/incorporation are merely heuristics for things in constant interaction (193). She refers to the holistic nature of human experience (245). Her presentation, however, regularly reinforces the idea that these are indeed two dichotomous things. She suggests that bodily practices have a physical reality that can never be fully assimilated into discourse (195). The body's competencies and skills are distinct from discourse (199). 'Abstract pattern can never fully capture the embodied actuality, unless it is as prolix and noisy as the body itself' (22). She connects embodiment to noise, unruly materiality, flux, and refers to the resistant materiality that marks our experiences as living as embodied creatures (29). She refers to embodied experience as 'noisy with error' (98). Embodiment is inherently destabilizing, a threat to hegemonic cultural constructs (197). It always deviates in some measure from its abstract representations (199).
 

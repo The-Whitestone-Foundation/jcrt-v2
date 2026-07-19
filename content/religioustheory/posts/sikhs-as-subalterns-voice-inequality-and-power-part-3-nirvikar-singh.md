@@ -18,6 +18,27 @@ tags:
   - religious
   - religion
   - social
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the third installment of a three part series. The first can be found [here]( /religioustheory/posts/sikhs-as-subalterns-voice-inequality-and-power/), the second [here]( /religioustheory/posts/sikhs-as-subalterns-voice-inequality-and-power-part-2-nirvikar-singh/). It is [published](https://jcrt.org/archives/22.2/Singh.pdf) as a catalogued .PDF in article in the latest issue of the* Journal for Cultural and Religious Theory ([22.2](https://jcrt.org/archives/22.2/)).
 
@@ -45,7 +66,7 @@ It must be noted that the analysis is easily muddied by the multiple uses of the
 
 More centrally, the idea that Sikh, like Hindu, was an amorphous category until the colonial period is explicit in recent scholarly framings.[^18] This narrative also fits with some aspects of the claim of a Sant tradition. It is beyond the scope of the current analysis to examine the empirical foundations of this narrative of colonial-era religion-making for the Sikhs, one which allows for diversity but also attempts at establishing boundaries. What is of interest here is the subtext of the Indic. The normative position associated with this narrative is quite explicitly aligned with what one might consider a modern, liberal sensibility.
 
-For example, the post-colonial situation is at odds with “the Sikh tradition’s rich, plural, and inclusive past.”[^19] Colonial-era reformers were “ideologues \[who\] employed Protestant categories of Christian missionaries to redefine Sikh concepts. As such, modern Sikhism became a well-defined ‘system’ based on a unified tradition.”[^20]  This framing is what appeals to scholars who want to posit a cozy cosmopolitanism that should be the norm for migrant outsiders (Leonard, 2007).[^21]  This narrative, aimed at one audience, fits readily into another, “This concept of unity, like Abrahamic religions, is alien to Indic faiths.”[^22]
+For example, the post-colonial situation is at odds with “the Sikh tradition’s rich, plural, and inclusive past.”[^19] Colonial-era reformers were “ideologues &#91;who&#93; employed Protestant categories of Christian missionaries to redefine Sikh concepts. As such, modern Sikhism became a well-defined ‘system’ based on a unified tradition.”[^20]  This framing is what appeals to scholars who want to posit a cozy cosmopolitanism that should be the norm for migrant outsiders (Leonard, 2007).[^21]  This narrative, aimed at one audience, fits readily into another, “This concept of unity, like Abrahamic religions, is alien to Indic faiths.”[^22]
 
 In a nutshell, the framings of a colonial-era rupture in Sikh tradition, all involving a foreshortened (and arguably selective) view of its history, present a choice between two forms of intellectual subalternity for contemporary Sikhs. Post-colonial Sikhs have lost their liberal pluralism, whether that was rooted in the Indic or some other, unspecified, sensibility of cosmopolitanism.[^23]  Either way, they are framed as intellectually subaltern. Their lack of voice to contest this position is itself a product of inequalities of power, so one kind of subalternity engenders another.
 

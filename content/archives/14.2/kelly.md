@@ -23,4 +23,25 @@ issue: 2
 season: spring
 year: 2015
 pages:
+subjects:
+  - label: "Envy"
+    scheme: "FAST"
+    identifier: "fst00913583"
+    uri: "https://id.worldcat.org/fast/913583"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Vices"
+    scheme: "FAST"
+    identifier: "fst01166263"
+    uri: "https://id.worldcat.org/fast/1166263"
+    category: "topical"
+  - label: "Virtues"
+    scheme: "FAST"
+    identifier: "fst01167724"
+    uri: "https://id.worldcat.org/fast/1167724"
+    category: "topical"
 ---

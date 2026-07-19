@@ -8,13 +8,13 @@ author: "Neal Magee"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2001
 ---
 Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
 
-# Heidegger, Religion, and the Transience of Digital Memory
+## Heidegger, Religion, and the Transience of Digital Memory
 
 Neal E. Magee  
 Syracuse University
@@ -41,7 +41,7 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
 
 [![](https://jcrt.org/images/archives/02.3/images/image003.webp)](http://www.optidigit.com/stevens/about.html)8.  Webbie Tookay and other digital creations present a new class of citizens known as "Super Virtual Models," valued for their effortless figures, minimal diets, and the ability to be in many places at once. Ms. Tookay is even represented by [Illusion2k](http://www.illusion2k.com/), a modeling agency run by Casablancas for virtual models. Interestingly, she is inspired not by an actual individual, but by the cult heroine Lara Croft, who starred in the _Tomb Raider_ video games series and who is currently portrayed by Angelina Jolie in the current film based on the video game.[^7] Adds Mr. Casablancas, "sometimes I wish all models were virtual."[^8]
 
-> The world's night is spreading its darkness. The era is defined by the god's failure to arrive, by the 'default of God,' ... \[which means that\] no god any longer gathers men and things unto himself, visibly and unequivocally, and by such gathering disposes the world's history and man's sojourn in it. ...[^11]
+> The world's night is spreading its darkness. The era is defined by the god's failure to arrive, by the 'default of God,' ... &#91;which means that&#93; no god any longer gathers men and things unto himself, visibly and unequivocally, and by such gathering disposes the world's history and man's sojourn in it. ...[^11]
 
 > Poets are the mortals who, singing earnestly of the wine-god, sense the trace of the fugitive gods, stay on the gods' tracks, and so trace for their kindred mortals the way toward the turning. ' This is why the poet in the time of the world's night utters the holy.[^13]
 
@@ -65,7 +65,7 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
 > Someday maybe  
 > I'll remember to forget._[^21]
 
-> We \[pragmatists\] simply refuse to talk in a certain way, the Platonic way. The views we hope to persuade people to accept cannot be stated in Platonic terminology. So our efforts at persuasion must take the form of gradual inculcation of new ways of speaking, rather than of straightforward argument within old ways of speaking.[^22]
+> We &#91;pragmatists&#93; simply refuse to talk in a certain way, the Platonic way. The views we hope to persuade people to accept cannot be stated in Platonic terminology. So our efforts at persuasion must take the form of gradual inculcation of new ways of speaking, rather than of straightforward argument within old ways of speaking.[^22]
 
 * * *
 
@@ -77,13 +77,9 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
 
 > **Neal E. Magee** is currently a doctoral student in the Department of Religion at Syracuse University and Technical Editor of the _Journal for Cultural and Religious Theory_. He attended Flagler College in St. Augustine, Florida, and received a M.Div. from Princeton Theological Seminary in 1997, where he then served as the Seminary's first Webmaster. Neal has research interests in modern and contemporary philosophical theology, primarily epistemology, metaphysics, and hermeneutics. He is writing his dissertation on the recurring turn toward the negative within the history of Western theology.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Neal E. Magee All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Neal E. Magee All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/magee](https://jcrt.org/archives/02.3/magee/)
 

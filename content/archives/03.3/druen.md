@@ -8,13 +8,13 @@ author: "Perri Druen"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 07
 year: 2002
 ---
 Druen - Book Profile: Sacred Pain - JCRT 3.3 
 
-# Book Profile: _Sacred Pain_
+## Book Profile: _Sacred Pain_
 
 a review of Ariel Glucklich,'_[Sacred Pain](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0195132548&bfmtype=book)_. Oxford University Press, 2001.'278pp. $21.00. ISBN: 0195132548
 
@@ -29,13 +29,9 @@ Pain can be "medicine, a test, a rite of passage, or an alchemical agent of inne
 
 > **Perri Druen** is Associate Professor of Psychology at York College of Pennsylvania, having obtained her Ph.D. in Social Psychology and Personality from the University of Louisville. She has published several articles and made numerous presentations of her work on identity development, coping, and close relationships.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Perri Druen. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Perri Druen. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/druen](https://jcrt.org/archives/03.3/druen/)
 

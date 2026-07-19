@@ -19,6 +19,22 @@ tags:
   - philosophy
   - philosophical
   - traditional
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the sixth lecture in an eight-lecture series. The most recent one can be found [here.]( /religioustheory/posts/god-and-history-lecture-5-johannes-zachhuber/)*
 

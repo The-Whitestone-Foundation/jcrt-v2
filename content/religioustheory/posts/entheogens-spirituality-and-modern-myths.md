@@ -18,6 +18,22 @@ tags:
   - spiritual
   - theory
   - religion
+subjects:
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---
 *The following is the first of a three-part* series.
 
@@ -31,7 +47,7 @@ Because they appeared spontaneously during the course of my interviews, I chose 
 
 However, instead of exploring outer space, the psychonaut journeys into the recesses of their own psyche, via entheogenic substances such as peyote, ayahuasca, psilocybin mushrooms or lsd. These are specially sought-after forms of subjectivity that individuals seek out, usually within the context of shamanistic ceremonial rituals, that are based in part on hallucinogenic experiences.
 
-Contemporary studies of Lewis Carroll’s *Alices* involve everything from mathematical treatises on logic and game theory to specialized analyses of its poetry, folklore, and relations to quest literature. The works have been reviewed so thoroughly that Hélène Cixous claims we have reached the point where, “to be honest, the territory \[Carroll’s texts\] is so well studied, its stratifications uncovered in every direction, that it seems bold or even impossible “to add” anything”.[^1] Perhaps it is true that Carroll’s critics have run the full gamut of interpretive possibilities. However, aside from being the theme of a psychedelic song “White Rabbit” written by Jefferson Airplane in the mid-1960s, I am unaware of any reference that seeks to connect the *Alice* narratives specifically with those of modern experimental religions.
+Contemporary studies of Lewis Carroll’s *Alices* involve everything from mathematical treatises on logic and game theory to specialized analyses of its poetry, folklore, and relations to quest literature. The works have been reviewed so thoroughly that Hélène Cixous claims we have reached the point where, “to be honest, the territory &#91;Carroll’s texts&#93; is so well studied, its stratifications uncovered in every direction, that it seems bold or even impossible “to add” anything”.[^1] Perhaps it is true that Carroll’s critics have run the full gamut of interpretive possibilities. However, aside from being the theme of a psychedelic song “White Rabbit” written by Jefferson Airplane in the mid-1960s, I am unaware of any reference that seeks to connect the *Alice* narratives specifically with those of modern experimental religions.
 
 Books such as *Alice in Acidland[^2] * have attempted to relate 1960s psychedelic culture to its story elements. But they do not explore either religious or spiritual themes in connection with them, and so remain superficial analyses of altered psychological states. The present study also references some of the common subjective states individuals experience while using psychedelics. Let it be clear from the outset, however, that my analysis will not include a comprehensive history or review of hallucinogens and their effects.
 

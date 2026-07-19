@@ -17,13 +17,29 @@ keywords:
   - 1861-1947
   - alfred-north
   - whitehead
-pdf:
+pdf: false
 sort_id: 06
 volume: 1
 issue: 2
 season: spring
 year: 2000
 pages:
+subjects:
+  - label: "Cosmology"
+    scheme: "FAST"
+    identifier: "fst00880600"
+    uri: "https://id.worldcat.org/fast/880600"
+    category: "topical"
+  - label: "Emotions"
+    scheme: "FAST"
+    identifier: "fst00908819"
+    uri: "https://id.worldcat.org/fast/908819"
+    category: "topical"
+  - label: "Language and languages Philosophy"
+    scheme: "FAST"
+    identifier: "fst00992193"
+    uri: "https://id.worldcat.org/fast/992193"
+    category: "topical"
 ---
 Vahanian - Rebellious No - JCRT 1.2
 
@@ -42,14 +58,14 @@ All human discourse is testimony to finitude, and what is meant here, by finitud
     
 5.  Is there not a rebelliousness against _symbolic reference\*_ inherent in the very desire for theology? If this is the case, then the rebellious no to the necessity of time and place is, in the end, the possibility for saying yes to fate.
     
-    > \* _Symbolic reference is the passage from the mere apprehension of a datum to its conceptualization and verbalization--it is the leap to language and understanding. It has the same function as Kant’s transcendental imagination or Derrida’s _Différance_._
+> \* _Symbolic reference is the passage from the mere apprehension of a datum to its conceptualization and verbalization--it is the leap to language and understanding. It has the same function as Kant’s transcendental imagination or Derrida’s _Différance_._
     
 6.  Giorgio Agamben illustrates this rebellious no when he writes of the desire for an unattainable object of the melancholic, the substitution of part for a whole in synecdoche, the _Verleugnung_ of the fetishist who simultaneously perceives and denies the reality of the _lost_ penis, and the fetishistic character of the exchange value of a commodity--its useless value.[^1]
 7.  The rebellious no is the desire to evade the necessary troping of desire. It is the impetus to desire this or that, and then, this rather than that, or nothing, an unnameable nothing. The rebellious no is this force that is at once idolatrous and iconoclastic: iconoclastic because it always wants something else, idolatrous because this something else becomes hypostatized--as in _happiness_, or _God_.
     
 8.  In the Whitheadian cosmology, the concept of the rebellious no falls somewhere within the awareness that one can be dissatisfied by the satisfaction of one's _subjective aim\*_. It is from this unseemly paradox that we will depart, in an attempt to give definition and context to the rebellious no.
 
- > \* _The subjective aim is the telos of a concrescence of feelings and concepts (also called a proposition) to their aim as an actual entity. A subjective aim is satisfied when a concrescence is actualized according to the bent of its components. All things actual are the result of the satisfaction of their aim. Whether their aim is to please us or not is irrelevant._
+> \* _The subjective aim is the telos of a concrescence of feelings and concepts (also called a proposition) to their aim as an actual entity. A subjective aim is satisfied when a concrescence is actualized according to the bent of its components. All things actual are the result of the satisfaction of their aim. Whether their aim is to please us or not is irrelevant._
 
 ---
 

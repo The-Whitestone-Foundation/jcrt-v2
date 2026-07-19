@@ -29,4 +29,25 @@ issue: 2
 season: summer
 year: 2008
 pages:
+subjects:
+  - label: "Continental philosophy"
+    scheme: "FAST"
+    identifier: "fst01765182"
+    uri: "https://id.worldcat.org/fast/1765182"
+    category: "topical"
+  - label: "God Philosophy"
+    scheme: "FAST"
+    identifier: "fst00944097"
+    uri: "https://id.worldcat.org/fast/944097"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Psychoanalysis and religion"
+    scheme: "FAST"
+    identifier: "fst01081280"
+    uri: "https://id.worldcat.org/fast/1081280"
+    category: "topical"
 ---

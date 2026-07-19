@@ -23,6 +23,27 @@ tags:
   - religion
   - orientation
   - ontology
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Orientation"
+    scheme: "FAST"
+    identifier: "fst01048147"
+    uri: "https://id.worldcat.org/fast/1048147"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/orientalism-ontology-and-orientation/). The full article is published in the spring 2022 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org)*.*
 

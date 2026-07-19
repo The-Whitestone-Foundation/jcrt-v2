@@ -20,6 +20,27 @@ tags:
   - ontology
   - necessity
   - cosmic
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Science"
+    scheme: "FAST"
+    identifier: "fst01108176"
+    uri: "https://id.worldcat.org/fast/1108176"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/scale-relative-ontology-and-simone-weils-spiritual-philosophy-part-1-n-e-boulting/).*
 

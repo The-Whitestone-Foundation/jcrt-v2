@@ -8,13 +8,13 @@ author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 10
 year: 2003
 ---
 Taylor - Refusing Theory - JCRT 4.2 
 
-# Refusing Theory: Avital Ronell and the Structure of Stupidity
+## Refusing Theory: Avital Ronell and the Structure of Stupidity
 
 Victor Taylor  
 York College of Pennsylvania
@@ -57,62 +57,62 @@ York College of Pennsylvania
 
 Refusal, especially of theory and thinking, takes on many forms, visceral, fantastic, and linguistic. The first two are easily traced as "refusal" manifests itself as "strong reaction," either in tossing or in the fantasy of tossing a theory book or colleague out of a window--the complement to Wittgenstein's "poker." The third form of refusal is much more difficult to locate since it appears or seems to appear as something _not there_ or _not understood_ or _not gotten._ These "refusals" are "performative contradictions" in speech. Not understanding[^1] or, too simply, stupidity follows in this direction insofar as it expresses itself by its incapacity to properly express itself linguistically. "Duh," "er," "um," are instances of this refusal, a refusal of meaning. But is it altogether wrong to refuse meaning? Let's examine "duh." "Duh."[^2] It is generally understood to be an extra or para-linguistic symptom of discourse's pause or failure'something akin to Aristotle's "mere voice" or an animal _phone_[^3]. It is not a word _per se_ since it references the "unavailability" of discourse proper, but it is the title of a book, a website, and, now, included in an academic essay, perhaps not the first. "Duh" evokes presence through a feeling of absence, marking that which is unavailable to discourse or that which is obvious. For example, "'_Duh' evokes presence through a feeling of absence, marking that which is unavailable to discourse or that which is obvious, duh (or 'no duh')_." Since "duh" or even "no duh" is an extra or para-linguistic phenomenon expressing or performing an unavailability of or obviousness within discourse, it has theoretical consequences and, more precisely, consequences for the future of theory. "Duh," as a pause or failure or refusal, has been and remains the response to theory. This is easily testable by saying "_diff'rance_" in a departmental meeting. The testable "duh" transforms into the detestable "duh" as the pause or failure turns to "duh" as the expression or performance of the obvious--"duh (or duuuh), that's theory," a revving up or a coming to realization of some awareness, however minimal or previously unavailable discourse. "Duh" is not all bad, however. "Duh" has a significant place in the discursive practices surrounding academic, sometimes intellectual, discourse. "Duh" is evocative, calling up, as it were, stupidity's rich tradition and within this tradition "duh" stands the ground of refusal. Refusing "duh" means resisting stupidity and its double, a "refusing duh," conjures up a break between discourse and world. This duality of "duh," the evocation of stupidity and its refusal, also elicits a response from knowing, stupidity's reciprocal and necessary condition.
 
-    > It is undoubtedly someone's responsibility to name that which is stupid. In the recent past the task of denouncing stupidity, as if in response to an ethical call, has fallen to the "intellectual" or to someone who manages language beyond the sphere of its private contingencies. At least this is part of the fantasy: consider the tone of French, German, and English writers, not to say certain academics, who ceaselessly expose that which is stupid or has failed in understanding. Locating the space of stupidity has been part of a repertoire binding any intelligent'or, finally, stupid'activity that seeks to establish itself and territorialize its findings. The relatedness of stupidity to intelligence and, of possibly greater consequence, the status of modulations, usages, crimes, and valuations of stupidity itself remain to a large degree absent from the concerns of contemporary inquiry. No ethics or politics has been articulated to act upon its pervasive pull. Yet stupidity is everywhere.[^9] ''''''
+> It is undoubtedly someone's responsibility to name that which is stupid. In the recent past the task of denouncing stupidity, as if in response to an ethical call, has fallen to the "intellectual" or to someone who manages language beyond the sphere of its private contingencies. At least this is part of the fantasy: consider the tone of French, German, and English writers, not to say certain academics, who ceaselessly expose that which is stupid or has failed in understanding. Locating the space of stupidity has been part of a repertoire binding any intelligent'or, finally, stupid'activity that seeks to establish itself and territorialize its findings. The relatedness of stupidity to intelligence and, of possibly greater consequence, the status of modulations, usages, crimes, and valuations of stupidity itself remain to a large degree absent from the concerns of contemporary inquiry. No ethics or politics has been articulated to act upon its pervasive pull. Yet stupidity is everywhere.[^9] ''''''
 
-    > Now the story of Thompson's signature, of what happened when Mr. Thompson, on that day, passed into perpetuity, cannot be restricted in range or significance to the status of example or anecdote, a parable in which the column would be left standing. In a rigorous sense, Thompson did pull the column from a context it might have enjoyed without his appropriative signature. It is as though the signing, a synecdoche of stupidity, defacing the memorial, had unstoppable consequences. Henceforth the monument essentially attributes stupidity and, for Flaubert at least, will have always been its attribute: Thompson has effected a substantiation of the attribute, for there is no stupidity without monument. Flagging the ancient, he answered a call that was no put out. The na've and insolent arrogance that consists in responding where no response is invited is an effect of monumental arrogance.[^12]
+> Now the story of Thompson's signature, of what happened when Mr. Thompson, on that day, passed into perpetuity, cannot be restricted in range or significance to the status of example or anecdote, a parable in which the column would be left standing. In a rigorous sense, Thompson did pull the column from a context it might have enjoyed without his appropriative signature. It is as though the signing, a synecdoche of stupidity, defacing the memorial, had unstoppable consequences. Henceforth the monument essentially attributes stupidity and, for Flaubert at least, will have always been its attribute: Thompson has effected a substantiation of the attribute, for there is no stupidity without monument. Flagging the ancient, he answered a call that was no put out. The na've and insolent arrogance that consists in responding where no response is invited is an effect of monumental arrogance.[^12]
 
-     > While I was resolutely not learning Tai Chi vocabulary, Deleuze had ended his life. In the memories and papers that remained, Deleuze, it was reported, had called for a thinking of stupidity: no one had ever produced a discourse, he was remembered to have said, that interrogates the transcendental principles of stupidity. I received this call as an assignment'when I write I am always taking a call, I am summoned from elsewhere, truly from the dead, even if they are my contemporaries.[^21]
+> While I was resolutely not learning Tai Chi vocabulary, Deleuze had ended his life. In the memories and papers that remained, Deleuze, it was reported, had called for a thinking of stupidity: no one had ever produced a discourse, he was remembered to have said, that interrogates the transcendental principles of stupidity. I received this call as an assignment'when I write I am always taking a call, I am summoned from elsewhere, truly from the dead, even if they are my contemporaries.[^21]
 
-     > And
-     > 
-     > Date: Mon, 3 2003 09:35:06-0500
-     > From:''' Avital Ronell ar3@nyu.edu
-     > To:''''' "Victor Taylor" >
-     >
-     >
-     >  '
-     > Dear Victor,
-     >  
-     > I've been going nutz with overwork (I'm chair of my dept. in 
-     > addition to everything else). Tell me, is it too late to respond
-     > to you?
-     > 
-     > Very best,
-     >  
-     > AR
-     >  
-     >
-     >
-     > Quoting Avital Ronell ar3@nyu.edu:
-     >
-     >
-     > Professor Ronell,
-     >  
-     > Thank you for your reply. I have until April 15th. Respond by 
-     > email?
-     >  
-     > Victor
-     >  
-     > This special issue of the JCRT centers on Jean-Michel Rabat''s 
-     > "future of theory"-- a "future" that encompasses both the 
-     > possibility of theory "in" the future and the condition of theory
-     > "for" the future. Your many critical essays and books, Crack 
-     > Wars: Literature, Addiction, Mania, Dictations: On Haunted 
-     > Writing, The Telephone Book: Technology, Schizophrenia, Electric
-     > Speech, Finitude's Score: Essays for the End of the Millennium, 
-     > and, most recently, Stupidity, have not only helped us define 
-     > "theory" or theoretical inquiry across the humanities, but have 
-     > extended our understanding of "theory" as a complex engagement 
-     > with, among other things, the crisis in/for thinking and acting.
-     > While many scholars in this age of post-theory have turned or 
-     > returned to more elaborate forms of historical, political, or 
-     > aesthetic "explication," you have continued with "theory." That 
-     > is, your writings resist this easy reductionism in style and 
-     > content, leaving the reader with increasingly more "difficult" 
-     > texts. Could you comment on this intellectual "burden"? The 
-     > burden of theoretical inquiry in an age of born-again criticism?
+> And
+> 
+> Date: Mon, 3 2003 09:35:06-0500
+> From:''' Avital Ronell ar3@nyu.edu
+> To:''''' "Victor Taylor" >
+>
+>
+>  '
+> Dear Victor,
+>  
+> I've been going nutz with overwork (I'm chair of my dept. in 
+> addition to everything else). Tell me, is it too late to respond
+> to you?
+> 
+> Very best,
+>  
+> AR
+>  
+>
+>
+> Quoting Avital Ronell ar3@nyu.edu:
+>
+>
+> Professor Ronell,
+>  
+> Thank you for your reply. I have until April 15th. Respond by 
+> email?
+>  
+> Victor
+>  
+> This special issue of the JCRT centers on Jean-Michel Rabat''s 
+> "future of theory"-- a "future" that encompasses both the 
+> possibility of theory "in" the future and the condition of theory
+> "for" the future. Your many critical essays and books, Crack 
+> Wars: Literature, Addiction, Mania, Dictations: On Haunted 
+> Writing, The Telephone Book: Technology, Schizophrenia, Electric
+> Speech, Finitude's Score: Essays for the End of the Millennium, 
+> and, most recently, Stupidity, have not only helped us define 
+> "theory" or theoretical inquiry across the humanities, but have 
+> extended our understanding of "theory" as a complex engagement 
+> with, among other things, the crisis in/for thinking and acting.
+> While many scholars in this age of post-theory have turned or 
+> returned to more elaborate forms of historical, political, or 
+> aesthetic "explication," you have continued with "theory." That 
+> is, your writings resist this easy reductionism in style and 
+> content, leaving the reader with increasingly more "difficult" 
+> texts. Could you comment on this intellectual "burden"? The 
+> burden of theoretical inquiry in an age of born-again criticism?
 
-     > A tyrant institutionalized stupidity, but he is the first servant of his own system and the first to be installed within it. Slaves are always commanded by another slave. Here too, how could the concept of error account for this unity of stupidity and cruelty, of the grotesque and the terrifying, which doubles the way of the world? Cowardice, cruelty, baseness and stupidity are not simply corporeal capacities or traits of character or society; they are structures of thought as such. The transcendental landscape comes to life: places for the tyrant, the slave and the imbecile must be found within it--without the place resembling the figure who occupies it, and without the transcendental ever being traced from empirical figures which it makes possible. It is always our belief in the postulates of the _Cogitatio_ which prevents us from making stupidity a transcendental problem. Stupidity can then be no more than an empirical determination, referring back to psychology or to the anecdotal--or worse, to polemic and insults--and to the especially atrocious pseudo-literary genre of the _sottiser_.[^22]
+> A tyrant institutionalized stupidity, but he is the first servant of his own system and the first to be installed within it. Slaves are always commanded by another slave. Here too, how could the concept of error account for this unity of stupidity and cruelty, of the grotesque and the terrifying, which doubles the way of the world? Cowardice, cruelty, baseness and stupidity are not simply corporeal capacities or traits of character or society; they are structures of thought as such. The transcendental landscape comes to life: places for the tyrant, the slave and the imbecile must be found within it--without the place resembling the figure who occupies it, and without the transcendental ever being traced from empirical figures which it makes possible. It is always our belief in the postulates of the _Cogitatio_ which prevents us from making stupidity a transcendental problem. Stupidity can then be no more than an empirical determination, referring back to psychology or to the anecdotal--or worse, to polemic and insults--and to the especially atrocious pseudo-literary genre of the _sottiser_.[^22]
 
 **II**
 
@@ -185,13 +185,13 @@ Why does Avital Ronell answer Deleuze? Here, one must be a "disloyal reader" of 
 
 Avital Ronell's "high Oedipal energy" study, as it cuts across the various appearances of stupidity in literature and philosophy, makes its own call. It is, in many ways, a call to "refusal"'a refusal to set aside difficulty and complexity, to set aside the call itself. The future of theory, I'll argue, is intimately related to the place of refusal in the humanities--refusing "duh" and "refusing duh"/refusing theory and "refusing theory." More than Bartleby's "preference" not to, not to live, Ronell's "refusal" is an anticipation of death, death as finality. As one thinks, one must be committed to life with this in mind, much in the same way Deleuze, ironically, championed vitality and creation, which is pure possibility. What, then, is the possibility of theory? Theory's future as it engages, refuses, and loses to stupidity? The answer begins not with a refusal of stupidity, however, but with a refusal of theory. Everyone associated with "theory" has what Ronell terms an "autobiographical ordeal," sometimes more than one, illustrating a resistance to theory. Ronell relates several in _Stupidity_\--one early in her career and the other at UC Berkeley where, as she describes it, had an "eviction" notice tacked to her door. The lesson from these "ordeals" and others is that when stupidity refuses theory something complex occurs'stupidity acts contrary to its own stupid impulse. Theory forces stupidity to become "theoretical," to, contrary to what Ronell argues, see itself or part of itself. In other words, stupidity reveals its own stupidity by drawing a contiguous line of thought from rhetoric to world, either in an "eviction" notice, rejection of a theory manuscript ("the fad of theory is over"), or in a negative tenure ballot ("His/her courses are too theoretical for our students"). In these instances, stupidity seeks refuge in "simplicity," a simplicity that it unavoidably complicates by its own act of referral to a homogeneous reality that does not exist.
 
-     > The philosopher, the scientist, and the artist seem to return from the land of the dead. What the philosopher brings back from the chaos are _variations_ that are still infinite but that have become inseparable on the absolute surfaces or in the absolute volumes that lay out a secant \[_s'cant_\] plane of immanence: these are not associations of distinct ideas, but reconnections through a zone of indistinction in a concept. The scientist brings back from the chaos _variables_ that have become independent by slowing down, that is to say, by the elimination of whatever other variabilities are liable to interfere, so that the variables that are retained enter into determinable relations in a function: they are no longer links of properties in things, but finite coordinates on a secant plane of reference that go from local probabilities to a global cosmology. The artist brings back from the chaos _varieties_ that no longer constitute a reproduction of the sensory in the organ but set up a being of the sensory, a being of sensation, on an anorganic plane of composition that is able to restore the infinite.[^31]
+> The philosopher, the scientist, and the artist seem to return from the land of the dead. What the philosopher brings back from the chaos are _variations_ that are still infinite but that have become inseparable on the absolute surfaces or in the absolute volumes that lay out a secant &#91;_s'cant_&#93; plane of immanence: these are not associations of distinct ideas, but reconnections through a zone of indistinction in a concept. The scientist brings back from the chaos _variables_ that have become independent by slowing down, that is to say, by the elimination of whatever other variabilities are liable to interfere, so that the variables that are retained enter into determinable relations in a function: they are no longer links of properties in things, but finite coordinates on a secant plane of reference that go from local probabilities to a global cosmology. The artist brings back from the chaos _varieties_ that no longer constitute a reproduction of the sensory in the organ but set up a being of the sensory, a being of sensation, on an anorganic plane of composition that is able to restore the infinite.[^31]
 
      And Avital Ronell from "Kant Satellite: The Figure Of The Ridiculous Philosopher; Or, Why I Am So Popular":
 
-     > _The satellite is set to gather information on the paradoxes and aporias of world-class popularity. As the device that tracks its findings, I can only open the dossier on this problem. A mere copier and data bank attached invisibly to a larger apparatus, I am programmed to situate the problem and respond to its call. Scanning and recording, I regulate the flow and generate further signals. There is something they're trying to tell me about an ancient complicity among Kant, Kierkegaard, and Kafka, and this consortium, they maintain, is related to the coordinates of what has passed for French theory. A matter of top planetary priority, high maintenance: high as Mount Moriah. Archival anxiety turning the clock back to what it never finished telling_.[^32]
+> _The satellite is set to gather information on the paradoxes and aporias of world-class popularity. As the device that tracks its findings, I can only open the dossier on this problem. A mere copier and data bank attached invisibly to a larger apparatus, I am programmed to situate the problem and respond to its call. Scanning and recording, I regulate the flow and generate further signals. There is something they're trying to tell me about an ancient complicity among Kant, Kierkegaard, and Kafka, and this consortium, they maintain, is related to the coordinates of what has passed for French theory. A matter of top planetary priority, high maintenance: high as Mount Moriah. Archival anxiety turning the clock back to what it never finished telling_.[^32]
 
-     > The biggest bluff, for all that, may have occurred when the delusion was implanted, the hope nurtured, of a chosen people. Isaac, he was and was not called. More radically uncertain than persecution (when you know they're after you, you're already dead meat; you _are_ the ram caught in the bushes) is being cheated by the call. Too stupid to know whether your name was called, you are ridiculous . You are ready to go up for the sacrifice, but in the last moment you are benched. They don't need you. An animal will serve the purpose, your purpose. This call, it told you that you were the one, the chosen. You set yourself up to receive it, you were set up. A cheated cheater. It was no longer recognizable whether the call meant to serve as punishment or reward. Your father took the call. You inherited it, with all the expected static; you inherited his burden, which you thought you could lighten. You followed your father in mute complicity. As you were walking, as he was preparing to give you up, you could not tell, you simply could not decide, whether this call that expelled you from your house was a blessing or a curse.[^33]
+> The biggest bluff, for all that, may have occurred when the delusion was implanted, the hope nurtured, of a chosen people. Isaac, he was and was not called. More radically uncertain than persecution (when you know they're after you, you're already dead meat; you _are_ the ram caught in the bushes) is being cheated by the call. Too stupid to know whether your name was called, you are ridiculous . You are ready to go up for the sacrifice, but in the last moment you are benched. They don't need you. An animal will serve the purpose, your purpose. This call, it told you that you were the one, the chosen. You set yourself up to receive it, you were set up. A cheated cheater. It was no longer recognizable whether the call meant to serve as punishment or reward. Your father took the call. You inherited it, with all the expected static; you inherited his burden, which you thought you could lighten. You followed your father in mute complicity. As you were walking, as he was preparing to give you up, you could not tell, you simply could not decide, whether this call that expelled you from your house was a blessing or a curse.[^33]
 
 * * *
 
@@ -210,11 +210,7 @@ What food do you like that the "hunger artist" may have enjoyed?
 
 > **Victor Taylor** teaches in comparative literature and humanities at York College of Pennsylvania. His books include _Para/Inquiry: Postmodern Religion and Culture_ (Routledge 2000), _The Encyclopedia of Postmodernism_ (Routledge 2001), _Postmodernism: Critical Concepts_ (Routledge 1998), and _The Religious Pray, The Profane Swear_ (Pen Mark Press, 2002). He is executive editor of the _JCRT_ and currently completing work on two volumes, _Intimacy and Mourning: Myth and the Postmodern Imagination_ and _Cultural/Rhetorical Theory_.
 
-* * *
-
-> 
-
-* * *
+***
 
 © 2003 Victor Taylor. All rights reserved.  
 Updated 07/28/21.
@@ -225,13 +221,13 @@ Updated 07/28/21.
 
 [^2]: In _Stupidity_, Avital Ronell refers to literary, philosophical, and cultural "stupidity." "Duh" falls within the literary, Charles Bovary Bouvard, and P'cuchet stand as examples of literature's "interminable duh": "Whether in the precincts of the literary or the psychological, stupidity offers a whirligig of imponderables: as irreducible obstinacy, tenacity, compactness, the infissurable, it is at once dense and empty, cracked, the interminable "duh!" of contemporary usage. A total loser, stupidity is also that which rules, reproducing itself in clich's, in innocence and the abundance of world. It is at once unassailable and the object of terrific violence" (38).
 
-[^3]: Aristotle, _Politics_, I, 1253b 8-12: ". . . \[m\]an is the only animal whom she has endowed with the gift of speech. And whereas mere voice is but an indication of pleasure or pain, and is therefore found in other animals."
+[^3]: Aristotle, _Politics_, I, 1253b 8-12: ". . . man is the only animal whom she has endowed with the gift of speech. And whereas mere voice is but an indication of pleasure or pain, and is therefore found in other animals."
 
-[^4]:  "Duh" is an evocation of the obvious and an instantiation of discourse's pause or failure, but not the pause or failure of thinking. "Duh" demonstrates the interval between the "constative" and "performative" aspects of language. To this extent, "duh" is a critical, performative figure within the space of theoretical inquiry. "Duh" is para/extra-grammatical, yet it provides meaning through a performance of the _not there_ or the _not getting it_. More than a simple phenomenon of speech-act theory, "duh" draws language into deconstructive operations; or, as Paul de Man writes in _Allegories of Readings_, "\[t\]here can be no text without grammar: the logic of grammar generates texts only in the absence of referential meaning, but every text generates a referent that subverts the grammatical principle to which it owed its constitution."[^4] He continues that "\[w\]hat remains hidden in the everyday use of language, the fundamental incompatibility between grammar and meaning, becomes explicit when the linguistic structures are stated."[^5] "Duh" becomes the "subversive duh" as it means _not there_ or _not getting_ _it_ and performs the possibility of "something" _not there_ or "something" _not gotten_. The "subversive duh" enacts and betrays its own stupidity by marking its own allegorical structure and necessary relationship to knowing and not knowing.
+[^4]:  "Duh" is an evocation of the obvious and an instantiation of discourse's pause or failure, but not the pause or failure of thinking. "Duh" demonstrates the interval between the "constative" and "performative" aspects of language. To this extent, "duh" is a critical, performative figure within the space of theoretical inquiry. "Duh" is para/extra-grammatical, yet it provides meaning through a performance of the _not there_ or the _not getting it_. More than a simple phenomenon of speech-act theory, "duh" draws language into deconstructive operations; or, as Paul de Man writes in _Allegories of Readings_, "there can be no text without grammar: the logic of grammar generates texts only in the absence of referential meaning, but every text generates a referent that subverts the grammatical principle to which it owed its constitution."[^4] He continues that "what remains hidden in the everyday use of language, the fundamental incompatibility between grammar and meaning, becomes explicit when the linguistic structures are stated."[^5] "Duh" becomes the "subversive duh" as it means _not there_ or _not getting_ _it_ and performs the possibility of "something" _not there_ or "something" _not gotten_. The "subversive duh" enacts and betrays its own stupidity by marking its own allegorical structure and necessary relationship to knowing and not knowing.
 
 [^4]: Paul de Man, _Allegories of Reading: Figural Language in Rousseau, Nietzsche, Rilke, and Proust_. New Haven: Yale University Press, 1979, p. 269.
 
-[^5]:  Avital Ronell's _Stupidity_ is an _unreadable_ (see Paul de Man), dense, and comprehensive study of the phenomenon and concept of "stupidity" that at times seems to belong more to the field of epidemiology than to the disciplines of philosophy and literature. Stupidity is a condition, with an array of symptoms, definitions, and contexts within Western literary and philosophical culture. "The temptation," Ronell writes in her introduction entitled "Slow Learner," "is to wage war on stupidity as if it were a vanquishable object."[^6] War on stupidity, as a war on anything else, presumes that some original order can be regained or restored'some state of purity achieved. Wars on drugs and disease revolve around the rhetoric of health--bodily, spiritual, and communal. Wars promise to return us to peace and harmony. Wars promise to right wrongs or vanquish "evildoers" or "theorists" or those not considered to be "the children of God." Departmental or academic-ideological wars are more complicated, as anyone in higher education has learned, however slowly. These are designer wars, promising nothing other than change or business as usual and delivering on neither. These are wars for and against stupidity'wars that never can be won or lost. This fact of stupidity, to the extent we have facts of stupidity, moves Ronell's analysis forward: "Stupidity exceeds and undercuts materiality, runs loose, wins a few rounds, recedes, gets carried home in the clutch of denial'and returns."[^7] Stupidity is not just "bad" thinking or cognitive, calculative error. It isn't simply mistake: 7+5=13. It is much more and much less than those banal failures of information retrieval and calculation. Stupidity is "essentially linked to the inexhaustible . . . \[it\] is that which fatigues knowledge and wears down history."[^8] Stupidity is heavy, dull, and slow, with no interest other than to have no interest . . . no thinking . . . only to advance procedure and format, ending in the perpetual violence that is the ineluctable status quo. The future of theory, then, will be, like the future of everything else, stupid, but not completely.
+[^5]:  Avital Ronell's _Stupidity_ is an _unreadable_ (see Paul de Man), dense, and comprehensive study of the phenomenon and concept of "stupidity" that at times seems to belong more to the field of epidemiology than to the disciplines of philosophy and literature. Stupidity is a condition, with an array of symptoms, definitions, and contexts within Western literary and philosophical culture. "The temptation," Ronell writes in her introduction entitled "Slow Learner," "is to wage war on stupidity as if it were a vanquishable object."[^6] War on stupidity, as a war on anything else, presumes that some original order can be regained or restored'some state of purity achieved. Wars on drugs and disease revolve around the rhetoric of health--bodily, spiritual, and communal. Wars promise to return us to peace and harmony. Wars promise to right wrongs or vanquish "evildoers" or "theorists" or those not considered to be "the children of God." Departmental or academic-ideological wars are more complicated, as anyone in higher education has learned, however slowly. These are designer wars, promising nothing other than change or business as usual and delivering on neither. These are wars for and against stupidity'wars that never can be won or lost. This fact of stupidity, to the extent we have facts of stupidity, moves Ronell's analysis forward: "Stupidity exceeds and undercuts materiality, runs loose, wins a few rounds, recedes, gets carried home in the clutch of denial'and returns."[^7] Stupidity is not just "bad" thinking or cognitive, calculative error. It isn't simply mistake: 7+5=13. It is much more and much less than those banal failures of information retrieval and calculation. Stupidity is "essentially linked to the inexhaustible . . . &#91;it&#93; is that which fatigues knowledge and wears down history."[^8] Stupidity is heavy, dull, and slow, with no interest other than to have no interest . . . no thinking . . . only to advance procedure and format, ending in the perpetual violence that is the ineluctable status quo. The future of theory, then, will be, like the future of everything else, stupid, but not completely.
 
 [^5]: De Man, p. 269.
 
@@ -247,7 +243,7 @@ Updated 07/28/21.
 
 [^8]: Ronell, p. 3.
 
-[^9]:  The difficulty with "stupidity" and _Stupidity_ is that the subject of inquiry escapes explanation. Stupidity, inherently, occupies a non or pre-discursive space'a space not under the dictates of cognition. "That's just stupid" points beyond discourse to the nonsensical. In other instances, "that's just stupid" underscores the complete transparency of something. The two nodal points of "stupidity" create a vacuum in the center, an ongoing tension in which stupidity, more than knowing, determines the logic of a series of events or ideas. Stupidity has a brute force AND a philosophical trace that can be associated with the Oedipal Father and the law of mimesis: "Incapable of renewal or overcoming, the stupid subject has low Oedipal energy: he has held onto ideas, the relics and dogmas transmitted in his youth by his father."[^16] Ronell, referring to the work of Jean Paul, examines the role of the "_dummkopf_ reader," a mimetic reader, one "remain\[ing\] loyal to the text."[^17] More troubling than "loyalty" is the "_dummkopf_ reader's" "deadly repetition," a repetition leading to a mechanical reprocessing of the text within rigid cognitive boundaries: "The stupid are unable to make breaks or breakaways; they are hampered even on the rhetorical level, for they cannot run with grammatical leaps or metonymical discontinuities. They are incapable of referring allegorically or embracing deferral."[^18] This blindness to texts is also a blindness to others and oneself. "The stupid cannot see themselves."[^19] and this invisibility allows stupidity to pass imperceptibly across the world, "avoiding the screening systems of philosophy."[^20] If stupidity travels unnoticed, then what can be done about it? Capitulating to stupidity betrays our Enlightenment impulse to "wage war" on error and superstition. Are we not historically obligated to fight stupidity, especially the gross stupidity that accompanies the petty dictates of everyday life?
+[^9]:  The difficulty with "stupidity" and _Stupidity_ is that the subject of inquiry escapes explanation. Stupidity, inherently, occupies a non or pre-discursive space'a space not under the dictates of cognition. "That's just stupid" points beyond discourse to the nonsensical. In other instances, "that's just stupid" underscores the complete transparency of something. The two nodal points of "stupidity" create a vacuum in the center, an ongoing tension in which stupidity, more than knowing, determines the logic of a series of events or ideas. Stupidity has a brute force AND a philosophical trace that can be associated with the Oedipal Father and the law of mimesis: "Incapable of renewal or overcoming, the stupid subject has low Oedipal energy: he has held onto ideas, the relics and dogmas transmitted in his youth by his father."[^16] Ronell, referring to the work of Jean Paul, examines the role of the "_dummkopf_ reader," a mimetic reader, one "remain&#91;ing&#93; loyal to the text."[^17] More troubling than "loyalty" is the "_dummkopf_ reader's" "deadly repetition," a repetition leading to a mechanical reprocessing of the text within rigid cognitive boundaries: "The stupid are unable to make breaks or breakaways; they are hampered even on the rhetorical level, for they cannot run with grammatical leaps or metonymical discontinuities. They are incapable of referring allegorically or embracing deferral."[^18] This blindness to texts is also a blindness to others and oneself. "The stupid cannot see themselves."[^19] and this invisibility allows stupidity to pass imperceptibly across the world, "avoiding the screening systems of philosophy."[^20] If stupidity travels unnoticed, then what can be done about it? Capitulating to stupidity betrays our Enlightenment impulse to "wage war" on error and superstition. Are we not historically obligated to fight stupidity, especially the gross stupidity that accompanies the petty dictates of everyday life?
 
 [^9]: Ronell, p. 37.
 
@@ -267,7 +263,7 @@ Updated 07/28/21.
 
 [^14]: Ronell, p. 13.
 
-[^15]:  "Duh" functions as a parabasis insofar as it allows a deviation or transgression from narrative unity. The structure of knowing fails itself, keeps itself in an act of perpetual "reinscription" to disguise its lack of referent. Stupidity, then, appears as a seizure within language, a falling away to a limit, theory: "This epileptic reaction can be recruited into service by the commanding neurosis in order to help the mind-body detox surplus stimulants. It corresponds to something of a cleansing mechanism, having converted an excess that cannot be coped with into a somatic chute."[^26] This parabasis as seizure also corresponds to the "future of theory" as a future prepared against the deferral of the "right referent." Just as the parabasis/seizure responds to the call of the "commanding neurosis," so too does theory'it eternally attends to stupidity as an anti-method of research. The point to be made here is that throughout _Stupidity_ Ronell rewrites "stupidity" as a confrontation with a theory of "refusal"[^27] either as a refusal of the "commanding neurosis" to see itself or the refusal to accept that which Franz Kafka describes in "The Refusal" as a _status quo_ in which "\[o\]ur officials have always remained at their posts."[^28] The desire for or displacement or refusal of the "right referent" is the space joining stupidity and theory. Stupidity seeks and finds a "right referent" and theory refuses it. Theory seeks the hiatus and stupidity refuses that with even greater force. Ronell's _Stupidity_ gives us Kant's, Nietzsche's, Wordsworths, Heine's, Kafka's, de Man's, Derrida's, Deleuze's, Musil's, Heidegger's, Paul's, Lacan's, Freud's . . . refusal and acquiescence of and to stupidity.
+[^15]:  "Duh" functions as a parabasis insofar as it allows a deviation or transgression from narrative unity. The structure of knowing fails itself, keeps itself in an act of perpetual "reinscription" to disguise its lack of referent. Stupidity, then, appears as a seizure within language, a falling away to a limit, theory: "This epileptic reaction can be recruited into service by the commanding neurosis in order to help the mind-body detox surplus stimulants. It corresponds to something of a cleansing mechanism, having converted an excess that cannot be coped with into a somatic chute."[^26] This parabasis as seizure also corresponds to the "future of theory" as a future prepared against the deferral of the "right referent." Just as the parabasis/seizure responds to the call of the "commanding neurosis," so too does theory'it eternally attends to stupidity as an anti-method of research. The point to be made here is that throughout _Stupidity_ Ronell rewrites "stupidity" as a confrontation with a theory of "refusal"[^27] either as a refusal of the "commanding neurosis" to see itself or the refusal to accept that which Franz Kafka describes in "The Refusal" as a _status quo_ in which "our officials have always remained at their posts."[^28] The desire for or displacement or refusal of the "right referent" is the space joining stupidity and theory. Stupidity seeks and finds a "right referent" and theory refuses it. Theory seeks the hiatus and stupidity refuses that with even greater force. Ronell's _Stupidity_ gives us Kant's, Nietzsche's, Wordsworths, Heine's, Kafka's, de Man's, Derrida's, Deleuze's, Musil's, Heidegger's, Paul's, Lacan's, Freud's . . . refusal and acquiescence of and to stupidity.
 
 [^15]: Ronell, p.14.
 

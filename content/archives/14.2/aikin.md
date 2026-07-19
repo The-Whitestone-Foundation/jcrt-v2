@@ -20,4 +20,10 @@ issue: 2
 season: spring
 year: 2015
 pages: 407-413
+subjects:
+  - label: "Atheism"
+    scheme: "FAST"
+    identifier: "fst00819974"
+    uri: "https://id.worldcat.org/fast/819974"
+    category: "topical"
 ---

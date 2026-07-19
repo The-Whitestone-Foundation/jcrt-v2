@@ -8,13 +8,13 @@ author: "Camelia Elias"
 affilation:
 abstract:
 keywords: []
-pdf: 
+pdf: false
 sort_id: 04
 year: 2001
 ---
 Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 
-# Ekphrastic Plastic Fragments: Mark C. Taylor In and Out of Context
+## Ekphrastic Plastic Fragments: Mark C. Taylor In and Out of Context
 
 Camelia Elias  
 University of Southern Denmark'Odense
@@ -91,13 +91,9 @@ Wagner, Peter (ed.) (1996) _Icons'Texts'Iconotexts: Essays on Ekphrasis and Inte
 
 > **Camelia Elias** was born in Romania (1968) and received her primary and secondary education there. Since coming to Denmark she has taken an MA in English from Aalborg University, specializing in literary hermeneutics. She is currently a Ph.D. candidate at the Institute of Literature, Culture and Media Studies, SDU, Odense. Her project, with the working title "Theorists in Wonderland - Performing Progressive Deconstruction", deals with the history and deconstructive poetics of the fragment as a performative genre. The work focuses on fragmentary writing in literary theory, exemplified by writers such as Mark C. Taylor, Avital Ronell and Ursula Krammer Maynard. Camelia's teaching interests include literary theory, cross-aesthetics, and the borderlands between literature, art history and theology. Her work on the epigraph as performative has appeared in "The Practice of Theory" - Theory@Buffalo. (1999)
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Camelia Elias. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Camelia Elias. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/elias](https://jcrt.org/archives/02.2/elias/)
 
@@ -109,7 +105,7 @@ Updated 07/28/21.
 
 [^6]:  The idea that to think in fragments is to think about texts differently propels the question of interpretation to its limits and beyond. The interpretation of the fragment activates the reader's imagination by bringing into play the "opposite" of the fragment, namely a "whole" text. But since the text as a whole is no longer just a whole text, being made up of a plurality of texts, I argue that the emergence of the fragment _qua_ whole text depends upon aesthetic experience that is _ekphrastic_ in its mode of representation and plastic in its mode of manifestation.
 
-[^8]:  The investigation of a text that is not written in fragments from the beginning' In _Erring_, Taylor claims that "\[b\]eginning, which is never original, marks and remarks the constant disappearance of origin" (1984:97)'involves the exclusion or negation of the beginning of the fragment as such by means of including the full text in its own repetition: _Deconstructing_ _Theology_ is one such text as its _full_ text is in fact made up by previously published essays. De-negation then is at one and the same time repetition and beginning: it is repetition because it generates the question, "of what text?" And likewise, it is beginning because it is self-contained: the fragments have already begun elsewhere, thus representing themselves already as representations, as figures.
+[^8]:  The investigation of a text that is not written in fragments from the beginning' In _Erring_, Taylor claims that "beginning, which is never original, marks and remarks the constant disappearance of origin" (1984:97)'involves the exclusion or negation of the beginning of the fragment as such by means of including the full text in its own repetition: _Deconstructing_ _Theology_ is one such text as its _full_ text is in fact made up by previously published essays. De-negation then is at one and the same time repetition and beginning: it is repetition because it generates the question, "of what text?" And likewise, it is beginning because it is self-contained: the fragments have already begun elsewhere, thus representing themselves already as representations, as figures.
 
 [^9]:  Taylor's practice of fragmentary writing or incorporating fragments in the body of the otherwise "full" text is a means of inviting readers to partake in a discourse that raises the question about theoretical and philosophical method that is based on an exchange at the level of commentary. Commenting on commented texts in the form of appropriations and insertions of quotations forms a corpus of marginalia, in which the fragment essentially and ultimately belongs to no text in particular but adheres to the status of the whole. As such, the fragment can be considered a _text_ in its own right. Taylor here offers a perspective of how the deconstruction of theology can emerge as a postmodern text, which yet displays such baroque strategies as the construction of a self-aware image. Arguing that Hegel and Kierkegaard have shaped the Western postmodern consciousness, Taylor demonstrates that discourse and the philosopher can be considered paradigmatic constructions. For Taylor, the fragment is the metaphor for both the philosopher and his influence. In this sense, the fragment for Taylor is an agent, an enabling category with operative functions able to transcend the divisions between theological thinking, its enactment, or its annulment. Deleuze's notion of the baroque comes to mind: "The Baroque does not refer to an essence, but rather to an operative function, to a characteristic. It endlessly creates folds." (Deleuze, 1991:227)
 

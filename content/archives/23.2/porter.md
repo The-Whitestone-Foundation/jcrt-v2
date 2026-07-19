@@ -16,4 +16,15 @@ issue: 2
 season: winter
 year: 2025
 pages: 165-174
+subjects:
+  - label: "Feminism Religious aspects Catholic Church"
+    scheme: "FAST"
+    identifier: "fst00922703"
+    uri: "https://id.worldcat.org/fast/922703"
+    category: "topical"
+  - label: "Natural law"
+    scheme: "FAST"
+    identifier: "fst01034366"
+    uri: "https://id.worldcat.org/fast/1034366"
+    category: "topical"
 ---

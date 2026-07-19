@@ -19,4 +19,10 @@ issue: 2
 season: spring
 year: 2016
 pages: 16-21
+subjects:
+  - label: "Autism"
+    scheme: "FAST"
+    identifier: "fst00822484"
+    uri: "https://id.worldcat.org/fast/822484"
+    category: "topical"
 ---

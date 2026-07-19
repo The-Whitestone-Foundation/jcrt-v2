@@ -17,6 +17,17 @@ tags:
   - event
   - weakness
   - radical
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Caputo, John D. *The Folly of God: A Theology of the Unconditional*. Salem, OR: Polebridge Press, 2016. ISBN-10: 1598151711. Paperback, e-book. 148 pages.**
 

@@ -18,4 +18,10 @@ issue: 1
 season: winter
 year: 2020
 pages: 189-21
+subjects:
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
 ---

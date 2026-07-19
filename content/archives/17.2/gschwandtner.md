@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2018
 pages: 281-297
+subjects:
+  - label: "Hermeneutics"
+    scheme: "FAST"
+    identifier: "fst00955492"
+    uri: "https://id.worldcat.org/fast/955492"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
 ---

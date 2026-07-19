@@ -20,6 +20,22 @@ tags:
   - intellectual
   - religion
   - religious
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Racism"
+    scheme: "FAST"
+    identifier: "fst01086616"
+    uri: "https://id.worldcat.org/fast/1086616"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second part of an article in three installments that initially appeared in July 2016 in Open Theology 2:2016 785-203*.  *It is republished here with the permission of the author.  The first installment can be [accessed here]( /religioustheory/posts/from-heathen-to-sub-human-a-genealogy-of-the-influence-of-the-decline-of-religion-on-the-rise-of-modern-racism-part-1-oludamini-ogunnaike/).  
 *
@@ -48,7 +64,7 @@ Thus proto-racism differs from modern racism in its philosophical and scientific
 
 Furthermore, the existence of prominent intellectual traditions in which differences in physical ethnicity (along with the physical world in general) were considered far more peripheral and less important to the make-up of man, mitigated these proto-racist views. In 18th century Western Europe, there were no dissenting intellectual traditions of comparable to that of neo-Platonism in the Greco-Roman world at the beginning of the millennium. According to Plotinus,
 
-> None the less, in spite of physical resemblance and similar environment, we observe the *greatest difference* in tempera- ment and in ideas: this side of the human being, then, derives from some quite other Principle \[than any external causa- tion or destiny\]…The soul of nobler nature holds good against its surroundings; it is more apt to change them than to be changed, so that often it improves the environment and, where it must make concession, at least keeps its innocence.32
+> None the less, in spite of physical resemblance and similar environment, we observe the *greatest difference* in tempera- ment and in ideas: this side of the human being, then, derives from some quite other Principle &#91;than any external causa- tion or destiny&#93;…The soul of nobler nature holds good against its surroundings; it is more apt to change them than to be changed, so that often it improves the environment and, where it must make concession, at least keeps its innocence.32
 
 However, just as the rational, materialist turn of philosophy of the Renaissance and Enlightenment was![dragon-780x300](/images/2016/09/dragon.webp) pre-figured in the late classical period, Isaac’s work demonstrates the pre-figuration of modern racism in the rise of proto-racism in the late classical period (after 5 B.C.) and Roman Empire. While the argument advanced in the first half of this paper is one possible explanation for the co-occurrence of these trends in antiquity, such an analysis is outside of the scope of this paper, and the fact that the rationalist, materialist turn of the late Greek and Roman intellectual traditions and the post-Renaissance intellectual tradition produced or coincided with similar ideas of racial essentialism can only be seen as circumstantial evidence for this argument. In any event, it is clear from Isaac’s work that Renaissance and Enlightenment scholars revived proto-racist concepts and ideas and derived much of their theories of race from these classical sources.
 
@@ -88,7 +104,7 @@ Las Casas described the native American indigenes as living under Aristotle and 
 
 > …The exalted God loved the human race so much that He created man in such a condition that he was not only a sharer in good as are other creatures, but also that he would be able to reach and see face to face the inaccessible and invisible Supreme Good… Seeing this and envying it, the enemy of the human race, who always opposes all good men so that the race may perish, has thought up a way, unheard of before now, by which he might impede the saving word of God from being preached to the nations.
 > 
-> He (Satan) has stirred up some of his allies who, desiring to satisfy their own avarice, are presuming to assert far and wide that the Indians…be reduced to our service like brute animals, under the pretext that they are lacking the Catho- lic faith. And they reduce them to slavery, treating them with afflictions they would scarcely use with brute animals… by our Apostolic Authority decree and declare by these present letters that the same Indians and *all other peoples* – even though they are outside the faith – …should not be deprived of their liberty… Rather they are to be able to use and enjoy this liberty and this ownership of property freely and licitly, and are not to be reduced to slavery…\[emphasis mine\]42
+> He (Satan) has stirred up some of his allies who, desiring to satisfy their own avarice, are presuming to assert far and wide that the Indians…be reduced to our service like brute animals, under the pretext that they are lacking the Catho- lic faith. And they reduce them to slavery, treating them with afflictions they would scarcely use with brute animals… by our Apostolic Authority decree and declare by these present letters that the same Indians and *all other peoples* – even though they are outside the faith – …should not be deprived of their liberty… Rather they are to be able to use and enjoy this liberty and this ownership of property freely and licitly, and are not to be reduced to slavery…&#91;emphasis mine&#93;42
 
 However, given the declining temporal power of the Church (sovereigns were no longer cowed by the threat of excommunication, and in fact the Popes often had to bow to political pressures from military and political leaders), Spanish practice differed, often significantly, from official doctrine. Nevertheless, even if this doctrine was not effective in dictating the behavior of conquistadors and colonists, it remained influential in shaping their worldviews. For example, Europeans in general preferred buying already enslaved people, to enslaving people themselves, not only saving themselves labor, time, and money, but cleverly eluding the papal interdiction against “depriving” peoples of their liberty. The Spanish also followed another one of Las Casas’ suggestions from the debate, using Africa as a source of slave labor.
 

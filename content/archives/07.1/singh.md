@@ -34,4 +34,30 @@ issue: 1
 season: winter
 year: 2005
 pages:
+subjects:
+  - label: "Civilization"
+    scheme: "FAST"
+    identifier: "fst00862898"
+    uri: "https://id.worldcat.org/fast/862898"
+    category: "topical"
+  - label: "Culture Philosophy"
+    scheme: "FAST"
+    identifier: "fst00885075"
+    uri: "https://id.worldcat.org/fast/885075"
+    category: "topical"
+  - label: "Hinduism"
+    scheme: "FAST"
+    identifier: "fst00957121"
+    uri: "https://id.worldcat.org/fast/957121"
+    category: "topical"
+  - label: "Historiography"
+    scheme: "FAST"
+    identifier: "fst00958221"
+    uri: "https://id.worldcat.org/fast/958221"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---

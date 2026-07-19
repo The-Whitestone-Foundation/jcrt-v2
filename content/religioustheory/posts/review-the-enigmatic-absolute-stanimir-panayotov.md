@@ -17,6 +17,22 @@ tags:
   - enigmatic
   - continental
   - ineffability
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Joshua Ramey and Matthew S. Haar Farris (Eds.), *Speculation, Heresy, and Gnosis in Contemporary Philosophy of Religion: The Enigmatic Absolute*. Lanham, MD: Rowman and Littlefield, 2016. 299 pages. ISBN: 9781786601414**
 

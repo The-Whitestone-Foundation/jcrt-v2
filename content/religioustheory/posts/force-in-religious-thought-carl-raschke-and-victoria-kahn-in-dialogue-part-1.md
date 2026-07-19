@@ -20,6 +20,27 @@ tags:
   - politics
   - theology
   - notion
+subjects:
+  - label: "Liberalism"
+    scheme: "FAST"
+    identifier: "fst00997183"
+    uri: "https://id.worldcat.org/fast/997183"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -37,7 +58,7 @@ Such religious thinking fuels Christian ethicists like Stanley Hauerwas, for exa
 
 At the same time, such perspectives would reject Lilla’s conclusion, which as a weirdly Schmittian ring infused with Americanism:
 
-> Those of us who have accepted the heritage of the Great Separation \[of secularism\] must do so soberly. Time and again we must remind ourselves that *we* are the exceptions. We have little reason to expect other civilizations to follow our unusual path, which was opened up by a unique political-theological crisis within Christendom.[^5]
+> Those of us who have accepted the heritage of the Great Separation &#91;of secularism&#93; must do so soberly. Time and again we must remind ourselves that *we* are the exceptions. We have little reason to expect other civilizations to follow our unusual path, which was opened up by a unique political-theological crisis within Christendom.[^5]
 
 Christian thinkers like Hauerwas try to solve this problem by rejecting the Reformation’s historical break-up of Christendom while reaping the benefits of Enlightenment thinking they supposedly cast off. In Schmitt’s account, the exceptional was derived from the theologically-rooted miracle. In contrast, both Lilla and Hauerwas, in their opposing views of liberalism, maintain their respective positions’ exceptionality – Lilla’s being secular and Hauerwas’s being theological. Talk of the exception has made Schmitt’s account the more discursively common in debates about political theology, but even during his own time, between the First and Second World Wars, there were rival accounts to Schmitt’s.
 
@@ -97,7 +118,7 @@ My classical and pre-Christian references here invoke the power of myth. I have 
 
 Martin Heidegger’s critique of liberalism, unlike Schmitt’s, is entrenched in his study of the Greeks and related to the notion of virtue (the same notion that has come back around in the 21st century in the form of Richard Taylor’s *Virtue Ethics*). In Heidegger’s lectures on Aristotle from the early 1920s, well before the concept of *Dasein* appears in *Being and Time*, Heidegger suggests the importance of the being of human beings within the polis.
 
-This standing-out of the human being, this “comporting oneself” in the world, this “comportment,” is τò ηθος. Therefore, politics, as knowing-the-way-around the being of human beings in its genuineness is ethics – η περι ηθη πολιτικη. Ethics as *part* of politics is a misunderstanding. Aristotle says explicitly: ή μεν οὗν μεθοδος τούτων ἐφἱεται, πολιτική τις οὗσα, “this investigation \[in Book 1 of the Nicomachean Ethics\] is an investigation that moves in the direction of \[cultivating knowing-the-way-around the being of human beings in its genuineness\].” Insofar as the consideration is πολιτική, a basic determination found in all considerations of the ἀγαθὁν \[good\] lies hidden therein.[^14]
+This standing-out of the human being, this “comporting oneself” in the world, this “comportment,” is τò ηθος. Therefore, politics, as knowing-the-way-around the being of human beings in its genuineness is ethics – η περι ηθη πολιτικη. Ethics as *part* of politics is a misunderstanding. Aristotle says explicitly: ή μεν οὗν μεθοδος τούτων ἐφἱεται, πολιτική τις οὗσα, “this investigation &#91;in Book 1 of the Nicomachean Ethics&#93; is an investigation that moves in the direction of &#91;cultivating knowing-the-way-around the being of human beings in its genuineness&#93;.” Insofar as the consideration is πολιτική, a basic determination found in all considerations of the ἀγαθὁν &#91;good&#93; lies hidden therein.[^14]
 
 I bring Heidegger into discussion here as a historical point because he, like the thinkers Victoria Kahn examines in *The Future of Illusion*, is one of many twentieth-century thinkers who turn to the early modern in order to make sense of their current political space. Importantly, however, Heidegger lands in an altogether different theological-political space than his peers, especially Carl Schmitt.
 

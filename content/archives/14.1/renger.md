@@ -19,4 +19,10 @@ issue: 1
 season: fall
 year: 2014
 pages: 38-52
+subjects:
+  - label: "Myth"
+    scheme: "FAST"
+    identifier: "fst01031678"
+    uri: "https://id.worldcat.org/fast/1031678"
+    category: "topical"
 ---

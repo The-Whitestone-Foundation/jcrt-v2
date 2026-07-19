@@ -11,11 +11,22 @@ keywords:
   - austria
   - conferences-conventions
   - convention-and-trade-show-organizers
-pdf:
+pdf: intro.pdf
 sort_id:
 volume: 15
 issue: 1
 season: fall
 year: 2015
 pages: 1-2
+subjects:
+  - label: "Austria"
+    scheme: "FAST"
+    identifier: "fst01204901"
+    uri: "https://id.worldcat.org/fast/1204901"
+    category: "geographic"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
 ---

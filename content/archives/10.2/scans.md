@@ -8,7 +8,7 @@ author: "Robert Duncan"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: scans.pdf
 year: 2010
 ---
 [![scan 1](/images/archives/10.2/scan1.webp)](scan1.tiff)

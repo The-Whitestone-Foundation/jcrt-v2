@@ -23,6 +23,27 @@ tags:
   - exclusion
   - administration
   - intellectual
+subjects:
+  - label: "Administration"
+    scheme: "FAST"
+    identifier: "fst01351613"
+    uri: "https://id.worldcat.org/fast/1351613"
+    category: "topical"
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following essay introduces the upcoming volume of the Journal for Cultural and Religious Theory featuring reflections on the work of renowned religious studies scholar Charles H. Long (1926-2020). It will be published in July 2022.*
 
@@ -76,7 +97,7 @@ Following his “student-centered” approach to program administration, Long as
 
 “Intentionally” planning a course of study rather than foraging for one or modifying a graduate language requirement seem simple enough. However, in the context of administrative culture they are not simple at all, especially if “precedent” is the explanation or *rationale* for the *status quo*. First, any change in policy or curriculum requirements requires some rationale, e.g., accreditation standards, staffing issues, financial, etc. Occasionally, the rationale could be predicated on advancing “student-success” or creating a policy-reality that better serves the educational interest of the student. Second, there is a more fundamental barrier to effecting a change in academic policy . . . the lack of an ability to see, as Long notes, a “new world” that is more “inhabitable and beneficial to the human community.”[^4] This, above all other bureaucratic obstacles, is the greatest to overcome.
 
-Near the final section of “The University, The Liberal Arts, and The Teaching and Study of Religions,” Long provides a lengthy passage from Jacques Derrida’s 1983 *Diacritics* essay entitled “The Principle of Reason: The University in the Eyes of Its Pupils” (see also the epigraph excerpt)  Long’s purpose, following Derrida, is to underscore not only the historical and cultural basis of “reason,” but that reason in turn serves very specific institutional, political, and cultural “goal-oriented”[^5] concerns. For Long, the university is more than a community of scholars and their practices; it is a “community of thought”[^6] and as such “\[it\] would interrogate the very basis of reason, the arche and radicality of the grounding of reason itself.”[^7]
+Near the final section of “The University, The Liberal Arts, and The Teaching and Study of Religions,” Long provides a lengthy passage from Jacques Derrida’s 1983 *Diacritics* essay entitled “The Principle of Reason: The University in the Eyes of Its Pupils” (see also the epigraph excerpt)  Long’s purpose, following Derrida, is to underscore not only the historical and cultural basis of “reason,” but that reason in turn serves very specific institutional, political, and cultural “goal-oriented”[^5] concerns. For Long, the university is more than a community of scholars and their practices; it is a “community of thought”[^6] and as such “&#91;it&#93; would interrogate the very basis of reason, the arche and radicality of the grounding of reason itself.”[^7]
 
 In this sense, engaged administration interrogates the *arché* of the academy—the goal-oriented and reason supporting and reason serving institution in all its forms. Long’s reference to Derrida is telling in several ways. First, Derrida’s essay begins by asking how we should not speak about the academy or what the limits are of how we have historically spoken about the academy. Second, Derrida is critical of the instrumentalization of reason in the academy and various “orientation schemes” driving the academy’s *raison d’etre*.
 
@@ -92,7 +113,7 @@ In the anecdotal examples of Long’s interventions and administrative short-cir
 
 While post-Althusserian ideology critique or ideology critique, in general, for example, is not something that I would invest in today (although my work on Žižek addresses it), it was and is a legitimate form of inquiry and completely relevant to the study of religion previously and today. Disqualifying it as an intellectual approach, like disqualifying any intellectual approach, is a political judgment and power move.[^13] In these exclusionary situations it is about preferential force and not about the movement of the community of thought, which, according to Derrida and
 
-The legacy of Long, is something to which we are responsible. I think there is a broader set of lessons here for anyone in administration. Is the organization becoming more open or more closed under leadership? Where are the discourses of exclusion? Who is being left out? How are people being invited in? What does it mean to belong to an organization? These questions reflect the concern of an engaged administrator and, in the case of Charles Long, they reflect a wider concern about how to make the world or a “new world . . . \[more\] inhabitable and beneficial to the human community” . . . in its widest and most inclusive definition and form.   
+The legacy of Long, is something to which we are responsible. I think there is a broader set of lessons here for anyone in administration. Is the organization becoming more open or more closed under leadership? Where are the discourses of exclusion? Who is being left out? How are people being invited in? What does it mean to belong to an organization? These questions reflect the concern of an engaged administrator and, in the case of Charles Long, they reflect a wider concern about how to make the world or a “new world . . . &#91;more&#93; inhabitable and beneficial to the human community” . . . in its widest and most inclusive definition and form.   
 
 *Victor E. Taylor. He has served since 2001 as Executive Editor for the* Journal for Cultural and Religious Theory.  
 

@@ -18,6 +18,27 @@ tags:
   - cultural
   - immigrant
   - sexual
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "France"
+    scheme: "FAST"
+    identifier: "fst01204289"
+    uri: "https://id.worldcat.org/fast/1204289"
+    category: "geographic"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Sex"
+    scheme: "FAST"
+    identifier: "fst01114160"
+    uri: "https://id.worldcat.org/fast/1114160"
+    category: "topical"
 ---
 **Mack, Mehammed Amadeus.** ***Sexagon: Muslims, France, and the Sexualization of National Culture.*** **New York City NY: Fordham University Press, 2017. ISBN-10: 0823274616. Hardcover, Paperback, E-book.**
 

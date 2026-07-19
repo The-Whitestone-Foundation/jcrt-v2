@@ -8,13 +8,13 @@ author: "Benjamin Bennett-Carpenter"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 03
 year: 2002
 ---
 Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 
 
-# Quoting Mieke Bal's Navel: Contemporary Theory, Preposterous Religion
+## Quoting Mieke Bal's Navel: Contemporary Theory, Preposterous Religion
 
 Benjamin Bennett-Carpenter  
 Catholic University of America
@@ -44,11 +44,11 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 
 > Alice Bach.
 > 
-> 1991\. \[review of Murder and Difference and Death and Dissymmetry.\] _Union Seminary Quarterly Review_ 44/3-4: 333-341.
+> 1991\. &#91;review of Murder and Difference and Death and Dissymmetry.&#93; _Union Seminary Quarterly Review_ 44/3-4: 333-341.
 > 
 > Anderson, Janice Capel
 > 
-> 1991\. \[review of Lethal Love.\] _Critical Review of Books in Religion_: 21-44.
+> 1991\. &#91;review of Lethal Love.&#93; _Critical Review of Books in Religion_: 21-44.
 > 
 > Bal, Mieke.
 > 
@@ -64,9 +64,9 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 > 
 > 1988b. _Murder and Difference: Gender, Genre, and Scholarship on Sisera's Death_. Bloomington: Indiana University Press.
 > 
-> 1989\. "Literature and Its in Insistent Other." \[Review essay of _The Literary Guide to the Bible_, edited by Robert Alter and Frank Kermode.\] _JAAR_ 57 (Sum): 373-383.
+> 1989\. "Literature and Its in Insistent Other." &#91;Review essay of _The Literary Guide to the Bible_, edited by Robert Alter and Frank Kermode.&#93; _JAAR_ 57 (Sum): 373-383.
 > 
-> 1990\. \[Review of Carol L Meyers, _Discovering Eve: Ancient Israelite Women in Context_.\] _JAAR_ 58 (Fall): 511-513.
+> 1990\. &#91;Review of Carol L Meyers, _Discovering Eve: Ancient Israelite Women in Context_.&#93; _JAAR_ 58 (Fall): 511-513.
 > 
 > 1991a. _On Story-Telling: Essays in Narratology_. Edited by David Jobling. Sonoma, California: Polebridge Press.
 > 
@@ -82,7 +82,7 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 > 
 > 1999b. "The Spirit as Parasite." _Western Humanities Review_, Vol. 53, No. 4 (Winter): 315-325.
 > 
-> 2000\. "Religious Canon and Literary Identity." \[Plenary Lecture, The Tenth Conference of the Society for Literature and Religion, 'Literary Canon and Religious Identity', 7-9 September, 2000, at the University of Nijmegen.\] _Lectio Difficilior: European Electronic Journal for Feminist Exegesis_ 2.
+> 2000\. "Religious Canon and Literary Identity." &#91;Plenary Lecture, The Tenth Conference of the Society for Literature and Religion, 'Literary Canon and Religious Identity', 7-9 September, 2000, at the University of Nijmegen.&#93; _Lectio Difficilior: European Electronic Journal for Feminist Exegesis_ 2.
 > 
 > 2001\. "Enfolding Feminism." In _Feminist Consequences: Theory for the New Century_, 321-352. Edited by Elisabeth Bronfen and Misha Kavka. New York: Columbia University Press.
 > 
@@ -98,7 +98,7 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 > 
 > 1951\. _Selected Essays_, 3rd ed. London: Faber. Cited in Paul Giles (1992), _American Catholic Arts and Fictions: Culture, Ideology, Aesthetics_, 252. Cambridge: Cambridge University Press.
 > 
-> 1975 \[1919\]. "Tradition and Individual Talent." In _Selected Prose of T.S. Eliot_, 37-44. Edited with introduction by Frank Kermode. London: Faber and Faber. Cited in Bal (1999a).
+> 1975 &#91;1919&#93;. "Tradition and Individual Talent." In _Selected Prose of T.S. Eliot_, 37-44. Edited with introduction by Frank Kermode. London: Faber and Faber. Cited in Bal (1999a).
 > 
 > Fewel, Danna Nolan; and David M Gunn.
 > 
@@ -106,7 +106,7 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 > 
 > Greenspahn, Frederick E.
 > 
-> 1990\. \[Review of Murder and Difference.\] _Critical Review of Books in Religion_: 103-105.
+> 1990\. &#91;Review of Murder and Difference.&#93; _Critical Review of Books in Religion_: 103-105.
 > 
 > Happel, Stephen.
 > 
@@ -114,19 +114,19 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 > 
 > Hartman, Geoffrey.
 > 
-> 2000 "Text and Spirit." \[Lecture delivered at the University of Utah, Salt Lake City, on 14 April 1999\]. In _The Tanner Lectures on Human Values_, Vol. 21. Salt Lake City: University of Utah Press.
+> 2000 "Text and Spirit." &#91;Lecture delivered at the University of Utah, Salt Lake City, on 14 April 1999&#93;. In _The Tanner Lectures on Human Values_, Vol. 21. Salt Lake City: University of Utah Press.
 > 
 > Jobling, David.
 > 
-> 1991\. "Mieke Bal on Biblical Narrative" \[review article\]. _Religious Studies Review_ 17 (Jan): 1-10.
+> 1991\. "Mieke Bal on Biblical Narrative" &#91;review article&#93;. _Religious Studies Review_ 17 (Jan): 1-10.
 > 
 > Kemp, Sandra.
 > 
-> 1992\. \[Review of Reading Rembrandt.\] _Journal of Literature & Theology_ 7: 302-305.
+> 1992\. &#91;Review of Reading Rembrandt.&#93; _Journal of Literature & Theology_ 7: 302-305.
 > 
 > Lynn, Greg.
 > 
-> 1993\. "Body Matters." _Journal of Philosophy and the Visual Arts_, Special Issue: The Body. Edited by Andrew Benjamin. (\[no vol. or issue no.\] 60-69. Cited in Bal (1999b).
+> 1993\. "Body Matters." _Journal of Philosophy and the Visual Arts_, Special Issue: The Body. Edited by Andrew Benjamin. (&#91;no vol. or issue no.&#93; 60-69. Cited in Bal (1999b).
 > 
 > Parker, Patricia.
 > 
@@ -150,13 +150,9 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
 
 > **Benjamin Bennett-Carpenter** is a doctoral student in religion and rhetoric at the Catholic University of America, Washington DC.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Benjamin Bennett-Carpenter. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Benjamin Bennett-Carpenter. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/bennett-carpenter](https://jcrt.org/archives/04.1/bennett-carpenter/)
 
@@ -164,7 +160,7 @@ Updated 07/28/21.
 
 [^1]: At least it is in this 'tradition' that I have sought to represent her in the following project. And perhaps in this case Kant stands as a matrix for the whole genealogy. Of course it is also possible to trace other genealogies; for example in a semiotic 'tradition' of Saussure and Barthes, along with Culler and Eco. This is not to mention narratological, psychoanalytic, or feminist 'traditions' to which she is indebted as well, nor even, in a certain sense, her close position to art historical figures like Duchamp, which I mention later. Certainly one of Bal's strengths is her draw upon various 'traditions' or disciplines: she's a true interdisciplinarian. I try here to orient the reader by way of one genealogy to begin with and to touch on the various others as the article proceeds.
 
-[^2]: Importantly Bal cites T.S. Eliot at the outset: "Whoever has approved this idea of order...will not find it preposterous that the past should be altered by the present as much as the present is directed by the past" (Bal 1975 \[1919\]).
+[^2]: Importantly Bal cites T.S. Eliot at the outset: "Whoever has approved this idea of order...will not find it preposterous that the past should be altered by the present as much as the present is directed by the past" (Bal 1975 &#91;1919&#93;).
 
 [^3]: In "The Spirit as Parasite" (Bal 1999b), Bal offers several ways in which the ambiguous three lettered conjunction can be read. Firstly, it can be read as an opposition such as 'body and spirit', 'spirit and matter', 'word and image', or 'art and popular culture.' In this case one is positioned _against_ the other. _And_ can also be read in terms of a metaphorical relationship. In this case, where _and_ is we may read _as_: 'text _as_ body.' Thirdly, the conjunction can be understood as an equivalence or as Bal puts it, an "almost identity." Here, _and_ occurs in phrases like 'home and hearth' or 'sound and music'. Finally (yet not quite), _and_ may indicate narrative sequence: this happened _and then_ this happened _and so forth_ (316-317).
 
@@ -186,7 +182,7 @@ Updated 07/28/21.
 
 [^8]:  My title for this project quotes and alters Bal's _Quoting Caravaggio: Contemporary Art, Preposterous History_. Her subtitle rephrases Patricia Parker's "Preposterous Events" (Bal 1992),[^2] while mine rephrases hers as _preposterous religion_, purposefully making a connection between religion, history, and event(s). For Bal 'preposterous history' brings together the 'pre' and the 'post' of history in hybrid, a recycling one upon the other and vice-versa that re-visions the past (in her case, the Baroque) (7). Reciprocity exists between what is before and what is after-not to mention what is inside and what is outside-both aspects affecting each other and making the other what it is and never could be without the other. The pre and the post mark one another and change each other's status as "history" fluxuates in the in-between.
 
-[^8]: _Lethal Love_ is chronologically the first in a trilogy that also includes _Death and Dissymetry: The Politics of Coherence in the Book of Judges_ (Bal 1988a) and _Murder and Difference: Gender, Genre, and Scholarship on Sisera's Death_ (Bal 1988b). See David Jobling's helpful review of the trilogy, "Mieke Bal on Biblical Narrative" (Jobling 1991). See also Bal's "Literature and Its Insistent Other," a review essay of _The Literary Guide to the Bible_, edited by Alter and Kermode (Bal 1989); Bal's review of Carol L Meyers, _Discovering Eve: Ancient Israelite Women in Context_ (Bal 1990); Janice Capel Anderson's review of _Lethal Love_; Timothy K Beal, "Ideology and Intertextuality: Surplus of Meaning and Controlling the Means of Production" (Capel 32-35); Alice Bach's review of _Murder and Difference_ and of _Death and Dissymmetry_; Robert Detweiler, "Parerga: Homely Details, Secret Intentions, Veiled Threats"; Danna Nolan Fewel and David M Gunn, "Controlling Perspectives: Women, Men, and the Authority of Violence in Judges 4-5"; Frederick Greenspahn's review of _Murder and Difference_; Jobling, "Feminism and 'Mode of Production' in Ancient Israel." Jobling calls _Death and Dissymmetry_ "stunning" and "the most 'achieved' of Bal's trilogy." Yet, "_Lethal Love_ fell like a bombshell into our playground and at once extended the boundaries of our discipline \[of biblical studies\]" (Jobling 1991: 6, 9).
+[^8]: _Lethal Love_ is chronologically the first in a trilogy that also includes _Death and Dissymetry: The Politics of Coherence in the Book of Judges_ (Bal 1988a) and _Murder and Difference: Gender, Genre, and Scholarship on Sisera's Death_ (Bal 1988b). See David Jobling's helpful review of the trilogy, "Mieke Bal on Biblical Narrative" (Jobling 1991). See also Bal's "Literature and Its Insistent Other," a review essay of _The Literary Guide to the Bible_, edited by Alter and Kermode (Bal 1989); Bal's review of Carol L Meyers, _Discovering Eve: Ancient Israelite Women in Context_ (Bal 1990); Janice Capel Anderson's review of _Lethal Love_; Timothy K Beal, "Ideology and Intertextuality: Surplus of Meaning and Controlling the Means of Production" (Capel 32-35); Alice Bach's review of _Murder and Difference_ and of _Death and Dissymmetry_; Robert Detweiler, "Parerga: Homely Details, Secret Intentions, Veiled Threats"; Danna Nolan Fewel and David M Gunn, "Controlling Perspectives: Women, Men, and the Authority of Violence in Judges 4-5"; Frederick Greenspahn's review of _Murder and Difference_; Jobling, "Feminism and 'Mode of Production' in Ancient Israel." Jobling calls _Death and Dissymmetry_ "stunning" and "the most 'achieved' of Bal's trilogy." Yet, "_Lethal Love_ fell like a bombshell into our playground and at once extended the boundaries of our discipline &#91;of biblical studies&#93;" (Jobling 1991: 6, 9).
 
 [^9]:  To speak of 'preposterous religion' is to follow a similar vein. What comes before religion and what is after, inside and out, play off one another, altering each other so that neither is what it is without the other. We find an ambiguity and implication between pre-religion and post-religion that makes "religion" an uncertain product. In company with Bal's revisioning of history, I see the preposterous not as a liability, but as an illumination and an enrichment of religion. More specifically, drawing on Patricia Parker's term and in line with Bal, religion begins to be articulated performatively with the preposterous in terms of event(s).
 
@@ -234,7 +230,7 @@ Updated 07/28/21.
 
 [^31]:  Finally, Bal uses quotation in a deconstructionist or poststructuralist sense of being 'all we've got.' No access to the word is possible except by way of quotation and once it finds this word, it finds that it too is quotation. In contrast to Bakhtin where "the word never forgets where it has been before it was quoted, for Derrida it never returns there without the burden of the excursion through the quotation." In this case quotation never offers a literal meaning to which one may eventually return (Bal 1999a: 11).
 
-[^32]:  But now let us look at a quotation-literally-of Bal. "The metaphor of the navel," she writes, "is more satisfying than that of the hymen \[as in Derrida\] for the deconstructed image; diluted into a multiple textuality, it is a false center attracting the attention to its void of semes - to its dis-semination." Derrida's dissemination, she argues, and his invocation of the hymen metaphor, do not go far enough; or perhaps it is that they come too close - "dangerously close to an overwhelming dispersion of semen; coming all over the text..." and to the violence of "the moment when the virgin bride is torn open...." The navel reads as "both a trace of the mother \[dependence\], and the token of autonomy of the subject, male and female alike; a center without meaning, it is yet a meaningful pointer that allows plurality and mobility, that allows the viewer \[and/or reader\] to propose new readings \[and/or views\]" without falling into the totally arbitrary. Of course the navel metaphor is a displacement of the phallus, which "refers to gender in terms of haves and have-nots." By contrast, while the navel "is fundamentally gender specific - the navel is the scar of dependence on the mother - 'it is also democratic in that both men and women have it. And unlike the phallus and its iconic representations disseminated throughout post-Freudian culture, the navel is starkly indexical." Simply put, the navel is "the little detail that doesn't fit the 'official' interpretation"; it is a trigger of "textual diffusion, variation, and mobility of reading \[and/or viewing\]" (Bal 1991b: 20-24). It is the odd detail, often overlooked or resisted, "that takes over the representation" and "sets in motion the process or performance of the painting \[and/or text\] that entangles viewers \[and/or readers\] across time; a process, moreover, that itself takes time, thus foregrounding the _double temporality_ of the image \[and/or text\] that takes hold over it" (Bal 1999a: 31; emphasis added). (That is, the navel is preposterous.)[^7]
+[^32]:  But now let us look at a quotation-literally-of Bal. "The metaphor of the navel," she writes, "is more satisfying than that of the hymen &#91;as in Derrida&#93; for the deconstructed image; diluted into a multiple textuality, it is a false center attracting the attention to its void of semes - to its dis-semination." Derrida's dissemination, she argues, and his invocation of the hymen metaphor, do not go far enough; or perhaps it is that they come too close - "dangerously close to an overwhelming dispersion of semen; coming all over the text..." and to the violence of "the moment when the virgin bride is torn open...." The navel reads as "both a trace of the mother &#91;dependence&#93;, and the token of autonomy of the subject, male and female alike; a center without meaning, it is yet a meaningful pointer that allows plurality and mobility, that allows the viewer &#91;and/or reader&#93; to propose new readings &#91;and/or views&#93;" without falling into the totally arbitrary. Of course the navel metaphor is a displacement of the phallus, which "refers to gender in terms of haves and have-nots." By contrast, while the navel "is fundamentally gender specific - the navel is the scar of dependence on the mother - 'it is also democratic in that both men and women have it. And unlike the phallus and its iconic representations disseminated throughout post-Freudian culture, the navel is starkly indexical." Simply put, the navel is "the little detail that doesn't fit the 'official' interpretation"; it is a trigger of "textual diffusion, variation, and mobility of reading &#91;and/or viewing&#93;" (Bal 1991b: 20-24). It is the odd detail, often overlooked or resisted, "that takes over the representation" and "sets in motion the process or performance of the painting &#91;and/or text&#93; that entangles viewers &#91;and/or readers&#93; across time; a process, moreover, that itself takes time, thus foregrounding the _double temporality_ of the image &#91;and/or text&#93; that takes hold over it" (Bal 1999a: 31; emphasis added). (That is, the navel is preposterous.)[^7]
 
 [^33]:  Of course Bal's navel is not simply literal. And as we quote it we can do so not only literally, but effectually, intertexuredly, and alternatively. It is effectual in a Barthian sense of being not literally real. The navel is a fiction, an illusion with an effect of the real. It is provocative and performative; it plays against and with dominant metaphors of psychoanalytic and deconstructionist traditions. It draws not only upon the text(ure)s of painted nude navels as in Bredius' _Danae_ (1636) (Bal 1991b:20) but upon the inter-texture/textuality of all bellybuttons everywhere! The navel diffuses into the plurality of every particular bellybutton that has ever found itself as such, whether an innie or an outie. The navel is a curiosity and a mystery. It invites inquiry at a scarred site, a seal of surplus meaning, both past and future.
 
@@ -242,13 +238,13 @@ Updated 07/28/21.
 
 [^35]:  So much for the navel in general. What then, what of _Bal's_ navel? If I have been speaking as straightforwardly as I can about Bal's conception of the navel, I now ask about _her_ navel in light of what has been said earlier in terms of the four senses of quotation. To begin with I take feminism, effectively, to be that navel. Is this to state the obvious? Is the navel obvious? More specifically, her feminist critique of biblical texts and the dominant interpretive traditions surrounding them as we find in _Lethal Love: Feminist Literary Readings of Biblical Love Stories_ is that de-centered center, the odd, obvious focal point that I resist, but find it offering a resistance to my resistance. It keeps calling for attention.[^8]
 
-[^36]:  The basic argument of _Lethal Love_ is stunning. One should not expect a humdrum ideological reading of patriarchal biblical texts. Of course she does make conventional feminist arguments. She asks rhetorically for example, "Is there a relation between ideological dominance and specific forms of representation?" She associates dominance, authority, and an overdetermined sense of coherence with sexism and misogyny (Bal 1987a: 3). But her 'lethal love,' for instance in her reading of the Sampson and Delilah story, is not about man's-destruction-because-of-his-falling-for-a-woman that we find "inherently" in the biblical text (in an essentialist sense). Rather she reads this _interpretation_ (and those like it) as what is lethal, and not necessarily anything in the "text itself." As she plainly states, "there is no overall ideology of the \[biblical\] text" (131).
+[^36]:  The basic argument of _Lethal Love_ is stunning. One should not expect a humdrum ideological reading of patriarchal biblical texts. Of course she does make conventional feminist arguments. She asks rhetorically for example, "Is there a relation between ideological dominance and specific forms of representation?" She associates dominance, authority, and an overdetermined sense of coherence with sexism and misogyny (Bal 1987a: 3). But her 'lethal love,' for instance in her reading of the Sampson and Delilah story, is not about man's-destruction-because-of-his-falling-for-a-woman that we find "inherently" in the biblical text (in an essentialist sense). Rather she reads this _interpretation_ (and those like it) as what is lethal, and not necessarily anything in the "text itself." As she plainly states, "there is no overall ideology of the &#91;biblical&#93; text" (131).
 
 [^37]:  She also focuses attention on how an interpretive shift in understanding subjectivity when we read biblical texts can offer a reading in which patriarchal-even more: murderous-consequences result because of the understandings of particular powerful and male figures within the stories. If one reads on the basis of other subjectivities (women, for example), one finds an internal critique of the patriarchal regime in the text itself. In Bal's reading, the text itself in this case makes the dominant interpretive tradition problematic. Her title then becomes a reversal: "Love is not lethal, but there is a problem for some people who think it is" (131).
 
 [^38]:  In _Lethal Love_, we find Bal drawing upon not only her own work in narratology and semiotics (Bal 1980; 1986; 1987b; 1988b), and not only on the likes of Barthes (especially the processes of _S/Z_), Bettleheim, Jonathan Culler, Derrida, Eco, Genette, Greimas, Iser, Jameson, Lacan, Levi-Strauss, Levinas, Pierce, Ricoeur, Schor, and Victor Turner; but upon her "real" unidentified dialogical partner, Michel Foucault. Constructively speaking, they are thick with one another: poststructuralists who have not forgotten the structure part of the title; they are systematic in their own deviously insightful visions of identities, coherences, and formalities alternative to the dominant ones that instigate a slippage, a real possible space for resistance and reinvention. Like Foucault's strategic feminism, Bal's is a feminism _redoubled_, feminism to the second power. This is Bal's real navel, effectively.
 
-[^39]:  Further, however, into that displaced little surface heart of darkness we are calling the navel we find none other than what some have called, in various ways, religion, or perhaps more precisely, the religious. This is the entangled, de-centered center of Bal's _corpus_.[^9] We find her texts utterly involved with religious concerns about tradition and reformation, opposing dualisms and totalitarian powers, drawing attention to signs, visions, word become flesh, image-word, the option for the other, renunciation (of mastery \[domination\]), blindness as insight, concern for the body (particular and structural), and a conception of time and space not simply as linear or even circular, but enfolding-where "bodies" are brought _into the fold_. One could say that she is fundamentally concerned with _enfolding sign-event(s)_.
+[^39]:  Further, however, into that displaced little surface heart of darkness we are calling the navel we find none other than what some have called, in various ways, religion, or perhaps more precisely, the religious. This is the entangled, de-centered center of Bal's _corpus_.[^9] We find her texts utterly involved with religious concerns about tradition and reformation, opposing dualisms and totalitarian powers, drawing attention to signs, visions, word become flesh, image-word, the option for the other, renunciation (of mastery &#91;domination&#93;), blindness as insight, concern for the body (particular and structural), and a conception of time and space not simply as linear or even circular, but enfolding-where "bodies" are brought _into the fold_. One could say that she is fundamentally concerned with _enfolding sign-event(s)_.
 
 [^40]:  The religious is the overlooked detail in Bal's body of work, the one that many might rather not see. Is this because of the oddity or intimacy or sometimes ridiculous quality to a navel such as this? Is it because of the irrefutable trace of the mother-source? Is it because the paralogic of the navel is an investment of a lack and sign of interdependency that alters the host-body? Is it because of the ambiguity and mystery of the spirit-paraclete hovering at the surface of the waters (at the navel) before the birth-creation? Is it because of this text(-ure)-with-spirit?
 

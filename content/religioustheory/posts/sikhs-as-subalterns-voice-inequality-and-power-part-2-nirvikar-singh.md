@@ -19,6 +19,32 @@ tags:
   - tradition
   - religion
   - historical
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second installment of a three part series. The first can be found [here]( /religioustheory/posts/sikhs-as-subalterns-voice-inequality-and-power/).* *It is [published](https://jcrt.org/archives/22.2/Singh.pdf) as a catalogued .PDF in article in the latest issue of the* Journal for Cultural and Religious Theory ([22.2](https://jcrt.org/archives/22.2/)).
 
@@ -36,7 +62,7 @@ Sikhs who created a new, restricted Sikh identity were “aggressive usurpers,�
 
 What is common in all three narratives is that the colonial power causes a transformation of the community, either directly, or through the efforts of elites who are either aggressive or traumatized. An alternative perspective is more nuanced, recognizing the influence of earlier Sikh tradition and thought, as incorporated in the GGS, or the role of the Sikh masses, consisting chiefly of the peasantry, as well as the complicated negotiations in which representatives of different interests and ideologies within the Sikh community engaged, and how they sought compromises to balance inclusion and distinctiveness.[^11]
 
-Much of the process of definition of the Sikhs in scholarship situated in the Western hemisphere begins in the 1980s, at a time of political turmoil in Punjab, and focuses on the Sikh diaspora, which is particularly numerous in Anglophone countries (Canada, Britain and the United States). Adopting the perspective that contemporary Sikh identity is almost wholly a modern construct, literally, “a gross transgression of Sikh doctrine,”[^12] Sikh identity in the diaspora is described as a recent phenomenon. For example, Brian Axel states, “Khalistan \[the name of a projected independent Sikh nation\] is an idea that…has become a generalized trope of social practice and representation central to the post-1984 (re) constitution of the Sikh diaspora.”[^13]
+Much of the process of definition of the Sikhs in scholarship situated in the Western hemisphere begins in the 1980s, at a time of political turmoil in Punjab, and focuses on the Sikh diaspora, which is particularly numerous in Anglophone countries (Canada, Britain and the United States). Adopting the perspective that contemporary Sikh identity is almost wholly a modern construct, literally, “a gross transgression of Sikh doctrine,”[^12] Sikh identity in the diaspora is described as a recent phenomenon. For example, Brian Axel states, “Khalistan &#91;the name of a projected independent Sikh nation&#93; is an idea that…has become a generalized trope of social practice and representation central to the post-1984 (re) constitution of the Sikh diaspora.”[^13]
 
 A similar approach leads to assertions that early Sikh migrants to California saw themselves as cosmopolitan Punjabis or even Hindus, rather than as followers of narrowly religious Sikh tradition.[^14]  Other academic writing on the Sikh diaspora follows similar lines, though not exclusively so.[^15] Building sometimes on some early ethnographic studies,[^16] there has been a tendency to emphasize Punjabi rather than Sikh identity, with the latter being reduced to a manifestation of “identity politics.”[^17]
 
@@ -68,7 +94,7 @@ In another example of appeals to theory, Karen Leonard uses the theoretical bina
 
 But the lack of accounting for changing societal circumstances and constraints itself brings the analysis into question. Indeed, Leonard’s initial framing of the temporally earlier case as “making ethnic choices,” and as an example of cosmopolitanism and the unimportance of Sikh religious identity, conflicts with her own examples, such as the Sikh who “changed his name from Singh to Ram because, having taken off the turban and beard, he felt he was no longer a Sikh and did not want to dishonor the Sikh religion.”[^34] 
 
-Oberoi’s historical narrative is also subject to the criticism of lacking an empirical anchor. For example, Jagtar Grewal, in assessing the pluralistic Sanatan Sikh category that Oberoi uses as a foil to the aggressive reformers, concludes, “His \[Oberoi’s\] hypothesis of Sanatan Sikhism in the early nineteenth century appears to be vague and vacuous.”[^35] N.-G. K. Singh, Grewal, and Murphy are among those who offer detailed critiques of Oberoi’s analysis based on features of Sikh history.[^36] These critiques admit the reality of diversity of views, and disagreements within the community.
+Oberoi’s historical narrative is also subject to the criticism of lacking an empirical anchor. For example, Jagtar Grewal, in assessing the pluralistic Sanatan Sikh category that Oberoi uses as a foil to the aggressive reformers, concludes, “His &#91;Oberoi’s&#93; hypothesis of Sanatan Sikhism in the early nineteenth century appears to be vague and vacuous.”[^35] N.-G. K. Singh, Grewal, and Murphy are among those who offer detailed critiques of Oberoi’s analysis based on features of Sikh history.[^36] These critiques admit the reality of diversity of views, and disagreements within the community.
 
 But they place the colonial period in the context of a longer arc of history, one that is reasonably well-documented. For example, attempts to define boundaries, or to institute reforms designed to bring practices closer to what the reformers viewed as the message of the Sikh Gurus, go back to the late 17th century,[^37] and the early 19th century,[^38] before the colonial period in Punjab. Murphy appreciates Oberoi’s attempt to delineate “the diverse religious worlds of early nineteenth century Punjab,” but points out that his “tying of ‘Sanatan Sikhism’ and folk traditions in opposition to the Khalsa episteme” has a shaky empirical basis. She details how Oberoi’s construction does not match the actual historical circumstances, instead enacting nostalgia for a non-existent “proto-multiculturalism.”[^39]
 
@@ -98,7 +124,7 @@ Continuing with the theme of empirical foundations, what is noteworthy about the
 
 [^9]: Arvind-Pal Singh Mandair, *Religion and the Specter of the West: Sikhism, India, Postcoloniality, and the Politics of Translation* (New York: Columbia University Press, 2009). For example, he states (p. 32), “neither Sikh experience nor the broader Indic culture from which it is derived can claim to possess a word for “religion” as signifying either a mystical or theological core or *a unified faith community*.”
 
-\[italics are mine\]
+&#91;italics are mine&#93;
 
 [^10]: Richard Fox, *Lions of the Punjab: Culture in the Making* (Berkeley: University of California Press, 1985).
 

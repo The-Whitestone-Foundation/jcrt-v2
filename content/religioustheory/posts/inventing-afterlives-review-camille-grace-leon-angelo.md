@@ -18,6 +18,22 @@ tags:
   - ancient
   - discourse
   - religious
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 Janes, Regina M. *Inventing Afterlives: The Stories We Tell Ourselves About Life After Death*. New York, NY: Columbia University Press, 2018. 384 pages. ISBN: 9780231185714.
 

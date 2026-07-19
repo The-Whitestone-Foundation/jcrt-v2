@@ -20,6 +20,27 @@ tags:
   - magic
   - performance
   - justice
+subjects:
+  - label: "Dance"
+    scheme: "FAST"
+    identifier: "fst00887402"
+    uri: "https://id.worldcat.org/fast/887402"
+    category: "topical"
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Magic"
+    scheme: "FAST"
+    identifier: "fst01005468"
+    uri: "https://id.worldcat.org/fast/1005468"
+    category: "topical"
+  - label: "Performance"
+    scheme: "FAST"
+    identifier: "fst01057829"
+    uri: "https://id.worldcat.org/fast/1057829"
+    category: "topical"
 ---
 *The following is the last of a three-part series.The first can be found [here]( /religioustheory/posts/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-joshua-hall/)*, the second [here]( /religioustheory/posts/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-part-2-joshua-hall/).
 

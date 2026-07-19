@@ -20,4 +20,25 @@ issue: 2
 season: spring
 year: 2015
 pages: 299-318
+subjects:
+  - label: "Analysis (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00808323"
+    uri: "https://id.worldcat.org/fast/808323"
+    category: "topical"
+  - label: "Faith"
+    scheme: "FAST"
+    identifier: "fst01198492"
+    uri: "https://id.worldcat.org/fast/1198492"
+    category: "topical"
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Saints"
+    scheme: "FAST"
+    identifier: "fst01103658"
+    uri: "https://id.worldcat.org/fast/1103658"
+    category: "topical"
 ---

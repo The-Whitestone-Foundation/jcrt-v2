@@ -19,6 +19,22 @@ tags:
   - ethical
   - philosophy
   - present
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a two part series.  The first can be found [here]( /religioustheory/posts/trauma-in-emmanuel-levinas-writing-body-part-1-magdalena-sedmak/). [The entire article](https://jcrt.org/archives/22.1/Sedmak.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 

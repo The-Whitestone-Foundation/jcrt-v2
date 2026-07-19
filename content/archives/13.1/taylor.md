@@ -17,4 +17,15 @@ issue: 1
 season: winter
 year: 2014
 pages: 121-142
+subjects:
+  - label: "Mass incarceration"
+    scheme: "FAST"
+    identifier: "fst02060143"
+    uri: "https://id.worldcat.org/fast/2060143"
+    category: "topical"
+  - label: "United States"
+    scheme: "FAST"
+    identifier: "fst01204155"
+    uri: "https://id.worldcat.org/fast/1204155"
+    category: "geographic"
 ---

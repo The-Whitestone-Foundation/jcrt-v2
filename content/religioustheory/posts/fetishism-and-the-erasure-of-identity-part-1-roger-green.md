@@ -18,6 +18,27 @@ tags:
   - religion
   - history
   - colonial
+subjects:
+  - label: "Anthropology of religion"
+    scheme: "FAST"
+    identifier: "fst01738842"
+    uri: "https://id.worldcat.org/fast/1738842"
+    category: "topical"
+  - label: "Fetishism"
+    scheme: "FAST"
+    identifier: "fst00923418"
+    uri: "https://id.worldcat.org/fast/923418"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the first of a two-part series.  The second installment can be found [here]( /religioustheory/posts/fetishism-and-the-erasure-of-identity-part-2-roger-green/).*
 
@@ -51,7 +72,7 @@ Similarly, Aileen Moreton-Robinson (Goenpul, Quandamooka) addresses the essentia
 
 > Because the ancestral spirits gave birth to humans, they share a common life force, which emphasizes the unity of humans with the earth rather than their separation.  The ontological relationship occurs through the intersubstantiation of ancestral beings, humans, and land; it is a form of embodiment.[^11]
 
-As Moreton-Robinson notes, the problem with the anti-essentialist critique of discussions of Indigeneity is that, while  “commendable, \[it is also\] premised on a contradiction embedded within the Western construction of essentialism; it is applied as a universal despite its epistemological recognition of difference.”[^12]  Again, the universalizing tendency creeps in, and this tendency has been so hegemonically persistent that it must be rejected again and again, not out of a process of negation and synthesizing of cognition in Hegel’s sense, but from temporal differences outside of attempts at world history excessive to the process of sublation.
+As Moreton-Robinson notes, the problem with the anti-essentialist critique of discussions of Indigeneity is that, while  “commendable, &#91;it is also&#93; premised on a contradiction embedded within the Western construction of essentialism; it is applied as a universal despite its epistemological recognition of difference.”[^12]  Again, the universalizing tendency creeps in, and this tendency has been so hegemonically persistent that it must be rejected again and again, not out of a process of negation and synthesizing of cognition in Hegel’s sense, but from temporal differences outside of attempts at world history excessive to the process of sublation.
 
 These are not mere “remainders,” although in terms of human rights and law we might see, as Alexander Weheliye does,[^13] that many humans of been “left out of” legal conceptions of personhood.  They are, as Survivance suggests, active rejections of the assimilating style of Western, eurochristian, and global-capitalist thought.  This is not a matter of “tweaking” or minimizing claims like, “I’m sorry, but our intentions were good.”  And while I am sympathetic to recent scholarly work arguing that twentieth-century rhetoric around the question of genocide merely display bad-faith efforts by Cold War global politics,[^14] the severe conditions continuing to affect Indigenous Peoples all over the world are minimized and tacitly accepted when people throw up their arms and call the term “useless.”
 
@@ -127,7 +148,7 @@ Disrupting the euro-formation involved in state recognition, Survivance-based cl
 
 William Pietz has exhaustively traced the etymology of the term ‘fetish’ within Latin Christian Theology and Law, as well as Portuguese language: “Derridean post-Marxists would locate the fetish in semantic indeterminacy and the ambivalent oscillation (hence no dialectical resolution) between contrary determinations, a ‘space’ where codes and their logics break down in a materiality that is conceived in terms of pure difference, contingency, and chance.”[^31]
 
-Glossing a complex discourse here, one might say that the postructural tendency was to note how the idea itself can become the fetish object in a very real inversion of common metaphysical descriptions of reality.  In postmodern terms, this hypereality would become reified as reality itself in the same way that the notion of transcendent reason had been psychologized by the Protestant underwriting of Kantianism to produce a kind of rational transcendence that would be a zero-degree for Euro-centric claims to the neutrality of “civilized” space.  As Pietz notes, for Charles de Brosses, “the fetish the was essentially a material, terrestrial entity; \[and\] fetishism was thus to be distinguished from cults of celestial bodies (whose truth might be a sort of proto-Deist intimation of the rational order of nature rather than a direct worship of natural bodies themselves).”[^32]
+Glossing a complex discourse here, one might say that the postructural tendency was to note how the idea itself can become the fetish object in a very real inversion of common metaphysical descriptions of reality.  In postmodern terms, this hypereality would become reified as reality itself in the same way that the notion of transcendent reason had been psychologized by the Protestant underwriting of Kantianism to produce a kind of rational transcendence that would be a zero-degree for Euro-centric claims to the neutrality of “civilized” space.  As Pietz notes, for Charles de Brosses, “the fetish the was essentially a material, terrestrial entity; &#91;and&#93; fetishism was thus to be distinguished from cults of celestial bodies (whose truth might be a sort of proto-Deist intimation of the rational order of nature rather than a direct worship of natural bodies themselves).”[^32]
 
 As Pietz historicizes, in Hegel’s conception the fetish resists entrance into History and *Aufhebung*, a resistance to sublation picked up by Marxism, modern art, and psychoanalysis – but also appearing, according to Pietz, in Deleuze’s schizo-analysis:
 

@@ -21,6 +21,27 @@ tags:
   - racial
   - humanity
   - kant
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Enlightenment"
+    scheme: "FAST"
+    identifier: "fst00912527"
+    uri: "https://id.worldcat.org/fast/912527"
+    category: "topical"
+  - label: "Humanity"
+    scheme: "FAST"
+    identifier: "fst00963659"
+    uri: "https://id.worldcat.org/fast/963659"
+    category: "topical"
+  - label: "Racism"
+    scheme: "FAST"
+    identifier: "fst01086616"
+    uri: "https://id.worldcat.org/fast/1086616"
+    category: "topical"
 ---
 *The following is the third part of an article in three installments that initially appeared in July 2016 in Open Theology 2:2016 785-203*.  *It is republished here with the permission of the author.  The first installment can be [accessed here]( /religioustheory/posts/from-heathen-to-sub-human-a-genealogy-of-the-influence-of-the-decline-of-religion-on-the-rise-of-modern-racism-part-1-oludamini-ogunnaike/),* the second installment [here]( /religioustheory/posts/from-heathen-to-sub-human-a-genealogy-of-the-influence-of-the-decline-of-religion-on-the-rise-of-modern-racism-part-2-oludamini-ogunnaike/).
 

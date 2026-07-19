@@ -18,4 +18,25 @@ issue: 2
 season: spring
 year: 2018
 pages: 328-337
+subjects:
+  - label: "God"
+    scheme: "FAST"
+    identifier: "fst00944037"
+    uri: "https://id.worldcat.org/fast/944037"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Silence"
+    scheme: "FAST"
+    identifier: "fst01118516"
+    uri: "https://id.worldcat.org/fast/1118516"
+    category: "topical"
 ---

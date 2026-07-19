@@ -17,6 +17,17 @@ tags:
   - agamben
   - metaphysics
   - philosophy-of-religion
+subjects:
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Giorgio Agamben. *What is Real?* Trans. Lorenzo Chiesa. Stanford: Stanford University Press, 2018. 88 pages. ISBN: 978-1-5036-0737-8**
 

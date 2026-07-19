@@ -21,6 +21,17 @@ keywords:
   - indigenous-dispossession
 pdf: 'berlin.pdf'
 date: 2026-03-03
+subjects:
+  - label: "Bulls, Papal"
+    scheme: "FAST"
+    identifier: "fst00841552"
+    uri: "https://id.worldcat.org/fast/841552"
+    category: "topical"
+  - label: "International law"
+    scheme: "FAST"
+    identifier: "fst00976984"
+    uri: "https://id.worldcat.org/fast/976984"
+    category: "topical"
 ---
 College educators have a duty to confront the lived realities of white supremacy and settler
 colonialism as they present themselves in the classroom, the historical record, and the academy

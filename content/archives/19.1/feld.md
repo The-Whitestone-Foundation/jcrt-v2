@@ -18,4 +18,15 @@ issue: 1
 season: winter
 year: 2020
 pages: 171-188
+subjects:
+  - label: "Self-consciousness (Awareness)"
+    scheme: "FAST"
+    identifier: "fst01732884"
+    uri: "https://id.worldcat.org/fast/1732884"
+    category: "topical"
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
 ---

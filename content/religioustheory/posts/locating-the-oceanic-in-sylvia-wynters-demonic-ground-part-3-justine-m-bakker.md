@@ -22,6 +22,17 @@ tags:
   - oceanic
   - mysticism
   - subject
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Mysticism"
+    scheme: "FAST"
+    identifier: "fst01031629"
+    uri: "https://id.worldcat.org/fast/1031629"
+    category: "topical"
 ---
 *The following article will appear next month in the Winter 2021-22 issue of the* Journal for Cultural and Religious Theory. *It is published in three installments*. *The first installment can be found [here]( /religioustheory/posts/locating-yhe-oceanic-in-sylvia-wynters-demonic-ground/)*, the second [here]( /religioustheory/posts/locating-the-oceanic-in-sylvia-wynters-demonic-ground-part-2-justine-m-bakker/).
 
@@ -69,7 +80,7 @@ But where Steinberg, Peters, and others configure the open sea in a general way,
 
 More recently, scholars such as Jonathan Howard and Joshua Bennett have explicitly turned to black literature and poetry situated in the oceanic environment of the Middle Passage to provoke epistemological interventions and alternatives to “Man.”[^30] Of course, Édouard Glissant and Derek Walcott already wrote about and theorized with the ocean decades ago. Glissant, to invoke just one example, linked his conceptualization of the rhizome to the entangled possibility of the ocean by way of the mangrove while Walcott’s most famous poem, “The Sea is History,” reflected on the transformative nature of salty water.
 
-Indeed, not denying the reality of the recent influx in the “west” of conferences, books, special journal issues and book series pertaining the so-called blue humanities we find, as Elizabeth DeLoughrey also writes (2017), a longer, consistent and extended concern with the oceanic in Afrodiasporic writings. Such a concern also warrants that we approach the “oceanic turn” with a bit of caution: as Alice Te Punga Somerville reminds us, the term “turn” suggests a renewed interest while some peoples—Somerville writes specifically of the Pacific—“have not needed a ‘turn to the sea’ because \[they\] were already there.”[^31]
+Indeed, not denying the reality of the recent influx in the “west” of conferences, books, special journal issues and book series pertaining the so-called blue humanities we find, as Elizabeth DeLoughrey also writes (2017), a longer, consistent and extended concern with the oceanic in Afrodiasporic writings. Such a concern also warrants that we approach the “oceanic turn” with a bit of caution: as Alice Te Punga Somerville reminds us, the term “turn” suggests a renewed interest while some peoples—Somerville writes specifically of the Pacific—“have not needed a ‘turn to the sea’ because &#91;they&#93; were already there.”[^31]
 
 The writings of Bennett, Howard, Glissant and others form the foundation for my notion of “demonic ocean.”[^32] Specifically, “demonic ocean” makes explicit the implicit traces of the oceanic that we find in “demonic ground” and denotes the various ways in which Black intellectual, religious, and cultural production has turned to the ocean as material, physical entity[^33] in order to critique and offer an alternative to Man. In the past two decades alone, such Afrodiasporic oceanic alternatives were expressed, for instance, in the films of The Ololith Group, the artworks of Ellen Gallagher, Kara Walker, Christopher Cozier and Maria Magdalena Campus-Pons, the writings of M. NourbeSe Philip, Fred D’Aguiar, Xandria Philips, and Alexis Pauline Gumbs and, finally, the music of Drexciya. I discuss many of these artists, writers and intellectuals in a current book project, tentatively titled *Demonic Ocean: Parareligion in the African Diaspora* (based on my dissertation).
 

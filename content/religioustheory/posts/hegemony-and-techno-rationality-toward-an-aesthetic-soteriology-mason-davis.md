@@ -21,6 +21,17 @@ tags:
   - difference
   - productive
   - hegemony
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Hegemony"
+    scheme: "FAST"
+    identifier: "fst01202283"
+    uri: "https://id.worldcat.org/fast/1202283"
+    category: "topical"
 ---
 To speak of aesthetics is not simply to consign art to its effects on sensibility, but to open up the configurations of experience that create new modalities of perception and new forms of subjectivity.
 

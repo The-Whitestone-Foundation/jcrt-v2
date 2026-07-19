@@ -21,6 +21,27 @@ tags:
   - liberal
   - insurrection
   - democracy
+subjects:
+  - label: "Democracy"
+    scheme: "FAST"
+    identifier: "fst00890077"
+    uri: "https://id.worldcat.org/fast/890077"
+    category: "topical"
+  - label: "Insurrection"
+    scheme: "FAST"
+    identifier: "fst01198748"
+    uri: "https://id.worldcat.org/fast/1198748"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Ra***schke, Carl.   [*Force of God: Political Theology and the Crisis of Liberal Democracy.*](http://cup.columbia.edu/book/force-of-god/9780231173841)  New York: Columbia University Press, 2015.  ISBN-978-0231-17384-1.  Hardback, e-book.  202 pages.**
 
@@ -52,7 +73,7 @@ Generally speaking, Agamben’s project has been an extending of and concretizin
 
 Agamben’s metaphors distinctly advance upon a biologically themed mode of inquiry, allowing him to examine an archaeological record of human-made things as opposed to the Bergsonian-influenced Deleuze and his more plant-based terminology. More anthropocentric, Agamben’s *The Sacrament of Language* challenges the Aristotelian notion of man as a speaking animal by showing the ways that the oath undoes itself.  How do politics work without speech?
 
-Agamben says, “philosophy, which does not seek to fix veridiction into a codified system of truth but, in every event of language, puts into words and exposes the veridiction that founds it, must necessarily put itself forward as *vera religio* \[true religion / binding, and maybe re-speaking\].”[^8] Regarding speech, which importantly in the Aristotelian tradition resonates with the emergence of the political, Agamben continues:
+Agamben says, “philosophy, which does not seek to fix veridiction into a codified system of truth but, in every event of language, puts into words and exposes the veridiction that founds it, must necessarily put itself forward as *vera religio* &#91;true religion / binding, and maybe re-speaking&#93;.”[^8] Regarding speech, which importantly in the Aristotelian tradition resonates with the emergence of the political, Agamben continues:
 
 > It is in the same sense that the essential proximity between the oath and *sacratio* (or *devotio*) must be understood. The interpretation of *sacertas* as an originary performance of power through the production of a killable and unsacrificable bare life must be completed in the sense that, even before being a sacrament of power, the oath is a consecration of the living human being through the word to the word.  The oath can function as a sacrament of power insofar as it is first of all the sacrament of language.  This original *sacratio* that takes place in the oath takes the technical form of the curse, the *politike ara* that accompanies the proclamation of the law.  Law is, in this sense, constitutively linked to the curse, and only a politics that has broken this original connection with the curse will be able one day to make possible another use of speech and of the law. (66)
 
@@ -70,13 +91,13 @@ Raschke and Badiou, however, seek to recover a political subject capable of main
 
 Theologically, Raschke importantly ascribes the Christian moment, not to Jesus Christ (and therefore not to Badiou’s *St. Paul*), but to the “force of God,” in which the resurrection / insurrection does not appear as either *chronos* or *kairos*, nor does it appear to be a mystical union or proclamation. Linking this force to a perhaps Derridean “democracy to come” in “acknowledgment of this *divine sovereignty and economy*,”[^12] Raschke then makes one of his strongest assertions about current liberal crises:
 
-> One of the reason\[s\] the very idea of a political theology, especially a “global” political theology, makes us uncomfortable is that we are virtually hypnotized these days, particularly in America, to think – *politically* – solely in terms of an economy of entitlement and resentment, which we mistakenly associated with some vague idea of “justice.” Agamben has forced us decisively into rethinking our “economic” and “ecumenical” models of the new global political as ultimately the “God” question. *We are now all now political theologians*, mainly because all theology is political and all politics is theological.
+> One of the reasons the very idea of a political theology, especially a “global” political theology, makes us uncomfortable is that we are virtually hypnotized these days, particularly in America, to think – *politically* – solely in terms of an economy of entitlement and resentment, which we mistakenly associated with some vague idea of “justice.” Agamben has forced us decisively into rethinking our “economic” and “ecumenical” models of the new global political as ultimately the “God” question. *We are now all now political theologians*, mainly because all theology is political and all politics is theological.
 
 Raschke’s statement is *timely* in the foregrounding of assumptions some people may have concerning the shadow text of American democratic liberalism. It is here that his critique of ‘Christian liberal state pacifism’ resounds.
 
 Raschke’s book is in many ways a masterful study of the implications of Western philosophy and religion and their continued presence in political life. Whether or not one agrees with him, his work intensifies the discourse in the field of political theology in important ways. Unlike Nietzsche, and *even more unlike* postmodern claims to reinvent or invoke pre-modern versions of Christianity and esoteric extensions of Rene Guenon-influenced traditionalism that may inform variants of radical Islamism,[^13] Raschke importantly does not come across as anti-modern in *Force of God*. He is too historically-minded to do so, and because of that he cannot be easily dismissed by liberals committed to some rehabilitated sense of the secular.
 
-Rather, as Raschke claims in his introduction, “\[p\]olitical theology is only conceivable and plausible at a time where we have witnessed, and are continuing to witness, the *end of theology*.”[^14] Later he *un-nostalgically* refers to both “the Church” and Christendom in the past tense.[^15]
+Rather, as Raschke claims in his introduction, “political theology is only conceivable and plausible at a time where we have witnessed, and are continuing to witness, the *end of theology*.”[^14] Later he *un-nostalgically* refers to both “the Church” and Christendom in the past tense.[^15]
 
 Raschke’s reading of philosophical history is superb. As far as my own interests go, I would be especially interested in Raschke’s reading of Spinoza, an especially persecuted intellectual, and his [*Tractatus Theologico-Politicus*](http://www.amazon.com/Theologico-Political-Treatise-Tractatus-Theologico-Politicus-Translated-Contents-ebook/dp/B006LG24I8/ref=sr_1_1?ie=UTF8&qid=1461129012&sr=8-1&keywords=spinoza+tractatus+theologico-). I think Spinoza is essential for the liberal discussion of both speech and interpretation in a way that qualifies both Hobbes and Locke, to whom Raschke directs his discussion of liberalism.
 

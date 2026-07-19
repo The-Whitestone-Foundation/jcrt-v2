@@ -165,6 +165,9 @@
   {% for kw in (keywords or []) %}
   <meta property="dc:subject" content="{{ kw | replace('-', ' ') }}" />
   {% endfor %}
+  {% for subject in (subjects or []) %}
+  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-category="{{ subject.category }}" />
+  {% endfor %}
   {% for aName in schemaAuthors %}
   <meta property="dc:creator" content="{{ aName }}" />
   <meta name="citation_author" content="{{ aName }}" />
@@ -226,6 +229,9 @@
   {% if citationPublicationDate or publishedDate %}<meta name="prism.publicationDate" content="{{ citationPublicationDate or publishedDate }}" />{% endif %}
   {% for cat in (categories or []) %}
   <meta property="dc:subject" content="{{ cat }}" />
+  {% endfor %}
+  {% for subject in (subjects or []) %}
+  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-category="{{ subject.category }}" />
   {% endfor %}
 {% else %}
   <meta property="dc:type" content="text" />
@@ -319,7 +325,17 @@
         { "@type": "Organization", "name": "JCRT", "@id": {{ metadata.knowledge_graph.organization_id | dump | safe }} }
         {% endif %}
       ],
-      "mainEntityOfPage": { "@id": {{ canonicalUrl | dump | safe }} }{% if volume %},
+      "mainEntityOfPage": { "@id": {{ canonicalUrl | dump | safe }} }{% if subjects and (subjects | length > 0) %},
+      "about": [
+        {% for subject in subjects %}{
+          "@type": "DefinedTerm",
+          "name": {{ subject.label | dump | safe }},
+          "termCode": {{ subject.identifier | dump | safe }},
+          "url": {{ subject.uri | dump | safe }},
+          "inDefinedTermSet": {{ ("https://id.worldcat.org/fast/" if subject.scheme == "FAST" else "https://homosaurus.org/v5") | dump | safe }},
+          "additionalProperty": { "@type": "PropertyValue", "name": "authority category", "value": {{ subject.category | dump | safe }} }
+        }{% if not loop.last %},{% endif %}{% endfor %}
+      ]{% endif %}{% if volume %},
       "volumeNumber": {{ volume | dump | safe }}{% endif %}{% if issue %},
       "issueNumber": {{ issue | dump | safe }}{% endif %}{% if doi %},
       "identifier": {{ doi | dump | safe }}{% endif %}{% if pdfUrl %},

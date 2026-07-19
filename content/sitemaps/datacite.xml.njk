@@ -26,10 +26,13 @@ layout: false
     <publisher>{{ rec.publisher | escape }}</publisher>
     <publicationYear>{{ rec.publicationYear }}</publicationYear>
     <resourceType resourceTypeGeneral="{{ rec.resourceTypeGeneral }}">{{ rec.resourceType }}</resourceType>
-{% if rec.keywords and (rec.keywords | length) > 0 %}
+{% if (rec.keywords and (rec.keywords | length) > 0) or (rec.subjects and (rec.subjects | length) > 0) %}
     <subjects>
 {% for kw in rec.keywords %}
       <subject>{{ kw | escape }}</subject>
+{% endfor %}
+{% for subject in rec.subjects %}
+      <subject subjectScheme="{{ subject.scheme | escape }}"{% if subject.uri %} schemeURI="{{ ('https://id.worldcat.org/fast/' if subject.scheme == 'FAST' else 'https://homosaurus.org/v5') | escape }}" valueURI="{{ subject.uri | escape }}"{% endif %}>{{ subject.label | escape }}</subject>
 {% endfor %}
     </subjects>
 {% endif %}

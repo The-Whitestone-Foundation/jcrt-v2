@@ -20,10 +20,26 @@ tags:
   - religious
   - historical
   - social
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 Kovács, Ábrahám, and James L. Cox, Editors. *New Trends and Recurring Issues in the Study of Religion: Context and Overview*. Budapest: L’Harmattan, 2014. ISBN-10: 9632368509 Hardcover, e-book. 249 pages.
 
-This stimulating volume of ten articles by historians, sociologists and theologians leads readers into the field of “theory and method” for the study of religion. Kovács and Cox regard the phenomenological change and the transformation and development of methodology in the context of Eastern European societies. As most of the articles were keynote addresses presented at the international conference for the European Association for the Study of Religions (EASR) in 2011, *New Trends and Recurring Issues* not only explores the history of European religions in the nineteenth century, but also argues that “the historical circumstances and logistic divisions have tended to separate \[Eastern European\] scholars working in this region from the West\[ern Europe\]” (2) in the twentieth century.
+This stimulating volume of ten articles by historians, sociologists and theologians leads readers into the field of “theory and method” for the study of religion. Kovács and Cox regard the phenomenological change and the transformation and development of methodology in the context of Eastern European societies. As most of the articles were keynote addresses presented at the international conference for the European Association for the Study of Religions (EASR) in 2011, *New Trends and Recurring Issues* not only explores the history of European religions in the nineteenth century, but also argues that “the historical circumstances and logistic divisions have tended to separate &#91;Eastern European&#93; scholars working in this region from the West&#91;ern Europe&#93;” (2) in the twentieth century.
 
 The editors demonstrate that the concept of the science of religion was extended through the contribution of sociology, anthropology, psychology, and phenomenology. The study of religion then became the private sphere of the communist party in which religion, under the Marxist institutes of philosophy, disappeared from Eastern European culture between 1945 and the 1990s.
 

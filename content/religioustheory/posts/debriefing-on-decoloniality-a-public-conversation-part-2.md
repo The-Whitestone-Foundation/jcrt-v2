@@ -17,6 +17,17 @@ tags:
   - decoloniality
   - question
   - community
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Decolonial theory"
+    scheme: "Homosaurus"
+    identifier: "homoit0003616"
+    uri: "https://homosaurus.org/v5/homoit0003616"
+    category: "topical"
 ---
 *The following is a transcript of a community-wide debriefing by participants for the online conference “*[*Decoloniality and the Disintegration of Cognitive Empire – Rethinking Sovereignty and Territoriality in the 21st Century.”*](https://thenewpolis.com/conferences-and-calls-for-presentations/) *The conference was held April 14-16, 2021 and featured such international luminaries as Walter Mignolo, Catherine Walsh, and Tink Tinker. Because of the length of the conversation, it is in two parts.* *The first part [can be found here]( /religioustheory/posts/debriefing-on-decoloniality-a-public-conversation/)[.](https://thenewpolis.com/2021/06/15/debriefing-on-decoloniality-a-public-conversation/)*
 
@@ -40,13 +51,13 @@ It’s baptismal in a way. You’re washed off of what came before. Although, no
 
 In terms of what white people can do, if you want to go the Malcolm X route, he would say talk to your own community, but don’t get involved with the rest of us.
 
-     And you know, a part of that is the danger of tokenism because if you’re saying, “well, we’ll just follow the lead of whoever’s up there,” but then, if you are in institutions and you happen to be in positions of authority and able to select these people, then you know, can you be sure… if you’re not running in meritocratic way or if you’re not able to see through the color -because choosing people to lead because of their color is the same thing as choosing them not \[to\]. Putting them down, it’s the same as putting them up.
+     And you know, a part of that is the danger of tokenism because if you’re saying, “well, we’ll just follow the lead of whoever’s up there,” but then, if you are in institutions and you happen to be in positions of authority and able to select these people, then you know, can you be sure… if you’re not running in meritocratic way or if you’re not able to see through the color -because choosing people to lead because of their color is the same thing as choosing them not &#91;to&#93;. Putting them down, it’s the same as putting them up.
 
 In order to avoid tokenism, there is that opinion in the ether that you should stick with your own community, these communities stay with themselves or work together. Mignolo talked about the Bandung Conference, which I think is pretty helpful example of that line of thinking because that was just all the weak countries, basically, you know all the major nations in the Third World coming together and talking about how they can – basically it was like a cooperative effort from all these non-white, non-European, non-American communities and traditions. So you know that opinion is there and then there’s the other opinion that everybody needs to work together and then kind of figure out where everybody’s place in the effort. Which way it’s going to go, though, I don’t know. I don’t have any position on that.
 
 **Jennifer McCurdy:** I will add, though, I thought about this about this question a lot too.
 
-And just as it’s not up to me to indigenize something, I feel like in a lot of ways as a white person it’s not up to me to decolonize something. But I do think that what is colonialism at its base: it’s capitalism, profit, it’s inequality, it’s Christiandom \[sic\], it’s this moral and ethical exceptionalism or epistemological dominance. And so I feel like as anybody if we’re rejecting those things, in a lot of ways we’re rejecting colonialism.
+And just as it’s not up to me to indigenize something, I feel like in a lot of ways as a white person it’s not up to me to decolonize something. But I do think that what is colonialism at its base: it’s capitalism, profit, it’s inequality, it’s Christiandom &#91;sic&#93;, it’s this moral and ethical exceptionalism or epistemological dominance. And so I feel like as anybody if we’re rejecting those things, in a lot of ways we’re rejecting colonialism.
 
 And so we can even do these things in our basic, personal, individual lives.
 
@@ -114,7 +125,7 @@ And, yeah, I think from here on, I would just be ranting and repeating myself an
 
 And he said the dangerous kind is the colonial cosmopol – “global cosmopolitan” – and I’m reading this – “global cosmopolitanism, which is prosperity and privilege, and a neoliberal, free market world” that there’s this great faith in technology and we live in these imagined communities like Silicon Valley and he said that’s one kind of this sort of like, “Oh we’re all the same, and we’re all living together in this multicultural way, but it’s actually very much still about you know neoliberalism.
 
-But then he calls the kind of cosmopolitanism that he aims for is vernacular cosmopolitanism. And he calls it “wounded cosmopolitanism” but it’s this he calls it, “a right to difference in equality,” so we’re equal but we’re different. And he said it’s not about authenticating anybody’s origins or identities and it creates solidarities and works towards democracy. And so his example is Trinidad. And he says in Trinidad, the people may \[be\] complete in some ways in their losses, but they’ve not lost their culture: they’re communitarian, they’re busy, they’re noisy. But they’re still tolerant. And so it’s a different kind of cosmopolitanism, and so I feel like what you’re saying Carlos is more this vernacular cosmopolitanism where people are coming together in their differences rather than in this one big market neoliberal society.
+But then he calls the kind of cosmopolitanism that he aims for is vernacular cosmopolitanism. And he calls it “wounded cosmopolitanism” but it’s this he calls it, “a right to difference in equality,” so we’re equal but we’re different. And he said it’s not about authenticating anybody’s origins or identities and it creates solidarities and works towards democracy. And so his example is Trinidad. And he says in Trinidad, the people may &#91;be&#93; complete in some ways in their losses, but they’ve not lost their culture: they’re communitarian, they’re busy, they’re noisy. But they’re still tolerant. And so it’s a different kind of cosmopolitanism, and so I feel like what you’re saying Carlos is more this vernacular cosmopolitanism where people are coming together in their differences rather than in this one big market neoliberal society.
 
 And you know these sort of false sort of communities that aren’t really communities, it’s people are constantly moving for finding jobs for profit and for somehow to continue to contribute to the market society, and so we form and deform and reform all of these global cosmopolitan communities, but it’s not very authentic.
 
@@ -152,11 +163,11 @@ And some people are coming from a place of authenticity and some people are faki
 
 So, is it really bad? Is it really about where they’re coming from? Should we really say like it’s problematic if they’re coming from a bad place or should we say it’s problematic in theory but then in the practice in the end it ends up contributing to the cultural whirlwind of transformation and decolonization.
 
-**Suhayb Yunus:** \[So\] it’s almost Darwinian: if these views aren’t going to be used, then they’re going to get weeded out as we evolve.
+**Suhayb Yunus:** &#91;So&#93; it’s almost Darwinian: if these views aren’t going to be used, then they’re going to get weeded out as we evolve.
 
 I think somebody else was trying to say something earlier, whether.
 
-**Rachel Foley:** \[I was just\] trying to make the point that it might have been cultural appropriation.
+**Rachel Foley:** &#91;I was just&#93; trying to make the point that it might have been cultural appropriation.
 
 **Brian Kirn:** But in appropriating decolonial culture &hellip; You know where do we take that? Okay, so, yes, they are they’re mimicking, they’re just kind of going along with the crowd and, yes, that is cultural appropriation, but if the culture that they are appropriating is one that helps them to delink from racism and from colonial strains of thinking from – and become more decolonial, where do we put that cultural appropriation on a moral scale?
 
@@ -172,7 +183,7 @@ But I can’t really be the one to teach about what an indigenous worldview is. 
 
 So I think there’s a difference between learning from and practicing in ways that still maybe have the same ends as far as like keeping everybody healthy and keeping the environment clean and not killing off the entire Earth without claiming a specific identity. I think when you start claiming identities that’s when you start getting into trouble. And I know that there’s a group of Navajo professors who are working with this one global development group in Denver, and they want to teach what they know because they see it as the last ditch effort to save the planet. And so they want white people to listen to them, and I asked them, I said, “Aren’t you afraid to share this knowledge, aren’t you afraid it’s going to be appropriated yet again?” And one of the answers was well, this isn’t our knowledge, this is everybody’s knowledge and we can share it. We can’t help what people do with it, but we’re going to share it. And so, I don’t know, I think it’s an interesting conversation, appropriation.
 
-**Rachel Foley:** \[This\] goes back to the discussion of whose knowledge is it anyway. And maybe the thing is that knowledge just needs to be shared, which does kind of make things susceptible to appropriation, but it also gives people space to learn about things other than the things that they’ve seen. So I feel like maybe the whole solution to decolonizing is like sharing knowledge, just sharing what we know about ourselves about each other about and about our own cultures and religious practice.
+**Rachel Foley:** &#91;This&#93; goes back to the discussion of whose knowledge is it anyway. And maybe the thing is that knowledge just needs to be shared, which does kind of make things susceptible to appropriation, but it also gives people space to learn about things other than the things that they’ve seen. So I feel like maybe the whole solution to decolonizing is like sharing knowledge, just sharing what we know about ourselves about each other about and about our own cultures and religious practice.
 
 I think that the academy should be free or broken down in some way that would make it accessible like Kieryn said.
 
@@ -180,9 +191,9 @@ That’s all I have to say about that.
 
 **Jennifer McCurdy:** But on the other hand – so the book *Ceremony* by Leslie Marmon Silko, she got a lot of criticism from other indigenous people for sharing some what they thought was specifically indigenous knowledge that they didn’t think should be shared. So I don’t think there’s really a good answer about
 
-\[whether or\]
+&#91;whether or&#93;
 
-not this knowledge should be shared. And everybody \[thinks\] differently about it.
+not this knowledge should be shared. And everybody &#91;thinks&#93; differently about it.
 
 Rachel Foley: That’s true, too.
 

@@ -21,6 +21,22 @@ tags:
   - philosophy
   - apophatics
   - theology
+subjects:
+  - label: "Performance"
+    scheme: "FAST"
+    identifier: "fst01057829"
+    uri: "https://id.worldcat.org/fast/1057829"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Claire Maria Chambers. *Performance Studies and Negative Epistemology: Performance Apophatics*. Palgrave Macmillan, 2017. Hardback. 301 pages.**
 

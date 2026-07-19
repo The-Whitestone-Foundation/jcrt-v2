@@ -22,6 +22,27 @@ tags:
   - religion
   - religious
   - social
+subjects:
+  - label: "Education"
+    scheme: "FAST"
+    identifier: "fst00902499"
+    uri: "https://id.worldcat.org/fast/902499"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/reframing-the-adwa-victory-as-a-decolonizing-praxis-discourse-around-colonization-in-the-ethiopian-context/).*
 
@@ -39,7 +60,7 @@ Based on this definition, Brown argues that neoliberalism disseminates the freed
 
 Education is one of the central phenomena in which neoliberalism demonstrates its rational normative governmentality. The Ethiopian modern higher education system that was imposed on Ethiopians creates a system that makes Ethiopian bodies docile to the extent that they cannot function and operate by themselves.
 
-In Ethiopia, the modern higher education system has a concise history. It was established in the Era of Haile Selassie I in 1950. Its establishment and reform were adopted from European and the United States imperialist higher education systems. Ethiopia did not apply its own modern higher education philosophy, so adopting between the European or American teaching models was one of the leading challenges.[^6] \] .
+In Ethiopia, the modern higher education system has a concise history. It was established in the Era of Haile Selassie I in 1950. Its establishment and reform were adopted from European and the United States imperialist higher education systems. Ethiopia did not apply its own modern higher education philosophy, so adopting between the European or American teaching models was one of the leading challenges.[^6] &#93; .
 
 In the era of Haile Selassie I, Ethiopia’s higher education was used as a political agenda to implement the Emperor’s policies of expansion, as in Foucault’s system of surveillance. However, the system that was created for keeping the sovereignty of the emperor became a place of opposition. University faculty and higher education students resisted the feudal and colonial leadership of Haile Selassie I. However, neither the emperor nor the students succeeded because of the communist regime that came to power.[^7]
 

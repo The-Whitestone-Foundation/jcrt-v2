@@ -21,6 +21,17 @@ tags:
   - religion
   - religious
   - biblical
+subjects:
+  - label: "Authority"
+    scheme: "FAST"
+    identifier: "fst00821653"
+    uri: "https://id.worldcat.org/fast/821653"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 So reads the title of a recent article in the *Los Angeles Review of Books.* The author, Jim Hinch, begins his piece with the conversion story of A. J. Zimmerman, a 25 year old graduate of divinity school who is now a youth pastor and works for a Pentecostal seminary in San Diego, California.
 

@@ -20,6 +20,32 @@ tags:
   - coloniality
   - decolonial
   - hegemony
+subjects:
+  - label: "Hegemony"
+    scheme: "FAST"
+    identifier: "fst01202283"
+    uri: "https://id.worldcat.org/fast/1202283"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Decolonial theory"
+    scheme: "Homosaurus"
+    identifier: "homoit0003616"
+    uri: "https://homosaurus.org/v5/homoit0003616"
+    category: "topical"
 ---
 *An earlier version of this posting had the date listed as “December,” which would imply the webinar had already occurred. It is still scheduled for **January, 12 2021.***
 

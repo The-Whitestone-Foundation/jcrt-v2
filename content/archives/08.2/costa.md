@@ -28,4 +28,25 @@ issue: 2
 season: spring
 year: 2008
 pages:
+subjects:
+  - label: "Christianity and politics"
+    scheme: "FAST"
+    identifier: "fst00859736"
+    uri: "https://id.worldcat.org/fast/859736"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Power (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01074215"
+    uri: "https://id.worldcat.org/fast/1074215"
+    category: "topical"
 ---

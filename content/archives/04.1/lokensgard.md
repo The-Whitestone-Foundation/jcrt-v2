@@ -8,13 +8,13 @@ author: "Ken Lokensgard"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2002
 ---
 Lokensgard - The Matter of Responsibility - JCRT 4.1 
 
-# The Matter of Responsibility: Derrida and Gifting Across Cultures
+## The Matter of Responsibility: Derrida and Gifting Across Cultures
 
 Ken Lokensgard  
 College of Charleston
@@ -64,13 +64,9 @@ In recent years, there has been a renewed interest in theories of the 'gift' and
 
 > **Ken Lokensgard** is a visiting assistant professor of religion at the College of Charleston. He specializes in the religious consequences of cultural contact for indigenous peoples. He is also interested in the ethnography of religion and in the politics of cultural representation.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Ken Lokensgard. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Ken Lokensgard. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.1/lokensgard](https://jcrt.org/archives/04.1/lokensgard/)
 

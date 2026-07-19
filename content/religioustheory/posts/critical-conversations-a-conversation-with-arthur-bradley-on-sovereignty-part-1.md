@@ -25,6 +25,32 @@ tags:
   - question
   - want
   - history
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---
 *The following is the first part of a transcript of one of our ongoing “Critical Conversations” with [distinguished British political philosopher Arthur Bradley](https://www.lancaster.ac.uk/english-literature-and-creative-writing/people/arthur-bradley). The conversation took place on March 10, 2022.The second part can be found [here](https://thenewpolis.com/2022/05/25/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-2/). The discussion centers around his recent boo*k [Unbearable Life: A Genealogy of Political Erasure](https://www.google.com/books/edition/Unbearable_Life/Q2SIDwAAQBAJ?hl=en&gbpv=1&dq=unbearable+life&printsec=frontcover).
 

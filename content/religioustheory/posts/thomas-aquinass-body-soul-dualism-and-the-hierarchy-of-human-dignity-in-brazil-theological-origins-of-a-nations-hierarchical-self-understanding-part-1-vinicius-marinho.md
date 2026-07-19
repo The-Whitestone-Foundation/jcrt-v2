@@ -22,6 +22,17 @@ tags:
   - indigenous
   - existence
   - social
+subjects:
+  - label: "Dignity"
+    scheme: "FAST"
+    identifier: "fst00893760"
+    uri: "https://id.worldcat.org/fast/893760"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 

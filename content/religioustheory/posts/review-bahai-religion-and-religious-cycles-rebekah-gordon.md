@@ -17,12 +17,33 @@ tags:
   - theory
   - morality
   - enlightenment
+subjects:
+  - label: "Enlightenment"
+    scheme: "FAST"
+    identifier: "fst00912527"
+    uri: "https://id.worldcat.org/fast/912527"
+    category: "topical"
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Sergeev, Mikhail.  Theory of Religious Cycles: Tradition, Modernity, and the Baha’i Faith.  Amsterdam:  Brill Rodopi, 2015.  ISBN-10:9004300031.  Paperback.  176 pages.**
 
 In *A Theory of Religious Cycles* Mikhail Sergeev undertakes the daunting task of establishing a universally applicable framework of religious development.
 
-Coming from communist Russia in which religion was prohibited, Sergeev’s voice distinguishes itself as an outlier standing in the predominant dialogue surrounding the harm caused by religion and its institutionalization by proclaiming religion’s beauty and worth. For example, we have such as the following:  “As a unique human enterprise, religion meets certain needs that *no other*  \[emphasis mine\] social institution can adequately satisfy. It provides a sense of morality, duty, community, and meaning to life.”(4) However, he gives little support to these claims, and they manage to alienate and denigrate the non-religious. If expounded upon, these sentiments seem to insinuate that life for the irreligious lacks “morality, duty, community, and meaning…”.
+Coming from communist Russia in which religion was prohibited, Sergeev’s voice distinguishes itself as an outlier standing in the predominant dialogue surrounding the harm caused by religion and its institutionalization by proclaiming religion’s beauty and worth. For example, we have such as the following:  “As a unique human enterprise, religion meets certain needs that *no other*  &#91;emphasis mine&#93; social institution can adequately satisfy. It provides a sense of morality, duty, community, and meaning to life.”(4) However, he gives little support to these claims, and they manage to alienate and denigrate the non-religious. If expounded upon, these sentiments seem to insinuate that life for the irreligious lacks “morality, duty, community, and meaning…”.
 
 Sergeev’s thesis, not clearly stated until the postscript, are many and varied, which are at least partially to blame for the books falling short of its claims. In 188 pages, Sergeev asserts and attempts to defend six different thesis. Walking through the book thesis by thesis we can ascertain their strengths and weaknesses.
 

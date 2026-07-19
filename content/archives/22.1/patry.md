@@ -16,4 +16,15 @@ issue: 1
 season: fall
 year: 2023
 pages: 113-134
+subjects:
+  - label: "Catholic Church"
+    scheme: "FAST"
+    identifier: "fst00531720"
+    uri: "https://id.worldcat.org/fast/531720"
+    category: "corporate"
+  - label: "Christian sects"
+    scheme: "FAST"
+    identifier: "fst00859518"
+    uri: "https://id.worldcat.org/fast/859518"
+    category: "topical"
 ---

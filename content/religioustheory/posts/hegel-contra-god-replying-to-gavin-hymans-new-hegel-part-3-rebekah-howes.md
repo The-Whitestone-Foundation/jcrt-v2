@@ -21,6 +21,27 @@ tags:
   - necessity
   - educational
   - relation
+subjects:
+  - label: "Education"
+    scheme: "FAST"
+    identifier: "fst00902499"
+    uri: "https://id.worldcat.org/fast/902499"
+    category: "topical"
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the last of a three-part series. The first can be found [here]( /religioustheory/posts/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-1-rebekah-howes/), the second [here]( /religioustheory/posts/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-2-rebekah-howes/). The earlier article by Prof. Hyman to which the author replies can be found* [*here*]( /religioustheory/posts/the-new-hegel-and-the-question-of-god-part-3-gavin-hyman/)*.*
 
@@ -50,7 +71,7 @@ This propertied logic impacts Hyman’s piece because it is this logic that dete
 
 By drawing our attention to the education that lies within the aporias of modern freedom, Tubbs lets God or the absolute emerge as the truth which ‘forms and re-forms itself in what is learned in such difficulties.’[^10] It is to say not only that the difficulty of the relation between God and freedom, state and religion, transcendence and immanence, should be retained, as Hyman does, but that it might also commend its own necessity as a reconceptualization of what truth is. It is not just the elements that are negated and preserved in the new relations of Hegel’s new readers.
 
-Relation itself is also negated and preserved in its being formed and reformed. How is this to be thought? How is the necessity of this positing of itself to be knowable? Only as that which posits its own necessity, and for Tubbs, that is only knowable and thinkable as its own formation and reformation, its own culture, its own education. In this logic of positing, rather than of non-contradiction, education can ‘be truth… \[can\] *be* the absolute.’[^11]
+Relation itself is also negated and preserved in its being formed and reformed. How is this to be thought? How is the necessity of this positing of itself to be knowable? Only as that which posits its own necessity, and for Tubbs, that is only knowable and thinkable as its own formation and reformation, its own culture, its own education. In this logic of positing, rather than of non-contradiction, education can ‘be truth… &#91;can&#93; *be* the absolute.’[^11]
 
 The two works that perhaps best develop this argument are *God, Education and Modern Metaphysics* and *Socrates On Trial*. Together they describe how the experience of subject and object carry a necessity of presupposition. The presupposition is the condition of their own possibility; and the necessity is that it presupposes itself. This is not another claim for essence over existence, or for presence over excess, or indeed for anthropocentric metaphysics over posthuman openness.
 

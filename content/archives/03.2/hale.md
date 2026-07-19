@@ -8,13 +8,13 @@ author: "David Hale"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 09
 year: 2002
 ---
 Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
 
-# Terror and the Sacred
+## Terror and the Sacred
 
 **Book Profiles:**  
 R. Scott Appleby, _[The Ambivalence of the Sacred: Religion, Violence, and Reconciliation](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0847685551&bfmtype=book)_. Boston: Rowman & Littlefield Publishers, Inc., 2000. 429 pages. ISBN: 0847685551.
@@ -32,13 +32,9 @@ Like many in America, I was dumbfounded by the "events" of September 11. Add hor
 
 > **David Hale** is associate book review editor for the _Journal for Cultural and Religious Theory._ He is a Ph.D. candidate in the Study of Religion at the University of Denver/Iliff School of Theology. He is also a regular columnist on religion for _The Aspen Times_ in Aspen, Colorado.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 David Hale. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 David Hale. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.2/hale](https://jcrt.org/archives/03.2/hale/)
 
@@ -48,7 +44,7 @@ Updated 07/28/21.
 
 [^4]:  Both books are big books, crammed with facts. Both books are also somewhat theoretical, but to different degrees.
 
-[^5]:  Appleby's theoretical orientation is less sophisticated than Juergensmeyer's but also more ambitious. Attempting to build upon Rudolf Otto's ideas regarding the "Holy" (Appleby prefers the word "sacred") he tries to construct an interpretative framework for tolerance and understanding (p. 28-30).This gambit makes reading what would normally be an interesting and informative book rather tiresome. "A community's _foundational experience_ of the sacred assumes complex mythical, scriptural and ethical shape" (p.55 italics mine). These experiences are not just foundational but also "_primordial_" (p.78 italics mine)." The experience of the "sacred discloses... a transcendent source" with "all religious tradition \[being\] an ongoing attempt to symbolize and ritually reenact _experience_ and to codify and refine...the holy" (p.55 italics mine). For those interested in reductionism ' the reducing of religion to one ("primordial," "foundational") idea, or set of ideas ' I suggest starting with two contemporary critics of Otto's who took him head on: E. Evans-Pritchard's _Nuer_ _Religion_ or R.C. Zaehner's _Mysticism: Sacred and Profane._
+[^5]:  Appleby's theoretical orientation is less sophisticated than Juergensmeyer's but also more ambitious. Attempting to build upon Rudolf Otto's ideas regarding the "Holy" (Appleby prefers the word "sacred") he tries to construct an interpretative framework for tolerance and understanding (p. 28-30).This gambit makes reading what would normally be an interesting and informative book rather tiresome. "A community's _foundational experience_ of the sacred assumes complex mythical, scriptural and ethical shape" (p.55 italics mine). These experiences are not just foundational but also "_primordial_" (p.78 italics mine)." The experience of the "sacred discloses... a transcendent source" with "all religious tradition &#91;being&#93; an ongoing attempt to symbolize and ritually reenact _experience_ and to codify and refine...the holy" (p.55 italics mine). For those interested in reductionism ' the reducing of religion to one ("primordial," "foundational") idea, or set of ideas ' I suggest starting with two contemporary critics of Otto's who took him head on: E. Evans-Pritchard's _Nuer_ _Religion_ or R.C. Zaehner's _Mysticism: Sacred and Profane._
 
 [^6]:  Appleby then goes on to say that experiences of the sacred are always ambivalent or ambiguous, and this "ambiguity characterizes human experience as any adult well knows" (p.29). The function of religion for Appleby is primarily as an interpreter of this ambiguity of the (experience of the) sacred.It acts as an "interpreter of the sacred"(p.8). Finally, it is Appleby's conclusion that this ambiguity and ambivalence in religion "provides an opening, an opportunity to cultivate tolerance" (p.307).
 

@@ -8,13 +8,13 @@ author: "Gregory Flaxman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 03
 year: 2003
 ---
 Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 
 
-# Past Imperfect, Future Unknown: The Discourse of Theory
+## Past Imperfect, Future Unknown: The Discourse of Theory
 
 Gregory Flaxman  
 University of North Carolina, Chapel Hill.
@@ -141,9 +141,9 @@ truth
 
 product
 
-     > It is only the fourth position that introduces the psychoanalytic point of view. In fact, it is not the fourth, but the very first position, namely the position of _truth_. Indeed,
-     > 
-     > Freud demonstrated that, while man is speaking he is driven by a truth, even if it remains unknown to himself. It is this position of truth which functions as the motor and as the starting-point of each discourse.[^21]
+> It is only the fourth position that introduces the psychoanalytic point of view. In fact, it is not the fourth, but the very first position, namely the position of _truth_. Indeed,
+> 
+> Freud demonstrated that, while man is speaking he is driven by a truth, even if it remains unknown to himself. It is this position of truth which functions as the motor and as the starting-point of each discourse.[^21]
 
 impossibility
 
@@ -174,13 +174,9 @@ impotence
 
 > **Gregory Flaxman** is assistant professor of English at the University of North Carolina, Chapel Hill. He is the editor of _The Brain is the Screen: Deleuze and the Philosophy of Cinema_ and is currently at work on a book about romantic comedy and the modern imagination of freedom.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2003 Gregory Flaxman. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Gregory Flaxman. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/flaxman](https://jcrt.org/archives/04.2/flaxman/)
 
@@ -228,7 +224,7 @@ Updated 07/28/21.
 
 [^11]: For a more developed history of literary criticism in the American university, see Vincent B. Leitch's _American Literary Criticism from the 30s to the 80s_ (New York: Columbia University Press, 1988).
 
-[^12]:  The enigma of hysteria compels knowledge itself to speak, to account for itself, and surely this was Freud's profound and vertiginous experience of the hysteric. Having undertaken the treatment of hysteria first with Breuer and then Charcot, Freud began in his private practice to contrive a new mode of encountering hysteria'a mode whose failure may allow us to grasp the correlative nature of theory. As Freud tells us in his _Fragment of a Case of Hysteria_, "since the date of the _Studies_ \[_in Hysteria_\] psycho-analytic technique has been completely revolutionized. At that time the work of analysis started out from the symptoms, and aimed at clearing them up one after the other. Since then I have abandoned that technique, because I found it totally inadequate for dealing with the finer structure of a neurosis. I now let the patient himself choose the subject of the day's work, starting out from whatever surface his unconscious happens to be presenting to his notice at the moment."[^15] In other words, if hysteria is literally marked by the production of symptoms, Freud came to gradually understand that these symptoms were the traces of an experience'something seen, heard, remembered, or imagined, but an experience nonetheless'that had been displaced onto the body, where it insisted as a kind of _memento_. Often, a more recent memory sent the hysteric reeling back into childhood, when he or she had experienced a trauma, at first seemingly actual and then usually fantasmatic, but always (from the perspective of the symptomatology) ineluctably _real_. Whence the vast techniques of the unconscious, including the interpretations of dreams, that Freud had developed in order to recall the trauma and alleviate its symptomatic formations on the body.
+[^12]:  The enigma of hysteria compels knowledge itself to speak, to account for itself, and surely this was Freud's profound and vertiginous experience of the hysteric. Having undertaken the treatment of hysteria first with Breuer and then Charcot, Freud began in his private practice to contrive a new mode of encountering hysteria'a mode whose failure may allow us to grasp the correlative nature of theory. As Freud tells us in his _Fragment of a Case of Hysteria_, "since the date of the _Studies_ &#91;_in Hysteria_&#93; psycho-analytic technique has been completely revolutionized. At that time the work of analysis started out from the symptoms, and aimed at clearing them up one after the other. Since then I have abandoned that technique, because I found it totally inadequate for dealing with the finer structure of a neurosis. I now let the patient himself choose the subject of the day's work, starting out from whatever surface his unconscious happens to be presenting to his notice at the moment."[^15] In other words, if hysteria is literally marked by the production of symptoms, Freud came to gradually understand that these symptoms were the traces of an experience'something seen, heard, remembered, or imagined, but an experience nonetheless'that had been displaced onto the body, where it insisted as a kind of _memento_. Often, a more recent memory sent the hysteric reeling back into childhood, when he or she had experienced a trauma, at first seemingly actual and then usually fantasmatic, but always (from the perspective of the symptomatology) ineluctably _real_. Whence the vast techniques of the unconscious, including the interpretations of dreams, that Freud had developed in order to recall the trauma and alleviate its symptomatic formations on the body.
 
 [^12]: Rabat', p. 8-9.
 

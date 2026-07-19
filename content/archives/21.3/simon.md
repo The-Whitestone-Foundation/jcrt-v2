@@ -17,4 +17,15 @@ issue: 3
 season: fall
 year: 2022
 pages: 348-382
+subjects:
+  - label: "Church of Jesus Christ of Latter-day Saints"
+    scheme: "FAST"
+    identifier: "fst00549691"
+    uri: "https://id.worldcat.org/fast/549691"
+    category: "corporate"
+  - label: "Ethnohistory"
+    scheme: "FAST"
+    identifier: "fst00916090"
+    uri: "https://id.worldcat.org/fast/916090"
+    category: "topical"
 ---

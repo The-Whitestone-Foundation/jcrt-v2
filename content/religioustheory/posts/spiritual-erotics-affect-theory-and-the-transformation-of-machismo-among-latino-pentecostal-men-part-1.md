@@ -22,6 +22,17 @@ tags:
   - theory
   - religion
   - religious
+subjects:
+  - label: "Pentecostalism"
+    scheme: "FAST"
+    identifier: "fst01057199"
+    uri: "https://id.worldcat.org/fast/1057199"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *From time to time Religious Theory (RT) invites well-known academic authors to outline current book projects that have not yet been published.  This article, released in three parts, reflects a recent talk by Prof. Luis Leon, a well-known author of several key books on the theory of Latino religions and borderlands theory.*
 
@@ -41,7 +52,7 @@ As a result of the Pentecostal conversion phenomenon among Latina/os, researcher
 
 As Chestnut puts it:
 
-> The utilitarian nature of Pentecostalism and popular religion in general means that the spiritual products offered to consumers of the divine must prove useful in their daily lives. Products that do not relate to believers’ quotidian existence will find few purchasers in the popular religious marketplace….spiritual products that hold little relevance to the social reality of impoverished believers will collect dust on the lower shelves of the market. If Pentecostalism is thriving in the \[unregulated\] Latin American religious marketplace, it is largely due to the utility of its products in consumers’ every day lives.[^5]
+> The utilitarian nature of Pentecostalism and popular religion in general means that the spiritual products offered to consumers of the divine must prove useful in their daily lives. Products that do not relate to believers’ quotidian existence will find few purchasers in the popular religious marketplace….spiritual products that hold little relevance to the social reality of impoverished believers will collect dust on the lower shelves of the market. If Pentecostalism is thriving in the &#91;unregulated&#93; Latin American religious marketplace, it is largely due to the utility of its products in consumers’ every day lives.[^5]
 
 My research suggests an alternative to the rational choice consumerism model arguing for an affective contagion approach to understanding conversion, whereby ideas and practices are transmitted and circulate throughout populations by simple connection, bodies acting upon other bodies, spreading affect like viruses attaching themselves to organisms. In the words of one theorist: “The social contagion thesis holds that emotions and beliefs spread through and leap between populations in a process more akin to a disease like the flu than rational choice…While the social contagion thesis may be simple, its conclusions are radical: under certain circumstances mere touch or contact with some sociocultural phenomenon is sufficient for cultural transmission to occur.”[^6]
 

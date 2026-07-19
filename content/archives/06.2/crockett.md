@@ -30,4 +30,25 @@ issue: 2
 season: spring
 year: 2005
 pages:
+subjects:
+  - label: "Congresses and conventions"
+    scheme: "FAST"
+    identifier: "fst00875219"
+    uri: "https://id.worldcat.org/fast/875219"
+    category: "topical"
+  - label: "Events (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00917152"
+    uri: "https://id.worldcat.org/fast/917152"
+    category: "topical"
+  - label: "Everyman's library. Theology & philosophy"
+    scheme: "FAST"
+    identifier: "fst01937862"
+    uri: "https://id.worldcat.org/fast/1937862"
+    category: "title"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---

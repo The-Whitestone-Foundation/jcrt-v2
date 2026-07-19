@@ -16,4 +16,10 @@ issue: 2
 season: spring
 year: 2017
 pages: 109-125
+subjects:
+  - label: "Postsecularism"
+    scheme: "FAST"
+    identifier: "fst01764747"
+    uri: "https://id.worldcat.org/fast/1764747"
+    category: "topical"
 ---

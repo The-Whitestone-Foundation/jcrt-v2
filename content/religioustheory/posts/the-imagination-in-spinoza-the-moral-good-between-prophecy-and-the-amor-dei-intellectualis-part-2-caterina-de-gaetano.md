@@ -22,6 +22,17 @@ tags:
   - individual
   - imagination
   - social
+subjects:
+  - label: "Imagination"
+    scheme: "FAST"
+    identifier: "fst00967585"
+    uri: "https://id.worldcat.org/fast/967585"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/the-imagination-in-spinoza-the-moral-good-between-prophecy-and-the-amor-dei-intellectualis-part-1-caterina-de-gaetano/). [The entire article](https://jcrt.org/archives/22.1/Degaetano.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 

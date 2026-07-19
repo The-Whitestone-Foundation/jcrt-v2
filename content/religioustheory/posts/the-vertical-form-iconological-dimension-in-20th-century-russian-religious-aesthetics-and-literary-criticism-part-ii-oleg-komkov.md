@@ -23,6 +23,27 @@ tags:
   - dimension
   - aesthetic
   - existential
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Contemplation"
+    scheme: "FAST"
+    identifier: "fst00876612"
+    uri: "https://id.worldcat.org/fast/876612"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---
 *The following is the second part in a two-part installment. The first part can be found [here]( /religioustheory/posts/the-vertical-form-iconological-dimension-in-20th-century-russian-religious-aesthetics-and-literary-criticism-part-i-oleg-komkov/).* 
 

@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 158-189
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Jesus Christ"
+    scheme: "FAST"
+    identifier: "fst00040116"
+    uri: "https://id.worldcat.org/fast/40116"
+    category: "personal"
 ---

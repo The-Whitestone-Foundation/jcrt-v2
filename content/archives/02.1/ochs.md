@@ -8,13 +8,13 @@ author: "Peter Ochs"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 08
 year: 2000
 ---
 Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1 
 
-# Rosenzweig as Postcritical Jewish Philosopher
+## Rosenzweig as Postcritical Jewish Philosopher
 
 a review of ![](http://service.bfast.com/bfast/serve?bfmid=2181&sourceid=27747321&bfpid=0691048509&bfmtype=book)[_Idolatry and Representation: The Philosophy of Franz Rosenzweig Reconsidered_](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0691048509&bfmtype=book), by Leora Batnitzky (Princeton University Press, 2000); $41.50.
 
@@ -33,11 +33,7 @@ Leora Batnitzky has revised her Ph.D. dissertation into a book that is of great 
 
 > **Peter Ochs** is Edgar Bronfman Professor of Modern Judaic Studies at the University of Virginia, and Director of its new Program in Jewish Studies. He's cofounder of the Society of Textual Reasoning and the Society of Scriptural Reasoning. Most recent book publications are _Reviewing the Covenant, eugene Borowitz and the Postmodern Renewal of Jewish Theology_ and the co-edited volume, _Christianity in Jewish Terms_.
 
-* * *
-
-> 
-
-* * *
+***
  2000 Peter Ochs. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.1/ochs](https://jcrt.org/archives/02.1/ochs/)

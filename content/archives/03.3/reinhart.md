@@ -8,13 +8,13 @@ author: "David Reinhart"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 09
 year: 2002
 ---
 Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 
 
-# Why and how does humanity have a capacity for inhumanity?
+## Why and how does humanity have a capacity for inhumanity?
 
 a review of Jacques Derrida, _[On Cosmopolitanism and Forgiveness](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0415227119&bfmtype=book)_. Routledge, 2001. 94pp. $13.00. ISBN: 0415227119
 
@@ -29,13 +29,9 @@ Within this small but dense book, Jacques Derrida addresses issues regarding soc
 
 > **David Reinhart** teaches theology at Saint Xavier University and is completing a dissertation examining the significance of prayer in the works of Metz, Derrida, and Habermas.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 David Reinhart. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 David Reinhart. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/reinhart](https://jcrt.org/archives/03.3/reinhart/)
 

@@ -22,6 +22,12 @@ tags:
   - event
   - ascription
   - argument
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/the-religious-significance-of-miracles-why-humes-critique-is-superfluous/).*
 

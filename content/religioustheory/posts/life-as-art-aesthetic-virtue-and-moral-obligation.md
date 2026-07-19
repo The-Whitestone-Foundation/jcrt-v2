@@ -18,6 +18,17 @@ tags:
   - ethics
   - ethical
   - philosophy
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---
 Virtue ethics has received much attention throughout the last decades. While some of the corresponding works are dealing with questions of aesthetics, there appear to be only very few discussions that devote themselves to what could be called *aesthetic virtue*. And yet aesthetic virtue might inspire ethical debates in more than one respect.
 
@@ -65,7 +76,7 @@ It is worth paying attention to the wording. To give oneself “style” is not 
 
 This arduous work amounts to hard work on oneself:
 
-Like a sculptor, human beings have to chisel themselves \[freischlagen\] with patient work.[^21]
+Like a sculptor, human beings have to chisel themselves &#91;freischlagen&#93; with patient work.[^21]
 
 ## *Aesthetic virtue*
 
@@ -153,7 +164,7 @@ But then the question *how* to be moral is solved by virtue ethics alone.
 
 [^20]: F. Nietzsche, *Thus spoke Zarathustra: A book for all and none,* Cambridge texts in the history of philosophy (Cambridge, New York: Cambridge University Press, 2006); ed. Adrian Del Caro; Robert B. Pippin (III. § 2 On the Spirit of Heaviness).
 
-[^21]: F. Nietzsche, *Nachgelassene Fragmente 1880 – 1882: Kritische Studienausgabe, Bd. 9*, 2nd ed., ed. G. Colli and M. Montinari (München: Deutscher Taschenbuch Verlag, 1988), 361 (= NF-1880,7\[213\]; transl. my own). The image of the sculptor ought to be taken quite literally. Just like the statue is not “there” before it is cut out of the rock, the self of the human being is not there before the work on the self is carried out. In his inspiring monograph on Nietzsche entitled “life as literature”, Nehemas makes it quite clear that the self is not just “there”, waiting for liberation, but actually evolves through the creative act of self-formation: A. Nehamas, *Nietzsche: Life as literature* (Cambridge, Mass. etc: Harvard University Press, 1987), 173f.
+[^21]: F. Nietzsche, *Nachgelassene Fragmente 1880 – 1882: Kritische Studienausgabe, Bd. 9*, 2nd ed., ed. G. Colli and M. Montinari (München: Deutscher Taschenbuch Verlag, 1988), 361 (= NF-1880,7&#91;213&#93;; transl. my own). The image of the sculptor ought to be taken quite literally. Just like the statue is not “there” before it is cut out of the rock, the self of the human being is not there before the work on the self is carried out. In his inspiring monograph on Nietzsche entitled “life as literature”, Nehemas makes it quite clear that the self is not just “there”, waiting for liberation, but actually evolves through the creative act of self-formation: A. Nehamas, *Nietzsche: Life as literature* (Cambridge, Mass. etc: Harvard University Press, 1987), 173f.
 
 [^22]: Cf. Dillon, “Respect and Care,” 116ff.
 

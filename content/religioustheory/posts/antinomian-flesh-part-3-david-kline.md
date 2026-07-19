@@ -17,6 +17,22 @@ tags:
   - religious
   - political
   - resistance
+subjects:
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Poetics"
+    scheme: "FAST"
+    identifier: "fst01067682"
+    uri: "https://id.worldcat.org/fast/1067682"
+    category: "topical"
+  - label: "Race Religious aspects"
+    scheme: "FAST"
+    identifier: "fst01086444"
+    uri: "https://id.worldcat.org/fast/1086444"
+    category: "topical"
 ---
 The following is the third of a three-part series. The first can be found [here]( /religioustheory/posts/antinomian-flesh-part-1-david-kline/), the second [here]( /religioustheory/posts/antinomian-flesh-part-2-david-kline/).
 
@@ -58,7 +74,7 @@ Jewish philosopher and Paul interpreter Jacob Taubes also helps with digging und
 
 Much more than the problem of religious ritual and ethnic particularity, it is the political reality under which Jews and Gentiles alike live that poses the real barrier to the differential community imagined. It is in this political sense that Pauline antinomianism is read not against Jewish law, but against the power of a Roman-imperial nomos built on oppressive religious, political, ethnic, and economic distinctions. Paul’s critique of law, Taubes argues, “is a critique of a dialogue that Paul is conducting not only with the Pharisees—that is, with himself—but also with his Mediterranean environment.”[^12] This is no supersessionist and anti-Jewish “reject and replace” theological formula, but rather a prophetic renunciation of Roman imperial authority:
 
-> the concept of law—and this &hellip; is political theology—is a compromise formula for the Imperium Romanum.” All of these different religious groups, especially the most difficult one, the Jews who of course did not participate in the cult of the emperor but were nevertheless *religio licita* \[“an approved religion”\] … represented a threat to Roman rule. But there was an aura, a general Hellenistic aura, an apotheosis of nomos. One could sing it to a Gentile tune—I mean, to a Greek-Hellenistic tune—one could sing it in Roman, and one could sing it in a Jewish way. Everyone understood law as they wanted to … law as hypostasis.[^13]
+> the concept of law—and this &hellip; is political theology—is a compromise formula for the Imperium Romanum.” All of these different religious groups, especially the most difficult one, the Jews who of course did not participate in the cult of the emperor but were nevertheless *religio licita* &#91;“an approved religion”&#93; … represented a threat to Roman rule. But there was an aura, a general Hellenistic aura, an apotheosis of nomos. One could sing it to a Gentile tune—I mean, to a Greek-Hellenistic tune—one could sing it in Roman, and one could sing it in a Jewish way. Everyone understood law as they wanted to … law as hypostasis.[^13]
 
 Despite the vast differences of ethnic and religious identities spanning across the Roman Empire, what unified everything under the authority of single political identity was this nomos of Roman imperial sovereignty. The political reality of Roman power was the “measure of measure,” it was where the buck stopped. What Paul is performing with his antinomian messianic declaration of intra-belonging in the crucified Christ was not just a stance against exclusive religious identity grounded in the Torah, but to reject the entire “Greek-Hellenistic” order built on systems of oppressive political divisions.
 
@@ -80,7 +96,7 @@ As Edouard Glissant muses at the very beginning of *Poetics of Relation,* an enf
 
 While her impressive and highly productive assemblage of various poetic reflections (mostly through religious and philosophical texts) offers a compelling account of a Christian poetics of the flesh as animating and unsettling body and world, there is something crucial missing from Rivera’s account that keeps her interventions hovering above what I have foregrounded as the most important site for reflecting on the flesh’s relationship to bodies within racial modernity. Despite her grounding in Caribbean thought and significant attention to issues of race and gender, there is virtually no discussion of the middle passage or the figure of the slave.
 
-Reflected in her lack of engagement with both Glissant’s attention to the slave plantation, “one of the bellies of the world … \[that\] has the advantage of being able to be studied with the utmost precision,”[^21] and Spillers, who for black studies is the inaugural and definitive theorist of the flesh within the frame of the New World, Rivera’s poetics stops short of a full exploration of the threshold of the flesh’s meaning within the many violences of Man’s nomos of being human. This is meant not so much as a critique of Rivera’s highly compelling understanding of the poetics of the flesh, but rather to push it further towards the poetics of blackness and black thought born in the absolute depths of Man’s “high crimes against the flesh.”
+Reflected in her lack of engagement with both Glissant’s attention to the slave plantation, “one of the bellies of the world … &#91;that&#93; has the advantage of being able to be studied with the utmost precision,”[^21] and Spillers, who for black studies is the inaugural and definitive theorist of the flesh within the frame of the New World, Rivera’s poetics stops short of a full exploration of the threshold of the flesh’s meaning within the many violences of Man’s nomos of being human. This is meant not so much as a critique of Rivera’s highly compelling understanding of the poetics of the flesh, but rather to push it further towards the poetics of blackness and black thought born in the absolute depths of Man’s “high crimes against the flesh.”
 
 Deeper still, and within the frame of the middle passage and the plantation, the possibility of new forms of poetic life and thought in and out of Man’s nomos finds its generative mode in (and as) blackness, both as the originary (included) exclusion of Man’s nomos of being human and as the very possibility of its demise. In “Blackness and Poetry,” Fred Moten writes, “black thought, which is to say black social life, remains a fruitful site for inhabiting and soliciting the human differential within the general ecology. Black thought is the socio-poetic project that examines and enacts these possibilities insofar as they exist over the edge of the separatist, monocultural and monotheistic imperium that will have been defined in and by ontological and epistemological settlement.”[^22]
 
@@ -88,7 +104,7 @@ As its target, blackness is not contained by slavery or the plantation, but its 
 
 Black flesh, the “zero point of social conceptualization” for western Man, is the deconstruction of its bodily phantasms of identity. Its poetics keeps everything open and incomplete, a “black hole” in the fabric of Man’s universe. As Moten eloquently and poetically describes, “this openness, this dissonance, this residual informality, this refusal to coalesce, this differential resistance to enclosure, this sounded animateriality, this breaking vessel and broken flesh is poetry, one of whose other names, but not just one name among others, is blackness.”[^23]
 
-Returning to an antinomian religious key, Ashon Crawley’s *Blackpentecostal Breath: The Aesthetics of Possibility* speaks to this necessary full descent into blackness by looking to  black religious sites where “beautiful, hard-loved flesh \[opens and becomes\] vulnerable … not \[in\] the sanctuary but the basement, where the love is felt.”[^24] Descending to the depth of a tradition born out of the terror and brutality of bodies stolen and stripped of all meaningful human markers through the experiences of the middle passage and enslavement, Crawley imagines and performs the announcement of the flesh’s “infinite alternatives to what *is.*”[^25]
+Returning to an antinomian religious key, Ashon Crawley’s *Blackpentecostal Breath: The Aesthetics of Possibility* speaks to this necessary full descent into blackness by looking to  black religious sites where “beautiful, hard-loved flesh &#91;opens and becomes&#93; vulnerable … not &#91;in&#93; the sanctuary but the basement, where the love is felt.”[^24] Descending to the depth of a tradition born out of the terror and brutality of bodies stolen and stripped of all meaningful human markers through the experiences of the middle passage and enslavement, Crawley imagines and performs the announcement of the flesh’s “infinite alternatives to what *is.*”[^25]
 
 The name given to this poetic alternative within the frame of the Middle Passage and its afterlife is “blackpentacostalism,” an “intellectual practice grounded in the fact of the flesh, flesh unbounded and liberative, flesh as vibrational and always on the move.”[^26] In and out of the black church and other religious spaces, vibrating in the musical traditions of the blues and jazz, and adhering in every social gathering against the protocols of proper identity, blackpentecostalism, as an expression of the flesh, is not an object that is possessed or owned, nor is it something given from above or outside—it is generated in the living performance of the flesh’s encounters and entanglements.
 

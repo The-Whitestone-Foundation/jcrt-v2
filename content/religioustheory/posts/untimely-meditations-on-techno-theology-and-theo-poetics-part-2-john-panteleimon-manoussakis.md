@@ -22,6 +22,32 @@ tags:
   - theopoetics
   - philosophy
   - theology
+subjects:
+  - label: "Creation"
+    scheme: "FAST"
+    identifier: "fst00882382"
+    uri: "https://id.worldcat.org/fast/882382"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ***The following is the second half of the article*.  *The first installment [can be found here.]( /religioustheory/posts/untimely-meditations-on-techno-theology-and-theo-poetics-part-1-john-panteleimon-manoussakis/)***
 
@@ -43,7 +69,7 @@ Furthermore, the creation of the world “in the beginning” (Gen. 1:1) dispels
 
 I remember that one evening when I was dining at the home of a descendant of one of those royal bankers who welcomed Heinrich Heine to Paris just over a century ago, I astonished him by telling him—he remains astonished up to this day, and is still clearly not ready to get over it—that modern science, the kind that was born with Galileo, could only have developed out of biblical or Judaic ideology, and not out of ancient philosophy or the Aristotelian tradition.[^4]
 
-At the same time, creation, precisely by its beginning, cannot be anything else than a creation in freedom and out of freedom. Freedom is first and foremost exemplified in creation’s gratuitousness. The *ex nihilo* of the creation—the world as created as much as the creative act by which “\[t\]here is no possible question that could go back behind this God who created in the beginning…No question can go back behind the creating god, because one cannot go back behind the beginning.”[^5] That is because, according to Bonhoeffer, the beginning “is completely free.”
+At the same time, creation, precisely by its beginning, cannot be anything else than a creation in freedom and out of freedom. Freedom is first and foremost exemplified in creation’s gratuitousness. The *ex nihilo* of the creation—the world as created as much as the creative act by which “there is no possible question that could go back behind this God who created in the beginning…No question can go back behind the creating god, because one cannot go back behind the beginning.”[^5] That is because, according to Bonhoeffer, the beginning “is completely free.”
 
 In other words the Creator—in freedom!—creates the creature. The connection between them is conditioned by nothing except freedom, which means that it is unconditioned.[^6]
 
@@ -107,7 +133,7 @@ I would like to bring these reflections to a close by quoting the words from ano
 
 [^6]: Ibid., 32.
 
-[^7]: John D. Zizioulas, *The Eucharistic Communion and the World*, Luke Ben Tallon (ed.), (New York: Continuum, 2011), p. 158. For Zizioulas too one could “locate the heart of the problem and the crucial difference \[between Christianity and Greek philosophy\] in the question of whether the world has had a *beginning* or not” (157, emphasis in the original).
+[^7]: John D. Zizioulas, *The Eucharistic Communion and the World*, Luke Ben Tallon (ed.), (New York: Continuum, 2011), p. 158. For Zizioulas too one could “locate the heart of the problem and the crucial difference &#91;between Christianity and Greek philosophy&#93; in the question of whether the world has had a *beginning* or not” (157, emphasis in the original).
 
 [^8]: F.W.J. Schelling, *Philosophical Investigation into the Essence of Human Freedom*, translated by Jeff Love and Johannes Schmidt (Albany: SUNY Press, 2006), p. 28. With good reason, Schelling avoids the term “creation” for the term “procession” (*Folge*) that further confuses the life of God *ad intra* as Trinity with his creative work *ad extra*.
 

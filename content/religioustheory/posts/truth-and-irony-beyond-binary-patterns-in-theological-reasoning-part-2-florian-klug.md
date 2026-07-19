@@ -22,6 +22,17 @@ tags:
   - binary
   - existential
   - theological
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-1-florian-klug/). It will appear as a full article in the Fall 2021 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org).
 
@@ -145,7 +156,7 @@ The individual is in commitment towards truth – he or she does not possess it,
 
 [^23]: See Heidegger, *Pathmarks*, 138. See also Klaus Müller, Jürgen Werbick, ‟Wahrheit. II. Philosophie- und theologiegeschichtlich,” in *Lexikon für Theologie und Kirche*, vol. 10, ed. Walter Kasper et al., 3rd ed (Freiburg: Herder 2006), 929–933 at 929–930.
 
-[^24]: See Heidegger, *Pathmarks*, 138: “think truth as correctness \[Richtigkeit\].”
+[^24]: See Heidegger, *Pathmarks*, 138: “think truth as correctness &#91;Richtigkeit&#93;.”
 
 [^25]: See Aristotle: *Metaphysics*, 1041b.
 

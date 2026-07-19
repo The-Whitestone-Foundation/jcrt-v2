@@ -20,6 +20,27 @@ tags:
   - religion
   - abrahamic
   - multiculturalism
+subjects:
+  - label: "Hospitality"
+    scheme: "FAST"
+    identifier: "fst00961114"
+    uri: "https://id.worldcat.org/fast/961114"
+    category: "topical"
+  - label: "Multiculturalism"
+    scheme: "FAST"
+    identifier: "fst01028836"
+    uri: "https://id.worldcat.org/fast/1028836"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religion and literature"
+    scheme: "FAST"
+    identifier: "fst01093839"
+    uri: "https://id.worldcat.org/fast/1093839"
+    category: "topical"
 ---
 ## The following is the first of a two-part series.
 
@@ -35,7 +56,7 @@ Though the response of “Western” countries like the United States to the 9/1
 
 Mohsin Hamid’s 2007 novel *The Reluctant Fundamentalist[^3] * charts this complex territory through the story of Changez, a Pakistani who had emigrated to the United States to do his degree at Princeton, began a lucrative career with an elite valuation firm called Underwood Samson and a romance with the beautiful Erica, only for the events of September 11 to intervene and his sojourn in the U.S come to an end. On his return to Pakistan he then becomes radicalized and though it is unclear, may in fact be the reluctant fundamentalist of the novel’s title. *The Reluctant Fundamentalist* is a very different 9/11 novel than those by many American writers. Literary critic David Holloway has argued that the “9/11 novel” already represents a distinctive genre in and of itself, one largely conglomerated around notable writers like Don DeLillo and Philip Roth.
 
-As Holloway argues, novels like Philip Roth’s *The Plot Against America* and Cormac McCarthy’s *The Road*, “generalised from contemporary events a working definition of historical experience as trauma \[. . .\] The early 9/11 novel generally understood history to be governed by random factors \[. . .\] rather than motivated decision-making, policy initiatives or the working through of vested interests.”[^4]
+As Holloway argues, novels like Philip Roth’s *The Plot Against America* and Cormac McCarthy’s *The Road*, “generalised from contemporary events a working definition of historical experience as trauma &#91;. . .&#93; The early 9/11 novel generally understood history to be governed by random factors &#91;. . .&#93; rather than motivated decision-making, policy initiatives or the working through of vested interests.”[^4]
 
 The 9/11 novel understood this way is therapeutic, de-historicizing and largely de-politicizing. In contrast, Hamid’s novel is politically aware, subtly educating its readers in the ways in which American geo-power is used globally and in the United States itself.  *The Reluctant Fundamentalist* powerfully suggests that one of the consequences of the 9/11 attacks is the failure of American (post) Christians to take seriously the religious duties of Abrahamic hospitality for their Muslim siblings. When confronted with alterity, the American state proves to be profoundly inhospitable for the Pakistani Muslim immigrant. Arguably, this failure of hospitality is a *religious* failure, which therefore produces a religious response in the form of terrorist violence.
 
@@ -47,13 +68,13 @@ So blessed are those who are strangers” (Sahih Muslim, book 1 Hadith 270).  I
 
 More recently, studies on hospitality have become a hot topic in continental philosophies of religion, in France and the United States alike. In particular, Jacques Derrida’s late work devoted significant amounts of attention to the subject. Derrida rightly argued that hospitality is not one ethics amongst other ethics, but rather the very foundation of culture. In his article “Hostipality,” he introduced his idea of absolute or radical hospitality through an analysis of Christian-Islamic relations in the late French writer Louis Massignon’s travels throughout the Middle East.
 
-Derrida points out that hospitality by its very nature must be unforced—“if I say to the other, upon announcement of his coming \[*sa venue*\], ‘come in’ \[*Entrez donc*\], without smiling, without sharing with him some signs of joy, it is not hospitality.”[^6] Derrida goes on further to say that hospitality cannot occur if it is only given to those who one invites, to the already acceptable. Instead, he argues that “radical hospitality consists, would have to consist, in receiving without invitation, beyond or before the invitation.”[^7] Radical hospitality in this account would demand an unforced welcome to an unexpected arrival, a difficult, perhaps impossible openness to the Other.
+Derrida points out that hospitality by its very nature must be unforced—“if I say to the other, upon announcement of his coming &#91;*sa venue*&#93;, ‘come in’ &#91;*Entrez donc*&#93;, without smiling, without sharing with him some signs of joy, it is not hospitality.”[^6] Derrida goes on further to say that hospitality cannot occur if it is only given to those who one invites, to the already acceptable. Instead, he argues that “radical hospitality consists, would have to consist, in receiving without invitation, beyond or before the invitation.”[^7] Radical hospitality in this account would demand an unforced welcome to an unexpected arrival, a difficult, perhaps impossible openness to the Other.
 
 Beyond its sources in the canonical texts of the Abrahamic, the post-structuralist analysis of Derrida, Kearney and others resuscitate several perhaps more marginal interpretations of this theme of hospitality. Kearney reminds us of the tradition in Sufi poetry of equating the divine with the stranger or guest in the works of poets like Rumi, Hallah, Hafiz, and Kabir Das.[^8] Hafiz asks, “if God had invited you to a party, and said, ‘Everyone in the ballroom tonight will be my special Guest, How would you treat them when you arrived?’[^9] To honor the guest is to honor God. 
 
-Derrida draws an even more radical conclusion on this theme in *The Gift of Death*, his meditation on the attempted sacrifice of Isaac by his father Abraham in Genesis 22, when he reminds us that the infinite alterity of God differs from the infinite alterity of any other Other (*tout autre*). Derrida suggests that “everyone else \[. . .\] is infinitely other in its absolute singularity, inaccessibility, solitary, transcendent.”[^10] Therefore, “what can be said about Abraham’s relation to God can be said about my relation without relation to every one (one) as every (bit) other” (78). The opacity of the Other—*any* Other—prevents us from making any firm distinctions between God and any Other.  In other words, in a certain sense, the guest *is* God.
+Derrida draws an even more radical conclusion on this theme in *The Gift of Death*, his meditation on the attempted sacrifice of Isaac by his father Abraham in Genesis 22, when he reminds us that the infinite alterity of God differs from the infinite alterity of any other Other (*tout autre*). Derrida suggests that “everyone else &#91;. . .&#93; is infinitely other in its absolute singularity, inaccessibility, solitary, transcendent.”[^10] Therefore, “what can be said about Abraham’s relation to God can be said about my relation without relation to every one (one) as every (bit) other” (78). The opacity of the Other—*any* Other—prevents us from making any firm distinctions between God and any Other.  In other words, in a certain sense, the guest *is* God.
 
-Derrida preempts objections to this theme of absolute openness to the Other, when he acknowledges that the undecidability of openness to the Other is a risky move. There is after all a volatility in the very etymology of the word “hospitality” in Latin, which signals both hostility *and* hospitality.  Derrida points out that “for pure hospitality or pure gift to occur there must be absolute surprise \[. . .\] an opening without horizon of expectation \[. . .\] to this newcomer whoever he be. The newcomer may be good or evil, but if you exclude the possibility that the newcomer is coming to destroy your house, if you wish to control this and exclude this terrible possibility, there is no hospitality.”[^11]
+Derrida preempts objections to this theme of absolute openness to the Other, when he acknowledges that the undecidability of openness to the Other is a risky move. There is after all a volatility in the very etymology of the word “hospitality” in Latin, which signals both hostility *and* hospitality.  Derrida points out that “for pure hospitality or pure gift to occur there must be absolute surprise &#91;. . .&#93; an opening without horizon of expectation &#91;. . .&#93; to this newcomer whoever he be. The newcomer may be good or evil, but if you exclude the possibility that the newcomer is coming to destroy your house, if you wish to control this and exclude this terrible possibility, there is no hospitality.”[^11]
 
 In the post 9/11 age of terrorism, immigrants and refugees, this is a hard demand for anyone to make—to expose themselves and others to risk. Kearney makes an interesting critique of Derrida’s theory of hospitality when he asks “what is to prevent us saying yes to a malevolent agent as much as to a transcendent God who comes to save and liberate us?”[^12] Nothing indeed. Yet Derrida affirms the necessity of this move, for to begin to make conditions on *which* Others arrive is to cross out the very possibility of the utterly new occurring. Ironically for those on the Christian Right in the United States, the fear of the unexpected incursion of alterity (notably, Muslim and immigrant) may also be considered an attempt to ward off the sacred. 
 
@@ -67,9 +88,9 @@ Narrated in the first person from a cafe in Lahore, Pakistan, Changez takes on t
 
 Through this move, we will see that while there is undoubtedly friendship and generosity between the two, there is far from mutuality of the relationship between Changez and his companion, the United States. In particular, through this portrayal of hospitality, *The Reluctant Fundamentalist* stages the antinomies of contemporary American multiculturalism and its relation to terrorism. As literary critic Anna Hartnell points out, while *The Reluctant Fundamentalist* “critiques the melting pot conception of American society in its manifestations both before and after 9/11 – indeed, the novel questions this supposed break – it also insists on a shared vision of society that eludes many accounts of multiculturalism” (2010, 337).[^19]
 
-In New York, Changez meets an initial acceptance of the sort proclaimed by the multiculturalist discourse. His classmates at Princeton and workmates at Underwood Samson are accepting, even occasionally celebratory of his cultural difference. Changez has dinner with Erica and her parents, “\[taking\] advantage of the ethnic exception that is written into every code of etiquette and a starched white kurta of delicately woven cotton over a pair of jeans.”[^20] Erica states that he “looks great” (50), while her mother notes approvingly to Erica, “very nice.”[^21]
+In New York, Changez meets an initial acceptance of the sort proclaimed by the multiculturalist discourse. His classmates at Princeton and workmates at Underwood Samson are accepting, even occasionally celebratory of his cultural difference. Changez has dinner with Erica and her parents, “&#91;taking&#93; advantage of the ethnic exception that is written into every code of etiquette and a starched white kurta of delicately woven cotton over a pair of jeans.”[^20] Erica states that he “looks great” (50), while her mother notes approvingly to Erica, “very nice.”[^21]
 
-Changez suggests that it was a “testament to the open-mindedness and—that overused word—cosmopolitan nature of New York that \[he\] felt completely comfortable in this attire” (48). Changez’s work, too, appears similarly accepting, with him quickly rising through the ranks of the firm, granted more and more responsibility. He is, in Homi Bhabha’s words, “almost the same, but not quite.”[^22] Indeed, for Changez, New York is the multicultural city par excellence, for as he states:
+Changez suggests that it was a “testament to the open-mindedness and—that overused word—cosmopolitan nature of New York that &#91;he&#93; felt completely comfortable in this attire” (48). Changez’s work, too, appears similarly accepting, with him quickly rising through the ranks of the firm, granted more and more responsibility. He is, in Homi Bhabha’s words, “almost the same, but not quite.”[^22] Indeed, for Changez, New York is the multicultural city par excellence, for as he states:
 
 > …moving to New York felt—so unexpectedly—like moving home. But there were other reasons as well: the fact that Urdu was spoken by taxicab drivers; the presence of a samosa- and channa-serving establishment called the Pak-Punjab Deli; the coincidence of crossing Fifth Avenue and hearing, from loudspeakers mounted on the South Asian Gay and Lesbian Association float, a song to which I had danced at my cousin’s wedding.[^23]
 

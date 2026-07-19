@@ -24,6 +24,27 @@ tags:
   - political
   - kant
   - eurocentric
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 The following is the video and transcript of the first of “Critical Conversations”, a monthly Zoom seminar with advance registration sponsored by *The New Polis* and Whitestone Publications and involving international scholars. The seminar took place on August 18, 2020. It is republished here.
 
@@ -335,7 +356,7 @@ Now maybe that is also a way of looking at—in a certain sense—forgiveness, i
 
 **Sarah Pessin**: I’ll just say that I appreciate both of the speakers, and everything that they’ve said, including their very helpful comments on forgiveness in these different senses. I think that’s all very helpful. I’ll also add—just sort coming to my mind—I like the way that Herman invoked, and that Miguel talked about, changing the prayer in a way that maybe invokes pieces of this so called “Old Testament” in ways that work against different kinds of hegemonic, sort of …
 
-\[*there was a brief disruption in the Zoom meeting, here, involving an unmuted mic.  Unfortunately, a small part of Sarah Pessin’s comments were therefore garbled beyond decipherability*\]
+&#91;*there was a brief disruption in the Zoom meeting, here, involving an unmuted mic.  Unfortunately, a small part of Sarah Pessin’s comments were therefore garbled beyond decipherability*&#93;
 
 … I like the idea of a kind of, not in the spirit of multiculturalism, but in the spirit of what Carl talked about and Cleo talked about—whether we’re talking about multinaturalisms or epistemic pluralisms—I liked the idea of bringing up a Hebrew biblical idea of letting debts go out and integrating that into Christian prayers.
 

@@ -17,4 +17,20 @@ issue: 1
 season: winter
 year: 2016
 pages: 5-22
+subjects:
+  - label: "Financial crises"
+    scheme: "FAST"
+    identifier: "fst00924607"
+    uri: "https://id.worldcat.org/fast/924607"
+    category: "topical"
+  - label: "Humanities"
+    scheme: "FAST"
+    identifier: "fst00963588"
+    uri: "https://id.worldcat.org/fast/963588"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
 ---

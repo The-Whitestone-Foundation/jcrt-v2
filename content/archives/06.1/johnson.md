@@ -26,4 +26,30 @@ issue: 1
 season: winter
 year: 2004
 pages:
+subjects:
+  - label: "Death"
+    scheme: "FAST"
+    identifier: "fst00888613"
+    uri: "https://id.worldcat.org/fast/888613"
+    category: "topical"
+  - label: "Deserts"
+    scheme: "FAST"
+    identifier: "fst00891230"
+    uri: "https://id.worldcat.org/fast/891230"
+    category: "topical"
+  - label: "Gambling"
+    scheme: "FAST"
+    identifier: "fst00937372"
+    uri: "https://id.worldcat.org/fast/937372"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Secret (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01110655"
+    uri: "https://id.worldcat.org/fast/1110655"
+    category: "topical"
 ---

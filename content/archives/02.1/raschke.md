@@ -8,13 +8,13 @@ author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2000
 ---
 Raschke - Para/theology - JCRT 2.1 
 
-# Para/theology: The Study of Religion and the Science of the Negative
+## Para/theology: The Study of Religion and the Science of the Negative
 
 Carl A. Raschke  
 University of Denver
@@ -46,11 +46,7 @@ Contrary to positivist trends in the so-called "social sciences" over the last q
 
 > **Carl A. Raschke** is professor of religious studies at the University of Denver and senior editor of the Journal for Religious and Cultural Theory. His major books include _The End of Theology_ (The Davies Group, 2000), _Fire and Roses: Postmodernity and the Thought of the Body_ (SUNY 1996), _The Engendering God_ (Westminster Press, 1995), _Painted Black_ (Harper Collins, 1990), _Theological Thinking_ (Scholars Press, 1988). He is the author of over 200 popular and scholarly articles on subjects ranging from postmodern religious thought to computer-mediated education to new religious movements. He is formerly president of the Rocky Mountain-Great Plains Region of the American Academy of Religion and an editor of several series with the American Academy of Religion. He is also a well-known national media personality.
 
-* * *
-
-> 
-
-* * *
+***
 
  2000 Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
@@ -158,7 +154,7 @@ Updated 07/28/21.
 
 [^42]:  The negative plenitude of religious space has been delineated carefully and didactically in the work of Jonathan Z. Smith. Smith insists that the mytho-grammatical method of mapping religious sign-sectors is inadequate because it presumes that the sense of "sacrality" is based on narrative, rather than ritual, formulas. The study of myths, according to Smith, was originally a "rationalizing procedure" of both Christian antiquity and the Enlightenment. It constituted an archaeology of the imaginative substrates of tradition and narrative in a quest for the concealed "signs of truth."[^15]
 
-[^43]:  Myth studies, therefore, interpeted the "sacred" as a camouflaged strand of _kerygmatic_ presence, as an embryonic rationality or "eidetic" form of intelligibility, as Husserl might have phrased it. The sacred became the esoteric core, or "occult" _secret,_ locked within the narrative. This quasi-phenomenological take on what came to be called "the essence of religion" was merely one variant of the metaphysics of presence wrongly applied to the theory of the other. But ritual theory shows that this phantom presence we call the "sacred" is most appropriately construed, says Smith, as a locus of differentiation. "Ritual is, above all, an assertion of difference'. \[It is\] not best understood as congruent with something else ' a magical imitation of desired ends, a translation of emotions, a symbolic acting out of ideas, a dramatization of a text, or the like. Ritual gains force where incongruency is perceived or thought about."[^16]
+[^43]:  Myth studies, therefore, interpeted the "sacred" as a camouflaged strand of _kerygmatic_ presence, as an embryonic rationality or "eidetic" form of intelligibility, as Husserl might have phrased it. The sacred became the esoteric core, or "occult" _secret,_ locked within the narrative. This quasi-phenomenological take on what came to be called "the essence of religion" was merely one variant of the metaphysics of presence wrongly applied to the theory of the other. But ritual theory shows that this phantom presence we call the "sacred" is most appropriately construed, says Smith, as a locus of differentiation. "Ritual is, above all, an assertion of difference'. &#91;It is&#93; not best understood as congruent with something else ' a magical imitation of desired ends, a translation of emotions, a symbolic acting out of ideas, a dramatization of a text, or the like. Ritual gains force where incongruency is perceived or thought about."[^16]
 
 [^44]:  Such a "thought of incongruency" is both negative space and what Smith terms "sacred place." Yet sacred places are not delineated by "where" they are, but how they are "marked" by acts of transposition or "displacement." In other words, sacred place is arbitrary, just as the "sacred" per se cannot be ontologized, but only read as a sign of difference. Smith cites Herodotus' tale of the Egyptian king Amasis. Amasis was a "private person" who became king. On his ascent to the throne Amasis' golden footpan, in which he and his guests washed feet, was melted down and shaped into an image of a god, which became the center of an important cult. The golden footpan is not an "emblem" of some mysterious or "numinous" entity. In no sense can it even be regarded as "symbolic." The story of Amasis concerns "the arbitrariness of place and of placement and replacement. It comes out of the complex ideology of archaic kingship." For "divine and human, sacred and profane, are transitive categories; they serve as maps and labels, not substances; they are distinctions of office, indices of difference."[^17]
 

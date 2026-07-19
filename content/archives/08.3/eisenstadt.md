@@ -29,4 +29,20 @@ issue: 3
 season: fall
 year: 2007
 pages:
+subjects:
+  - label: "Antisemitism"
+    scheme: "FAST"
+    identifier: "fst00810769"
+    uri: "https://id.worldcat.org/fast/810769"
+    category: "topical"
+  - label: "Translations"
+    scheme: "FAST"
+    identifier: "fst01154827"
+    uri: "https://id.worldcat.org/fast/1154827"
+    category: "topical"
+  - label: "Transmission of texts"
+    scheme: "FAST"
+    identifier: "fst01154863"
+    uri: "https://id.worldcat.org/fast/1154863"
+    category: "topical"
 ---

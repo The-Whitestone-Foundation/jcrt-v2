@@ -16,4 +16,10 @@ issue: 1
 season: winter
 year: 2018
 pages: 78-108
+subjects:
+  - label: "Racism"
+    scheme: "FAST"
+    identifier: "fst01086616"
+    uri: "https://id.worldcat.org/fast/1086616"
+    category: "topical"
 ---

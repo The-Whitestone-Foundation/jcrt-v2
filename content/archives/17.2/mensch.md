@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2018
 pages: 446-454
+subjects:
+  - label: "Bible. Genesis"
+    scheme: "FAST"
+    identifier: "fst01808046"
+    uri: "https://id.worldcat.org/fast/1808046"
+    category: "title"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

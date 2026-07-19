@@ -19,4 +19,10 @@ issue: 2
 season: spring
 year: 2016
 pages: 85-97
+subjects:
+  - label: "Sports injuries"
+    scheme: "FAST"
+    identifier: "fst01130688"
+    uri: "https://id.worldcat.org/fast/1130688"
+    category: "topical"
 ---

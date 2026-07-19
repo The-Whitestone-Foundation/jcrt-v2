@@ -21,6 +21,27 @@ tags:
   - desecularization
   - modernity
   - theological
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Secularization"
+    scheme: "FAST"
+    identifier: "fst01110738"
+    uri: "https://id.worldcat.org/fast/1110738"
+    category: "topical"
 ---
 *The following is the second of a three part-series. The first can be found* [*here*]( /religioustheory/posts/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-1-erik-meganck/)*.*
 

@@ -20,6 +20,17 @@ tags:
   - sexual
   - somatics
   - emotional
+subjects:
+  - label: "Sex"
+    scheme: "FAST"
+    identifier: "fst01114160"
+    uri: "https://id.worldcat.org/fast/1114160"
+    category: "topical"
+  - label: "Gender studies"
+    scheme: "Homosaurus"
+    identifier: "homoit0000579"
+    uri: "https://homosaurus.org/v5/homoit0000579"
+    category: "topical"
 ---
 *The following is the last of a three-part series.The first can be found [here]( /religioustheory/posts/body-erotic-john-boswells-history-of-eurochristian-sexuality-and-the-case-for-transcendental-somatics-part-1-kieryn-wurts/)*, the second [here]( /religioustheory/posts/body-erotic-john-boswells-history-of-eurochristian-sexuality-and-the-case-for-transcendental-somatics-part-2-kieryn-wurts/).
 

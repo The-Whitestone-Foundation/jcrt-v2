@@ -17,6 +17,17 @@ tags:
   - hence
   - environmental
   - holiness
+subjects:
+  - label: "Creation"
+    scheme: "FAST"
+    identifier: "fst00882382"
+    uri: "https://id.worldcat.org/fast/882382"
+    category: "topical"
+  - label: "Holiness"
+    scheme: "FAST"
+    identifier: "fst00958754"
+    uri: "https://id.worldcat.org/fast/958754"
+    category: "topical"
 ---
 ## The article is published in two installments.
 

@@ -6,6 +6,8 @@ import standardSite from "../_data/standardSite.js";
 const ROOT = process.cwd();
 const RECORDS_FILE = path.join(ROOT, "_data", "standardSiteRecords.yaml");
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
+const PUBLICATION_SCRIPT_FILE = path.join(ROOT, "scripts", "publish-standard-publication.mjs");
+const PUBLICATION_ICON_FILE = path.join(ROOT, "public", "images", "logos", "standard-site-icon.webp");
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
 const SEO_TEMPLATE_FILE = path.join(ROOT, "_includes", "partials", "seo.njk");
 const NON_ARTICLE_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
@@ -96,6 +98,10 @@ function main() {
 	assert(payload?.publication?.$type === "site.standard.publication", "Publication record must use site.standard.publication.");
 	assert(payload?.publication?.name, "Publication record is missing name.");
 	assert(payload?.publication?.url, "Publication record is missing url.");
+	const publicationScript = fs.readFileSync(PUBLICATION_SCRIPT_FILE, "utf8");
+	assert(fs.existsSync(PUBLICATION_ICON_FILE), "Standard.site publication icon is missing.");
+	assert(publicationScript.includes("com.atproto.repo.uploadBlob"), "Standard.site publication icon must be uploaded as an ATProto blob.");
+	assert(publicationScript.includes("icon,"), "Standard.site publication record is missing its icon blob.");
 
 	for (const record of payload.documents || []) {
 		const label = record?.path || record?.title || "(unknown document)";

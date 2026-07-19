@@ -18,4 +18,25 @@ issue: 2
 season: spring
 year: 2018
 pages: 455-479
+subjects:
+  - label: "Justification (Ethics)"
+    scheme: "FAST"
+    identifier: "fst00985243"
+    uri: "https://id.worldcat.org/fast/985243"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religiousness"
+    scheme: "FAST"
+    identifier: "fst01094344"
+    uri: "https://id.worldcat.org/fast/1094344"
+    category: "topical"
+  - label: "Violence"
+    scheme: "FAST"
+    identifier: "fst01167224"
+    uri: "https://id.worldcat.org/fast/1167224"
+    category: "topical"
 ---

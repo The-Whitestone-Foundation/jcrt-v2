@@ -17,6 +17,17 @@ tags:
   - politics
   - interpretation
   - sovereignty
+subjects:
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---
 **Agamben, Giorgio. *Stasis: Civil War as a Political Paradigm* (Meridian: Crossing Aesthetics). Translated by Nicholas Heron. Stanford: Stanford University Press, 2015. ISBN 10: 0804797315 Hardcover, paperback, e-book. 96 pages.**
 

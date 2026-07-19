@@ -18,4 +18,25 @@ issue: 3
 season: fall
 year: 2017
 pages: 271-293
+subjects:
+  - label: "Humanities"
+    scheme: "FAST"
+    identifier: "fst00963588"
+    uri: "https://id.worldcat.org/fast/963588"
+    category: "topical"
+  - label: "International relations"
+    scheme: "FAST"
+    identifier: "fst00977053"
+    uri: "https://id.worldcat.org/fast/977053"
+    category: "topical"
+  - label: "Peace Corps (U.S.)"
+    scheme: "FAST"
+    identifier: "fst00536303"
+    uri: "https://id.worldcat.org/fast/536303"
+    category: "corporate"
+  - label: "Sexual assault"
+    scheme: "FAST"
+    identifier: "fst00968858"
+    uri: "https://id.worldcat.org/fast/968858"
+    category: "topical"
 ---

@@ -8,13 +8,13 @@ author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 05
 year: 2001
 ---
 Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 
-# On God and Being: A Review of Martin Heidegger's _Contributions to Philosophy_
+## On God and Being: A Review of Martin Heidegger's _Contributions to Philosophy_
 
 Review of Martin Heidegger, _Contributions to Philosophy (From Enowning)_, translated by Parvis Emad and Kenneth Maly (Indiana University Press, 1999).
 
@@ -39,13 +39,9 @@ Originally written between 1936 and 1938, first published in German in 1989, and
 
 > **Clayton Crockett** is the author of _A Theology of the Sublime_, and editor of _Secular Theology: American Radical Theological Thought_, as well as Managing Editor of the _Journal for Cultural and Religious Theory_. He teaches religion and philosophy at Wesley College in Dover, Delaware.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Clayton Crockett. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/crockett](https://jcrt.org/archives/02.3/crockett/)
 
@@ -61,7 +57,7 @@ Updated 07/28/21.
 
 [^4]:  The _Beitr'ge zur Philosophie_ is far from a systematic or logical exposition of philosophy, and much more of a poetic/expressive meditation. The book is divided into a Preview, six sections or "joinings," and a final section on "Be-ing (the translators write "be-ing" to translate '_Seyn_,' which Heidegger opposes to the metaphysical '_Sein'_)." These six joinings are: echo, playing-forth, leap, grounding, the ones to come, and the last god. What links these six joinings together is the theme of _Ereignis_, here translated somewhat awkwardly as "enowning," but elsewhere rendered as event, or event of appropriation. The appropriation or enowning of being is the event of its self-revelation and self-concealment. The mistake is to think that humans or any other entities (beings, _Seiendes_) can own or appropriate being (_Sein_ or be-ing, _Seyn_) itself. Being is self-(en)owned, appropriates itself in its event, which is historical according to Heidegger's specific philosophical determination. History is epochal, or what used to be called metaphysical before Heidegger disowned the term, but only if metaphysical does not mean eternal as opposed to temporal. The structure of reality is temporality, and temporality implies not only history as development, but above all the possibility of a beginning.
 
-[^4]:  Grounding'"The grounding of truth as the truth of be-ing \[is\] (Da-sein)" (7). Here is the central section of the _Beitr'ge_, because we see that the turning is from the first beginning to the other beginning, and the grounding of the truth of being in the other beginning is accomplished in Dasein. Even in _Being and Time_, Heidegger was never primarily interested in human being as such, but only insofar as it provided as opening towards being itself. This is the mistake Sartre and other French existentialists make when they read Heidegger as a humanist. On the other hand, the turn away from Dasein is neither as radical nor as thorough as readers of the later Heidegger assume, because Dasein grounds the truth of being. The grounding of the other beginning is _Dasein_, which is the essence, or sway (_wesen_) of truth. The structure of truth is an essential swaying, or a projecting-open of being. "But since truth must be grounded in Da-_sein_, the essential swaying of be-ing can only be achieved in the steadfastness which the t/here \[Da\] sustains in the knowing awareness that is so determined" (202).
+[^4]:  Grounding'"The grounding of truth as the truth of be-ing &#91;is&#93; (Da-sein)" (7). Here is the central section of the _Beitr'ge_, because we see that the turning is from the first beginning to the other beginning, and the grounding of the truth of being in the other beginning is accomplished in Dasein. Even in _Being and Time_, Heidegger was never primarily interested in human being as such, but only insofar as it provided as opening towards being itself. This is the mistake Sartre and other French existentialists make when they read Heidegger as a humanist. On the other hand, the turn away from Dasein is neither as radical nor as thorough as readers of the later Heidegger assume, because Dasein grounds the truth of being. The grounding of the other beginning is _Dasein_, which is the essence, or sway (_wesen_) of truth. The structure of truth is an essential swaying, or a projecting-open of being. "But since truth must be grounded in Da-_sein_, the essential swaying of be-ing can only be achieved in the steadfastness which the t/here &#91;Da&#93; sustains in the knowing awareness that is so determined" (202).
 
 [^5]:  According to Heidegger there are two historical beginnings, philosophically speaking. The first was the original unveiling of being in Greek philosophy, which then immediately misunderstood being in terms of a determinate being. The second beginning is the beginning which Heidegger's philosophy announces, which takes its cue from Nietzsche's visionary work, although Nietzsche himself was not able to emancipate himself from metaphysics (the first beginning) (pp.124-27). The theme of the two beginnings is essential to understand the progression of the six joinings.
 

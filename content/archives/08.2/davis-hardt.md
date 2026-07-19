@@ -27,4 +27,30 @@ issue: 2
 season: spring
 year: 2008
 pages:
+subjects:
+  - label: "Historiography"
+    scheme: "FAST"
+    identifier: "fst00958221"
+    uri: "https://id.worldcat.org/fast/958221"
+    category: "topical"
+  - label: "Imagination"
+    scheme: "FAST"
+    identifier: "fst00967585"
+    uri: "https://id.worldcat.org/fast/967585"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Power (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01074215"
+    uri: "https://id.worldcat.org/fast/1074215"
+    category: "topical"
+  - label: "Religion Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
 ---

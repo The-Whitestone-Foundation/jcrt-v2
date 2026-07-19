@@ -16,4 +16,15 @@ issue: 3
 season: summer
 year: 2018
 pages: 606-612
+subjects:
+  - label: "Intellectual life"
+    scheme: "FAST"
+    identifier: "fst00975769"
+    uri: "https://id.worldcat.org/fast/975769"
+    category: "topical"
+  - label: "Politics, Practical"
+    scheme: "FAST"
+    identifier: "fst01069977"
+    uri: "https://id.worldcat.org/fast/1069977"
+    category: "topical"
 ---

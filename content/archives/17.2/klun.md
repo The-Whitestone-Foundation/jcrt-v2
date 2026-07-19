@@ -19,4 +19,15 @@ issue: 2
 season: spring
 year: 2018
 pages: 353-366
+subjects:
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Transcendence (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01154529"
+    uri: "https://id.worldcat.org/fast/1154529"
+    category: "topical"
 ---

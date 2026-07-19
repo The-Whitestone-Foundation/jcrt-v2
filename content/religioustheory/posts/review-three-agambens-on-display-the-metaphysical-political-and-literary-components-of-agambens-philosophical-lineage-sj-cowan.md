@@ -19,6 +19,27 @@ tags:
   - literary
   - political
   - sovereignty
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---
 ***Agamben’s Philosophical Lineage***. Edited by Adam Kotsko and Carlo Salzani. Edinburgh: Edinburgh University Press, 2017. ISBN-10: 1474423647. Hardcover, Paperback. 352 pages.**
 
@@ -38,9 +59,9 @@ For example, a virtue of Ali Efal-Lautenschläger’s chapter on Aby Warburg is 
 
 Nevertheless, although many of the chapters indicate that the function of *Agamben’s Philosophical Lineage* is that of a dictionary-like reference collection, other chapters take a different approach. At times, the task of the volume feels more creatively ambitious. Take, for example, the chapters on Simone Weil and Theodor W. Adorno, written (respectively) by Beatrice Marovich and Colby Dickinson. Doing more than laying out a scene, Marovich and Dickinson argue for and against ways of understanding Agamben’s reading of Weil and Adorno, thereby positively expanding the dialogue surrounding his relation to both figures.
 
-In Marovich’s chapter, she considers the extent to which Weil’s notion of creaturely life serves as an “unmarked influence” on Agamben’s idea of bare life (296). She begins by surveying, and finding wanting, the recent accounts of both Leland de la Durantaye and Alessia Ricciardi. On her account (which she admits is speculative), Weil has been under-recognized on the issue. She therefore makes the case that Weil “could be cited more frequently in genealogies of Agamben’s bare life” (293). Similarly, for his part, Dickinson uses his essay to demonstrate that, despite the supposed conceptual distance between Agamben and Adorno, the two thinkers share much at the level of method. To do so, he highlights the fundamental role that Agamben gives to the “unthought” elements in the history of philosophy; and he then draws connections between Agamben’s search for the philosophically “unthought” and Adorno’s quest for an account of the non-identity at the heart of philosophy. By the end, Dickinson effectively shows “how the alleged differences \[between Agamben and Adorno\] might be exaggerated to some extent” (220).
+In Marovich’s chapter, she considers the extent to which Weil’s notion of creaturely life serves as an “unmarked influence” on Agamben’s idea of bare life (296). She begins by surveying, and finding wanting, the recent accounts of both Leland de la Durantaye and Alessia Ricciardi. On her account (which she admits is speculative), Weil has been under-recognized on the issue. She therefore makes the case that Weil “could be cited more frequently in genealogies of Agamben’s bare life” (293). Similarly, for his part, Dickinson uses his essay to demonstrate that, despite the supposed conceptual distance between Agamben and Adorno, the two thinkers share much at the level of method. To do so, he highlights the fundamental role that Agamben gives to the “unthought” elements in the history of philosophy; and he then draws connections between Agamben’s search for the philosophically “unthought” and Adorno’s quest for an account of the non-identity at the heart of philosophy. By the end, Dickinson effectively shows “how the alleged differences &#91;between Agamben and Adorno&#93; might be exaggerated to some extent” (220).
 
-There are benefits and limitations to both aspects of the *Agamben’s Philosophical Lineage*. As anyone who has read Agamben will know, his work is both dense and elusive. Making matters worse, the work of the figures he elaborates upon is no less intimidating. Thus, the fact that many chapters read like straightforward works of reference offer a much-needed relief to those who familiar with some element of Agamben’s work, but know nothing of thinkers like Marquis de Sade. With Christian Grünnagel’s help, readers are given not only a clear presentation of Agamben’s fascination with Sade, but are also given further insight into Agamben’s more general tactic as a reader. As Grünnagel’s study concludes: Agamben “prefer\[s\] an open dialogue with \[the thinkers he engages\], underlining more the strength of their thought rather than pointing out flaws or problematic passages in their works” (198).
+There are benefits and limitations to both aspects of the *Agamben’s Philosophical Lineage*. As anyone who has read Agamben will know, his work is both dense and elusive. Making matters worse, the work of the figures he elaborates upon is no less intimidating. Thus, the fact that many chapters read like straightforward works of reference offer a much-needed relief to those who familiar with some element of Agamben’s work, but know nothing of thinkers like Marquis de Sade. With Christian Grünnagel’s help, readers are given not only a clear presentation of Agamben’s fascination with Sade, but are also given further insight into Agamben’s more general tactic as a reader. As Grünnagel’s study concludes: Agamben “prefers an open dialogue with &#91;the thinkers he engages&#93;, underlining more the strength of their thought rather than pointing out flaws or problematic passages in their works” (198).
 
 While some chapters function like dictionary entries, others transcend the level of mere presentation and their multivalence takes readers deeper into the literature surrounding Agamben’s thought. To the initiate, however, these chapters—because they cover more ground in such little space (each essay in the volume is only around 10 pages in length)—such chapters may render Agamben’s work no less impenetrable.
 

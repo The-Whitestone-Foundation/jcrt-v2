@@ -17,6 +17,12 @@ tags:
   - moral
   - republic
   - ethics
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
 ---
 The United States likes to present itself as a global leader, yet, when it comes to tackling what is arguably the greatest crisis facing humanity, global climate change, we have fallen woefully short of that idea. The nation’s failure to adequately address the climate crisis is in part the product of an American vision of the good life predicated on endless cycles of consumption that drives environmental destruction and contributes to a changing climate.
 
@@ -170,17 +176,17 @@ Recognizing the limitations inherent in a shorter work, the purpose of this essa
 
 [^22]: Marsden, George M. 2008. *A Short Life of Jonathan Edwards*. Grand Rapids, MI: William B. Eerdmans, 129.
 
-[^23]: (Edwards \[1725\] 2003,14-15).
+[^23]: (Edwards &#91;1725&#93; 2003,14-15).
 
 [^24]: Wood, Gordon S. 1998. *The Creation of the American Republic, 1776–1787*. Chapel Hill: The University of North Carolina Press, 133.
 
 [^25]: Ibid, 42.
 
-[^26]: Jefferson \[1787\] 1984, 290.
+[^26]: Jefferson &#91;1787&#93; 1984, 290.
 
 [^27]: Yarbrough, Jean. 1998. *American Virtues: Thomas Jefferson on the Character of a Free People*. Lawrence: University Press of Kansas, 88.
 
-[^28]: Jefferson \[1787\] 1984, 289.
+[^28]: Jefferson &#91;1787&#93; 1984, 289.
 
 [^29]: Ahlstrom, Sydney E. 2004. *A Religious History of the American People*. 2nd edition. New Haven, CT: Yale University Press, 604.
 
@@ -200,4 +206,4 @@ Recognizing the limitations inherent in a shorter work, the purpose of this essa
 
 [^37]: Ibid, 5.
 
-[^38]: F. Roosevelt, *Inaugural Address*, \[1933\] 2001.
+[^38]: F. Roosevelt, *Inaugural Address*, &#91;1933&#93; 2001.

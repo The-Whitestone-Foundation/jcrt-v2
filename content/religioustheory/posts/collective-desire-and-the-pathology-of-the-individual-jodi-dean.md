@@ -20,6 +20,27 @@ tags:
   - collective
   - cognitive
   - pathology
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Pathology"
+    scheme: "FAST"
+    identifier: "fst01054964"
+    uri: "https://id.worldcat.org/fast/1054964"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 ## The following is the first installment of a two-part series.
 

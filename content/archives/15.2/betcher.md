@@ -18,4 +18,25 @@ issue: 2
 season: spring
 year: 2016
 pages: 98-115
+subjects:
+  - label: "Disabilities"
+    scheme: "FAST"
+    identifier: "fst00894633"
+    uri: "https://id.worldcat.org/fast/894633"
+    category: "topical"
+  - label: "Jesus Christ"
+    scheme: "FAST"
+    identifier: "fst00040116"
+    uri: "https://id.worldcat.org/fast/40116"
+    category: "personal"
+  - label: "Nostalgia"
+    scheme: "FAST"
+    identifier: "fst01039536"
+    uri: "https://id.worldcat.org/fast/1039536"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

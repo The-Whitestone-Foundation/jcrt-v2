@@ -19,6 +19,27 @@ tags:
   - christological
   - unity
   - christology
+subjects:
+  - label: "Christology"
+    scheme: "FAST"
+    identifier: "fst01352288"
+    uri: "https://id.worldcat.org/fast/1352288"
+    category: "topical"
+  - label: "Concord"
+    scheme: "FAST"
+    identifier: "fst00874107"
+    uri: "https://id.worldcat.org/fast/874107"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 In the Christian Antiquity and later on during the Middle Ages, there was neither separation nor much distinction between the theological and the political matters. It was common that theological doctrines induced political philosophy and practice, and *vice versa*. Theological interpretations of the Incarnation as they developed during the Late Antiquity, had political extrapolations and correlated with the corresponding models of the church-state relations.
 
@@ -90,7 +111,7 @@ The definition of the Chalcedon, on the one hand, stressed that Christ is one an
 
 The theological synthesis of the Chalcedon soon became reflected in the new political statements that institutionalised the Byzantine model of “symphony” between the church and the state. The novella 6 in the Justinian’s *Codex iuris civilis* embodied these Chalcedonian balances in a particular way:
 
-> The greatest blessings of mankind are the gifts of God which have been granted us by the mercy on high – the priesthood and the imperial authority. The priesthood ministers to things divine, the imperial authority is set over, and shows diligence in, things human; but both proceed from one and the same source, and both adorn the life of man. Nothing, therefore, will be a greater matter of concern to the emperor than the dignity and honour (*honestas*) of the clergy; the more as they offer prayers to God without ceasing on his behalf. For if the priesthood be in all respects without blame, and full of faith before God, and if the imperial authority rightly and duly adorn the commonwealth committed to its charge, there will ensue a happy concord, which will bring forth all good things for mankind. We therefore have the greatest concern for the true doctrines of the God-head and the dignity and honour of the clergy; and we believe that if they maintain that dignity and honour we shall gain thereby the greatest of gifts, holding fast what we already have and laying hold on what is yet to come. ‘All things’, it is said, ‘are done well and truly if they start from a beginning that is worthy and pleasing in the sight of God.’ We believe that this will come to pass, if observance be paid to the holy rules \[canons\] which have been handed down by the Apostles – those righteous guardians and ministers of the Word of God, who are ever to be praised and adored – and have since been preserved and interpreted by the holy Fathers.[^32]
+> The greatest blessings of mankind are the gifts of God which have been granted us by the mercy on high – the priesthood and the imperial authority. The priesthood ministers to things divine, the imperial authority is set over, and shows diligence in, things human; but both proceed from one and the same source, and both adorn the life of man. Nothing, therefore, will be a greater matter of concern to the emperor than the dignity and honour (*honestas*) of the clergy; the more as they offer prayers to God without ceasing on his behalf. For if the priesthood be in all respects without blame, and full of faith before God, and if the imperial authority rightly and duly adorn the commonwealth committed to its charge, there will ensue a happy concord, which will bring forth all good things for mankind. We therefore have the greatest concern for the true doctrines of the God-head and the dignity and honour of the clergy; and we believe that if they maintain that dignity and honour we shall gain thereby the greatest of gifts, holding fast what we already have and laying hold on what is yet to come. ‘All things’, it is said, ‘are done well and truly if they start from a beginning that is worthy and pleasing in the sight of God.’ We believe that this will come to pass, if observance be paid to the holy rules &#91;canons&#93; which have been handed down by the Apostles – those righteous guardians and ministers of the Word of God, who are ever to be praised and adored – and have since been preserved and interpreted by the holy Fathers.[^32]
 
 This text makes a clear distinction between priesthood and *imperium* as two faculties correspondent to the things “divine”’ and “human” – the notions clearly from the Christological vocabulary. At the same time, it frames this distinction with the common source and the common goal of the church and of the empire. The structure of the preface to the novella 6 repeats the structure of the Chalcedonian definition: a strong statement on Christ’s unity, then acknowledgement of his two natures, followed by the conclusion that stresses the unity again.
 
@@ -168,7 +189,7 @@ In conclusion, the models of the church-state relations, as they developed in th
 
 [^22]: See Cyril Hovorun, “Maximus, a Cautious Neo-Chalcedonian”, in Pauline Allen and Bronwen Neil (eds.), *The Oxford Handbook of Maximus the Confessor*, (Oxford; New York: Oxford University Press, 2015): 106-26.
 
-[^23]: Maximus during the trials by the imperial court stated: “No emperor was able to persuade the Fathers who speak of God to be reconciled with the heretics of their times by means of equivocal expressions.” This is because it was not the business of civil authorities “to make an inquiry and to define on the subject of the saving teachings of the catholic church”, but an exclusive responsibility and “the mark of priests”. Then he was asked if the Christian emperor had a responsibility over the doctrine on the pretext of being also a priest. He replied to this categorically that the emperor is not a priest – he does not perform sacraments and does not “wear the symbols of the priesthood, the pallium and the Gospel book, as \[he wears the symbols\] of imperial office, the crown and purple”. In Pauline Allen and Neil Bronwen, *Maximus the Confessor and His Companions: Documents From Exile*, (Oxford; New York: Oxford University Press, 2002), 57.
+[^23]: Maximus during the trials by the imperial court stated: “No emperor was able to persuade the Fathers who speak of God to be reconciled with the heretics of their times by means of equivocal expressions.” This is because it was not the business of civil authorities “to make an inquiry and to define on the subject of the saving teachings of the catholic church”, but an exclusive responsibility and “the mark of priests”. Then he was asked if the Christian emperor had a responsibility over the doctrine on the pretext of being also a priest. He replied to this categorically that the emperor is not a priest – he does not perform sacraments and does not “wear the symbols of the priesthood, the pallium and the Gospel book, as &#91;he wears the symbols&#93; of imperial office, the crown and purple”. In Pauline Allen and Neil Bronwen, *Maximus the Confessor and His Companions: Documents From Exile*, (Oxford; New York: Oxford University Press, 2002), 57.
 
 [^24]: See his *De duabus in Christo voluntatibus*, in P.B. Kotter, *Die Schriften des Johannes von Damaskos*, vol. 4 (Berlin: De Gruyter, 1981): 173-231.
 

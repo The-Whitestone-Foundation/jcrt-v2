@@ -17,4 +17,20 @@ issue: 1
 season: winter
 year: 2018
 pages: 46-70
+subjects:
+  - label: "Ideology"
+    scheme: "FAST"
+    identifier: "fst00966915"
+    uri: "https://id.worldcat.org/fast/966915"
+    category: "topical"
+  - label: "Social credit"
+    scheme: "FAST"
+    identifier: "fst01122423"
+    uri: "https://id.worldcat.org/fast/1122423"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

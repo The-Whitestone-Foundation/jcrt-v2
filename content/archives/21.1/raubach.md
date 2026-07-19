@@ -18,4 +18,20 @@ issue: 1
 season: winter
 year: 2022
 pages: 99-117
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Political ethics"
+    scheme: "FAST"
+    identifier: "fst01069286"
+    uri: "https://id.worldcat.org/fast/1069286"
+    category: "topical"
+  - label: "Roses"
+    scheme: "FAST"
+    identifier: "fst01100524"
+    uri: "https://id.worldcat.org/fast/1100524"
+    category: "topical"
 ---

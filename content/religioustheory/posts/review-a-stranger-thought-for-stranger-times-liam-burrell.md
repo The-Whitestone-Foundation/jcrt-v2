@@ -18,6 +18,22 @@ tags:
   - identity
   - generic
   - immanence
+subjects:
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Smith, Anthony Paul. *Laruelle: A Stranger Thought*. Cambridge: Polity, 2016. ISBN-10: 0745671233. Hardcover, paperback, e-book. 240 pages.** 
 
@@ -25,7 +41,7 @@ The reception of François Laruelle’s work in the Anglophone world is the clas
 
 *A Stranger Thought* is a welcome interjection into Laruelle studies that provides the reader with a cogent and well-balanced introduction to what is, as attested to in the subtitle to the book, one of the most unusual and potentially bewildering thoughts in contemporary philosophy. Anthony Paul Smith, an established Laruelle translator, is well-suited to be our guide through Laruelle’s strange *oeuvre*. But further to this it is a re-situation of Laruelle as something other than this aforementioned “Anglo-Pessimist” constellation. Smith, not unfairly, pulls focus to Laruelle’s inherent gnosticism and commitment to radical immanence and continues his alignment of Laurelle with critical race theory, a project also taken up by the book’s dedicatee Daniel Colucciello Barber. As such, one of the first tasks that Smith undertakes is that of defending Laruelle from criticism by Ray Brassier, who argues that Laruelle’s project is ultimately fruitless. Smith writes:
 
-> Detractors and even early adaptors \[sic\] have sat in judgment upon Laruelle’s project and called it fruitless. I embrace this fruitlessness, unlike these detractors, as a kind of anti-natalism regarding philosophy (though likely not an anti-natalism regarding human beings), precisely because it may join with projects on the fringes of institutional philosophy and theory more generally. (8)
+> Detractors and even early adaptors &#91;sic&#93; have sat in judgment upon Laruelle’s project and called it fruitless. I embrace this fruitlessness, unlike these detractors, as a kind of anti-natalism regarding philosophy (though likely not an anti-natalism regarding human beings), precisely because it may join with projects on the fringes of institutional philosophy and theory more generally. (8)
 
 As such, Smith reroutes this negativity against itself and argues that this naive-pessimist reading of Laruelle is merely superficial, and that while Laurelle’s project is undeniably one of negation and subtraction, it is not merely in the service of nihilism and that there is, in fact, a kind of vitalist core to Laruelle that would be anathema to his primary interlocutors, had they located it.
 
@@ -41,7 +57,7 @@ Smith then begins to enact the polemical aspect of this book, that of resituatin
 
 The second chapter is devoted to the idiosyncratic style of non-philosophy and proceeds by a series of definitions of concepts peculiar to Laruelle: thinking-in-One, determination-in-the-last-instance, unilateral duality, force-(of)-thought, and a discussion of the grammar deployed, specifically the hyphen and operators such as ‘in.’ This restructuring of grammar speaks to Laruelle’s project of constructing that which is a stranger to philosophy and restructuring philosophical thought itself.
 
-Further, it is an enactment of his commitment to immanence such that all transcendence must be expurgated from the very language of Laruelle’s texts — a phrase such as “force-(of)-thought” is hyphenated as to imply the immanence of both halves of the expression and the ‘of’ bracketed so as to affirm that the former has no priority over the latter. Smith writes: “This \[use of language\] is part of what makes \[Laruelle’s\] thought so strange. What makes someone a stranger is not a totally unrecognizable nature, but a commonality that yet does not quite fit into one’s own framework for making sense of a certain field of experience” (49).
+Further, it is an enactment of his commitment to immanence such that all transcendence must be expurgated from the very language of Laruelle’s texts — a phrase such as “force-(of)-thought” is hyphenated as to imply the immanence of both halves of the expression and the ‘of’ bracketed so as to affirm that the former has no priority over the latter. Smith writes: “This &#91;use of language&#93; is part of what makes &#91;Laruelle’s&#93; thought so strange. What makes someone a stranger is not a totally unrecognizable nature, but a commonality that yet does not quite fit into one’s own framework for making sense of a certain field of experience” (49).
 
 Having established a kind of generic identity of Laruelle’s thought, in the second part of the book Smith then moves thematically rather than programmatically through Laruelle’s oeuvre and his treatment of various fields of experience; Laruelle seems to write only on a single topic at a time, so he can be said to have a book each devoted to politics, epistemology, ethics, methodology, religion and so on. However this is not to say that each book is self-enclosed, but rather that Laruelle starts from nothing with a certain set of material to which he performs the enterprise of non-philosophy. Smith turns to each of these issues in turn and delineates Laruelle’s engagement with them, cementing *A Stranger Thought*’s usefulness as a reference text and concise catalogue of Laruelle’s thinking.
 
@@ -65,7 +81,7 @@ Its absence is conspicuous and elaboration of this link and others like it would
 
 The book concludes, appropriately, with a consideration of the future. What can be the future for non-philosophy, being as it is fruitless? The metaphor is perhaps inappropriately posed: fruit contains seeds that reproduce copies or clones of itself — the acorn becomes the oak. This is not what non-philosophy does, it does not fit into the logic of reproduction. “Production is not reproduction. Non-Philosophy is interesting because it identifies cracks and finds ways to produce within them. Such production does not require a goal or aim to be meaningful. It need not produce fruit” (172-173). As a philosophy student, I am often asked questions amounting to “what’s the point in doing philosophy?” or “what are you doing that will actually benefit anyone?”
 
-If, as Smith suggests, Laurelle’s work is primarily a pragmatics, this is precisely the question he aims to answer by disempowering philosophy and divesting it of its sufficiency. Or rather, the point is not to provide an answer to the question but to render the question itself \[useless.\] This philosophical sufficiency is predicated upon questions of use, value and telos that non-philosophy simply does not recognize. In stead, “non-philosophy models a way of thinking that is open to the construction of a radically different world and a radically different philosophy from those that structure this world.”
+If, as Smith suggests, Laurelle’s work is primarily a pragmatics, this is precisely the question he aims to answer by disempowering philosophy and divesting it of its sufficiency. Or rather, the point is not to provide an answer to the question but to render the question itself &#91;useless.&#93; This philosophical sufficiency is predicated upon questions of use, value and telos that non-philosophy simply does not recognize. In stead, “non-philosophy models a way of thinking that is open to the construction of a radically different world and a radically different philosophy from those that structure this world.”
 
 In terms of futurity, “a humane future is no future at all, but rather a kind of whyless now. In this way, there is no future for non-philosophy because non-philosophy seeks to make meaning that is strange to the norms of the philosophy-world” (173). Thus the meaning of the eponymous ‘stranger’ becomes evident here: not only is non-philosophy weirder and doing something different to its standard-model cousin, it is necessarily oriented towards the stranger, the minority and the human in its radical immanence. Of course non-philosophy seems strange to those trying to grasp it philosophically, that’s exactly the point.
 

@@ -18,6 +18,17 @@ tags:
   - economic
   - neoliberal
   - social
+subjects:
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *The following is the second installment of a lecture delivered to the faculty and students of the Research Platform on Religion and Transformation from the University of Vienna at Melk Monastery (Austria) on July 26, 2016.  The link to the first installment in* Religious Theory *[can be found here]( /religioustheory/posts/a-preface-to-the-genealogy-of-neoliberalism-part-1-carl-raschke/).  Select portions of this essay appeared earlier in the online publication* [Political Theology Today](http://www.politicaltheology.com/blog)
 

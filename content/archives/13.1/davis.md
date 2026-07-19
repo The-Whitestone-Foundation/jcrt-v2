@@ -19,4 +19,10 @@ issue: 1
 season: winter
 year: 2014
 pages: 167-169
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

@@ -17,4 +17,20 @@ issue: 1
 season: winter
 year: 2016
 pages: 56-57
+subjects:
+  - label: "Hip-hop"
+    scheme: "FAST"
+    identifier: "fst00957237"
+    uri: "https://id.worldcat.org/fast/957237"
+    category: "topical"
+  - label: "Rap (Music)"
+    scheme: "FAST"
+    identifier: "fst01089951"
+    uri: "https://id.worldcat.org/fast/1089951"
+    category: "topical"
+  - label: "Spoken word poetry"
+    scheme: "FAST"
+    identifier: "fst01895504"
+    uri: "https://id.worldcat.org/fast/1895504"
+    category: "topical"
 ---

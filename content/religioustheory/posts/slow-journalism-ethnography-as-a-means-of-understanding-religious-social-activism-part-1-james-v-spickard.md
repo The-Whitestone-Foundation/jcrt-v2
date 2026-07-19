@@ -24,6 +24,22 @@ tags:
   - social
   - journalism
   - spiritual
+subjects:
+  - label: "Journalism"
+    scheme: "FAST"
+    identifier: "fst00984032"
+    uri: "https://id.worldcat.org/fast/984032"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is a talk presented at the Weatherhead Center for International Affairs, Harvard University, and is the first installment of a two-part series.*
 
@@ -33,7 +49,7 @@ When I was invited to give this talk, my first reaction was “why me”? As a r
 
 The question I wish to pose is this: What makes ethnography more than just slow journalism in the study of religion? Specifically, what does ethnography have to offer the kind of transnational, macro-level study of religion that takes place at the Weatherhead Center? The obvious answer would seem to be “not much.”
 
-A visit to the Center’s web site finds talk of “cross-country data sets,” society-wide promotion of religious “values and behaviors,” questions of whether “religiosity decline\[s\] as societies become richer and better educated,” and the like. All of these are macro-level questions; ethnography is notoriously concerned with micro-level processes. What can it hope to contribute?
+A visit to the Center’s web site finds talk of “cross-country data sets,” society-wide promotion of religious “values and behaviors,” questions of whether “religiosity declines as societies become richer and better educated,” and the like. All of these are macro-level questions; ethnography is notoriously concerned with micro-level processes. What can it hope to contribute?
 
 A similar impression arises from scanning the list of “working papers.” Though some are case-based, most seem to seek a relatively high degree of generalizability. What can ethnography – that resolutely local, often apparently subjective and certainly partial approach to social life – contribute?
 

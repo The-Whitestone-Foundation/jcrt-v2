@@ -17,6 +17,22 @@ tags:
   - anthropology
   - critical
   - theory
+subjects:
+  - label: "Anthropology"
+    scheme: "FAST"
+    identifier: "fst00810196"
+    uri: "https://id.worldcat.org/fast/810196"
+    category: "topical"
+  - label: "Dialectic"
+    scheme: "FAST"
+    identifier: "fst00892462"
+    uri: "https://id.worldcat.org/fast/892462"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Badiou, Alain. *Black: The Brilliance of a Non-Color.* Translated by Susan Spitzer. New Jersey: Polity, 2016. ISBN-10: 1509512071. Hardcover, paperback, e-book. 80 pages.** 
 

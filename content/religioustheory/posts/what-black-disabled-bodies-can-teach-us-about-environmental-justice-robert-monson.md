@@ -20,6 +20,22 @@ tags:
   - justice
   - religious
   - christianity
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Disabilities"
+    scheme: "FAST"
+    identifier: "fst00894633"
+    uri: "https://id.worldcat.org/fast/894633"
+    category: "topical"
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
 ---
 As early as 2014, governmental officials in the city of Flint, Michigan made a series of decisions that would prove to have deleterious effects on the people and environment of Flint. As officials sought to make room in the budget, they decided to switch the city’s water supply to the polluted Flint River without a plan to treat the water appropriately. The fallout from citizens being poisoned has largely impacted the city’s Black population in disastrous ways. In fact, one study has found that: 
 

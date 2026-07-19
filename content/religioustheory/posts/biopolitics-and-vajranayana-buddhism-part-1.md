@@ -20,6 +20,32 @@ tags:
   - ritual
   - biopolitics
   - individual
+subjects:
+  - label: "Biopolitics"
+    scheme: "FAST"
+    identifier: "fst00832668"
+    uri: "https://id.worldcat.org/fast/832668"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Ritual"
+    scheme: "FAST"
+    identifier: "fst01098241"
+    uri: "https://id.worldcat.org/fast/1098241"
+    category: "topical"
 ---
 ## The following* *is the first of a 3-part series.
 

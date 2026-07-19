@@ -19,4 +19,10 @@ issue: 2
 season: spring
 year: 2019
 pages: 193-201
+subjects:
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
 ---

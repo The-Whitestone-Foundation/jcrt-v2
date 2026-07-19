@@ -23,6 +23,27 @@ tags:
   - direction
   - theology
   - mystical
+subjects:
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the third installment of a three-part series.  The first can be found [here.]( /religioustheory/posts/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-1-mark-murphy/)*  The second one can be found [here]( /religioustheory/posts/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-2-mark-murphy/).
 
@@ -52,7 +73,7 @@ This theme of the mystical having an intrasubjective element is also found in La
 
 One can suggest that Lacan is arguing that most forms of psychology at his time where misinterpreting mystical theology and spiritual direction altogether. They were not taking it seriously as an intrasubjective mode of speech.  Lacan reflects this in Seminar XX:
 
-> What was attempted at the end of the last century, in Freud’s name&hellip;.was to reduce mysticism to questions of cum \[pure ecstatic feeling\]. If you look closely, that’s not it at all&hellip;  All that is produced thanks to the being of signifierness\[discourse\] one sees “the cross-sightedness” that results&hellip; we see that that doesn’t make two God’s (deux dieu), but that it doesn’t make just one either[^8]
+> What was attempted at the end of the last century, in Freud’s name&hellip;.was to reduce mysticism to questions of cum &#91;pure ecstatic feeling&#93;. If you look closely, that’s not it at all&hellip;  All that is produced thanks to the being of signifierness&#91;discourse&#93; one sees “the cross-sightedness” that results&hellip; we see that that doesn’t make two God’s (deux dieu), but that it doesn’t make just one either[^8]
 
 For Lacan, it was a gross reduction of the value of mystical speech and spiritual direction to merely equate them with affective modes of enjoyment beyond speech.  As Alexandre Stevens states, “this Other jouissance&hellip;is not corporeal but discursive. It is a jouissance of speech[^9] ” However, Lacan could understand why many psychologists at the time believed this. This is why he says it is almost like there are two Gods.
 
@@ -68,7 +89,7 @@ One can assume that Lacan believed that psychologists and therapists need to app
 
 his student Michel de Certeau)[^12] .The spiritual is not just an endless search for different types of ineffable enjoyable experiences:
 
-In the beginning was the act,” is itself reversed in its turn: it was certainly the Word that was *\[etait\]* in the beginning, and we live in its creation, but it is our mental *\[esprit\]* action that continues this creation by constantly renewing it[^13] .
+In the beginning was the act,” is itself reversed in its turn: it was certainly the Word that was *&#91;etait&#93;* in the beginning, and we live in its creation, but it is our mental *&#91;esprit&#93;* action that continues this creation by constantly renewing it[^13] .
 
 One can see that the French word for spirit and mind are the same *“esprit.”* Changing the coordinates of our desire involves that we understand that our desire, as bound to the signifier as word, is caught up in our mental life as much as our affective life.
 

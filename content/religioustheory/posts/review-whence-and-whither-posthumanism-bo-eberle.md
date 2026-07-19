@@ -17,6 +17,32 @@ tags:
   - community
   - theory
   - pragmatism
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Posthumanism"
+    scheme: "FAST"
+    identifier: "fst02027038"
+    uri: "https://id.worldcat.org/fast/2027038"
+    category: "topical"
+  - label: "Pragmatism"
+    scheme: "FAST"
+    identifier: "fst01074582"
+    uri: "https://id.worldcat.org/fast/1074582"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **White, Ryan. *The Hidden God: Pragmatism and Posthumanism in American Thought.* New York: Columbia University Press, 2015. ISBN-10: 0231171005. Hardcover, e-book. 248 pages.** 
 
@@ -46,7 +72,7 @@ While the Puritans turned inward to police themselves, James would later also ma
 
 Jamesian pragmatism assumes for itself a “whole” from which it can ground its concept of the self and the self’s relation to the world. Jamesian pragmatism’s continuous, interior space hence offers answers to collective anxiety about determinism: how are human beings, the ones pulling the levers and performing scientific experiments, not themselves deterministic assemblages? They have a pure space of interiority which their instruments lack, control of control. If James cashes out this “control of control” in the concept of “feeling,’ Peirce operates in almost the opposite direction by speaking about “the general.”
 
-Peirce, contra James, leaves very little room for interiority. Rather than thoughts being inside us, *we* are *inside thoughts* (78). If pragmatism in general works on the problem of the inside and the outside, Peirce shows that man \[sic\] is always “becoming outside” as a kind of “external sign.”
+Peirce, contra James, leaves very little room for interiority. Rather than thoughts being inside us, *we* are *inside thoughts* (78). If pragmatism in general works on the problem of the inside and the outside, Peirce shows that man &#91;sic&#93; is always “becoming outside” as a kind of “external sign.”
 
 In Peirce’s corpus, a sign can be either more or less than it represents (never equivalent). In the semiotic process, there is always something left over, and indeterminacy of correspondence which for Peirce invokes the concept of community. This is so, in Peirce’s account, because nothing can simply appear *as it is* to one mind itself. The meaning of a thing – a sign or an entity – can only be articulated as a function of the community, community is the excluded middle between the inside and the outside (89).
 
@@ -80,7 +106,7 @@ Luhmann points us toward the fundamental paradox that if natural expression is i
 
 White calls this a “hidden unity” that only becomes visible “at the end” (163). The external determinations and relations that make meaning and form what we think of as our selves will always be invisible… until they aren’t. The impossible community.
 
-It is on this hidden impossibility that White ends the book analyzing Peirce’s own attempts to think the impossible, which is Peirce’s late work on God. Here Peirce’s enigmatic concept of “musement,” or “thinking about thinking” leads to an “impersonal argument” for a God who is ultimately endures without exhaustion while receiving all signs and definitions ascribed to him \[sic\] (169). Thinking about thinking, for Peirce, leads to God because there is no other word for what which is beyond affirmation and denial, everything and nothing, the unreason reason must ground itself within.
+It is on this hidden impossibility that White ends the book analyzing Peirce’s own attempts to think the impossible, which is Peirce’s late work on God. Here Peirce’s enigmatic concept of “musement,” or “thinking about thinking” leads to an “impersonal argument” for a God who is ultimately endures without exhaustion while receiving all signs and definitions ascribed to him &#91;sic&#93; (169). Thinking about thinking, for Peirce, leads to God because there is no other word for what which is beyond affirmation and denial, everything and nothing, the unreason reason must ground itself within.
 
 ![peirce](/images/2016/10/peirce.webp)Peirce’s God is the sign of signs, the sign of the universe necessary to think the universe itself at all. Thinking such a thing, for Peirce, requires no less than a departure from rationality itself in embracing the paradox of thinking the unthinkable thing, or the thing that grounds thinking in the first place. White cashes out what he takes to be Peirce’s mature insights about musement to be ultimately about the legitimacy of modernity itself (171). In trying to think or name God, Peirce arrives at the same place as Jonathan Edwards and, though perhaps more obliquely, Emerson.
 

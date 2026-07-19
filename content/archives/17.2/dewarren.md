@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2018
 pages: 415-431
+subjects:
+  - label: "National socialism"
+    scheme: "FAST"
+    identifier: "fst01033761"
+    uri: "https://id.worldcat.org/fast/1033761"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

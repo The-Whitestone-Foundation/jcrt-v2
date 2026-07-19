@@ -21,12 +21,28 @@ tags:
   - philosophical
   - mediation
   - necessity
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Mediation"
+    scheme: "FAST"
+    identifier: "fst01013617"
+    uri: "https://id.worldcat.org/fast/1013617"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The first one can be found [here,]( /religioustheory/posts/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics/) the second one [here]( /religioustheory/posts/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics-part-3-jakob-deibl/). Translated by Philipp Schlögl.*
 
 ## Poetry and Religion: Fragment of Philosophical Letters
 
-1) In the *Fragment of Philosophical Letters,* Hölderlin defines this character of repetition more precisely, which proves to be central to his understanding of religion. In contrast to a mere “mechanical *connection*” (TS 11/EaL 235), the “machinery” course (TS 10/Eal 234), i.e. a mere repetition, he speaks of spiritual life, “where he \[man\], as it were, repeats his real life” (TS 12/EaL 235-236).
+1) In the *Fragment of Philosophical Letters,* Hölderlin defines this character of repetition more precisely, which proves to be central to his understanding of religion. In contrast to a mere “mechanical *connection*” (TS 11/EaL 235), the “machinery” course (TS 10/Eal 234), i.e. a mere repetition, he speaks of spiritual life, “where he &#91;man&#93;, as it were, repeats his real life” (TS 12/EaL 235-236).
 
 This form of repetition has a free character in analogy to the aesthetic intention of imagination,[^1] which, however, must not be reduced to arbitrariness. The relation to real nature and its conceptual definition (Kant) or the relation to real life (Hölderlin) is preserved. The free repetition that characterizes life is furthermore not in opposition to necessity or unconnected to it: Hölderlin speaks of “more infinite, more than necessary relations in life” (TS 12f/EaL 236).
 

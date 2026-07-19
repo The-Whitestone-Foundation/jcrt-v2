@@ -19,6 +19,22 @@ tags:
   - reorientation
   - identity
   - social
+subjects:
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here](/religioustheory/posts/reorientation-in-the-field-why-religion-matters-part-1-wendy-felese/).* *The article was first given at a conference in 2019 in Athens, Greece. Citation for the original paper is as follows: Felese, W. (2019). “Reorientation in the Field: Why Religion Matters”, Athens: ATINER’S Conference Paper Series, No: REL2019-2659.*
 
@@ -36,7 +52,7 @@ Nungak, explaining that this relocation was meant to demonstrate to them that th
 
 For example, in the hopes of establishing aboriginal self-government, Nungak joined the Department of Indian and Northern Affairs, and served as a political negotiator on behalf of Inuit communities. His involvement helped defeat the passage of Pierre Trudeau and Jean Chrétien‟s White Paper proposal in the early 1970s. Assimilation had become the enduring justification for continuing colonialism, so he and others formed the Inuit Tapirisat of Canada (The Eskimo Brotherhood) in 1972. The rejection of the White Paper meant that official government attempts to assimilate the Inuit were officially abandoned and The Confederation for First Nations was formed.  
 
-Ittinuar served as the first Inuk member of parliament and Nungak became president of Makivic Corporation, a political organization “representing the Inuit of Nunavik since 1978.”36 He fought for Inuit ownership of traditional homelands, which eventually resulted in the 1999 creation of the Nunavut Land Claims Agreement. He also represented the Inuit in their negotiations with Québec over a hydroelectric dam project, helping to “forge a landmark deal which acknowledged Inuit rights \[to their traditional homelands\].”37
+Ittinuar served as the first Inuk member of parliament and Nungak became president of Makivic Corporation, a political organization “representing the Inuit of Nunavik since 1978.”36 He fought for Inuit ownership of traditional homelands, which eventually resulted in the 1999 creation of the Nunavut Land Claims Agreement. He also represented the Inuit in their negotiations with Québec over a hydroelectric dam project, helping to “forge a landmark deal which acknowledged Inuit rights &#91;to their traditional homelands&#93;.”37
 
 ## Fighting For My Life
 
@@ -46,7 +62,7 @@ Viewers realize as the scene plays out, that Mallon had a different expectation 
 
 The following passage is transcribed from this scene. The parenthetical sections are descriptions of Mallon‟s facial expressions and/or bodily gestures during the conversation. They also indicate where I have substituted an English word for Inuktitut. This is done when I don‟t know or cannot hear the word as it is spoken. The speaker is Nungak.
 
-> I have several reminiscences to share with you. You‟re my second Qallunaat teacher ever. You were one of the people that set me on the trajectory to formal education and for that I have many things to thank you for, but I‟m not here to give you a catalogue of those; I just wanted to share some early memories of formal education with you as a teacher \[nodding and smiling\]. The consequences of formal education upon us as children was quite dramatic in that now we had to stay cooped up in a one-room classroom 9 o‟clock in the morning until 3 o‟clock in the afternoon, including in thebeautiful spring season. Of course, in those days, the hunting urge was still very strong amongst the boys and I remember one time I wrote a note to you saying, “Dear \[teacher\], I will be hunting today so I won‟t be going to school. I think I signed my name. Another boy and I took off. We had just crossed the Puvirnituq river and were reaching the other side \[chuckling, smiling\]…when up runs \[our teacher\]…quite assertive. Aggressive and assertive …very clear…making it very clear to us that we are to go back to school. My buddy and I were trying to make it just as clear that we‟re not going back to school. But of course, you are the Qallunaat teacher. You are the boss. You prevail \[nodding, smiling\]. But you prevail at the cost of picking me up like a sack of flour \[grimacing, red-faced\] on your shoulder and grabbing the other guy by the wrist and dragging him physically back two miles \[nodding abashedly, eyes closed\]. We had quite a fight…you trying to get me inside the schoolhouse, without any success…„cause *I was fighting actually for my life***.**
+> I have several reminiscences to share with you. You‟re my second Qallunaat teacher ever. You were one of the people that set me on the trajectory to formal education and for that I have many things to thank you for, but I‟m not here to give you a catalogue of those; I just wanted to share some early memories of formal education with you as a teacher &#91;nodding and smiling&#93;. The consequences of formal education upon us as children was quite dramatic in that now we had to stay cooped up in a one-room classroom 9 o‟clock in the morning until 3 o‟clock in the afternoon, including in thebeautiful spring season. Of course, in those days, the hunting urge was still very strong amongst the boys and I remember one time I wrote a note to you saying, “Dear &#91;teacher&#93;, I will be hunting today so I won‟t be going to school. I think I signed my name. Another boy and I took off. We had just crossed the Puvirnituq river and were reaching the other side &#91;chuckling, smiling&#93;…when up runs &#91;our teacher&#93;…quite assertive. Aggressive and assertive …very clear…making it very clear to us that we are to go back to school. My buddy and I were trying to make it just as clear that we‟re not going back to school. But of course, you are the Qallunaat teacher. You are the boss. You prevail &#91;nodding, smiling&#93;. But you prevail at the cost of picking me up like a sack of flour &#91;grimacing, red-faced&#93; on your shoulder and grabbing the other guy by the wrist and dragging him physically back two miles &#91;nodding abashedly, eyes closed&#93;. We had quite a fight…you trying to get me inside the schoolhouse, without any success…„cause *I was fighting actually for my life***.**
 
 The scene is extraordinary. For my purposes, it is the lynchpin of my argument. It demonstrates that for Aboriginal (in this case Inuit) peoples, the land, human beings, and other-than-human beings (animals, rivers, etc.) are connected. There is no separation between them – they are relatives.
 
@@ -66,7 +82,7 @@ When Nungak decided it was time to “reverse those tables”42 he had come to t
 
 One of the ways that colonization (of lands and minds) succeeds through the process of renaming Indigenous lands and peoples. Henry VII of England, for example, referred to the land discovered by John Cabot in 1497 as the New Found Launde (Newfoundland). Nova Scotia is Latin for New Scotland, given in 1621. Prior to its official naming, the First Nations knew it as “Mi‟kma‟k.” The name “New Brunswick” was given to the area in honor George III who also held the title of Duke of Brunswick. After the 1867 passage of the British North American Act, this renaming became systematized through bureaucracy.
 
-As discussed, Allakariallak was renamed Nanook and “Flaherty thus literally redefined \[him\] for Western audiences.”43 The Canadian government, trying to “change the personality” of the Eskimo in order to “help him adapt or continue in ignorance,” took up a task of building new communities and government schools organized around “our ways of thinking.”44 Royal Canadian Mounted Police (RCMP) in an archival clip from the film, speak in clipped, official jargon of how they will transform Inuit communities to more closely resemble Canadian ideals. Their efforts are organized from the centralized location of subdivision headquarters of Baffin Island and begin with renaming the area itself.
+As discussed, Allakariallak was renamed Nanook and “Flaherty thus literally redefined &#91;him&#93; for Western audiences.”43 The Canadian government, trying to “change the personality” of the Eskimo in order to “help him adapt or continue in ignorance,” took up a task of building new communities and government schools organized around “our ways of thinking.”44 Royal Canadian Mounted Police (RCMP) in an archival clip from the film, speak in clipped, official jargon of how they will transform Inuit communities to more closely resemble Canadian ideals. Their efforts are organized from the centralized location of subdivision headquarters of Baffin Island and begin with renaming the area itself.
 
 I now turn back to the strategic inversion in *Qallunaat!* In one scene, Inuit researchers are recorded trying to create a sophisticated morphological system for organizing diverse Qallunaat communities. The system is based partly on similar cranial measurements and general cognitive capacity, but other physical characteristics as well. Clearly, the Qallunaat will have to be named in order to distinguish them from each other.
 

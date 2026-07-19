@@ -20,6 +20,12 @@ tags:
   - environmental
   - environment
   - catholic
+subjects:
+  - label: "Ecology"
+    scheme: "FAST"
+    identifier: "fst00901476"
+    uri: "https://id.worldcat.org/fast/901476"
+    category: "topical"
 ---
 On October 4, 2023, Pope Francis published the apostolic exhortation *Laudate Deum* (“Praise God”), an 8000-word document advocating for urgent action to counter climate change.[^1] Its date of publication is significant on two accounts. First, it was released on the feast day of Saint Francis of Assisi, the thirteenth-century Italian mystic who is recognized as the patron of animals and of ecology, and who inspired the twenty-first pontiff to select this papal name.
 

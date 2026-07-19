@@ -20,6 +20,17 @@ tags:
   - post-religious
   - philosophy
   - absence
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion and literature"
+    scheme: "FAST"
+    identifier: "fst01093839"
+    uri: "https://id.worldcat.org/fast/1093839"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here.]( /religioustheory/posts/teach-me-to-do-whats-right-faith-hope-and-love-as-post-religious-virtues-part-1-a-g-holdier/)*
 
@@ -55,11 +66,11 @@ This Good News lies at the heart of *Bad Times* as shown in Emily’s love for h
 
 Ultimately, Miles’ confession acts as a *circumfession* of sorts to encompass the film within the sanctity of two prayers: Broadbeck’s blessing baptizes the film with a call to “teach me to do what’s right;” Miles’ absolution demonstrates that the lesson is complete. The absence of God does not free us from the expectation to care for each other; to the contrary, it in fact *amplifies* the weight of our responsibility to do so — if we don’t, then there is literally no one else who will.
 
-One note remains hanging: a paradoxical thread threatening to unravel this purely post-religious sketch of the theological virtues; Christina Gschwandter has said that “God is weeping in \[Derrida\] and continually haunts him” — something like this point lingers in *Bad Times at the El Royale*.[^16] Goddard suggests the possibility of a divine presence in the film at *almost* no point, but “almost none” is not “none” and two ghostly touches resound. Recall how “Father Flynn” decided which room to rent at the hotel in the first place: he flipped a coin and left the rest to chance; one cannot help but wonder how differently the events of the evening might have gone had fate tipped that quarter in the opposite direction.
+One note remains hanging: a paradoxical thread threatening to unravel this purely post-religious sketch of the theological virtues; Christina Gschwandter has said that “God is weeping in &#91;Derrida&#93; and continually haunts him” — something like this point lingers in *Bad Times at the El Royale*.[^16] Goddard suggests the possibility of a divine presence in the film at *almost* no point, but “almost none” is not “none” and two ghostly touches resound. Recall how “Father Flynn” decided which room to rent at the hotel in the first place: he flipped a coin and left the rest to chance; one cannot help but wonder how differently the events of the evening might have gone had fate tipped that quarter in the opposite direction.
 
 More profoundly, however, is the most ghostly complication of all: just after Sweet tells Billy Lee she’s “bored” of men like him, and right after O’Kelly’s forgetfulness happens to re-manifest at the most inopportune moment (at the end of Billy Lee’s gun barrel), the lightning storm flashes and knocks out the hotel’s electricity *just as* Billy Lee calls for Darlene to “pick a color” in the game that would have led to someone’s death. In the silence of the power outage, Darlene’s singing sets off the events that culminate in the climactic gun battle. If there is but one eucatastrophic breath in *Bad Times*, it lies within that thunderclap.
 
-Ultimately, Caputo spins the threads of Derrida’s nascent religiosity into a more comprehensive theological structure than Derrida himself ever did, arguing that an exploration of Derrida’s *différance* in explicitly theological contexts reveals that, “In deconstruction God and a perceptual object do not differ from each other as the uncertain from the certain, or the fictitious from the verifiable…\[t\]he undecidability that befalls our beliefs and practices in virtue of *différance* is not the last word, but the first.”[^17] *Bad Times at the El Royale* deconstructs the roles of ‘god’ and ‘human,’ interchanging them in a way that opens up the theological virtues to remain vibrant, even in the absence of the religion that might be expected to undergird them. In this way, it accomplishes the Bonhoefferian notion that  “What is above the world is, in the Gospel, intended to exist *for* this world.”[^18]
+Ultimately, Caputo spins the threads of Derrida’s nascent religiosity into a more comprehensive theological structure than Derrida himself ever did, arguing that an exploration of Derrida’s *différance* in explicitly theological contexts reveals that, “In deconstruction God and a perceptual object do not differ from each other as the uncertain from the certain, or the fictitious from the verifiable…the undecidability that befalls our beliefs and practices in virtue of *différance* is not the last word, but the first.”[^17] *Bad Times at the El Royale* deconstructs the roles of ‘god’ and ‘human,’ interchanging them in a way that opens up the theological virtues to remain vibrant, even in the absence of the religion that might be expected to undergird them. In this way, it accomplishes the Bonhoefferian notion that  “What is above the world is, in the Gospel, intended to exist *for* this world.”[^18]
 
 Put differently: even in a post-religious world, Faith, Hope and Love remain.[^19]  
 *A.G. Holdier is a doctoral student in philosophy and public policy at the University of Arkansas*.

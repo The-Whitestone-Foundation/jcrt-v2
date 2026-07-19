@@ -24,4 +24,10 @@ issue: 2
 season: spring
 year: 2015
 pages: 338-349
+subjects:
+  - label: "Consciousness"
+    scheme: "FAST"
+    identifier: "fst00875441"
+    uri: "https://id.worldcat.org/fast/875441"
+    category: "topical"
 ---

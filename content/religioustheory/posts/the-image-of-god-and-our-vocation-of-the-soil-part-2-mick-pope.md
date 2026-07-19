@@ -22,6 +22,37 @@ tags:
   - vocation
   - environmental
   - sanctuary
+subjects:
+  - label: "Creation"
+    scheme: "FAST"
+    identifier: "fst00882382"
+    uri: "https://id.worldcat.org/fast/882382"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Vocation"
+    scheme: "FAST"
+    identifier: "fst01168466"
+    uri: "https://id.worldcat.org/fast/1168466"
+    category: "topical"
 ---
 *The article is published in two installments*. *The first can be found [here]( /religioustheory/posts/the-image-of-god-and-our-vocation-of-the-soil-mike-pope/).*
 

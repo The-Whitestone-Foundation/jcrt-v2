@@ -19,4 +19,10 @@ issue: 3
 season: fall
 year: 2019
 pages: 576-599
+subjects:
+  - label: "Virilism"
+    scheme: "FAST"
+    identifier: "fst01167663"
+    uri: "https://id.worldcat.org/fast/1167663"
+    category: "topical"
 ---

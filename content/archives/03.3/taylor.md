@@ -8,13 +8,13 @@ author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 05
 year: 2002
 ---
 Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
 
-# Encircling Kafka? _The City of K.: Franz Kafka and Prague_
+## Encircling Kafka? _The City of K.: Franz Kafka and Prague_
 
 a review of "[The City of K.: Franz Kafka and Prague](http://www.jewishmuseum.org/Pages/Exhibitions/Special_Exhibits/kafka/kafka.html)," The Jewish Museum, New York, August 11, 2002 to January 5, 2003.
 
@@ -32,9 +32,9 @@ Kafka in 1923-24 [^2]
 
 _The City of K.: Franz Kafka and Prague_ is an ambitious and unsettling postmodern exhibition, with original documents, facsimiles, and materials relating to Franz Kafka's literary works, life, and cultural surroundings carefully presented in a series of thematically organized "districts": "The Primal Scene," "A Little 'Ravachol,'" "Life in a Circle," "The Civil Servant and the Artist," "The Theater of Purity," "The Constantly Postponed Marriages," "The God of Suffocation," "The Burrow," "The Endless Office," "The Castle," "In the Penal Colony," and "The Threshold." The alignment of such diverse items as photographs, audiovisual installations, letters, and music allow the exhibition space to simulate Kafka's or K.'s existential space by extending an opposition between surface and depth into the various aspects of the author's literary works and Jewish cultural life in early twentieth century Prague. Key passages from Kafka's diaries, novels, and short stories written in white block letters on dark, "muddy" walls, wooden pallets, or an ascending staircase leading nowhere interrupt the eye as one passes from exhibit to the next. Early on, photographs of the Old Town rest submerged on a rock bed against a wall length, portrait filled genealogy of the Kafka family. Of the several excerpts inaugurating the exhibit, a line from the "Third Octavo Notebook" seems to capture the spatial and existential tensions presented throughout the exhibition: "A cage went in search of a bird."
 
-    > This is not a city. It is a fissure in the ocean bed of time, covered with stony rubble of burned-out dreams and passions, through which we'as if in a diving bell'take a walk. It is interesting, but after a time one looses one's breath.[^3]
+> This is not a city. It is a fissure in the ocean bed of time, covered with stony rubble of burned-out dreams and passions, through which we'as if in a diving bell'take a walk. It is interesting, but after a time one looses one's breath.[^3]
 
-    > Prague doesn't let go. Of either of us. This old crone has claws. One has to yield, or else. We would have to set fire to it on two sides, at the Vy'ehrad and at the Hradčany; then it would be possible for us to get away.[^4]
+> Prague doesn't let go. Of either of us. This old crone has claws. One has to yield, or else. We would have to set fire to it on two sides, at the Vy'ehrad and at the Hradčany; then it would be possible for us to get away.[^4]
 
 ![](images/image004.webp)
 
@@ -73,13 +73,9 @@ _The Exhibition catalogue contains several historical, biographical, and theoret
 
 > **Victor Taylor** is author of _Para/Inquiry: Postmodern Religion and Culture_ (Routledge), _The Religious Pray, The Profane Swear: The Civil War Writings of Robert L. Drummond_ (Davies Group Publishers) and editor of _The Encyclopedia of Postmodernism_ (Routledge) and _Postmodernism: Critical Concepts_ (Routledge). He is an assistant professor of comparative literature and humanities at York College of Pennsylvania and executive editor of the _JCRT_.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/taylor](https://jcrt.org/archives/03.3/taylor/)
 

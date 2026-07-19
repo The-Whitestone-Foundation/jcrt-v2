@@ -17,4 +17,10 @@ issue: 3
 season: fall
 year: 2022
 pages: 415-417
+subjects:
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---

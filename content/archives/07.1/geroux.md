@@ -34,4 +34,25 @@ issue: 1
 season: winter
 year: 2005
 pages:
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Pain"
+    scheme: "FAST"
+    identifier: "fst01050382"
+    uri: "https://id.worldcat.org/fast/1050382"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Religion and politics"
+    scheme: "FAST"
+    identifier: "fst01093842"
+    uri: "https://id.worldcat.org/fast/1093842"
+    category: "topical"
 ---

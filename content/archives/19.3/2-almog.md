@@ -17,4 +17,15 @@ issue: 3
 season: fall
 year: 2020
 pages: 393-403
+subjects:
+  - label: "Material culture"
+    scheme: "FAST"
+    identifier: "fst01011739"
+    uri: "https://id.worldcat.org/fast/1011739"
+    category: "topical"
+  - label: "Self-consciousness (Awareness)"
+    scheme: "FAST"
+    identifier: "fst01732884"
+    uri: "https://id.worldcat.org/fast/1732884"
+    category: "topical"
 ---

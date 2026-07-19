@@ -22,6 +22,22 @@ tags:
   - spiritual
   - rhetorical
   - violence
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Fiction"
+    scheme: "FAST"
+    identifier: "fst00923709"
+    uri: "https://id.worldcat.org/fast/923709"
+    category: "topical"
+  - label: "Violence"
+    scheme: "FAST"
+    identifier: "fst01167224"
+    uri: "https://id.worldcat.org/fast/1167224"
+    category: "topical"
 ---
 *The following is the second of a two-part-series. The first can be read [here]( /religioustheory/posts/horror-fiction-and-catholic-theology-a-rhetorical-synthesis-gavin-hurley/).*
 
@@ -57,7 +73,7 @@ As an imaginative genre where shock is expected as a genre convention, horror fi
 
 ## Spiritual Warfare
 
-Another common objection concerns evil imagery and satanic characters. Skeptics can specifically accuse horror films as being too severe especially in respect to the explicit depiction of evil, demons, and the Devil. Often, they appeal to the *Catechism of the Catholic Church* in such counter-argumentation. Specifically, they refer to Article 1868 about the “proliferation of sin”: “we have a responsibility of the sins committed by others when *we cooperate in them \[*…\] by participating directly and voluntarily in them.”[^17]
+Another common objection concerns evil imagery and satanic characters. Skeptics can specifically accuse horror films as being too severe especially in respect to the explicit depiction of evil, demons, and the Devil. Often, they appeal to the *Catechism of the Catholic Church* in such counter-argumentation. Specifically, they refer to Article 1868 about the “proliferation of sin”: “we have a responsibility of the sins committed by others when *we cooperate in them &#91;*…&#93; by participating directly and voluntarily in them.”[^17]
 
 Therefore, skeptics posit that Catholics should avoid the risk of participating in obscene horror, especially extreme violent “torture-porn” horror (such as *Hostel* and the *Saw* film franchises) where the text itself draws viewers into sin, normalizing promiscuous sex, violence, and exposure to evil. Certainly, it makes sense for Catholics to avoid this type of hyper-gratuitous horror fiction. However, unlike this type of gratuitous horror, Catholic horror media can resist violence as an end itself and recognize violence as a by-product of spiritual warfare; these narratives can portray violence as terrifyingly evil and thusly should be avoided. In short, not all violent horror narratives or horror narratives that portray evil are categorically inconsistent with the Catholic mission. Many of popular horror narratives are indeed inconsistent with the Catholic mission—but the inconsistency unfolds from the intent of the artist and the text itself, not from the separate narrative ingredients.
 

@@ -17,4 +17,15 @@ issue: 1
 season: fall
 year: 2015
 pages: 51-71
+subjects:
+  - label: "God"
+    scheme: "FAST"
+    identifier: "fst00944037"
+    uri: "https://id.worldcat.org/fast/944037"
+    category: "topical"
+  - label: "Paradox"
+    scheme: "FAST"
+    identifier: "fst01052841"
+    uri: "https://id.worldcat.org/fast/1052841"
+    category: "topical"
 ---

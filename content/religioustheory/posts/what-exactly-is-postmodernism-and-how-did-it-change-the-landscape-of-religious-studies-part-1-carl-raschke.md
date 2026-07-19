@@ -23,6 +23,27 @@ tags:
   - deconstruction
   - religious
   - philosophy
+subjects:
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *Almost a half century ago a change took place in the humanities, and by extension in the fledgling field of religious studies. By the 1990s that change had been a sea change. By the mid-1980s the change had come to be known as “postmodernism”. Today the expression, which is just as vague and polysemic as it was forty years, is still thrown around with abandon, especially in theological studies. Ex-evangelicals, for example, promiscuously and ignorantly misuse the term “deconstruction”, introduced by the doyen of the movement Jacques Derrida, in a way that is largely meaningless and unrelated to what postmodernism was all about. This essay is intended to provide some historical and insight and clarity.*
 

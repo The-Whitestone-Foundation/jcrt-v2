@@ -22,6 +22,17 @@ tags:
   - berlant
   - supplement
   - tertiary
+subjects:
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here.]( /religioustheory/posts/longing-for-an-impossible-past-derridas-of-grammatology-and-the-coronavirus-as-the-inauguration-of-an-age-of-writing-part-1-jared-lacy/)*
 
@@ -35,9 +46,9 @@ The apparently typical ego dissolution experience which Rousseau describes, figu
 
 However, as with Rousseau and his state of re-awakening—the means by which one is supposed to make a return to presence, to the source—the open-the-economy protesters have their sights set on a source that is already a supplement as, indeed, when “one wishes to go back *from the supplement to the source:* one must recognize that there is *a supplement at thes source*.”[^21] In other words, while what these protesters objected to, like Rousseau and his public festival, could be understood on a certain level as representation/supplement interrupting their access to an originary presence/source, they failed to realize that, by nature of this formulation, the source they wished to return to was already a supplement.
 
-This can be seen for instance in the way that during the height of pandemic response measures there was a prevalent fear of an impending totalitarian police state, while several weeks later, when protests against the killing of George Floyd erupted across the nation, many of the same conservative voices promptly abandoned any critique of policing in favor of their more typical law-and-order rhetoric. What this shows is that, by seeing the possibility of a police state as a supplementary interruption of the source, by failing to see that—insofar as the police state that is feared has always been the lived reality of Black Americans throughout U.S. history—there is a supplement at the source, “it follows—but it is a *liaison* that Rousseau \[and conservative protesters\] work\[\] very hard to elide—that the very essence of presence, if it must always be repeated within another presence, opens originarily, in presence itself, the structure of representation.”[^22]
+This can be seen for instance in the way that during the height of pandemic response measures there was a prevalent fear of an impending totalitarian police state, while several weeks later, when protests against the killing of George Floyd erupted across the nation, many of the same conservative voices promptly abandoned any critique of policing in favor of their more typical law-and-order rhetoric. What this shows is that, by seeing the possibility of a police state as a supplementary interruption of the source, by failing to see that—insofar as the police state that is feared has always been the lived reality of Black Americans throughout U.S. history—there is a supplement at the source, “it follows—but it is a *liaison* that Rousseau &#91;and conservative protesters&#93; work&#91;&#93; very hard to elide—that the very essence of presence, if it must always be repeated within another presence, opens originarily, in presence itself, the structure of representation.”[^22]
 
-That being the case, this type of nostalgia is indicative of what Lauren Berlant, in her book *Cruel Optimism*, refers to as cruel optimism, in that what the open-the-economy protesters (as well as students and faculty who spend their energy bemoaning socially distanced learning) “desire is actually an obstacle to \[their\] flourishing.”[^23]   In this case, what is desired can be seen as an obstacle to flourishing by virtue of the fact that resistance to social distancing measures can directly increase the death toll. However, on a less extreme level, as Berlant says, optimistic relations (in this case, opening the economy or resuming face-to-face learning) “become cruel … when the object that draws your attachment actively impedes the aim that brought you to it initially.”[^24] 
+That being the case, this type of nostalgia is indicative of what Lauren Berlant, in her book *Cruel Optimism*, refers to as cruel optimism, in that what the open-the-economy protesters (as well as students and faculty who spend their energy bemoaning socially distanced learning) “desire is actually an obstacle to &#91;their&#93; flourishing.”[^23]   In this case, what is desired can be seen as an obstacle to flourishing by virtue of the fact that resistance to social distancing measures can directly increase the death toll. However, on a less extreme level, as Berlant says, optimistic relations (in this case, opening the economy or resuming face-to-face learning) “become cruel … when the object that draws your attachment actively impedes the aim that brought you to it initially.”[^24] 
 
 Indeed, it is relatively apparent that this nostalgia which the public festival in the age of COVID-19 refers back to, which is seen as “a form analogous to the political meetings of a free and legiferant assembled people” is nothing other than the neoliberal order that has dominated global politics and economic policy for the last forty years—the utopian illusion of which, while short lived during the neoliberal heyday, seems to have made a ghostly reappearance in the disjointed time of global pandemic.
 
@@ -51,7 +62,7 @@ Thus, Berlant shows that the American dream, the proposed model of originary pre
 
 In conjunction with Berlant’s approach via affect theory, which focuses more on the impasse of an attachment to a system that does not serve the purposes and needs that it is supposed to serve, in *The Age of Disruption*, Bernard Stiegler has shown, in a far more Derridean approach, that the above mentioned norm, which is positioned within what Stiegler refers to as “*the epoch of the absence of epoch*,” far from being the site of originary presence, consist of such profound disruption that many of the younger generation believe that theirs “will be the last generation, or one of the last, before the end.”[^28] 
 
-More specifically, the disruption that is “the barbarism specific to the absence of epoch consists in always *outstripping and overtaking*” the “retentional and protentional systems \[which\] amounted to epochs,” “so that they seem always already futile.”[^29]   There is a through line of continuity here, which supports the knowledge that there is a *supplement at the source*,” in that Stiegler’s analysis is little altered by the advent of the Coronavirus pandemic.
+More specifically, the disruption that is “the barbarism specific to the absence of epoch consists in always *outstripping and overtaking*” the “retentional and protentional systems &#91;which&#93; amounted to epochs,” “so that they seem always already futile.”[^29]   There is a through line of continuity here, which supports the knowledge that there is a *supplement at the source*,” in that Stiegler’s analysis is little altered by the advent of the Coronavirus pandemic.
 
 Stiegler’s discussion of primary, secondary, and tertiary retentions are key to understanding this. While “primary and secondary retentions are psychic realities … Tertiary retentions are artificial retentions, not psychic but technical, such as archives, recordingsand technical reproductions in general.”[^30] 
 

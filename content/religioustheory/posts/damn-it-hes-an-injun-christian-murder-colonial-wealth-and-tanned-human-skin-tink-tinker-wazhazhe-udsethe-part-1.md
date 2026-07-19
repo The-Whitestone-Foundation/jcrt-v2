@@ -20,12 +20,18 @@ tags:
   - narrative
   - native
   - social
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
 ---
 *The following is the first of a three-part installment.  The article in full originally appeared in* The New Polis *in January, 2019.*
 
 ## “Damn it, he’s an Injun!”
 
-*The settlers on the upper waters of the Monongahela often went in canoes and flat-boats to Fort Pitt, where they exchanged skins, furs, jerked venison, and other products of the wilderness for ammunition and necessaries. Jesse Hughes and Henry McWhorter made a trip together. One day they put ashore where a number of children were playing, among them a little Indian boy. The incident which followed I will give in McWhorter’s own words.* \[i.e., Henry McWhorter, the author’s great grandfather\]
+*The settlers on the upper waters of the Monongahela often went in canoes and flat-boats to Fort Pitt, where they exchanged skins, furs, jerked venison, and other products of the wilderness for ammunition and necessaries. Jesse Hughes and Henry McWhorter made a trip together. One day they put ashore where a number of children were playing, among them a little Indian boy. The incident which followed I will give in McWhorter’s own words.* &#91;i.e., Henry McWhorter, the author’s great grandfather&#93;
 
 *“The instant that Jesse caught sight of the little Indian boy his face blazed with hatred. I saw the devil flash in his eye, as feigning great good humor, he called out, ‘Children, don’t you want to take a boat ride?’ Pleased with a prospective glide over the still waters of the Monongahela, one and all came running towards the boat. Perceiving Hughes’ cunning ruse to get the little Indian into his clutches, I picked up an oar, and gruffly ordering the children away, quickly shoved the boat from the bank. When safely away, I turned to Hughes and said, ‘Now, Jesse, ain’t you ashamed?’ ‘What have I done?’ he sullenly asked. ‘What have you done? Why, you intended to kill that little Indian boy. I saw it in your every move and look, the moment you got sight of the little fellow.’ ‘Yes,’ he said, ‘I intended when we got into mid-stream to stick my knife in him and throw him overboard.’ When I remonstrated with him about this, he said, ‘Damn it, he’s an Injun!’”*
 
@@ -109,7 +115,7 @@ The “letter” would have been a third-hand narrative at best, then, and had u
 
 ## David Morgan, Surveyor
 
-*In his manner of living and defending himself and others, he \[David Morgan\] was no different from his contemporaries. I certainly would not class him an Indian-fighter, no more than I would class Jacob Prickett, Frederick Ice, or Nathaniel Cochran as such. He was a Christian, a patriot, a soldier, a surveyor, and a very good farmer, the profession of which he is most proud, and a loving, and most times, a too indulgent parent.*
+*In his manner of living and defending himself and others, he &#91;David Morgan&#93; was no different from his contemporaries. I certainly would not class him an Indian-fighter, no more than I would class Jacob Prickett, Frederick Ice, or Nathaniel Cochran as such. He was a Christian, a patriot, a soldier, a surveyor, and a very good farmer, the profession of which he is most proud, and a loving, and most times, a too indulgent parent.*
 
 –Stephen Morgan 1808, speaking about his father[^15]
 

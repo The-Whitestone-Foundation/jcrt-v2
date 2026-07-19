@@ -34,4 +34,25 @@ issue: 2
 season: spring
 year: 2011
 pages:
+subjects:
+  - label: "Civilization"
+    scheme: "FAST"
+    identifier: "fst00862898"
+    uri: "https://id.worldcat.org/fast/862898"
+    category: "topical"
+  - label: "Modernism (Christian theology)"
+    scheme: "FAST"
+    identifier: "fst01024448"
+    uri: "https://id.worldcat.org/fast/1024448"
+    category: "topical"
+  - label: "Protestantism"
+    scheme: "FAST"
+    identifier: "fst01079920"
+    uri: "https://id.worldcat.org/fast/1079920"
+    category: "topical"
+  - label: "War on terrorism"
+    scheme: "FAST"
+    identifier: "fst01403162"
+    uri: "https://id.worldcat.org/fast/1403162"
+    category: "title"
 ---

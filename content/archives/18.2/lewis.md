@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2019
 pages: 299-318
+subjects:
+  - label: "Biblical hermeneutics"
+    scheme: "FAST"
+    identifier: "fst01352004"
+    uri: "https://id.worldcat.org/fast/1352004"
+    category: "topical"
+  - label: "Christian communities"
+    scheme: "FAST"
+    identifier: "fst00858951"
+    uri: "https://id.worldcat.org/fast/858951"
+    category: "topical"
 ---

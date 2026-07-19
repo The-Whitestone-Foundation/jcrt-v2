@@ -21,6 +21,22 @@ tags:
   - theory
   - desublimation
   - capitalism
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *This article is the last of three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk Conference Center (Stift Melk, Austria) sponsored by the [Religion and Transformation in Contemporary Society Platform at the University of Vienna](http://sowi.univie.ac.at/en/research/research-platforms/religion-and-transformation-in-contemporary-society/) (June 27, 2017). The [first installment can be found here]( /religioustheory/posts/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-1-carl-raschke/), the [second one here]( /religioustheory/posts/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-2-carl-raschke/).*
 
@@ -34,7 +50,7 @@ Stiegler himself calls for an insurrection against this pervasive alien dominion
 
 The upshot would be what he calls *l’économie de contribution* (“the economy of contribution”), which he does not specify in any detail.  Knowledge must come to be valued for its own sake, or at least for social flourishing.  Such a society would be anti-consumerist.  In an interview with a representative of the Macif Foundation, Stiegler comments:
 
-> This model \[of the society of contribution\] rests on investment and citizens taking responsibility. It differs from Fordism because it depends on de-prolaterisation (sic). For Marx, the workers are proletarized when their expertise is replaced by the machines that they serve. In the 20th century it was the consumers who were proletarized and we lost the old knowledge. Proleterization isn’t financial poverty, but the loss of knowledge. Consumers do not produce their own way of living, which is now prescribed by the big corporate names.[^2]
+> This model &#91;of the society of contribution&#93; rests on investment and citizens taking responsibility. It differs from Fordism because it depends on de-prolaterisation (sic). For Marx, the workers are proletarized when their expertise is replaced by the machines that they serve. In the 20th century it was the consumers who were proletarized and we lost the old knowledge. Proleterization isn’t financial poverty, but the loss of knowledge. Consumers do not produce their own way of living, which is now prescribed by the big corporate names.[^2]
 
 Although Stiegler’s solution sounds vague and not a little utopian – and certainly does not have the “critical” transformational perspective we would expect perhaps from such incisive social and political theorizing – it steers us in a ![](/images/2017/07/blake-red-dragon.webp)direction from which the broader critique of neoliberalism often shies away.  The crisis of neoliberal hegemony comes down to a crisis of liberal democracy stemming from the crisis of representation that can be tracked all the way back to the end of the *Aufklärung*.
 

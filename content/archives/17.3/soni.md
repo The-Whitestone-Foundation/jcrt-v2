@@ -18,4 +18,20 @@ issue: 3
 season: summer
 year: 2018
 pages: 566-587
+subjects:
+  - label: "Rationalism"
+    scheme: "FAST"
+    identifier: "fst01090275"
+    uri: "https://id.worldcat.org/fast/1090275"
+    category: "topical"
+  - label: "Scholarships"
+    scheme: "FAST"
+    identifier: "fst01432095"
+    uri: "https://id.worldcat.org/fast/1432095"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

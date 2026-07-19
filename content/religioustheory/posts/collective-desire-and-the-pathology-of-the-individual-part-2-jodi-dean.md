@@ -20,6 +20,22 @@ tags:
   - subject
   - personal
   - individuation
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Individuation (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00970369"
+    uri: "https://id.worldcat.org/fast/970369"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---
 *The following is the second installment of a two-part series.  The first installment was published on October 10 and can be [accessed here.]( /religioustheory/posts/collective-desire-and-the-pathology-of-the-individual-jodi-dean/)  
 *

@@ -17,4 +17,10 @@ issue: 3
 season: fall
 year: 2019
 pages: 415-428
+subjects:
+  - label: "Theology, Doctrinal"
+    scheme: "FAST"
+    identifier: "fst01149617"
+    uri: "https://id.worldcat.org/fast/1149617"
+    category: "topical"
 ---

@@ -17,4 +17,10 @@ issue: 1
 season: winter
 year: 2018
 pages: 36-49
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
 ---

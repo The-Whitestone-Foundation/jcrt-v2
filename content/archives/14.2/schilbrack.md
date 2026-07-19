@@ -21,4 +21,10 @@ issue: 2
 season: spring
 year: 2015
 pages: 424-429
+subjects:
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
 ---

@@ -18,6 +18,27 @@ tags:
   - religious
   - evangelicalism
   - history
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Evangelicalism"
+    scheme: "FAST"
+    identifier: "fst00917002"
+    uri: "https://id.worldcat.org/fast/917002"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Fitzgerald, Francis. *The Evangelicals: The Struggle to Shape America.* New York City, New York: Simon & Schuster, 2017. ISBN-10: 1439131333. Hardcover. 637 pages.**
 

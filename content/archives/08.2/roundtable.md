@@ -21,4 +21,30 @@ issue: 2
 season: spring
 year: 2008
 pages:
+subjects:
+  - label: "Non-governmental organizations"
+    scheme: "FAST"
+    identifier: "fst01038524"
+    uri: "https://id.worldcat.org/fast/1038524"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
+  - label: "Right and left (Political science)"
+    scheme: "FAST"
+    identifier: "fst01097849"
+    uri: "https://id.worldcat.org/fast/1097849"
+    category: "topical"
+  - label: "United States"
+    scheme: "FAST"
+    identifier: "fst01204155"
+    uri: "https://id.worldcat.org/fast/1204155"
+    category: "geographic"
 ---

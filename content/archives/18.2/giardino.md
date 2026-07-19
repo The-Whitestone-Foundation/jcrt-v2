@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2019
 pages: 224-235
+subjects:
+  - label: "Catholics"
+    scheme: "FAST"
+    identifier: "fst00849297"
+    uri: "https://id.worldcat.org/fast/849297"
+    category: "topical"
+  - label: "Knowledge, Theory of"
+    scheme: "FAST"
+    identifier: "fst00988194"
+    uri: "https://id.worldcat.org/fast/988194"
+    category: "topical"
 ---

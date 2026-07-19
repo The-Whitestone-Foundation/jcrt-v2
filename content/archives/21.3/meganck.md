@@ -17,4 +17,20 @@ issue: 3
 season: fall
 year: 2022
 pages: 306-328
+subjects:
+  - label: "Love"
+    scheme: "FAST"
+    identifier: "fst01002769"
+    uri: "https://id.worldcat.org/fast/1002769"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Wisdom"
+    scheme: "FAST"
+    identifier: "fst01176240"
+    uri: "https://id.worldcat.org/fast/1176240"
+    category: "topical"
 ---

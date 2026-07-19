@@ -25,4 +25,20 @@ issue: 1
 season: winter
 year: 2010
 pages:
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Institutionalism (Religion)"
+    scheme: "FAST"
+    identifier: "fst00974321"
+    uri: "https://id.worldcat.org/fast/974321"
+    category: "topical"
+  - label: "Power (Social sciences)"
+    scheme: "FAST"
+    identifier: "fst01074219"
+    uri: "https://id.worldcat.org/fast/1074219"
+    category: "topical"
 ---

@@ -19,6 +19,22 @@ tags:
   - individual
   - theology
   - history
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a three-part series.  [The first part]( /religioustheory/posts/force-in-religious-thought-carl-raschke-and-victoria-kahn-in-dialogue-part-1/) was published on May 31, 2016.*
 
@@ -48,7 +64,7 @@ In Kant, humans are distinct as rational animals endowed with reason. Kant defin
 
 For Kant, we can imagine things greater than ourselves outside of ourselves. Because we are limited as individuals, “it will require a long, perhaps incalculable series of generations, each passing on its enlightenment to the next, before the germs implanted by nature in our species can be developed to that degree corresponds to nature’s original intention.”[^6] Kant says, “Nature gave man reason, and freedom of will based upon reason, and this in itself was a clear indication of nature’s intention as regards his endowments.” But curiously this keeps imagination individuated, especially when we consider his next move.
 
-For Kant, humans are “mortal as individuals but immortal as a species,” and nevertheless they are “still meant to develop \[the species’\] capacities completely.”[^7] We see the rumblings of utilitarianism here. So, according to Kant, humans develop culture gradually, and their originally pathological need to seek power and prestige within a group, to thrive on an inherent anti-social misanthropy, leads them away from nature.
+For Kant, humans are “mortal as individuals but immortal as a species,” and nevertheless they are “still meant to develop &#91;the species’&#93; capacities completely.”[^7] We see the rumblings of utilitarianism here. So, according to Kant, humans develop culture gradually, and their originally pathological need to seek power and prestige within a group, to thrive on an inherent anti-social misanthropy, leads them away from nature.
 
 Envy, strife, and incompatibility foster a need for development. Taste is borne of the fruits of and inherent unsociability that initiates a conflict that gives *force* to the perpetuation of the species toward its end. Liberalism deprived of a cultural force, as current liberal crises in the United States and United Kingdom show, is not only devastating from a Kantian perspective but misses the point of civilization.
 
@@ -64,7 +80,7 @@ Because Kant’s political theory, no matter how pragmatic or deliberative it se
 
 While Kantian scholars may disagree with one another about whether or not this transcendent view of reason is really pseudo-Christian in its providential view of the unfolding of history, what is clear in Heidegger’s influential break from the Kantian tradition is a return to something more like paganism – an important counterpoint to conceptions of “political theology” that reside in the “kingdom” Christians come to understand as *βασίλειο*, which is an altogether contrasting notion to the Greek πολιτική.
 
-According to Heidegger’s quotation above, the “Good” (ἀγαθός) is already implied in Aristotle’s notion of politics, from which ethics cannot be distinguished because “being of the human genuineness” precedes it, and here is perhaps an early version of the authentic angst that will emerge more fully in *Being and Time*. This conception of the good is spatial in the sense of “in the direction of \[cultivating knowing-the-way-around the being of human beings in its genuineness\]” and would be opposed to the more visual καλός as an *evidencing* of internal good by its presentation in external form.
+According to Heidegger’s quotation above, the “Good” (ἀγαθός) is already implied in Aristotle’s notion of politics, from which ethics cannot be distinguished because “being of the human genuineness” precedes it, and here is perhaps an early version of the authentic angst that will emerge more fully in *Being and Time*. This conception of the good is spatial in the sense of “in the direction of &#91;cultivating knowing-the-way-around the being of human beings in its genuineness&#93;” and would be opposed to the more visual καλός as an *evidencing* of internal good by its presentation in external form.
 
 We might say that ἀγαθός, precedes καλός in the way that Scotus necessitates the libertarian conception of freedom untethered to the temporal unfolding necessitated by the scholastics’ optimism for a notion of human will patented as the instantiation of the divine, whether it be divine will or autonomous reason. Similarly, we might say that Heidegger’s reading of Aristotle as an extension of his studies on Scotus and Augustine land in a pre-Christian notion of “will” that attends more to space than to time.[^12]
 
@@ -86,7 +102,7 @@ Both Kahn and Raschke help to understand the role of *force* in current liberal 
 
 In *The Future of Illusion*, Kahn’s analysis of Ernst Kantorowicz’s *The King’s Two Bodies* as an intended extension of Ernst Cassirer’s *The Myth of the State* includes in brief the fact that Cassirer meant his book as an attack on Heidegger as well as National Socialism with respect to the dangers of conceiving politics as myth. Even so, recent thinkers like Paul Kahn (no relation to Kahn) have continued to stress the necessity of conceiving the political in terms of sacrifice and sacred founding.
 
-![Figure3.Heere_PhilipIIAsSolomon](/images/2016/06/figure3-heere_philipiiassolomon.webp)In Kahn’s reading of Cassirer, the danger of mythologizing politics masks the very fictive and *poetic* nature of both law and literature. Her reading of Kantorowicz suggests that *The King’s Two Bodies*, especially when read alongside post-WWII defenses of secularism like Erich Auerbach’s *Mimesis*, “uses the resources of the legal and literary traditions to reimagine the relationship between politics and theology and the idea of the secular state. And \[Kantorowicz\] does so in a way that differs from the narratives of Schmitt and Cassirer.”[^15] The unifying text for both Kantorowicz and Auerbach is Dante’s *Commedia*, where Virgil crowns Dante and “(like *Richard II*) stands for literature or fiction that knows itself” as myth.
+![Figure3.Heere_PhilipIIAsSolomon](/images/2016/06/figure3-heere_philipiiassolomon.webp)In Kahn’s reading of Cassirer, the danger of mythologizing politics masks the very fictive and *poetic* nature of both law and literature. Her reading of Kantorowicz suggests that *The King’s Two Bodies*, especially when read alongside post-WWII defenses of secularism like Erich Auerbach’s *Mimesis*, “uses the resources of the legal and literary traditions to reimagine the relationship between politics and theology and the idea of the secular state. And &#91;Kantorowicz&#93; does so in a way that differs from the narratives of Schmitt and Cassirer.”[^15] The unifying text for both Kantorowicz and Auerbach is Dante’s *Commedia*, where Virgil crowns Dante and “(like *Richard II*) stands for literature or fiction that knows itself” as myth.
 
 But if the conclusion of *The King’s Two Bodies* is about the role of art in bringing about a new, secular cosmopolitanism, such secular cosmopolitanism is not the teleological result of reason in history. To the contrary, it is always vulnerable to the upsurge of the irrational forces of myth.[^16]
 
@@ -102,7 +118,7 @@ While recognizing certain constant features or tendencies of human nature, Machi
 
 For Kahn, the malleable qualities of human nature call for vigilant attention to historical context for producing deliberative judgment. It is not, however, completely relative historicism. Kahn points out Machiavelli’s reliance on the Roman poet Lucretius (99-55 BCE) and his work *De rerum natura*:
 
-What \[Machiavelli and Lucretius\] shared was a naturalistic account of human nature, including human passions and desires; an emphasis on the importance of chance and free will for the purposes of description and/or enlightenment. Chief among these was religion.[^24]
+What &#91;Machiavelli and Lucretius&#93; shared was a naturalistic account of human nature, including human passions and desires; an emphasis on the importance of chance and free will for the purposes of description and/or enlightenment. Chief among these was religion.[^24]
 
 Although his work had been banned, Kahn notes that Machiavelli had himself transcribed Lucretius and that under censorship the number of copies of the text increased “fiftyfold” during the 15th century, much to the dismay of enthusiastic anti-pagans such as Savonarola. Machiavelli turned to ancient Rome in his *Discourses on Livy* to assert the poetic foundations of myth and the state, particularly the case of Numa, who “feigned conversation with a nymph in order to convince the Romans that his ‘new and unwonted laws’ were divinely inspired.”[^25]
 
@@ -143,7 +159,7 @@ Thus the *affectio iustitiae* provides the freedom that the will could not have 
 
 [^1]: See: Sean J. McGrath, “Heidegger and Duns Scotus on Truth and Language,” *Review of Metaphysics* (vol. 57.2, 2003), 339-358.
 
-See also, Thomas Williams, “How Scotus Separates Morality from Happiness,” *American Catholic Philosophical Quarterly* (vol. 69, 1995), 425-445. \[[Preprint available online](http://shell.cas.usf.edu/~twilliam/acpq.htm).\]
+See also, Thomas Williams, “How Scotus Separates Morality from Happiness,” *American Catholic Philosophical Quarterly* (vol. 69, 1995), 425-445. &#91;[Preprint available online](http://shell.cas.usf.edu/~twilliam/acpq.htm).&#93;
 
 [^2]: David Lovekin, in *Technique, Discourse and Consciousness*, has pointed out that the well-worn term ‘prison house’ was a rather poetic translation by Erich Heller of Nietzsche’s concept of the constraint of language. It was picked up by Frederic Jameson and widely disseminated as a meme among scholars (209).
 
@@ -193,4 +209,4 @@ See also, Thomas Williams, “How Scotus Separates Morality from Happiness,” *
 
 [^26]: See Quentin Skinner’s *Liberty Before Liberalism*.
 
-[^27]: John Rawls, *A Theory of Justice*, (Cambridge: Harvard University Press, 1971). Rawls describes his “veil of ignorance” or “original state” as like the state of nature and even claims that, “\[c\]ontract theory agrees, then, with utilitarianism in holding that the fundamental principles of justice quite properly depend upon the natural facts about men in society. This dependence is made explicit by the description of the original position” (159).
+[^27]: John Rawls, *A Theory of Justice*, (Cambridge: Harvard University Press, 1971). Rawls describes his “veil of ignorance” or “original state” as like the state of nature and even claims that, “contract theory agrees, then, with utilitarianism in holding that the fundamental principles of justice quite properly depend upon the natural facts about men in society. This dependence is made explicit by the description of the original position” (159).

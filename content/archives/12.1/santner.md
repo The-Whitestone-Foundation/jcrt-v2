@@ -40,4 +40,20 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Ericas"
+    scheme: "FAST"
+    identifier: "fst00914677"
+    uri: "https://id.worldcat.org/fast/914677"
+    category: "topical"
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---

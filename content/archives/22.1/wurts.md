@@ -18,4 +18,10 @@ issue: 1
 season: fall
 year: 2023
 pages: 139-168
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
 ---

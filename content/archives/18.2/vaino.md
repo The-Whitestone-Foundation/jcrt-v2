@@ -18,4 +18,15 @@ issue: 2
 season: spring
 year: 2019
 pages: 253-267
+subjects:
+  - label: "Christians"
+    scheme: "FAST"
+    identifier: "fst00859760"
+    uri: "https://id.worldcat.org/fast/859760"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
 ---

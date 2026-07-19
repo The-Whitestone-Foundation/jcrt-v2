@@ -32,4 +32,25 @@ issue: 2
 season: spring
 year: 2005
 pages:
+subjects:
+  - label: "Act (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00796122"
+    uri: "https://id.worldcat.org/fast/796122"
+    category: "topical"
+  - label: "Art Philosophy"
+    scheme: "FAST"
+    identifier: "fst00815307"
+    uri: "https://id.worldcat.org/fast/815307"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Religion Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
 ---

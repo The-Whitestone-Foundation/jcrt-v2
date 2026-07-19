@@ -19,6 +19,27 @@ tags:
   - politics
   - psychoanalysis
   - political
+subjects:
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Subjectivity"
+    scheme: "FAST"
+    identifier: "fst01136568"
+    uri: "https://id.worldcat.org/fast/1136568"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ![clarke-firstimage](/images/2017/01/clarke-firstimage.webp)Psychoanalysis has undeniably played a significant role in the development of theories critical of the social landscape. In addition to fostering a new model for self-reflection, it has functioned as a vehicle for the proliferation of subjectivities distinct from the consecrated forms of cultural life. Consequently, I will suggest here that it has an important role to play in the formation of any emancipatory political praxis.
 
@@ -66,11 +87,11 @@ However, I am not persuaded that the motivation for this entrance is lack. This 
 
 Failed attempts to escape our dereliction are what we register as lack, but they actually testify to a flow of being that *cannot* but be. And yet, Levinas is quick to point out, it is in the moment of futile departure that an opening can be gleaned. This opening is a *hesitation* in being that he names “transcendence.”
 
-Transcendence in Levinas has nothing to do with deities inhabiting an eternal realm, or for that matter a world of forms perfect and unchanging. Instead, it might be described as a rest, or a refusal. In *Existence and Existents*, Levinas writes that the “spirituality of the body does not lie in \[a\] power to express what is inward. By its position it realizes the condition necessary for any inwardness. It does not express an event; it is itself this event.”[^11]
+Transcendence in Levinas has nothing to do with deities inhabiting an eternal realm, or for that matter a world of forms perfect and unchanging. Instead, it might be described as a rest, or a refusal. In *Existence and Existents*, Levinas writes that the “spirituality of the body does not lie in a power to express what is inward. By its position it realizes the condition necessary for any inwardness. It does not express an event; it is itself this event.”[^11]
 
 The instant of this event is insubordinate to chronological time, as it diachronically interrupts the movement of temporal flow, the anonymous rustling of the “*il y a*.” For an analyst, these interruptions would most likely appear as slips or fractures.ButI suspect what distinguishes the analyst from the philosopher here would not be the shape of the revelation but the temporal register.
 
-For Levinas, these disturbances are not of the order of being; they are otherwise, since participation in being always “takes dramatic form in egoisms struggling with one another, each against all, in the multiplicity of allergic egoisms which are \[in opposition to\] one another and are thus together.” To make this point somewhat differently and in keeping with our concern over different times, immanence is war.[^12]
+For Levinas, these disturbances are not of the order of being; they are otherwise, since participation in being always “takes dramatic form in egoisms struggling with one another, each against all, in the multiplicity of allergic egoisms which are &#91;in opposition to&#93; one another and are thus together.” To make this point somewhat differently and in keeping with our concern over different times, immanence is war.[^12]
 
 Initially, this seems difficult to maintain in light of Levinas’s commitment to a materiality on the hither side of materialism. And, of course, if by transcendence we understand a disembodied power operating outside of concrete existence, Levinas would look like an idealist. But nothing could be further from the truth, as Levinas never tired of charging Western philosophy with the crime of idealism—spirit’s supposed triumph over matter.
 
@@ -106,7 +127,7 @@ Having arrived at this extraordinarily difficult passage from ethics to politics
 
 Do we need an experience on the hither side of language-as-system to motivate a politics that risks all for the sake of all?  If my desire for the Other stems not from lack but from abundance, how then are we to understand the rupture/rapture at the heart of subjectivity?
 
-Levinas responds that it is not only possible but necessary that we theorize from this “more than enough,” since otherwise the human only has care for existence. But Being in the world, he says, is “precisely to be freed from the last implications of the instinct to exist,” to still “take \[the world\] seriously  and still perform reasonable acts and undertakings” at the “very moment when the world seems to break up.”[^22]
+Levinas responds that it is not only possible but necessary that we theorize from this “more than enough,” since otherwise the human only has care for existence. But Being in the world, he says, is “precisely to be freed from the last implications of the instinct to exist,” to still “take &#91;the world&#93; seriously  and still perform reasonable acts and undertakings” at the “very moment when the world seems to break up.”[^22]
 
 The miracle is not that there is something instead of nothing, but rather that we can enjoy and sacrifice in the eye of an apocalypse. This is an ethical grace, not an ontological mystery.
 
@@ -115,7 +136,7 @@ The miracle is not that there is something instead of nothing, but rather that w
 ***
 ## Footnotes
 
-[^1]: (#_bookmark0) “The Trace of the Other,” trans. Alphonso Lingis, in *Deconstruction in Context: Literature and Philosophy*, ed. Mark C. Taylor (Chicago: University of Chicago Press, 1986), 345-359. \[The essay was written by Levinas in 1963.\]
+[^1]: (#_bookmark0) “The Trace of the Other,” trans. Alphonso Lingis, in *Deconstruction in Context: Literature and Philosophy*, ed. Mark C. Taylor (Chicago: University of Chicago Press, 1986), 345-359. &#91;The essay was written by Levinas in 1963.&#93;
 
 [^2]: (#_bookmark1)  *Secrets of the Soul: A Social and Cultural History of Psychoanalysis* (New York: Knopf, 2005), 8.
 

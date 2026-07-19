@@ -17,6 +17,22 @@ tags:
   - perception
   - military
   - logic
+subjects:
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Perception"
+    scheme: "FAST"
+    identifier: "fst01057622"
+    uri: "https://id.worldcat.org/fast/1057622"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Massumi, Brian.  *Ontopower: War, Powers, and the State of Perception*.  Durham NC: Duke University Press, 2015.  Hardcover, Paperback, E-book, ix + 320 pages.**
 
@@ -36,7 +52,7 @@ Chapters three and four of “Part Two: Powers of Perception” develop these co
 
 Chapter five (listed under Part Two) and the afterward expound on the formative aspect of history in-the-making, speculating that immanent critique, to “‘observe’ what is energetically not taking place, coeval with a moment’s effective self-completion,” (208) is a task for philosophic thought. As a central thread which weaves together the pragmatic “how it works” and the speculative considerations of philosophy’s task, Massumi emphasizes a new ecology of powers in which the infra-activity of ontopower and the operative logics thereof “encompass and exceed” the other modes of power (namely, Foucault’s topology of powers: sovereign, disciplinary, and biopower).
 
-Framing it in context with notable moments during the Bush administration, Massumi analyzes how preemption was endorsed in rhetoric and concomitant policies that called America to act at the level of life’s emergence: “to disrupt \[the enemy’s\] plans and confront the worst threats *before* they emerge.”[^3] This incitatory approach to national security assumes that threat is proliferative anyway so the strategic course of action is to stir the enemy out of indeterminate potential by attacking first, getting the actual facts later.[^4] “Terrorists” are taken to be the enemy in this scheme, inseparably associated with unspecified threat, and they have the advantage of surprise due to their networked, cellular organizations as opposed to the hierarchical, vertebrate structure of the state.[^5]
+Framing it in context with notable moments during the Bush administration, Massumi analyzes how preemption was endorsed in rhetoric and concomitant policies that called America to act at the level of life’s emergence: “to disrupt &#91;the enemy’s&#93; plans and confront the worst threats *before* they emerge.”[^3] This incitatory approach to national security assumes that threat is proliferative anyway so the strategic course of action is to stir the enemy out of indeterminate potential by attacking first, getting the actual facts later.[^4] “Terrorists” are taken to be the enemy in this scheme, inseparably associated with unspecified threat, and they have the advantage of surprise due to their networked, cellular organizations as opposed to the hierarchical, vertebrate structure of the state.[^5]
 
 The strategy of network-centric war was adopted to combat terrorists in this asymmetrical warfare effectively together with infra-colonizing the edge of bare activity so as to affectively in-train bodies to behave as part-subjects in a well-oiled, full-spectrum military machine. This couplet of network-centric war and taking power to the edge are explicit military theories which Massumi deconstructs with an event-logic to expose what the consequent mechanisms of preemptive power are and how they operate as processual tendencies that in turn affect modulations throughout the entire field of life.
 

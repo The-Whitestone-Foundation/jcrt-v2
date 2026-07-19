@@ -17,4 +17,20 @@ issue: 1
 season: winter
 year: 2024
 pages: 50-92
+subjects:
+  - label: "God"
+    scheme: "FAST"
+    identifier: "fst00944037"
+    uri: "https://id.worldcat.org/fast/944037"
+    category: "topical"
+  - label: "Liberalism (Religion)"
+    scheme: "FAST"
+    identifier: "fst00997200"
+    uri: "https://id.worldcat.org/fast/997200"
+    category: "topical"
+  - label: "Theology, Doctrinal"
+    scheme: "FAST"
+    identifier: "fst01149617"
+    uri: "https://id.worldcat.org/fast/1149617"
+    category: "topical"
 ---

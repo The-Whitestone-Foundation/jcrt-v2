@@ -24,6 +24,17 @@ tags:
   - mission
   - theological
   - theology
+subjects:
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -39,7 +50,7 @@ From the 16th to 18th century many European Protestant and Catholic missionaries
 
 The missionaries hoped that the Ethiopian emperors who resisted being evangelized or reformed could use their help to evangelize the unevangelized people in Ethiopia’s western and southern parts. However, the Ethiopian emperors refused to accept the missionaries’ invitation to evangelize the Oromos.4 Gurmessa quotes Emperor Yohannes I, who criticized the missionaries for their attempt to reform the Ethiopian church: “Go and convert first the Muslim Egyptians and the Turks instead of coming to Abyssinia where we are all Christians.”5
 
-Though the missionaries were not able to penetrate the Ethiopian borders and emperors, they wereable to stay in Eritrea, which was under the colony of the Ottoman Empire and, later, the Italians. Gurmessa writes, “Despite the setback to the primary objective of evangelizing the Oromo, the SEM \[Swedish Evangelical Mission\] missionaries were able to make considerable ports in converting the people around their mission station at Massawa.”6
+Though the missionaries were not able to penetrate the Ethiopian borders and emperors, they wereable to stay in Eritrea, which was under the colony of the Ottoman Empire and, later, the Italians. Gurmessa writes, “Despite the setback to the primary objective of evangelizing the Oromo, the SEM &#91;Swedish Evangelical Mission&#93; missionaries were able to make considerable ports in converting the people around their mission station at Massawa.”6
 
 After trying for a long time, the Swedish Evangelical Mission was able to send missionaries from the station in Massawa, Eritrea. The missionaries who were sent from the SEM Eritrean station were Eritreans and freed Oromo slaves who became converted to Evangelical Christianity. The converted Eritreans and Oromos led the mission initiative to evangelize the Oromo people, which opened the door for the missionaries to enter the western and southern parts of Ethiopia.7
 

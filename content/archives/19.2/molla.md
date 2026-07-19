@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2020
 pages: 452-462
+subjects:
+  - label: "Colonization"
+    scheme: "FAST"
+    identifier: "fst00868483"
+    uri: "https://id.worldcat.org/fast/868483"
+    category: "topical"
+  - label: "Ethiopians"
+    scheme: "FAST"
+    identifier: "fst00915906"
+    uri: "https://id.worldcat.org/fast/915906"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---

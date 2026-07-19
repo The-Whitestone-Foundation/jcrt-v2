@@ -18,4 +18,15 @@ issue: 3
 season: fall
 year: 2019
 pages: 536-550
+subjects:
+  - label: "Christian philosophy"
+    scheme: "FAST"
+    identifier: "fst01746483"
+    uri: "https://id.worldcat.org/fast/1746483"
+    category: "topical"
+  - label: "Mental health"
+    scheme: "FAST"
+    identifier: "fst01016339"
+    uri: "https://id.worldcat.org/fast/1016339"
+    category: "topical"
 ---

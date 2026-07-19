@@ -22,4 +22,25 @@ issue: 2
 season: fall
 year: 2012
 pages: 106-121
+subjects:
+  - label: "Classroom environment"
+    scheme: "FAST"
+    identifier: "fst00863720"
+    uri: "https://id.worldcat.org/fast/863720"
+    category: "topical"
+  - label: "Education"
+    scheme: "FAST"
+    identifier: "fst00902499"
+    uri: "https://id.worldcat.org/fast/902499"
+    category: "topical"
+  - label: "Educators"
+    scheme: "FAST"
+    identifier: "fst00903702"
+    uri: "https://id.worldcat.org/fast/903702"
+    category: "topical"
+  - label: "Students"
+    scheme: "FAST"
+    identifier: "fst01136041"
+    uri: "https://id.worldcat.org/fast/1136041"
+    category: "topical"
 ---

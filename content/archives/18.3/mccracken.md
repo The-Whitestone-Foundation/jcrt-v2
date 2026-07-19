@@ -17,4 +17,15 @@ issue: 3
 season: fall
 year: 2019
 pages: 429-525
+subjects:
+  - label: "Continental philosophy"
+    scheme: "FAST"
+    identifier: "fst01765182"
+    uri: "https://id.worldcat.org/fast/1765182"
+    category: "topical"
+  - label: "Eurocentrism"
+    scheme: "FAST"
+    identifier: "fst00916597"
+    uri: "https://id.worldcat.org/fast/916597"
+    category: "topical"
 ---

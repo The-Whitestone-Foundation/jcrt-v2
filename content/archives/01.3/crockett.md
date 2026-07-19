@@ -8,7 +8,7 @@ author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2000
 ---
@@ -16,7 +16,7 @@ Crockett - Economies of Studying Religion - JCRT 1.3
 
 _The Journal of Cultural and Religious Theory is committed to advancing critical discourses aiming to (re)define the nature of disciplinary and inter-disciplinary scholarship in religion and culture studies. In a series of feature articles, the editors and members of the editorial board will address a wide range of issues in cultural and religious theory._
 
-# Economies of Studying Religion
+## Economies of Studying Religion
 
 Clayton Crockett  
 College of William and Mary
@@ -44,11 +44,7 @@ _One of the significant problems for both understanding and living today involve
 
 > **Clayton Crockett** is Visiting Assistant Professor of Religion at the College of William and Mary. He is the author of _A Theology of the Sublime_ and editor of _Secular Theology: American Radical Theological Thought_, both forthcoming from Routledge, and is the Managing Editor of the JCRT.
 
-* * *
-
-> 
-
-* * *
+***
 
  
 Updated 07/28/21.   
@@ -78,7 +74,7 @@ Updated 07/28/21.
 
 [^6]: Ibid., p.51.
 
-[^7]:  Here I have tried to trace two strands, which in their entanglement form a knot, which defines a locus for religious studies. In order to render some specificity to this duality, I want to turn briefly to Socrates/Plato, a dizzying entanglement if ever there was one. In the _Euthyphro_, Socrates questions Euthyphro concerning holiness, or piety. As is generally well known, Socrates asks what a quality or characteristic is in itself, apart from any particular instance or example. Euthyphro initially replies that his particular situation, prosecuting his father for murder despite familial ties, is holy, which does not answer Socrates' question. 'I asked you for that special feature through which all things are holy. For you were in agreement, surely, that it was by virtue of a single standard that all unholy things are unholy and all holy things are holy' (6d). When Euthyphro replies that what is holy is what is agreeable to the gods, Socrates asks whether something is approved by the gods because it is holy, or holy because approved by the gods (10a). This is akin to the famous medieval dispute whether God is constrained to do what is good (Thomistic), or whether whatever God desires thereby becomes good (Scotist). The former restricts God's omnipotence, while the latter introduces the terrifying possibility of a malevolent God. Both Socrates and Euthyphro affirm that what is holy is approved by the gods by virtue of its possessing the quality of holiness. This move displaces the centrality of the gods from the determination of what holiness is, and Socrates further restricts holiness to a species of justice. Holiness becomes 'that part of the just which is'concerned with looking after the gods' (12e). Looking after the gods concerns commerce or exchange with the gods, a 'science of sacrifice \[donation\] and prayer \[request\].' Socrates draws the relentless conclusion that 'holiness would be a kind of skill in trading between gods and men' (14e). This is of course a circular argument, which does not escape the logic of exchange, because then holiness is generated through and by approval of the gods (and humans), which is precisely the standpoint rejected earlier in the dialogue. This disturbing conclusion is what prompts Socrates to try to begin again to discover what holiness is, despite his impending trial, and Euthyphro to think of somewhere else he urgently needs to be and take off.
+[^7]:  Here I have tried to trace two strands, which in their entanglement form a knot, which defines a locus for religious studies. In order to render some specificity to this duality, I want to turn briefly to Socrates/Plato, a dizzying entanglement if ever there was one. In the _Euthyphro_, Socrates questions Euthyphro concerning holiness, or piety. As is generally well known, Socrates asks what a quality or characteristic is in itself, apart from any particular instance or example. Euthyphro initially replies that his particular situation, prosecuting his father for murder despite familial ties, is holy, which does not answer Socrates' question. 'I asked you for that special feature through which all things are holy. For you were in agreement, surely, that it was by virtue of a single standard that all unholy things are unholy and all holy things are holy' (6d). When Euthyphro replies that what is holy is what is agreeable to the gods, Socrates asks whether something is approved by the gods because it is holy, or holy because approved by the gods (10a). This is akin to the famous medieval dispute whether God is constrained to do what is good (Thomistic), or whether whatever God desires thereby becomes good (Scotist). The former restricts God's omnipotence, while the latter introduces the terrifying possibility of a malevolent God. Both Socrates and Euthyphro affirm that what is holy is approved by the gods by virtue of its possessing the quality of holiness. This move displaces the centrality of the gods from the determination of what holiness is, and Socrates further restricts holiness to a species of justice. Holiness becomes 'that part of the just which is'concerned with looking after the gods' (12e). Looking after the gods concerns commerce or exchange with the gods, a 'science of sacrifice &#91;donation&#93; and prayer &#91;request&#93;.' Socrates draws the relentless conclusion that 'holiness would be a kind of skill in trading between gods and men' (14e). This is of course a circular argument, which does not escape the logic of exchange, because then holiness is generated through and by approval of the gods (and humans), which is precisely the standpoint rejected earlier in the dialogue. This disturbing conclusion is what prompts Socrates to try to begin again to discover what holiness is, despite his impending trial, and Euthyphro to think of somewhere else he urgently needs to be and take off.
 
 [^7]: Here we could ask, in a Heideggerian/Derridean vein, what is de-onto-theo-logy?
 

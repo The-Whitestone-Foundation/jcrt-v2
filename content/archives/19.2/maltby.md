@@ -19,4 +19,15 @@ issue: 2
 season: spring
 year: 2020
 pages: 295-325
+subjects:
+  - label: "Christian fiction"
+    scheme: "FAST"
+    identifier: "fst00859135"
+    uri: "https://id.worldcat.org/fast/859135"
+    category: "topical"
+  - label: "Christian literature"
+    scheme: "FAST"
+    identifier: "fst00859222"
+    uri: "https://id.worldcat.org/fast/859222"
+    category: "topical"
 ---

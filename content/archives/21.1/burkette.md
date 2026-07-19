@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2022
 pages: 44-65
+subjects:
+  - label: "Faith"
+    scheme: "FAST"
+    identifier: "fst01198492"
+    uri: "https://id.worldcat.org/fast/1198492"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---

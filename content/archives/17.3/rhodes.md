@@ -16,4 +16,15 @@ issue: 3
 season: summer
 year: 2018
 pages: 527-557
+subjects:
+  - label: "Communism"
+    scheme: "FAST"
+    identifier: "fst00870421"
+    uri: "https://id.worldcat.org/fast/870421"
+    category: "topical"
+  - label: "Politics, Practical"
+    scheme: "FAST"
+    identifier: "fst01069977"
+    uri: "https://id.worldcat.org/fast/1069977"
+    category: "topical"
 ---

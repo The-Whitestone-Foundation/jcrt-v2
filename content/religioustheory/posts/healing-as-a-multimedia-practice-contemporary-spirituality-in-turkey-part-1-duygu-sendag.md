@@ -21,6 +21,17 @@ tags:
   - contemporary
   - spiritual
   - religion
+subjects:
+  - label: "Anthropology of religion"
+    scheme: "FAST"
+    identifier: "fst01738842"
+    uri: "https://id.worldcat.org/fast/1738842"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 ## The following article is published in three installments.
 
@@ -60,7 +71,7 @@ The history of therapeutic media goes back to the emergence of psychology as a m
 
 Most scholars recognize the central role of healing in contemporary spiritual practices. However, there has been insufficient exploration into the specific meanings this complex notion has acquired within contemporary spiritual forms. I believe that the elevated status of healing in contemporary societies often obscures its potential negative connotations or its peripheral position within various religious and spiritual cultures. The excerpt from Hervieu-Léger’s work, wherein she describes healing as one of the three primary themes of new spiritualities, aptly illustrates my point:
 
-The first thematic focus, and undoubtedly the most central, is that of the representations and expectations relating to health and healing. It will rightly be pointed out that the centrality of the theme of healing in contemporary forms of faith does not present any *originality* \[emphasis added\]. Protection against disease concerns the mortality of humans, which is already a central object of all known forms of magic. The return to health constitutes, *in all human societies* \[emphasis added\]one of the main purposes of ritual mobilization and supernatural powers. No religion fails to address, though in varying forms, the fundamental human urge to escape suffering and illness (Translation from French is mine).[^16]
+The first thematic focus, and undoubtedly the most central, is that of the representations and expectations relating to health and healing. It will rightly be pointed out that the centrality of the theme of healing in contemporary forms of faith does not present any *originality* &#91;emphasis added&#93;. Protection against disease concerns the mortality of humans, which is already a central object of all known forms of magic. The return to health constitutes, *in all human societies* &#91;emphasis added&#93;one of the main purposes of ritual mobilization and supernatural powers. No religion fails to address, though in varying forms, the fundamental human urge to escape suffering and illness (Translation from French is mine).[^16]
 
 In the above passage, an unquestioned relationship is assumed between healing and spirituality, and healing is framed, in a way, as the ultimate function of religion/spirituality. I consider Régis Dericquebourg’s book, *Croire et Guérir* (*To* *Believe and to Heal*), particularly important in this respect, because he adopts a historical perspective and refrains from assigning a fixed position to healing in religious discourse. Dericquebourg’s main argument is that while healing was only peripherical within the matrix of other theological notions, it constitutes the central pillar of practices and doctrines for religions founded through the late 19th and the early 20th centuries.[^17] Moreover, although terms like ‘healing,’ ‘health,’ ‘illness,’ and ‘suffering’ have been fundamental in shaping human cultures, they do not carry fixed meanings or clear positive/negative connotations. Instead, they work as metaphors for understanding how a social reality is constructed in a specific context.
 

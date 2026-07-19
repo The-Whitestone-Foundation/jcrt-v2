@@ -19,4 +19,25 @@ issue: 3
 season: spring
 year: 2013
 pages: 84-119
+subjects:
+  - label: "Drone aircraft"
+    scheme: "FAST"
+    identifier: "fst00898349"
+    uri: "https://id.worldcat.org/fast/898349"
+    category: "topical"
+  - label: "Terrorism Prevention"
+    scheme: "FAST"
+    identifier: "fst01148123"
+    uri: "https://id.worldcat.org/fast/1148123"
+    category: "topical"
+  - label: "United States"
+    scheme: "FAST"
+    identifier: "fst01204155"
+    uri: "https://id.worldcat.org/fast/1204155"
+    category: "geographic"
+  - label: "War on terrorism"
+    scheme: "FAST"
+    identifier: "fst01403162"
+    uri: "https://id.worldcat.org/fast/1403162"
+    category: "title"
 ---

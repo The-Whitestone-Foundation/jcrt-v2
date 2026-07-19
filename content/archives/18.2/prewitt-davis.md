@@ -19,4 +19,10 @@ issue: 2
 season: spring
 year: 2019
 pages: 290-298
+subjects:
+  - label: "Death of God"
+    scheme: "FAST"
+    identifier: "fst00888713"
+    uri: "https://id.worldcat.org/fast/888713"
+    category: "topical"
 ---

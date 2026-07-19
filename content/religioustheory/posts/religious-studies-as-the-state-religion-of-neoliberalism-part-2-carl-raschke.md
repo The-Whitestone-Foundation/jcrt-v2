@@ -19,6 +19,17 @@ tags:
   - religion
   - political
   - religious
+subjects:
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/religious-studies-as-the-state-religion-of-neoliberalism-carl-raschke/) .*
 

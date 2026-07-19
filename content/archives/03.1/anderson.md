@@ -8,13 +8,13 @@ author: "Carol S Anderson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2001
 ---
 Anderson - Book Profile: Exploring the Anthropology of Religion - JCRT 3.1 
 
-# Book Profile: Exploring the Anthropology of Religion
+## Book Profile: Exploring the Anthropology of Religion
 
 Morton Klass and Maxine K. Weisgrau, eds. _Across the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion_. Boulder, Colorado: Westview Press, 1999. First edition. ISBN 0-8133-2695-8.
 
@@ -25,13 +25,9 @@ Kalamazoo College
 
 A_cross the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion_ is a fine collection of essays on contemporary questions in the anthropology of religion. While the editors focus almost exclusively on anthropology as the disciplinary field for this volume, this book would work equally well in any course that explores methodological questions of comparative religion, the history of religions, or religious syncretism. These collected essays are "designed to help students become acquainted with contemporary scholars of religion at work" (_vii_). _Across the Boundaries of Belief_ easily accomplishes the stated purpose of the editors. The volume also serves as a very useful overview of contemporary scholarship on the questions of studying 'other people's religions.' The essays chosen for reprinting in this volume range in publication date from 1980 to the mid-1990s, and represent a wide geographical range as well as a diverse array of methodologies, usually rooted in original field research or reflections on classic questions in the anthropology of religion and comparative religion. This is a collection that would work quite well for advanced undergraduates and first- or second-year graduate students in the classroom, as well as being a provocative set of articles for faculty members reading outside of her or his discipline and interested lay readers.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Carol S. Anderson. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Carol S. Anderson. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.1/anderson](https://jcrt.org/archives/03.1/anderson/)
 

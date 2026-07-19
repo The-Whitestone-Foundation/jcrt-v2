@@ -8,13 +8,13 @@ author: "Paul Lakeland"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 09
 year: 2001
 ---
 Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
 
-# Book Profile
+## Book Profile
 
 Stanley J. Grenz and John R. Franke, _Beyond Foundationalism: Shaping Theology in a Postmodern Context_. Louisville, KY: Westminster John Knox Press. xi + 298 pages. First edition. ISBN 0-664-25769-0.
 
@@ -29,13 +29,9 @@ Since at least the time of the publication of George Lindbeck's _The Nature of D
 
 > **Paul F. Lakeland** is Professor of Religious Studies at Fairfield University in Connecticut. He teaches courses on the intersection of religion and culture, and on Catholic theology. He is the author of _Theology and Critical Theory_ (1990) and, most recently, of _Postmodernity: Christian Identity in a Fragmented Age_. He is currently an editor of _Religious Studies Review_ and chairs the _Theology and Religious Reflection_ section of the American Academy of Religion.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Paul Lakeland. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Paul Lakeland. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/lakeland](https://jcrt.org/archives/02.3/lakeland/)
 

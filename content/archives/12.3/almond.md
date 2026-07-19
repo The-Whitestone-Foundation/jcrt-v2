@@ -19,4 +19,15 @@ issue: 3
 season: spring
 year: 2013
 pages: 111-124
+subjects:
+  - label: "Messianic era (Judaism)"
+    scheme: "FAST"
+    identifier: "fst01017433"
+    uri: "https://id.worldcat.org/fast/1017433"
+    category: "topical"
+  - label: "South Asian literature"
+    scheme: "FAST"
+    identifier: "fst01127238"
+    uri: "https://id.worldcat.org/fast/1127238"
+    category: "topical"
 ---

@@ -23,4 +23,30 @@ issue: 3
 season: summer
 year: 2010
 pages:
+subjects:
+  - label: "General relativity (Physics)"
+    scheme: "FAST"
+    identifier: "fst00939815"
+    uri: "https://id.worldcat.org/fast/939815"
+    category: "topical"
+  - label: "Jews Identity"
+    scheme: "FAST"
+    identifier: "fst00983278"
+    uri: "https://id.worldcat.org/fast/983278"
+    category: "topical"
+  - label: "Judaism History"
+    scheme: "FAST"
+    identifier: "fst00984315"
+    uri: "https://id.worldcat.org/fast/984315"
+    category: "topical"
+  - label: "Religion and science"
+    scheme: "FAST"
+    identifier: "fst01093848"
+    uri: "https://id.worldcat.org/fast/1093848"
+    category: "topical"
+  - label: "Science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01108336"
+    uri: "https://id.worldcat.org/fast/1108336"
+    category: "topical"
 ---

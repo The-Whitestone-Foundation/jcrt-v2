@@ -21,4 +21,20 @@ issue: 3
 season: spring
 year: 2013
 pages: 161-164
+subjects:
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Political participation"
+    scheme: "FAST"
+    identifier: "fst01069386"
+    uri: "https://id.worldcat.org/fast/1069386"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---

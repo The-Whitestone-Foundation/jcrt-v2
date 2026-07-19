@@ -21,6 +21,17 @@ tags:
   - medieval
   - racism
   - nous
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Racism"
+    scheme: "FAST"
+    identifier: "fst01086616"
+    uri: "https://id.worldcat.org/fast/1086616"
+    category: "topical"
 ---
 *The following is the first part of an article that appeared in July 2016 in Open Theology 2:2016 785-203*.  *It is republished here with the permission of the author.  The second and third installments will be published in the coming weeks.*
 

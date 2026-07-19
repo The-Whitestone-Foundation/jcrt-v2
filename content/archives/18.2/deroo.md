@@ -17,4 +17,10 @@ issue: 2
 season: spring
 year: 2019
 pages: 362-381
+subjects:
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
 ---

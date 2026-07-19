@@ -21,6 +21,32 @@ tags:
   - capital
   - alternative
   - forgiveness
+subjects:
+  - label: "Capital"
+    scheme: "FAST"
+    identifier: "fst00846272"
+    uri: "https://id.worldcat.org/fast/846272"
+    category: "topical"
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Forgiveness"
+    scheme: "FAST"
+    identifier: "fst00932854"
+    uri: "https://id.worldcat.org/fast/932854"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *The following is the third installment of a three-part series.  The link to the first portion can be found [here]( /religioustheory/posts/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-1-daniel-rhodes/).  The link to the second is [here]( /religioustheory/posts/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-2-daniel-rhodes/).*
 
@@ -155,7 +181,7 @@ Redeeming and renewing the time, such an ecclesial practice opens the possibilit
 
 [^15]: McClendon, *Doctrine*, 378.
 
-[^16]: In her explanation of the Anabaptist practice of the open meeting Gayle Gerber Koontz states, “‘seeking together the will of God’ implied an intentional process of discernment through which \[the church\] would come to know the mind of Christ for specific questions or situations. Community discernment was basic to ethics.” See “Meeting in the Power of the Spirit: Ecclesiology, Ethics, and the Practice of Discernment,” in *The Wisdom of the Cross: Essays in Honor of John Howard Yoder*, edited by Stanley Hauerwas, et al. (Grand Rapids, MI: William B. Eerdmans Publishing Co., 1999), 338.
+[^16]: In her explanation of the Anabaptist practice of the open meeting Gayle Gerber Koontz states, “‘seeking together the will of God’ implied an intentional process of discernment through which &#91;the church&#93; would come to know the mind of Christ for specific questions or situations. Community discernment was basic to ethics.” See “Meeting in the Power of the Spirit: Ecclesiology, Ethics, and the Practice of Discernment,” in *The Wisdom of the Cross: Essays in Honor of John Howard Yoder*, edited by Stanley Hauerwas, et al. (Grand Rapids, MI: William B. Eerdmans Publishing Co., 1999), 338.
 
 [^17]: The Rule of Christ was understood by the Radical Reformers as a means of communal organization and discipline that cannot be divorced from a Christology stressing the lordship, or kingly office, of Christ. As Yoder argues, “The rule of Christ was a technical term referring to Jesus’ teaching in Matthew 18:15-20: If believers commit an offense, talk to them about it. The Swiss Brethren made this not simply a good piece of advice in pastoral relationships or personal reconciliation but a definition of the church. These verses in Matthew 18 are the only place in the words of Jesus where the word *church* is used, with the admonition to his disciples to do this. For the Zurich radicals, then, the way to reform the church is by observing the rule of Christ, not by getting city council votes or episcopal rulings. If something is wrong with the church, believers should talk about it. The way to reform a church is to talk to one another, to deal with offenses; the result will be forgiveness and reconciliation.” It was the alternative to a reform by coercion, the alternative to the sword, as Yoder continues, “so *rule of Christ* should not be equated with *ban*. The noncoercive process of admonition and reconciliation is the way to handle conflict; it is the alternative to the sword. The reason we do not use the sword is that we have this other instrument to use in the Christian community.” John Howard Yoder, *Christian Attitudes to War, Peace, and Revolution*, ed. Theodore J. Koontz and Andy Alexis-Baker (Grand Rapids, MI: Brazos Press, 2009), 170, 173.
 

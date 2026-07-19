@@ -22,6 +22,27 @@ tags:
   - political
   - judgment
   - materialism
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Judgment"
+    scheme: "FAST"
+    identifier: "fst00984572"
+    uri: "https://id.worldcat.org/fast/984572"
+    category: "topical"
+  - label: "Materialism"
+    scheme: "FAST"
+    identifier: "fst01011758"
+    uri: "https://id.worldcat.org/fast/1011758"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *“Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment” by Ronald Beiner is published in two parts during successive weeks.  The following is the second portion.  The first installment [can be found here]( /religioustheory/posts/benjamins-concept-of-history-as-a-source-of-arendts-idea-of-judgment-ronald-beiner/).  
 *
@@ -32,7 +53,7 @@ Through shock, arrest, and blasting, historical materialism replaces the homogen
 
 What serves, above all, to differentiate materialist historiography from historicism is that the latter is based on the idea of progress (theses VIII-XIII). It was this faith in progress that enabled the Social Democrats to betray the German working class (thesis XI). But historical materialists cannot share this complacent faith in progress.
 
-Their reflection on history never forgets the fate of the vanquished and therefore is governed by the tragic knowledge that the cultural treasures that are the spoils of the victors “have an origin which \[one\] cannot contemplate without horror”; “there is no document of civilization which is not at the same time a document of barbarism” (thesis VII).
+Their reflection on history never forgets the fate of the vanquished and therefore is governed by the tragic knowledge that the cultural treasures that are the spoils of the victors “have an origin which &#91;one&#93; cannot contemplate without horror”; “there is no document of civilization which is not at the same time a document of barbarism” (thesis VII).
 
 This awareness shatters any complacency on the part of the historian. Social democracy encourages the notion that one is “moving with the current” (thesis XI), whereas the historical materialist “regards it as his task to brush history against the grain” (thesis VII). Historicism finds security in the continuum of history, while historical materialism seeks those charged moments that *explode* the continuum of history through revolutionary action (theses XIV-XV).
 
@@ -135,11 +156,11 @@ No. 128 (July-August, 1981), pp. 52-53. Cf. Tiedemann, “Historical Materialism
 
 29   Theodor Adorno, “A Portrait of Walter Benjamin,” in *Prisms*, trans. Samuel and Shierry Weber (Cambridge, MA: MIT Press, 1982), p. 239.
 
-30 Walter Benjamin, *The Arcades Project*, trans. Howard Eiland and Kevin McLaughlin (Cambridge, MA: Belknap Press, 1999). For a section of *The Arcades Project* that is directly relevant to the “Theses,” see pp. 456-488: “Convolutes,” N \[Theoretics of Knowledge; Theory of Progress\]. Frisby, in “Walter Benjamin’s Prehistory of Modernity,” even though he never refers specifically to the “Theses,” gives a good account of how the “Theses” can be regarded as a methodological introduction to or theoretical armature for *The Arcades Project*.
+30 Walter Benjamin, *The Arcades Project*, trans. Howard Eiland and Kevin McLaughlin (Cambridge, MA: Belknap Press, 1999). For a section of *The Arcades Project* that is directly relevant to the “Theses,” see pp. 456-488: “Convolutes,” N &#91;Theoretics of Knowledge; Theory of Progress&#93;. Frisby, in “Walter Benjamin’s Prehistory of Modernity,” even though he never refers specifically to the “Theses,” gives a good account of how the “Theses” can be regarded as a methodological introduction to or theoretical armature for *The Arcades Project*.
 
 31 *The Arcades Project*, p. 481.
 
-32 Hannah Arendt, *Lectures on Kant’s Political Philosophy*, ed. Ronald Beiner (Chicago: University of Chicago Press, 1989) \[hereafter, *LKPP*\], pp. 63-64 and 65-66.
+32 Hannah Arendt, *Lectures on Kant’s Political Philosophy*, ed. Ronald Beiner (Chicago: University of Chicago Press, 1989) &#91;hereafter, *LKPP*&#93;, pp. 63-64 and 65-66.
 
 33 *LKPP*, pp. 64 and 66.
 

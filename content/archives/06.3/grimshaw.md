@@ -46,4 +46,25 @@ issue: 3
 season: fall
 year: 2005
 pages:
+subjects:
+  - label: "Death of God theology"
+    scheme: "FAST"
+    identifier: "fst00888716"
+    uri: "https://id.worldcat.org/fast/888716"
+    category: "topical"
+  - label: "Secularization (Theology)"
+    scheme: "FAST"
+    identifier: "fst01110740"
+    uri: "https://id.worldcat.org/fast/1110740"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Thomas, J. J."
+    scheme: "FAST"
+    identifier: "fst01474140"
+    uri: "https://id.worldcat.org/fast/1474140"
+    category: "personal"
 ---

@@ -24,6 +24,22 @@ tags:
   - consumption
   - dietary
   - sanctity
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 The religious attitude of the West today demonstrates a consumerist ethos that would have been deeply foreign to the religious discourse of old. Perhaps one of the earliest forms of religion, Shamanism, provides the modern critic with a unique insight into the ethos of the spiritual man of the ancient world. Compared with the post-modern religious consumer, significant changes may be observed in environmental ethics.
 

@@ -17,6 +17,12 @@ tags:
   - economic
   - biological
   - economy
+subjects:
+  - label: "Race Religious aspects"
+    scheme: "FAST"
+    identifier: "fst01086444"
+    uri: "https://id.worldcat.org/fast/1086444"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -76,11 +82,11 @@ Without a nomos centered on political legitimacy and the power balance of equall
 
 Michel Foucault’s genealogy of biopolitics in the lectures collected under the titles *Security, Territory, Population* and *The Birth of Biopolitics* illuminates this modern nomos of liberal and neoliberal economy as deeply tied to the emergence of a “governmentality” that has eclipsed the old order of medieval sovereignty. As Foucault is commonly interpreted, governmentality seeks to substitute the market and “the norm” (as social regulation) for the paradigm of sovereignty as the “legal command.”
 
-In contrast to sovereignty, governmentality operates not primarily around the law as an arbiter of justice but through political economy where the market and its natural production of order exemplifies the site of truth for all governmental practice. It is the market’s “role of veridiction that will command, dictate, and prescribe the jurisdictional mechanisms, or absence of such mechanisms, on which \[the market\] must be articulated.”[^22] While this substitution of market for law is often posed in terms of Foucault’s focus on norms at the exclusion of attention to positive law, Miguel Vatter argues that Foucault’s genealogy should actually be read in terms of a recovery of the category of nomos that holds together the two sides in a kind of productive tension.[^23]
+In contrast to sovereignty, governmentality operates not primarily around the law as an arbiter of justice but through political economy where the market and its natural production of order exemplifies the site of truth for all governmental practice. It is the market’s “role of veridiction that will command, dictate, and prescribe the jurisdictional mechanisms, or absence of such mechanisms, on which &#91;the market&#93; must be articulated.”[^22] While this substitution of market for law is often posed in terms of Foucault’s focus on norms at the exclusion of attention to positive law, Miguel Vatter argues that Foucault’s genealogy should actually be read in terms of a recovery of the category of nomos that holds together the two sides in a kind of productive tension.[^23]
 
 Vatter interprets biopolitical and neoliberal nomos as one that “integrates the sphere of law into the sphere of order” as the basis of a biopolitics that targets the body (individual and collective) as a living organism by imposing a normative order upon it meant to control and harness it, or, in Foucauldian terms, “make it live.” Foucault, drawing on Canguilhem, defines the norm within this frame as the form of social regulation conceived precisely around the idea of biological normativity, which is to say, an *autopoietically* regulated distinction between the normal and the pathological.[^24] The neoliberal nomos gathers law, order, and life under this autopoietic distinction, framing it in terms of an internally regulated body of norms.
 
-The norm, Foucault writes, seeks “an ordered maximization of collective and individual forces,”[^25] amounting to a “biologization of the law,” or the “modeling of law onto the internal normativity of \[autopoietic\] life, which gives rise to the phenomenon of a ‘civil society’ that appears ‘self-regulated’ and thus endowed with a ‘nature’ of its own.”[^26] In this way, the neoliberal nomos is consistent with its original meaning of appropriation and spacialization, now with a biological and autopoietic inflection of natural and self-regulating order rooted in the appropriation of life itself toward a normative order.
+The norm, Foucault writes, seeks “an ordered maximization of collective and individual forces,”[^25] amounting to a “biologization of the law,” or the “modeling of law onto the internal normativity of &#91;autopoietic&#93; life, which gives rise to the phenomenon of a ‘civil society’ that appears ‘self-regulated’ and thus endowed with a ‘nature’ of its own.”[^26] In this way, the neoliberal nomos is consistent with its original meaning of appropriation and spacialization, now with a biological and autopoietic inflection of natural and self-regulating order rooted in the appropriation of life itself toward a normative order.
 
 Here, the (neo)liberal “rule of law” is not so much about prohibition or even legislation, but rather providing an ordered economic space (i.e. the market) in which life as autopoietic normalization can be placed. “Neoliberalism,” Vatter writes, “is impossible without this creative reappropriation of the idea of *nomos* or substantive ‘normative order.’”[^27]
 

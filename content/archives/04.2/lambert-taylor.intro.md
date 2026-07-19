@@ -8,13 +8,13 @@ author: "Victor Taylor; Gregg Lambert"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2003
 ---
 Taylor & Lambert - The Future of Theory - JCRT 4.2 
 
-# The Future of Theory
+## The Future of Theory
 
 Victor Taylor  
 York College of Pennsylvania
@@ -44,7 +44,7 @@ Syracuse University
 
 The future of theory, similar to its past, will be Promethean. The legendary, heretical writings since 1967 ('Structure, Sign, and Play in the Discourse of the Human Sciences") or 1916 (_Course in General Linguistics_) or ca 330 B.C.E. ("Encomium of Helen") forming the _corpus_ of theory remain the "inexplicable mass" giving rise to a desire to explain, to refute, to show, and to occasionally hide the contours of its own "image of thought."
 
-    > Let nobody suppose that one could possibly avoid such crippling by some artifice of education. On this earth one pays dearly for every kind of _mastery_ . . . For having a specialty one pays by also being the victim of this specialty. But you would have it otherwise--cheaper and fairer and above all more comfortable--isn't that right, my dear contemporaries. Well then, but in that case you also immediately get something else: instead of the craftsman and master, the "man of letters," the dexterous, "polydexterous" man of letters who, to be sure, lacks the hunched back--not counting the posture he assumes before you, being the salesman of the spirit and the "carrier" of culture--the man of letters who really _is_ nothing but "represents" almost everything, playing and "substituting" for the expert, and taking it upon himself in all modesty to get himself paid, honored, and celebrated in place of the expert.[^2]
+> Let nobody suppose that one could possibly avoid such crippling by some artifice of education. On this earth one pays dearly for every kind of _mastery_ . . . For having a specialty one pays by also being the victim of this specialty. But you would have it otherwise--cheaper and fairer and above all more comfortable--isn't that right, my dear contemporaries. Well then, but in that case you also immediately get something else: instead of the craftsman and master, the "man of letters," the dexterous, "polydexterous" man of letters who, to be sure, lacks the hunched back--not counting the posture he assumes before you, being the salesman of the spirit and the "carrier" of culture--the man of letters who really _is_ nothing but "represents" almost everything, playing and "substituting" for the expert, and taking it upon himself in all modesty to get himself paid, honored, and celebrated in place of the expert.[^2]
 
 > 'Victor Taylor and Gregg Lambert
 
@@ -67,13 +67,9 @@ The future of theory, similar to its past, will be Promethean. The legendary, he
 
 > **Gregg Lambert** is Associate Professor and Director of Graduate Studies of English and Textual Studies at Syracuse University. He is the author of _The Non-Philosophy of Gilles Deleuze_ (Continuum, 2002), _Report to the Academy_ (Davies, 2001), _The Return of the Baroque: Art, Culture, and Theory in the Modern Age_ (Continuum, forthcoming), and co-editor (with Ian Buchanan) of _Deleuze and Space_ (Edinburgh UP, forthcoming). His essays on theory and continental philosophy have appeared in many international journals and collected editions, including essays on aliens in contemporary art and on psychoanalysis and religion in earlier issues of _The Journal of Cultural and Religious Theory_ (see archive).
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2003 Victor Taylor & Gregg Lambert. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 Victor Taylor & Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/lambert-taylor.intro](https://jcrt.org/archives/04.2/lambert-taylor.intro/)
 
@@ -97,6 +93,6 @@ Updated 07/28/21.
 
 [^7]:  "If theory is reduced to the ghost of itself," writes Jean-Michel Rabat', "then this is a very obtrusive ghost that keeps walking and shaking its chains in our academic castles."[^3] Ghosts have futures, too, ironically. This point, through a careful historical and theoretical analysis, is emphasized throughout Jean-Michel's Rabat''s recent book, _The Future of_ Theory, which is featured in this issue of _The Journal for Cultural and Religious Theory_. Theory, while obtrusive, is not dead and the attempts in the academy, particularly in literary studies, to declare it so have, in many ways, resuscitated "theory's ghost"; that is to say, in making a ghost of theory, it has included by exclusion the _trace_ of "theory" within all intellectual work today.
 
-[^8]:  The "death of theory" proposition requires that one accept that much of theory was "the very coinage of \[our\] brain."[^4] Have we, like Hamlet, been bending our eye on "vacancy"? Have we been that wrong? Have we been indebted to something so . . . meaningless? If one believes in the "death of theory," the answer is simply (or stupidly) "yes." The "death of theory" phenomenon refuses theory or, what amounts to the same thing, refuses to engage theory, which is very different from theory "being" dead. At the same time, theory refuses to be dead or disengaged, to invest in the very fatal flaw that has been assigned to it'"bending on vacancy," clamped to the realms of ideas, while the "real" world remains untouched and untransformed, an "inexplicable mass." Clearly, the opposite is true. Theory is an engagement with the Real, with the limits of all representation, and the refusal of theory (not to be confused with theory's own promethean refusal) has been, ironically, a return to the positivistic goals of a pre-theoretical understanding of history, and to the ageless belief in a "verb" that will finally effect that magical leap into practice. Consequently, we believe that the future of theory will be the same as its past: the story of its being forgotten, "left behind" and then suddenly returned, a return that also occupies the future since, no doubt, it will be forgotten and "left behind" again.
+[^8]:  The "death of theory" proposition requires that one accept that much of theory was "the very coinage of &#91;our&#93; brain."[^4] Have we, like Hamlet, been bending our eye on "vacancy"? Have we been that wrong? Have we been indebted to something so . . . meaningless? If one believes in the "death of theory," the answer is simply (or stupidly) "yes." The "death of theory" phenomenon refuses theory or, what amounts to the same thing, refuses to engage theory, which is very different from theory "being" dead. At the same time, theory refuses to be dead or disengaged, to invest in the very fatal flaw that has been assigned to it'"bending on vacancy," clamped to the realms of ideas, while the "real" world remains untouched and untransformed, an "inexplicable mass." Clearly, the opposite is true. Theory is an engagement with the Real, with the limits of all representation, and the refusal of theory (not to be confused with theory's own promethean refusal) has been, ironically, a return to the positivistic goals of a pre-theoretical understanding of history, and to the ageless belief in a "verb" that will finally effect that magical leap into practice. Consequently, we believe that the future of theory will be the same as its past: the story of its being forgotten, "left behind" and then suddenly returned, a return that also occupies the future since, no doubt, it will be forgotten and "left behind" again.
 
 [^9]:  _The Future of Theory_ (special issue) is an endeavor to coordinate "theory's" possible points of its return. In the "trans-genre" forms of interview, review, critical essay, and reflection, a time for the future of theory is considered in relation to the ways it has been "dead." Each declaration of theory's demise presumes that theory was/is something'a set of rules or key concepts that fall or have fallen out of favor. Much of theory, however, is what one desires it to be, often and generically the opposite of everything that defines its current representation. Thus, the "future of theory" is, as it always was, yet unwritten and it will remain so until someone gives this future a proper name that it will never cease in refusing.

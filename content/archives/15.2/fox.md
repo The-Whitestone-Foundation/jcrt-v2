@@ -18,4 +18,15 @@ issue: 2
 season: spring
 year: 2016
 pages:
+subjects:
+  - label: "Feminists"
+    scheme: "FAST"
+    identifier: "fst00922831"
+    uri: "https://id.worldcat.org/fast/922831"
+    category: "topical"
+  - label: "Sculpture"
+    scheme: "FAST"
+    identifier: "fst01109483"
+    uri: "https://id.worldcat.org/fast/1109483"
+    category: "topical"
 ---

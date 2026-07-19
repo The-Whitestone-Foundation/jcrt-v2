@@ -23,10 +23,36 @@ tags:
   - reality
   - political
   - mystical
+subjects:
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Sufism"
+    scheme: "FAST"
+    identifier: "fst01137257"
+    uri: "https://id.worldcat.org/fast/1137257"
+    category: "topical"
 ---
 *The following is the second installment of a three-part series.  The first can be found [here]( /religioustheory/posts/transmodern-sufism-or-stepping-with-levinas-on-the-footprints-of-a-speculative-sufism-not-re-framed-by-20th-century-orientalists-part-1-philipp-valentini/).*
 
-A non-Paulinian theology understands the Law not as a whole but as an indefinite set of rules where each rule is split between the conversations it opens on the meanings it expresses and the action it performs. The excess of meaning that organizes the social interactions is the signifier “whole of wisdom” as it appears in the above mentioned sentence of Lévinas – *la sagesse talmudique* or in the sentence attributed to Imam Malik that works as an authoritative refrain in those debates that wish to show the compatibility of juridical thinking with Sufism: “Whoever studies jurisprudence \[fiqh\] and didn’t study Sufism (tasawwuf) will be corrupted; and whoever studied tasawwuf and didn’t study fiqh will become a heretic; and whoever combined both will be reach the Truth”[^1] .
+A non-Paulinian theology understands the Law not as a whole but as an indefinite set of rules where each rule is split between the conversations it opens on the meanings it expresses and the action it performs. The excess of meaning that organizes the social interactions is the signifier “whole of wisdom” as it appears in the above mentioned sentence of Lévinas – *la sagesse talmudique* or in the sentence attributed to Imam Malik that works as an authoritative refrain in those debates that wish to show the compatibility of juridical thinking with Sufism: “Whoever studies jurisprudence &#91;fiqh&#93; and didn’t study Sufism (tasawwuf) will be corrupted; and whoever studied tasawwuf and didn’t study fiqh will become a heretic; and whoever combined both will be reach the Truth”[^1] .
 
 This last sentence is important as it brings together the study of singular cases (*fiqh*) and the practice of the science of wisdom (Sufism). It doesn’t directly bring together the signifier Shari’a (which in the Muslim mind evokes, among other meanings, the whole of the Law) with the signifier Sufism. This means that in transmodern Islam, the religious Law is not governed by the exceptional status of the political authority but establishes instead a political relative autonomy[^2] from the political ruler. These dynamics are highly discursive as they depend on the fiction of the general agreement of all scholars, something that as such doesn’t exist and thus translates the ‘whole of wisdom’ that is sought and constantly re-created behind the links that are discursively forged between the customs and the divine speech (Qur’an and the sayings of the prophet Muhammad).
 

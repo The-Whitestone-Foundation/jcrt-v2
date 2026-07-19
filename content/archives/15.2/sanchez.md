@@ -19,4 +19,10 @@ issue: 2
 season: spring
 year: 2016
 pages:
+subjects:
+  - label: "People with disabilities"
+    scheme: "FAST"
+    identifier: "fst01057245"
+    uri: "https://id.worldcat.org/fast/1057245"
+    category: "topical"
 ---

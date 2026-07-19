@@ -18,6 +18,22 @@ tags:
   - politics
   - radical
   - capitalism
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Culp, Andrew. *Dark Deleuze* (Forerunners: Ideas First). Minneapolis: University of Minnesota Press, 2016. ISBN 10:** **1517901332** **Paperback, e-book. 90 pages.**
 
@@ -35,7 +51,7 @@ No doubt, many readers of *Dark Deleuze* are Deleuzians themselves, and so the t
 
 Seasoned readers of Deleuze will recognize, in each of these contraries (or “nondialectical negations,” as Culp describes them), concepts that have caused no small consternation for Deleuze scholarship. The dangers of reading Deleuze tend to often coincide with the boons of reading Deleuze. Since Deleuze’s thought is rarely systematic and almost always an intervention into one debate or another, he often appears to hesitate between seemingly opposed concepts, such as cut and fold, interruption and flow, univocity and equivocity, and so on.
 
-Decisively, Culp sees this not as a weakness in Deleuze’s thought, but one of its great strengths—namely, the ability to adapt, strategize and act *in thought*. Thought becomes a life, irreducible to life in general or even to “bare life.”[^1] In other words: thought becomes, or is in itself, politics. Hence the wisdom of his admonishment at the outset of the text: “there is something absolutely essential in \[Deleuze’s\] work, but it would be best not to take it at face value” (4). Deleuzians at large would do well to take heed of this advice.
+Decisively, Culp sees this not as a weakness in Deleuze’s thought, but one of its great strengths—namely, the ability to adapt, strategize and act *in thought*. Thought becomes a life, irreducible to life in general or even to “bare life.”[^1] In other words: thought becomes, or is in itself, politics. Hence the wisdom of his admonishment at the outset of the text: “there is something absolutely essential in &#91;Deleuze’s&#93; work, but it would be best not to take it at face value” (4). Deleuzians at large would do well to take heed of this advice.
 
 I won’t waste the reader’s time cataloging my agreements and disagreements with each of Culp’s contraries—they deserve to be rigorously evaluated one by one—but it is clear that Culp has done his homework, and that his heterodoxy is genuine. Of note are the critiques of procedural democracy (41-43), the searing takedown of Nick Land’s accelerationist project (44-48), and the pervasive emphasis on the powers of the outside (56-59). The section on the subject and the genesis of subjectivity from shame, misery and disgust as much as wonder and freedom, is exemplary of the possibility of a radical politics that dispenses with guilt and innocence as primary categories, ensconced as these latter are in a Christian-capitalist libidinal economy (26-29).![dark deleuze](/images/2016/07/dark-deleuze.webp)
 

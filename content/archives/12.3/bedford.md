@@ -18,4 +18,15 @@ issue: 3
 season: spring
 year: 2013
 pages: 55-83
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Marxian economics"
+    scheme: "FAST"
+    identifier: "fst01010951"
+    uri: "https://id.worldcat.org/fast/1010951"
+    category: "topical"
 ---

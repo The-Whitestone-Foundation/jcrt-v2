@@ -22,6 +22,27 @@ tags:
   - subject
   - philosophy
   - intuition
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Intuition"
+    scheme: "FAST"
+    identifier: "fst00977856"
+    uri: "https://id.worldcat.org/fast/977856"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the first installment of a three-part series.  Translated by Philipp Schlögl.*
 
@@ -87,9 +108,9 @@ The way in which aesthetic experience can symbolize and express this difference 
 ## Footnotes
 
 
-[^1]: J. Ch. F. Hölderlin*, Theoretische Schriften*, ed. by Johann Kreuzer, Hamburg, 1998 \[below TS\], 15; Friedrich Hölderlin, *Essays and Letters* ed. and translated with an Introduction by Jeremy Adler and Charlie Louth, London 2009 \[below EaL\].
+[^1]: J. Ch. F. Hölderlin*, Theoretische Schriften*, ed. by Johann Kreuzer, Hamburg, 1998 &#91;below TS&#93;, 15; Friedrich Hölderlin, *Essays and Letters* ed. and translated with an Introduction by Jeremy Adler and Charlie Louth, London 2009 &#91;below EaL&#93;.
 
-[^2]: TS 10-15; Cf. Friedrich Hölderlin, *Sämtliche Werke*, Stuttgarter Hölderlin-Ausgabe in acht Bänden, ed. by Friedrich Beissner, Stuttgart 1946-1985 \[below StA\], StA 4.1, 275-279, 416f and StA 4.2, 786-793; cf. Friedrich Hölderlin, *Sämtlicher Werke und Briefe*, Münchener Ausgabe, ed. by Michael Knaupp, Darmstatt 1998 \[below MA\], MA III, 387-389. For a reconstruction of the text cf. Michael Franz., *Einige Editorische Probleme von Hölderlins theoretischen Schriften. Zur Textkritik von ‚Seyn, Urtheil, Modalität’, ‚Über den Begriff der Straffe’ und ‚Fragment philosophischer Briefe’*, in: HJb 2000/01, 330-344, here: 335-344. An interpretation of the text is given by Kreuzer, cf. TS XV-XVIII and 120f; id., *Zeit, Sprache, Erinnerung: Die Zeitlogik der Dichtung*, in: ders (Hg.), *Hölderlin-Handbuch. Leben – Werk – Wirkung*, Stuttgart 2002/2011, 147-161; Michael Franz, *Theoretische Schriften*, in: Johann Kreuzer (Hg.), *Hölderlin-Handbuch*, 224-246, here: 232-236; Paul Böckmann, *Hölderlin und seine Götter*, München 1935, 203-210; Ulrich Gaier, *„So wäre alle Religion ihrem Wesen nach poetisch.“ Säkularisierung der Religion und Sakralisierung der Poesie bei Herder und Hölderlin*, in: Silvio Vietta/Herbert Uerlings (Hg.) *Ästhetik – Religion – Säkularisierung I. Von der Renaissance zur Romantik*, München 2008, 75-92, especially: 83-85; 91f; Charlie Louth, *„jene zarten Verhältnisse“. Überlegungen zu Hölderlins Aufsatzbruchstück* Über Religion / Fragment philosophischer Briefe, in: HJB 39 (2014/15), 124-138.
+[^2]: TS 10-15; Cf. Friedrich Hölderlin, *Sämtliche Werke*, Stuttgarter Hölderlin-Ausgabe in acht Bänden, ed. by Friedrich Beissner, Stuttgart 1946-1985 &#91;below StA&#93;, StA 4.1, 275-279, 416f and StA 4.2, 786-793; cf. Friedrich Hölderlin, *Sämtlicher Werke und Briefe*, Münchener Ausgabe, ed. by Michael Knaupp, Darmstatt 1998 &#91;below MA&#93;, MA III, 387-389. For a reconstruction of the text cf. Michael Franz., *Einige Editorische Probleme von Hölderlins theoretischen Schriften. Zur Textkritik von ‚Seyn, Urtheil, Modalität’, ‚Über den Begriff der Straffe’ und ‚Fragment philosophischer Briefe’*, in: HJb 2000/01, 330-344, here: 335-344. An interpretation of the text is given by Kreuzer, cf. TS XV-XVIII and 120f; id., *Zeit, Sprache, Erinnerung: Die Zeitlogik der Dichtung*, in: ders (Hg.), *Hölderlin-Handbuch. Leben – Werk – Wirkung*, Stuttgart 2002/2011, 147-161; Michael Franz, *Theoretische Schriften*, in: Johann Kreuzer (Hg.), *Hölderlin-Handbuch*, 224-246, here: 232-236; Paul Böckmann, *Hölderlin und seine Götter*, München 1935, 203-210; Ulrich Gaier, *„So wäre alle Religion ihrem Wesen nach poetisch.“ Säkularisierung der Religion und Sakralisierung der Poesie bei Herder und Hölderlin*, in: Silvio Vietta/Herbert Uerlings (Hg.) *Ästhetik – Religion – Säkularisierung I. Von der Renaissance zur Romantik*, München 2008, 75-92, especially: 83-85; 91f; Charlie Louth, *„jene zarten Verhältnisse“. Überlegungen zu Hölderlins Aufsatzbruchstück* Über Religion / Fragment philosophischer Briefe, in: HJB 39 (2014/15), 124-138.
 
 [^3]: Cf. Dieter Henrich, *Der Grund im Bewusstsein*; Christoph Jamme, *„Ein ungelehrtes Buch“. Die philosophische Gemeinschaft zwischen Hölderlin und Hegel in Frankfurt 1797-1800* (Hegel-Studien, Beiheft 23), Bonn 1983; Violetta Waibel, *Wechselbestimmung. Zum Verhältnis von Hölderlin, Schiller und Fichte in Jena*, in: Schrader (Hg.), *Fichte und die Romantik*, 43-69.
 
@@ -101,7 +122,7 @@ The way in which aesthetic experience can symbolize and express this difference 
 
 [^7]: Brief 104, 4. September 1795, MA II, 595f/EaL 61-63, here: 62.
 
-[^8]: Immanuel Kant, *Kritik der reinen Vernunft,* ed. by Jens Timmerman, Hamburg 1998 \[below KrV\], KrV, B 352/Immanuel Kant, *Critique of Pure Reason*, translated and edited by Paul Guyer and Allen W. Wood, Cambridge 1998, 385 \[below CPR\].
+[^8]: Immanuel Kant, *Kritik der reinen Vernunft,* ed. by Jens Timmerman, Hamburg 1998 &#91;below KrV&#93;, KrV, B 352/Immanuel Kant, *Critique of Pure Reason*, translated and edited by Paul Guyer and Allen W. Wood, Cambridge 1998, 385 &#91;below CPR&#93;.
 
 [^9]: Cf. for example the statement about the three cardinal theorems about the *freedom of the will, the immortality of the soul and the existence of God*: “If, then, these three cardinal propositions are not at all necessary for our knowing, and yet are insistently recommended to us by our reason, their importance must really concern only the practical.” (Kant, KrV, B 827f/Kant, CPR, 674)
 
@@ -121,7 +142,7 @@ The way in which aesthetic experience can symbolize and express this difference 
 
 [^17]: Kant writes about „the form of intuition, which, since it does not represent anything except insofar as something is posited in the mind, can be nothing other than the way in which the mind is affected by its own activity, namely this positing of its representation, thus the way it is affected through itself, i.e., it is an inner sense as far as regards its form“ (Kant, KrV B 67f/Kant, CPR, 189).
 
-[^18]: Kurt Appel, *Vom Preis des Gebetes*, in: ID., *Preis der Sterblichkeit. Christentum und neuer Humanismus* (QD 271), Freiburg 2015, 186-228, here: 209 \[Translation: Philipp Schlögl\].
+[^18]: Kurt Appel, *Vom Preis des Gebetes*, in: ID., *Preis der Sterblichkeit. Christentum und neuer Humanismus* (QD 271), Freiburg 2015, 186-228, here: 209 &#91;Translation: Philipp Schlögl&#93;.
 
 [^19]: Cf. Appel, *Vom Preis des Gebetes*, 208-210.
 

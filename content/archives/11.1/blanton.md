@@ -35,4 +35,25 @@ issue: 1
 season: winter
 year: 2010
 pages:
+subjects:
+  - label: "Christian saints in art"
+    scheme: "FAST"
+    identifier: "fst00859513"
+    uri: "https://id.worldcat.org/fast/859513"
+    category: "topical"
+  - label: "Life"
+    scheme: "FAST"
+    identifier: "fst01198505"
+    uri: "https://id.worldcat.org/fast/1198505"
+    category: "topical"
+  - label: "Power (Social sciences)"
+    scheme: "FAST"
+    identifier: "fst01074219"
+    uri: "https://id.worldcat.org/fast/1074219"
+    category: "topical"
+  - label: "Subject (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01136447"
+    uri: "https://id.worldcat.org/fast/1136447"
+    category: "topical"
 ---

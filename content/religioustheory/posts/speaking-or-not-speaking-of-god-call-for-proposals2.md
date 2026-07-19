@@ -17,6 +17,12 @@ tags:
   - presence
   - cultural
   - dialectic
+subjects:
+  - label: "Dialectic"
+    scheme: "FAST"
+    identifier: "fst00892462"
+    uri: "https://id.worldcat.org/fast/892462"
+    category: "topical"
 ---
 ## Speaking (Or Not Speaking) of God
 

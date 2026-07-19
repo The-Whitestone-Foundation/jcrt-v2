@@ -23,18 +23,49 @@ tags:
   - possibility
   - metaphysics
   - politics
+subjects:
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Possibility"
+    scheme: "FAST"
+    identifier: "fst01072695"
+    uri: "https://id.worldcat.org/fast/1072695"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 *The following is the second of a three-part series. The first can be found [here]( /religioustheory/posts/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-1-jake-sirota/).*
 
-At this point Derrida’s appraisal of Heidegger’s *Introduction to Metaphysics* becomes crucial, for if, as Derrida says, “the *Address* relaunches and confirms the essential elements of *Sein und Zeit*, so the *Einführung* \[*Intr. to Meta*.\] repeats the invocation of spirit launched in the *Address.*”[^1] The *Introduction* develops the precise mechanics of the link between Being and spirit which the address leaves unsaid, and as Derrida puts it, “it even relaunches it, explains it, extends it, justifies it, specifies it, surrounds it with unprecedented precautions.”[^2] Derrida’s reading will be supported by what is eventually found in the Black Notebooks, and particularly in *Ponderings* IIand III, though he never had access to them.[^3]
+At this point Derrida’s appraisal of Heidegger’s *Introduction to Metaphysics* becomes crucial, for if, as Derrida says, “the *Address* relaunches and confirms the essential elements of *Sein und Zeit*, so the *Einführung* &#91;*Intr. to Meta*.&#93; repeats the invocation of spirit launched in the *Address.*”[^1] The *Introduction* develops the precise mechanics of the link between Being and spirit which the address leaves unsaid, and as Derrida puts it, “it even relaunches it, explains it, extends it, justifies it, specifies it, surrounds it with unprecedented precautions.”[^2] Derrida’s reading will be supported by what is eventually found in the Black Notebooks, and particularly in *Ponderings* IIand III, though he never had access to them.[^3]
 
 As Derrida succinctly puts it, the relevant thrust of the *Introduction* is that “One could say that he spiritualizes National Socialism”[^4] by characterizing spirit in terms of the “blood and earth” of the German people, by virtue of which they might create a spiritual world which resists the “great pincer” of Russia and America’s “mathematical-technological thinking of the modern age.”[^5] [^6] What is called the “battle community” of German teachers and students in the *Address* must be ready to take up willful arms against that time when “the spiritual strength of the West falls and the joints of the world no longer hold,”[^7] such that Germany’s “splendor and greatness” might persist.[^8]
 
 As Derrida reads it, Heidegger’s dogged attempts to get back behind the Greeks – to employ spirit in dissolving the rhetoric of subjectivity and truth upon which the history of metaphysics relies, and towards which he levels *Destruktion* – “is not just a risk run,” but one realized. The risk that is run by tying this metaphysical goal to the German people – and to emphasize the conceptual chain, thus back to the spatiality of Dasein – results in “terrifying contaminations:”[^9]
 
-If its \[the *Rectoral Address*\] program seems diabolical, it is because, *without there being anything fortuitous in this*, it capitalizes on the worst, that is on both evils at once: the sanctioning of Nazism, and the gesture that is still metaphysical.
+If its &#91;the *Rectoral Address*&#93; program seems diabolical, it is because, *without there being anything fortuitous in this*, it capitalizes on the worst, that is on both evils at once: the sanctioning of Nazism, and the gesture that is still metaphysical.
 
-And if “the *Address* relaunches and confirms the essential elements of *Sein und Zeit*, so the *Einführung* \[*Intr. to Meta*.\] repeats the invocation of spirit launched in the *Address.*”[^10] That is to say simply that if the *Address* picks up on faith where it is left open in *BT* and modulates it into spirit, then *IM* takes spirit over from the *Address* and furthers its embeddedness in Heidegger’s project*.*
+And if “the *Address* relaunches and confirms the essential elements of *Sein und Zeit*, so the *Einführung* &#91;*Intr. to Meta*.&#93; repeats the invocation of spirit launched in the *Address.*”[^10] That is to say simply that if the *Address* picks up on faith where it is left open in *BT* and modulates it into spirit, then *IM* takes spirit over from the *Address* and furthers its embeddedness in Heidegger’s project*.*
 
 Derrida registers that this shift between the rectoral address and *IM* accompanies a shift in thinking for Heidegger about the possibility of questioning itself: “…if nothing precedes the question in its freedom, not even the introduction to questioning, then the spirit of spiritual conduction… can be interpreted, through and through, as the possibility of questioning.”[^11] This is to say simply that by the *Introduction*, Heidegger shifts from thinking the questioning of Being as a given possibility to thinking about the *very possibility* of the *Seinsfrage*.
 
@@ -58,13 +89,13 @@ For Derrida, “all this conducts the *Einführung* back to the *Rectorship Addr
 
 What was perplexing to the Derrida who wrote *Of Spirit* is no less so to the Derrida of *Geschlecht III*.[^19] While by 1953, when Heidegger wrote “Die Sprache im Gedicht,” he was of course no longer formally and publicly associated with political Nazism, many of the nationalistic sentiments which led to the ‘spiritualizing’ of Nazism in the first place remained intact. In fact he only intensifies his antagonism towards Christianity through his assessment of Trakl. And yet, for all the digressions and distancing we have noted thus far, Derrida nevertheless remains, throughout *Geschlecht III,* committed to at least some significant aspects of Heidegger’s thought.
 
-As Rodrigo Therezo has argued, *Geschlecht III* can be read as a place where Derrida’s reading of Heidegger runs quite close to Heidegger himself and where the process of reading itself, both of Heidegger reading Trakl and Derrida reading Heidegger, is quite fraught.[^20] Derrida’s sustained writing on Heidegger and spirit represent an enduring and energetic drive to understand spirit’s place in the questioning of Being, though those are of course not his own terms, and to the importance of that questioning to the relationship between religion and politics. However, one of the most important places where Derrida takes up a stance of distance from Heidegger is on the notion of the ‘place’ \[*Ort*\] of Being, an appraisal which very much predicates the passages explicitly taking on Christianity and faith.
+As Rodrigo Therezo has argued, *Geschlecht III* can be read as a place where Derrida’s reading of Heidegger runs quite close to Heidegger himself and where the process of reading itself, both of Heidegger reading Trakl and Derrida reading Heidegger, is quite fraught.[^20] Derrida’s sustained writing on Heidegger and spirit represent an enduring and energetic drive to understand spirit’s place in the questioning of Being, though those are of course not his own terms, and to the importance of that questioning to the relationship between religion and politics. However, one of the most important places where Derrida takes up a stance of distance from Heidegger is on the notion of the ‘place’ &#91;*Ort*&#93; of Being, an appraisal which very much predicates the passages explicitly taking on Christianity and faith.
 
 Much of Derrida’s take on the Trakl piece is an attempt to work out Heidegger’s method of reading, one which attempts a separation from traditional methodology of poetic interpretation. Characteristically dismissive of what he takes to be Western traditions of philosophical and critical thought, Heidegger attempts to circumvent such conventions in reading Trakl. The preliminary dismissal of method does double duty: on one hand it allows for a radical and counterintuitive assessment of Trakl’s poetry. On the other hand, it vouchsafes Heidegger’s own method and conclusions, as he has already disregarded the critical tools which might be turned against him. It is this atmosphere in which Derrida is taking up a reading of Heidegger on Trakl, a reading which focuses on Heidegger’s distrust of ‘method’ coming from the pitfalls he sees in its conceptual presuppositions.
 
-Having acknowledged the difficulty of criticizing Heidegger from within this atmosphere, Derrida nevertheless pushes us to think that there is perhaps a residue of conceptual presupposition which remains operative for Heidegger himself in “Die Sprache im Gedicht.” Derrida reads Heidegger as implicitly relying on the concept of a ‘place’ \[*Ort*\] at the end of the ‘path’ \[*Bewegung*\] of questioning, and of the path itself as existent. This extends into the poetic origins of Trakl’s work through Heidegger’s insistence on an originary poetic thread which gives Trakl’s poems their voice.
+Having acknowledged the difficulty of criticizing Heidegger from within this atmosphere, Derrida nevertheless pushes us to think that there is perhaps a residue of conceptual presupposition which remains operative for Heidegger himself in “Die Sprache im Gedicht.” Derrida reads Heidegger as implicitly relying on the concept of a ‘place’ &#91;*Ort*&#93; at the end of the ‘path’ &#91;*Bewegung*&#93; of questioning, and of the path itself as existent. This extends into the poetic origins of Trakl’s work through Heidegger’s insistence on an originary poetic thread which gives Trakl’s poems their voice.
 
-As Heidegger says, “The fact that each of Trakl’s poems, all unrelated, even if not uniformly, points to the same place \[*Ort*\] in the poem, attests to the singular unity of his poems’ groundedness in the root \[*Grundton*\] of his poetry.”[^21] This *Grundton*, which resonates through all of Trakl’s poetry, is the identifiable trace by which Heidegger claims to be able to locate the originary place from which all poetic thought can grow. Not coincidentally, by tracing this through the ‘spirit of the German language,’ Heidegger is able to insist that only German spirituality can uncover the ground of the questioning of Being.
+As Heidegger says, “The fact that each of Trakl’s poems, all unrelated, even if not uniformly, points to the same place &#91;*Ort*&#93; in the poem, attests to the singular unity of his poems’ groundedness in the root &#91;*Grundton*&#93; of his poetry.”[^21] This *Grundton*, which resonates through all of Trakl’s poetry, is the identifiable trace by which Heidegger claims to be able to locate the originary place from which all poetic thought can grow. Not coincidentally, by tracing this through the ‘spirit of the German language,’ Heidegger is able to insist that only German spirituality can uncover the ground of the questioning of Being.
 
 While, as Derrida points out, “Heidegger proposes from the outset to rethink place,”[^22] and to root out Christian presuppositions about Trakl and his work, there is nevertheless a sense in which *place itself* remains a presupposition:
 
@@ -88,9 +119,9 @@ If one were inclined to articulate Derrida’s position in Heideggerian terms, a
 
 This oversimplification, far from merely representing some oversight of Heidegger’s in the interpretation of a fairly obscure German poet, rather indicates a far deeply set of issues Derrida takes with Heidegger’s relationship to language and nationality, insofar as he has come to see Germany and the German language – as again we have already seen in more openly political texts – as the fertile soil out of which a new vision of modernity can spring and the material-political aims of the Nazi party as a means of propagating that vision:
 
-\[Trakl’s poetry\] speaks German not only from a German place but from a place that, in turn, situates the place of the West, the Christian West as well as the West of Platonic and post-Platonic metaphysics—and thus of what Heidegger calls metaphysical theology—it must be the case that the German place here holds an absolute privilege both with respect to the Platonico-Christian West it allows us to think to the extent that it, too, belongs to it, and with respect to this same West to the extent that it does not yet belong to it or already no longer belongs to it, which also allows it to think this West and say it.[^34]
+&#91;Trakl’s poetry&#93; speaks German not only from a German place but from a place that, in turn, situates the place of the West, the Christian West as well as the West of Platonic and post-Platonic metaphysics—and thus of what Heidegger calls metaphysical theology—it must be the case that the German place here holds an absolute privilege both with respect to the Platonico-Christian West it allows us to think to the extent that it, too, belongs to it, and with respect to this same West to the extent that it does not yet belong to it or already no longer belongs to it, which also allows it to think this West and say it.[^34]
 
-If Heidegger in other writings can recognize the unspeakability, the unknowability, the radical ineffability of Being, then he ought to recognize the spiritual potentiality of uncertain faith. Derrida goes on to suggest that, insofar as Heidegger has come to think spirit as the possibility of questioning, spirit necessitates uncertainty – it is in fact the truest mark of spiritual faith that it is uncertain of its object: “…when a Christian despairs, I imagine that he despairs first and foremost \[of the fact\]…that he can no longer recognize the form of Christian despair in his despair. The Christian despairs of Christianity, or else he doesn’t really despair. …so he despairs as a Christian when he despairs of Christianity.”[^35]  
+If Heidegger in other writings can recognize the unspeakability, the unknowability, the radical ineffability of Being, then he ought to recognize the spiritual potentiality of uncertain faith. Derrida goes on to suggest that, insofar as Heidegger has come to think spirit as the possibility of questioning, spirit necessitates uncertainty – it is in fact the truest mark of spiritual faith that it is uncertain of its object: “…when a Christian despairs, I imagine that he despairs first and foremost &#91;of the fact&#93;…that he can no longer recognize the form of Christian despair in his despair. The Christian despairs of Christianity, or else he doesn’t really despair. …so he despairs as a Christian when he despairs of Christianity.”[^35]  
 
 *Jake Sirota is a graduate student at the University of Chicago, specializing in philosophy of Religion. He specializes in continental philosophy of religion, deconstruction and religion, religion and naturalism, phenomenology, modernity and dis/re-enchantment, queer issues, postcoloniality, and religion in the public sphere.This article appears in the* [Journal for Cultural and Religious Theory](https://jcrt.org/archives/21.1/) *[Vol. 21, No. 1](https://jcrt.org/archives/21.1/)*.
 
@@ -112,7 +143,7 @@ If Heidegger in other writings can recognize the unspeakability, the unknowabili
 
 How everything has become accessible to ‘meditation’ and reflection today! Nothing can any longer resist analysis or withdraw from it. Yet—still more fatally—we believe we would come in this way to the ground and soil, whereas we merely suck the blood out of the last impulses and forces of active and constructive questioning. Should everything be swallowed up in analysis? Or do we come and finally bring ourselves—each one with his own mission—into the thrilling and unfamiliar moment of populist-spiritual action? (*Pond*. II §231, 74-75.)
 
-At this point the initiation of the ‘beginning’ is still something Heidegger sees as a volitional possibility—should, by force of a ‘populist’-national and personal will, the German people choose to undertake it, they might hasten the downgoing \[*Untergang*\] of the history of the West. That is, they might fulfill the spiritual destiny of the German people. What lies after this *Untergang* remains unknown to Heidegger, but what stands in the way is clear—“*The harm of the human sciences, the sciences of the spirit* \[meaning those sciences which seek to calculate, represent that which is properly spiritual\]—how they inundate, destroy, and disempower everything spiritual.” (loc. cit.)
+At this point the initiation of the ‘beginning’ is still something Heidegger sees as a volitional possibility—should, by force of a ‘populist’-national and personal will, the German people choose to undertake it, they might hasten the downgoing &#91;*Untergang*&#93; of the history of the West. That is, they might fulfill the spiritual destiny of the German people. What lies after this *Untergang* remains unknown to Heidegger, but what stands in the way is clear—“*The harm of the human sciences, the sciences of the spirit* &#91;meaning those sciences which seek to calculate, represent that which is properly spiritual&#93;—how they inundate, destroy, and disempower everything spiritual.” (loc. cit.)
 
 [^7]: RA, 11.
 
@@ -120,7 +151,7 @@ At this point the initiation of the ‘beginning’ is still something Heidegger
 
 The communal-civil happening is to be unfolded in its actuality in order to attack all the harder and sharper and fuller the floundering (rootlessly and without rank) of the new spirit—i.e., in order to guide the awakening actuality of German Dasein to its greatness for the first time, a greatness concealed to this Dasein and waiting for it, a greatness around which the most fearful storm is raging. (*Pond*. III §5, 80.)
 
-So here obviously is the preference, again, for the German people as those whose ‘unique greatness’ prepares them to weather the storm of calculative modernity through the willful enactment of the spiritual project. It is in this period (around the time of the *Address*)that the rhetoric of the will first begins to fade, and by the time that the *Introduction* is published it will be, to an extent, displaced by the concept of questioning as attunement to unconcealment—the ‘logic of silence’ that begins to emerge in Pond. IV (contemporaneous with the *Introduction)*. For example, in Pond. III, Heidegger intimates that the work of the rectorship, that is the work of education towards the question of Being, is to be acting “*against* my \[Heidegger’s\] innermost voice.” (*Pond*. III §8, 81. See also §65, 94.)
+So here obviously is the preference, again, for the German people as those whose ‘unique greatness’ prepares them to weather the storm of calculative modernity through the willful enactment of the spiritual project. It is in this period (around the time of the *Address*)that the rhetoric of the will first begins to fade, and by the time that the *Introduction* is published it will be, to an extent, displaced by the concept of questioning as attunement to unconcealment—the ‘logic of silence’ that begins to emerge in Pond. IV (contemporaneous with the *Introduction)*. For example, in Pond. III, Heidegger intimates that the work of the rectorship, that is the work of education towards the question of Being, is to be acting “*against* my &#91;Heidegger’s&#93; innermost voice.” (*Pond*. III §8, 81. See also §65, 94.)
 
               Yet at this point he has not totally given up on the grand nationalist project as one of volition, for “the great experience and fortune that the Führer has awakened a new actuality, giving our thinking the correct course and impetus. Otherwise, despite all the thoroughness, it would have remained lost in itself and would only with difficulty have found its way to effectiveness. Literary existence is at an end.” (*Pond*. III §10, 81.) It is Nazism, symbolized by the “spiritually political leadership” (*Pond*. III §30, 85.) of Hitler which ends the possibilities of ‘literary existence,’ which I take to mean the possibility of non-political thought—“*Metaphysics as metapolitics*.” (*Pond*. III §32, 85.) As we see initially in the *Address*, and then in *IM*, it is the leader who inspires spirit in the *Volk*, and the pastoral possibility remains alive in spite of its now-beginning decline from pride of place in Heidegger’s thought.
 
@@ -148,7 +179,7 @@ So here obviously is the preference, again, for the German people as those whose
 
 [^20]: Rodrigo Therezo, “Doublings.” in *Epoché: A Journal for the History of Philosophy* vol. 24, 2019.
 
-[^21]: \[*Daß jede der Traklschen Dichtungen, gleich unverwandt, wenn auch nicht* *gleichförmig, in den einen Ort des Gedichtes zeigt, bezeugt den einzigartigen Einklang seiner Dichtungen aus dem einen Grundton seines Gedichtes*.\] Heidegger, *GA 12*, 35. Translation my own.
+[^21]: &#91;*Daß jede der Traklschen Dichtungen, gleich unverwandt, wenn auch nicht* *gleichförmig, in den einen Ort des Gedichtes zeigt, bezeugt den einzigartigen Einklang seiner Dichtungen aus dem einen Grundton seines Gedichtes*.&#93; Heidegger, *GA 12*, 35. Translation my own.
 
 [^22]: Derrida, *GIII,* 8.
 
@@ -164,7 +195,7 @@ So here obviously is the preference, again, for the German people as those whose
 
 [^28]: Derrida, ibid., 83.
 
-[^29]: \[*Es ist nicht einmal christliche Verzweiflung.*\] Heidegger, ibid., 72. Translation my own.
+[^29]: &#91;*Es ist nicht einmal christliche Verzweiflung.*&#93; Heidegger, ibid., 72. Translation my own.
 
 [^30]: Derrida, ibid., 87. (Brackets in original, emphasis mine.)
 

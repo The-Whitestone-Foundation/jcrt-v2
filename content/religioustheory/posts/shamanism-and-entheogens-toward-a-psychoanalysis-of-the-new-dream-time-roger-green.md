@@ -22,6 +22,22 @@ tags:
   - psychoanalysis
   - experience
   - cultural
+subjects:
+  - label: "Experience"
+    scheme: "FAST"
+    identifier: "fst00918379"
+    uri: "https://id.worldcat.org/fast/918379"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
 ---
 *There is no reason why therapy rooms for psychedelic sessions must be adorned with the default Buddha icons, fractal posters, and Indian drapes. Who says these are the hallmarks of psychedelia? Why* not *have pictures of Lamborghinis, pop stars, and football teams – or any other power objects our patients choose to bring?*  \-Ben Sessa[^1]
 
@@ -39,7 +55,7 @@ With respect to the associations that LSD in particular had with mimicking psych
 
 > The first scientific report proposing that the behavioral effects of intoxication by LSD resembled psychosis was published in 1947 (Stoll, 1947), the same year that LSD was made commercially available by the Swiss pharmaceutical company Sandoz. LSD was sold under the brand name Delysid and marketed as a tool for potential psychiatric treatment. Some sources have reported that Sandoz recommended that psychiatrists take the drug to “gain an understanding of the subjective experiences of the schizophrenic” (Ulrich & Patten, 1991).[^3]
 
-Few people are aware of the fact that before psychedelics such as LSD and psilocybin were made illegal in the United States, early clinical models of psychedelic therapy were “preceded by many hours of preparatory psychotherapy and require\[d\] a trained and experienced guide to handle all the complications that might occur.”[^4]  The model of the doctor taking the psychedelic substance with the patient while a nurse remained present at hand for emergencies had its roots in 19th century scientific practices where it was common for scientists to experiment by using their own bodies.
+Few people are aware of the fact that before psychedelics such as LSD and psilocybin were made illegal in the United States, early clinical models of psychedelic therapy were “preceded by many hours of preparatory psychotherapy and required a trained and experienced guide to handle all the complications that might occur.”[^4]  The model of the doctor taking the psychedelic substance with the patient while a nurse remained present at hand for emergencies had its roots in 19th century scientific practices where it was common for scientists to experiment by using their own bodies.
 
 We see this practice in aesthetes as well, from Charles Baudelaire’s *Artificial Paradises* to
 
@@ -71,7 +87,7 @@ With respect to the unconscious, Deleuze and Guattari claim that “drugs give t
 
 If psychoanalysis “botched” the immanence of the unconscious, it seems to have been two-fold. On the one hand, with respect to latency, “the plane of the Unconscious remains a plane of transcendence guaranteeing, justifying, the existence of psychoanalysis and the necessity of its interpretations.”[^13]  The power of analysis was mistakenly seen in its ability to sort out the troublesome past, to make “sense” of or to comprehend a clearer version of a narrative where sublimation could be seen in the repressive act of transferring desire from one object to another – Hitchcock’s *Marnie*, for example.
 
-For Deleuze, this is a mistake because memory is the product of the present, not the past.  From the plane of immanence we see “There is no longer a conscious-unconscious \[Cartesian\] dualism machine, because the unconscious is, or is rather produced, there where consciousness goes, carried by the plane.”  But while drugs “give the unconscious the immanence and plane,” their causal line must be traced back to the “dealer” or apparatus.  And then
+For Deleuze, this is a mistake because memory is the product of the present, not the past.  From the plane of immanence we see “There is no longer a conscious-unconscious &#91;Cartesian&#93; dualism machine, because the unconscious is, or is rather produced, there where consciousness goes, carried by the plane.”  But while drugs “give the unconscious the immanence and plane,” their causal line must be traced back to the “dealer” or apparatus.  And then
 
 > What good does it do to perceive as fast as a quick-flying bird if speed and movement continue to escape somewhere else? The deterritorializations remain relative, compensated for by the most abject reterritorializations, so that the imperceptible and perception continually pursue or run after each other without ever truly coupling.[^14]
 

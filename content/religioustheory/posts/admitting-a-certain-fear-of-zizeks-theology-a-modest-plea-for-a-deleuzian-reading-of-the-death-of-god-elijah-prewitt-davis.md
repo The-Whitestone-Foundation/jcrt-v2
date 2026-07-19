@@ -22,6 +22,22 @@ tags:
   - theology
   - universal
   - dialectical
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 I am told by Zizek—as well as Hegelian friends—that any attempt to argue or disagree with Hegel fits nicely within his dialectical scheme. “Oh, you disagree with Hegel,” they say, “so you agree with him?” As Zizek warns, even Gilles Deleuze’s “generalized anti-Hegelianism” “…is much more ambiguous than it may appear: the elevation of Hegel into a straw of the enemy obfuscates a disavowed proximity.”[^1]
 
@@ -41,7 +57,7 @@ As Hardt and Negri have shown, the decline of the sovereignty of nation states h
 
 Inasmuch as this new space is constructed by the global flow of capital, producing not only products but also identities and differences within a society of control, corporations— understood in late global capitalism as persons—are one of the organisms that have eclipsed both the state and God. After developing this argument, I will conclude by making a modest plea for a Deleuzian reading of the death of God.
 
-For Zizek, Christianity is the only religion that leads to dialectical materialism. As he continually asserts, “not only is Christianity … *the only truly consistent atheism,* it is also that *atheists are the only true believers.*”[^2] Zizek thus repeats Hegel’s prejudice that Christianity is the consummation of religion. In doing this, Zizek gives the death of God a meaning *in-itself* that is grounded in the “singularity of \[the\] pure event” of Christ’s death.
+For Zizek, Christianity is the only religion that leads to dialectical materialism. As he continually asserts, “not only is Christianity … *the only truly consistent atheism,* it is also that *atheists are the only true believers.*”[^2] Zizek thus repeats Hegel’s prejudice that Christianity is the consummation of religion. In doing this, Zizek gives the death of God a meaning *in-itself* that is grounded in the “singularity of &#91;the&#93; pure event” of Christ’s death.
 
 As he writes in *Monstrosity*, “Christ is the vanishing mediator between the substantial transcendent God-in-itself and God qua virtual spiritual community.”[^3] As the vanishing mediator, Christ does not restore God to Godself, or to the particular contingent subject, but rather, actualizes God’s own estrangement to Godself. The incarnation is God’s own negation that “turns around onto itself and brings us back to determinate (finite, temporal) reality.”[^4] Or, to some up it succinctly: “In the standard version of atheism, God dies for men who stop believing in him, in Christianity, God dies *for himself.*”[^5]
 
@@ -49,7 +65,7 @@ Herein lies Zizek’s genius, as well as one of his most profound supplements to
 
 Instead, Zizek places what he calls a “minimal difference” within the universal itself, such that God is stripped of its changeless, infinite, and substantial qualities. As Zizek writes:
 
-> the difference is not on the side of the particular content… but on the side of the Universal. The universal is not the encompassing container of the particular content, the peaceful-medium background of the conflict of particularities; the universal “as such” is an unbearable antagonism \[and\] self contradiction….[^6]
+> the difference is not on the side of the particular content… but on the side of the Universal. The universal is not the encompassing container of the particular content, the peaceful-medium background of the conflict of particularities; the universal “as such” is an unbearable antagonism &#91;and&#93; self contradiction….[^6]
 
 What we ‘recognize’ in the Universal is not our essentiality, but the inherent difference and the agonistic struggle it entails; a struggle that comes to its fullest fruition when Christ cries on the cross: “My God, my God, why have you forsaken me?”
 
@@ -59,13 +75,13 @@ Christ is, in essence, the supreme figure of the parallax gap, the point that ca
 
 In and through this elevation, spirit is revealed to the community of believers who come together in the wake of Christ’s death. The death of God in the figure of Christ is, for Zizek, the negation of negation, and the spirit that is produced out of this double movement becomes the sight where, as he puts it, “our perspective shifts and thus turns failure into a true success.”[^8] But what is the failure?
 
-The failure is precisely the loss of essential subjectivity that comes about in the realization that God is dead. After this death, there is no longer a great synthesis or reconciliation between faith and reason, between the particular desire for essentiality and its consummation, grounding, or recognition by a transcendent God. The only way to be truly atheist, Zizek says, is to redouble our modern and post-modern alienation from God and place this alienation within Godself by turning “the distance from Man to God \[into\] the distance of God from himself.”
+The failure is precisely the loss of essential subjectivity that comes about in the realization that God is dead. After this death, there is no longer a great synthesis or reconciliation between faith and reason, between the particular desire for essentiality and its consummation, grounding, or recognition by a transcendent God. The only way to be truly atheist, Zizek says, is to redouble our modern and post-modern alienation from God and place this alienation within Godself by turning “the distance from Man to God &#91;into&#93; the distance of God from himself.”
 
 As Zizek writes: “What dies on the cross is not only the earthly-finite representative of God, but God ![](/images/2018/04/larger.webp)himself, the very transcendent God of beyond.” This, Zizek asserts, is the true meaning of the cross, and thus the very reason why we fear the four words: “He was made man.” What the incarnation means, is that God Godself died on the Cross, and with him, any appeal that humanity might make to transcendent beyond.
 
 Another way to say this is that the only true immanence is the one has results from the complete emptying out of transcendence. The full force of immanence is brought about when the transcendent Father and the incarnate Christ sublate into the Holy Spirit. Such that only the death of God in the singularity of Christ inaugurates the Holy Spirit. But what is this Sprit that is produced in Christ’s death?
 
-Again, we see the importance of Zizek’s interpretation of Hegel. For him, God is not resurrected as the universal Spirit teleogocially marching toward progress, using and abusing particular human subjects as a means to an end. No, this Spirit has no agency outside the community of believers who believe in it. As Zizek writes: “the ultimate lesson to be learned from the divine incarnation…\[is that\] the finite existence of mortal humans is the only site of the Spirit, the site where Spirit achieves its actuality.”[^9]
+Again, we see the importance of Zizek’s interpretation of Hegel. For him, God is not resurrected as the universal Spirit teleogocially marching toward progress, using and abusing particular human subjects as a means to an end. No, this Spirit has no agency outside the community of believers who believe in it. As Zizek writes: “the ultimate lesson to be learned from the divine incarnation…&#91;is that&#93; the finite existence of mortal humans is the only site of the Spirit, the site where Spirit achieves its actuality.”[^9]
 
 Key to see here is the point that Zizek makes repeatedly in *Less Than Nothing*, that ‘sublation’ itself does not result in a higher order, or announce a progress; rather, sublation announces and produces another gap. All that exists, now, is material finitude. This is Zizek’s political point: the death of God liberates humanity from a dependence on anything outside itself. It is not that the Holy Spirit is guiding particular finite subjects, but particular finite subjects that guide and produce the Holy Spirit. The death of God allows the Spirit of the community to fully actualize its own subjective spirit; because the community realizes that there is no big Other, it produces spirit by believing in it as a way of grounding their actions. Only by being fully released from an appeal to transcendence can we be good, revolutionary, materialists.
 
@@ -97,7 +113,7 @@ It is this interplay between pointing beyond and producing in the same gesture t
 
 > The simulacrum, the simulation of a packet of noodles, has become the true concept; and the one who packages the product, the commodity, or work of art has become the philosopher…How could philosophy, an old person, compete against young executives in a race for universals of communication for determining the marketability of the concept?[^17]
 
-What Deleuze is speaking of is perhaps best explained by way of a sort of Zizekian example. In an episode of *Mad Men*, the advertising genius Don Draper is having a conversation about love with one of his many mistresses. She is explaining to Don how she has never felt true love. His reply is brilliant: “The reason you haven’t felt it is because it doesn’t exist. What you call love was invented by guys like me, to sell \[panty hose.\]” Don understands clearly the system he is part of and the world that he, as an ad man, helps to construct. Love, something that is supposed to be universal, produced, like the Holy Spirit, in a relationship amongst people, is simply a false representation that he has invented.
+What Deleuze is speaking of is perhaps best explained by way of a sort of Zizekian example. In an episode of *Mad Men*, the advertising genius Don Draper is having a conversation about love with one of his many mistresses. She is explaining to Don how she has never felt true love. His reply is brilliant: “The reason you haven’t felt it is because it doesn’t exist. What you call love was invented by guys like me, to sell &#91;panty hose.&#93;” Don understands clearly the system he is part of and the world that he, as an ad man, helps to construct. Love, something that is supposed to be universal, produced, like the Holy Spirit, in a relationship amongst people, is simply a false representation that he has invented.
 
 Indeed, do all of Don’s vacuous actions—his drinking, his smoking, his many mistresses, and his empty disdain for everything around him—not stem from his experience of the death of God? From the fact that he knows all too well that all our values are merely lies invented to sell commodities? Is he not the quintessential resentful man who knows all too well that it is not just religious or capitalist consciousness that is false, but all forms of consciousness, as Zizek always says?
 
@@ -105,7 +121,7 @@ For Deleuze, when we remain within the dialectic and the labor of the negative, 
 
 Instead of making one’s own difference an object of affirmation the dialectic leads to a diminishment of the force of one’s own difference through its desire to be recognized by the other. Thus, Deleuze says,
 
-> Before and after the death of God…He who is man has not changed: \[man remains\] the reactive man, the slave, a machine for manufacturing the divine. What God is has not changed either; always the divine, the Supreme Being, a machine for manufacturing the slave.[^18]
+> Before and after the death of God…He who is man has not changed: &#91;man remains&#93; the reactive man, the slave, a machine for manufacturing the divine. What God is has not changed either; always the divine, the Supreme Being, a machine for manufacturing the slave.[^18]
 
 The dialectic “makes the existence of God depend on a synthesis, it synthesis the idea of God with time, becoming, history, and man.” But why? Deleuze’s answer is clear, it does this out of resentment, out of a desire to be something that it is not and the inability to affirm its own difference. Humans kill God so that they might become God without ever asking if the God they had projected was worth becoming like.
 

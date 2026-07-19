@@ -27,4 +27,15 @@ issue: 2
 season: spring
 year: 2015
 pages:
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Skepticism"
+    scheme: "FAST"
+    identifier: "fst01119940"
+    uri: "https://id.worldcat.org/fast/1119940"
+    category: "topical"
 ---

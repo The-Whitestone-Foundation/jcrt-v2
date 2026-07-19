@@ -20,6 +20,17 @@ tags:
   - existential
   - relationship
   - public
+subjects:
+  - label: "Confession"
+    scheme: "FAST"
+    identifier: "fst00874645"
+    uri: "https://id.worldcat.org/fast/874645"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the last of a three-part series. The first can be found [here]( /religioustheory/posts/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-1-florian-klug/), the second [here]( /religioustheory/posts/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-2-florian-klug/). It will appear as a full article in the Fall 2021 issue of the* [Journal for Cultural and Religious Theory](https://jcrt.org).
 
@@ -61,7 +72,7 @@ Aligning this finding with our theological argument, it is once again crucial to
 
 Here, the expressed faith in Jesus Christ not only resembles the oath in a formal sense, but it increases its weakness of language and communion with God in an unprecedented way. The confession of faith becomes a binding act of faith that links to salvation and thus includes a performative effect.[^35] According to Agamben, a confession of faith does not present a denotative content because the resurrection cannot be represented, in terms of signification, or grasped conceptually. Still, in the confession, truth is announced in an auto-referential way, which testifies itself. This structure leads Agamben, following Foucault, to understand the Christian confession of faith as a form of *parrhesia* *par excellence*:
 
-“This act \[i.e. of confession\] constitutes something like a performative, since, through confession, the subject is bound to the truth itself and changes his relation to others in addition to himself. … This very form is the confession of faith documented in the Pauline passage on which we have been commenting. Between the performative of the oath and of penance, the *performativum fidei* defines the originary messianic – that is, Christian – experience of the word.”[^36]
+“This act &#91;i.e. of confession&#93; constitutes something like a performative, since, through confession, the subject is bound to the truth itself and changes his relation to others in addition to himself. … This very form is the confession of faith documented in the Pauline passage on which we have been commenting. Between the performative of the oath and of penance, the *performativum fidei* defines the originary messianic – that is, Christian – experience of the word.”[^36]
 
 By this confession of faith, participation in the power of Christ takes place, whereby this confession gains an existential meaning and indicates that the violent structures of the world became meaningless in the personal as well as in the community framework.[^37] Here, this very form of power works weakly and ironically because the truth of Christ does not expel a different opinion or worldview in a binary scheme of being false or untrue. And further, through the fragility of a confession, language itself surpasses its limits.[^38] By linking to *parrhesia*, we can elaborate on the Christian confession as a means of truth-telling. It presents itself as an existential act that provides for a performative power in the crossing of language to take place. Here, language does not remain limited within the world, but as a sacrament of truth, a confession of faith becomes a pivotal point for truth itself to emerge.
 

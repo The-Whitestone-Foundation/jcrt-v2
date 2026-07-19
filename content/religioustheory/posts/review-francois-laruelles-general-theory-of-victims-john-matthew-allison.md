@@ -18,6 +18,22 @@ tags:
   - theory
   - generic
   - general
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Laruelle, François. *General Theory of Victims*. Translated by Jessie Hock and Alex Dubilet. Malden, MA: Polity Press, 2015. ISBN-10: 0745679617. Hardcover, paperback, e-book. 161 Pages.**
 
@@ -43,7 +59,7 @@ With this brief and broad overview ready-to-hand, we are better able to outline 
 
 By contrast, Man-in-person is, as we used the term above, a *clone* of the Real, that is, an effect of the Real in-the-last-instance. And of virtue of “being-in-the-Real” (my non-philosophical inverted neologism of Heidegger, not Laruelle’s), Man-in-person is also foreclosed to knowledge. More specifically, and as Laruelle explains it, Man-in-person is foreclosed to knowledge in virtue of being an open vector in the generic, algebraic matrix of the Real. Parodying Badiou’s opening pages of *Logics of Worlds*, Laruelle declares, “there are only lived experiences and algebra, except that there is also, instead of their opposition, the algebraic objectivity of human lived experiences” (27). Typical of Laruelle’s quantum approach, he refuses to synthesize these two terms – the lived and algebraic – but holds them in superposition, that is, in irresolvable diegetic relation (that is, as “identical-in-the-last-instance” vis-à-vis the Real). Laruelle is, if nothing else, the master of *non-dialectical* theory.
 
-This quantum superposition of the algebraic and the lived is why Laruelle can make the obvious but brilliant assertion that “\[i\]f there is a radical argument against racism, it is this: *mankind is indeterminate*” (xx). Though Laruelle does not here offer additional examples of how we could put this axiom of indeterminacy to ethical use, we can easily discern how it could be fruitfully applied, for instance, to issues of sexual, gender, non-human identity (cf. his reflections on animals, 102-05) or, really, *any* identity whatsoever.[^6]
+This quantum superposition of the algebraic and the lived is why Laruelle can make the obvious but brilliant assertion that “if there is a radical argument against racism, it is this: *mankind is indeterminate*” (xx). Though Laruelle does not here offer additional examples of how we could put this axiom of indeterminacy to ethical use, we can easily discern how it could be fruitfully applied, for instance, to issues of sexual, gender, non-human identity (cf. his reflections on animals, 102-05) or, really, *any* identity whatsoever.[^6]
 
 Laruelle, it should be emphasized here, is not simply reiterating social constructivist critiques of identity; for the indeterminacy of Man-in-person is *not* the product of a post-Kantian PD to posit the subject as Alterity (absence, process, nothingness, Other, etc.). Rather, Man-in-person’s indeterminacy is because Man-in-person is “being-in-the-Real,” that is, an effect of the Real in-the-last-instance.
 
@@ -65,7 +81,7 @@ According to Laruelle, then, the “Victim-in-person” is thus never a “survi
 
 In light of insurrection, Laruelle calls for “generic intellectuals” (as opposed to media intellectuals). Generic intellectuals will no longer attempt to think the victim as subject X, Y, or Z but *according to* the Victim-in-person. In other words, instead of pitying the victim, the generic intellectual compassionately thinks Man-in-person in each instance as underdetermining any and all victimologies. And this unilaterally determines the intellectual under the non-philosophizable condition of Man-in-person, and not the other way around (which is symptom of the transcendental hallucination of thinking from the PSP). Instead, the generic intellectual, in thinking according-to Man-in-person, can be part of the process by which utopian futures become cloned into being.
 
-Ultimately, and as evidenced by the terminological density of even this brief book review, *Victims* is no easy piece of theory. Of course, once one begins to pick up on the basic moves of the non-philosophical form (the Real, the generic, in-the-final-determination, cloning, etc.), it becomes easier to understand the value of its applications. But this takes time and patience. So in closing, we can only make a plea that though Laruelle’s theoretically language and concepts can be difficult to grasp, *Victims* represents a personally and politically challenging way of thinking about ethics, victimhood, and compassion. (The most beautiful and perhaps most readable section of the book concerns the difference between compassion and pity \[45-9\].)
+Ultimately, and as evidenced by the terminological density of even this brief book review, *Victims* is no easy piece of theory. Of course, once one begins to pick up on the basic moves of the non-philosophical form (the Real, the generic, in-the-final-determination, cloning, etc.), it becomes easier to understand the value of its applications. But this takes time and patience. So in closing, we can only make a plea that though Laruelle’s theoretically language and concepts can be difficult to grasp, *Victims* represents a personally and politically challenging way of thinking about ethics, victimhood, and compassion. (The most beautiful and perhaps most readable section of the book concerns the difference between compassion and pity &#91;45-9&#93;.)
 
 Laruelle’s refusal to play into the hands of victimology may come off to some readers as terribly abstract and inapplicable to real life ethical dilemmas. But, when understood rightly, *Victims* represents perhaps one of the greatest sieges against ethical abstractions undertaken in our present age. For what Laurelle’s work ultimately demands are intellectuals who no longer worship at the altar of philosophy—with its delusions of self-sufficiency—but a form of thought that thinks compassionately according-to the Victim-in-person. The intellectual can no longer think “from above” with pity directed *at* a victim. Rather, a generic intellectual is the one who, insofar as they “clone” thought according-to the Victim-in-person, are engaged in a form of compassionate theory that is, finally, a form of radical political insurrection: resistance to death and the present order of things.
 
@@ -84,7 +100,7 @@ The generic intellectual is the one who is unilaterally determined by Man-in-per
 [^2]: Friedrich Nietzsche, *Twilights of the Idols and the Anti-Christ*, trans. R.J. Hollingdale (New York: Penguin Books, 2003), 34.  
 [^3]: This is phrase borrowed from Peter Sloterdijk in *God’s Zeal The Battle of the Three Monotheisms*, trans. W. Hoban (Malden, MA: Polity 2009), 14.  
 [^4]: This refusal of the PD is, it should be noted, what Laruelle claims constitutes the generically *scientific* character of non-philosophy.  
-[^5]: See François Laruelle, *Principles of Non-Philosophy*, trans. Nicola Rubczak and Anthony Paul Smith (New York, Bloomsbury 2013) and *Philosophie non-standard : générique, quantique, philo-fiction* \[Non-Standard Philosophy: Generic, Quantum, Philo-Fiction\] (Paris, Kimé, 2010).  
+[^5]: See François Laruelle, *Principles of Non-Philosophy*, trans. Nicola Rubczak and Anthony Paul Smith (New York, Bloomsbury 2013) and *Philosophie non-standard : générique, quantique, philo-fiction* &#91;Non-Standard Philosophy: Generic, Quantum, Philo-Fiction&#93; (Paris, Kimé, 2010).  
 [^6]: See Katerina Kolozova, *Cut of the Real: Subjectivity in Poststructrualist Philosophy* (New York: Columbia UP, 2014) for a powerful and effective application of non-philosophy to questions of sexual and gender identity.  
 [^7]: Playing with theological vocabulary, Anthony Paul Smith suggests we might rightly refer to a victomology as a “*victimadicy*” in *Laruelle: A Stranger Thought* (Malden: Polity Press, 2016), 98; I would highly recommend Smith’s volume for anyone interested in learning more about Laruelle—it is the most accessible introduction to non-philosophy available in English.  
 [^8]: See François Laruelle, *Future Christ: A Lesson in Heresy*, trans. Anthony Paul Smith (New York, Continuum 2010) and *Christo-Fiction: The Ruins of Athens and Jerusalem*, trans. Robin Mackay (New York: Columbia University Press, 2015).  

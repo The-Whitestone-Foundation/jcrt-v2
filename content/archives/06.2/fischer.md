@@ -21,4 +21,15 @@ issue: 2
 season: spring
 year: 2005
 pages:
+subjects:
+  - label: "Culture Philosophy"
+    scheme: "FAST"
+    identifier: "fst00885075"
+    uri: "https://id.worldcat.org/fast/885075"
+    category: "topical"
+  - label: "Violence"
+    scheme: "FAST"
+    identifier: "fst01167224"
+    uri: "https://id.worldcat.org/fast/1167224"
+    category: "topical"
 ---

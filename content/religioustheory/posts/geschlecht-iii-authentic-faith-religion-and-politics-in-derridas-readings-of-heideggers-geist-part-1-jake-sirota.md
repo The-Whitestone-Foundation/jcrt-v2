@@ -25,10 +25,36 @@ tags:
   - politics
   - question
   - spiritual
+subjects:
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is published in three installments.
 
-Jacques Derrida’s prolonged and intimate proximity to the thought of Martin Heidegger has played a significant role in the understanding and debate of Derrida’s religious inflections and in the theorizing of the relationship between deconstruction, religion, and politics in general. This proximity becomes particularly clear in the treatment of spirit \[*Geist*\]: over decades and across texts, Derrida continually returned to analysis of Heidegger’s use of this term and concept as a way of working through his predecessor’s relationship with faith and religion, with Nazism, with worldliness, language, poetry, and other fundamental avenues of Heidegger’s thought.
+Jacques Derrida’s prolonged and intimate proximity to the thought of Martin Heidegger has played a significant role in the understanding and debate of Derrida’s religious inflections and in the theorizing of the relationship between deconstruction, religion, and politics in general. This proximity becomes particularly clear in the treatment of spirit &#91;*Geist*&#93;: over decades and across texts, Derrida continually returned to analysis of Heidegger’s use of this term and concept as a way of working through his predecessor’s relationship with faith and religion, with Nazism, with worldliness, language, poetry, and other fundamental avenues of Heidegger’s thought.
 
 In essence, Derrida saw spirit as a particularly powerful lens through which to interpret Heidegger’s conceptual trajectory. This necessitated, for Derrida just as any other reader of Heidegger, an interrogation of spirit’s place in Heidegger’s political beliefs and the extent to which early conceptual commitments regarding spirit and faith necessitated his turn towards Nazism as well as the nationalistic nostalgia he maintained long after his formal association with the party ended.
 
@@ -58,7 +84,7 @@ Derrida’s critical reading of Heidegger’s distinction between faith or the d
 
 In other words, Derrida here reads Heidegger’s covert reliance on Christian remnants as bypassing the aporetic question of whether revealability necessarily precedes revelation.[^5] To Heidegger, revealability (in, again, a covertly Christian form), as Michael Naas puts it, “ultimately revealed a kind of revealability more originary than all revelation, a sort of ‘originary Christendom.”[^6]
 
-If revealability, the *possibility* of revelation, is for Derrida “the invisibility of visibility,” then it becomes easy to see why, later in FK, he begins to question the possibility of Heidegger’s separation of thinking from religion (of faith from knowledge, as it were), a point where Heidegger is most adamant about his principle that “Belief \[or faith\] has no place in thought,”[^7] which grows out of the project of destruction. As Derrida argues, while Heidegger denounces faith in thought, he relies – at the very opening of *BT* – on the faith of a shared “pre-comprehension of the meaning of being” in order to orient his project.
+If revealability, the *possibility* of revelation, is for Derrida “the invisibility of visibility,” then it becomes easy to see why, later in FK, he begins to question the possibility of Heidegger’s separation of thinking from religion (of faith from knowledge, as it were), a point where Heidegger is most adamant about his principle that “Belief &#91;or faith&#93; has no place in thought,”[^7] which grows out of the project of destruction. As Derrida argues, while Heidegger denounces faith in thought, he relies – at the very opening of *BT* – on the faith of a shared “pre-comprehension of the meaning of being” in order to orient his project.
 
 As Derrida points out, this supposedly shared, indefinite, hazy preconception of Being “is not an empirical fact,”[^8] but rather a trace of faith. It is a necessarily preexistent foundation upon which Heidegger’s ontology is built, similar (as Derrida reads) to the way that God operates in a Christian cosmology.
 

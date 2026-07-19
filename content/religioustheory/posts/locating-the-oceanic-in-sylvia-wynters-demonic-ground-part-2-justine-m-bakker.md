@@ -20,6 +20,27 @@ tags:
   - oceanic
   - science
   - religion
+subjects:
+  - label: "Critical race theory"
+    scheme: "FAST"
+    identifier: "fst02022968"
+    uri: "https://id.worldcat.org/fast/2022968"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Science"
+    scheme: "FAST"
+    identifier: "fst01108176"
+    uri: "https://id.worldcat.org/fast/1108176"
+    category: "topical"
 ---
 *The following article will appear next month in the Winter 2021-22 issue of the* Journal for Cultural and Religious Theory. *It is published in three installments*. *The first installment can be found [here.]( /religioustheory/posts/locating-yhe-oceanic-in-sylvia-wynters-demonic-ground/)*
 
@@ -33,7 +54,7 @@ Against this discourse, Wynter’s reclaiming of the “demonic” as a vantage 
 
 In physics, mathematics, and computer science, writes McKittrick, the term denotes a “system that cannot have a determined, or knowable, outcome.”[^7] Demonic systems hinge on uncertainty; they trouble linearity and determination. Wynter, McKittrick argues, develops her concept of the “demonic” in accordance with this second, non-ecclesial strand of thought. As liminal space opened up by and working against the desire for pure difference, the “demonic” suggests, as I noted above, “perspectives that reside in the liminal precincts of the current governing configurations of the human as Man in order to abolish this figuration and create other forms of life.”[^8]
 
-However, other than a general reference of “physicists,” it remains unclear who or what Wynter refers to precisely. Sarah Haley observes this as well in *No Mercy Here: Gender, Punishment, and the Making of Jim Crow Modernity* (2016). She offers a potential reference when she notes that “\[t\]he demon to which Wynter might refer appears in a mid-nineteenth-century thought experiment pertaining to thermodynamics.”[^9] This tiny demon, also known as Maxwell’s demon, is the product of Scottish physicist James Clerk Maxwell.
+However, other than a general reference of “physicists,” it remains unclear who or what Wynter refers to precisely. Sarah Haley observes this as well in *No Mercy Here: Gender, Punishment, and the Making of Jim Crow Modernity* (2016). She offers a potential reference when she notes that “the demon to which Wynter might refer appears in a mid-nineteenth-century thought experiment pertaining to thermodynamics.”[^9] This tiny demon, also known as Maxwell’s demon, is the product of Scottish physicist James Clerk Maxwell.
 
 In an 1867 thought experiment, Maxwell speculated about the possibility of a violation of the second law of thermodynamics, which postulates that entropy always increases as time passes. In the experiment, a demon who could effortlessly “follow every molecule in its course” would control a “vessel” that is “divided into two portions, A and B.”[^10] By quickly opening and closing a “small hole” between A and B, the demon could ensure that faster molecules would pass from A to B and slower molecules from B to A, allowing B to heat up and A to cool down. This would decrease entropy and frustrate the possibility for equilibrium, thus violating the second law. Canales helps us to understand the importance of this experiment when she notes that Maxwell’s demon demonstrated that the second law had only “statistical certainty”; sometimes, “nature does follow the path less travelled.”[^11]
 
@@ -49,7 +70,7 @@ What Comfort does note, however, is that the idea of positional identity “bias
 
 Bohm argued that an “implicate reality” (or “order”) should be differentiated from the “explicate order” in that it is a deeper, more fundamental order of reality that is not and cannot be normally perceived by humans. Bohm essentially argued that the “implicate order” consists of an infinite number of overlapping waves that generate what appear to human beings, in the explicate order, as particles. To study or even begin to comprehend this, Bohm argued that we must do away with the mechanistic worldview that has dominated Western science and philosophy since Descartes.[^17]
 
-As Ashon Crawley writes in a beautiful exploration of what quantum thought can offer Black Study, “\[t\]hings that occur on the quantum level go against common knowledge regarding time and space.”[^18] On the quantum level, the relationship between cause and effect is upended and troubled, in favour of a radical—if, admittedly, largely theoretical—randomness, uncertainty. The interconnectedness that quantum mechanics has been able to observe between two particles over a great distance should, in addition, not be able to exist within 4-space. At the quantum level, it’s all just so radically different, and pregnant with possibility.
+As Ashon Crawley writes in a beautiful exploration of what quantum thought can offer Black Study, “things that occur on the quantum level go against common knowledge regarding time and space.”[^18] On the quantum level, the relationship between cause and effect is upended and troubled, in favour of a radical—if, admittedly, largely theoretical—randomness, uncertainty. The interconnectedness that quantum mechanics has been able to observe between two particles over a great distance should, in addition, not be able to exist within 4-space. At the quantum level, it’s all just so radically different, and pregnant with possibility.
 
 Speculating about such alternatives, Comfort lands on the concept of “demonic,” a term that, he presses emphatically, does not refer to “an imaginary demiurge” but is used “to imply logical and intelligent but not human and therefore not homuncular.”[^19] If “we program them correctly,” he writes in *Empathy and Reality* (1984), these “imaginary demons… will ask very awkward Socratic questions.”[^20]
 

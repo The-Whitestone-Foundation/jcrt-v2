@@ -28,6 +28,42 @@ tags:
   - cognitive
   - disintegration
   - indigenous
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
+  - label: "Decolonial theory"
+    scheme: "Homosaurus"
+    identifier: "homoit0003616"
+    uri: "https://homosaurus.org/v5/homoit0003616"
+    category: "topical"
 ---
 The *New Polis* in collaboration with the *[Journal for Cultural and Religious Theory](http://www.thenewpolis.com/)* (part of The Whitestone Foundation of publications) announces a webinar-based online conference in April 2021. The conference is entitled “Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century.”
 

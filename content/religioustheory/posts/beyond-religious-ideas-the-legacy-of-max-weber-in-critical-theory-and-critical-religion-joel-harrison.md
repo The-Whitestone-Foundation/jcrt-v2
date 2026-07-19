@@ -25,6 +25,37 @@ tags:
   - critical
   - historical
   - segal
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Hermeneutics"
+    scheme: "FAST"
+    identifier: "fst00955492"
+    uri: "https://id.worldcat.org/fast/955492"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *This article was [initially published in The New Polis](http://thenewpolis.com/2018/03/23/beyond-religious-ideas-the-legacy-of-max-weber-in-critical-theory-and-critical-religion-joel-harrison/), March 23, 2018.*
 
@@ -118,7 +149,7 @@ In Horkheimer and Adorno, Enlightenment more generally folds in on itself to the
 
 [^1]: . Donald Wiebe, “The Failure of Nerve in the Academic Study of Religion” in *The Politics of Religious Studies: The Continuing Conflict with Theology in the Academy* (New York: St. Martin’s Press, 1999) 141-62.
 
-[^2]: . “\[T\]he period from 1945 to 1960 not only represented no advance in the development of Religious Studies as an academic or scientific undertaking; it amounted to a retrograde step, in that, like the classics in the colonial curriculum, it defined itself only in terms of a             reaffirmation of ‘commitment to civilization,’ thus ‘reaffirming’ its opposition to the sciences.” Wiebe, *The Politics of Religious Studies*, 77.
+[^2]: . “The period from 1945 to 1960 not only represented no advance in the development of Religious Studies as an academic or scientific undertaking; it amounted to a retrograde step, in that, like the classics in the colonial curriculum, it defined itself only in terms of a             reaffirmation of ‘commitment to civilization,’ thus ‘reaffirming’ its opposition to the sciences.” Wiebe, *The Politics of Religious Studies*, 77.
 
 [^3]: . For example, in the introduction to McCutcheon’s well-known genealogical analysis of Eliade, *Manufacturing Religion*, he suggests that if particular “theories, commitments, and contexts” of religion are non-testable, then they are not viable because they assuredly participate in the ideological project of insulating a sui generis concept of religion from criticism. It is not at all clear, however, how the genealogical, colonial (i.e. political) critique of religion McCutcheon advances is “testable” or what it would even mean to claim that it is. Russell T. McCutcheon, *Manufacturing Religion*, 6.
 
@@ -144,7 +175,7 @@ In Horkheimer and Adorno, Enlightenment more generally folds in on itself to the
 
 [^14]: . Weber writes of rationalization, “Now by this term very different things may be understood, as the following discussion will repeatedly show. There is, for example, rationalization of mystical contemplation, that is of an attitude which, viewed from other departments of life, is specifically irrational, just as much as there is rationalizations of economic life, of technique, of scientific research, of military training, of law and administration. Furthermore, each one of these fields may be rationalized in terms of very different ultimate values and ends, and what is rational from one point of view may well be irrational from another. Hence rationalizations of the most varied character have existed in various departments of life and in all areas of culture.” Weber, *The Protestant Ethic*, xxxviii-xxxix.
 
-[^15]: . For example in his critique of Wittgensteinian understandings of nonreduction, Segal has the following analysis: “Truth for \[Wittgensteinians\] means internal coherence, not correspondence to external reality. In asserting that an actor’s beliefs are true they are asserting simply that all would-be criticisms of his beliefs reflect merely the critic’s own beliefs. Only internal, not external, criticism is permissible. &hellip; The utility of the Wittgensteinian position for nonreductionism aside, there are at least as many objections to it as to the concept of *Verstehen* in general. It has been argued not only, as with *Verstehen* generally, that acceptance of the actor’s own account of his behavior is unnecessary, insufficient, and untestable but also that his account is subject to being proved false, irrational, or unintelligible.” Note Segal’s negative characterization of internal coherence in contrast to a correspondence theory of truth an “external” criteria for evaluation. The implication is that the actor’s account can be proved false, irrational, or intelligible if it doesn’t meet an external standard of truth, rationality, or intelligibility.
+[^15]: . For example in his critique of Wittgensteinian understandings of nonreduction, Segal has the following analysis: “Truth for &#91;Wittgensteinians&#93; means internal coherence, not correspondence to external reality. In asserting that an actor’s beliefs are true they are asserting simply that all would-be criticisms of his beliefs reflect merely the critic’s own beliefs. Only internal, not external, criticism is permissible. &hellip; The utility of the Wittgensteinian position for nonreductionism aside, there are at least as many objections to it as to the concept of *Verstehen* in general. It has been argued not only, as with *Verstehen* generally, that acceptance of the actor’s own account of his behavior is unnecessary, insufficient, and untestable but also that his account is subject to being proved false, irrational, or unintelligible.” Note Segal’s negative characterization of internal coherence in contrast to a correspondence theory of truth an “external” criteria for evaluation. The implication is that the actor’s account can be proved false, irrational, or intelligible if it doesn’t meet an external standard of truth, rationality, or intelligibility.
 
 [^16]: . We see this, for example, in Horkheimer and Adorno’s characterization of enlightenment as the reduction of all qualities to abstract, calculable quantities: “Bourgeois society is ruled by equivalence. It makes dissimilar things comparable by reducing them to abstract quantities. For the Enlightenment, anything which cannot be resolved into numbers, and ultimately into one, is illusion; modern positivism consigns it to poetry. Unity remains the watchword from Parmenides to Russell. All gods and qualities must be destroyed.” Max Horkheimer and Theodor W. Adorno, *Dialectic of Enlightenment*, ed. Gunselin Schmid Noerr, trans. Edmund Jephcott (Stanford, CA: Stanford University Press, 2002) 4-5.
 

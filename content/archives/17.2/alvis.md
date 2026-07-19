@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2018
 pages: 396-414
+subjects:
+  - label: "Love"
+    scheme: "FAST"
+    identifier: "fst01002769"
+    uri: "https://id.worldcat.org/fast/1002769"
+    category: "topical"
+  - label: "Politics, Practical"
+    scheme: "FAST"
+    identifier: "fst01069977"
+    uri: "https://id.worldcat.org/fast/1069977"
+    category: "topical"
 ---

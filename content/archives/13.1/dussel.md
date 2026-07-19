@@ -16,4 +16,10 @@ issue: 1
 season: winter
 year: 2014
 pages: 11-53
+subjects:
+  - label: "Civilization, Modern"
+    scheme: "FAST"
+    identifier: "fst00863073"
+    uri: "https://id.worldcat.org/fast/863073"
+    category: "topical"
 ---

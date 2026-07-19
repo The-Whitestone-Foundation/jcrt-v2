@@ -21,6 +21,27 @@ tags:
   - logic
   - present
   - religious
+subjects:
+  - label: "Atheism"
+    scheme: "FAST"
+    identifier: "fst00819974"
+    uri: "https://id.worldcat.org/fast/819974"
+    category: "topical"
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first of a three-part series.
 
@@ -42,7 +63,7 @@ By paying close attention to the context of the debate, Hägglund is able to cle
 
 As such, we cannot pass over in silence the methodological assumption at work in the use of the term “atheism” to frame the debate. Hägglund begins his response by highlighting Caputo’s (and Richard Kearney’s) condemnation of “metaphysical” religion (126-127),[^1] conceding that there is a certain “atheism” at work in their work as well. That Hägglund focuses his response on Caputo clearly illustrates that this debate is about the use and abuse of deconstruction, and not about the religious claims at work, since it is Kearney’s writings that more closely mirrors Hägglund’s own position on that topic (namely, that a certain atheistic moment is necessary at the heart of every action that claims to be ‘religious’).[^2]
 
-After briefly outlining Kearney and Caputo’s responses to (i.e., agreements with) the “new atheism” of Dawkins and Hitchens, Hägglund quickly clarifies the object of his concern: the “opposition between two ways of relating to the future (one that generates ‘war’ by seeking to master or calculate time, the other that brings ‘peace’ by renouncing the attempt to program what will happen) \[that\] is central to Caputo’s reading of Jacques Derrida” (127).
+After briefly outlining Kearney and Caputo’s responses to (i.e., agreements with) the “new atheism” of Dawkins and Hitchens, Hägglund quickly clarifies the object of his concern: the “opposition between two ways of relating to the future (one that generates ‘war’ by seeking to master or calculate time, the other that brings ‘peace’ by renouncing the attempt to program what will happen) &#91;that&#93; is central to Caputo’s reading of Jacques Derrida” (127).
 
 While this seems to abandon the question of atheism, we will see that it does not. Hägglund defines his use of the term atheism as the denial of the existence of absolute immunity (140). This is radicalized by him to include the denial also of the very desire for such immunity.  As he puts it, “the radical atheism of deconstruction seeks to elucidate that what we desire and dream of is itself inhabited by autoimmunity” (140). Atheism, then, is the denial of purity, the denial that anything wholly good, wholly “immune from evil” (131), that is, from contamination by what is not it, exists. Hägglund’s ‘atheistic’ claim is that everything is autoimmune, “that the good in its *actuality* is already violated by evil, already involved in its own destruction,” and that this latter claim is necessitated by Derrida’s understanding of time (131).
 
@@ -74,7 +95,7 @@ While this understanding of survival offers a unique (and somewhat compelling) a
 
 And on this score, Hägglund’s argument requires a sharp distinction between logical structure, on the one hand, and content or context, on the other. As we have already discussed, the fact that the good can be challenged *from without* is not enough to threaten the purity of the good itself. Challenging purity by the appeal to autoimmunity requires an *intrinsic* contamination, not merely the possibility of an extrinsic one (130-131, 132). As such, the *possibility* that the future *might* be bad is itself not enough to convince us of the autoimmunity of the good—it might be enough to make belief in the notion of immortality self-referentially incoherent, but this hardly makes the very possibility of experience a *necessary* conflation of good and evil (or any pair of binary opposites).
 
-The reason Hägglund is able to make the latter move is not because of the fact that the future *might* be bad, but rather because of the structural condition that underlies this fact: “the threat that is intrinsic to the structure of the promise does not only consist in that the promise may be broken, but can also consist in that the promise may be kept… This does not mean just that the promise is always already threatened \[i.e., from without\]; it also means that the promise is \[intrinsically\] *threatening*” (129-130n.13).  It is only by appeal to this structural condition that Hägglund is able to make his claim regarding radical atheism and autoimmunity.[^4]
+The reason Hägglund is able to make the latter move is not because of the fact that the future *might* be bad, but rather because of the structural condition that underlies this fact: “the threat that is intrinsic to the structure of the promise does not only consist in that the promise may be broken, but can also consist in that the promise may be kept… This does not mean just that the promise is always already threatened &#91;i.e., from without&#93;; it also means that the promise is &#91;intrinsically&#93; *threatening*” (129-130n.13).  It is only by appeal to this structural condition that Hägglund is able to make his claim regarding radical atheism and autoimmunity.[^4]
 
 But this structure can only be understood in opposition to the context in which, or the content by which, it operates. And this very opposition—central to Derrida’s distinction between messianicity (as a structure of experience) and messianisms (as historically situated phenomenon)—is problematized by Derrida himself, throughout his oeuvre (most notably in the notion of the messianic, as the intertwining of messianicity and messianisms).[^5]
 
@@ -86,7 +107,7 @@ But this “unconditional” is not something that happens, or will happen, but 
 
 “But for the same reason, every affirmation is essentially compromised and threatened by negation, since the coming of the future also entails all the threats to which one may want to say “‘no’” (134-135). While this is true, it cannot be so only because of the “threat” of what might come in the future, in the next instant. It is not (only) that the future to come might not be pleasant that threatens us in the present, but rather that the (structural) to-come-ness of the future already problematizes, opens up, and conditions the present. This conditioning of the present entails that one’s “commitment to the survival of someone or something” that alone opens the possibility of responsibility (135) is not a commitment I make, but is a commitment that I am, a commitment made on my behalf by another.[^6]
 
-Hägglund is not unaware of this argument —though he does not here draw out the full implications of its logic for its logic. Indeed, he says it is “Derrida’s notion of ‘the trace’ \[that\] provides the logical infrastructure” for the constitutive nature of survival for experience in general (135). Hägglund is clear here that the temporality of the trace “should here not be conflated with the chronology of linear time” but is instead a “constitutive deferral and delay that is inherent in any temporal event” (135).
+Hägglund is not unaware of this argument —though he does not here draw out the full implications of its logic for its logic. Indeed, he says it is “Derrida’s notion of ‘the trace’ &#91;that&#93; provides the logical infrastructure” for the constitutive nature of survival for experience in general (135). Hägglund is clear here that the temporality of the trace “should here not be conflated with the chronology of linear time” but is instead a “constitutive deferral and delay that is inherent in any temporal event” (135).
 
 It is precisely this constitutive nature (of the trace, but also of autoimmunity and survival) that explains Derrida’s notion of the unconditional:  “The autoimmunity that follows from this tracing of time is what Derrida calls the structure of the event and he emphasizes that it is *unconditional*, in the sense that it is the condition for anything to happen” (136). The unconditional is unconditional precisely because it is the necessary condition for anything to happen.
 
@@ -100,7 +121,7 @@ I am not sure whether or not Hägglund would agree with this last point. While t
 
 This reliance, while perhaps contextual (i.e., operative primarily in this engagement with Caputo in response to Caputo’s perceived under-emphasis of this understanding of the term), is nonetheless problematic, and for a two-fold reason: first, it undercuts the very logic that Hägglund has so clearly embraced; and second, it misconstrues Caputo’s use of the term.
 
-First things first, however.  Emphasizing the structure of experience vis-à-vis the experience (of experience) is not unwarranted—Derrida himself repeatedly makes such a move, as Hägglund so helpfully points out—but it is unfinished. For while Derrida will distinguish between the structure and the content of the experience, he is also careful to point out that the structure can never be wholly separated from the content. This points lies at the center of *The Problem of Genesis in Husserl’s Philosophy*, and has “has not stopped imposing itself on \[Derrida\] from thence forward”[^7] – hence his use of “quasi-transcendentals” instead of mere “transcendentals”. To refer to another early work of Derrida: *il n’y a pas de hors-texte*—not even logical structures.
+First things first, however.  Emphasizing the structure of experience vis-à-vis the experience (of experience) is not unwarranted—Derrida himself repeatedly makes such a move, as Hägglund so helpfully points out—but it is unfinished. For while Derrida will distinguish between the structure and the content of the experience, he is also careful to point out that the structure can never be wholly separated from the content. This points lies at the center of *The Problem of Genesis in Husserl’s Philosophy*, and has “has not stopped imposing itself on &#91;Derrida&#93; from thence forward”[^7] – hence his use of “quasi-transcendentals” instead of mere “transcendentals”. To refer to another early work of Derrida: *il n’y a pas de hors-texte*—not even logical structures.
 
 The conditioned nature of the unconditional is important here, not as a critique of Hägglund’s reading of Derrida, but of his reading of Caputo. That is not to say that he is not right in some of what he says about Caputo, but I fear that he misses the larger point of Caputo’s “religious” reading of Derrida, and so perhaps also the nature of their disagreement. The disagreement is not about the nature of the logic of deconstruction, but about what we can learn from the extra-logical conditions that have shaped that logic. The question that is at stake in the debate between Caputo and Hägglund, then, is not “What is the logic of deconstruction?”, but rather “Is deconstruction only a logic?”.
 
@@ -124,4 +145,4 @@ Answering the former question correctly—and we have already stipulated that we
 
 [^6]: Cf. Derrida’s analysis of Hamlet in *Specters of Marx*.
 
-[^7]: Cf. “Preface to the 1990 Edition” of *The Problem of Genesis in Husserl’s Philosophy* (trans. Marian Hobson \[Chicago and London: University of Chicago Press, 2003\]), xv.
+[^7]: Cf. “Preface to the 1990 Edition” of *The Problem of Genesis in Husserl’s Philosophy* (trans. Marian Hobson &#91;Chicago and London: University of Chicago Press, 2003&#93;), xv.

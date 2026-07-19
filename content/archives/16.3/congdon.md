@@ -19,4 +19,10 @@ issue: 3
 season: fall
 year: 2017
 pages: 294-329
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
 ---

@@ -20,6 +20,22 @@ tags:
   - discourse
   - edition
   - rhetoric
+subjects:
+  - label: "Feminist theory"
+    scheme: "FAST"
+    identifier: "fst00922816"
+    uri: "https://id.worldcat.org/fast/922816"
+    category: "topical"
+  - label: "Representative government and representation"
+    scheme: "FAST"
+    identifier: "fst01094941"
+    uri: "https://id.worldcat.org/fast/1094941"
+    category: "topical"
+  - label: "Rhetoric"
+    scheme: "FAST"
+    identifier: "fst01096948"
+    uri: "https://id.worldcat.org/fast/1096948"
+    category: "topical"
 ---
 *The following article is republished from an earlier edition of The Journal for Cultural Theory.  The link to the original article [can be found here](https://jcrt.org/archives/14.1/yonker.pdf).*
 
@@ -31,7 +47,7 @@ Questions arise about the rhetorical purpose of the cover art: What is the main 
 
 *The Bell Jar* controversial 50th anniversary cover from Faber and Faber. Dustin Kurtz’s, an independent book publisher, invective concerning the new *Bell Jar* cover.  Popular media at the time responded negatively to *The Bell Jar* ’s new look. The online magazine Jezebel , whose tagline promises “Celebrity, Sex, Fashion for Women. Without Airbrushing,” characterized the cover as featuring a “low-rent retro wannabe pinup applying makeup.”1
 
-Dustin Kurtz, an independent book publisher, tweeted “How is this \[the new cover for *The Bell Jar* \] anything but a ‘fuck you’ to women everywhere?” Kurtz’s followers were quick to chime in about the seeming inaccuracy. The internet discussion became a spiraling web of redundantly linked ‘hear, hear!’s in which the cover was seen as shameful and disrespectful to Plath herself. The consensus appeared to be that books written by women about the complexities of womanhood should not be presented visually as “chick lit,” yet apparently it is a common practice of jacket designers to grossly misrepresent the contents of such books by doing just that.
+Dustin Kurtz, an independent book publisher, tweeted “How is this &#91;the new cover for *The Bell Jar* &#93; anything but a ‘fuck you’ to women everywhere?” Kurtz’s followers were quick to chime in about the seeming inaccuracy. The internet discussion became a spiraling web of redundantly linked ‘hear, hear!’s in which the cover was seen as shameful and disrespectful to Plath herself. The consensus appeared to be that books written by women about the complexities of womanhood should not be presented visually as “chick lit,” yet apparently it is a common practice of jacket designers to grossly misrepresent the contents of such books by doing just that.
 
 The reissue of Plath’s *The Bell Jar* is just one more recent example of this fissure between the content of a book and the visual rhetoric of its cover. In the nearly countless editions of Simone de Beauvoir’s *The Second Sex*, one finds similar dramatic tensions between covers and content. This germinal text in feminist philosophy developed a framework that several generations of critical theorists have used to examine the otherness of the female body and the disparity between men and women. In her critique of this social inequality, de Beauvoir focuses on the ways in which sexual difference has been key in the oppression of women.
 

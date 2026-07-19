@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 85-88
+subjects:
+  - label: "Evangelicalism"
+    scheme: "FAST"
+    identifier: "fst00917002"
+    uri: "https://id.worldcat.org/fast/917002"
+    category: "topical"
+  - label: "Theology, Doctrinal"
+    scheme: "FAST"
+    identifier: "fst01149617"
+    uri: "https://id.worldcat.org/fast/1149617"
+    category: "topical"
 ---

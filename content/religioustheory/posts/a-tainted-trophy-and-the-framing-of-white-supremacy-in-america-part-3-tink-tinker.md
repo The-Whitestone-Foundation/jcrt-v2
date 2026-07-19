@@ -21,6 +21,17 @@ tags:
   - history
   - domination
   - fractal
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---
 *The following is the third of a three-part series. The first can be found [](https://thenewpolis.com/2022/10/19/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/)[here]( /religioustheory/posts/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/), the second [here]( /religioustheory/posts/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-2-tink-tinker/). The entire article appears in the fall 2022 issue of [The New Polis Journal.](http://journal.thenewpolis.com/)*
 
@@ -122,7 +133,7 @@ Governor harrison reminded us in 1801 that settler-farmers, so-called, considere
 
 [^13]: This is what jennifer mccurdy identifies as a “process of relieving one’s cognitive dissonance through the changing of narratives to fit” a communal sense of an ideal/good self-image. Personal communication.
 
-[^14]: Mann argues that massacre (and perforce serial murder) is the micro level of Genocide, which is the macro phenomenon. She writes, “Unlike genocide, which from the perspective of history, is big and obvious, each massacre looks small, encapsulated, tidy, and ultimately harmless. One must stand back to take in the panorama before the sweep of the repeating pattern emerges. As fractals, massacres replicate the appearance of genocide, except repeatedly and in miniature. The fractal wavelets of massacre in the tsunami of genocide can be graphically conceptualized \[in the painting\] ‘Great wave off kanagawa’, by hokusai. The great wave is composed of endlessly repeating yet smaller wavelets obvious in the white caps, each taking the form of the main, large wave, rushing to its landed conclusion. By the same token, massacres fractally join with their fellow wavelets of massacre, each mimicking full genocide, but in miniature. Taken singly, each massacre can appear negligible, even innocuous. Some are so small that they might be easily missed in the rush of the larger events, yet were each fractal massacre not present, the wave of genocide as a whole would collapse.” Barbara mann, “Fractal massacres in the ‘old northwest,’” 167.
+[^14]: Mann argues that massacre (and perforce serial murder) is the micro level of Genocide, which is the macro phenomenon. She writes, “Unlike genocide, which from the perspective of history, is big and obvious, each massacre looks small, encapsulated, tidy, and ultimately harmless. One must stand back to take in the panorama before the sweep of the repeating pattern emerges. As fractals, massacres replicate the appearance of genocide, except repeatedly and in miniature. The fractal wavelets of massacre in the tsunami of genocide can be graphically conceptualized &#91;in the painting&#93; ‘Great wave off kanagawa’, by hokusai. The great wave is composed of endlessly repeating yet smaller wavelets obvious in the white caps, each taking the form of the main, large wave, rushing to its landed conclusion. By the same token, massacres fractally join with their fellow wavelets of massacre, each mimicking full genocide, but in miniature. Taken singly, each massacre can appear negligible, even innocuous. Some are so small that they might be easily missed in the rush of the larger events, yet were each fractal massacre not present, the wave of genocide as a whole would collapse.” Barbara mann, “Fractal massacres in the ‘old northwest,’” 167.
 
 [^15]: Green, [Rhetorical Erasure, Indian Slavery, And The Doctrine Of Discovery, Part 1 (Roger Green) – THE NEW POLIS](https://thenewpolis.com/2020/11/30/rhetorical-erasure-indian-slavery-and-the-doctrine-of-discovery-part-1-roger-green/). Poetics of sacrifice is a metaphor rooted in the technical discourse of rhetoric. Poetics references a structured form of discourse that brings together in this case all the “ceremonial” markers of the eurochristian conquest and domination of Turtle Island. That is, a poetics that celebrates the Genocide of the Native inhabitants of Turtle Island in order to allow for eurochristian occupation of Native Land. It is “religious” in that it is a litany of statures, plaques, geographical names, songs (e.g., america the beautiful), recitations (e.g., the pledge of allegiance), and the like, all of which are widely affirmed by eurochristian americans. And american participation continues, from singing the songs to tourist pilgrimages to (patriotic) historic sites and monuments.
 

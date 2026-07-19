@@ -27,4 +27,30 @@ issue: 2
 season: spring
 year: 2004
 pages:
+subjects:
+  - label: "Difference (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00893405"
+    uri: "https://id.worldcat.org/fast/893405"
+    category: "topical"
+  - label: "Psychoanalysis and religion"
+    scheme: "FAST"
+    identifier: "fst01081280"
+    uri: "https://id.worldcat.org/fast/1081280"
+    category: "topical"
+  - label: "Rationalism"
+    scheme: "FAST"
+    identifier: "fst01090275"
+    uri: "https://id.worldcat.org/fast/1090275"
+    category: "topical"
+  - label: "Reductionism"
+    scheme: "FAST"
+    identifier: "fst01092307"
+    uri: "https://id.worldcat.org/fast/1092307"
+    category: "topical"
+  - label: "Religion Study and teaching"
+    scheme: "FAST"
+    identifier: "fst01093807"
+    uri: "https://id.worldcat.org/fast/1093807"
+    category: "topical"
 ---

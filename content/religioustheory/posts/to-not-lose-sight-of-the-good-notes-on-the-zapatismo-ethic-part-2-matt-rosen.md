@@ -24,6 +24,37 @@ tags:
   - ethic
   - ethics
   - recollection
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *The following is the second of a two-part series. The first can be found [here]( /religioustheory/posts/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethic-part-1-matt-rosen/).*
 
@@ -53,7 +84,7 @@ We can thus write the fundamental ethical question as follows: is a thing recoll
 
 One instance of this ethic can be seen quite clearly in the Zapatismo notion of *horizontalidad* (horizontalism), which is a political formation in contradistinction to the classical political party or revolutionary program. In “Zapatismo and the Global Origins of Occupy,” Thomas Nail describes the impetus for creating such an alternative in the following way:
 
-> *Horizontalidad* emerged, in large part, as an alternative to political parties. Political parties have long been the organizational tools of both the Left and Right for bringing together large groups of people under commonly shared platforms and ideological positions… The party structure is the way in which the power of the state is divided up and executed. But this division is precisely one of its problems. The very nature of parties is to be partisan, oppositional, and divide the people between conflicting positions… There is no real way to change the system of party representation through the election process \[which is why the Zapatistas did not put forward or endorse a candidate in 2000 or 2006\]. Division and corruption are two major concerns at the core of the party system – and two motives for creating an alternative.[^6]
+> *Horizontalidad* emerged, in large part, as an alternative to political parties. Political parties have long been the organizational tools of both the Left and Right for bringing together large groups of people under commonly shared platforms and ideological positions… The party structure is the way in which the power of the state is divided up and executed. But this division is precisely one of its problems. The very nature of parties is to be partisan, oppositional, and divide the people between conflicting positions… There is no real way to change the system of party representation through the election process &#91;which is why the Zapatistas did not put forward or endorse a candidate in 2000 or 2006&#93;. Division and corruption are two major concerns at the core of the party system – and two motives for creating an alternative.[^6]
 
 In lieu of a political party or a unifying program, *horizontalidad* offers the gathering or assembly: this is a form of direct and egalitarian democracy in which people, with no regard to commonalities or shared qualities and identities, come together to propose solutions to communal issues. As Nail puts it, “In contrast to the oppositional structure of the party, the assembly is not divided by party lines, ideologies, or represented constituents.”[^7] Instead, it is a welcoming of each and every person who wishes to be involved, an *Encuentro*.
 

@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2018
 pages: 339-352
+subjects:
+  - label: "Faith"
+    scheme: "FAST"
+    identifier: "fst01198492"
+    uri: "https://id.worldcat.org/fast/1198492"
+    category: "topical"
+  - label: "Love"
+    scheme: "FAST"
+    identifier: "fst01002769"
+    uri: "https://id.worldcat.org/fast/1002769"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
 ---

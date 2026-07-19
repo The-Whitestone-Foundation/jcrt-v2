@@ -19,6 +19,27 @@ tags:
   - nationalism
   - political
   - religion
+subjects:
+  - label: "Democracy"
+    scheme: "FAST"
+    identifier: "fst00890077"
+    uri: "https://id.worldcat.org/fast/890077"
+    category: "topical"
+  - label: "Nationalism"
+    scheme: "FAST"
+    identifier: "fst01033832"
+    uri: "https://id.worldcat.org/fast/1033832"
+    category: "topical"
+  - label: "Populism"
+    scheme: "FAST"
+    identifier: "fst01071658"
+    uri: "https://id.worldcat.org/fast/1071658"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 **When**: Sept. 26-27, 2025
 

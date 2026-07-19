@@ -31,4 +31,30 @@ issue: 2
 season: spring
 year: 2008
 pages:
+subjects:
+  - label: "Civil society"
+    scheme: "FAST"
+    identifier: "fst00862876"
+    uri: "https://id.worldcat.org/fast/862876"
+    category: "topical"
+  - label: "Fear"
+    scheme: "FAST"
+    identifier: "fst00922034"
+    uri: "https://id.worldcat.org/fast/922034"
+    category: "topical"
+  - label: "Liberalism"
+    scheme: "FAST"
+    identifier: "fst00997183"
+    uri: "https://id.worldcat.org/fast/997183"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
 ---

@@ -8,13 +8,13 @@ author: "Ann Game"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 07
 year: 2000
 ---
 Game - Falling - JCRT 1.3 
 
-# Falling
+## Falling
 
 Ann Game,  
 University of New South Wales
@@ -27,37 +27,37 @@ University of New South Wales
 
 St Paul's fall is such a shocking experience that we use the expression 'road to Damascus experience' to identify those unanticipated life-changing events which, in drawing our attention to death, reawaken us to life. It is not something that we anticipate in the everyday. Catherine Cl'ment opens her book of falls, _Syncope: The Philosophy of Rapture_, with the example of epilepsy, a fall as dramatic as St Paul's, but one, in its fearfulness, possibly closer to home. Epilepsy is a fainting and falling that, long ago, was regarded as a divine experience: one fell, the prey of a god or spirits, and emerged, a new person (Cl'ment 1994: 1-11). And the sacred associations still attach to this experience, despite the rationalist repressions of a secular order. Living from day to day without knowing when the next fit will take them, epileptics must daily experience a frightening passivity that intimates the awesome and dreadful workings of the divine in our lives.
 
-    > In love everything changes, and continues changing all the time. There is no ' stopped clock of the heart in which the moment of happiness holds forever, but only the constant whirring forward motion of desire and need, rising and falling, falling and rising (Williams 1997: 152)
+> In love everything changes, and continues changing all the time. There is no ' stopped clock of the heart in which the moment of happiness holds forever, but only the constant whirring forward motion of desire and need, rising and falling, falling and rising (Williams 1997: 152)
 
-    > What do I mean when I say that I have my head in the clouds? ' As I begin to feel lighter than air, I also abandon myself to gravity. The further up my reverie takes me, the closer I am to making a connection '. The quieter it gets, up there where only the birds and the wind can perform their acrobatics, the stronger the pull towards my inner depths becomes. (Leontini 1998: 23-4)
+> What do I mean when I say that I have my head in the clouds? ' As I begin to feel lighter than air, I also abandon myself to gravity. The further up my reverie takes me, the closer I am to making a connection '. The quieter it gets, up there where only the birds and the wind can perform their acrobatics, the stronger the pull towards my inner depths becomes. (Leontini 1998: 23-4)
 
 ## Vertigo
 
 <p><a href="https://commons.wikimedia.org/wiki/File:The_Conversion_of_Saint_Paul-Caravaggio_(c._1600-1).jpg#/media/File:The_Conversion_of_Saint_Paul-Caravaggio_(c._1600-1).jpg"><img src="/images/external/upload-wikimedia-org-the-conversion-of-saint-paul-caravaggio-28c-1600-1-29-e7d5e7b431.webp" alt="The Conversion of Saint Paul-Caravaggio (c. 1600-1).jpg" height="720" width="577"></a><br>By <a href="https://en.wikipedia.org/wiki/en:Caravaggio" class="extiw" title="w:en:Caravaggio"><span title="Italian painter (1571–1610)">Caravaggio</span></a> - Self-scanned, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=15219745">Link</a></p>
 
-     > Very often they seemed to leave my body as light as if it had lost all its weight, and sometimes so light that I hardly knew whether my feet were touching the ground. But during the rapture itself, the body is very often like a corpse (1989: 142)
+> Very often they seemed to leave my body as light as if it had lost all its weight, and sometimes so light that I hardly knew whether my feet were touching the ground. But during the rapture itself, the body is very often like a corpse (1989: 142)
 
-     > _Saul arose from the ground; and when his eyes were opened, he could see nothing; so they led him by the hand and brought him into Damascus. And for three days he was without sight, and neither ate nor drank. ..._
+> _Saul arose from the ground; and when his eyes were opened, he could see nothing; so they led him by the hand and brought him into Damascus. And for three days he was without sight, and neither ate nor drank. ..._
 
-     > _And ... something like scales fell from his eyes and he regained his sight._ (_Acts 9_)
+> _And ... something like scales fell from his eyes and he regained his sight._ (_Acts 9_)
 
 ## Magical Falling
 
-     > And then she noticed a certain confusion among the cavalrymen. One of them had somersaulted over his horse's neck and fallen to the ground. The other horses stopped or stepped aside, so as not to trample him. It was me! I was the only one who had seen Antoinette's little panties landing on her shoes and it had taken my breath away, it had made my heart stop, and I had passed out! (Tournier 1984: 198)
+> And then she noticed a certain confusion among the cavalrymen. One of them had somersaulted over his horse's neck and fallen to the ground. The other horses stopped or stepped aside, so as not to trample him. It was me! I was the only one who had seen Antoinette's little panties landing on her shoes and it had taken my breath away, it had made my heart stop, and I had passed out! (Tournier 1984: 198)
 
-     > _I remembered vividly having known a similar sort of felicity in a car while it rained and while hedges and trees, barely covered with tenuous foliage, emerged from the spring mist and came slowly towards me' I had abandoned myself, I was absent, sweetly elated; I was gentle, I gently absorbed things. (1988: 112-113)_
+> _I remembered vividly having known a similar sort of felicity in a car while it rained and while hedges and trees, barely covered with tenuous foliage, emerged from the spring mist and came slowly towards me' I had abandoned myself, I was absent, sweetly elated; I was gentle, I gently absorbed things. (1988: 112-113)_
 
-     > It is a commonplace of ethnography that early, 'primitive' art forms were meant to tempt towards domesticity, towards familiarity, the animal presences in the great dark of the outside world. Cave paintings are talismanic and propitiatory rites performed to make of the encounter with the teeming strangeness and menace of organic presences a source of mutual recognition and of benefit. The marvels of penetrative mimesis on the bison-walls at Lascaux are solicitations: they would draw the opaque and brute force of the 'thereness' of the non-human into the luminous ambush of representation and understanding. (1989: 138-9).
+> It is a commonplace of ethnography that early, 'primitive' art forms were meant to tempt towards domesticity, towards familiarity, the animal presences in the great dark of the outside world. Cave paintings are talismanic and propitiatory rites performed to make of the encounter with the teeming strangeness and menace of organic presences a source of mutual recognition and of benefit. The marvels of penetrative mimesis on the bison-walls at Lascaux are solicitations: they would draw the opaque and brute force of the 'thereness' of the non-human into the luminous ambush of representation and understanding. (1989: 138-9).
 
 ## Involuntary Memory
 
-     > But it is sometimes just at the moment when we think that everything is lost that the intimation arrives which may save us; one has knocked at all the doors which lead nowhere, and then one stumbles without knowing it on the only door through which one can enter ' and it opens of its own accord.' I had entered the Guermantes mansion and in my absent-minded state I had failed to see a car which was coming towards me; the chauffeur gave a shout and I just had time to step out of the way, but as I moved sharply backward I tripped against the uneven paving-stones in front of the coach-house. And at that moment when, recovering my balance, I put my foot on a stone which was slightly lower than its neighbour, all my discouragement vanished and in its place was that same happiness which at various epochs of my life had been given to me by the sight of trees which I thought that I recognised in the course of a drive near Balbec, by the sight of the twin steeples of Martinville, by the flavour of a madeleine dipped in tea (Proust 1983: 898-9)
+> But it is sometimes just at the moment when we think that everything is lost that the intimation arrives which may save us; one has knocked at all the doors which lead nowhere, and then one stumbles without knowing it on the only door through which one can enter ' and it opens of its own accord.' I had entered the Guermantes mansion and in my absent-minded state I had failed to see a car which was coming towards me; the chauffeur gave a shout and I just had time to step out of the way, but as I moved sharply backward I tripped against the uneven paving-stones in front of the coach-house. And at that moment when, recovering my balance, I put my foot on a stone which was slightly lower than its neighbour, all my discouragement vanished and in its place was that same happiness which at various epochs of my life had been given to me by the sight of trees which I thought that I recognised in the course of a drive near Balbec, by the sight of the twin steeples of Martinville, by the flavour of a madeleine dipped in tea (Proust 1983: 898-9)
 
-     > The sun was shining on a row of trees that followed the railway line, flooding the upper halves of their trunks with light. 'Trees,' I thought, 'you no longer have anything to say to me. My heart has grown cold and no longer hears you' (Proust 1983: 886)
+> The sun was shining on a row of trees that followed the railway line, flooding the upper halves of their trunks with light. 'Trees,' I thought, 'you no longer have anything to say to me. My heart has grown cold and no longer hears you' (Proust 1983: 886)
 
-     > Every moment is two moments. (Michaels 1997: 140)
+> Every moment is two moments. (Michaels 1997: 140)
 
-     > A moment in the past, did I say? Was it not perhaps very much more: something that, common both to the past and to the present, is much more essential than either of them? (Proust 1983: 905)
+> A moment in the past, did I say? Was it not perhaps very much more: something that, common both to the past and to the present, is much more essential than either of them? (Proust 1983: 905)
 
 ## On the Road
 
@@ -103,11 +103,7 @@ St Paul's fall is such a shocking experience that we use the expression 'road to
 
 > **Ann Game** is Associate Professor in Sociology at the University of New South Wales, where she works collaboratively, in teaching and writing, with Andrew Metcalfe. She is author of _Undoing the Social: Towards a Deconstructive Sociology_ (Toronto: Open University Press and Toronto University Press, 1991); and with Andrew Metcalfe, _Passionate Sociology_, (London: Sage, 1996). Ann and Andrew have just completed another book: _The Mystery of Everyday Life_. .
 
-* * *
-
-> 
-
-* * *
+***
 
 2000 Ann Game. All rights reserved.  
 Updated 07/28/21.   

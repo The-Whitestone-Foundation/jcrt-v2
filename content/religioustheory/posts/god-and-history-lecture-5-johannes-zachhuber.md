@@ -19,6 +19,22 @@ tags:
   - historical
   - theological
   - revelation
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Revelation"
+    scheme: "FAST"
+    identifier: "fst01096460"
+    uri: "https://id.worldcat.org/fast/1096460"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the fifth lecture in an eight-lecture series.  The most recent one can be found [here]( /religioustheory/posts/god-and-existence-lecture-4-johannes-zachhuber/).*
 
@@ -98,7 +114,7 @@ Let me briefly (thought this succinctness is slightly unfair) touch at this poin
 
 Once again, the section heading may be a useful guidance. History is one – this is said against a tendency Gutierrez observes in traditional theology to separate secular history and salvation history. This separation, he thinks, has led to the Church’s neglect for the worldly aspects of the Christian message, notably the twin themes of justice and liberation:
 
-> \[We\] affirm that, in fact, there are not two histories, one profane and one sacred, “juxtaposed” or “closely linked.” Rather there is only one human destiny, irreversibly assumed by Christ, the Lord of history. His redemptive work embraces all the dimensions of existence and brings them to their fullness.[^3]
+> &#91;We&#93; affirm that, in fact, there are not two histories, one profane and one sacred, “juxtaposed” or “closely linked.” Rather there is only one human destiny, irreversibly assumed by Christ, the Lord of history. His redemptive work embraces all the dimensions of existence and brings them to their fullness.[^3]
 
 The thrust of Gutierrez’ argument then is directed against the assumption that developments in human history are neutral to theological interpretation – this is where he agrees with the two authors we have looked at earlier. Yet his interest is not a justification of historical developments in the light of divine providence nor a historical theodicy proving that history ultimately gives evidence for the greatness of God’s plan with his world, but to sharpen the eyes of the Church to the reality of ungodliness, of injustice, of bondage in the world around it and to impress upon Christians the task to make themselves part of those forces that work to change it. Hence his concept of a ‘theology of liberation.’
 

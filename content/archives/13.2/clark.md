@@ -20,4 +20,15 @@ issue: 2
 season: summer
 year: 2014
 pages: 38-47
+subjects:
+  - label: "Walking dead (Kirkman, Robert)"
+    scheme: "FAST"
+    identifier: "fst01938236"
+    uri: "https://id.worldcat.org/fast/1938236"
+    category: "title"
+  - label: "Zombie films"
+    scheme: "FAST"
+    identifier: "fst01184593"
+    uri: "https://id.worldcat.org/fast/1184593"
+    category: "topical"
 ---

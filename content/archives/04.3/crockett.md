@@ -29,4 +29,20 @@ issue: 3
 season: summer
 year: 2003
 pages:
+subjects:
+  - label: "Methodology"
+    scheme: "FAST"
+    identifier: "fst01018722"
+    uri: "https://id.worldcat.org/fast/1018722"
+    category: "topical"
+  - label: "Power (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01074215"
+    uri: "https://id.worldcat.org/fast/1074215"
+    category: "topical"
+  - label: "Religion Philosophy"
+    scheme: "FAST"
+    identifier: "fst01093794"
+    uri: "https://id.worldcat.org/fast/1093794"
+    category: "topical"
 ---

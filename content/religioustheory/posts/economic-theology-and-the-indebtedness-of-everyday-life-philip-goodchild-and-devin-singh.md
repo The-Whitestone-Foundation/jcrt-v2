@@ -22,6 +22,22 @@ tags:
   - economic
   - want
   - different
+subjects:
+  - label: "Justice"
+    scheme: "FAST"
+    identifier: "fst00985122"
+    uri: "https://id.worldcat.org/fast/985122"
+    category: "topical"
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
 ---
 *The following is the transcript of “Critical Conversations” No. 9, an ongoing series of Zoom seminars conducted by Whitestone Publications with distinguished international academics. This seminar on economics, theology, debt, and the religious origins of the modern economy was held on May 18, 2021.*
 

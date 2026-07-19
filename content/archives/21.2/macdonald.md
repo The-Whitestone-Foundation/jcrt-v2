@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2022
 pages: 174-201
+subjects:
+  - label: "Hymns"
+    scheme: "FAST"
+    identifier: "fst00965486"
+    uri: "https://id.worldcat.org/fast/965486"
+    category: "topical"
+  - label: "Social movements"
+    scheme: "FAST"
+    identifier: "fst01122657"
+    uri: "https://id.worldcat.org/fast/1122657"
+    category: "topical"
 ---

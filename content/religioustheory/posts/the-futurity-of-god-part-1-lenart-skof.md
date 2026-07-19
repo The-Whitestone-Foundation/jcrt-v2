@@ -18,6 +18,27 @@ tags:
   - consciousness
   - present
   - primary
+subjects:
+  - label: "Consciousness"
+    scheme: "FAST"
+    identifier: "fst00875441"
+    uri: "https://id.worldcat.org/fast/875441"
+    category: "topical"
+  - label: "Latter Day Saint churches"
+    scheme: "FAST"
+    identifier: "fst01026221"
+    uri: "https://id.worldcat.org/fast/1026221"
+    category: "topical"
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---
 ## The following article is published in two parts.
 
@@ -41,7 +62,7 @@ Primary forms can be attributed both a “life” and a “consciousness,” eve
 
 We thus see that within Ruyer’s embryogenesis of the world, the consciousness understood as a mnemic theme must already pre-exist in the world. There is a continuity that links things distant or different from themselves as far as subatomic matter and human “values”. This means that mnemic themes (or memory) gain precedence over being(s) and also that “consciousness” (in one of its forms) takes over from evolutionary biology. Finally, according to Grosz, “even God must be understood not as a divine being separate from the world, but as an acting, a mode of self-creation according to an internal ideal.”[^10] But let us return to the question of temporality in these processes: in Ruyer’s thought of the divine, the *future itself* may be the destination.
 
-Now, about this process of imagining the future, or projecting back from the pre-conceived future into our deeds or activities – as inherent or immanent in the world – Ruyer writes: “When we imagine, our imagination depends especially on our memory. But there is also a tiny proportion of creativity, of something pulled from nothing”[^11] – and this *difference* of creativity could be labelled as a *quantum moment* in theology. The growth, arising from our creativity and all of its visible consequences, however, is not all that we have: there exists, by way of comparison, *the invisible world, or the unknown God*, which is like an immense body of underground water \[being\] under a certain pressure. This underground water (as a reservoir of memories or mnemic themes) is available to us only as long as we are able to “communicate” on our own account with those layers of these supplies of water which are positioned more closely to the surface.
+Now, about this process of imagining the future, or projecting back from the pre-conceived future into our deeds or activities – as inherent or immanent in the world – Ruyer writes: “When we imagine, our imagination depends especially on our memory. But there is also a tiny proportion of creativity, of something pulled from nothing”[^11] – and this *difference* of creativity could be labelled as a *quantum moment* in theology. The growth, arising from our creativity and all of its visible consequences, however, is not all that we have: there exists, by way of comparison, *the invisible world, or the unknown God*, which is like an immense body of underground water &#91;being&#93; under a certain pressure. This underground water (as a reservoir of memories or mnemic themes) is available to us only as long as we are able to “communicate” on our own account with those layers of these supplies of water which are positioned more closely to the surface.
 
 Again: we must make our own future, but – with an important distinction now – nothing can be made without conforming to “an order existing well beyond our own wills”, in other words, “God proposes and man disposes. And this gives men, those on the surface, the impression of having to work things out alone in the visible world. Nevertheless, their entire ‘substance’ is made up of the underground water.”[^12] Finally, according to Ruyer, this unknown God isthe universal framework of the cosmos, planter of the very tree of life, the principle of all channeled memories as well as all possible types of existences that we can imagine. God is beyond all place and beyond all time and envelopes the entire material and spiritual world. This now enables us to point at another aspect of divinity – and it is precisely the sentence “As man is, God once was, as God is, man may become”[^13] of the Mormonism that we wish to bring to our discussion now.
 
@@ -53,7 +74,7 @@ The “two-natures” argument over Jesus’s identity still remains of interest
 
 As we did take words from Ruyer in a literal sense, and whilst now we are making ourselves gods in the process of apotheosis, to us God now indeed becomes *the future itself.* Now, in *King’s Follett Discourse* – perhaps the most inspiring and revealing text ever delivered and revealed by Joseph Smith – the Mormon prophet describes the genesis of a God as follows:
 
-First, God himself, who sits enthroned in yonder heaven, is a man like one of you. That is the great secret. (…) \[But\] God himself, the Father of us all, dwelt on an earth the same as Jesus Christ himself did (…) Here, then, is eternal life – to know the only wise and true God. And you have got to learn how to be Gods yourselves – to be kings and priests to god, the same as all Gods have done – by going from a small degree to another, from grace to grace, from exaltation to exaltation, until you are able to sit in glory as do those who sit enthroned in everlasting power.[^16]
+First, God himself, who sits enthroned in yonder heaven, is a man like one of you. That is the great secret. (…) &#91;But&#93; God himself, the Father of us all, dwelt on an earth the same as Jesus Christ himself did (…) Here, then, is eternal life – to know the only wise and true God. And you have got to learn how to be Gods yourselves – to be kings and priests to god, the same as all Gods have done – by going from a small degree to another, from grace to grace, from exaltation to exaltation, until you are able to sit in glory as do those who sit enthroned in everlasting power.[^16]
 
 God is our future destination, therefore. As in Ruyer’s biologico-theological innovation, there is a full continuity among human beings and gods (note a transition from a god to gods here as a mark of an inherent-dynamic plurality in the concept of divinity itself). As matter and its elements *precede* creation (and *creatio ex nihilo* becomes obsolete) both in Ruyer and in Mormonism, moreover, according to Joseph Smith, God himself could not even create himself: “God never did have power to create the spirit of man at all. God himself could not create himself. Intelligence exists upon a self-existent principle; it is a spirit from age to age, and there is no creation about it.”[^17] In a more radicalized spatially-temporalized sense, we can now contend that our divinization is well imprinted into a continuity of present and future spheres.[^18] The argument for the existence of God that we would like to present here (this argument will be upgraded at the end of this essay) – would run as follows:
 

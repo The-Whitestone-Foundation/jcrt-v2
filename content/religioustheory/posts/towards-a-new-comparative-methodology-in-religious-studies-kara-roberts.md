@@ -21,6 +21,32 @@ tags:
   - religion
   - magic
   - postmodernism
+subjects:
+  - label: "Magic"
+    scheme: "FAST"
+    identifier: "fst01005468"
+    uri: "https://id.worldcat.org/fast/1005468"
+    category: "topical"
+  - label: "Mythology"
+    scheme: "FAST"
+    identifier: "fst01031701"
+    uri: "https://id.worldcat.org/fast/1031701"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *Author Note: The following was originally written as the introduction to a much longer comparative project between two religious myths. Additionally, the creation of the following model for comparative methodology in religious studies could not have been possible without the help and guidance of Dr. Amy Balogh.* 
 
@@ -64,7 +90,7 @@ However, Geertz argues, as does this paper, that “postmodernism is past its sa
 
 Despite the setbacks that the ideological claims of postmodernism and postcolonialism have imparted on the field of comparative religious studies, there is much within these movements that is worth keeping, as they have affected the way we understand scholarship such that we cannot think without their claims in mind.[^22] Though postmodernism is often critiqued as going too far in emphasizing difference, and rejecting all metanarratives and all essentializing claims, its “open-ended approach to texts” encourages a wider range of comparison, as does its emphasis on allowing several meanings or patterns to emerge.[^23] Additionally, we have learned from the postcolonial critique that the texts scholars publish can have an impact on the people they write about.
 
-All in all, both postmodernism and postcolonialism have given us “a heightened awareness of what we are doing, why, and the dangers involved.”[^24] Within the history of the comparative religious studies field, there have been significant difficulties in developing a responsible comparative methodology; however, we know now “there are sharks in the waters of comparison, \[and\] now that we know they’re there, we can still swim – a bit more cautiously, perhaps.”[^25] Smith claims that, now, we know better how to evaluate comparisons, though we have gained little from our predecessors “either the method for making comparisons or the reasons for its practice.”[^26]
+All in all, both postmodernism and postcolonialism have given us “a heightened awareness of what we are doing, why, and the dangers involved.”[^24] Within the history of the comparative religious studies field, there have been significant difficulties in developing a responsible comparative methodology; however, we know now “there are sharks in the waters of comparison, &#91;and&#93; now that we know they’re there, we can still swim – a bit more cautiously, perhaps.”[^25] Smith claims that, now, we know better how to evaluate comparisons, though we have gained little from our predecessors “either the method for making comparisons or the reasons for its practice.”[^26]
 
 In exposing the inadequacies of past models, and the postmodernist and postcolonialist critiques of those past models, the task now is to generate a range of responsible models to counter the critiques of “scholars who would condemn the comparative study of religion to a premature demise.”[^27] With the postmodern message received, we must continue the task of progressing our field, building on past studies, refining our debates, and attempting to make sense of religions.[^28]
 
@@ -84,9 +110,9 @@ Specifically, I will be drawing from Doniger’s use of metaphors to explain “
 
 A brief description of Doniger’s metaphors will contribute to the theoretical framework of a responsible comparative project. Doniger discusses the scholarly lens through which we can understand myths: “the big view (the telescope) is the universalist view sought by Freud, Jung, Eliade; the middle view (the naked eye) is the view of contextualized cultural studies; and the small view (the microscope) is the focus on individual insight.”[^39] For the comparativist, the individual text is the microscope by which we can see the trees; the act of comparison is the telescope by which we see the forest.
 
-Thus, comparative mythology simultaneously addresses the minutiae of our daily lives and all the concerns within the galaxy.[^40] Doniger also discusses the distinction between micromyth and macromyth: the micromyth serves as the pivot of the two things being compared and establishes comparability between the two items, whereas the macromyth more closely resembles the entire life of the item, as “a composite of the details of \[its\] many variants and insights.”[^41]
+Thus, comparative mythology simultaneously addresses the minutiae of our daily lives and all the concerns within the galaxy.[^40] Doniger also discusses the distinction between micromyth and macromyth: the micromyth serves as the pivot of the two things being compared and establishes comparability between the two items, whereas the macromyth more closely resembles the entire life of the item, as “a composite of the details of &#91;its&#93; many variants and insights.”[^41]
 
-Last of Doniger’s metaphors to be used in a comparative project is that of ‘the implied spider’: Doniger references Geertz’s description of humans as “animal\[s\] suspended in webs of significance he himself has spun.”[^42] The implied spider, then, is the original author(s) working within his/her context, spinning a web from his/her experience of the various strands of culture that bear on those experiences. Doniger argues that though “we can never see this sort of spider at work, \[and\] we can only find the webs, the myths that human authors weave,” we must still believe in the existence of the spider.[^43] The fact that we cannot recover the spider does not mean that it did not exist; after all, the spider must have existed in some way “to leave the tracks that we see…the narrative.”[^44] Doniger’s metaphors provide important theoretical considerations for comparative methodology: we may view the myth through various scholarly lenses, we can address the common elements of two myths in comparison by way of the micromyth, and we must keep in mind the historical context, or the implied spider, of each myth in question.
+Last of Doniger’s metaphors to be used in a comparative project is that of ‘the implied spider’: Doniger references Geertz’s description of humans as “animals suspended in webs of significance he himself has spun.”[^42] The implied spider, then, is the original author(s) working within his/her context, spinning a web from his/her experience of the various strands of culture that bear on those experiences. Doniger argues that though “we can never see this sort of spider at work, &#91;and&#93; we can only find the webs, the myths that human authors weave,” we must still believe in the existence of the spider.[^43] The fact that we cannot recover the spider does not mean that it did not exist; after all, the spider must have existed in some way “to leave the tracks that we see…the narrative.”[^44] Doniger’s metaphors provide important theoretical considerations for comparative methodology: we may view the myth through various scholarly lenses, we can address the common elements of two myths in comparison by way of the micromyth, and we must keep in mind the historical context, or the implied spider, of each myth in question.
 
 Similarly, Smith has important contributions to comparative methodology. Most relevant to the present study is Smith’s discussion of the ‘third term.’ Smith discusses how the enterprise of comparison brings different items together “solely within the space of the scholar’s mind.”[^45] Whatever the theoretical reasons of the scholar, the justification for comparison of the two comparands and the lens through which the scholar compares them exists within the scholar’s imagination. Recognizing the ‘third term’ is an integral facet of responsible comparative methodology since it addresses the subjective addition of human thought and experience that seek to encourage a conversation of two potentially unrelated comparands.
 

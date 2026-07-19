@@ -19,6 +19,22 @@ tags:
   - spirituality
   - religious
   - neurotheological
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---
 ***Neurotheology: How Science Can Enlighten Us About Spirituality.*** **Newberg, Andrew. New York: Columbia University Press, 2018. ISBN 9780231179041**. **Hardback. 321 pages.**
 

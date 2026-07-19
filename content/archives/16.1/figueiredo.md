@@ -12,11 +12,17 @@ keywords:
   - gregory-l
   - ulmer
   - victor
-pdf:
+pdf: IntroFigueiredo.pdf
 sort_id:
 volume: 16
 issue: 1
 season: winter
 year: 2016
 pages: 1-4
+subjects:
+  - label: "Humanities"
+    scheme: "FAST"
+    identifier: "fst00963588"
+    uri: "https://id.worldcat.org/fast/963588"
+    category: "topical"
 ---

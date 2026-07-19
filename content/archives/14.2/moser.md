@@ -19,4 +19,25 @@ issue: 2
 season: spring
 year: 2015
 pages: 414-424
+subjects:
+  - label: "Epistemic logic"
+    scheme: "FAST"
+    identifier: "fst01893645"
+    uri: "https://id.worldcat.org/fast/1893645"
+    category: "topical"
+  - label: "Idolatry"
+    scheme: "FAST"
+    identifier: "fst00966944"
+    uri: "https://id.worldcat.org/fast/966944"
+    category: "topical"
+  - label: "Personality"
+    scheme: "FAST"
+    identifier: "fst01058667"
+    uri: "https://id.worldcat.org/fast/1058667"
+    category: "topical"
+  - label: "Virtue epistemology"
+    scheme: "FAST"
+    identifier: "fst01167721"
+    uri: "https://id.worldcat.org/fast/1167721"
+    category: "topical"
 ---

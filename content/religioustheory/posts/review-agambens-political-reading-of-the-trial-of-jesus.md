@@ -17,6 +17,17 @@ tags:
   - legal
   - political
   - historical
+subjects:
+  - label: "Judgment"
+    scheme: "FAST"
+    identifier: "fst00984572"
+    uri: "https://id.worldcat.org/fast/984572"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Agamben, Giorgio. *Pilate and Jesus* (Meridian: Crossing Aesthetics). Translated by Adam Kotsko. Stanford: Stanford University Press, 2015. ISBN 10: 0804794545 Hardcover, paperback, e-book. 88 pages.**
 
@@ -46,7 +57,7 @@ What is at stake here is two competing claims of sovereignty: the empire of huma
 
 In the narrative, what follows is more back and forth between Jesus, Pilate, and the crowds outside wishing to have Jesus executed for not only blasphemy against the Hebrew God, but – and more importantly in the context of a Roman trial – sedition against the empire. It is only after this that Pilate takes his place on the judgment seat, indicating that it is precisely then that a formal legal trial begins.
 
-Yet it is here that Agamben keys in on an ambiguity, in both the texts and the tradition, as to whether Pilate makes a legal judgment, properly speaking, in regards to the fate of Christ. Near the conclusion of the trial (if it can, in the end, be called that), John 19:13 reads in the Textus Receptus “ἤγαγεν ἔξω τὸν Ἰησοῦν καὶ ἐκάθισεν ἐπὶ τοῦ βήματος,” which is usually translated as something like, “He \[Pilate\] brought Jesus out, and sat down on the judgment seat” (NASB).
+Yet it is here that Agamben keys in on an ambiguity, in both the texts and the tradition, as to whether Pilate makes a legal judgment, properly speaking, in regards to the fate of Christ. Near the conclusion of the trial (if it can, in the end, be called that), John 19:13 reads in the Textus Receptus “ἤγαγεν ἔξω τὸν Ἰησοῦν καὶ ἐκάθισεν ἐπὶ τοῦ βήματος,” which is usually translated as something like, “He &#91;Pilate&#93; brought Jesus out, and sat down on the judgment seat” (NASB).
 
 However, there is, an alternative reading, to which Agamben draws attention, saying, “an exegetical tradition that draws its authority from Justin (Apology I, XXXV, 6) and, among modern authors, from Harnack and Dibelius, understands *ekethisen* in a transitive sense: ‘He led Jesus outside and sat him on the judge’s bench.’” That it would be Jesus, and not Pilate, sitting on the judge’s bench, suggests Agamben, may fit with the accounts of Matthew and Luke in which Jesus is dressed in a purple robe, given a scepter, and hailed as the “King of the Jews,” as it explicitly fits with the apocryphal Gospel of Peter (c. 190 CE), in which the people “put on him a purple robe, and made him sit upon the seat of judgment, saying: Give righteous judgment, thou King of Israel” (3:7).
 

@@ -21,6 +21,27 @@ tags:
   - affective
   - theory
   - animal
+subjects:
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Schaefer, Donovan O.  [*Religious Affects: Animality, Evolution, and Power*](https://www.dukeupress.edu/religious-affects).  Durham NC:  Duke University Press, 2015.  ISBN 10: 978-0-8223-5982-1, 10: 978-0-8223-5990-6.  Hardback, paperback, e-book.  304 pages.**
 
@@ -38,7 +59,7 @@ The turn to affect then is a turn to an embodied, sinewy phenomenology of religi
 
 Intransigence (chapter two) marks for Schaefer forms of embodied experience that pull apart the overly symbolic orientation and also distinguishes the strand of affect theory his project mostly draws upon. Divisible into two currents, affect theory is has developed in both a Deleuzian and phenomenological mode. Broadly speaking, affect in the Deluezian sense operates underneath and distinct from emotions (of which we might be conscious), which are categorically distinct from the cognitive domain and oriented towards the pure becoming of being.
 
-The phenomenological understanding of affect is less distinct and autonomous, effectively “paracognitive, *coassembling* with the cognitive.” (24) In this way, the phenomenological strand is more amenable to the practical focus which Schaefer (and the materialist turn more generally) maintains alongside the theoretical developments. Affects operate as “ensemble\[s\] of psychological engines” which hover at the level of lived experience and thus can be observed in some cases as they operate through us. (28)
+The phenomenological understanding of affect is less distinct and autonomous, effectively “paracognitive, *coassembling* with the cognitive.” (24) In this way, the phenomenological strand is more amenable to the practical focus which Schaefer (and the materialist turn more generally) maintains alongside the theoretical developments. Affects operate as “ensembles of psychological engines” which hover at the level of lived experience and thus can be observed in some cases as they operate through us. (28)
 
 These affects become intransigent in the sense that they are evolutionarily derived “ affective channels biologically inscribed in bodies.” (44) As such, the phenomenological affect paradigm gives us an alternative to the anti-biologism of much critical theory, developing an ontology of evolved semistable essences in animal bodies, which pushes back against the angelic autonomy of the liberal subject. The human animal is built and bound by forces from deep time, embodied histories that predate and subtend linguistic social constructions. In a way similar to other embodied studies of trauma show, affective intransigence marks the way in which the body ‘keeps the score’ of an ancestral life beyond self and socio-linguistic determination.[^1]
 

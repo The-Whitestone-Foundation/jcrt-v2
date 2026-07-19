@@ -31,4 +31,20 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
+  - label: "Psychoanalysis and religion"
+    scheme: "FAST"
+    identifier: "fst01081280"
+    uri: "https://id.worldcat.org/fast/1081280"
+    category: "topical"
+  - label: "Religion and politics"
+    scheme: "FAST"
+    identifier: "fst01093842"
+    uri: "https://id.worldcat.org/fast/1093842"
+    category: "topical"
 ---

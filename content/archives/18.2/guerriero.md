@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2019
 pages: 338-343
+subjects:
+  - label: "Catholic Church"
+    scheme: "FAST"
+    identifier: "fst00531720"
+    uri: "https://id.worldcat.org/fast/531720"
+    category: "corporate"
+  - label: "Fundamentalism"
+    scheme: "FAST"
+    identifier: "fst00936186"
+    uri: "https://id.worldcat.org/fast/936186"
+    category: "topical"
+  - label: "Relativity"
+    scheme: "FAST"
+    identifier: "fst01093602"
+    uri: "https://id.worldcat.org/fast/1093602"
+    category: "topical"
 ---

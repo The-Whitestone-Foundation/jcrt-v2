@@ -22,8 +22,29 @@ tags:
   - social
   - globalization
   - phenomenology
+subjects:
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
-**The following is the introductory article for the [Spring 2018 issue (Vol. 17, No. 2)](https://jcrt.org/archives/17.2/) of the *[Journal for Cultural and Religious Theory](https://jcrt.org).*  It is published in two installments.  The whole .pdf version can be found [here](https://jcrt.org/archives/17.2/Hagedorn%20and%20Staudigl.pdf).  The article was conceived and written with the generous support of two research grants from the [Austrian Science Fund (FWF)](https://www.fwf.ac.at/en/). It was conceived in framework of the project ‘Religion beyond Myth and Enlightenment’ \[grant number P 23255\], and concluded in the project ‘The Return of Religion as a Challenge for Thinking’ \[grant number I 2785\].**
+**The following is the introductory article for the [Spring 2018 issue (Vol. 17, No. 2)](https://jcrt.org/archives/17.2/) of the *[Journal for Cultural and Religious Theory](https://jcrt.org).*  It is published in two installments.  The whole .pdf version can be found [here](https://jcrt.org/archives/17.2/Hagedorn%20and%20Staudigl.pdf).  The article was conceived and written with the generous support of two research grants from the [Austrian Science Fund (FWF)](https://www.fwf.ac.at/en/). It was conceived in framework of the project ‘Religion beyond Myth and Enlightenment’ &#91;grant number P 23255&#93;, and concluded in the project ‘The Return of Religion as a Challenge for Thinking’ &#91;grant number I 2785&#93;.**
 
 It was in Vienna where, nearly 90 years ago, Sigmund Freud’s groundbreaking critique of modern civilization appeared.  Civilization and Its Discontents, as it was entitled in the English translation, became one of the 20th century’s seminal books and indeed has significantly shaped the modern worldview and self-understanding.  The discontents—in plural form—about which it speaks can easily be reduced to one single finding: modern man is unhappy.
 
@@ -75,7 +96,7 @@ The so-called “dialectics of secularization” testifies to this abyssal condi
 
 [^2]: The same also holds, by the way, for Norbert Elias’ conception of the “process of civilization” which borders, as several among his scholars have shown, also upon related various processes of “de-civilization.” See N. Elias, *The Civilizing Process*, trans. E. Jephcott  (New York: Urizen Books, 1978); critical against Elias is H.-P. Duerr in his extensive work *Der Mythos vom Zivilisationsprozess*, 5 vols. (Frankfurt on the Main: Suhrkamp, 1988-2002); see also S. Fletcher “Towards a Theory of Decivilizing Processes.” *Amsterdams Sociologisch Tijdschrift* 22(2): 283–96; S. Mennell, “Decivilising Processes: Theoretical Significance and Some Lines of Research.” *International Sociology* 5(2): 205–223.
 
-[^3]: See S. Freud, *Civilization and its Discontents* (New York: Norton 1961), 39. The related passage, which is of importance for our overall argument, reads as follows: “Long ago \[man\] formed an ideal conception of omnipotence and omniscience which he embodied in his gods. To these gods he attributed everything that seemed unattainable to his wishes, or that was forbidden to him. One may say, therefore, that these gods were cultural ideals. Today he has come very close to the attainment of this ideal, he has almost become a god himself. Only, it is true, in the fashion in which ideals are usually attained according to the general judgment of humanity: not completely, in some respects not at all, in others only half way. Man has, as it were, become a kind of prosthetic God. When he puts on all his auxiliary organs he is truly magnificent; but those organs have not grown on to him and they still give him much trouble at times … Future ages will bring with them new and probably unimaginably great achievements in this field of civilization and will increase man’s likeness to God still more. But in the interests of our investigations, we will not forget that present-day man does not feel happy in his Godlike character.” (Ibid.)
+[^3]: See S. Freud, *Civilization and its Discontents* (New York: Norton 1961), 39. The related passage, which is of importance for our overall argument, reads as follows: “Long ago &#91;man&#93; formed an ideal conception of omnipotence and omniscience which he embodied in his gods. To these gods he attributed everything that seemed unattainable to his wishes, or that was forbidden to him. One may say, therefore, that these gods were cultural ideals. Today he has come very close to the attainment of this ideal, he has almost become a god himself. Only, it is true, in the fashion in which ideals are usually attained according to the general judgment of humanity: not completely, in some respects not at all, in others only half way. Man has, as it were, become a kind of prosthetic God. When he puts on all his auxiliary organs he is truly magnificent; but those organs have not grown on to him and they still give him much trouble at times … Future ages will bring with them new and probably unimaginably great achievements in this field of civilization and will increase man’s likeness to God still more. But in the interests of our investigations, we will not forget that present-day man does not feel happy in his Godlike character.” (Ibid.)
 
 [^4]: This concept is introduced in P. Ricœur, *Fallible Man,* trans. C. A. Kelbley (New York: Fordham University Press, 1986).
 

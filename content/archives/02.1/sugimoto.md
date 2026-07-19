@@ -8,13 +8,13 @@ author: "Michael Tadashi Sugimoto"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 07
 year: 2000
 ---
 Sugimoto - Nation as University - JCRT 2.1 
 
-# Nation as University; or the School We Never Leave
+## Nation as University; or the School We Never Leave
 
 a review of ![](http://service.bfast.com/bfast/serve?bfmid=2181&sourceid=27747321&bfpid=0802841805&bfmtype=book)[_The Scandal of the Evangelical Mind_](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0802841805&bfmtype=book), by Mark Noll (Grand Rapids: Eerdmans, 1996); $15.00.
 
@@ -43,11 +43,7 @@ A  recent cover article in the _Atlantic Monthly_ [^1] and numerous other articl
 
 > **Mike Sugimoto** is an assistant professor of Japanese literature and culture at the University of Puget Sound in Tacoma, WA. He did his doctoral research in modern Japanese literature, aesthetics, and literary theory at Cornell University, focussing upon the relationship between Japanese nationalism and modernist poetics. He teach courses on modern literature, nationalism, film, and Asian classics. His article, "Oliver Stone's _JFK_ and the Loss of Social Memory," is forthcoming in _2000 Film & History: An Interdisciplinary Journal of Film and TV Studies CD-ROM Annual_ (March 2001).
 
-* * *
-
-> 
-
-* * *
+***
 
 2000 Mike Sugimoto. All rights reserved.  
 Updated 07/28/21.   

@@ -18,6 +18,22 @@ tags:
   - relation
   - ethics
   - totality
+subjects:
+  - label: "Ethics"
+    scheme: "FAST"
+    identifier: "fst00915833"
+    uri: "https://id.worldcat.org/fast/915833"
+    category: "topical"
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first of a two part series. [The entire article](https://jcrt.org/archives/22.1/Sedmak.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
 

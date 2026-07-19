@@ -1,9 +1,11 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
+import { controlledSubjects } from "../_config/subjects.js";
 
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
+const THEORY_DIR = path.join(ROOT, "content", "religioustheory", "posts");
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
 const NON_ARTICLE_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
 
@@ -156,6 +158,7 @@ export default function dataciteArchives() {
 		const title = String(data.title || "").trim() || slug;
 		const creators = splitAuthors(data.author);
 		const keywords = splitKeywords(data.keywords);
+		const subjects = controlledSubjects(data.subjects);
 		const description = String(data.description || data.abstract || "").trim();
 		const pageUrl = `${baseUrl}/archives/${issueSlug}/${slug}/`;
 		const pdfUrl = `${filesUrl}/archives/${issueSlug}/${pdfFile}`;
@@ -179,6 +182,41 @@ export default function dataciteArchives() {
 			dateIssued,
 			description,
 			keywords,
+			subjects,
+			section: "archives",
+		});
+	}
+
+	for (const filePath of walkMarkdown(THEORY_DIR)) {
+		const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+		if (!data || typeof data !== "object" || data.published === false || data.draft) continue;
+		const fileSlug = path.basename(filePath, ".md");
+		const slug = String(data.slug || fileSlug).trim();
+		if (!slug) continue;
+		const title = String(data.title || "").trim();
+		if (!title) continue;
+		const pageUrl = `${baseUrl}/religioustheory/posts/${slug}/`;
+		const dateIssued = normalizeDate(data.date);
+		records.push({
+			slug,
+			issueSlug: "religioustheory",
+			issueMajor: -1,
+			issueMinor: -1,
+			title,
+			creators: splitAuthors(data.author).length ? splitAuthors(data.author) : ["JCRT Editors"],
+			publisher: "Whitestone Publications",
+			publicationYear: normalizeYear(data.date) || "1999",
+			resourceType: "BlogPosting",
+			resourceTypeGeneral: "Text",
+			identifier: pageUrl,
+			identifierType: "URL",
+			pageUrl,
+			pdfUrl: "",
+			dateIssued,
+			description: String(data.description || data.abstract || "").trim(),
+			keywords: [...splitKeywords(data.categories), ...splitKeywords(data.tags)].filter((value) => value !== "theoryPosts"),
+			subjects: controlledSubjects(data.subjects),
+			section: "religioustheory",
 		});
 	}
 

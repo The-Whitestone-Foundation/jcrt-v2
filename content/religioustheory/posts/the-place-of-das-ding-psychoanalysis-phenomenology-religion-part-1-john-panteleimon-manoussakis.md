@@ -24,6 +24,37 @@ tags:
   - phenomenology
   - psychoanalysis
   - discussion
+subjects:
+  - label: "Discussion"
+    scheme: "FAST"
+    identifier: "fst00895143"
+    uri: "https://id.worldcat.org/fast/895143"
+    category: "topical"
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following article is the first installment of a two-part series.  The second installment can be found [here.]( /religioustheory/posts/the-place-of-das-ding-psychoanalysis-phenomenology-religion-part-2-john-panteleimon-manoussakis/)*
 
@@ -79,7 +110,7 @@ Even though the Other makes a threefold appearance in the *Republic*, or, precis
 
 The theme of that suppression was announced already from the very first pages of the *Republic*, when Cephalus draws a parallelism between sexual desire and political authority. Getting older, Cephalus said, frees oneself from the mania of a wild Master (329d and 329c4). Furthermore, in the same prelude to the dialogue, Cephalus is told to be not the father of his wealth and therefore he “does not love money that much” (330b8- 9)—not as much, at least, as poets love their own poems and fathers their own children (330c3-4). I see in this double metaphor an oblique reference to the discussions on the poets (in book III) and on parenting (in book V, second wave).
 
-Desire is to be either excluded or repressed in the City. Cephalus serves as the emblem of that City and his name (“the Head”) already tells us enough about what kind of City we are to encounter, a City of Heads (where the “heads” of the City, the rulers, are disproportionally discussed in comparison to the other classes) and, therefore, a City where there is no place or consideration *for the body* (e.g., in Book V, the difference between women and men is reduced to the difference between bold and hairy men \[454c2\] or, the fact that gymnastics is also to benefit the soul, with little or no reference to the body, \[in Book III, 403d\]).
+Desire is to be either excluded or repressed in the City. Cephalus serves as the emblem of that City and his name (“the Head”) already tells us enough about what kind of City we are to encounter, a City of Heads (where the “heads” of the City, the rulers, are disproportionally discussed in comparison to the other classes) and, therefore, a City where there is no place or consideration *for the body* (e.g., in Book V, the difference between women and men is reduced to the difference between bold and hairy men &#91;454c2&#93; or, the fact that gymnastics is also to benefit the soul, with little or no reference to the body, &#91;in Book III, 403d&#93;).
 
 This is the time to remind you that Socrates turns to the discussion of this ideal city only insofar as it can serve as an image of the Soul, whose tripartition into the rational, the spirited and the desiring part is famously established throughout this dialogue’s pages. That tripartition of the soul is, of course, not unknown to all of us who recognize in it Freud’s three celebrated psychic agents, namely, the super-ego, the ego, and the id respectively.
 
@@ -110,6 +141,6 @@ By each dialogue, as if by a new step, the reader would have been brought closer
 
 1 Brian Becker, “Flight from the Flesh: Freud’s Id and Ego as Saturated Phenomena,” pp. 18-19 of the manuscript (emphasis added).
 
-2 “\[Oedipus\] relies on the victories won by pure reflection and on a clear consciousness of self. His failure to recognize the forces he should have controlled and integrated is thus allowed to burgeon. Instead of letting the wise element dominate the others, the irascible and the concupiscent elements, Oedipus detaches this reasonable element, gives it a kind of autonomy and independence (by self-reflection), to such an  extent that the lion and multiform beast find themselves unchained, released, liberated. Patricide and incest, even involuntarily committed, are the most searing and profound expression of that liberation, itself involuntary, unpremeditated, of two nonhuman elements. When Oedipus gets angry and kills Laïus, it is the lion element that is rebelling against the head. When Oedipus manages to share the queen’s bed, it is the concupiscent element that is secretly satisfied. Each of Oedipus’s involuntary crimes embodies a return of a part of the Sphinx, the return of an unconsumed and uncomforted element of the tripartite monster that represents the monstrosity of the soul itself in its cryptic profundity.” Goux, *Oedipus, Philosopher*, p. 157.
+2 “&#91;Oedipus&#93; relies on the victories won by pure reflection and on a clear consciousness of self. His failure to recognize the forces he should have controlled and integrated is thus allowed to burgeon. Instead of letting the wise element dominate the others, the irascible and the concupiscent elements, Oedipus detaches this reasonable element, gives it a kind of autonomy and independence (by self-reflection), to such an  extent that the lion and multiform beast find themselves unchained, released, liberated. Patricide and incest, even involuntarily committed, are the most searing and profound expression of that liberation, itself involuntary, unpremeditated, of two nonhuman elements. When Oedipus gets angry and kills Laïus, it is the lion element that is rebelling against the head. When Oedipus manages to share the queen’s bed, it is the concupiscent element that is secretly satisfied. Each of Oedipus’s involuntary crimes embodies a return of a part of the Sphinx, the return of an unconsumed and uncomforted element of the tripartite monster that represents the monstrosity of the soul itself in its cryptic profundity.” Goux, *Oedipus, Philosopher*, p. 157.
 
 3 Hegel, *Aesthetics*, translated by T.M. Knox (Oxford: Oxford University Press, 1975), vol. I, p. 361: “It is in this sense that the Sphinx in the Greek myth, which we ourselves may interpret again symbolically, appears as a monster asking a riddle. The Sphinx propounded the well-known conundrum: What is it that in the morning goes on four legs, at mid-day on two, and in the evening on three? Oedipus found the simple answer: a man, the he tumbled the Sphinx from the rock. The explanation of the symbol lies in the absolute meaning, in the spirit, just as the famous Greek inscription calls to man: Know thyself.” Hegel offers these remarks at the end of the section entitled, significantly enough, “Unconscious Symbolism.” It is also interesting to note that he connects Oedipus’ answer with the Delphic inscription (an allusion  to Apollonian, and by extension, Socratic spirit). See also, Goux, pp. 164-6.

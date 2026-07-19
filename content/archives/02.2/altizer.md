@@ -8,13 +8,13 @@ author: "Thomas J J Altizer"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2001
 ---
 Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
 
-# Absolute Nothingness and Taylor's Imagology
+## Absolute Nothingness and Taylor's Imagology
 
 Thomas J. J. Altizer  
 SUNY Stony Brook, Emeritus
@@ -31,13 +31,9 @@ Mark Taylor has remarked many times recently that theology has come to an end in
 
 > **Thomas J. J. Altizer** is thankfully retired from the State University of New York at Stony Brook where he was a professor of religious studies and is now engaged in furthering and hopefully completing his theological work which has always centered upon the death of God.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Thomas J. J. Altizer All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Thomas J. J. Altizer All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.2/altizer](https://jcrt.org/archives/02.2/altizer/)
 

@@ -23,6 +23,37 @@ tags:
   - linguistics
   - difference
   - france
+subjects:
+  - label: "France"
+    scheme: "FAST"
+    identifier: "fst01204289"
+    uri: "https://id.worldcat.org/fast/1204289"
+    category: "geographic"
+  - label: "Linguistics"
+    scheme: "FAST"
+    identifier: "fst00999202"
+    uri: "https://id.worldcat.org/fast/999202"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Symptoms"
+    scheme: "FAST"
+    identifier: "fst01140998"
+    uri: "https://id.worldcat.org/fast/1140998"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 ## The following is the first of a two-part series.
 
@@ -112,7 +143,7 @@ In *Difference & Repetition*, Deleuze carefully navigates this terrain through h
 
 In a synesthetic move, Deleuze collapses “the psychic multiplicities of imagination and phantasy, the biological multiplicities of vitality and ‘monstrosity,’ the physical multiplicities of sensibility and sign…” by asserting the sub-representative place of the Idea.[^18]  Thus he claims that “the unconscious may be defined either by the extra-propositional and non-actual character of Ideas in the *para-sense*, or by the non-empirical character of the *paradoxical* exercise of the faculties.”[^19]  He then moves to discuss the twentieth-century preoccupation with ontology and attributes a novelistic or theatrical quality to the Idea, thus subordinating the discussion of science and philosophy to literature.  He notes that by doing so, we come to see how Being questions its own difference and
 
-> \[h\]ence, that form of writing which is nothing but the question ‘what is writing?’, or that thought which asks, ‘what does it mean to think?’. These give rise to the greatest monotonies and the greatest weaknesses of the new-found common sense in the absence of the genius of the Idea, but also to the most powerful ‘repetitions’, the most prodigious inventions in the para-sense when the Idea emerges in all its violence.[^20]
+> hence, that form of writing which is nothing but the question ‘what is writing?’, or that thought which asks, ‘what does it mean to think?’. These give rise to the greatest monotonies and the greatest weaknesses of the new-found common sense in the absence of the genius of the Idea, but also to the most powerful ‘repetitions’, the most prodigious inventions in the para-sense when the Idea emerges in all its violence.[^20]
 
 The discussion then turns back toward Nietzsche and Leibniz, and particularly ‘affirmation’ in the Nietzschean sense.[^21] The task becomes the affirmation of chance, an aleatoric apogee in the throw of the dice: “The most difficult thing is to make chance an object of *affirmation*, but it is the sense of the imperative and the questions that it launches.  Ideas emanate from it just as singularities emanate from that aleatory point which every time condenses the whole of chance onto time.”[^22]  The violence of the Idea is in the imperative form in which it emerges.  It is not something we have control over, and that is why Deleuze situates it in the unconscious.
 

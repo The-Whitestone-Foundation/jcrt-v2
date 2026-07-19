@@ -18,4 +18,10 @@ issue: 3
 season: fall
 year: 2019
 pages: 466-490
+subjects:
+  - label: "Animism"
+    scheme: "FAST"
+    identifier: "fst00809637"
+    uri: "https://id.worldcat.org/fast/809637"
+    category: "topical"
 ---

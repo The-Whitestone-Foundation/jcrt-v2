@@ -20,6 +20,12 @@ tags:
   - native
   - colonial
   - military
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
 ---
 *The following is the final of a three-part series.  The first installation can be found [here]( /religioustheory/posts/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe-part-1/), the second [here]( /religioustheory/posts/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-part-2-tink-tinker-wazhazhe-udsethe/).  The article in full originally appeared in The New Polis in January, 2019.*
 
@@ -129,7 +135,7 @@ David may have been sanitized, but we are back to Indian men being identified as
 
 In 2007 Morgan reunion activities included a song celebrating David Morgan’s murder of these two Lenape men,[^66] sung by a sixth grade descendent accompanied by his teacher, also a descendent. The explicit christian identification here (catholic affiliation) of both student and teacher should be noted here. Sometimes “euro-christian” is a sociological designation, at other times it is much more transparent and explicit.
 
-A song about David Morgan, titled “My River,” will be sung by \[a sixth-grader\] from Fairmont Catholic Grade School. Committee member Robert Ellis, \[the student’s\] music teacher at Fairmont Catholic, will provide accompaniment. The song originally was created by West Virginia composer William Prunty, also a Morgan descendant. Prunty began writing a musical about David Morgan’s life but died in 1999, before it could be finished. Ellis hopes one day to complete the folk musical and perform it at Pricketts Fort.[^67]
+A song about David Morgan, titled “My River,” will be sung by &#91;a sixth-grader&#93; from Fairmont Catholic Grade School. Committee member Robert Ellis, &#91;the student’s&#93; music teacher at Fairmont Catholic, will provide accompaniment. The song originally was created by West Virginia composer William Prunty, also a Morgan descendant. Prunty began writing a musical about David Morgan’s life but died in 1999, before it could be finished. Ellis hopes one day to complete the folk musical and perform it at Pricketts Fort.[^67]
 
 Killing Indians was still being memorialized as heroic accomplishment in christian schools in 2007. So why can’t Indians let go of our painful past? Perhaps we can talk about that when White euro-christian folk finally let go of their past and stop celebrating the genocide of Indian Peoples. Of course, the problem is that this would mean letting go of George Washington, Indian killer and slave owner; and letting go of Andrew Jackson, Indian killer and slave owner; and letting go of lots of other White euro-christian heroes. That would go way beyond removing confederate statues.
 
@@ -169,7 +175,7 @@ General Josiah Harmer reported a similar incident ten years later (1791). Killin
 
 [^51]:Zane Grey, *The Spirit of the Border* (New York: A. L. Burt Co., 1906), 4.
 
-[^52]:*National Gazette*on February 2, 1792. Brackenridge’s article appeared on the front page of the newspaper, published in Philadelphia by his longtime friend and associate Philip Freneau. He included his newspaper comments in his later book: *Incidents of the Insurrection*, \[1795\] 41–43.
+[^52]:*National Gazette*on February 2, 1792. Brackenridge’s article appeared on the front page of the newspaper, published in Philadelphia by his longtime friend and associate Philip Freneau. He included his newspaper comments in his later book: *Incidents of the Insurrection*, &#91;1795&#93; 41–43.
 
 [^53]:Patrick Spero, *Frontier Country: The Politics of War in Early Pennsylvania* (Univ. of Pennsylvania, 2016), p.255.
 
@@ -199,10 +205,10 @@ General Josiah Harmer reported a similar incident ten years later (1791). Killin
 
 [^66]:The song has its own web-site, where it can be heard and downloaded: [http://www.colmorganmorganreunion.org/miscpage/myriver.htm](http://www.colmorganmorganreunion.org/miscpage/myriver.htm).
 
-[^67]:Lindsey Fleming, “**Morgan family plans 100th reunion,”** *The Dominion Post*, Morgantown, W.Va., Jun 4, 2007; McClatchy – Tribune Business News ; Washington \[Washington\]04 June 2007: 1. Retrieved from [http://du.idm.oclc.org/login?url=<https://search.proquest.com/docview/462273435?accountid=14608](http://du.idm.oclc.org/login?url=https://search.proquest.com/docview/462273435?accountid=14608). Robert Ellis claims a ninth-generation direct descendency from Col. Morgan Morgan, David’s father. He is a church musician (catholic) and a sometime academic teaching at local colleges. He has published a “scholarly” article in an “academic” journal, yet his writing is a mere re-warming of the old but ever growing fantasy legend of Morgan and David Morgan: Robert Ellis, “Col. Morgan Morgan and His Descendants” in *Traditions: A Journal of West Virginia Folk Culture and Educational Awareness*.
+[^67]:Lindsey Fleming, “**Morgan family plans 100th reunion,”** *The Dominion Post*, Morgantown, W.Va., Jun 4, 2007; McClatchy – Tribune Business News ; Washington &#91;Washington&#93;04 June 2007: 1. Retrieved from [http://du.idm.oclc.org/login?url=<https://search.proquest.com/docview/462273435?accountid=14608](http://du.idm.oclc.org/login?url=https://search.proquest.com/docview/462273435?accountid=14608). Robert Ellis claims a ninth-generation direct descendency from Col. Morgan Morgan, David’s father. He is a church musician (catholic) and a sometime academic teaching at local colleges. He has published a “scholarly” article in an “academic” journal, yet his writing is a mere re-warming of the old but ever growing fantasy legend of Morgan and David Morgan: Robert Ellis, “Col. Morgan Morgan and His Descendants” in *Traditions: A Journal of West Virginia Folk Culture and Educational Awareness*.
 
 [^68]:[http://www.politico.com/magazine/story/2017/09/05/america-nation-ideas-donald-trump-215532?lo=ap\_e1](http://www.politico.com/magazine/story/2017/09/05/america-nation-ideas-donald-trump-215532?lo=ap_e1).
 
 [^69]:Gary Paulsen, *Mr. Tucket*, illustrated by Noel Sickles (Funk & Wagnalls*,* 1968)*.*At this late date, the book is actually still placarded on an education resource site: [https://www.scholastic.com/teachers/books/mr-tucket-by-gary-paulsen/](https://www.scholastic.com/teachers/books/mr-tucket-by-gary-paulsen/). Paulsen, it should be noted, has won many distinguished awards for children’s literature and is often cited as one of America’s most popular writers for young Americans. Enough said. *Mr. Tucket* is thoroughly racist, to the core. The school district where the book is being taught today has just sent out a news release (February 9, 2018) to parents touting the District as “Celebrating Diversity.” Wow! The principal of the school where the book is being taught, responded to a protest of the book by saying, “I can’t micromanage my faculty.” Yet, the book is a school-wide selection, over many past years, and not the choice of an individual teacher. Yet the particular teacher in question merely got angry when her judgment was questioned. “How would I know that ‘squaw’ is an obscene and derogatory word for Indian women?” Wow! Again. We let her teach children?! These poor kids will grow up thinking, I suppose, that I am out to sever the hair and skin from the top of their heads at first opportunity.
 
-[^70]:Elizabeth Kuskulis, “Iliff Library Has Old Book Bound in Slain Indian’s Skin,” *Rocky Mountain News*, 1934, describing Johann Lorenz von Mosheim’s  *Institutionum Historiae Christianae Compendium*\[“History of Christianity”\] (apud C. F. Weygand, 1752),treasured and proudly kept  on display just inside the main entrance and outside the library at Iliff.
+[^70]:Elizabeth Kuskulis, “Iliff Library Has Old Book Bound in Slain Indian’s Skin,” *Rocky Mountain News*, 1934, describing Johann Lorenz von Mosheim’s  *Institutionum Historiae Christianae Compendium*&#91;“History of Christianity”&#93; (apud C. F. Weygand, 1752),treasured and proudly kept  on display just inside the main entrance and outside the library at Iliff.

@@ -17,4 +17,20 @@ issue: 3
 season: fall
 year: 2022
 pages: 272-305
+subjects:
+  - label: "Jews"
+    scheme: "FAST"
+    identifier: "fst00983135"
+    uri: "https://id.worldcat.org/fast/983135"
+    category: "topical"
+  - label: "Menstruation"
+    scheme: "FAST"
+    identifier: "fst01016284"
+    uri: "https://id.worldcat.org/fast/1016284"
+    category: "topical"
+  - label: "Sex"
+    scheme: "FAST"
+    identifier: "fst01114160"
+    uri: "https://id.worldcat.org/fast/1114160"
+    category: "topical"
 ---

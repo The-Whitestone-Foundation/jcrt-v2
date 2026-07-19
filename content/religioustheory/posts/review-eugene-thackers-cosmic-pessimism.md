@@ -18,6 +18,32 @@ tags:
   - cosmic
   - religion
   - futility
+subjects:
+  - label: "Frustration"
+    scheme: "FAST"
+    identifier: "fst00935770"
+    uri: "https://id.worldcat.org/fast/935770"
+    category: "topical"
+  - label: "Pessimism"
+    scheme: "FAST"
+    identifier: "fst01058963"
+    uri: "https://id.worldcat.org/fast/1058963"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
  **Thacker, Eugene. *Cosmic Pessimism*. Minneapolis: Univocal Publishing, 2015. ISBN-10: 193756147X. E-book, paperback. 55 pages.**
 

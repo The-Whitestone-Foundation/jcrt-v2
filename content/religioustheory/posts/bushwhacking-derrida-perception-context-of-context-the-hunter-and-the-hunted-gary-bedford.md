@@ -20,6 +20,22 @@ tags:
   - ontology
   - critique
   - difference
+subjects:
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Perception"
+    scheme: "FAST"
+    identifier: "fst01057622"
+    uri: "https://id.worldcat.org/fast/1057622"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
 ---
 After Derrida, how can philosophy continue to think critically, and for our task here, *ontologically2*…? Can a critique of the context of perception via its textual traces render insight into the presumed meta-context of perception itself, of how we perceive our world? What occurs when perception, or its textual thought, *defer?* Is the question of the “nature of being,” or ontology, merely a metaphysic, or can an internal critique of perception render a revised working “order” of the context of perception and its textual thought? If so, where does that hunt lead us?
 
@@ -99,7 +115,7 @@ Here again, we don’t have to leave the original trail. To quote Hawking’s se
 
 (Or) we might track the Great Divide, we might track with Sören, and so ask a different question, nay, indeed, realize that we have become, always were, the question itself, ourselves, no? To live in the remainder, to in fact *be* the remainder, proffers Abraham’s dilemma. Such a choice, like an “angel of reality,” would appear then as a terrifyingly beautiful and, it would seem, a wholly homo sapiens kind of thing. Indeed, it might be the most uniquely homo sapiens thing of all, it might be *the* differentiating sense of what it means to be homo sapiens.
 
-\[*▲*\+ non-*▲*\]
+&#91;*▲*\+ non-*▲*&#93;
 
 *Gary Bedford is a registered representative in Colorado with Cambridge Investment Research, Inc. a Broker/Dealer and Member* [*FINRA*](https://www.finra.org/)*/*[*SIPC*](https://www.sipc.org/)*, and a registered investment advisor representative with Cambridge Investment Research Advisors, InRe He has an M.A. in religious studies and has pursued doctoral studies from the University of Denver.*
 
@@ -116,4 +132,4 @@ Here again, we don’t have to leave the original trail. To quote Hawking’s se
 
 5 Wallace Stevens, “*Angels Surrounded by Paysans*,” *The Palm at the End of the Mind,* ed. Holly Stevens, New York: Vintage Books, 1990, *p.* 354.
 
-6 “The first analogy used for time as duration is: “in all change of appearance substance is permanent.”\*\[\**Critique*, 212\] He says that time must be seen against the background of a permanent substratum. Substances are the substrata for all time determinations.\*\[\**Critique*, 213, 217\] If we had only a bare succession, existence would never have any magnitude or duration.\*\[\**Critique*, 214\] Kant sees duration as a magnitude marked off against a substratum. This is a reduction of the concept of duration to a spatial imagery characteristic of Newtonian mechanics. The question which we must present to Kant is whether this spatialization of time, which is considered to be an a priori necessity, is commensurate with our experience of time in the immediacy of consciousness as well as in reflective moments?” \[My emphasis.\] Winquist, Charles, *The Transcendental Imagination*, The Hague: Martinus Nijhoff, 1972, p. 20.
+6 “The first analogy used for time as duration is: “in all change of appearance substance is permanent.”\*&#91;\**Critique*, 212&#93; He says that time must be seen against the background of a permanent substratum. Substances are the substrata for all time determinations.\*&#91;\**Critique*, 213, 217&#93; If we had only a bare succession, existence would never have any magnitude or duration.\*&#91;\**Critique*, 214&#93; Kant sees duration as a magnitude marked off against a substratum. This is a reduction of the concept of duration to a spatial imagery characteristic of Newtonian mechanics. The question which we must present to Kant is whether this spatialization of time, which is considered to be an a priori necessity, is commensurate with our experience of time in the immediacy of consciousness as well as in reflective moments?” &#91;My emphasis.&#93; Winquist, Charles, *The Transcendental Imagination*, The Hague: Martinus Nijhoff, 1972, p. 20.

@@ -18,4 +18,20 @@ issue: 2
 season: spring
 year: 2020
 pages: 276-294
+subjects:
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Roses"
+    scheme: "FAST"
+    identifier: "fst01100524"
+    uri: "https://id.worldcat.org/fast/1100524"
+    category: "topical"
+  - label: "Theologians"
+    scheme: "FAST"
+    identifier: "fst01149517"
+    uri: "https://id.worldcat.org/fast/1149517"
+    category: "topical"
 ---

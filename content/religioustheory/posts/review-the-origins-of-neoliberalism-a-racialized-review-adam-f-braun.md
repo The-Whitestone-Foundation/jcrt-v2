@@ -18,6 +18,22 @@ tags:
   - subject
   - genealogy
   - political
+subjects:
+  - label: "Genealogy"
+    scheme: "FAST"
+    identifier: "fst00939652"
+    uri: "https://id.worldcat.org/fast/939652"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Leshem, Dotan. *The Origins of Neoliberalism: Modeling the Economy from Jesus to Foucault.* New York: Columbia University Press, 2016. ISBN-10: 0231177763. Hardcover, paperback, e-book. 248 pages.** 
 

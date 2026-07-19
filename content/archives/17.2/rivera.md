@@ -17,4 +17,20 @@ issue: 2
 season: spring
 year: 2018
 pages: 307-327
+subjects:
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Philosophy Religion"
+    scheme: "FAST"
+    identifier: "fst01060802"
+    uri: "https://id.worldcat.org/fast/1060802"
+    category: "topical"
+  - label: "Spiritual exercises"
+    scheme: "FAST"
+    identifier: "fst01130077"
+    uri: "https://id.worldcat.org/fast/1130077"
+    category: "topical"
 ---

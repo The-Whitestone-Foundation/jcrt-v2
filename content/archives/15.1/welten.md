@@ -19,4 +19,15 @@ issue: 1
 season: fall
 year: 2015
 pages: 3-15
+subjects:
+  - label: "Gifts, Spiritual"
+    scheme: "FAST"
+    identifier: "fst00942667"
+    uri: "https://id.worldcat.org/fast/942667"
+    category: "topical"
+  - label: "Jean Paul"
+    scheme: "FAST"
+    identifier: "fst01652358"
+    uri: "https://id.worldcat.org/fast/1652358"
+    category: "personal"
 ---

@@ -16,4 +16,10 @@ issue: 1
 season: fall
 year: 2014
 pages:
+subjects:
+  - label: "Secularism"
+    scheme: "FAST"
+    identifier: "fst01110732"
+    uri: "https://id.worldcat.org/fast/1110732"
+    category: "topical"
 ---

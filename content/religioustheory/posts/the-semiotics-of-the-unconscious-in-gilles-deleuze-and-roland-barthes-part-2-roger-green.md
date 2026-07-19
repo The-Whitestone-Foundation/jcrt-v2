@@ -24,6 +24,37 @@ tags:
   - unconscious
   - political
   - component
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Education, Higher"
+    scheme: "FAST"
+    identifier: "fst00903005"
+    uri: "https://id.worldcat.org/fast/903005"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Semiotics"
+    scheme: "FAST"
+    identifier: "fst01112351"
+    uri: "https://id.worldcat.org/fast/1112351"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second of a two-part series.  The first installment, published on Dec. 19, 2016, can be [found here]( /religioustheory/posts/the-semiotics-of-the-unconscious-in-gilles-deleuze-and-roland-barthes-roger-green/).*  
 

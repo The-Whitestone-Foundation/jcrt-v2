@@ -16,4 +16,10 @@ issue: 1
 season: winter
 year: 2018
 pages: 50-77
+subjects:
+  - label: "Tantric Buddhism"
+    scheme: "FAST"
+    identifier: "fst01142876"
+    uri: "https://id.worldcat.org/fast/1142876"
+    category: "topical"
 ---

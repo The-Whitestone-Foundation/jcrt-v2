@@ -23,4 +23,25 @@ issue: 3
 season: fall
 year: 2011
 pages:
+subjects:
+  - label: "Animals (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00809563"
+    uri: "https://id.worldcat.org/fast/809563"
+    category: "topical"
+  - label: "Nudity"
+    scheme: "FAST"
+    identifier: "fst01041151"
+    uri: "https://id.worldcat.org/fast/1041151"
+    category: "topical"
+  - label: "Philosophical anthropology"
+    scheme: "FAST"
+    identifier: "fst01060766"
+    uri: "https://id.worldcat.org/fast/1060766"
+    category: "topical"
+  - label: "Vision"
+    scheme: "FAST"
+    identifier: "fst01167852"
+    uri: "https://id.worldcat.org/fast/1167852"
+    category: "topical"
 ---

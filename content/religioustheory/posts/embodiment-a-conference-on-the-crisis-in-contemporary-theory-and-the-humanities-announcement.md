@@ -22,6 +22,12 @@ tags:
   - religion
   - cultural
   - religious
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 ### **September 28-29**, 2022
 

@@ -17,4 +17,15 @@ issue: 2
 season: spring
 year: 2017
 pages: 126-141
+subjects:
+  - label: "Race discrimination"
+    scheme: "FAST"
+    identifier: "fst01086465"
+    uri: "https://id.worldcat.org/fast/1086465"
+    category: "topical"
+  - label: "Reproduction"
+    scheme: "FAST"
+    identifier: "fst01094973"
+    uri: "https://id.worldcat.org/fast/1094973"
+    category: "topical"
 ---

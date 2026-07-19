@@ -33,4 +33,30 @@ issue: 1
 season: winter
 year: 2010
 pages:
+subjects:
+  - label: "Autonomy"
+    scheme: "FAST"
+    identifier: "fst00824163"
+    uri: "https://id.worldcat.org/fast/824163"
+    category: "topical"
+  - label: "Bible. Epistles of Paul"
+    scheme: "FAST"
+    identifier: "fst01808029"
+    uri: "https://id.worldcat.org/fast/1808029"
+    category: "title"
+  - label: "Church Authority"
+    scheme: "FAST"
+    identifier: "fst00860368"
+    uri: "https://id.worldcat.org/fast/860368"
+    category: "topical"
+  - label: "Power (Social sciences)"
+    scheme: "FAST"
+    identifier: "fst01074219"
+    uri: "https://id.worldcat.org/fast/1074219"
+    category: "topical"
+  - label: "Subject (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst01136447"
+    uri: "https://id.worldcat.org/fast/1136447"
+    category: "topical"
 ---

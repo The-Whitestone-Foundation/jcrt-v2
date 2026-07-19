@@ -19,4 +19,15 @@ issue: 2
 season: spring
 year: 2020
 pages: 358-364
+subjects:
+  - label: "Holy Spirit"
+    scheme: "FAST"
+    identifier: "fst00959009"
+    uri: "https://id.worldcat.org/fast/959009"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
 ---

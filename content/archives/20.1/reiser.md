@@ -17,4 +17,15 @@ issue: 1
 season: winter
 year: 2024
 pages: 107-143
+subjects:
+  - label: "Life cycle, Human"
+    scheme: "FAST"
+    identifier: "fst00998248"
+    uri: "https://id.worldcat.org/fast/998248"
+    category: "topical"
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---

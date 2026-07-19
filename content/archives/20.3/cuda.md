@@ -16,4 +16,10 @@ issue: 3
 season: fall
 year: 2021
 pages: 316-339
+subjects:
+  - label: "Spirituality"
+    scheme: "FAST"
+    identifier: "fst01130186"
+    uri: "https://id.worldcat.org/fast/1130186"
+    category: "topical"
 ---

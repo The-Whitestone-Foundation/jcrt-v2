@@ -22,6 +22,22 @@ tags:
   - historical
   - narrative
   - theology
+subjects:
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first of a three-part series. The entire article appears in the fall 2022 issue of [The New Polis Journal.](http://journal.thenewpolis.com/)*
 
@@ -119,6 +135,6 @@ Morgan murdered the Lenape men who provided the tanned skin covering the book of
 
 Their wildness should have been impressed upon them from the beginning. I think these Indians that I went out to hold that conference with wandered over five hundred miles of country in diameter, and there were only a few hundred of them. I have always been strongly impressed with the injustice that the Indians suffered and with a desire to help civilize them. At the same time when we came to be butchered by them, it is right to defend ourselves and **there my Quaker sentiments desert me**.
 
-    Hubert howe bancroft papers – university of colorado at boulder, library – archives 200 Interviews. copies of 32 originals pertaining to SAND \[originals in bancroft library, u. of CA, berkeley, CA.\] \[SAND-COLL – (Sand Creek Massacre NHS – collections, rec’d – february 20, 2015)\].
+    Hubert howe bancroft papers – university of colorado at boulder, library – archives 200 Interviews. copies of 32 originals pertaining to SAND &#91;originals in bancroft library, u. of CA, berkeley, CA.&#93; &#91;SAND-COLL – (Sand Creek Massacre NHS – collections, rec’d – february 20, 2015)&#93;.
 
 [^22]: While we do not know the actualities of the historical involvement of evans or other trustees in the gift transaction, we do know that the university was a small institution at that time. In 1890 the total enrollment was 848 students. Julia mertes, “Exploring du: the history of university hall,” *du clarion* (april 19, 2022): [https://duclarion.com/2022/04/exploring-du-the-history-of-university-hall/#:~:text=During%20the%20school%20year%20of,total%20enrollment%20of%20848%20students](https://duclarion.com/2022/04/exploring-du-the-history-of-university-hall/#:~:text=During%20the%20school%20year%20of,total%20enrollment%20of%20848%20students). So, we can presume that evans, warren and his wife knew about this book, and as methodists, they would have known rev. barns. Particularly, bishop warren would have known barns well since barns was one of his conference ministers and he would have assigned him to ministerial posts each annual conference.

@@ -10,11 +10,17 @@ keywords:
   - genealogy
   - salvation-in-christianity
   - all-other-personal-services
-pdf:
+pdf: introduction.pdf
 sort_id:
 volume: 16
 issue: 3
 season: fall
 year: 2017
 pages: 260-270
+subjects:
+  - label: "Genealogy"
+    scheme: "FAST"
+    identifier: "fst00939652"
+    uri: "https://id.worldcat.org/fast/939652"
+    category: "topical"
 ---

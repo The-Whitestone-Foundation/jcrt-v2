@@ -17,6 +17,22 @@ tags:
   - economy
   - politics
   - ontology
+subjects:
+  - label: "Community"
+    scheme: "FAST"
+    identifier: "fst00870635"
+    uri: "https://id.worldcat.org/fast/870635"
+    category: "topical"
+  - label: "Ontology"
+    scheme: "FAST"
+    identifier: "fst01045995"
+    uri: "https://id.worldcat.org/fast/1045995"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Bird, Greg. *Containing Community: From Political Economy to Ontology in Agamben, Esposito, and Nancy*. Albany NY: SUNY Press, 2016. ISBN 978-1-4384-6185-4. Hardcover.**
 
@@ -30,7 +46,7 @@ These thinkers’ core issues surround a *dispositif* of the proper (p. 6), poss
 
 *Containing Community*, while divided into five chapters, could be seen as being comprised of two major sections. The initial section contains only two chapters, but these are essential for setting up the later analysis of Esposito, Agamben, ![](/images/2017/05/51jksz0rzwl-_sy346.webp)and Nancy. Bird’s first chapter, “Political Economy and the Proper,” grounds the rest of the volume, drawing out the grave issue of appropriation and the pervasiveness of the proper in political economy and beyond which forms how we conceive of politics, community, and the subject (p. 3, 6). This can be seen in the general divisions between Marxist and anarchic thinkers, both attempting to dismantle political economic ideologies.
 
-All three philosophers, however, would oppose the political prescription of “combin\[ing\] economic appropriation with political appropriation (i.e., the state must be seized along with the factories)” (p. 7), something which they have been criticized for. Eschewing appropriation, and re-appropriation, is generated precisely through noting those practices as “nothing more than an ideological defense of the proper” (p. 7). The chapter spends some time tracing a general genealogy of the proper, underscoring Locke as a thinker who, according to Arendt, “extended property to the personal,” creating a long lasting issue in political thought, namely the conflation of the economic and political (pp. 10, 11).
+All three philosophers, however, would oppose the political prescription of “combin&#91;ing&#93; economic appropriation with political appropriation (i.e., the state must be seized along with the factories)” (p. 7), something which they have been criticized for. Eschewing appropriation, and re-appropriation, is generated precisely through noting those practices as “nothing more than an ideological defense of the proper” (p. 7). The chapter spends some time tracing a general genealogy of the proper, underscoring Locke as a thinker who, according to Arendt, “extended property to the personal,” creating a long lasting issue in political thought, namely the conflation of the economic and political (pp. 10, 11).
 
 In setting up a corrective for this problem, Bird spends substantive time on various critiques of Locke’s *Homo approprians* through Marx, Proudhon, C. B. Macpherson, and Etienne Balibar (pp. 11; 12-17, 18-21). These different critiques of Locke name a common confusion, but we find in Agamben, Nancy, and Esposito a shared conclusion from this pervasive issue: “because the dispositif of the proper creates a series of enclosures, it prevents us from thinking about relationships and thus community” (pp. 21-22). And, the predominant way this occurs is through a “dialectic of alienation and appropriation” that names community as a “thing” which must be appropriated in individual ways by subjects (p. 22).
 

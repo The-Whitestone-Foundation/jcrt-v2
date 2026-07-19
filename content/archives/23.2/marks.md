@@ -19,4 +19,10 @@ issue: 2
 season: winter
 year: 2025
 pages: 140-164
+subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
 ---

@@ -19,6 +19,27 @@ tags:
   - anthology
   - religion
   - spiritual
+subjects:
+  - label: "Hinduism"
+    scheme: "FAST"
+    identifier: "fst00957121"
+    uri: "https://id.worldcat.org/fast/957121"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 The just-released, multi-volume *[Norton Anthology of World Religions](http://books.wwnorton.com/books/the-norton-anthology-of-world-religions/)* is a major project of substance undertaken by a group of world-renowned scholars in comparative religions.   However, what makes it stand out is the contribution of Professor Kancha Ilaiah, who hails from an illiterate s*udra* shepherd family.
 
@@ -30,7 +51,7 @@ This magisterial *Norton Anthology* comprises six volumes with each one devoted 
 
 The anthology brings together foundational works – for example, the *Bhagvad-Gita*, the Bible, and the *Qur’an*  with the writings of scholars, seekers, believers, and skeptics whose voices over centuries have kept these religions vital[^1] .  Volume one covers Hinduism, Buddhism and Daoism with Wendy Doniger as the editor for Hinduism part. Doniger is the Mircea Eliade Distinguished Service Professor of History of Religions at the University of Chicago and her popular work *The Hindus – An Alternative History* was banned in India for its controversial content, leading to a debate over the country’s democratic structure and academic freedom[^2] .
 
-Ilaiah studied and worked in a little-known university – Osmania at Hyderabad, Telangana – for 38 years.  Later on, he moved to Maulana Azad National Urdu University, Hyderabad as Director of Research Centre.  In his preface Miles observes that “the editors have even included occasional attacks on the religious traditions anthologized.  As \[the Russell and Ilaiah\] entries nicely demonstrate, the canon of texts regarded as permanent and irreplaceable in a religious tradition does not coincide exactly with the canon of texts arguably crucial for the study of the tradition”[^3] .   In the section on Hinduism  Doniger included a chapter from *Why I am Not a Hindu* called “Hindu Gods and Us”[^4] .  In the portion of the anthology where Ilaiah’s chapter is included, Doniger writes that “Kancha Ilaiah (b.1952) who announces officially that he is not a Hindu, writes brilliantly as the outsider within, the Dalit who simultaneously illuminates the Hinduism that he rejects, and that rejects him, and his own dalit strain of religion that strangely resembles Hinduism”[^5] .
+Ilaiah studied and worked in a little-known university – Osmania at Hyderabad, Telangana – for 38 years.  Later on, he moved to Maulana Azad National Urdu University, Hyderabad as Director of Research Centre.  In his preface Miles observes that “the editors have even included occasional attacks on the religious traditions anthologized.  As &#91;the Russell and Ilaiah&#93; entries nicely demonstrate, the canon of texts regarded as permanent and irreplaceable in a religious tradition does not coincide exactly with the canon of texts arguably crucial for the study of the tradition”[^3] .   In the section on Hinduism  Doniger included a chapter from *Why I am Not a Hindu* called “Hindu Gods and Us”[^4] .  In the portion of the anthology where Ilaiah’s chapter is included, Doniger writes that “Kancha Ilaiah (b.1952) who announces officially that he is not a Hindu, writes brilliantly as the outsider within, the Dalit who simultaneously illuminates the Hinduism that he rejects, and that rejects him, and his own dalit strain of religion that strangely resembles Hinduism”[^5] .
 
 Ilaiah,  who is demonized by the mainstream Hindu religious pundits and political *Hindutva* (a contemporary, militant, religious, nativist, and nationalist ideology) had a difficult existence at Osmania University.  A scholar who first worked on land reforms in Andhra Pradesh in order to advance his ideological cause of radical left, had struggled for eight long years to become a lecturer, as he was only a documentation officer in a research project of the department during those eight years.  He took almost a decade to complete his Ph.D. on Gautama Buddha’s political philosophy.
 
@@ -82,7 +103,7 @@ The English style Ilaiah deployed in *Why I am Not Hindu* is highly sophisticate
 
 [^12]: Religion is based, I think, primarily and mainly upon fear……… Fear is the basis of the whole thing fear of the mysterious, fear of defeat, fear of death. Fear is the parent of cruelty, and therefore it is no wonder if cruelty and religion has gone hand-in-hand.” Russell, Bertrand (1957). *Why I Am Not a Christian: and Other Essays on Religion and Related Subjects*. Simon and Schuster, 18.
 
-[^13]: “The Brahmanic forces did not integrate \[this\] common sense knowledge into their spiritual texts. Spiritual democracies have made such knowledge a part of their religious books, but Hinduism has remained a moribund fundamentalist superstitious institution, thereby never allowing the human mind to grow on positive lines. Thus, all its books reflect only the spiritual fascist knowledge of Brahmanic forces.” Ilaiah, Kancha (2009). *Post-Hindu India: A Discourse in Dalit-Bahujan, Socio-Spiritual and Scientific Revolution*. SAGE Publications, New Delhi. 273.
+[^13]: “The Brahmanic forces did not integrate &#91;this&#93; common sense knowledge into their spiritual texts. Spiritual democracies have made such knowledge a part of their religious books, but Hinduism has remained a moribund fundamentalist superstitious institution, thereby never allowing the human mind to grow on positive lines. Thus, all its books reflect only the spiritual fascist knowledge of Brahmanic forces.” Ilaiah, Kancha (2009). *Post-Hindu India: A Discourse in Dalit-Bahujan, Socio-Spiritual and Scientific Revolution*. SAGE Publications, New Delhi. 273.
 
 [^14]: “I think, however, that there are two different items which are quite essential to anybody calling himself a Christian. The first is one of a dogmatic nature-namely, that you must believe in God and immortality.” Op. cit., Russell, 2.
 

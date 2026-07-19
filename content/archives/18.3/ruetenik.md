@@ -18,4 +18,10 @@ issue: 3
 season: fall
 year: 2019
 pages: 551-562
+subjects:
+  - label: "Calvinism"
+    scheme: "FAST"
+    identifier: "fst00844591"
+    uri: "https://id.worldcat.org/fast/844591"
+    category: "topical"
 ---

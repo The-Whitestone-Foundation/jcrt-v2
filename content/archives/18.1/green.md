@@ -25,4 +25,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 8-14
+subjects:
+  - label: "Medical offices"
+    scheme: "FAST"
+    identifier: "fst01014382"
+    uri: "https://id.worldcat.org/fast/1014382"
+    category: "topical"
+  - label: "Religiousness"
+    scheme: "FAST"
+    identifier: "fst01094344"
+    uri: "https://id.worldcat.org/fast/1094344"
+    category: "topical"
 ---

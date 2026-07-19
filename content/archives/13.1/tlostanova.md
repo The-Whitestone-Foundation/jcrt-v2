@@ -16,4 +16,15 @@ issue: 1
 season: winter
 year: 2014
 pages: 53-67
+subjects:
+  - label: "Colonies"
+    scheme: "FAST"
+    identifier: "fst00868456"
+    uri: "https://id.worldcat.org/fast/868456"
+    category: "topical"
+  - label: "Imperialism"
+    scheme: "FAST"
+    identifier: "fst00968126"
+    uri: "https://id.worldcat.org/fast/968126"
+    category: "topical"
 ---

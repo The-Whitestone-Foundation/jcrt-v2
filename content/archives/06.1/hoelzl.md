@@ -29,4 +29,20 @@ issue: 1
 season: winter
 year: 2004
 pages:
+subjects:
+  - label: "Critical theory"
+    scheme: "FAST"
+    identifier: "fst00883690"
+    uri: "https://id.worldcat.org/fast/883690"
+    category: "topical"
+  - label: "Intersubjectivity"
+    scheme: "FAST"
+    identifier: "fst00977556"
+    uri: "https://id.worldcat.org/fast/977556"
+    category: "topical"
+  - label: "Solidarity"
+    scheme: "FAST"
+    identifier: "fst01125481"
+    uri: "https://id.worldcat.org/fast/1125481"
+    category: "topical"
 ---

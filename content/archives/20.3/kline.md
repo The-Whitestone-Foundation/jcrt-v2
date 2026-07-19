@@ -16,4 +16,10 @@ issue: 3
 season: fall
 year: 2021
 pages: 383-400
+subjects:
+  - label: "Language and languages Etymology"
+    scheme: "FAST"
+    identifier: "fst00992169"
+    uri: "https://id.worldcat.org/fast/992169"
+    category: "topical"
 ---

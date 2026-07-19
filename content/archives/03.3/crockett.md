@@ -8,13 +8,13 @@ author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 01
 year: 2002
 ---
 Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 
 
-# Taking Shape: On the Current Constellation of (Religious) Thought
+## Taking Shape: On the Current Constellation of (Religious) Thought
 
 Clayton Crockett  
 Wesley College
@@ -39,13 +39,9 @@ In assessing the status of contemporary religious thought, many scholars and the
 
 > **Clayton Crockett** is the author of _A Theology of the Sublime_, editor of _Secular Theology: American Radical Theological Thought_, and editor of the _Journal for Cultural and Religious Theory_. He teaches Religion and Philosophy at Wesley College in Dover, Delaware.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2002 Clayton Crockett. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2002 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/03.3/crockett](https://jcrt.org/archives/03.3/crockett/)
 

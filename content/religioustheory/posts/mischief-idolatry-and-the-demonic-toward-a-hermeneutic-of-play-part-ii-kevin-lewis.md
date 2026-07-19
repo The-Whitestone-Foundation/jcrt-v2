@@ -24,6 +24,27 @@ tags:
   - history
   - hermeneutic
   - interpretation
+subjects:
+  - label: "Hermeneutics"
+    scheme: "FAST"
+    identifier: "fst00955492"
+    uri: "https://id.worldcat.org/fast/955492"
+    category: "topical"
+  - label: "History"
+    scheme: "FAST"
+    identifier: "fst00958235"
+    uri: "https://id.worldcat.org/fast/958235"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the second part in a two-part installment. The first  part can be found [here]( /religioustheory/posts/mischief-idolatry-and-the-demonic-toward-a-hermeneutic-of-play-part-i-kevin-lewis/).* 
 
@@ -33,7 +54,7 @@ We proceed first by a reminder of Scripture itself (which makes no claim to be t
 
 We turn to Scripture to recall the biblical demonic in its considerable appearances. In the New Testament, as in the Old, the demonic is personified in the figure variously named Satan, the Devil, Beelzebub, and occasionally broken out into the company of demons generally. Much has been written by historian critics about the evolution of the “Devil” as concept and figure, and we need not linger here on subsequent treatment accorded this depraved mythic figure all the more threatening because he possesses our worst human characteristics in the extreme. *Matthew* gives us the fullest picture of the *mano a mano* temptation of Jesus in the wilderness (4:1-11), followed by the analogy of the sower of weeds whose purpose is to defeat the “good seed” (13:36-40).
 
-In *Mark* 4:14,15 we meet a Satan who immediately steals the saving “word” sown in audiences by Jesus. Here in *Mark*, as elsewhere the demonic is associated typically with the “things of man” (8:33), as in *John* we are referred to the Devil as “the ruler of this world” (12:31). Paul in *Acts* 5:3 receives his conversion mandate to help willing listeners be delivered from the “power of Satan” (26:18). Paul warns the Corinthians to guard lest they be “outwitted by Satan, for we are not ignorant of his designs” (*IICor*. 2:11). And then he is figured as the malevolent “god of this world,” metaphorically blinding the minds of unbelievers to keep them from seeing the light of the Gospel (*IICor*. 4:4). For the sake of Jesus as the Christ, Paul tells us, he embraces the “thorn in his flesh” given by a messenger of Satan – for the good of his evangelizing mission (an example, I suggest, of strategic “playing” the Devil for the good of that mission \[*IICor*. 12:7-10\]).
+In *Mark* 4:14,15 we meet a Satan who immediately steals the saving “word” sown in audiences by Jesus. Here in *Mark*, as elsewhere the demonic is associated typically with the “things of man” (8:33), as in *John* we are referred to the Devil as “the ruler of this world” (12:31). Paul in *Acts* 5:3 receives his conversion mandate to help willing listeners be delivered from the “power of Satan” (26:18). Paul warns the Corinthians to guard lest they be “outwitted by Satan, for we are not ignorant of his designs” (*IICor*. 2:11). And then he is figured as the malevolent “god of this world,” metaphorically blinding the minds of unbelievers to keep them from seeing the light of the Gospel (*IICor*. 4:4). For the sake of Jesus as the Christ, Paul tells us, he embraces the “thorn in his flesh” given by a messenger of Satan – for the good of his evangelizing mission (an example, I suggest, of strategic “playing” the Devil for the good of that mission &#91;*IICor*. 12:7-10&#93;).
 
 In his second letter to the Thessalonians, he warns that the second coming awaits the revealing of the “son of destruction” who falsely proclaims himself to be God, with wicked deception empowered by the “activity of Satan” (2:1-11). In *James* 3:15 we are warned of “earthly demonic” wisdom, and in *I John* 2:14 readers are praised for having successfully overcome “the evil one.” Then in *I Timothy* 5:15 readers are cautioned against “straying after Satan.”
 
@@ -73,13 +94,13 @@ In short, the demonic potential in the divine is structural, and it carries the 
 
 In the original 1926 essay, “The Demonic,” included as a long Chapter Three in *The Interpretation of History*, then in better translation by Garrett Paul in 1989, Tillich’s acknowledged purpose is to “strengthen the prophetic spirit of our era.” He observes that the term demonic, “when it has not degenerated into an empty cliché, always retains this meaning: the unity of form-creating and form-destroying power.” The demonic, as fundamentally linked to the divine, combines destructiveness with creative form in a defining dialectic.
 
-As an aside, Tillich warns that in “starkly religious times” the demonic becomes so closely tied to the non-dialectical, merely negative figure of Satan that, in the process, in losing its power of creation, it becomes an “unreal concept.” We must grasp the metaphysical essence of the demonic, that is, the grounding of the destructiveness in *form*, in the “ground of being,” that ultimate “depth” “where ‘being’ is an expression for the unconditional, transcendent mystery beyond which thought cannot go, because thought rests upon it.” But then, as he insists, the ground of all being is also an inexhaustible abyss. By this path, putting aside the merely negative mythological figure of Satan, Tillich comes to the conclusion that “the demonic, by way of contrast \[to the satanic\], always entails the divine, the union of form and destruction of form; that is why the demonic can acquire existence, albeit an existence characterized by tension between the two.”[^6]
+As an aside, Tillich warns that in “starkly religious times” the demonic becomes so closely tied to the non-dialectical, merely negative figure of Satan that, in the process, in losing its power of creation, it becomes an “unreal concept.” We must grasp the metaphysical essence of the demonic, that is, the grounding of the destructiveness in *form*, in the “ground of being,” that ultimate “depth” “where ‘being’ is an expression for the unconditional, transcendent mystery beyond which thought cannot go, because thought rests upon it.” But then, as he insists, the ground of all being is also an inexhaustible abyss. By this path, putting aside the merely negative mythological figure of Satan, Tillich comes to the conclusion that “the demonic, by way of contrast &#91;to the satanic&#93;, always entails the divine, the union of form and destruction of form; that is why the demonic can acquire existence, albeit an existence characterized by tension between the two.”[^6]
 
 The argument in this essay is indeed challenging, but along the way we meet recognizable, helpful insights, e.g., the passage which begins “The demonic comes to fulfilment in the spiritual personality.” Those “spiritual” among us have the most to fear from the demonic power as we pose “the primary target of demonic destruction.” The “something else” of the demonic “contains the vital powers within itself, but it is also spiritual – and spirit destroying.”
 
-![](/images/2018/02/demonic.webp)The presence of the demonic in a person is best indicated when the ego’s disruption manifests an ecstatic, creative character in spite of all its destructiveness, only to be combated successfully by “the state of grace.” For “possession and grace are corresponding states, the demonic and the divine are correlated in their power, \[and\] both possession and grace exalt the spirit.” But we note: “…where grace unites these powers to the highest form, possession uses them to contradict the highest form.” Tillich accentuates the profound kinship of the demonic and the divine to make his point, that “…it is in the domain of the sacred, the holy, that we find the abyss, the unconditional power that invades our reality.”[^7]
+![](/images/2018/02/demonic.webp)The presence of the demonic in a person is best indicated when the ego’s disruption manifests an ecstatic, creative character in spite of all its destructiveness, only to be combated successfully by “the state of grace.” For “possession and grace are corresponding states, the demonic and the divine are correlated in their power, &#91;and&#93; both possession and grace exalt the spirit.” But we note: “…where grace unites these powers to the highest form, possession uses them to contradict the highest form.” Tillich accentuates the profound kinship of the demonic and the divine to make his point, that “…it is in the domain of the sacred, the holy, that we find the abyss, the unconditional power that invades our reality.”[^7]
 
-Tillich continues, addressing “the role that the demonic plays in all historical creativity,” and suggesting that all serious historiography should include “the elements of the mythical \[the divine, the demonic\], else it will never rise above mere description of discrete finite entities.” We must recognize “how every moment \[of life, of history\] is suspended between the divine and the demonic.” And so all serious interpretation of history must employ “the mythic consciousness, with its insight into the dialectic of the divine and the demonic.”[^8] This notion was echoed at a distance by Timothy Beal in a recent issue of *The Chronicle Review*, where he notes simply that “Ambiguity is the Devil’s playground.”[^9]
+Tillich continues, addressing “the role that the demonic plays in all historical creativity,” and suggesting that all serious historiography should include “the elements of the mythical &#91;the divine, the demonic&#93;, else it will never rise above mere description of discrete finite entities.” We must recognize “how every moment &#91;of life, of history&#93; is suspended between the divine and the demonic.” And so all serious interpretation of history must employ “the mythic consciousness, with its insight into the dialectic of the divine and the demonic.”[^8] This notion was echoed at a distance by Timothy Beal in a recent issue of *The Chronicle Review*, where he notes simply that “Ambiguity is the Devil’s playground.”[^9]
 
 Our intellectual-cultural situation in the second decade of the twenty-first century, in ever-changing historical flux, suggests, I propose, that we regard carefully Tillich’s perspective on the history of the great religions:
 

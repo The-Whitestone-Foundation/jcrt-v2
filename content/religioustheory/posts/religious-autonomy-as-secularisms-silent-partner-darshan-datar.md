@@ -19,6 +19,32 @@ tags:
   - secularism
   - constitutional
   - liberal
+subjects:
+  - label: "Political science"
+    scheme: "FAST"
+    identifier: "fst01069781"
+    uri: "https://id.worldcat.org/fast/1069781"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religions"
+    scheme: "FAST"
+    identifier: "fst01093898"
+    uri: "https://id.worldcat.org/fast/1093898"
+    category: "topical"
+  - label: "Secularism"
+    scheme: "FAST"
+    identifier: "fst01110732"
+    uri: "https://id.worldcat.org/fast/1110732"
+    category: "topical"
 ---
 Scholarship has noted that the genealogical trajectory of a state has consistently had an impact on the evolution of state-church relationships. Philosophers have conceded that historically, as a sociological fact, religion was not purged from the public as much as it gradually lost its relevance to public life.
 
@@ -44,7 +70,7 @@ Each one of the aforementioned criticisms alludes to the fact that there is not 
 
 Perhaps it would, at this stage, be prudent to demonstrate how courts understand secularism. Secularism as defined by the European Court of Human Rights seems to be the most comprehensive definition of the term as national courts avoid creating a meta definition of the concept. The Court of Human Rights observed that:
 
-> \[S\]ecularism is the civil organizer of political, social and cultural life, based on national sovereignty, democracy, freedom and science. Secularism is the principle which offers the individual the possibility to affirm his or her own personality through freedom of thought and which, by the distinction it makes between politics and religious beliefs, renders freedom of conscience and religion effective. In societies based on religion, which function with religious thought and religious rules, political organization is religious in character. In a secular regime religion is shielded from a political role. It is not a tool of the authorities and remains in its respectable place, to be determined by the conscience of each and every one.[^10]
+> Secularism is the civil organizer of political, social and cultural life, based on national sovereignty, democracy, freedom and science. Secularism is the principle which offers the individual the possibility to affirm his or her own personality through freedom of thought and which, by the distinction it makes between politics and religious beliefs, renders freedom of conscience and religion effective. In societies based on religion, which function with religious thought and religious rules, political organization is religious in character. In a secular regime religion is shielded from a political role. It is not a tool of the authorities and remains in its respectable place, to be determined by the conscience of each and every one.[^10]
 
 This form of secularism as understood by liberal courts emerged from social revolutions, which underpinned the notion of a Christian Dualism that constructed a secular and a religious sphere.[^11] The revolutions set out the contours for a very traditional view of secularism, which largely gave rise to the proposition that religion was an evil that plagued governance and in turn threated popular sovereignty through its function as a social organizer. The concept of secularism that emerged through these revolutions, specifically the French revolution, advocated for a radical separation of religion from![](/images/2017/05/8ff38ec147286a86949fe70761e2005c.webp) politics. This separation signified a rupture between ecclesiastical sphere and political sphere. The goal that this radical form of secularism seeks to achieve is to prevent religion from dominating public life. It further ensures that the seat of sovereignty is not based on an ecclesiastical order but with a constitutionally approved sovereign. To put it flamboyantly: It was the victory of a constitution over theology.
 
@@ -70,7 +96,7 @@ With the justification for religious autonomy rooted both in constitutionalism a
 
 At this point we must understand what religious autonomy is to fully grasp why it is essential to secularism. Religious autonomy as noted by Perry Dane moves beyond and transcends the notion of religious freedom, as it is a right given to a religious order, which effectively takes the form of a group right.[^27] The group right however acts as a medium to consolidate religious identity on an individual level as it protects the faith that an individual identifies with. Perry Dane summarized the concept in his comparative study on religious autonomy.[^28] Dane observed that: *“*
 
-> \[R\]eligious autonomy is a species of religious liberty. But it is a species with its own attributes. For one thing, it generally involves a well-defined institutional or communal interest, and not merely an individual one. Moreover, at least the paradigmatic claims to religious autonomy do not depend for their force on the specific norms of a particular religious community. Rather, they invoke limitations on government intrusion in any religious community.[^29]
+> Religious autonomy is a species of religious liberty. But it is a species with its own attributes. For one thing, it generally involves a well-defined institutional or communal interest, and not merely an individual one. Moreover, at least the paradigmatic claims to religious autonomy do not depend for their force on the specific norms of a particular religious community. Rather, they invoke limitations on government intrusion in any religious community.[^29]
 
 Dane further observed that the problem of religious autonomy arises from secular law trying to make sense of an ecclesiastical order and structurally protects the ecclesiastical order from a complete domination by the secular order.[^30] It is therefore not surprising that cases of religious autonomy seem to consistently arise out of the law exerting normative superiority over a religious order. What the secular order aims to do is to restructure a religious order’s internal functioning in line with the universal values derived from secular values.[^31] It would thus be prudent to conclude that religious
 
@@ -90,7 +116,7 @@ This principle was first fleshed out by the U.S Supreme Court in the decision of
 
 The case further went on to reject the Wilson exception. Furthermore, in the case of *Jones v. Wolf*[^42] , the legal precedent was laid down which would later be accepted by the Supreme Court, where it was held that there was a need for the court to interpret in a secular manner.[^43] The case reemphasized that the Courts could not engage in a reinterpretation of the religion. The aforementioned trend was aptly summarized by the Court in the case of *Hosanna-Tabor Evangelical Lutheran Church and School v. Equal Employment Opportunity Commission*, where the Court noted that
 
-> \[To\] accept or retain an unwanted minister, or punishing a church for failing to do so, intrudes upon more than a mere employment decision. Such action interferes with the internal governance of the church, depriving the church of control over the selection of those who will personify its beliefs.”[^44]
+> &#91;To&#93; accept or retain an unwanted minister, or punishing a church for failing to do so, intrudes upon more than a mere employment decision. Such action interferes with the internal governance of the church, depriving the church of control over the selection of those who will personify its beliefs.”[^44]
 
 What is plainly apparent from the aforementioned decisions is that there is a link between secularism and religious autonomy in a liberal constitutional regime. While, in constitutions such as Egypt this fidelity might not exist. It seems as though religious autonomy is an integral facet of secularism. Too often today secularism is used as a reason to justify the encroachment on the autonomy of a religious group to define the contours of their own private morality and fidelity towards the divine. As I have demonstrated in this section, there seems to be an inseparability of the concept of secularism which at its very core, in whatever mold it exists has within it an inherent urge to provide religious orders with the autonomy to collectively define their own practice.
 
@@ -150,7 +176,7 @@ Constitutional Polity, in Constitutional Secularism in an Age of religious Reviv
 
 [^19]: Ibid: 191.
 
-[^20]: \[2003\] ECHR 87: ¶ 123.
+[^20]: &#91;2003&#93; ECHR 87: ¶ 123.
 
 [^21]: Emre Oktem & Mehmet C. Uzunm, “ Religious Dress Codes: The Turkish Case” in Religion in Public Spaces: A European Perspective,  Eds. Silvio Ferrari & Sabrina Pastorelli (Asgate 2012): 191.
 

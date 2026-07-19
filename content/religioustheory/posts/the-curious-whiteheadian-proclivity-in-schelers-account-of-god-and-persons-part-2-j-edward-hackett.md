@@ -21,6 +21,27 @@ tags:
   - philosophy
   - reality
   - metaphysics
+subjects:
+  - label: "Metaphysics"
+    scheme: "FAST"
+    identifier: "fst01018304"
+    uri: "https://id.worldcat.org/fast/1018304"
+    category: "topical"
+  - label: "Phenomenology"
+    scheme: "FAST"
+    identifier: "fst01060522"
+    uri: "https://id.worldcat.org/fast/1060522"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Reality"
+    scheme: "FAST"
+    identifier: "fst01091244"
+    uri: "https://id.worldcat.org/fast/1091244"
+    category: "topical"
 ---
 *The following is the second installment of a two-part series. The first can be found [here]( /religioustheory/posts/the-curious-whiteheadian-proclivity-in-schelers-account-of-god-and-persons-j-edward-hackett/).*
 
@@ -52,7 +73,7 @@ The most interesting claim of Scheler in all of this is the complex distribution
 
 In the fourth conception of psychic life, Scheler describes it as “*organically bound practical intelligence*.”[^12] In this phrase, we see Scheler’s commitment to an ontology of life binding our practical intelligence and their co-penetration and mutual dependency. Our practical intelligence is bound in the service of drives. For Scheler, there are two sides to intelligence. First, there is its practical definition, the how of practical intelligence is simply acting meaningfully without consulting past trials as an organism does in associative memory. Human beings and mice in a lab exhibit acting meaningfully in past trials. Second, the psychic side of intelligence is “a sudden insight into the context of facts and values within the environment.”[^13]
 
-At this level in the *Formalism,* we may be at vital feeling anticipating values of health and well-being of the person in the environment. Though implicit, I gather that having access to values comprehended but also the fact that we represent the environment and insight “in an anticipatory fashion” is reminiscent of vital feelings “anticipating the value of possible stimuli and their arrival \[vital values as he calls them\].”[^14]
+At this level in the *Formalism,* we may be at vital feeling anticipating values of health and well-being of the person in the environment. Though implicit, I gather that having access to values comprehended but also the fact that we represent the environment and insight “in an anticipatory fashion” is reminiscent of vital feelings “anticipating the value of possible stimuli and their arrival &#91;vital values as he calls them&#93;.”[^14]
 
 Let us review at this stage what we have done so far. First, I explicated the relationship between the early efforts of phenomenology of religion, phenomenological methodology, and contrasted those methods with what changed historically in Scheler’s move from classical theism to panentheism in his central text, *The Human Place and the Cosmos*. Next, we focused our efforts on introducing the question of persons as the motivation for opening up speculation concerning Scheler’s philosophical anthropology and later metaphysics in which the personal sphere becomes the locus of where God becomes in us and through us. In this section, then, the life-drive takes becomes the central feature in the entire psycho-physical union of the person, and so it was necessary to explain the becoming of the life-drive in all hierarchical levels of life Scheler outlined before we can explain how these levels of life-drive actively reveal themselves in the becoming of God and persons. Explicating the process of Becoming of God and persons is now the central task of the next section.
 

@@ -16,4 +16,15 @@ issue: 3
 season: fall
 year: 2021
 pages: 401-412
+subjects:
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Truth"
+    scheme: "FAST"
+    identifier: "fst01158235"
+    uri: "https://id.worldcat.org/fast/1158235"
+    category: "topical"
 ---

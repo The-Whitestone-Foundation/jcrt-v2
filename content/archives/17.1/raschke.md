@@ -17,4 +17,15 @@ issue: 1
 season: winter
 year: 2018
 pages: 109-125
+subjects:
+  - label: "Genealogy"
+    scheme: "FAST"
+    identifier: "fst00939652"
+    uri: "https://id.worldcat.org/fast/939652"
+    category: "topical"
+  - label: "Neoliberalism"
+    scheme: "FAST"
+    identifier: "fst01737382"
+    uri: "https://id.worldcat.org/fast/1737382"
+    category: "topical"
 ---

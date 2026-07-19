@@ -8,13 +8,13 @@ author: "John Y Cha"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 02
 year: 2001
 ---
 Cha - Language, Conceptualization and Awakening - JCRT 2.3 
 
-# Language, Conceptualization and Awakening: On the Paradox of Discourse in Classical Indian _Yogacara_
+## Language, Conceptualization and Awakening: On the Paradox of Discourse in Classical Indian _Yogacara_
 
 John Y. Cha  
 Gustavus Adolphus College
@@ -37,37 +37,37 @@ The following essay attempts to do two things: it seeks to analyze Indian Buddhi
 
 ### 4.2. Being/Non-Being
 
-> Non-being \[means\] that this verbal designation of "form" up to the verbal designation of "nirvana" is without an objective basis, that is, it is without characterization, that the basis of verbal designation is completely non-existent, that is, completely absent. Verbal designation functions without relying on any existing thing. This is called non-being.[^12]
+> Non-being &#91;means&#93; that this verbal designation of "form" up to the verbal designation of "nirvana" is without an objective basis, that is, it is without characterization, that the basis of verbal designation is completely non-existent, that is, completely absent. Verbal designation functions without relying on any existing thing. This is called non-being.[^12]
 
-> And also, whosoever negates the locus for the characteristic of verbal designation, which is the basis for the characteristic of verbal designation, completely negates the object that is the ineffable, ultimately real existence. \[Thus the nihilist states\]: "everything is completely non-existent."[^13]
+> And also, whosoever negates the locus for the characteristic of verbal designation, which is the basis for the characteristic of verbal designation, completely negates the object that is the ineffable, ultimately real existence. &#91;Thus the nihilist states&#93;: "everything is completely non-existent."[^13]
 
-> Anything posited as the self-nature (_svabhava_) of verbal designation (_prajnaptivada_)' \[Indeed\], the self-nature of the factors of existence (_dharma_) is the "referent" of verbal designation, and it is called "being" by the worldly.[^14]
+> Anything posited as the self-nature (_svabhava_) of verbal designation (_prajnaptivada_)' &#91;Indeed&#93;, the self-nature of the factors of existence (_dharma_) is the "referent" of verbal designation, and it is called "being" by the worldly.[^14]
 
-> And whosoever attaches to the own-nature of the verbal designation for factors of existence, i.e., the specific characteristic of form, etc., \[does so\] because of the postulation of existence upon that which does not exist.[^15]
+> And whosoever attaches to the own-nature of the verbal designation for factors of existence, i.e., the specific characteristic of form, etc., &#91;does so&#93; because of the postulation of existence upon that which does not exist.[^15]
 
-> Unreal mental construction exists; in that \[unreal mental construction\] duality does not exist (1ab).
+> Unreal mental construction exists; in that &#91;unreal mental construction&#93; duality does not exist (1ab).
 
-> But here \[in unreal mental construction\] emptiness exists; that \[unreal mental construction\] too exists in that \[emptiness\] (1cd).[^16]
+> But here &#91;in unreal mental construction&#93; emptiness exists; that &#91;unreal mental construction&#93; too exists in that &#91;emptiness&#93; (1cd).[^16]
 
-> Some maintain that all factors of existence are completely without self-nature, just like the horns of a rabbit. For that reason, in order to counter the negation of all things (_sarvapavada_) \[Maitreya\] said,  
+> Some maintain that all factors of existence are completely without self-nature, just like the horns of a rabbit. For that reason, in order to counter the negation of all things (_sarvapavada_) &#91;Maitreya&#93; said,  
 >      Unreal mental construction exists (1a);  
-> "in-itself" (_svabhavatas_) should be added. \[The opponent objects:\] Is it not the case that this assertion contradicts scripture, because it is said in scripture that "all factors of existence are empty"? \[We respond:\] There is no contradiction because \[it is further stated that\]  
->      in that \[unreal mental construction\] duality does not exist. (1b)  
-> Indeed, unreal mental construction which is devoid of the \[duality\] of any entity of subject and object of cognition, is called "empty" but not completely without self-nature.[^17]
+> "in-itself" (_svabhavatas_) should be added. &#91;The opponent objects:&#93; Is it not the case that this assertion contradicts scripture, because it is said in scripture that "all factors of existence are empty"? &#91;We respond:&#93; There is no contradiction because &#91;it is further stated that&#93;  
+>      in that &#91;unreal mental construction&#93; duality does not exist. (1b)  
+> Indeed, unreal mental construction which is devoid of the &#91;duality&#93; of any entity of subject and object of cognition, is called "empty" but not completely without self-nature.[^17]
 
-> Or, in order to counter the view, "visual form, etc., exist as real entities apart from mind and mental functions", \[Maitreya\] stated  
+> Or, in order to counter the view, "visual form, etc., exist as real entities apart from mind and mental functions", &#91;Maitreya&#93; stated  
 >      Unreal mental construction exists (1a);  
-> "as a real entity" \[should be added\]. Visual form does not exist separated from that \[consciousness\]. Why? Since,  
->      in that \[unreal mental construction\] duality does not exist (1b)  
-> Indeed, unreal mental construction is neither the perceiver of something nor is it perceived by anything. However, \[unreal mental construction\] as the absence of the subject and object of perception is the sole reality (_bhavamatra_).[^18]
+> "as a real entity" &#91;should be added&#93;. Visual form does not exist separated from that &#91;consciousness&#93;. Why? Since,  
+>      in that &#91;unreal mental construction&#93; duality does not exist (1b)  
+> Indeed, unreal mental construction is neither the perceiver of something nor is it perceived by anything. However, &#91;unreal mental construction&#93; as the absence of the subject and object of perception is the sole reality (_bhavamatra_).[^18]
 
 ### 4.3. The Presence of Absence
 
-> But here \[in unreal mental construction\] emptiness exists; that \[unreal mental construction\] too exists in that \[emptiness\].
+> But here &#91;in unreal mental construction&#93; emptiness exists; that &#91;unreal mental construction&#93; too exists in that &#91;emptiness&#93;.
 
 ### 4.4. Primacy of the Text and Ontological Dependency
 
-> \[A designation\] is neither the essential nature of that _dharma_, nor is it wholly other than that. That \[essential nature\] is neither the sphere of speech nor the object of speech; nor is it altogether different from these. That being the case, the essential nature of _dharmas_ is not found in the way in which it is expressed. But further, neither is absolutely nothing found. Again, the essential nature is absent and yet not absolutely absent.[^23]
+> &#91;A designation&#93; is neither the essential nature of that _dharma_, nor is it wholly other than that. That &#91;essential nature&#93; is neither the sphere of speech nor the object of speech; nor is it altogether different from these. That being the case, the essential nature of _dharmas_ is not found in the way in which it is expressed. But further, neither is absolutely nothing found. Again, the essential nature is absent and yet not absolutely absent.[^23]
 
 > And also, whosoever negates the locus for the characteristic of verbal designation, which is the basis for the characteristic of verbal designation, completely negates the object that is the ineffable, ultimately real existence.[^24]
 
@@ -78,22 +78,18 @@ The following essay attempts to do two things: it seeks to analyze Indian Buddhi
 ### Notes
 
 _abhutaparikalpo sti_
-_\[iti\] svabhavata iti vakyasesah / nanv evam. su4travirodhah sarvadharmah sunya iti sutre vacanat / nasti virodhah yasmad_
+_&#91;iti&#93; svabhavata iti vakyasesah / nanv evam. su4travirodhah sarvadharmah sunya iti sutre vacanat / nasti virodhah yasmad_
 _dvayam. tatra na vidyate_ _/_
 _abhutaparikalpo sti_
-_\[iti sa evasti\] dravyatah / nasti rupam. tadvyatiriktam. \[nasti\] dravyata iti / kim. karanam yasmad_
+_&#91;iti sa evasti&#93; dravyatah / nasti rupam. tadvyatiriktam. &#91;nasti&#93; dravyata iti / kim. karanam yasmad_
 _dvayam tatra na vidyate_
 * * *
 
 > **John Y. Cha** (Ph D Northwestern University), is an Assistant Professor of Religion at Gustavus Adolphus College in Minnesota. He specializes in classical Indian Buddhist philosophy focusing on the Yogacara and Madhyamika schools. His other interests include modern Japanese philosophy (Kyoto School), comparative philosophy and phenomenology.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 John Y. Cha. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 John Y. Cha. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/cha](https://jcrt.org/archives/02.3/cha/)
 

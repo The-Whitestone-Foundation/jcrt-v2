@@ -18,6 +18,22 @@ tags:
   - radical
   - religion
   - contribution
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 **Caputo, John D., Moody, Sarah, and DeLay, Tad., *It Spooks: Living In Response To An Unheard Call.*  Rapid City SD: Shelter50 Publishing Collective, 2015.  ISBN-10: 0986249505. Paperback. 260 pages.**
 

@@ -30,4 +30,30 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Comedy"
+    scheme: "FAST"
+    identifier: "fst00869083"
+    uri: "https://id.worldcat.org/fast/869083"
+    category: "topical"
+  - label: "Philosophical anthropology"
+    scheme: "FAST"
+    identifier: "fst01060766"
+    uri: "https://id.worldcat.org/fast/1060766"
+    category: "topical"
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
+  - label: "Politics in literature"
+    scheme: "FAST"
+    identifier: "fst01896084"
+    uri: "https://id.worldcat.org/fast/1896084"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---

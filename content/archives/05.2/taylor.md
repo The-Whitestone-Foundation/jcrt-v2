@@ -25,4 +25,25 @@ issue: 2
 season: spring
 year: 2004
 pages:
+subjects:
+  - label: "Archives"
+    scheme: "FAST"
+    identifier: "fst00814030"
+    uri: "https://id.worldcat.org/fast/814030"
+    category: "topical"
+  - label: "Methodology"
+    scheme: "FAST"
+    identifier: "fst01018722"
+    uri: "https://id.worldcat.org/fast/1018722"
+    category: "topical"
+  - label: "Postmodernism"
+    scheme: "FAST"
+    identifier: "fst01073164"
+    uri: "https://id.worldcat.org/fast/1073164"
+    category: "topical"
+  - label: "Religion Study and teaching"
+    scheme: "FAST"
+    identifier: "fst01093807"
+    uri: "https://id.worldcat.org/fast/1093807"
+    category: "topical"
 ---

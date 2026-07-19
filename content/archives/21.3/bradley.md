@@ -20,11 +20,27 @@ keywords:
   - agata
   - bielik-robson
   - violence-philosophy
-pdf:
+pdf: Bradley6.pdf
 sort_id:
 volume: 21
 issue: 3
 season: fall
 year: 2022
 pages: 436-439
+subjects:
+  - label: "Crypto-Jews"
+    scheme: "FAST"
+    identifier: "fst01765216"
+    uri: "https://id.worldcat.org/fast/1765216"
+    category: "topical"
+  - label: "Political science Philosophy"
+    scheme: "FAST"
+    identifier: "fst01069819"
+    uri: "https://id.worldcat.org/fast/1069819"
+    category: "topical"
+  - label: "Violence Philosophy"
+    scheme: "FAST"
+    identifier: "fst01167235"
+    uri: "https://id.worldcat.org/fast/1167235"
+    category: "topical"
 ---

@@ -19,4 +19,10 @@ issue: 3
 season: fall
 year: 2021
 pages: 302-317
+subjects:
+  - label: "Platonists"
+    scheme: "FAST"
+    identifier: "fst01066881"
+    uri: "https://id.worldcat.org/fast/1066881"
+    category: "topical"
 ---

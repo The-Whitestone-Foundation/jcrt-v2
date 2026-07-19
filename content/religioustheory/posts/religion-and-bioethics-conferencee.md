@@ -19,6 +19,12 @@ tags:
   - ethical
   - moral
   - medical
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 #### **When**: Jan. 9-10, 2025
 

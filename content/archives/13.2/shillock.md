@@ -20,4 +20,15 @@ issue: 2
 season: summer
 year: 2014
 pages:
+subjects:
+  - label: "Walking dead (Kirkman, Robert)"
+    scheme: "FAST"
+    identifier: "fst01938236"
+    uri: "https://id.worldcat.org/fast/1938236"
+    category: "title"
+  - label: "Zombies in popular culture"
+    scheme: "FAST"
+    identifier: "fst01919529"
+    uri: "https://id.worldcat.org/fast/1919529"
+    category: "topical"
 ---

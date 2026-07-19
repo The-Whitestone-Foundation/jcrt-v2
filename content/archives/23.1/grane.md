@@ -16,4 +16,15 @@ issue: 1
 season: spring
 year: 2024
 pages: 10-17
+subjects:
+  - label: "Faith"
+    scheme: "FAST"
+    identifier: "fst01198492"
+    uri: "https://id.worldcat.org/fast/1198492"
+    category: "topical"
+  - label: "Sympathy"
+    scheme: "FAST"
+    identifier: "fst01140836"
+    uri: "https://id.worldcat.org/fast/1140836"
+    category: "topical"
 ---

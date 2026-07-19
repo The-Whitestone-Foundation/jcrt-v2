@@ -27,4 +27,25 @@ issue: 1
 season: winter
 year: 2006
 pages:
+subjects:
+  - label: "Antichrist"
+    scheme: "FAST"
+    identifier: "fst00810461"
+    uri: "https://id.worldcat.org/fast/810461"
+    category: "topical"
+  - label: "History Philosophy"
+    scheme: "FAST"
+    identifier: "fst00958266"
+    uri: "https://id.worldcat.org/fast/958266"
+    category: "topical"
+  - label: "Resurrection"
+    scheme: "FAST"
+    identifier: "fst01096044"
+    uri: "https://id.worldcat.org/fast/1096044"
+    category: "topical"
+  - label: "Spirits"
+    scheme: "FAST"
+    identifier: "fst01130061"
+    uri: "https://id.worldcat.org/fast/1130061"
+    category: "topical"
 ---

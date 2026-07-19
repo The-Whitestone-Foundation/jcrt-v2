@@ -19,4 +19,15 @@ issue: 1
 season: fall
 year: 2015
 pages: 39-50
+subjects:
+  - label: "Responsibility"
+    scheme: "FAST"
+    identifier: "fst01095857"
+    uri: "https://id.worldcat.org/fast/1095857"
+    category: "topical"
+  - label: "Subjectivity"
+    scheme: "FAST"
+    identifier: "fst01136568"
+    uri: "https://id.worldcat.org/fast/1136568"
+    category: "topical"
 ---

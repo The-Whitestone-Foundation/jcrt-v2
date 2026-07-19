@@ -18,4 +18,10 @@ issue: 1
 season: winter
 year: 2024
 pages: 93-106
+subjects:
+  - label: "Contextualism (Philosophy)"
+    scheme: "FAST"
+    identifier: "fst00876666"
+    uri: "https://id.worldcat.org/fast/876666"
+    category: "topical"
 ---

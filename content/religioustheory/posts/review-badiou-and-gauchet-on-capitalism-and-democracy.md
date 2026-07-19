@@ -20,6 +20,47 @@ tags:
   - capitalism
   - discussion
   - globalization
+subjects:
+  - label: "Capitalism"
+    scheme: "FAST"
+    identifier: "fst00846425"
+    uri: "https://id.worldcat.org/fast/846425"
+    category: "topical"
+  - label: "Communism"
+    scheme: "FAST"
+    identifier: "fst00870421"
+    uri: "https://id.worldcat.org/fast/870421"
+    category: "topical"
+  - label: "Democracy"
+    scheme: "FAST"
+    identifier: "fst00890077"
+    uri: "https://id.worldcat.org/fast/890077"
+    category: "topical"
+  - label: "Discussion"
+    scheme: "FAST"
+    identifier: "fst00895143"
+    uri: "https://id.worldcat.org/fast/895143"
+    category: "topical"
+  - label: "Globalization"
+    scheme: "FAST"
+    identifier: "fst00943532"
+    uri: "https://id.worldcat.org/fast/943532"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Political theology"
+    scheme: "FAST"
+    identifier: "fst01069899"
+    uri: "https://id.worldcat.org/fast/1069899"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Badiou, Alain and Gauchet, Marcel.   [*What Is To Be Done?: A Dialogue on Communism, Capitalism, and the Future of Democracy*](https://books.google.com/books?id=yB98CwAAQBAJ&printsec=frontcover&dq=badiou+what+is+to+be+done&hl=en&sa=X&ved=0ahUKEwjSqoW8udXMAhWMKiYKHV4OBpwQ6AEIHTAA#v=onepage&q=badiou%20what%20is%20to%20be%20done&f=false). Translated by Susan Spitzer.  Cambridge, UK: Polity Press, 2016.  **ISBN:** 1509501703.  Hardback, paperback, e-book, 168 pages.  
 **
@@ -32,7 +73,7 @@ As the moderators of the discussion, Martin Duru and Martin Legros, explain in t
 
 Both Gauchet and Badiou are known for their strong views, and the opposing of a figure who speaks highly of Maoism and the Cultural Revolution to a figure who has paved the way for attempting to revive liberal democracy could have been disastrous. However, despite the pre-calculations, the outcome of the book breaks from possible extremes, instead treading along at a nicely paced, intense discussion wherein Badiou and Gauchet both highlight their academic fortitude, and their respective abilities to allow the insights of the other to develop their own intellectual attachments in varied ways.
 
-Though the text only comprises 149 pages, the book is divided into eight chapters, all of which were portions of three separate meetings between Badiou and Gauchet. These remarkably dense chapters are mostly full of impassioned discourse, though interspersed in are moments of true joviality, as Badiou and Gauchet note their many commonalities. The text begins with an introduction that is focused by the moderators on the importance that communism had to the respective thinker’s own intellectual lives.  Here is where the reader learns that, paradoxically, Badiou was, as he says, “a latecomer to communism . . . com\[ing\] from a social-democratic tradition originally” (1). Badiou’s early years as a militant in the French Section of the Workers’ International, moving on to communism at the age of 31 during May ’68 is juxtaposed with Gauchet’s “exhilaration” at the age of 15 after reading *The Communist Manifesto*. May ’68 also had a profound effect upon Gauchet, as the failure of the political moment led to “a gradual, heartbreaking abandonment of \[his\] original Marxism” (5).
+Though the text only comprises 149 pages, the book is divided into eight chapters, all of which were portions of three separate meetings between Badiou and Gauchet. These remarkably dense chapters are mostly full of impassioned discourse, though interspersed in are moments of true joviality, as Badiou and Gauchet note their many commonalities. The text begins with an introduction that is focused by the moderators on the importance that communism had to the respective thinker’s own intellectual lives.  Here is where the reader learns that, paradoxically, Badiou was, as he says, “a latecomer to communism . . . com&#91;ing&#93; from a social-democratic tradition originally” (1). Badiou’s early years as a militant in the French Section of the Workers’ International, moving on to communism at the age of 31 during May ’68 is juxtaposed with Gauchet’s “exhilaration” at the age of 15 after reading *The Communist Manifesto*. May ’68 also had a profound effect upon Gauchet, as the failure of the political moment led to “a gradual, heartbreaking abandonment of &#91;his&#93; original Marxism” (5).
 
 From this beginning in initial encounters with communism and intellectual formation, the dialogue is directed to further detailed discussion regarding the history of communism, totalitarianism, and the return of the communist hypothesis. Here, the reader is introduced to several sections of diametrically opposed analyses of communist history and what communism calls for on the international scene (14-47; 48-75). With this latter section the reader gets a cogent presentation of Badiou’s system of thought, such that it reads as a nice primer, especially coupled with the ending chapter where Badiou and Gauchet trade blows on how to understand the political subject.
 
@@ -40,7 +81,7 @@ What is striking is the consistent agreement found throughout the entire discour
 
 The last four chapters deal explicitly with the recent economic crisis, how it fits into the overall globalized economic/political milieu, and what is to be done. For Gauchet, the answer is clearly a reformism of democracy which has been dominated by a mode of capitalism that has mutated beyond what Marx was referring to through financial globalization. Badiou’s is found in the re-emergence of a robust communism that leaves tradition behind and takes modernism seriously; countering the scapegoating of globalization, Badiou notes that the parasitism of globalization is merely an iteration of imperialism. Globalization is in fact a return to the normal of capitalism.
 
-Throughout there is scepticism that the other’s project will produce any change. Badiou’s pessimism about the possibility of reforming democracy is unwavering. Gauchet notes that communism is locked within a titanic struggle to undo notions that cannot be merely cleared away and that it must work within the paradigm it wishes to overcome. However, despite the dual-pessimism, they come to realize that they both believe in politics, and Badiou suggests that they are both waiting for an Event to break through and for Gauchet this would “bring about a new reformist subjectivity” (146). Badiou notes that he is, in fact, “offering to help \[Gauchet\] out!”
+Throughout there is scepticism that the other’s project will produce any change. Badiou’s pessimism about the possibility of reforming democracy is unwavering. Gauchet notes that communism is locked within a titanic struggle to undo notions that cannot be merely cleared away and that it must work within the paradigm it wishes to overcome. However, despite the dual-pessimism, they come to realize that they both believe in politics, and Badiou suggests that they are both waiting for an Event to break through and for Gauchet this would “bring about a new reformist subjectivity” (146). Badiou notes that he is, in fact, “offering to help &#91;Gauchet&#93; out!”
 
 The reply he receives is that the offering is a hidden acknowledgment that communism is weak and needs to compromise with “reformed democracies” in order to make real effects. Ending the intriguing and forward thinking discussion, Badiou playfully nods to the unexpected “grand alliance” that will, hopefully, through “fighting the same enemy” provide a solution to these seemingly insurmountable problems plaguing the world today (149).
 

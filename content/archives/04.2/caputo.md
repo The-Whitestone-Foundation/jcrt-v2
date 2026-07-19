@@ -8,13 +8,13 @@ author: "John D Caputo"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 04
 year: 2003
 ---
 Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
 
-# After Jacques Derrida Comes the Future
+## After Jacques Derrida Comes the Future
 
 John D. Caputo  
 Villanova University
@@ -27,13 +27,9 @@ Derrida admits to being preoccupied with his own death, imagining grim scenes of
 
 > **John D. Caputo** is the David R. Cook Professor of Philosophy at Villanova University, where he has taught since 1968. He serves as the Chair of the Editorial Board of the _Journal for Cultural and Religious Theory_. His most recent publications include _The Religious_ (Blackwell, 2002), _On Religion_ (Routledge, 2001) and _More Radical Hermeneutics: On Not Knowing Who We Are_ (Indiana, 2000). He is presently at work on a book on deconstruction and the "Kingdom of God."
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2003 John D. Caputo All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2003 John D. Caputo All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/04.2/caputo](https://jcrt.org/archives/04.2/caputo/)
 

@@ -16,4 +16,10 @@ issue: 3
 season: spring
 year: 2013
 pages: 125-139
+subjects:
+  - label: "Demographic transition"
+    scheme: "FAST"
+    identifier: "fst00890152"
+    uri: "https://id.worldcat.org/fast/890152"
+    category: "topical"
 ---

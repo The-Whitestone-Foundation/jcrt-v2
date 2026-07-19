@@ -21,6 +21,22 @@ tags:
   - identity
   - discourse
   - praxis
+subjects:
+  - label: "Colonization"
+    scheme: "FAST"
+    identifier: "fst00868483"
+    uri: "https://id.worldcat.org/fast/868483"
+    category: "topical"
+  - label: "Identity (Philosophical concept)"
+    scheme: "FAST"
+    identifier: "fst00966889"
+    uri: "https://id.worldcat.org/fast/966889"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
 ---
 ## The following is the first installment of a two-part series.
 
@@ -64,7 +80,7 @@ Menelik II was able to defend his border, and Haile Selassie I was able to penet
 
 One of the best-known images that represents Ethiopia after the Italian occupation was the 1980s famine. Alemayehu Erkihun Engda, in his article, “Ethiopia in the Image of the West in the 1980s” argues that the western media played the major role in creating fixed-famine images of Ethiopians. In the 1980s some parts of Ethiopia suffered due to famine and drought, but the Ethiopian communist regime was not willing to ask for help from the West. However, BBC journalist Mohammed Amin’s documentary film showed the terrifying suffering of unnourished children and breastfeeding mothers to the world.
 
-At the same time, David Baily displayed a photographic collection of the victims of the famine for public exhibit. The exhibition, documentaries, and media prompted many humanitarian organizations to come to Ethiopia and support the famine victims.[^17] However, the Western media, instead of presenting the famine as an incident, presented Ethiopian women’s and children’s bodies as the description and symbol of poverty and famine. “\[T\]he Encyclopedia Britannica and Oxford English Dictionary referred Ethiopia to illustrate famine.” [^18] The famine’s images, exhibitions, and movies demonstrate that Ethiopian bodies are female and absent. At the same time, they are uncivilized and undeveloped nation who cannot feed their children. The Western discourses and media sustain the undeveloped and uncivilized images of Ethiopians until today.
+At the same time, David Baily displayed a photographic collection of the victims of the famine for public exhibit. The exhibition, documentaries, and media prompted many humanitarian organizations to come to Ethiopia and support the famine victims.[^17] However, the Western media, instead of presenting the famine as an incident, presented Ethiopian women’s and children’s bodies as the description and symbol of poverty and famine. “The Encyclopedia Britannica and Oxford English Dictionary referred Ethiopia to illustrate famine.” [^18] The famine’s images, exhibitions, and movies demonstrate that Ethiopian bodies are female and absent. At the same time, they are uncivilized and undeveloped nation who cannot feed their children. The Western discourses and media sustain the undeveloped and uncivilized images of Ethiopians until today.
 
 *Rode Shewaye Molla is a Ph.D. candidate in the University of Denver and the Iliff School of Theology Joint Doctoral Program (JDP) in the Study of Religion. Rode is originally from Ethiopia. Rode’s research and writing focuses on decolonizing oppressive practices, images, and embodied normative rules and ideologies through an interdisciplinary methodology that at the intersection of postcolonial theory, political and public theologies, intercultural care, borderland, and embodied religious practices.*
 

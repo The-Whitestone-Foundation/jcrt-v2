@@ -19,4 +19,15 @@ issue: 2
 season: spring
 year: 2022
 pages: 170-173
+subjects:
+  - label: "History of religion"
+    scheme: "FAST"
+    identifier: "fst01402984"
+    uri: "https://id.worldcat.org/fast/1402984"
+    category: "title"
+  - label: "Scholars"
+    scheme: "FAST"
+    identifier: "fst01106878"
+    uri: "https://id.worldcat.org/fast/1106878"
+    category: "topical"
 ---

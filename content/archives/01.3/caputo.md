@@ -8,13 +8,13 @@ author: "John D Caputo"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 02
 year: 2000
 ---
 Caputo - For Love of Things Themselves - JCRT 1.3 
 
-# For Love of the Things Themselves: Derrida's Hyper-Realism
+## For Love of the Things Themselves: Derrida's Hyper-Realism
 
 John D. Caputo  
 Villanova University
@@ -25,19 +25,19 @@ Editors Note: This article will appear in "On Realism," a special issue of _Soci
 
 A _Work of Love_. If the real means what is present, what is really there, full blown and unvarnished, then deconstruction, as the deconstruction of the metaphysics of presence, is the deconstruction of realism, of any such real or full presence, which can always be shown to be a constituted effect. In just the same way that representation and non-presence precede and make possible the 'effect' of 'presence' (VP, 58/SP, 52),[^1] deconstruction would take a devilish delight in showing the way that unreality and irreality precede and make 'reality' possible, making possible and impossible whatever would dare to pass itself off as reality. Deconstruction would never tire of telling realists Nietzsche's story of how the real world became a fable.
 
-    > And contrary to what phenomenology'which is always a phenomenology of perception'has tried to make us believe, contrary to what our desire cannot fail to be tempted into believing, the thing itself always escapes (_la chose m'me se d'robe toujours_). (VP, 117/SP, 104)
+> And contrary to what phenomenology'which is always a phenomenology of perception'has tried to make us believe, contrary to what our desire cannot fail to be tempted into believing, the thing itself always escapes (_la chose m'me se d'robe toujours_). (VP, 117/SP, 104)
 
-    > To surrender to the other, and this is the impossible, would amount to giving oneself over in going toward the other, to coming toward the other but without crossing the threshold, and to respecting, to loving even the invisibility that keeps the other inaccessible. (_Sauf_, 91/ON, 74)[^5]
+> To surrender to the other, and this is the impossible, would amount to giving oneself over in going toward the other, to coming toward the other but without crossing the threshold, and to respecting, to loving even the invisibility that keeps the other inaccessible. (_Sauf_, 91/ON, 74)[^5]
 
-     > Husserl insists that there is no pure intuition of the other _as such_; that is, I have no originary access to the alter-ego _as such_...That is why he/she is _the_ other. This separation, this dissociation is not only a limit, but it is also the condition of the relation to the other, a non-relation as relation...a non-intuitive relation'I don't know who the other is, I can't be on the other side. (QE, 71)[^7]
+> Husserl insists that there is no pure intuition of the other _as such_; that is, I have no originary access to the alter-ego _as such_...That is why he/she is _the_ other. This separation, this dissociation is not only a limit, but it is also the condition of the relation to the other, a non-relation as relation...a non-intuitive relation'I don't know who the other is, I can't be on the other side. (QE, 71)[^7]
 
-     > The other is God or no matter whom, more precisely, no matter what singularity, as soon as any other is totally other. (_Sauf_, 92/ON, 74)
+> The other is God or no matter whom, more precisely, no matter what singularity, as soon as any other is totally other. (_Sauf_, 92/ON, 74)
 
-     > In the language of abstraction, that which is the difficulty of existence and of the existing person never actually appears; even less is the difficulty explained...If abstract thinking is assumed to be the highest, it follows that scientific scholarship and thinkers proudly abandon existence and leave the rest of us to put up with the worst.
+> In the language of abstraction, that which is the difficulty of existence and of the existing person never actually appears; even less is the difficulty explained...If abstract thinking is assumed to be the highest, it follows that scientific scholarship and thinkers proudly abandon existence and leave the rest of us to put up with the worst.
 
-     > But is there a better way of overcoming hallucination than to pay attention to the other? For me the other is 'the real thing', and reference to the other is what breaks with hallucination, if such a break is possible. In order to respect the transcendence or the heterogeneity of the other, we have to pay attention. (QE, 77).
+> But is there a better way of overcoming hallucination than to pay attention to the other? For me the other is 'the real thing', and reference to the other is what breaks with hallucination, if such a break is possible. In order to respect the transcendence or the heterogeneity of the other, we have to pay attention. (QE, 77).
 
-     > \[U\]ndecidability is not indeterminacy. Undecidability is the competition between two determined possibilities or options, two determined duties...Now, because there are contexts and singularities, there are movements, processes and transformations, and for transformation to occur something has to be determined, something is determinable...There is, however, the future, what is to come, and I would say there is indeterminacy of the coming of the future. But that is not a relativity of meaning. (QE, 79)
+> Undecidability is not indeterminacy. Undecidability is the competition between two determined possibilities or options, two determined duties...Now, because there are contexts and singularities, there are movements, processes and transformations, and for transformation to occur something has to be determined, something is determinable...There is, however, the future, what is to come, and I would say there is indeterminacy of the coming of the future. But that is not a relativity of meaning. (QE, 79)
 
 * * *
 
@@ -46,13 +46,9 @@ A _Work of Love_. If the real means what is present, what is really there, full 
 
 > **John D. Caputo**, David R. Cook Professor of Philosophy at Villanova University where he has taught since 1968, works in the area of deconstruction and religion. He has recently published More Radical Hermeneutics: On Not Knowing Who We Are (Indiana, 2000), which continues his project of building a working relationship between deconstruction and hermeneutics. He recently co-edited _God, the Gift and Postmodernism_ (Indiana, 1999), a collection of studies based on a conference held at Villanova featuring Jacques Derrida in dialogue with Jean-Luc Marion and other major postmodern theorists. He is the author of _Deconstruction in a Nutshell: A Conversation with Jacques Derrida_ (New York: Fordham University Press, 1997), winner of a Choice 'Outstanding Academic Book Award,' and _The Prayers and Tears of Jacques Derrida: Religion without Religion_ (Bloomington: Indiana University Press, 1997). He is also the author of _Against Ethics: Contributions to a Poetics of Obligation with Constant Reference to Deconstruction_ (1993), which is an attempt to formulate a postmodernist ethics; and _Demythologizing Heidegger_ (1993), a critical reappraisal of Heidegger; _Radical Hermeneutics: Repetition, Deconstruction and the Hermeneutic Project_ (1987), which revisits hermeneutics in the light of deconstruction. He is also the author of _Heidegger and Aquinas: An Essay on Overcoming Metaphysics_ (1982), and _The Mystical Element in Heidegger's Thought_ (1978, 1986). He is past Executive Co-Director of the Society for Phenomenology and Existential Philosophy, and Editor of the book series, "Perspectives in Continental Philosophy" (Fordham University Press); past president of the American Catholic Philosophical Association, a past member of the National Board of Officers of the American Philosophical Association, and of the Executive Committee of the American Philosophical Association, Eastern Division. He has held research fellowships from the National Endowment for the Humanities (1992-93) and from the American Council of Learned Societies (1983-84). 
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2000 John D. Caputo. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2000 John D. Caputo. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/01.3/caputo](https://jcrt.org/archives/01.3/caputo/)
 

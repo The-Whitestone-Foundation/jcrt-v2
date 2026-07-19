@@ -29,4 +29,25 @@ issue: 1
 season: winter
 year: 2012
 pages:
+subjects:
+  - label: "Anxiety"
+    scheme: "FAST"
+    identifier: "fst00810950"
+    uri: "https://id.worldcat.org/fast/810950"
+    category: "topical"
+  - label: "Politics and government"
+    scheme: "FAST"
+    identifier: "fst01919741"
+    uri: "https://id.worldcat.org/fast/1919741"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Sovereignty"
+    scheme: "FAST"
+    identifier: "fst01127379"
+    uri: "https://id.worldcat.org/fast/1127379"
+    category: "topical"
 ---

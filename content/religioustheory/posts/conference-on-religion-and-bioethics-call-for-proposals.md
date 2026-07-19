@@ -17,6 +17,12 @@ tags:
   - religion
   - moral
   - submission
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 **When**: Jan. 9-10, 2025
 
@@ -74,4 +80,4 @@ Important Dates:
 
 ## Submission Process
 
-All proposals should be submitted as email attachments to [contact form](/contact/) with the header “Bioethics Conference Proposal – \[Title\]”.
+All proposals should be submitted as email attachments to [contact form](/contact/) with the header “Bioethics Conference Proposal – &#91;Title&#93;”.

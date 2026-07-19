@@ -18,6 +18,32 @@ tags:
   - theology
   - economic
   - religion
+subjects:
+  - label: "Psychology, Religious"
+    scheme: "FAST"
+    identifier: "fst01081630"
+    uri: "https://id.worldcat.org/fast/1081630"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Salvation"
+    scheme: "FAST"
+    identifier: "fst01104418"
+    uri: "https://id.worldcat.org/fast/1104418"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
+  - label: "Trinity"
+    scheme: "FAST"
+    identifier: "fst01156777"
+    uri: "https://id.worldcat.org/fast/1156777"
+    category: "topical"
 ---
 *This is the eighth lecture in an eight-lecture series.  The most recent lecture can be found [here]( /religioustheory/posts/god-as-person-and-trinity-lecture-7-johannes-zachhuber/).*
 
@@ -67,7 +93,7 @@ We merely have to recall that Bonhoeffer wrote his lines in a prison cell at the
 
 So, the task of finding God in the world that does not seem to know him is, for Bonhoeffer, as difficult and paradoxical as it sounds. It is, once again, totally different from the identification of Christianity with historical or social progress. It is a way of understanding the call of Jesus to his followers that they must be prepared to ‘take up the cross and follow’ him (Mt 10, 38) based on the assumption that the world that rejected and crucified the Son of God cannot be expected to be a friendly place.
 
-> \[Religious man\] must therefore live in the godless world, without attempting to gloss over or explain its ungodliness in some religious way or other. He must live a “secular” life, and thereby share in God’s sufferings. He may live a “secular” life (as one who has been freed from false religious obligations and inhibitions). To be a Christian does not mean to be religious in a particular way, to make something of oneself (a sinner, a penitent, or a saint) on the basis of some method or other, but to be a man–not a type of man, but the man that Christ creates in us. It is not the religious act that makes the Christian, but participation in the sufferings of God in the secular life.
+> &#91;Religious man&#93; must therefore live in the godless world, without attempting to gloss over or explain its ungodliness in some religious way or other. He must live a “secular” life, and thereby share in God’s sufferings. He may live a “secular” life (as one who has been freed from false religious obligations and inhibitions). To be a Christian does not mean to be religious in a particular way, to make something of oneself (a sinner, a penitent, or a saint) on the basis of some method or other, but to be a man–not a type of man, but the man that Christ creates in us. It is not the religious act that makes the Christian, but participation in the sufferings of God in the secular life.
 
 What does all this tell us about God? Is Bonhoeffer saying that Christianity must be prepared to give up God within a modern world that does not understand him any longer? It is easy to misunderstand him there. Christians must indeed be prepared to follow the path trod by Jesus to the point where he said, ‘My God why hast thou forsaken me?’ In this sense they must be prepared to give up God as a crutch to prop up their self-esteem or their orientation in the world or whatever other benefit bestowed by such a concept. They must be prepared to let go of the God of traditional religion.
 

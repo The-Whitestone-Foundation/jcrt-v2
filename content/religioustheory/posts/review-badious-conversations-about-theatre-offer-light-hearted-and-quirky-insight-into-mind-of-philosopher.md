@@ -21,6 +21,17 @@ tags:
   - dance
   - entertainment
   - relationship
+subjects:
+  - label: "Dance"
+    scheme: "FAST"
+    identifier: "fst00887402"
+    uri: "https://id.worldcat.org/fast/887402"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Badiou, Alain (with Nicolas Truong).  [*In Praise of Theatre*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0745686974.html).  New York: Polity, 2015.  ISBN 10: 978-0-7456-8697-4.   Hardback, paperback, e-book.  90 pages.**
 

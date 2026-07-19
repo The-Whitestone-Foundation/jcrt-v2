@@ -19,4 +19,10 @@ issue: 1
 season: winter
 year: 2014
 pages: 165-166
+subjects:
+  - label: "Indigenous peoples"
+    scheme: "FAST"
+    identifier: "fst00970213"
+    uri: "https://id.worldcat.org/fast/970213"
+    category: "topical"
 ---

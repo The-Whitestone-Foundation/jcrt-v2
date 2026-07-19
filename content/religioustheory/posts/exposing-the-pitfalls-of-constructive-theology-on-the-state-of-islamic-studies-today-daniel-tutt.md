@@ -18,6 +18,22 @@ tags:
   - religion
   - critical
   - religious
+subjects:
+  - label: "Learning and scholarship"
+    scheme: "FAST"
+    identifier: "fst00994857"
+    uri: "https://id.worldcat.org/fast/994857"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Reviews"
+    scheme: "FAST"
+    identifier: "fst01423760"
+    uri: "https://id.worldcat.org/fast/1423760"
+    category: "form-genre"
 ---
 **Hughes, Aaron. *Islam and the Tyranny of Authenticity: An Inquiry into Disciplinary Apologetics and Self-Deception.* London: Equinox Publishing, 2016. ISBN-10: 1781792178. Hardcover, paperback. 256 pages.** 
 

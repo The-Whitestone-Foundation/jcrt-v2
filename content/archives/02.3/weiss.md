@@ -8,13 +8,13 @@ author: "Dennis M Weiss"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: false
 sort_id: 06
 year: 2001
 ---
 Weiss - Mecha Love: A Review of Steven Spielberg's A.I. - JCRT 2.3 
 
-# Mecha Love: A Review of Steven Spielberg's _A.I._
+## Mecha Love: A Review of Steven Spielberg's _A.I._
 
 Dennis Weiss  
 York College of Pennsylvania
@@ -27,7 +27,7 @@ In _Life on the Screen_ Sherry Turkle argues that today the ontological distance
 
 > When there are computers who are just as smart as people, the computer will do a lot of the jobs, but there will still be things for the people to do. They will run the restaurants, taste the food, and they will be the ones who will love each other, have families and love each other (81).
 
-> \[Many adults\] saw the computer as a psychological object, conceded that it might have a certain rationality, but sought to maintain a sharp line between computers and people by claiming that the essence of human nature was what computers couldn't do. Certain human actions required intuition, embodiment, or emotions. Certain human actions depended on the soul and the spirit, the possibilities of spontaneity over programming. (82)
+> &#91;Many adults&#93; saw the computer as a psychological object, conceded that it might have a certain rationality, but sought to maintain a sharp line between computers and people by claiming that the essence of human nature was what computers couldn't do. Certain human actions required intuition, embodiment, or emotions. Certain human actions depended on the soul and the spirit, the possibilities of spontaneity over programming. (82)
 
 > Pinocchio ultimately is a parable of the process by which a caring and loving human being is created out of the narcissistic self of the infant .' He must learn to be a human child. He must appreciate the specific qualities of identification, imagination, and empathy which are at the roots of human love. To become truly human, he must first learn to hear the voice of conscience; to identify with those who are hungry, poor, and in misery; to appreciate the profound joy of giving that transcends the ephemeral pleasure of receiving. Or, in the words of his guardian angel, the Blue Fairy, to possess all that she subsumes under the heading of "a good heart." (129)
 
@@ -47,13 +47,9 @@ In _Life on the Screen_ Sherry Turkle argues that today the ontological distance
 
 > **Dennis Weiss** is Associate Professor of Philosophy in the English and Humanities Department at York College of Pennsylvania. He received his Ph.D. in philosophy from The University of Texas at Austin. His interests revolve around philosophical theories of human nature, feminist philosophy, and the digital culture. He is currently working on an edited collection of essays on philosophical anthropology and a text on the meaning of human being in the digital age. He has published a number of journal essays exploring the role of philosophical anthropology in contemporary philosophy, the impact of digital media on human nature, and the significance of the computer culture. These essays critique the "thin" accounts of human nature prevalent in work on the digital culture from the perspective of the more developed, "thick" accounts of human nature in the work of philosophical anthropologists such as Michael Landmann, Martin Buber, Jose Ortega y Gassett, Arnold Gehlen, and others.
 
-* * *
+***
 
-> 
-
-* * *
-
- ['](https://jcrt.org/copyright/) 2001 Dennis Weiss. All rights reserved.  
+ [Copyright © held by the author(s).](https://jcrt.org/copyright/) 2001 Dennis Weiss. All rights reserved.  
 Updated 07/28/21.   
 [jcrt.org/archives/02.3/weiss](https://jcrt.org/archives/02.3/weiss/)
 

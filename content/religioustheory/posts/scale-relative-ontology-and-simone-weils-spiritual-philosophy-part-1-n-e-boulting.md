@@ -21,6 +21,22 @@ tags:
   - necessity
   - philosophy
   - theory
+subjects:
+  - label: "Philosophical theology"
+    scheme: "FAST"
+    identifier: "fst01060773"
+    uri: "https://id.worldcat.org/fast/1060773"
+    category: "topical"
+  - label: "Philosophy"
+    scheme: "FAST"
+    identifier: "fst01060777"
+    uri: "https://id.worldcat.org/fast/1060777"
+    category: "topical"
+  - label: "Science"
+    scheme: "FAST"
+    identifier: "fst01108176"
+    uri: "https://id.worldcat.org/fast/1108176"
+    category: "topical"
 ---
 ## The following is the first of a two-part series.
 

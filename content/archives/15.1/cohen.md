@@ -19,4 +19,15 @@ issue: 1
 season: fall
 year: 2015
 pages: 16-22
+subjects:
+  - label: "Life"
+    scheme: "FAST"
+    identifier: "fst01198505"
+    uri: "https://id.worldcat.org/fast/1198505"
+    category: "topical"
+  - label: "Syllogism"
+    scheme: "FAST"
+    identifier: "fst01140715"
+    uri: "https://id.worldcat.org/fast/1140715"
+    category: "topical"
 ---

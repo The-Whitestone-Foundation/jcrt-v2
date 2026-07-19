@@ -22,6 +22,32 @@ tags:
   - religion
   - christianity
   - atheism
+subjects:
+  - label: "Atheism"
+    scheme: "FAST"
+    identifier: "fst00819974"
+    uri: "https://id.worldcat.org/fast/819974"
+    category: "topical"
+  - label: "Christianity"
+    scheme: "FAST"
+    identifier: "fst00859599"
+    uri: "https://id.worldcat.org/fast/859599"
+    category: "topical"
+  - label: "Psychoanalysis"
+    scheme: "FAST"
+    identifier: "fst01081235"
+    uri: "https://id.worldcat.org/fast/1081235"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the first lecture in an eight lecture series.* 
 

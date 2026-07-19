@@ -22,6 +22,27 @@ tags:
   - religious
   - logical
   - religion
+subjects:
+  - label: "Deconstruction"
+    scheme: "FAST"
+    identifier: "fst00889137"
+    uri: "https://id.worldcat.org/fast/889137"
+    category: "topical"
+  - label: "Logic"
+    scheme: "FAST"
+    identifier: "fst01002014"
+    uri: "https://id.worldcat.org/fast/1002014"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Theology"
+    scheme: "FAST"
+    identifier: "fst01149559"
+    uri: "https://id.worldcat.org/fast/1149559"
+    category: "topical"
 ---
 *The following is the third installment of a three-part series.  The first one can be found [here,]( /religioustheory/posts/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-1-neal-deroo/)* *the second [here]( /religioustheory/posts/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-2-neal-deroo/).* 
 
@@ -31,11 +52,11 @@ But one could embrace another prevalence for deconstruction, what we have here b
 
 Some might argue that this is a conflation of categories, a category mistake as Aristotle already warns us against. Rather, given the logic of autoimmunity and intercontamination—the logic of deconstruction—we can see that this need not be a conflation of categories, but rather a recognition of the autoimmunity of the notion of ‘pure’ logical structures, ‘pure’ experiential content, ‘pure’ transcendentals, ‘pure’ experiences—purity itself.
 
-The ‘religious’ reading of Derrida is not only a reading of Derrida according to certain theological tropes or themes, but is also a contextualized reading of Derrida that deconstructs those tropes and themes, moving beyond the notion of religion as “premised on the idea of ‘the unscathed’ (l’indemne), which \[Derrida\] glosses as the pure and the untouched, the sacred and the holy, the safe and sound” (129) toward another reading, not just of Derrida, but of religion.
+The ‘religious’ reading of Derrida is not only a reading of Derrida according to certain theological tropes or themes, but is also a contextualized reading of Derrida that deconstructs those tropes and themes, moving beyond the notion of religion as “premised on the idea of ‘the unscathed’ (l’indemne), which &#91;Derrida&#93; glosses as the pure and the untouched, the sacred and the holy, the safe and sound” (129) toward another reading, not just of Derrida, but of religion.
 
 Caputo’s “religion without religion” is not (just) a religion without violence (such a thing would, indeed, be impossible for us finite creatures, as Hägglund repeatedly points out), but a religion that moves beyond the ‘religious’ yearning for the pure and the untouched to an acceptance that such purity is not possible for finite creatures—and perhaps, as Hägglund rather convincingly argues, not even desirable to be achieved by finite creatures.
 
-But remaining in this acceptance, while perhaps adequate for the logic of deconstruction, is not sufficient for the context of deconstruction—neither for the philosophical and biographical context of its construction, as Caputo tries to argue, nor for the employment of deconstruction in religious contexts that Caputo (among others) seeks to enact. In this regard, it is not entirely accurate to say that “\[a\]ll of Caputo’s work on a supposedly deconstructive religion is structured around this opposition between a ‘good’ religion that welcomes others and a ‘bad’ religion that excludes others” (127)—but it is not entirely inaccurate, either.
+But remaining in this acceptance, while perhaps adequate for the logic of deconstruction, is not sufficient for the context of deconstruction—neither for the philosophical and biographical context of its construction, as Caputo tries to argue, nor for the employment of deconstruction in religious contexts that Caputo (among others) seeks to enact. In this regard, it is not entirely accurate to say that “all of Caputo’s work on a supposedly deconstructive religion is structured around this opposition between a ‘good’ religion that welcomes others and a ‘bad’ religion that excludes others” (127)—but it is not entirely inaccurate, either.
 
 Logically speaking, Caputo is aware that the logical structures of deconstruction neither welcome nor shun: *khôra* doesn’t care. The question is whether *khôra’*s not caring can be squared with the “‘the desire for the impossible’ that according to Caputo is ‘the common passion’ (111) of deconstruction and religion” (128).[^1] Can Caputo say both that the logical structures of deconstruction do not care and yet still claim that deconstruction has a passionate desire for the impossible?
 
@@ -49,11 +70,11 @@ In response, Caputo carefully and consistently insists upon the neutrality of th
 
 In that context, given that he is responding to a ‘religious’ friend, Caputo ceaselessly emphasizes the ‘coldness’ or ‘darkness,’ the fundamental neutrality, of the logic of deconstruction. In fact, even love—repeatedly cited by Hägglund as an example of Caputo’s missing the boat on deconstruction (cf. 129, 136-7, 140, etc.)—“is what it is because of its differential spacing from the odious, or amorphous, or amortizing,”[^4] which is to say, that it “is in virtue of *differance* that ‘God,’ ‘no God,’ ‘love,’ etc. get into play and we can discuss them, or live our lives with them uppermost in our minds, or whatever we are going to do with them.”[^5]
 
-In summarizing his response to Olthuis’ initial query about the two interpretations of hermeneutics, Caputo states: “the notion that things are deeply guided by God, as a loving force that steers all things mightily to the good, or as an amorous womb that keeps us safe against the cold \[roughly Olthuis’ position\], stands alongside the competing view that the cosmos is a vast cosmic stupidity that does not know we are here and could care less.”[^6]
+In summarizing his response to Olthuis’ initial query about the two interpretations of hermeneutics, Caputo states: “the notion that things are deeply guided by God, as a loving force that steers all things mightily to the good, or as an amorous womb that keeps us safe against the cold &#91;roughly Olthuis’ position&#93;, stands alongside the competing view that the cosmos is a vast cosmic stupidity that does not know we are here and could care less.”[^6]
 
 After emphasizing this (religious) neutrality that could, I think, have been taken from the pages of Hägglund himself, Caputo then asks: “then why not say that deconstruction is absolutely neutral instead of insisting that deconstruction is affirmation, *oui, oui*, indeed that deconstruction is a work of love…How can we square this neutrality with the affirmative character of deconstruction an affirmation of the undeconstructible?”[^7] Caputo’s answer to this question is telling for our discussion here, in that he beings by reminding us that “this affirmation transpires in and as deconstruction, not precisely in or as *khôra/differance*, which is only part, however irreducible a part, of deconstruction’s story.”[^8]
 
-The logical structures of deconstruction, Caputo here states, are only a part of deconstruction. The other part consists of “an archi-faith, a more indeterminate faith \[*foi*\], beyond any determinate belief \[*croyance*\], in something that has been *promised*” (ibid.). This promise, however, is not to be found in the logic of deconstruction, but in something external to that logic, namely “in words like ‘democracy,’ ‘justice,’ \[elsewhere he would say ‘God’\],[^9] promises that stir *within those words* and solicit us like events waiting to happen.”[^10]
+The logical structures of deconstruction, Caputo here states, are only a part of deconstruction. The other part consists of “an archi-faith, a more indeterminate faith &#91;*foi*&#93;, beyond any determinate belief &#91;*croyance*&#93;, in something that has been *promised*” (ibid.). This promise, however, is not to be found in the logic of deconstruction, but in something external to that logic, namely “in words like ‘democracy,’ ‘justice,’ &#91;elsewhere he would say ‘God’&#93;,[^9] promises that stir *within those words* and solicit us like events waiting to happen.”[^10]
 
 It is not the logic of deconstruction that commits deconstruction to affirmation, justice, openness to the other, etc., but rather the promise inherent in the words that are employed—indeed, that shape—the context in which deconstruction was constructed, and in which it is employed (at least by Caputo). Nothing guarantees that these promises will be kept, or will not emerge as threats or nightmares—this is a “structural matter” attributable to the logic laid out by deconstruction[^11] — but this does not eliminate the power they have, they ought to have, as promises of something better that can spur in us the passion to act today.
 

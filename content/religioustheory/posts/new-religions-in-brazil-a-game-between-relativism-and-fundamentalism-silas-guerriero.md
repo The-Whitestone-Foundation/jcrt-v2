@@ -22,6 +22,22 @@ tags:
   - social
   - relativism
   - characteristics
+subjects:
+  - label: "Cults"
+    scheme: "FAST"
+    identifier: "fst00884980"
+    uri: "https://id.worldcat.org/fast/884980"
+    category: "topical"
+  - label: "Relativity"
+    scheme: "FAST"
+    identifier: "fst01093602"
+    uri: "https://id.worldcat.org/fast/1093602"
+    category: "topical"
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
 ---
 Speaking of new religious movements in Brazil implies, above all, in defining what we refer to when we speak of “new religions.” We have already had an opportunity to discuss the boundaries that limit this concept[^1] . Now, it seems to be a matter of showing a larger audience some of the features that this phenomenon has achieved, without, however, going into the details that his discussion may arouse.
 
@@ -45,7 +61,7 @@ Differing from the Christian religions and from the experiences in the diverse s
 
 Apart from the great variety of possibilities for experiencing Christianity – from a varied realm of understandings and practices that are seen within Catholicism to the non-ending multiplication of Evangelic sects – as well as Afro-Brazilian traditions such as *Candomblé* and *Xangô*; *Umbanda* and Spiritism in all its variants; Indigenous traditions; and foreign religions restricted to ethnic groups, we also have an enormous variety of other religions or different religious practices.
 
-We find, for example, typically national constructions, such as the cult to *Santo Daime* and *Vale do Amanhecer* \[Valley of Dawn\]; or imported constructions, such as ISKCON (The International Society for Krishna Consciousness), the Unification Church, Tibetan Buddhism, or even spiritualist practices – which are far from becoming religious movement strictly speaking – such as *Mahikari*, a variety of oracles or sacred circular dances and Xamanism of the New Age.
+We find, for example, typically national constructions, such as the cult to *Santo Daime* and *Vale do Amanhecer* &#91;Valley of Dawn&#93;; or imported constructions, such as ISKCON (The International Society for Krishna Consciousness), the Unification Church, Tibetan Buddhism, or even spiritualist practices – which are far from becoming religious movement strictly speaking – such as *Mahikari*, a variety of oracles or sacred circular dances and Xamanism of the New Age.
 
 Assessment carried out by scholars point to some possibilities. Brandão[^5] sees this as a society in which individuals gain more autonomy and seek to produce their own meaning systems. To Carvalho[^6] , religious diversification expresses cultural diversity. Camurça[^7] points to two tendencies seen in the analysis of religious social scientists in Brazil: on the one hand, we have the new religious movements as a result of a more intense secularization[^8] ; on the other, we see clear signs of people becoming delighted with the world once again[^9] . The author states that the new religious movements allow us to see the non-exclusive tension between these extremities; only by so doing could we understand the religious effervescence in an increasingly modern society.
 
@@ -67,11 +83,11 @@ Others take on less rigid characteristics, such as the *Osho* Brazil Institute (
 
 There is great dissatisfaction with the instituted religions. Despite the sects’ often enclosed structures, their followers usually go through these religious centers, often taking up temporary identities rather than multiple identities. A Krishna follower today might be a follower of Sai Baba tomorrow. There is also the creation of new identities, of multiple blending, such as “*Hare daimista.*”
 
-Generally speaking, the sociologic division typically comes from higher social classes, highly educated, and followers come from lower classes. These are the ones that are seen in the traffic and are many times taken as “vagrants.” While the leadership takes on a more fundamentalist position, the speech among the latter is often more flexible. We can include in this category the more ecumenical groups, with no rigid religious boundaries, and that preach an eclectic truth, no less fundamental, though. Among these we can find *Vale do Amanhecer* and *Legião da Boa Vontade* \[Legion of Good Will\]. We see a certain environmental emphasis in some of these groups, as well as a strong sense of re-signifying symbols from Brazilian culture.
+Generally speaking, the sociologic division typically comes from higher social classes, highly educated, and followers come from lower classes. These are the ones that are seen in the traffic and are many times taken as “vagrants.” While the leadership takes on a more fundamentalist position, the speech among the latter is often more flexible. We can include in this category the more ecumenical groups, with no rigid religious boundaries, and that preach an eclectic truth, no less fundamental, though. Among these we can find *Vale do Amanhecer* and *Legião da Boa Vontade* &#91;Legion of Good Will&#93;. We see a certain environmental emphasis in some of these groups, as well as a strong sense of re-signifying symbols from Brazilian culture.
 
-![](/images/2018/03/amanhecer_no_vale_do_jaborandi.webp)The third group can be attributed to the new Eastern religions. Generally initiated within ethnic communities, especially in the Japanese community, it expands and gains followers from the broader society. Their doctrine has well-defined boundaries, and their truth is established. They seek to construct a new era and are organized around a charismatic leader. Some examples of these religions are Soka Gakkai, *Igreja Messiânica* \[Sekai Kyusei Kyo\], *Mahikari*, *Igreja da Unificação* \[Unification Church\], Perfect Liberty, *Seicho-No-Ie,* among others. Despite their tolerant speech, we can understand that these groups tend to a certain fundamentalism in the sense of believing their truths are superior to those of others.
+![](/images/2018/03/amanhecer_no_vale_do_jaborandi.webp)The third group can be attributed to the new Eastern religions. Generally initiated within ethnic communities, especially in the Japanese community, it expands and gains followers from the broader society. Their doctrine has well-defined boundaries, and their truth is established. They seek to construct a new era and are organized around a charismatic leader. Some examples of these religions are Soka Gakkai, *Igreja Messiânica* &#91;Sekai Kyusei Kyo&#93;, *Mahikari*, *Igreja da Unificação* &#91;Unification Church&#93;, Perfect Liberty, *Seicho-No-Ie,* among others. Despite their tolerant speech, we can understand that these groups tend to a certain fundamentalism in the sense of believing their truths are superior to those of others.
 
-Finally, the fourth type, broader and more diverse, is formed by sparse groups, with no fixed leadership, imprinted by occultism and esotericism, many times identified as New Age. They are largely attended by followers of other religious denominations, especially because they have no rigid boundary, and many state that they are non-religious groups. Most of them are formed within higher social classes and have equally high schooling levels. Many of these groups are not new in Brazil and would not be included in rigid definitions of new religious movements that might see the launching as an excluding criterion. This is the case of the Rosicrucian Order and the *Círculo Esotérico da Comunhão do Pensamento* \[the Communion of Thought Esoteric Circle\].
+Finally, the fourth type, broader and more diverse, is formed by sparse groups, with no fixed leadership, imprinted by occultism and esotericism, many times identified as New Age. They are largely attended by followers of other religious denominations, especially because they have no rigid boundary, and many state that they are non-religious groups. Most of them are formed within higher social classes and have equally high schooling levels. Many of these groups are not new in Brazil and would not be included in rigid definitions of new religious movements that might see the launching as an excluding criterion. This is the case of the Rosicrucian Order and the *Círculo Esotérico da Comunhão do Pensamento* &#91;the Communion of Thought Esoteric Circle&#93;.
 
 Others are more recent, such as Anthroposophy, Esoteric Umbanda, the several New Age groups, the urban Xamanisms, etc. Emphasis is many times seen in a search for truth through studies, as well as a search for using the mind with greater potential, and broadly transforming the individual. In many of these groups, one can see a strong appeal to relativism, not only because of the incorporation of religious symbols from rather different and distant cultures, but also because of their speech that all paths are valid in order to reach illumination. We can even see that excessive values end up generating a lack of these very values and that the absolute flexibility is transformed into a new fundamental truth.
 

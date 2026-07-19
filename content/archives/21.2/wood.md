@@ -18,4 +18,10 @@ issue: 2
 season: spring
 year: 2022
 pages: 241-271
+subjects:
+  - label: "Colonization"
+    scheme: "FAST"
+    identifier: "fst00868483"
+    uri: "https://id.worldcat.org/fast/868483"
+    category: "topical"
 ---

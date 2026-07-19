@@ -17,6 +17,22 @@ tags:
   - religion
   - religious
   - environmental
+subjects:
+  - label: "Religion"
+    scheme: "FAST"
+    identifier: "fst01093763"
+    uri: "https://id.worldcat.org/fast/1093763"
+    category: "topical"
+  - label: "Religion and literature"
+    scheme: "FAST"
+    identifier: "fst01093839"
+    uri: "https://id.worldcat.org/fast/1093839"
+    category: "topical"
+  - label: "Renaissance"
+    scheme: "FAST"
+    identifier: "fst01094518"
+    uri: "https://id.worldcat.org/fast/1094518"
+    category: "topical"
 ---
 The influence of religions on human attitudes toward the non-human, whether beneficent or deleterious, has been the subject of serious scholarly debate since at least the publication of Lynn White Jr.’s important essay, “The Historical Roots of Our Ecological Crisis”[^1] in the 1960s. This essay issued a near-wholesale condemnation of western Christianity for providing the fallow ground upon which the western world would cultivate its abuse of the non-human. Some have looked to the early modern period to corroborate this, finding supporting evidence from the late Middle Ages to the Enlightenment and sometimes a brief but potent organic worldview in the humanism of the 16th and early 17th centuries.[^2]
 
@@ -111,7 +127,7 @@ These authorities, alongside quotations of Confucius and Mencius, are employed t
 
 Despite writing in distinct times and places, there are notable similarities and continuities between the concerns of 17th century England and 19th century America, namely an intensifying crisis of religious identity. It is somewhat predictable that white, educated New England Protestants would look to Anglophone literature to substantiate their critiques. More than this, however, they participate in the same cultural work of searching for alternative origins and ideals for modern life, which they locate in Renaissance poetry itself and in Asian sources.
 
-According to her biographer, Waldo’s aunt, Mary Moody Emerson offered the prototype to her nephew of individualism and contemplative refuge in nature that she saw “more centrally than either Calvinist or Hindu belief … \[in\] the English poet-priests” and the strong tradition of Renaissance Platonism.[^22] Consistent with what I am describing, she attempted to revive New England Protestantism “by infusing it with energies not its own.[^23] Emerson’s life is in some ways emblematic of the tension between orthodoxy and fidelity to traditional Reformed doctrine, and a more expansive, Platonist-inflected view that in some cases supplements and others criticizes that. In his own life, the church to which he was ordained was in the process of splitting between orthodox Calvinist and progressive Unitarian camps.
+According to her biographer, Waldo’s aunt, Mary Moody Emerson offered the prototype to her nephew of individualism and contemplative refuge in nature that she saw “more centrally than either Calvinist or Hindu belief … &#91;in&#93; the English poet-priests” and the strong tradition of Renaissance Platonism.[^22] Consistent with what I am describing, she attempted to revive New England Protestantism “by infusing it with energies not its own.[^23] Emerson’s life is in some ways emblematic of the tension between orthodoxy and fidelity to traditional Reformed doctrine, and a more expansive, Platonist-inflected view that in some cases supplements and others criticizes that. In his own life, the church to which he was ordained was in the process of splitting between orthodox Calvinist and progressive Unitarian camps.
 
 Emerson’s aunt encouraged him to hang on despite the tension, and herself and her writings served as source texts for his own Platonist-Transcendental thought, and indeed has been acknowledged as the primary influence upon his life and thought.[^24]
 
@@ -171,7 +187,7 @@ Yet even within the New Age milieu we can see a similar rhetorical pattern, init
 
 [^10]: Stanton J. Linden, *Darke Hierogliphicks: Alchemy in English Literature from Chaucer to the Restoration* (Lexington: The University of Kentucky Press, 1996), 192.
 
-[^11]: Henry Vaughan, “\[And Do They so? Have They a Sense\],” in *George Herbert and the Seventeenth-Century Religious Poets*, ed. Mario A. Di Cesare (New York: W.W. Norton & Company, 1978), 154.
+[^11]: Henry Vaughan, “&#91;And Do They so? Have They a Sense&#93;,” in *George Herbert and the Seventeenth-Century Religious Poets*, ed. Mario A. Di Cesare (New York: W.W. Norton & Company, 1978), 154.
 
 [^12]: Henry Vaughan, “Cock-Crowing,” in *George Herbert and the Seventeenth-Century Religious Poets*, ed. Mario A. Di Cesare (New York: W.W. Norton & Company, 1978), 167.
 
@@ -209,6 +225,6 @@ Yet even within the New Age milieu we can see a similar rhetorical pattern, init
 
 [^29]: Mark Silk and Christopher White, eds., *The Future of Metaphysical Religion in America* (Cham, Switzerland: Springer, 2022), xiv.
 
-[^30]: Though as Grainger notes, there are remarkable similarities between early modern European occultism and New Age religion: The doctrine of correspondence central to harmonialism \[a tenet of New Age spirituality\] has a long history in Western thought, including ancient practices of astrology and the alchemical traditions of the Hermetic Renaissance.” Brett Malcolm Grainger, “The Place of Nature in Metaphysical Religion: A Brief History,” in *The Future of Metaphysical Religion in America*, ed. Christopher White and Mark Silk, Boundaries of Religious Freedom: Regulating Religion in Diverse Societies (Cham, Switzerland: Springer, 2022), 26.
+[^30]: Though as Grainger notes, there are remarkable similarities between early modern European occultism and New Age religion: The doctrine of correspondence central to harmonialism &#91;a tenet of New Age spirituality&#93; has a long history in Western thought, including ancient practices of astrology and the alchemical traditions of the Hermetic Renaissance.” Brett Malcolm Grainger, “The Place of Nature in Metaphysical Religion: A Brief History,” in *The Future of Metaphysical Religion in America*, ed. Christopher White and Mark Silk, Boundaries of Religious Freedom: Regulating Religion in Diverse Societies (Cham, Switzerland: Springer, 2022), 26.
 
 [^31]: Grainger, “The Place of Nature in Metaphysical Religion,” 37.

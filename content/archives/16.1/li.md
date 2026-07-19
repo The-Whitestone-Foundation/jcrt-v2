@@ -17,4 +17,10 @@ issue: 1
 season: winter
 year: 2016
 pages: 23-39
+subjects:
+  - label: "Political participation"
+    scheme: "FAST"
+    identifier: "fst01069386"
+    uri: "https://id.worldcat.org/fast/1069386"
+    category: "topical"
 ---

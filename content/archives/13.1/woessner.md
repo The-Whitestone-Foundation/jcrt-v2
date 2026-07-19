@@ -19,4 +19,10 @@ issue: 1
 season: winter
 year: 2014
 pages: 151-154
+subjects:
+  - label: "Women Crimes against"
+    scheme: "FAST"
+    identifier: "fst01176618"
+    uri: "https://id.worldcat.org/fast/1176618"
+    category: "topical"
 ---

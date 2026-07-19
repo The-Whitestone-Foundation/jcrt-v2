@@ -10,11 +10,22 @@ keywords:
   - zombie-films
   - dawn-of-the-dead-film
   - zombies-in-popular-culture
-pdf:
+pdf: taylorandweiss.pdf
 sort_id:
 volume: 13
 issue: 2
 season: summer
 year: 2014
 pages: i-vi
+subjects:
+  - label: "Zombie films"
+    scheme: "FAST"
+    identifier: "fst01184593"
+    uri: "https://id.worldcat.org/fast/1184593"
+    category: "topical"
+  - label: "Zombies in popular culture"
+    scheme: "FAST"
+    identifier: "fst01919529"
+    uri: "https://id.worldcat.org/fast/1919529"
+    category: "topical"
 ---
