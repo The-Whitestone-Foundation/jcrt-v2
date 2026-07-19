@@ -26,6 +26,36 @@ keywords:
   - slide-projection
   - aesthetics
 subjects:
+  - label: "Aesthetics"
+    scheme: "FAST"
+    identifier: "fst00798702"
+    uri: "https://id.worldcat.org/fast/798702"
+    category: "topical"
+  - label: "Cavell, Stanley, 1926-2018"
+    scheme: "FAST"
+    identifier: "fst00028565"
+    uri: "https://id.worldcat.org/fast/28565"
+    category: "personal"
+  - label: "Greenberg, Clement, 1909-1994"
+    scheme: "FAST"
+    identifier: "fst00129093"
+    uri: "https://id.worldcat.org/fast/129093"
+    category: "personal"
+  - label: "Installations (Art)"
+    scheme: "FAST"
+    identifier: "fst00974250"
+    uri: "https://id.worldcat.org/fast/974250"
+    category: "topical"
+  - label: "Krauss, Rosalind E."
+    scheme: "FAST"
+    identifier: "fst00015179"
+    uri: "https://id.worldcat.org/fast/15179"
+    category: "personal"
+  - label: "Modernism (Art)"
+    scheme: "FAST"
+    identifier: "fst01024442"
+    uri: "https://id.worldcat.org/fast/1024442"
+    category: "topical"
 abstract:
 year: 2000
 sort_id: 06

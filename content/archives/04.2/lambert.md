@@ -8,9 +8,9 @@ issue: 2
 pages:
 title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s Gilles Deleuze and the Ruin of Representation)"
 author: "Gregg Lambert"
-affiliation:
+affiliation: Syracuse University
 description:
-pdf: 09
+pdf: false
 date:
 keywords:
   - future-of-theory

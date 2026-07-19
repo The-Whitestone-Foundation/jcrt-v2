@@ -7,7 +7,7 @@ volume: 4
 issue: 2
 pages:
 title: "Theory Change"
-author: "Jeffrey J Williams"
+author: "Jeffrey J. Williams"
 affiliation:
 description:
 pdf: false
