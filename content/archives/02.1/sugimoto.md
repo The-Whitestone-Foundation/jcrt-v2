@@ -45,17 +45,7 @@ University of Puget Sound
 
 A  recent cover article in the _Atlantic Monthly_ [^1] and numerous other articles published over the past several years dealing with the status of religious (specifically, evangelical) scholarship attest to the ongoing sensitivity of the nerve struck, perhaps most pointedly, by the 1994 publication of American historian Mark Noll's _The Scandal of the Evangelical Mind_.[^2] However, the questions that remain largely unasked concern the historical development and socio-political function of the modern university as an institution within the nation-state; that is, what needs further analysis is the connection between the formation of knowledge ' its institutional form, its theoretical content ' and the role that larger social agendas of the nation-state play in determining the legitimation of knowledge in the modern world.
 
-    * * *
-
-     * * *
-
-     * * *
-
-     * * *
-
-     * * *
-
-* * *
+***
 
 ### Notes
 

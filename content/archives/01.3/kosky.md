@@ -42,9 +42,7 @@ Jeffrey L. Kosky
 
 Of those places where mystical traditions of Christian thought have received a warm welcome, post-Heideggerian continental thought is perhaps the most surprising. One of the first of the post-Heideggerians to make this move, Jean-Luc Marion turns to mystical theology in two related works, _L'idole et la distance_ (1977) and _Dieu sans l''tre_ (1982).[^1] There, mystical theology, represented most especially by Pseudo-Dionysius and Gregory of Nyssa, proves integral to Marion's attempt to formulate a theological position that evades the reigning Heideggerian understanding of theology as part and parcel of an onto-theo-logically determined metaphysics. Going one step further, Marion argues that mystical theology, especially in its naming of a Good Beyond Being, would even exceed Heidegger's own step back from metaphysics in the direction of the thought of Being by inscribing Being, beings and the difference between them within the play of the Good.
 
-    * * *
-
-     * * *
+***
 
 > Since it is the Cause of all beings we should posit and ascribe to it all the affirmations we make in regard to beings (kataphasis), and more appropriately, we should negate all these affirmations since it surpasses all being (apophasis). Now we should not conclude that the negations are simply the opposites of the affirmations, but rather that the cause of all is considerably prior to this; as it is beyond privations, it is also beyond every denial, beyond every assertion (MT, 1000B).
 
@@ -61,9 +59,7 @@ Of those places where mystical traditions of Christian thought have received a w
 
 5.  _The saying of praise._ Just as redoubled negation and the hyper- terms in Dionysius suggest a form of language that cannot be understood to function in terms of the predicative logos, so too does Levinas suggest another, non-apophantic function of language. He calls this form of language which signifies beyond the categorical alternative of the logos _saying_: "apophansis does not exhaust what there is in saying" (OB, 6). "The saying is beyond the logos, beyond being and non-being, beyond true and non-true" (OB, 45). Neither true nor false, the signification of saying, like that marked by the hyper-terms, lies beyond the categorical alternatives posed by logical signification. Levinas tells us more precisely what this saying consists of when he writes, "Saying states and thematizes the said, but signifies it to the other, a neighbor, with a signification that has to be distinguished from that borne by words in the said" (OB, 46). In contrast to the said or what is said in language, the saying does not signify by making determinations about being or securing an ultimate meaning or sense of that about which it speaks. Like praise in Dionysius, saying endlessly undoes the fixed determination of meaning that a predicative language would affirm ' even in its negations ' as is witnessed by the incessant and unending necessity of unsaying what is said in every saying when it is a matter of approaching the otherwise than Being. While Levinas does not elaborate a coherent theory or list of the proliferation of names for the beyond Being, the fact that the saying cannot be exhausted in the said would mark the endlessness of reference in a mode similar to that used in praise.
 
-     * * *
-
-     * * *
+***
 
 > In the yearning through which it is, being finds itself oriented toward an end that is without end or beyond completion. Such yearning renders that being irreducibly ecstatic and will thus imply that being's 'dispossession.'' Ecstasy, which structures the whole movement of the erotic circle of the Good marks, as I have suggested, the 'dispossession' of the beings whose very existence it sustains. Thus while the truth of hierarchy is found in the ecstasy of divine yearning or desire, the meaning conveyed by that truth is dispossession.[^22]
 
