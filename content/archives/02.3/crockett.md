@@ -2,15 +2,21 @@
 nanoid: "-sJP6x"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cage7y2r'
-title: "Contributions to Philosophy (from Enowning)"
 article_number:
+volume:
+issue:
+pages:
+title: "Contributions to Philosophy (from Enowning)"
 author: "Clayton Crockett"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 05
 ---
 Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 

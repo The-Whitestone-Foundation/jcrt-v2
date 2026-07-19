@@ -2,15 +2,21 @@
 nanoid: "RR1t1a"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb2x6s26'
-title: "Revelation: Lacan and the Ten Commandments"
 article_number:
+volume:
+issue:
+pages:
+title: "Revelation: Lacan and the Ten Commandments"
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 02
 ---
 Reinhard & Lupton - Revelation - JCRT 2.1 
 

@@ -2,10 +2,16 @@
 nanoid: "eHt7Ph"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c55vbf22'
+article_number:
+volume: 4
+issue: 3
+pages:
 title: "Piety, Power and Bare Life: What in the World Is Going on in the Name of Religion?"
 author: "Clayton Crockett"
-affilation:
-abstract:
+affiliation:
+description:
+pdf: crockett.pdf
+date:
 keywords:
   - philip
   - jacques
@@ -22,13 +28,6 @@ keywords:
   - giorgio
   - goodchild
   - power-philosophy
-pdf: crockett.pdf
-sort_id: 01
-volume: 4
-issue: 3
-season: summer
-year: 2003
-pages:
 subjects:
   - label: "Methodology"
     scheme: "FAST"
@@ -45,4 +44,8 @@ subjects:
     identifier: "fst01093794"
     uri: "https://id.worldcat.org/fast/1093794"
     category: "topical"
+abstract:
+year: 2003
+sort_id: 01
+season: summer
 ---

@@ -2,15 +2,21 @@
 nanoid: "rA0bkk"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c73ws62g'
-title: "Desire and Mourning: Theology and the Literary Imagination"
 article_number:
+volume:
+issue:
+pages:
+title: "Desire and Mourning: Theology and the Literary Imagination"
 author: "Victor Taylor"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 02
 ---
 Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 

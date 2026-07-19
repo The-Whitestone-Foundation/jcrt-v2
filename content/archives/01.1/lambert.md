@@ -1,15 +1,22 @@
 ---
 nanoid: "-FZmh6"
 doi:
-title: "The Work of Art in the Age of Alien Reproduction"
+atproto:
 article_number:
+volume:
+issue:
+pages:
+title: "The Work of Art in the Age of Alien Reproduction"
 author: "Gregg Lambert; Jorge Sicre"
-affilation: 03
-abstract:
-keywords: []
+affiliation: 03
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 03
 ---
 Lambert - The Work of Art - JCRT 1.1 
 

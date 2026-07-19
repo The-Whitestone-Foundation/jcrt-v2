@@ -2,15 +2,21 @@
 nanoid: "h7lrvN"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5hziy2w'
-title: "Of Spectacularization: Writing New Media Theory"
 article_number:
+volume:
+issue:
+pages:
+title: "Of Spectacularization: Writing New Media Theory"
 author: "Craig J Saper"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2003
+sort_id: 07
 ---
 Saper - Of Spectacularization - JCRT 4.2 
 

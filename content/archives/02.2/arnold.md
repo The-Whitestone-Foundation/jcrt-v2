@@ -2,15 +2,21 @@
 nanoid: "6zQb2r"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cau3ip2l'
-title: "Diversity in the History of Religions"
 article_number:
+volume:
+issue:
+pages:
+title: "Diversity in the History of Religions"
 author: "Philip P Arnold"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 03
 ---
 Arnold - Diversity in the History of Religions - JCRT 2.2 
 

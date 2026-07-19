@@ -2,15 +2,21 @@
 nanoid: "4V6x0f"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caxkt72l'
-title: "Artist’s Statement"
 article_number:
+volume:
+issue:
+pages:
+title: "Artist’s Statement"
 author: "Christopher M Taylor; Christopher M Taylor"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 06
 ---
 Taylor - Art Exhibit - JCRT 2.1 
 

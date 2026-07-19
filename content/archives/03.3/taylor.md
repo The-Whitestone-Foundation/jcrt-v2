@@ -2,15 +2,21 @@
 nanoid: "pW4vZ6"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ktut2k'
-title: "The City of K: Franz Kafka and Prague"
 article_number:
+volume:
+issue:
+pages:
+title: "The City of K: Franz Kafka and Prague"
 author: "Victor Taylor"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 05
 ---
 Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
 

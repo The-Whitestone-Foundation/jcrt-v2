@@ -2,11 +2,16 @@
 nanoid: "HiJKhL"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc6mt522'
-title: "Rebellious No"
 article_number:
+volume: 1
+issue: 2
+pages:
+title: "Rebellious No"
 author: "Noëlle Vahanian"
-affilation: "Le Moyne College"
-abstract:
+affiliation: "Le Moyne College"
+description:
+pdf: false
+date:
 keywords:
   - language-and-religion
   - cosmology
@@ -17,13 +22,6 @@ keywords:
   - 1861-1947
   - alfred-north
   - whitehead
-pdf: false
-sort_id: 06
-volume: 1
-issue: 2
-season: spring
-year: 2000
-pages:
 subjects:
   - label: "Cosmology"
     scheme: "FAST"
@@ -40,6 +38,10 @@ subjects:
     identifier: "fst00992193"
     uri: "https://id.worldcat.org/fast/992193"
     category: "topical"
+abstract:
+year: 2000
+sort_id: 06
+season: spring
 ---
 Vahanian - Rebellious No - JCRT 1.2
 

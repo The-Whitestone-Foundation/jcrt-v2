@@ -2,15 +2,21 @@
 nanoid: "9PTTA3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbysch2l'
-title: "The Division of Religion with Signs Following"
 article_number:
+volume:
+issue:
+pages:
+title: "The Division of Religion with Signs Following"
 author: "Victor Taylor"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 01
 ---
 Taylor - The Division of Religion - JCRT 1.2
 

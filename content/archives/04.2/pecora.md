@@ -2,15 +2,21 @@
 nanoid: "wf7xHC"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5lktj2c'
-title: "Religion and Modernity in Current Debate"
 article_number:
+volume:
+issue:
+pages:
+title: "Religion and Modernity in Current Debate"
 author: "Vincent P Pecora"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2003
+sort_id: 06
 ---
 Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
 

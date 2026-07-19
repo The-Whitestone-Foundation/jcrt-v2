@@ -2,15 +2,21 @@
 nanoid: "Qd0qE9"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbmgvm2e'
-title: "Contemporary Encounters with Apophatic Theology: the Case of Emmanuel Levinas"
 article_number:
+volume:
+issue:
+pages:
+title: "Contemporary Encounters with Apophatic Theology: the Case of Emmanuel Levinas"
 author: "Jeffrey L Kosky"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 03
 ---
 Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
 

@@ -2,10 +2,16 @@
 nanoid: "z3BwoI"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c57ky72l'
+article_number:
+volume: 4
+issue: 3
+pages:
 title: "Without Sovereignty, without Being: Unconditionality, the Coming of God and Derrida’s Democracy to Come"
 author: "John D Caputo"
-affilation:
-abstract:
+affiliation:
+description:
+pdf: caputo.pdf
+date:
 keywords:
   - secularism
   - future
@@ -23,13 +29,6 @@ keywords:
   - 2001
   - september-11-terrorist-attacks
   - promise-theology
-pdf: caputo.pdf
-sort_id: 02
-volume: 4
-issue: 3
-season: summer
-year: 2003
-pages:
 subjects:
   - label: "Hospitality"
     scheme: "FAST"
@@ -66,4 +65,8 @@ subjects:
     identifier: "fst01149580"
     uri: "https://id.worldcat.org/fast/1149580"
     category: "topical"
+abstract:
+year: 2003
+sort_id: 02
+season: summer
 ---

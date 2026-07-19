@@ -2,15 +2,21 @@
 nanoid: "DNCMs3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc4v4p2b'
-title: "The Ride of Passage: the Pursuit of Danger, Trance, and Failure in Mark Twain, Paul Bowles, and US"
 article_number:
+volume:
+issue:
+pages:
+title: "The Ride of Passage: the Pursuit of Danger, Trance, and Failure in Mark Twain, Paul Bowles, and US"
 author: "Frederick J Ruf"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 07
 ---
 Ruf - Ride of Passage - JCRT 1.2
 

@@ -2,15 +2,21 @@
 nanoid: "IZUwOE"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7stzf22'
-title: "The Epistemic Status of Value-Cognition in Max Scheler’s Philosophy of Religion"
 article_number:
+volume:
+issue:
+pages:
+title: "The Epistemic Status of Value-Cognition in Max Scheler’s Philosophy of Religion"
 author: "Todd A Gooch"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 02
 ---
 Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
 

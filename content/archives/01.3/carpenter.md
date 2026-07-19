@@ -2,15 +2,21 @@
 nanoid: "B3u3l0"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbtje72l'
-title: "The Religious Art of Andy Warhol"
 article_number:
+volume:
+issue:
+pages:
+title: "The Religious Art of Andy Warhol"
 author: "Benjamin Bennett-Carpenter"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 09
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 09
 ---
 Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 
 

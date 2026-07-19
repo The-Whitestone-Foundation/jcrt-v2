@@ -1,15 +1,22 @@
 ---
 nanoid: "Ur-3d_"
 doi:
-title: "The Ambiguous Gift of Desire"
+atproto:
 article_number: 02
+volume:
+issue:
+pages:
+title: "The Ambiguous Gift of Desire"
 author: "Charles E Winquist"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 02
 ---
 Winquist - Ambiguous Gift of Desire - JCRT 1.1
 

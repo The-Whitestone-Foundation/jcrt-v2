@@ -2,15 +2,21 @@
 nanoid: "j7YYro"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c66q5u2e'
-title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
 article_number:
+volume:
+issue:
+pages:
+title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
 author:
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 01
 ---
 Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   
 

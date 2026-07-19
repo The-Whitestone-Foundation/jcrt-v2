@@ -2,15 +2,21 @@
 nanoid: "txpvEu"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7b3tq2r'
-title: "Dead Man"
 article_number:
+volume:
+issue:
+pages:
+title: "Dead Man"
 author: "C Jason Lee"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 07
 ---
 Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 
 

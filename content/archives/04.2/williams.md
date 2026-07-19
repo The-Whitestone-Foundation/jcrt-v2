@@ -2,15 +2,21 @@
 nanoid: "wS_eFc"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5eo2x2l'
+article_number:
+volume:
+issue:
+pages:
 title: "Theory Change"
 author: "Jeffrey J Williams"
-abstract:
-affilation:
-article_number:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2003
+sort_id: 08
 ---
 Williams - Theory Change - JCRT 4.2 
 

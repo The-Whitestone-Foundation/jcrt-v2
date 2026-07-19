@@ -2,15 +2,21 @@
 nanoid: "R8Gpgr"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5xue322'
-title: "Phänomenologie des religiösen Lebens"
 article_number:
+volume:
+issue:
+pages:
+title: "Phänomenologie des religiösen Lebens"
 author: "Sean J McGrath"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 08
 ---
 McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 
 

@@ -2,15 +2,21 @@
 nanoid: "f52Xjv"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5uexk26'
-title: "After Jacques Derrida Comes the Future"
 article_number:
+volume:
+issue:
+pages:
+title: "After Jacques Derrida Comes the Future"
 author: "John D Caputo"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 2003
+sort_id: 04
 ---
 Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
 

@@ -2,15 +2,21 @@
 nanoid: "OxVA93"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6v5t72l'
-title: "Christianity in Jewish Terms"
 article_number:
+volume:
+issue:
+pages:
+title: "Christianity in Jewish Terms"
 author: "Jason M Flato"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 08
 ---
 Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 
 

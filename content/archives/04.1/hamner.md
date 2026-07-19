@@ -2,15 +2,21 @@
 nanoid: "iFCMKU"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6agp72b'
-title: "A Private Happiness for All, Or, How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
 article_number:
+volume:
+issue:
+pages:
+title: "A Private Happiness for All, Or, How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
 author: "M. Gail Hamner"
-affilation: Syracuse University
-abstract:
-keywords: []
+affiliation: Syracuse University
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 07
 ---
 Hamner - A Private Happiness for All ... - JCRT 4.1 
 

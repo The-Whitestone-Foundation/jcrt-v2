@@ -2,15 +2,21 @@
 nanoid: "6B1S-C"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c77ezg2x'
-title: "The Word of Freud: Our God Is Logos"
 article_number:
+volume:
+issue:
+pages:
+title: "The Word of Freud: Our God Is Logos"
 author: "Robert Metcalf"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 06
 ---
 Metcalf - The Word of Freud - JCRT 3.2 
 

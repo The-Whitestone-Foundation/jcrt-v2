@@ -2,15 +2,21 @@
 nanoid: "tXINkd"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7casdrr27'
-title: "Ekphrastic Plastic Fragments: Mark C. Taylor in and Out of Context"
 article_number:
+volume:
+issue:
+pages:
+title: "Ekphrastic Plastic Fragments: Mark C. Taylor in and Out of Context"
 author: "Camelia Elias"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 04
 ---
 Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 

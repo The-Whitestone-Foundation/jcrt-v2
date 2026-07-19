@@ -2,15 +2,21 @@
 nanoid: "eVTiUu"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caowhh2l'
-title: "God, the Gift, and Postmodernism"
 article_number:
+volume:
+issue:
+pages:
+title: "God, the Gift, and Postmodernism"
 author: "Jeffrey W Robbins"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 07
 ---
 Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
 

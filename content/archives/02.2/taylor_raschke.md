@@ -2,15 +2,21 @@
 nanoid: "YxHlwl"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caliby2r'
-title: "About About Religion: a Conversation with Mark C. Taylor"
 article_number:
+volume:
+issue:
+pages:
+title: "About About Religion: a Conversation with Mark C. Taylor"
 author: "Mark C Taylor; Carl A. Raschke"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 02
 ---
 Taylor & Raschke - About About Religion - JCRT 2.2 
 

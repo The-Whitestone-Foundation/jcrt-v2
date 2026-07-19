@@ -2,15 +2,21 @@
 nanoid: "JDhNKe"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6c7ie2e'
-title: "The Christianization of Deconstruction"
 article_number:
+volume:
+issue:
+pages:
+title: "The Christianization of Deconstruction"
 author: "William Egginton"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 04
 ---
 Egginton - The Christianization of Deconstruction - JCRT 4.1 
 

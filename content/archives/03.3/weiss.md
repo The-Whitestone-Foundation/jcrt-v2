@@ -2,15 +2,21 @@
 nanoid: "5z4-n9"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6j32j27'
-title: "In Our Image: Artificial Intelligence and the Human Spirit"
 article_number:
+volume:
+issue:
+pages:
+title: "In Our Image: Artificial Intelligence and the Human Spirit"
 author: "Dennis M Weiss"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 06
 ---
 Weiss - Review of In Our Image - JCRT 3.3 
 

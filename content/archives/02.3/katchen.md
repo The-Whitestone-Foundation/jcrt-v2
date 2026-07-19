@@ -2,15 +2,21 @@
 nanoid: "mGQQdZ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cacvox2l'
-title: "Bluebird: Deliberate Creation of Multiple Personality by Psychiatrists"
 article_number:
+volume:
+issue:
+pages:
+title: "Bluebird: Deliberate Creation of Multiple Personality by Psychiatrists"
 author: "Martin H Katchen"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 08
 ---
 Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 
 

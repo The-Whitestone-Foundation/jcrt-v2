@@ -1,15 +1,22 @@
 ---
 nanoid: "EZdRys"
 doi:
-title: "The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time"
+atproto:
 article_number: 04
+volume:
+issue:
+pages:
+title: "The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time"
 author: "Gabriel Vahanian; Warren Clarnette"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 04
 ---
 Vahanian - The Otherness of Time - JCRT 1.1
 

@@ -2,15 +2,21 @@
 nanoid: "AqoNaX"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cahyrp2l'
-title: "Language, Conceptualization and Awakening: on the Paradox of Discourse in Classical Indian Yogacara"
 article_number:
+volume:
+issue:
+pages:
+title: "Language, Conceptualization and Awakening: on the Paradox of Discourse in Classical Indian Yogacara"
 author: "John Y Cha"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 02
 ---
 Cha - Language, Conceptualization and Awakening - JCRT 2.3 
 

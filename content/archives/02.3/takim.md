@@ -2,15 +2,21 @@
 nanoid: "f9Eojs"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7zpqp2l'
-title: "Muslims: Their Religious Beliefs and Practices"
 article_number:
+volume:
+issue:
+pages:
+title: "Muslims: Their Religious Beliefs and Practices"
 author: "Liyakatali Takim"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 10
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 10
 ---
 Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
 

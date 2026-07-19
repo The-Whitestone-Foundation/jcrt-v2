@@ -2,15 +2,21 @@
 nanoid: "ucBdeF"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7wdjq2r'
-title: "Across the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion"
 article_number:
+volume:
+issue:
+pages:
+title: "Across the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion"
 author: "Carol S Anderson"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 06
 ---
 Anderson - Book Profile: Exploring the Anthropology of Religion - JCRT 3.1 
 

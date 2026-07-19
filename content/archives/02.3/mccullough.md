@@ -2,15 +2,21 @@
 nanoid: "LsShyG"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca5hwc25'
-title: "Jean Baudrillard and the Death of God"
 article_number:
+volume:
+issue:
+pages:
+title: "Jean Baudrillard and the Death of God"
 author: "Lissa McCullough"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 04
 ---
 McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 
 

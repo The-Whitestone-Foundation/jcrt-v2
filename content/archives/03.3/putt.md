@@ -2,15 +2,21 @@
 nanoid: "ehFOUK"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6rqio2x'
-title: "The Benefit of the Doubt: Merold Westphal’s Prophetic Philosophy of Religion"
 article_number:
+volume:
+issue:
+pages:
+title: "The Benefit of the Doubt: Merold Westphal’s Prophetic Philosophy of Religion"
 author: "B Keith Putt"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 03
 ---
 Putt - The Benefit of the Doubt - JCRT 3.3 
 

@@ -2,15 +2,21 @@
 nanoid: "cUJzHt"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c652el22'
-title: "Iconic Revisions of the Modern World Picture"
 article_number:
+volume:
+issue:
+pages:
+title: "Iconic Revisions of the Modern World Picture"
 author: "Jeffrey L Kosky"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 05
 ---
 Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
 

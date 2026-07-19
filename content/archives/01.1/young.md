@@ -1,15 +1,22 @@
 ---
 nanoid: "vJHshV"
 doi:
-title: "Politics of Friendship"
+atproto:
 article_number: 08
+volume:
+issue:
+pages:
+title: "Politics of Friendship"
 author: "William W Young"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 08
 ---
 ## God and Derrida's Politics: At the Edge of Exemplarity
 

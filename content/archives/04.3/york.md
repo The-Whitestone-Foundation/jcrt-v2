@@ -2,10 +2,16 @@
 nanoid: "X2EiyH"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c4mgmr27'
+article_number:
+volume: 4
+issue: 3
+pages:
 title: "Flesh and Consciousness: Georges Bataille and the Dionysian"
 author: "Jonathan David York"
-affilation:
-abstract:
+affiliation:
+description:
+pdf: york.pdf
+date:
 keywords:
   - experience-religion
   - materialism
@@ -22,13 +28,6 @@ keywords:
   - georges
   - 1897-1962
   - bataille
-pdf: york.pdf
-sort_id: 04
-volume: 4
-issue: 3
-season: summer
-year: 2003
-pages:
 subjects:
   - label: "Consciousness"
     scheme: "FAST"
@@ -60,4 +59,8 @@ subjects:
     identifier: "fst01130040"
     uri: "https://id.worldcat.org/fast/1130040"
     category: "topical"
+abstract:
+year: 2003
+sort_id: 04
+season: summer
 ---

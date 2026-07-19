@@ -2,15 +2,21 @@
 nanoid: "hFghCo"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc35gz27'
-title: "An Ethics of Remembering: History, Heterology, and the Nameless Others"
 article_number:
+volume:
+issue:
+pages:
+title: "An Ethics of Remembering: History, Heterology, and the Nameless Others"
 author: "Steven G Smith"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 08
 ---
 Smith - Difficult History - JCRT 1.2 
 

@@ -2,15 +2,21 @@
 nanoid: "6hGyNR"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5oz662x'
-title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s Gilles Deleuze and the Ruin of Representation)"
 article_number:
+volume:
+issue:
+pages:
+title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s Gilles Deleuze and the Ruin of Representation)"
 author: "Gregg Lambert"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: 09
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2003
+sort_id: 02
 ---
 Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
 

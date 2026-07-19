@@ -2,10 +2,16 @@
 nanoid: "0tfQLp"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cba4go2g'
+article_number:
+volume: 2
+issue: 1
+pages:
 title: "Religion and Psychoanalysis: Three Fundamental Concepts"
 author: "Julia Reinhard Lupton"
-affilation:
-abstract: 
+affiliation:
+description:
+pdf: false
+date:
 keywords:
   - god-and-human-beings
   - 1901-1981
@@ -21,13 +27,6 @@ keywords:
   - rosenzweig
   - revelation-on-sinai
   - redemption-comparative-studies
-pdf: false
-sort_id: 04
-volume: 2
-issue: 1
-season: winter
-year: 2000
-pages:
 subjects:
   - label: "Creation History of doctrines"
     scheme: "FAST"
@@ -44,6 +43,10 @@ subjects:
     identifier: "fst01096474"
     uri: "https://id.worldcat.org/fast/1096474"
     category: "topical"
+abstract: 
+year: 2000
+sort_id: 04
+season: winter
 ---
 ## Religion and Psychoanalysis: Three Fundamental Concepts
 

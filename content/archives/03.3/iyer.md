@@ -2,13 +2,19 @@
 nanoid: "TdE2v8"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ti4y2w'
-title: "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot"
 article_number: 02
+volume:
+issue:
+pages:
+title: "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot"
 author: "Lars Iyer"
-affilation:
-abstract: 
-keywords: []
+affiliation:
+description:
 pdf: false
+date:
+keywords: []
+subjects:
+abstract: 
 year: 2002
 ---
 ## The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot

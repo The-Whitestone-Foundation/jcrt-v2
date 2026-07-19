@@ -2,15 +2,21 @@
 nanoid: "4MUccs"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbkn7o2w'
-title: "Wonder, Creativity and Knowledge"
 article_number:
+volume:
+issue:
+pages:
+title: "Wonder, Creativity and Knowledge"
 author: "Andrew W Metcalfe"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 06
 ---
 Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
 

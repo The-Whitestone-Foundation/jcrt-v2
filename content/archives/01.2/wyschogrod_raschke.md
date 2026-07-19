@@ -2,15 +2,21 @@
 nanoid: "-XwQ5a"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbx2n522'
-title: "Heterological History: a Conversation"
 article_number:
+volume:
+issue:
+pages:
+title: "Heterological History: a Conversation"
 author: "Edith Wyschogrod; Carl A. Raschke"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 02
 ---
 Wyschogrod & Raschke - Heterological History - JCRT 1.2 
 Edith Wyschogrod  

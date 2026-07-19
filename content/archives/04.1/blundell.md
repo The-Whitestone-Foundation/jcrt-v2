@@ -2,15 +2,21 @@
 nanoid: "0YBGLX"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6dx3322'
-title: "The New Ricoeur Scholarship"
 article_number:
+volume:
+issue:
+pages:
+title: "The New Ricoeur Scholarship"
 author: "Boyd Blundell"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 10
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 10
 ---
 Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
 

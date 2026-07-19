@@ -2,15 +2,21 @@
 nanoid: "Ph2RDi"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ej632k'
-title: "Radical Orthodoxy, Ethics and Ambivalence"
 article_number:
+volume:
+issue:
+pages:
+title: "Radical Orthodoxy, Ethics and Ambivalence"
 author: "Gavin Hyman"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 04
 ---
 Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 
 

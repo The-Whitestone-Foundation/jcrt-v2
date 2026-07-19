@@ -2,15 +2,21 @@
 nanoid: "LL4gCb"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbbwt226'
-title: "Redemption: Lacan Avec Marx"
 article_number:
+volume:
+issue:
+pages:
+title: "Redemption: Lacan Avec Marx"
 author: "Gregg Lambert"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 05
 ---
 Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
 

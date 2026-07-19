@@ -2,15 +2,21 @@
 nanoid: "6Lx93L"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbdnpy2r'
-title: "Creation: Lacan in Kansas"
 article_number:
+volume:
+issue:
+pages:
+title: "Creation: Lacan in Kansas"
 author: "Richard Halpern"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 03
 ---
 Halpern - Creation: Lacan in Kansas - JCRT 2.1 
 

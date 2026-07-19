@@ -2,15 +2,21 @@
 nanoid: "DlAfPr"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ltje2e'
-title: "‘Misrecognition of the Limits’: Bourdieu’s Religious Capital and Social Transformation"
 article_number:
+volume:
+issue:
+pages:
+title: "‘Misrecognition of the Limits’: Bourdieu’s Religious Capital and Social Transformation"
 author: "Lora Stone"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 04
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 04
 ---
 Stone - "Misrecognition of the Limits" - JCRT 3.1 
 

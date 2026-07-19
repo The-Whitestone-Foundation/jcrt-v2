@@ -1,15 +1,22 @@
 ---
 nanoid: "vxdU4I"
 doi:
-title: "The Prayers and Tears of Jacques Derrida: Religion without Religion"
+atproto:
 article_number: 07
+volume:
+issue:
+pages:
+title: "The Prayers and Tears of Jacques Derrida: Religion without Religion"
 author: "Martin Kavka"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 07
 ---
 Kavka - Rationality of Derrida's Religion - JCRT 1.1 
 ## The Rationality of Derrida's "Religion without Religion": A Phenomenological Gift for John D. Caputo

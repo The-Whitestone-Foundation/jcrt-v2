@@ -2,15 +2,21 @@
 nanoid: "xFua_n"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7pdnz27'
-title: "The Just"
 article_number:
+volume:
+issue:
+pages:
+title: "The Just"
 author: "Linda M MacCammon"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 05
 ---
 MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 
 

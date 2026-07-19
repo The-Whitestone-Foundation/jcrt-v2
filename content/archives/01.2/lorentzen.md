@@ -2,15 +2,21 @@
 nanoid: "otwYzk"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccafjk25'
-title: "Difference and Repetition"
 article_number:
+volume:
+issue:
+pages:
+title: "Difference and Repetition"
 author: "Oz Lorentzen"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 09
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 09
 ---
 Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
 

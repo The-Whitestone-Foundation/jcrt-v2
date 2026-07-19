@@ -2,15 +2,21 @@
 nanoid: "eCIvjh"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbrrt32k'
-title: "Economies of Studying Religion"
 article_number:
+volume:
+issue:
+pages:
+title: "Economies of Studying Religion"
 author: "Clayton Crockett"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 01
 ---
 Crockett - Economies of Studying Religion - JCRT 1.3 
 

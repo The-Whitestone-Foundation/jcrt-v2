@@ -2,15 +2,21 @@
 nanoid: "yU7aKL"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ulpa2w'
-title: "The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought"
 article_number:
+volume:
+issue:
+pages:
+title: "The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought"
 author: "William D Dean"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 07
 ---
 Dean - The Archaeology of American Thought - JCRT 3.1 
 

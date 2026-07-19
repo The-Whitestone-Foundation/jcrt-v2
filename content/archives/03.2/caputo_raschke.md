@@ -2,15 +2,21 @@
 nanoid: "HOIpb-"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7k3wi2r'
-title: "Loosening Philosophy’s Tongue: a Conversation with Jack Caputo"
 article_number:
+volume:
+issue:
+pages:
+title: "Loosening Philosophy’s Tongue: a Conversation with Jack Caputo"
 author: "John D Caputo; Carl A. Raschke"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 03
 ---
 Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
 

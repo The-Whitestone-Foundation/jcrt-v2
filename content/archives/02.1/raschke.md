@@ -2,15 +2,21 @@
 nanoid: "S6oydM"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb4ov72l'
-title: "Para/Theology: the Study of Religion and the Science of the Negative"
 article_number:
+volume:
+issue:
+pages:
+title: "Para/Theology: the Study of Religion and the Science of the Negative"
 author: "Carl A. Raschke"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 01
 ---
 Raschke - Para/theology - JCRT 2.1 
 

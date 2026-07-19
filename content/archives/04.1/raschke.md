@@ -2,15 +2,21 @@
 nanoid: "AcOIl3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5w3u62g'
-title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
 article_number:
+volume:
+issue:
+pages:
+title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
 author: "Carl A. Raschke"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 02
 ---
 Raschke - From Religion to Faith - JCRT 4.1 
 

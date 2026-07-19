@@ -2,15 +2,21 @@
 nanoid: "JyyeXM"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb6gjc26'
-title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsidered"
 article_number:
+volume:
+issue:
+pages:
+title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsidered"
 author: "Peter Ochs"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 08
 ---
 Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1 
 

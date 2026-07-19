@@ -2,15 +2,21 @@
 nanoid: "bh_1Z3"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbh5vg2x'
-title: "Culture Wars, Religion, and the Postmodern Sacred"
 article_number:
+volume:
+issue:
+pages:
+title: "Culture Wars, Religion, and the Postmodern Sacred"
 author: "Michael Strysick"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 08
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 08
 ---
 Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
 

@@ -2,15 +2,21 @@
 nanoid: "fqpD6r"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccc53p2b'
-title: "Mircea Eliade and the Imagination of Matter"
 article_number:
+volume:
+issue:
+pages:
+title: "Mircea Eliade and the Imagination of Matter"
 author: "Charles H Long"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 03
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 03
 ---
 Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2
 

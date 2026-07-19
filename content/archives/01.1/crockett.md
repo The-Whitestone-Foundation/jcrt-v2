@@ -1,12 +1,17 @@
 ---
 nanoid: "lSgffu"
 doi:
+atproto:
+article_number:
+volume: 1
+issue: 1
+pages:
 title: "Anxiety and the S(Ub)Lime Body of God"
-tags: 
-  - cat
 author: "Clayton Crockett"
-affilation:
-abstract:
+affiliation:
+description:
+pdf: false
+date:
 keywords:
   - science-fiction
   - desire-and-religion
@@ -28,13 +33,6 @@ keywords:
   - sublime
   - bergeron
   - danielle
-pdf: false
-sort_id: 05
-volume: 1
-issue: 1
-season: winter
-year: 1999
-pages:
 subjects:
   - label: "Feminist theory"
     scheme: "FAST"
@@ -61,6 +59,12 @@ subjects:
     identifier: "fst01136447"
     uri: "https://id.worldcat.org/fast/1136447"
     category: "topical"
+abstract:
+year: 1999
+sort_id: 05
+season: winter
+tags: 
+  - cat
 ---
 Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
 

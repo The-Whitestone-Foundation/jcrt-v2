@@ -2,10 +2,16 @@
 nanoid: "vuNJpP"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5bbpo2x'
+article_number:
+volume: 4
+issue: 3
+pages:
 title: "Georges Bataille: a Theoretical Resource for Scientific Investigation of Religious Experience"
 author: "Nina P Azari"
-affilation:
-abstract:
+affiliation:
+description:
+pdf: azari.pdf
+date:
 keywords:
   - experience-religion
   - postmodernism
@@ -16,13 +22,6 @@ keywords:
   - neurosciences
   - 1897-1962
   - bataille
-pdf: azari.pdf
-sort_id: 03
-volume: 4
-issue: 3
-season: summer
-year: 2003
-pages:
 subjects:
   - label: "Experience (Religion)"
     scheme: "FAST"
@@ -54,4 +53,8 @@ subjects:
     identifier: "fst01111454"
     uri: "https://id.worldcat.org/fast/1111454"
     category: "topical"
+abstract:
+year: 2003
+sort_id: 03
+season: summer
 ---

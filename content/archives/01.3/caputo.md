@@ -2,15 +2,21 @@
 nanoid: "PfVORQ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbvb2d22'
-title: "For Love of the Things Themselves: Derrida’s Hyper-Realism"
 article_number:
+volume:
+issue:
+pages:
+title: "For Love of the Things Themselves: Derrida’s Hyper-Realism"
 author: "John D Caputo"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 02
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 02
 ---
 Caputo - For Love of Things Themselves - JCRT 1.3 
 

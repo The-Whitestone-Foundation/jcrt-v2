@@ -2,15 +2,21 @@
 nanoid: "3H0GJL"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5zm2j2c'
-title: "When Marion’s Theology Seeks Certainty"
 article_number:
+volume:
+issue:
+pages:
+title: "When Marion’s Theology Seeks Certainty"
 author:
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 07
 ---
 Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
 

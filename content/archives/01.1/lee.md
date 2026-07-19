@@ -1,15 +1,22 @@
 ---
 nanoid: "hSSNhS"
 doi:
-title: "Deconstructing the Great Chain of Being"
+atproto:
 article_number: 09
+volume:
+issue:
+pages:
+title: "Deconstructing the Great Chain of Being"
 author: "Jonathan Scott Lee"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 09
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 09
 ---
 Lee - Deconstructing the Great Chain of Being - JCRT 1.1
 

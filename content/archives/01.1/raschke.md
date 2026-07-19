@@ -1,15 +1,22 @@
 ---
 nanoid: "vker-4"
 doi:
-title: "Theorizing Religion at the Turn of the Millennium: from the Sacred to the Semiotic"
+atproto:
 article_number: 01
+volume:
+issue:
+pages:
+title: "Theorizing Religion at the Turn of the Millennium: from the Sacred to the Semiotic"
 author: "Carl A. Raschke"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 1999
+sort_id: 01
 ---
 Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1
 

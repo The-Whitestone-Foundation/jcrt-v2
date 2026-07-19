@@ -2,15 +2,21 @@
 nanoid: "23a20F"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7can7vl2k'
-title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 article_number:
+volume:
+issue:
+pages:
+title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 author: "Andrew Tatusko"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 06
 ---
 Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 
 

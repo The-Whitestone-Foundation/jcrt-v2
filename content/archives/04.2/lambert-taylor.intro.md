@@ -2,15 +2,21 @@
 nanoid: "F6so2P"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5qprh2b'
-title: "The Future of Theory"
 article_number:
+volume:
+issue:
+pages:
+title: "The Future of Theory"
 author: "Victor Taylor; Gregg Lambert"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 2003
+sort_id: 01
 ---
 Taylor & Lambert - The Future of Theory - JCRT 4.2 
 

@@ -2,15 +2,21 @@
 nanoid: "2D7cN-"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cazblb2c'
-title: "The Scandal of the Evangelical Mind"
 article_number:
+volume:
+issue:
+pages:
+title: "The Scandal of the Evangelical Mind"
 author: "Michael Tadashi Sugimoto"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 07
 ---
 Sugimoto - Nation as University - JCRT 2.1 
 

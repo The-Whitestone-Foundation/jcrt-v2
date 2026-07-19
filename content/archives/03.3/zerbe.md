@@ -2,15 +2,21 @@
 nanoid: "itzSh-"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6helo2g'
-title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
 article_number:
+volume:
+issue:
+pages:
+title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
 author: "Michael J Zerbe"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 11
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 11
 ---
 Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
 

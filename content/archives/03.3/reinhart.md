@@ -2,15 +2,21 @@
 nanoid: "ETvZ_a"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ob4p2l'
-title: "On Cosmopolitanism and Forgiveness"
 article_number:
+volume:
+issue:
+pages:
+title: "On Cosmopolitanism and Forgiveness"
 author: "David Reinhart"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 09
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 09
 ---
 Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 
 

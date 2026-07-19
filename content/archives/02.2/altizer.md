@@ -2,15 +2,21 @@
 nanoid: "1q-gTJ"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cavubd2k'
-title: "Absolute Nothingness and Taylor’s Imagology"
 article_number:
+volume:
+issue:
+pages:
+title: "Absolute Nothingness and Taylor’s Imagology"
 author: "Thomas J J Altizer"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 06
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 06
 ---
 Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
 

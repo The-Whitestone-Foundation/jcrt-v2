@@ -2,15 +2,21 @@
 nanoid: "B075nw"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caqn6w2x'
-title: "On Contagions: Leviticus and the Fascination of the Abomination"
 article_number:
+volume:
+issue:
+pages:
+title: "On Contagions: Leviticus and the Fascination of the Abomination"
 author: "Gerald Majer"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 05
 ---
 Majer - On Contagions - JCRT 2.2 
 

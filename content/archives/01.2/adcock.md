@@ -2,15 +2,21 @@
 nanoid: "jN40op"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccfngn22'
-title: "Xena Warrior Princess and the Texture of the Religious: Re-Imagining the Role of Popular Culture in Academic Discourse"
 article_number:
+volume:
+issue:
+pages:
+title: "Xena Warrior Princess and the Texture of the Religious: Re-Imagining the Role of Popular Culture in Academic Discourse"
 author: "David A Adcock"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 05
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 05
 ---
 Adcock - Xena Warrior Princess - JCRT 1.2
 

@@ -2,15 +2,21 @@
 nanoid: "3tu5L4"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cajqis25'
-title: "The Metaphysics of Indeterminacy: Postmodern Religious Theory and the Ruin of Referentiality"
 article_number:
+volume:
+issue:
+pages:
+title: "The Metaphysics of Indeterminacy: Postmodern Religious Theory and the Ruin of Referentiality"
 author: "Victor Taylor"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 01
+date:
+keywords: []
+subjects:
+abstract:
 year: 2001
+sort_id: 01
 ---
 Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
 

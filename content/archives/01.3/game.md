@@ -2,15 +2,21 @@
 nanoid: "bnOOrK"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbo5no2g'
-title: "Falling"
 article_number:
+volume:
+issue:
+pages:
+title: "Falling"
 author: "Ann Game"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 07
+date:
+keywords: []
+subjects:
+abstract:
 year: 2000
+sort_id: 07
 ---
 Game - Falling - JCRT 1.3 
 

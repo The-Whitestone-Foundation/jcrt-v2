@@ -2,15 +2,21 @@
 nanoid: "hHg6M6"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6mkha2w'
-title: "Why God Won’t Go Away: Brain Science and the Biology of Belief"
 article_number:
+volume:
+issue:
+pages:
+title: "Why God Won’t Go Away: Brain Science and the Biology of Belief"
 author: "Noel Dane Scott"
-affilation:
-abstract:
-keywords: []
+affiliation:
+description:
 pdf: false
-sort_id: 10
+date:
+keywords: []
+subjects:
+abstract:
 year: 2002
+sort_id: 10
 ---
 Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 
 
