@@ -2,29 +2,24 @@
 nanoid: "o6QFsx"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7bytqdn2s'
-title: "Giving up the Good: Adorno, Kierkegaard and the Critique of Political Culture"
+title: "Death of a Discipline"
 author: "Matthew Waggoner"
-affilation:
+affiliation: Albertus Magnus College
 abstract:
 keywords:
-  - political-science-philosophy
-  - art-philosophy
-  - religion-philosophy
-  - 1770-1831
-  - georg-wilhelm-friedrich
-  - hegel
-  - the
-  - act-philosophy
-  - 1813-1855
-  - kierkegaard
-  - s-ren
-  - 1724-1804
-  - immanuel
-  - kant
-  - 1903-1969
-  - adorno
-  - theodor-w
-  - good
+  - gayatri-spivak
+  - comparative-literature
+  - postcolonialism
+  - cultural-studies
+  - multiculturalism
+  - humanism
+  - religious-studies
+  - othering
+  - planetarity
+  - area-studies
+  - translation
+  - literary-theory
+  - ethnocentrism
 pdf: waggoner.pdf
 sort_id: 13
 volume: 6
@@ -33,24 +28,44 @@ season: spring
 year: 2005
 pages:
 subjects:
-  - label: "Act (Philosophy)"
+  - label: "Comparative literature"
     scheme: "FAST"
-    identifier: "fst00796122"
-    uri: "https://id.worldcat.org/fast/796122"
+    identifier: "fst01734553"
+    uri: "https://id.worldcat.org/fast/1734553"
     category: "topical"
-  - label: "Art Philosophy"
+  - label: "Ethnocentrism"
     scheme: "FAST"
-    identifier: "fst00815307"
-    uri: "https://id.worldcat.org/fast/815307"
+    identifier: "fst00916081"
+    uri: "https://id.worldcat.org/fast/916081"
     category: "topical"
-  - label: "Political science Philosophy"
+  - label: "Humanism"
     scheme: "FAST"
-    identifier: "fst01069819"
-    uri: "https://id.worldcat.org/fast/1069819"
+    identifier: "fst00963520"
+    uri: "https://id.worldcat.org/fast/963520"
     category: "topical"
-  - label: "Religion Philosophy"
+  - label: "Multiculturalism"
     scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
+    identifier: "fst01028836"
+    uri: "https://id.worldcat.org/fast/1028836"
+    category: "topical"
+  - label: "Postcolonialism"
+    scheme: "FAST"
+    identifier: "fst01073032"
+    uri: "https://id.worldcat.org/fast/1073032"
+    category: "topical"
+  - label: "Religion--Study and teaching"
+    scheme: "FAST"
+    identifier: "fst01093807"
+    uri: "https://id.worldcat.org/fast/1093807"
+    category: "topical"
+  - label: "Spivak, Gayatri Chakravorty"
+    scheme: "FAST"
+    identifier: "fst00192388"
+    uri: "https://id.worldcat.org/fast/192388"
+    category: "personal"
+  - label: "Translating and interpreting"
+    scheme: "FAST"
+    identifier: "fst01154795"
+    uri: "https://id.worldcat.org/fast/1154795"
     category: "topical"
 ---
