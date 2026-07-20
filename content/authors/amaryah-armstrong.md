@@ -1,5 +1,6 @@
 ---
 nanoid: "sMRqUT"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfq4q4k2j'
 name: Amaryah Armstrong
 affiliation: "Vanderbilt Graduate Department of Religion"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "Wob9UI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7chr6ox2l'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deog6it2h'
 name: Ronald Charles
 affiliation: "University of Toronto"
 bio:

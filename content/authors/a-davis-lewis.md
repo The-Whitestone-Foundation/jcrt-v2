@@ -1,5 +1,6 @@
 ---
 nanoid: "zsuJaX"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfruhey25'
 name: A Davis Lewis
 affiliation: "Boston University"
 bio:

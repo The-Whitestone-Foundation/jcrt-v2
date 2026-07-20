@@ -1,6 +1,6 @@
 ---
 nanoid: "9kS9XD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cd25pa2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deigxhh2h'
 name: William Robert
 affiliation: "Syracuse University"
 bio:

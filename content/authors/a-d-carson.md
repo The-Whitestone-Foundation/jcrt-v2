@@ -1,5 +1,6 @@
 ---
 nanoid: "uii8zz"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfrwmlg27'
 name: A. D. Carson
 affiliation: "Clemson University"
 bio:

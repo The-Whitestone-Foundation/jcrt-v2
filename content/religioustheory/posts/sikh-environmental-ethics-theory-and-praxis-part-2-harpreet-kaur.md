@@ -1,7 +1,7 @@
 ---
 nanoid: "7cLIQT"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7afw6vn2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dcdo5iz2s'
 title: Sikh Environmental Ethics-Theory and Praxis Part 2 (Harpreet Kaur)
 description: "The following is the second installment of a two-part series. The first can be found here. Many verses can be retrieved to prompt human beings to be thankful"
 date: '2024-08-24T00:50:15.000Z'

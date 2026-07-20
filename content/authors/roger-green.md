@@ -1,6 +1,6 @@
 ---
 nanoid: "kxkqBW"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7chzpb42e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deoqv6l2k'
 name: Roger Green
 affiliation: "Metropolitan State University, University of Denver"
 bio:

@@ -1,5 +1,6 @@
 ---
 nanoid: "m1ou46"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfofcnd2k'
 name: Apple Zefelius Igrek
 affiliation: "Seattle University ,Vanderbilt University"
 bio:

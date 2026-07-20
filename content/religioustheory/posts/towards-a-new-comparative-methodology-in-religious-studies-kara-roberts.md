@@ -1,7 +1,7 @@
 ---
 nanoid: "En9ft8"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ayj6uh2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dd2pffn2q'
 title: Towards A New Comparative Methodology In Religious Studies (Kara Roberts)
 description: "Author Note: The following was originally written as the introduction to a much longer comparative project between two religious myths Amy Balogh. It highlights"
 date: '2018-09-23T23:04:41.000Z'
