@@ -217,15 +217,15 @@ function blogDocuments(publicationSite) {
 }
 
 function theoryDocuments(publicationSite) {
-	return walkMarkdown(path.join(CONTENT_DIR, "religioustheory", "posts"))
-		.map((filePath) => {
+	return ["posts", "live"].flatMap((directory) =>
+		walkMarkdown(path.join(CONTENT_DIR, "religioustheory", directory)).map((filePath) => {
 			const slug = path.basename(filePath, ".md");
 			const { data, body } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 			if (!isPublished(data)) return null;
 			const publishedAt = normalizeDate(data.date);
 			return documentRecord({
 				site: publicationSite,
-				path: contentPath("/religioustheory/posts", slug, data),
+				path: contentPath(`/religioustheory/${directory}`, slug, data),
 				title: String(data.title || slug).trim(),
 				description: stripHtml(data.description || data.excerpt || data.abstract || ""),
 				publishedAt,
@@ -233,8 +233,8 @@ function theoryDocuments(publicationSite) {
 				tags: normalizeTags([...(normalizeTags(data.categories)), ...(normalizeTags(data.tags))]),
 				textContent: markdownToPlainText(body),
 			});
-		})
-		.filter(Boolean);
+		}),
+	).filter(Boolean);
 }
 
 function authorDocuments(publicationSite) {

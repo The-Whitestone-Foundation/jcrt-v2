@@ -38,7 +38,7 @@
     "check:icons": "node scripts/check-icons.mjs",
     "indexnow:submit": "node scripts/indexnow-submit.mjs",
     "css:purge": "purgecss --css _site/css/bs.css --content \"_site/**/*.html\" --output _site/css/ --safelist show showing collapsing collapse modal-backdrop fade offcanvas-backdrop",
-    "build:local": "npm run sitemaps:generate && npm run standard:check && npm run check:bootstrap-sourcemap && cross-env FAST_BUILD=1 LEAN_BUILD=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --quiet && npm run check:icons",
+    "build:local": "cross-env LOCAL_BUILD=1 FAST_BUILD=1 LEAN_BUILD=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --incremental --quiet && npm run check:icons",
     "build:bench": "cross-env BENCH_11TY=1 BENCH_ISSUE=24.2 FAST_BUILD=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=4096 eleventy --quiet",
     "build": "npm run sequoia:stage && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy && npm run sitemaps:check && npm run oai:validate && npm run css:purge && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
     "build:netlify": "node scripts/build-netlify.mjs",
@@ -76,7 +76,7 @@
     "undici": "~7.28.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "4.0.0-alpha.8",
+    "@11ty/eleventy": "4.0.0-alpha.10",
     "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",

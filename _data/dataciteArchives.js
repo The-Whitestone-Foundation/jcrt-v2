@@ -5,7 +5,7 @@ import { controlledSubjects } from "../_config/subjects.js";
 
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
-const THEORY_DIR = path.join(ROOT, "content", "religioustheory", "posts");
+const THEORY_DIRS = ["posts", "live"].map((directory) => path.join(ROOT, "content", "religioustheory", directory));
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
 const NON_ARTICLE_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
 
@@ -187,7 +187,7 @@ export default function dataciteArchives() {
 		});
 	}
 
-	for (const filePath of walkMarkdown(THEORY_DIR)) {
+	for (const filePath of THEORY_DIRS.flatMap(walkMarkdown)) {
 		const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 		if (!data || typeof data !== "object" || data.published === false || data.draft) continue;
 		const fileSlug = path.basename(filePath, ".md");
@@ -195,7 +195,9 @@ export default function dataciteArchives() {
 		if (!slug) continue;
 		const title = String(data.title || "").trim();
 		if (!title) continue;
-		const pageUrl = `${baseUrl}/religioustheory/posts/${slug}/`;
+		const directory = path.basename(path.dirname(filePath));
+		const pagePath = String(data.permalink || "").startsWith("/") ? data.permalink : `/religioustheory/${directory}/${slug}/`;
+		const pageUrl = `${baseUrl}${pagePath}`;
 		const dateIssued = normalizeDate(data.date);
 		records.push({
 			slug,

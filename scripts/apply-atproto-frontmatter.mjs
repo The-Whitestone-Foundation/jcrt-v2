@@ -10,6 +10,7 @@ const INCLUDE_PREFIXES = [
 	"authors/",
 	"blog/",
 	"religioustheory/posts/",
+	"religioustheory/live/",
 ];
 const EXCLUDED_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
 
@@ -64,6 +65,7 @@ function documentPathFor(filePath, data) {
 		if (parts.length >= 3 && parts[1].includes(".")) return normalizePath(`/archives/${parts[1]}/${slug}/`);
 	}
 	if (rel.startsWith("religioustheory/posts/")) return normalizePath(`/religioustheory/posts/${data.slug || slug}/`);
+	if (rel.startsWith("religioustheory/live/")) return normalizePath(`/religioustheory/live/${data.slug || slug}/`);
 	if (rel.startsWith("blog/")) return normalizePath(`/blog/${data.slug || slug}/`);
 	if (rel.startsWith("authors/")) return normalizePath(`/authors/${data.slug || slug}/`);
 	return "";

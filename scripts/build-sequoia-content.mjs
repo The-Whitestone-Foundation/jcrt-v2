@@ -11,6 +11,7 @@ const INCLUDE_PREFIXES = [
   "authors/",
   "blog/",
   "religioustheory/posts/",
+  "religioustheory/live/",
 ];
 
 const EXCLUDED_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
@@ -92,6 +93,9 @@ function outputPathFor(filePath, data) {
   }
   if (rel.startsWith("religioustheory/posts/")) {
     return `/religioustheory/posts/${data.slug || slug}/`;
+  }
+  if (rel.startsWith("religioustheory/live/")) {
+    return `/religioustheory/live/${data.slug || slug}/`;
   }
   if (rel.startsWith("blog/")) {
     return `/blog/${data.slug || slug}/`;

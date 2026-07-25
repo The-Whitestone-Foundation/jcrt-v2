@@ -63,5 +63,5 @@ export function authorSlug(name) {
 	// Only keep the 26 english letters; everything else becomes a hyphen.
 	value = value.replace(/[^a-z]+/g, "-");
 	value = value.replace(/-+/g, "-").replace(/^-|-$/g, "");
-	return value;
+	return value === "victor-e-taylor" ? "victor-taylor" : value;
 }

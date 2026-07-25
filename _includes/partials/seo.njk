@@ -142,7 +142,7 @@
 
 {% set pageParts = pageUrl.split("/") %}
 {% set isArchivesArticlePage = (pageParts | length) == 5 and pageParts[1] == "archives" and pageParts[2] and pageParts[3] and pageParts[2] != "keywords" and pageParts[2] != "page" %}
-{% set isTheoryArticlePage = (pageParts | length) == 5 and pageParts[1] == "religioustheory" and pageParts[2] == "posts" and pageParts[3] and pageParts[3] != "page" %}
+{% set isTheoryArticlePage = (pageParts | length) == 5 and pageParts[1] == "religioustheory" and pageParts[2] in ["posts", "live"] and pageParts[3] and pageParts[3] != "page" %}
 {% set isAcademic = isArchivesArticlePage %}
 {% set isBlogHome = pageUrl in ["/blog/", "/religioustheory/", "/religioustheory/posts/"] %}
 {% set isBlogPost = isTheoryArticlePage or ("/blog/" in pageUrl and (not isBlogHome)) %}

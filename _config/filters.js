@@ -50,7 +50,7 @@ export default function(eleventyConfig) {
         if (url.startsWith("/authors/")) return "JCRT Contributor Profile";
         if (url.startsWith("/religioustheory/categories/")) return "Religious Theory Category";
         if (url.startsWith("/religioustheory/tags/")) return "Religious Theory Tag";
-        if (url.startsWith("/religioustheory/posts/")) return "Religious Theory Article";
+        if (url.startsWith("/religioustheory/posts/") || url.startsWith("/religioustheory/live/")) return "Religious Theory Article";
         if (url.startsWith("/religioustheory/")) return "Religious Theory Archive";
         if (url.startsWith("/blog/")) return "JCRT News";
         if (url.startsWith("/tags/")) return "JCRT Tag";
@@ -104,7 +104,7 @@ export default function(eleventyConfig) {
             generated = `Browse ${issueText} of the Journal for Cultural and Religious Theory, including peer-reviewed articles, issue materials, and archive resources from JCRT.`;
         } else if (String(pageUrl || "").startsWith("/archives/")) {
             generated = `Read ${rawTitleText}${hasNamedAuthor ? ` by ${authorText}` : ""} in the Journal for Cultural and Religious Theory archive, with article metadata, citations, and related issue resources.`;
-        } else if (String(pageUrl || "").startsWith("/religioustheory/posts/")) {
+        } else if (String(pageUrl || "").startsWith("/religioustheory/posts/") || String(pageUrl || "").startsWith("/religioustheory/live/")) {
             generated = `Read ${rawTitleText}${hasNamedAuthor ? ` by ${authorText}` : ""} in Religious Theory, the JCRT archive for essays, reviews, conversations, and critical scholarship on religion and culture.`;
         } else if (String(pageUrl || "").startsWith("/religioustheory/")) {
             generated = `Explore ${titleText}, part of Religious Theory at JCRT, with essays, reviews, categories, tags, and archived scholarship on religion, theory, and culture.`;

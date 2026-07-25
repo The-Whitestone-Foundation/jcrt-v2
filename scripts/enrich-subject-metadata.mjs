@@ -18,11 +18,10 @@ if (!new Set(["archives", "religioustheory", "all"]).has(section)) {
 	throw new Error("--section must be archives, religioustheory, or all");
 }
 
+const theoryRoots = ["posts", "live"].map((directory) => path.join(ROOT, "content", "religioustheory", directory));
 const roots = section === "all"
-	? [path.join(ROOT, "content", "archives"), path.join(ROOT, "content", "religioustheory", "posts")]
-	: [section === "archives"
-		? path.join(ROOT, "content", "archives")
-		: path.join(ROOT, "content", "religioustheory", "posts")];
+	? [path.join(ROOT, "content", "archives"), ...theoryRoots]
+	: section === "archives" ? [path.join(ROOT, "content", "archives")] : theoryRoots;
 
 function walk(dir) {
 	if (!fs.existsSync(dir)) return [];

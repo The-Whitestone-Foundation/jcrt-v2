@@ -19,16 +19,20 @@
         <nav aria-label="breadcrumb" class="jcrt-breadcrumb">
           <ol>
             <li class="breadcrumb-item"><a href="/" class="text-primary text-decoration-none">Home</a></li>
-            <li class="breadcrumb-item"><a href="/archives/" class="text-primary text-decoration-none">Archives</a></li>
-            {% if issueCrumbSlug %}
-              {% if isIssueIndex %}
-                <li class="breadcrumb-item active text-primary" aria-current="page">{{ issueCrumbSlug }}</li>
-              {% else %}
-                <li class="breadcrumb-item"><a href="/archives/{{ issueCrumbSlug }}/" class="text-primary text-decoration-none">{{ issueCrumbSlug }}</a></li>
+            {% if isTheoryPost %}
+              <li class="breadcrumb-item"><a href="/religioustheory/" class="text-primary text-decoration-none">Religious Theory</a></li>
+            {% else %}
+              <li class="breadcrumb-item"><a href="/archives/" class="text-primary text-decoration-none">Archives</a></li>
+              {% if issueCrumbSlug %}
+                {% if isIssueIndex %}
+                  <li class="breadcrumb-item active text-primary" aria-current="page">{{ issueCrumbSlug }}</li>
+                {% else %}
+                  <li class="breadcrumb-item"><a href="/archives/{{ issueCrumbSlug }}/" class="text-primary text-decoration-none">{{ issueCrumbSlug }}</a></li>
+                {% endif %}
               {% endif %}
-            {% endif %}
-            {% if not isIssueIndex and displayArticleNumber %}
-              <li class="breadcrumb-item active text-primary" aria-current="page">Article No. {{ displayArticleNumber }}</li>
+              {% if not isIssueIndex and displayArticleNumber %}
+                <li class="breadcrumb-item active text-primary" aria-current="page">Article No. {{ displayArticleNumber }}</li>
+              {% endif %}
             {% endif %}
           </ol>
         </nav>
@@ -86,7 +90,9 @@
             <span class="fw-bold text-dark">
               {%- for aName in authorNames -%}
                 {% set authorObj = collections.authors | getAuthorObj(aName) %}
-                {%- if authorObj -%}
+                {%- if (aName | lower) in ["editors", "editor"] -%}
+                  <a href="/editors/" class="text-decoration-underline text-dark hover-primary p-name u-url">{{ aName }}</a>
+                {%- elif authorObj -%}
                   <a href="{{ authorObj.url }}" class="text-decoration-underline text-dark hover-primary p-name u-url">{{ aName }}</a>
                 {%- else -%}
                   <span class="p-name">{{ aName }}</span>

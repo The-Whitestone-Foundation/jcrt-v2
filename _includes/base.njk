@@ -15,7 +15,7 @@
 {% if page and page.url %}
   {% if page.url.startsWith('/archives/') %}
     {% set pagefindWeight = "10" %}
-  {% elif page.url.startsWith('/religioustheory/posts/') and not page.url.includes('/religioustheory/posts/page/') %}
+  {% elif (page.url.startsWith('/religioustheory/posts/') and not page.url.includes('/religioustheory/posts/page/')) or page.url.startsWith('/religioustheory/live/') %}
     {% set pagefindWeight = "5" %}
   {% elif page.url.startsWith('/religioustheory/categories/') or page.url.startsWith('/religioustheory/tags/') or page.url.startsWith('/religioustheory/posts/page/') %}
     {% set pagefindWeight = "0.2" %}

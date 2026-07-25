@@ -6,7 +6,7 @@ import { authorSlug, splitAuthors } from "../_config/authorSlug.js";
 const CACHE_PATH = path.join(process.cwd(), ".cache", "tag-index-cache.json");
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 const LEAN_BUILD = Boolean(process.env.LEAN_BUILD);
-const CACHE_VERSION = 3;
+const CACHE_VERSION = 5;
 
 const GLOBAL_TAG_EXCLUDED = new Set(["all", "posts", "authors", "nav", "theoryposts", "archives"]);
 const THEORY_TAG_EXCLUDED = new Set(["all", "posts", "theoryposts", "archives", "nav"]);
@@ -100,11 +100,13 @@ function inferSectionAndUrl(absPath, data) {
 			url: slug && slug !== "index" ? `/blog/${slug}/` : "",
 		};
 	}
-	if (rel.startsWith("religioustheory/posts/")) {
+	if (rel.startsWith("religioustheory/posts/") || rel.startsWith("religioustheory/live/")) {
 		const slug = String(data?.slug || slugFromFile).trim();
+		const directory = parts[1] || "posts";
+		const permalink = String(data?.permalink || "").trim();
 		return {
 			section: "theory",
-			url: slug && slug !== "index" ? `/religioustheory/posts/${slug}/` : "",
+			url: slug && slug !== "index" ? (permalink.startsWith("/") ? permalink : `/religioustheory/${directory}/${slug}/`) : "",
 		};
 	}
 	return { section: "other", url: "" };
@@ -274,12 +276,13 @@ let inProcessMemo = {
 
 export default async function tagIndexData() {
 	const prev = readJson(CACHE_PATH, { version: CACHE_VERSION, files: {} });
-	const prevFiles = prev?.files && typeof prev.files === "object" ? prev.files : {};
+	const prevFiles = prev?.version === CACHE_VERSION && prev?.files && typeof prev.files === "object" ? prev.files : {};
 
 	const files = [
 		...walkMarkdownFiles(path.join(CONTENT_ROOT, "archives")),
 		...walkMarkdownFiles(path.join(CONTENT_ROOT, "blog")),
 		...walkMarkdownFiles(path.join(CONTENT_ROOT, "religioustheory", "posts")),
+		...walkMarkdownFiles(path.join(CONTENT_ROOT, "religioustheory", "live")),
 	];
 	files.sort((a, b) => a.localeCompare(b));
 

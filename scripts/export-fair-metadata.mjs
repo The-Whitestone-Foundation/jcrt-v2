@@ -10,7 +10,7 @@ const TARGET_ROOT = process.argv[2]
   : path.resolve(ROOT, "..", "jcrt-files");
 const OUT_ROOT = path.join(TARGET_ROOT, "metadata");
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
-const THEORY_DIR = path.join(ROOT, "content", "religioustheory", "posts");
+const THEORY_DIRS = ["posts", "live"].map((directory) => path.join(ROOT, "content", "religioustheory", directory));
 const metadata = yaml.load(fs.readFileSync(path.join(ROOT, "_data", "metadata.yaml"), "utf8")) || {};
 const SITE_URL = String(metadata.url || "https://jcrt.org").replace(/\/+$/, "");
 const FILES_URL = String(metadata.files_url || "https://files.jcrt.org").replace(/\/+$/, "");
@@ -187,12 +187,14 @@ function exportArchives() {
 
 function exportTheory() {
   let count = 0;
-  for (const filePath of walk(THEORY_DIR).filter((file) => file.endsWith(".md"))) {
+  for (const filePath of THEORY_DIRS.flatMap(walk).filter((file) => file.endsWith(".md"))) {
     const fileSlug = normalizeSlug(path.basename(filePath, ".md"));
     const { data, body } = parseFrontMatter(filePath);
     const slug = normalizeSlug(data.slug || fileSlug);
     if (!slug) continue;
-    const url = `${SITE_URL}/religioustheory/posts/${slug}/`;
+    const directory = path.basename(path.dirname(filePath));
+    const pagePath = String(data.permalink || "").startsWith("/") ? data.permalink : `/religioustheory/${directory}/${slug}/`;
+    const url = `${SITE_URL}${pagePath}`;
     const description = cleanText(data.description || firstParagraph(body)).slice(0, 500);
     const date = dateOnly(data.date);
     const authors = splitAuthors(data.author || data.authors);
@@ -215,7 +217,7 @@ function exportTheory() {
       },
       identifier: data.doi || data.nanoid || url,
     };
-    writeJson(`religioustheory/posts/${slug}`, addSubjects(schema, data));
+    writeJson(pagePath.replace(/^\/|\/$/g, ""), addSubjects(schema, data));
     count += 1;
   }
   return count;

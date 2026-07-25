@@ -10,7 +10,7 @@ import {
 
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
-const THEORY_DIR = path.join(ROOT, "content", "religioustheory", "posts");
+const THEORY_DIRS = ["posts", "live"].map((directory) => path.join(ROOT, "content", "religioustheory", directory));
 const OUT_DIR = path.join(ROOT, "public", "sitemaps");
 const BASE_URL = "https://jcrt.org";
 const FILES_URL = "https://files.jcrt.org";
@@ -207,7 +207,7 @@ function readArchiveEntries() {
 }
 
 function readTheoryEntries() {
-  return walkMarkdown(THEORY_DIR).flatMap((filePath) => {
+  return THEORY_DIRS.flatMap(walkMarkdown).flatMap((filePath) => {
     const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
     if (!data || typeof data !== "object") return [];
     const slug = String(data.slug || path.basename(filePath, ".md")).trim();
@@ -215,7 +215,9 @@ function readTheoryEntries() {
     if (!slug || !title) return [];
     const dateStr = toDateOnly(data.date);
     const authors = splitAuthors(data.author || data.authors);
-    const pageUrl = `${BASE_URL}/religioustheory/posts/${slug}/`;
+    const directory = path.basename(path.dirname(filePath));
+    const pagePath = String(data.permalink || "").startsWith("/") ? data.permalink : `/religioustheory/${directory}/${slug}/`;
+    const pageUrl = `${BASE_URL}${pagePath}`;
     return [{
       issue: "religioustheory",
       slug,

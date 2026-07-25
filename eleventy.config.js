@@ -429,6 +429,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginFilters);
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	const isLeanBuild = Boolean(process.env.LEAN_BUILD);
+	const isLocalBuild = process.env.LOCAL_BUILD === "1";
 	const isBuildMode = process.env.ELEVENTY_RUN_MODE === "build";
 	const isBenchMode = process.env.BENCH_11TY === "1";
 	const benchIssue = String(process.env.BENCH_ISSUE || "24.2").trim();
@@ -510,6 +511,12 @@ export default async function (eleventyConfig) {
 				if (rel.startsWith(`archives/${benchIssue}/`)) return;
 				return false;
 			}
+		});
+	}
+	if (isLocalBuild) {
+		eleventyConfig.addPreprocessor("local-build-scope", "*", (data) => {
+			const inputPath = String(data?.page?.inputPath || "").replaceAll("\\", "/");
+			return ["/content/archives/", "/content/blog/", "/content/religioustheory/posts/"].some((segment) => inputPath.includes(segment)) ? false : undefined;
 		});
 	}
 	if (isLeanBuild) {
@@ -998,8 +1005,10 @@ export default async function (eleventyConfig) {
 				return { ...p, url: `/blog/${slug}/` };
 			});
 
-		const religioustheory = collectionApi
-			.getFilteredByGlob("content/religioustheory/posts/*.md")
+		const religioustheory = [
+			...collectionApi.getFilteredByGlob("content/religioustheory/posts/*.md"),
+			...collectionApi.getFilteredByGlob("content/religioustheory/live/*.md"),
+		]
 			.filter((p) => isPublishedItem(p?.data))
 			.filter((p) => p?.url && p.url.startsWith("/religioustheory/"));
 
