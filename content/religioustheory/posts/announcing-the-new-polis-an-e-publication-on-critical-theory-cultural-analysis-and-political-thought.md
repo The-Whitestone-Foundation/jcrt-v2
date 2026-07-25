@@ -64,7 +64,7 @@ The [vision statement](http://www.thenewpolis.com/about) of *The New Polis* is a
 Initial editorial staff for *The New Polis* are as follows:
 
 *   *General Editor –* [Roger Green](mailto:rogerkgreen@gmail.com), Metropolitan State University
-*   *Senior Consulting Editor* **–** [Carl Raschke](mailto:carl.raschke@du.edu), University of Denver
+*   *Senior Consulting Editor* **–** [Carl Raschke](mailto:carl.raschke@jcrt.org), University of Denver
 *   *Consulting Editor* **–** [Joshua Hanan](mailto:joshua.hanan@du.edu), University of Denver
 *   *Consulting Editor* – [Victor Taylor](mailto:taylorve@gmail.com), York College of Pennsylvania
 *   *Production Editor* – [Kara Roberts](mailto:kara.roberts@du.edu), University of Denver

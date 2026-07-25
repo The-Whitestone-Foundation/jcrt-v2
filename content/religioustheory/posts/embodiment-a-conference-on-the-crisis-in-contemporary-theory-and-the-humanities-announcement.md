@@ -35,7 +35,7 @@ subjects:
 
 #### **Sponsored by the University of Vienna and** the Journal for Cultural and Religious Theory (Whitestone Publications) in Co-operation with the University of Denver
 
-*You must register in advance (see below) whereupon you will automatically receive a participation link. If you are having trouble, please* [*email us*](mailto:carl.raschke@du.edu)*.*
+*You must register in advance (see below) whereupon you will automatically receive a participation link. If you are having trouble, please* [*email us*](mailto:carl.raschke@jcrt.org)*.*
 
 ### **[REGISTER](https://us02web.zoom.us/meeting/register/tZYvdO6tqD0uHN2BM48yrFMtaL9irMCL8Riv)**
 

@@ -4,13 +4,13 @@ title: Submissions
 description: "Submit to JCRT: guidelines for abstracts, scope, and details for peer-reviewed work in religion, culture, critical theory, media studies, and methods."
 permalink: /submissions/
 ---
-**[Submit your article here.](mailto:carl.raschke@du.edu?subject=JCRT%20Submission)**
+**[Submit your article here.](mailto:carl.raschke@jcrt.org?subject=JCRT%20Submission)**
 
 The Journal for Cultural and Religious Theory (JCRT) is a peer-reviewed journal devoted to both disciplinary and interdisciplinary scholarship of a cutting-edge nature that deals broadly with the phenomenon of religious and cultural theory.  Subfields include, but are not limited to, philosophical and cultural theory, theological studies, postcolonial and globalization theory, religious studies, literary theory, cultural studies, ethnic, area, and gender studies, communications, semiotics, and linguistics. 
 
 The JCRT is free of charge, and is published two to three times a year.
 
-Current institutional sponsors are the University of Denver and Syracuse University. For more information about institutional sponsorship, contact the Senior Editor Carl Raschke at <carl.raschke@du.edu>.  If you have an article you would like to consider for publication, you need to submit a 500-word abstract of the article along with a curriculum vitae to the editor via the [contact form](/contact/) or <editor.jcrt@gmail.com>. All articles must rigorously fit the mission of the JCRT (See Submissions Policy below).  No term papers, religious advocacy pieces, unsolicited book reviews or opinion pieces, etc. will be considered.  
+Current institutional sponsors are the University of Denver and Syracuse University. For more information about institutional sponsorship, contact the Senior Editor Carl Raschke at <carl.raschke@jcrt.org>.  If you have an article you would like to consider for publication, you need to submit a 500-word abstract of the article along with a curriculum vitae to the editor via the [contact form](/contact/) or <editor.jcrt@gmail.com>. All articles must rigorously fit the mission of the JCRT (See Submissions Policy below).  No term papers, religious advocacy pieces, unsolicited book reviews or opinion pieces, etc. will be considered.  
 
 ## Submission Checklist
 

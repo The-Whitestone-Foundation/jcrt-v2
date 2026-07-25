@@ -47,7 +47,7 @@ JCRT is **free of charge** and is published **two to three times per year**.
 
 ### Institutional Sponsors
 Current institutional sponsors are the **University of Denver** and **Syracuse University**.  
-For information about institutional sponsorship, contact **Senior Editor Carl Raschke** at **carl.raschke@du.edu**.
+For information about institutional sponsorship, contact **Senior Editor Carl Raschke** at **carl.raschke@jcrt.org**.
 
 ### Copyright and Permissions
 Copyright for individual contributions is held by the **author(s)**. Any redistribution or archiving of materials published in this journal is **strictly prohibited** without written permission from the publisher. Rights and permission to reproduce must be obtained by the author(s) and must acknowledge original publication in JCRT.
