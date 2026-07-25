@@ -68,22 +68,24 @@ sidebar:
   menu: 
     title: Menu
     list: 
-      - nav: Home
-        url: /
       - nav: About
         url: /about/
+      - nav: Contact
+        url: /contact/
       - nav: Editors
-        url: /editors/  
+        url: /editors/
+      - nav: Home
+        url: /
       - nav: Journal Archive
         url: /archives/
       - nav: News
         url: /blog/
       - nav: Religious Theory
         url: /religioustheory/
+      - nav: Search
+        url: /search/
       - nav: Submissions
-        url: /submissions/  
-      - nav: Contact
-        url: /contact/
+        url: /submissions/
   info: 
     sections:
       - title: The New Polis

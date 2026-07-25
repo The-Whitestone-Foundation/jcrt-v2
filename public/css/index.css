@@ -344,6 +344,10 @@ h1.navbar-brand a:focus .text-secondary,
     font-size: 0.95rem;
 }
 
+.jcrt-taxonomy-row .jcrt-footer-label {
+    margin: 0;
+}
+
 .jcrt-action-row--spaced,
 .jcrt-taxonomy-row + .jcrt-taxonomy-row {
     margin-top: 1rem;
@@ -798,6 +802,13 @@ h1.navbar-brand a:focus .text-secondary,
 
 .utility-action {
     letter-spacing: 2px;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .reading-article {
@@ -1938,7 +1949,7 @@ body.sidebar-open #menu-toggle-btn {
 
 .home-editorial .home-news-card .btn {
     white-space: normal;
-    text-align: left;
+    text-align: center;
 }
 
 .home-editorial .home-section-actions {
