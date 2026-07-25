@@ -2,7 +2,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-07-25T07:12:06.635Z</responseDate>
+  <responseDate>2026-07-25T07:33:49.268Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/sitemaps/oai_dc.xml</request>
   <ListRecords>
     <record>
@@ -14236,10 +14236,10 @@
           <dc:creator>editors</dc:creator>
           <dc:subject>Live</dc:subject>
           <dc:subject>jcrt</dc:subject>
-          <dc:subject>jcrt live</dc:subject>
+          <dc:subject>jcrt-live</dc:subject>
           <dc:subject>blogging</dc:subject>
-          <dc:subject>cultural theory</dc:subject>
-          <dc:subject>religious theory</dc:subject>
+          <dc:subject>cultural-theory</dc:subject>
+          <dc:subject>religious-theory</dc:subject>
           <dc:description>JCRT announces JCRT Live, a blog for editors, contributors, and invited participants to discuss current questions in cultural and religious theory online.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-08-21</dc:date>
@@ -14267,10 +14267,10 @@
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
           <dc:subject>hyperreality</dc:subject>
-          <dc:subject>financial crisis</dc:subject>
+          <dc:subject>financial-crisis</dc:subject>
           <dc:subject>capitalism</dc:subject>
-          <dc:subject>jean baudrillard</dc:subject>
-          <dc:subject>jacques derrida</dc:subject>
+          <dc:subject>jean-baudrillard</dc:subject>
+          <dc:subject>jacques-derrida</dc:subject>
           <dc:description>Carl A. Raschke reads the 2008 financial crisis through Baudrillard, Mark C. Taylor, and Derrida, asking what hyperreality means for faith and democracy.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-09-20</dc:date>
@@ -14297,11 +14297,11 @@
           <dc:title>Crisis: A Liberation from Capitalism?</dc:title>
           <dc:creator>Creston Davis</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>financial crisis</dc:subject>
+          <dc:subject>financial-crisis</dc:subject>
           <dc:subject>capitalism</dc:subject>
           <dc:subject>labor</dc:subject>
           <dc:subject>hegel</dc:subject>
-          <dc:subject>alain badiou</dc:subject>
+          <dc:subject>alain-badiou</dc:subject>
           <dc:description>Creston Davis interprets the 2008 financial collapse through Hegel and Badiou, arguing that crisis exposes labor&apos;s power and capitalism&apos;s hidden dependence.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-10-04</dc:date>
@@ -14328,12 +14328,12 @@
           <dc:title>“Competing in Goodness”: Khalid Sheikh Mohammed’s Testimony at Guantanamo</dc:title>
           <dc:creator>Faisal Devji</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>guantanamo bay</dc:subject>
-          <dc:subject>khalid sheikh mohammed</dc:subject>
-          <dc:subject>militant islam</dc:subject>
+          <dc:subject>guantanamo-bay</dc:subject>
+          <dc:subject>khalid-sheikh-mohammed</dc:subject>
+          <dc:subject>militant-islam</dc:subject>
           <dc:subject>pluralism</dc:subject>
-          <dc:subject>islamic law</dc:subject>
-          <dc:subject>human rights</dc:subject>
+          <dc:subject>islamic-law</dc:subject>
+          <dc:subject>human-rights</dc:subject>
           <dc:description>Faisal Devji analyzes Khalid Sheikh Mohammed&apos;s Guantanamo testimony, exploring militant pluralism, legal exception, guilt, war, and competing in goodness.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-10-06</dc:date>
@@ -14360,10 +14360,10 @@
           <dc:title>The Hinge of History, or Žižek’s “New Politics”</dc:title>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>financial crisis</dc:subject>
+          <dc:subject>financial-crisis</dc:subject>
           <dc:subject>capitalism</dc:subject>
-          <dc:subject>new politics</dc:subject>
-          <dc:subject>slavoj žižek</dc:subject>
+          <dc:subject>new-politics</dc:subject>
+          <dc:subject>slavoj-žižek</dc:subject>
           <dc:subject>consumerism</dc:subject>
           <dc:description>Carl A. Raschke asks whether the 2008 financial crash marks a hinge of history, testing Žižek&apos;s call for a new politics against consumer capitalism today.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
@@ -14391,11 +14391,11 @@
           <dc:title>Laclau and Democracy in Light of the Current Crisis</dc:title>
           <dc:creator>Daniel Douglas Miller</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>ernesto laclau</dc:subject>
+          <dc:subject>ernesto-laclau</dc:subject>
           <dc:subject>democracy</dc:subject>
           <dc:subject>neoliberalism</dc:subject>
           <dc:subject>populism</dc:subject>
-          <dc:subject>financial crisis</dc:subject>
+          <dc:subject>financial-crisis</dc:subject>
           <dc:description>Daniel Douglas Miller uses Ernesto Laclau&apos;s account of democracy and populism to argue that the financial crisis demands political action, not passive hope.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-10-20</dc:date>
@@ -14423,10 +14423,10 @@
           <dc:creator>Victor E. Taylor</dc:creator>
           <dc:subject>Live</dc:subject>
           <dc:subject>catholicism</dc:subject>
-          <dc:subject>2008 election</dc:subject>
+          <dc:subject>2008-election</dc:subject>
           <dc:subject>abortion</dc:subject>
           <dc:subject>pennsylvania</dc:subject>
-          <dc:subject>church and state</dc:subject>
+          <dc:subject>church-and-state</dc:subject>
           <dc:description>Victor Taylor examines Catholic voters in Pennsylvania, abortion politics, and the Church hierarchy&apos;s influence on conscience in the 2008 presidential election.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-10-26</dc:date>
@@ -14453,11 +14453,11 @@
           <dc:title>Apocalypse Now? The Subaltern Has Spoken</dc:title>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>2008 election</dc:subject>
-          <dc:subject>barack obama</dc:subject>
+          <dc:subject>2008-election</dc:subject>
+          <dc:subject>barack-obama</dc:subject>
           <dc:subject>globalization</dc:subject>
           <dc:subject>subalternity</dc:subject>
-          <dc:subject>identity politics</dc:subject>
+          <dc:subject>identity-politics</dc:subject>
           <dc:description>Writing before the 2008 election, Carl A. Raschke considers Obama, globalization, identity politics, and whether an apparent apocalypse signals a new beginning.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-11-03</dc:date>
@@ -14484,9 +14484,9 @@
           <dc:title>The Morning After—with a Nod to Vince Lombardi</dc:title>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>barack obama</dc:subject>
-          <dc:subject>2008 election</dc:subject>
-          <dc:subject>political responsibility</dc:subject>
+          <dc:subject>barack-obama</dc:subject>
+          <dc:subject>2008-election</dc:subject>
+          <dc:subject>political-responsibility</dc:subject>
           <dc:subject>globalization</dc:subject>
           <dc:subject>crisis</dc:subject>
           <dc:description>Carl A. Raschke reflects on Barack Obama&apos;s election, warning that political euphoria must give way to shared responsibility before the next global crisis.</dc:description>
@@ -14515,11 +14515,11 @@
           <dc:title>A New Project for Correlational/Continental Theology (Again)</dc:title>
           <dc:creator>Wilson Dickinson</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>continental theology</dc:subject>
+          <dc:subject>continental-theology</dc:subject>
           <dc:subject>correlation</dc:subject>
-          <dc:subject>political theology</dc:subject>
+          <dc:subject>political-theology</dc:subject>
           <dc:subject>mysticism</dc:subject>
-          <dc:subject>constructive theology</dc:subject>
+          <dc:subject>constructive-theology</dc:subject>
           <dc:description>Wilson Dickinson proposes a renewed correlational and Continental theology that can connect public events, experience, mysticism, and constructive thought.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-11-11</dc:date>
@@ -14548,9 +14548,9 @@
           <dc:subject>Live</dc:subject>
           <dc:subject>homonymy</dc:subject>
           <dc:subject>theology</dc:subject>
-          <dc:subject>postmodern sublime</dc:subject>
-          <dc:subject>clayton crockett</dc:subject>
-          <dc:subject>agata bielik-robson</dc:subject>
+          <dc:subject>postmodern-sublime</dc:subject>
+          <dc:subject>clayton-crockett</dc:subject>
+          <dc:subject>agata-bielik-robson</dc:subject>
           <dc:description>Artur Sebastian Rosman uses homonymy to assess a JCRT debate between Clayton Crockett and Agata Bielik-Robson over theology and the postmodern sublime.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-11-20</dc:date>
@@ -14578,11 +14578,11 @@
           <dc:creator>Colbey Emmerson Reid</dc:creator>
           <dc:subject>Live</dc:subject>
           <dc:subject>twilight</dc:subject>
-          <dc:subject>vampire fiction</dc:subject>
+          <dc:subject>vampire-fiction</dc:subject>
           <dc:subject>abstinence</dc:subject>
           <dc:subject>puritanism</dc:subject>
           <dc:subject>gothic</dc:subject>
-          <dc:subject>film criticism</dc:subject>
+          <dc:subject>film-criticism</dc:subject>
           <dc:description>Colbey Emmerson Reid reads Twilight as a Gothic theology of erotic abstinence, sacrifice, subjectivity, and the unexpectedly sensual force of Puritanism.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-12-20</dc:date>
@@ -14609,11 +14609,11 @@
           <dc:title>The Business of the Real and the Unreality of Business</dc:title>
           <dc:creator>Victor E. Taylor</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>financial crisis</dc:subject>
+          <dc:subject>financial-crisis</dc:subject>
           <dc:subject>business</dc:subject>
           <dc:subject>capitalism</dc:subject>
           <dc:subject>management</dc:subject>
-          <dc:subject>corporate failure</dc:subject>
+          <dc:subject>corporate-failure</dc:subject>
           <dc:description>Victor Taylor examines corporate failure and the 2008 economic crisis, arguing that business models conceal the Real they claim to master through metrics.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2008-12-27</dc:date>
@@ -14640,12 +14640,12 @@
           <dc:title>Originary Grammar</dc:title>
           <dc:creator>Adam Katz</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>originary grammar</dc:subject>
-          <dc:subject>generative anthropology</dc:subject>
-          <dc:subject>eric gans</dc:subject>
-          <dc:subject>rené girard</dc:subject>
+          <dc:subject>originary-grammar</dc:subject>
+          <dc:subject>generative-anthropology</dc:subject>
+          <dc:subject>eric-gans</dc:subject>
+          <dc:subject>rené-girard</dc:subject>
           <dc:subject>language</dc:subject>
-          <dc:subject>mimetic desire</dc:subject>
+          <dc:subject>mimetic-desire</dc:subject>
           <dc:description>Adam Katz introduces originary grammar through Eric Gans, René Girard, language, mimetic crisis, and the emergence of signs that defer collective violence.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-01-05</dc:date>
@@ -14672,9 +14672,9 @@
           <dc:title>Dis-Enclosure and the Inaugural Moment</dc:title>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>jean-luc nancy</dc:subject>
+          <dc:subject>jean-luc-nancy</dc:subject>
           <dc:subject>dis-enclosure</dc:subject>
-          <dc:subject>barack obama</dc:subject>
+          <dc:subject>barack-obama</dc:subject>
           <dc:subject>inauguration</dc:subject>
           <dc:subject>deconstruction</dc:subject>
           <dc:subject>christianity</dc:subject>
@@ -14704,9 +14704,9 @@
           <dc:title>Labels Without Scars: Mystifying Amnesia in Today’s Presidential Politics</dc:title>
           <dc:creator>Wendy Felese</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>barack obama</dc:subject>
-          <dc:subject>political rhetoric</dc:subject>
-          <dc:subject>historical memory</dc:subject>
+          <dc:subject>barack-obama</dc:subject>
+          <dc:subject>political-rhetoric</dc:subject>
+          <dc:subject>historical-memory</dc:subject>
           <dc:subject>identity</dc:subject>
           <dc:subject>hope</dc:subject>
           <dc:description>Wendy Felese examines the rhetoric surrounding Barack Obama&apos;s presidency, asking whether hopeful political labels conceal historical scars and uncertainty.</dc:description>
@@ -14736,11 +14736,11 @@
           <dc:creator>David Hale</dc:creator>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>american empire</dc:subject>
-          <dc:subject>financial crisis</dc:subject>
+          <dc:subject>american-empire</dc:subject>
+          <dc:subject>financial-crisis</dc:subject>
           <dc:subject>debt</dc:subject>
           <dc:subject>messianism</dc:subject>
-          <dc:subject>political irony</dc:subject>
+          <dc:subject>political-irony</dc:subject>
           <dc:description>David Hale and Carl A. Raschke exchange views on American decline, debt, empire, irony, and the uncertain line between the audacity and arrogance of hope.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-02-10</dc:date>
@@ -14767,11 +14767,11 @@
           <dc:title>Originary Grammar, Part 2</dc:title>
           <dc:creator>Adam Katz</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>originary grammar</dc:subject>
-          <dc:subject>sentence forms</dc:subject>
+          <dc:subject>originary-grammar</dc:subject>
+          <dc:subject>sentence-forms</dc:subject>
           <dc:subject>metaphysics</dc:subject>
           <dc:subject>imperatives</dc:subject>
-          <dc:subject>generative anthropology</dc:subject>
+          <dc:subject>generative-anthropology</dc:subject>
           <dc:description>Adam Katz develops originary grammar through sentence forms, metaphysics, imperatives, and the linguistic ordering that continually defers social violence.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-03-09</dc:date>
@@ -14798,10 +14798,10 @@
           <dc:title>Born Again</dc:title>
           <dc:creator>Colbey Emmerson Reid</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>the descent</dc:subject>
-          <dc:subject>horror film</dc:subject>
+          <dc:subject>the-descent</dc:subject>
+          <dc:subject>horror-film</dc:subject>
           <dc:subject>resurrection</dc:subject>
-          <dc:subject>feminist film theory</dc:subject>
+          <dc:subject>feminist-film-theory</dc:subject>
           <dc:subject>trauma</dc:subject>
           <dc:subject>monstrosity</dc:subject>
           <dc:description>Colbey Emmerson Reid reads The Descent as a feminist resurrection narrative in which trauma, monstrosity, repetition, and rebirth unsettle Christian allegory.</dc:description>
@@ -14830,12 +14830,12 @@
           <dc:title>Habit and Errors and Composition</dc:title>
           <dc:creator>Adam Katz</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>gertrude stein</dc:subject>
+          <dc:subject>gertrude-stein</dc:subject>
           <dc:subject>habit</dc:subject>
           <dc:subject>error</dc:subject>
           <dc:subject>composition</dc:subject>
           <dc:subject>reciprocity</dc:subject>
-          <dc:subject>political exchange</dc:subject>
+          <dc:subject>political-exchange</dc:subject>
           <dc:description>Adam Katz uses Gertrude Stein to connect habit, error, attention, composition, reciprocity, and political exchange in an account of how novelty emerges.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-04-26</dc:date>
@@ -14864,8 +14864,8 @@
           <dc:subject>Live</dc:subject>
           <dc:subject>spectrality</dc:subject>
           <dc:subject>event</dc:subject>
-          <dc:subject>jacques derrida</dc:subject>
-          <dc:subject>friedrich nietzsche</dc:subject>
+          <dc:subject>jacques-derrida</dc:subject>
+          <dc:subject>friedrich-nietzsche</dc:subject>
           <dc:subject>nihilism</dc:subject>
           <dc:subject>eschatology</dc:subject>
           <dc:description>Carl A. Raschke reflects on 2009 as a year of spectral eventfulness, reading Derrida and Nietzsche against political repetition, nihilism, and false dawns.</dc:description>
@@ -14894,12 +14894,12 @@
           <dc:title>Obama’s Cairo Speech: “New Beginning,” New Enlightenment, or Old Aporia?</dc:title>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>barack obama</dc:subject>
-          <dc:subject>cairo speech</dc:subject>
-          <dc:subject>islam and the west</dc:subject>
+          <dc:subject>barack-obama</dc:subject>
+          <dc:subject>cairo-speech</dc:subject>
+          <dc:subject>islam-and-the-west</dc:subject>
           <dc:subject>enlightenment</dc:subject>
           <dc:subject>deconstruction</dc:subject>
-          <dc:subject>religion and politics</dc:subject>
+          <dc:subject>religion-and-politics</dc:subject>
           <dc:description>Carl A. Raschke analyzes Obama&apos;s Cairo speech as a bid for renewed relations between Islam and the West, testing its promise against Enlightenment aporias.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-06-05</dc:date>
@@ -14926,12 +14926,12 @@
           <dc:title>Indicative Culture</dc:title>
           <dc:creator>Adam Katz</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>indicative sentence</dc:subject>
+          <dc:subject>indicative-sentence</dc:subject>
           <dc:subject>language</dc:subject>
           <dc:subject>authority</dc:subject>
-          <dc:subject>international law</dc:subject>
+          <dc:subject>international-law</dc:subject>
           <dc:subject>counterinsurgency</dc:subject>
-          <dc:subject>generative anthropology</dc:subject>
+          <dc:subject>generative-anthropology</dc:subject>
           <dc:description>Adam Katz explores the indicative sentence, authority, law, and counterinsurgency to argue that institutions must learn from situated habits and judgment.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-06-25</dc:date>
@@ -14958,10 +14958,10 @@
           <dc:title>Bernie Madoff University</dc:title>
           <dc:creator>Victor E. Taylor</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>bernie madoff</dc:subject>
-          <dc:subject>higher education</dc:subject>
-          <dc:subject>corporate university</dc:subject>
-          <dc:subject>ponzi scheme</dc:subject>
+          <dc:subject>bernie-madoff</dc:subject>
+          <dc:subject>higher-education</dc:subject>
+          <dc:subject>corporate-university</dc:subject>
+          <dc:subject>ponzi-scheme</dc:subject>
           <dc:subject>neoliberalism</dc:subject>
           <dc:description>Victor Taylor satirizes the corporate university through Bernie Madoff&apos;s Ponzi scheme, exposing a higher education model built on appearance, debt, and profit.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
@@ -14989,11 +14989,11 @@
           <dc:title>Originary Grammar, Part 3</dc:title>
           <dc:creator>Adam Katz</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>originary grammar</dc:subject>
-          <dc:subject>generative anthropology</dc:subject>
-          <dc:subject>eric gans</dc:subject>
+          <dc:subject>originary-grammar</dc:subject>
+          <dc:subject>generative-anthropology</dc:subject>
+          <dc:subject>eric-gans</dc:subject>
           <dc:subject>imperatives</dc:subject>
-          <dc:subject>international law</dc:subject>
+          <dc:subject>international-law</dc:subject>
           <dc:subject>violence</dc:subject>
           <dc:description>Adam Katz extends originary grammar through Eric Gans, metaphysics, imperatives, global law, and the need for signs capable of deferring political violence.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
@@ -15021,12 +15021,12 @@
           <dc:title>Zombie Aesthetics, Part 1: Vituperation</dc:title>
           <dc:creator>Colbey Emmerson Reid</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>zombie cinema</dc:subject>
+          <dc:subject>zombie-cinema</dc:subject>
           <dc:subject>democracy</dc:subject>
           <dc:subject>citizenship</dc:subject>
           <dc:subject>fascism</dc:subject>
-          <dc:subject>political aesthetics</dc:subject>
-          <dc:subject>film criticism</dc:subject>
+          <dc:subject>political-aesthetics</dc:subject>
+          <dc:subject>film-criticism</dc:subject>
           <dc:description>Colbey Emmerson Reid reads zombie cinema as an allegory of democracy, citizenship, agency, fascism, and the political limits of the Western action hero.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2009-10-25</dc:date>
@@ -18283,11 +18283,11 @@
           <dc:title>What Egypt Really Means for the Theory of Religion</dc:title>
           <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Live</dc:subject>
-          <dc:subject>2011 egyptian revolution</dc:subject>
-          <dc:subject>youth politics</dc:subject>
-          <dc:subject>jacques derrida</dc:subject>
+          <dc:subject>2011-egyptian-revolution</dc:subject>
+          <dc:subject>youth-politics</dc:subject>
+          <dc:subject>jacques-derrida</dc:subject>
           <dc:subject>universalism</dc:subject>
-          <dc:subject>religion without religion</dc:subject>
+          <dc:subject>religion-without-religion</dc:subject>
           <dc:description>Carl A. Raschke interprets Egypt&apos;s 2011 uprising through May 1968, youth politics, Derrida, and a universalist religion without renewed religiosity in public.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2011-02-12</dc:date>

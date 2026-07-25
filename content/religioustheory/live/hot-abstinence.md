@@ -40,13 +40,15 @@ Bella is befuddled, she sniffs her armpit and wonders what could possibly be cau
 
 Probably unintentionally, reading *Twilight* has a similar effect. The plot is compelling, but its rendition is excruciating. Reading becomes *jouissance*, because you can’t put the book down but you really want to. Hardwicke uses form to provide distance, so her viewers can see the characters as discourse. The tactic allows us to take them seriously, which is precisely what critics who read the film as a relic of social conservatism don’t do. Their approach collapses Hardwicke into Meyer, and is driven, paradoxically, by their adoption of the lack of critical distance within the book.
 
-Its absence only permits them to access the text through its content, by which they are repelled: a pretty young girl meets a handsome boy and instead of “doing it” 90210-style, they promise never to lose control, but instead to tame all sexual energy by projecting it into civilized plaisirs: conversation, family dinners, and art. Edward introduces Bella to Classical music, and she ceases to speak naturally, instead thinking in highly constructed “verses” we might call (bad) poetry—this quote appears in verse on the back cover of the Little, Brown paperback: About three things I was absolutely positive.
+Its absence only permits them to access the text through its content, by which they are repelled: a pretty young girl meets a handsome boy and instead of “doing it” 90210-style, they promise never to lose control, but instead to tame all sexual energy by projecting it into civilized plaisirs: conversation, family dinners, and art. Edward introduces Bella to Classical music, and she ceases to speak naturally, instead thinking in highly constructed “verses” we might call (bad) poetry—this quote appears in verse on the back cover of the Little, Brown paperback:
 
-First, Edward was a vampire.
-
-Second, there was a part of him— and I didn’t know how dominant that part might be— that thirsted for my blood.
-
-And third, I was unconditionally and irrevocably in love with him.
+> About three things I was absolutely positive.
+>
+> First, Edward was a vampire.
+>
+> Second, there was a part of him— and I didn’t know how dominant that part might be— that thirsted for my blood.
+>
+> And third, I was unconditionally and irrevocably in love with him.
 
 Occasionally Edward waxes bestial, climbing trees like a puma with Bella on his back, but this always turns out to be a necessary means to achieve a tame aesthetic end: Edward wants to show her the view. In this reading, insofar as abstinence is represented as pleasurable it is a function of the super-ego, which drives the characters to derive a moral satisfaction from punishing themselves. In the film, however, the distance provided by Hardwicke’s highlighting of the story as myth, the characters as discourse, constructs a text that contains its own critical distance.
 

@@ -73,11 +73,12 @@
   "overrides": {
     "minimatch": "^10.2.1",
     "glob": "^11.0.0",
-    "undici": "~7.28.0"
+    "undici": "~7.28.0",
+    "sharp": "0.35.3"
   },
   "devDependencies": {
     "@11ty/eleventy": "4.0.0-alpha.10",
-    "@11ty/eleventy-img": "^6.0.4",
+    "@11ty/eleventy-img": "7.0.0-alpha.4",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",
     "cross-env": "^7.0.3",
@@ -98,5 +99,8 @@
     "nanoid": "5.1.16",
     "pagefind": "^1.5.2"
   },
-  "packageManager": "npm@11.14.0"
+  "packageManager": "npm@11.14.0",
+  "allowScripts": {
+    "sharp@0.35.3": true
+  }
 }
