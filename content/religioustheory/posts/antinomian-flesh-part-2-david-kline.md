@@ -1,7 +1,7 @@
 ---
 nanoid: "TX7MMM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dcr5q5n2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh363weck2q'
 title: 'Antinomian Flesh, Part 2 (David Kline)'
 description: "The following is the second of a three-part series. The first can be found here. The above descriptions of nomos encapsulate general sociological, political"
 date: '2020-10-26T04:28:31.000Z'

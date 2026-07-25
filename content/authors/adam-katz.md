@@ -1,6 +1,6 @@
 ---
 nanoid: "9oRAh8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfr6zp627'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bmiwjs2q'
 name: Adam Katz
 affiliation: "Quinnipiac University"
 bio:

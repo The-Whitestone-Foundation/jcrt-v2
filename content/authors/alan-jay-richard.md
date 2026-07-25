@@ -1,6 +1,6 @@
 ---
 nanoid: "6Smq8d"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfqucyc2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bm4acb2j'
 name: Alan Jay Richard
 affiliation: "Realistic Living"
 bio:
