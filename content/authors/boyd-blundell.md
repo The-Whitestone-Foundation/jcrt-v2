@@ -1,6 +1,6 @@
 ---
 nanoid: "lpJKq8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bhj7dq2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyyv64m2p'
 name: Boyd Blundell
 affiliation: "Boston College"
 bio:

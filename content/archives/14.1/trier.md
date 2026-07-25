@@ -1,7 +1,7 @@
 ---
 nanoid: "xIPFI-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh376qqhy2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy6r2hy2j'
 title: "Lars Von Trier: the Impossibility of the Good as a Work."
 author: "Tyler Tritten"
 affilation:

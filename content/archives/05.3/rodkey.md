@@ -1,7 +1,7 @@
 ---
 nanoid: "0_P_17"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37z3bac2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyig44k2q'
 title: "Approaches to Auschwitz: the Holocaust and Its Legacy"
 author: "Christopher D Rodkey"
 affilation:

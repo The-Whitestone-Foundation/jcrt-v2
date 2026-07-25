@@ -1,7 +1,7 @@
 ---
 nanoid: "Y-0iTB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36nlq422q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixysc4x2h'
 title: "On Secularism and Its Discontents: Charting Pathways with a Phenomenology of Religion."
 author: "Ludger Hagedorn; Michael Staudigl"
 affilation:

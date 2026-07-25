@@ -1,5 +1,6 @@
 ---
 nanoid: "Spik5y"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydak5q2q'
 title: "Indicative Culture"
 description: "Adam Katz explores the indicative sentence, authority, law, and counterinsurgency to argue that institutions must learn from situated habits and judgment."
 date: '2009-06-25'
@@ -17,7 +18,6 @@ tags:
   - "counterinsurgency"
   - "generative-anthropology"
 ---
-
 The indicative sentence could be said by anyone; imperative and interrogative sentences are defined by the speaker and listener.  To use Peircean terms, imperatives and interrogatives have a first and a second, while the indicative is uttered by a third.  The speaker of the indicative sentence is therefore outside of the direct interaction involved in the interrogative, imperative and, most fundamentally, the ostensive.
 
 If you say “he needs help,” you are clearly outside of the help-seeking; for that matter, if you say “I need help”—as opposed to “help me”—you setting yourself, as speaker, at least somewhat apart from yourself as needing help.  The response called for by your indicative sentence is something along the lines of “what’s wrong?” or “what can I do?” that is, an interrogative, rather than a direct proffer of aid.  You are engaged in a discussion over your situation.  Your indicative statement calls for a response—that is, it commands a response, or embeds an imperative:  inquire into my condition.  How meaningful the sentence is depends upon how meaningful that inquiry would be—that is, what new ostensive signs it would yield.  The same is true if we increase the distance between the need for help and the sentence—say, “K needs help.”

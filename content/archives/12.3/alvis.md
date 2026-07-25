@@ -1,7 +1,7 @@
 ---
 nanoid: "zYZn6s"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37d356c2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiya7y4n27'
 title: "The Indiscrete Image: Infinitude and Creation of the Human."
 author: "Jason Alvis"
 affilation:

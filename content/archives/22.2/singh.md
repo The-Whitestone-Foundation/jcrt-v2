@@ -1,7 +1,7 @@
 ---
 nanoid: "PfxGqQ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh35r6cex2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixny3vx25'
 title: "Sikhs as Subalterns: Voice, Inequality and Power"
 author: "Nirvikar Singh"
 affilation:

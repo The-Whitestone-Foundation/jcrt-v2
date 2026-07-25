@@ -1,5 +1,6 @@
 ---
 nanoid: "khlyeU"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydcdt32h'
 title: "Specter and Event"
 description: "Carl A. Raschke reflects on 2009 as a year of spectral eventfulness, reading Derrida and Nietzsche against political repetition, nihilism, and false dawns."
 date: '2009-05-16'
@@ -17,7 +18,6 @@ tags:
   - "nihilism"
   - "eschatology"
 ---
-
 I have awoken just about every morning for the last six weeks with the sense that this year is going to turn out to be an historically decisive one in terms of world events - like 1968, 1989, or even 2001.
 
 All I can say to justify this "sense" is that I have it.  Decisive years are different from specific events that are normally identified, or correlated, with such a time frame.  Their "eventfulness" cannot usually be ascribed to one great thing, or *event* (in the singular), that happened and is remembered - the uprising in Paris, the fall of the Berlin Wall, what we now call "9/11", etc.

@@ -1,5 +1,6 @@
 ---
 nanoid: "COYnP5"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydufvi2q'
 title: "Hyperreality"
 description: "Carl A. Raschke reads the 2008 financial crisis through Baudrillard, Mark C. Taylor, and Derrida, asking what hyperreality means for faith and democracy."
 date: '2008-09-20'
@@ -16,7 +17,6 @@ tags:
   - "jean-baudrillard"
   - "jacques-derrida"
 ---
-
 **By Carl Raschke**
 
 Jean Baudrillard's well-known characterization of the "hyperreal" as the "precession of simulacra" would certainly apply to what we have witnessed in this week's global financial crisis, or "meltdown", catastrophe, or Armageddon - or whatever you choose to call it.   Germany's [Der Spiegel](http://www.spiegel.de/international/business/0,1518,578944,00.html) proclaimed that "the foundations of US capitalism have shattered."   But there were really no foundations to begin with.  One bit of hazy consensus among the multifarious pundits and political voyeurs of the dramatic financial events that had been building steam, lurching, and making feints for over a year at this point was that no one really understood what was going on at all, and no one really knew what to do, even though markets tumbled, entire stock exchanges (as in Moscow) were shuttered, huge corporations disappeared in a day, and a veritable army of central banks from Japan to the EU were airdropped overnight to put out a fire that was raging out of control.

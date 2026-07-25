@@ -1,5 +1,6 @@
 ---
 nanoid: "IhSgWf"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydshja2j'
 title: "“Competing in Goodness”: Khalid Sheikh Mohammed’s Testimony at Guantanamo"
 description: "Faisal Devji analyzes Khalid Sheikh Mohammed's Guantanamo testimony, exploring militant pluralism, legal exception, guilt, war, and competing in goodness."
 date: '2008-10-06'
@@ -17,7 +18,6 @@ tags:
   - "islamic-law"
   - "human-rights"
 ---
-
 In passages much cited by Muslim liberals, the Quran appears to advocate religious and other forms of pluralism by asking different communities to compete with each other in goodness, each according to its own standard. Muslim militants, too, or at least those gathered under the sign of Al-Qaeda, seem to have taken these scriptural passages to heart, a particularly egregious example of which can be found in the testimony of the 9/11 linchpin, Khalid Sheikh Mohammed. On the one hand, competing in goodness with the enemy is only the obverse of competing with him in evil, which plays such a large part in militant rhetoric. But on the other hand competing in goodness goes beyond merely the mirroring of another’s actions, and implies caring for the enemy’s goodness as a quality that requires protection. This indeed is the closest the kind of militant I am describing comes to the Christian virtue of loving his enemy.
 
 In the redacted and unclassified version of his hearing at Guantanamo Bay on March 10, 2007, Khalid Sheikh Mohammed pleaded guilty before a tribunal he considered illegitimate, thus turning his hearing into one for the tribunal itself, since his own guilt or innocence had ceased to be an issue for it. Indeed Mohammed’s admission of guilt was so extensive as to place the charges laid against him quite in the shade by reversing the normal relationship between law and criminality, in which it is the person charged whose claims of responsibility tend to be minimal. Acknowledging guilt in this excessive way deprives it of meaning while returning such responsibility into the keeping of the law, where it remains something impersonal with which the person charged has only a formal and not an existential relationship. Perhaps this is why Khalid Sheikh Mohammed could afford to speculate upon responsibility as a theoretical category during his hearing, in which he concluded a long list of criminal claims with the following statement about the utterly conventional character of guilt:

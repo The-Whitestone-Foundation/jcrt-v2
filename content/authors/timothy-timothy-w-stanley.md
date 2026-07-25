@@ -1,6 +1,6 @@
 ---
 nanoid: "cI7e7K"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3a7ktuq22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyko2uu25'
 name: Timothy (Timothy W) Stanley
 affiliation: "University of Manchester "
 bio:

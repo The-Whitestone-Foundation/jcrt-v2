@@ -1,7 +1,7 @@
 ---
 nanoid: "SIfstX"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37osa252s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyesxkc2q'
 title: "A Conversation with Catherine Malabou"
 author: "Nöelle Vahanian; Catherine Malabou; Carissa Devine"
 affilation:

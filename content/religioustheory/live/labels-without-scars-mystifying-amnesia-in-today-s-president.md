@@ -1,5 +1,6 @@
 ---
 nanoid: "IiU9B-"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydgsmh2h'
 title: "Labels Without Scars: Mystifying Amnesia in Today’s Presidential Politics"
 description: "Wendy Felese examines the rhetoric surrounding Barack Obama's presidency, asking whether hopeful political labels conceal historical scars and uncertainty."
 date: '2009-01-27'
@@ -16,7 +17,6 @@ tags:
   - "identity"
   - "hope"
 ---
-
 As I was watching television last evening with one of my children, a commercial came on that piqued my interest. Combining an urban rap beat with creative animated graphics, the script was suggestive of new beginnings, with an air of excitement and possibility.  The voice of the rapper was male - energetic and signifying youth, hope, change, and a brighter future. “The earth is sustainable…equality is attainable.” As the message reached its end, three words played out on the screen. “*Are you in?*”
 
 Yes, I thought. Yes, I get it…I’m in! The commercial turned out to be for Starbucks.  Clearly, if you “get it” you drink their coffee. I don’t. If there is one caveat of postmodernism (and I recognize the irony), it might be something like - there is no neutral view from no-where. Citing this fact, feminist Lila Abu-Lughod, in conversation with colleague and fellow anthropologist Kirin Narayan, coined the term *halfie* to describe her unique social position as a scholar. As an anthropologist, her own identity pivots on her multi-ethnic background (Palestinian/American) and her gender. These are fecund vantage points upon which to offer her subjective analyses. She describes advantages and disadvantages associated with these multiple identities, but as an ethnographer, it is imperative that she socially locate herself. In other words, *how* she sees is as pertinent as *what* she describes. That allows Abu-Lughod a unique flexibility in her approach – a way of thwarting static categorizations and entrenched methodologies, and yet it renders her vulnerable to a bewildering array of critiques from multiple audiences.

@@ -1,5 +1,6 @@
 ---
 nanoid: "6zhQNf"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydda3q2q'
 title: "Habit and Errors and Composition"
 description: "Adam Katz uses Gertrude Stein to connect habit, error, attention, composition, reciprocity, and political exchange in an account of how novelty emerges."
 date: '2009-04-26'
@@ -17,7 +18,6 @@ tags:
   - "reciprocity"
   - "political-exchange"
 ---
-
 Everything stays the same but composition, says Gertrude Stein.  So, what is “everything,” and what is “composition”?  (For that matter, what is the “same”?) Everything is all that falls below the threshold of our attentiveness, what remains as background, noise, the field of semblances, subsumed within habit.  Composition is the raising and lowering of that threshold.  In her “Reflection on the Atomic Bomb” Stein asserted that
 
 > What is the use, if they are really as destructive as all that there is nothing left and if there is nothing there nobody to be interested and nothing to be interested about. If they are not as destructive as all that then they are just a little more or less destructive than other things and that means that in spite of all destruction there are always lots left on this earth to be interested or to be willing and the thing that destroys is just one of the things that concerns the people inventing it or the people starting it off, but really nobody else can do anything about it so you have to just live along like always, so you see the atomic [bomb] is not at all interesting…

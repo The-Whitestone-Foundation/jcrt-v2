@@ -1,5 +1,6 @@
 ---
 nanoid: "G7BPVt"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydpnm32h'
 title: "Catholics vs. the Catholic Hierarchy in the 2008 Election"
 description: "Victor Taylor examines Catholic voters in Pennsylvania, abortion politics, and the Church hierarchy's influence on conscience in the 2008 presidential election."
 date: '2008-10-26'
@@ -16,7 +17,6 @@ tags:
   - "pennsylvania"
   - "church-and-state"
 ---
-
 Pundits and analysts from the mainstream, cable, and marginal media all predict that Pennsylvania will play a decisive role, if not the deciding role, in the 2008 presidential election.  The McCain and Obama campaigns have crisscrossed the Keystone state, leaving no regular stone unturned for votes in urban, suburban, and rural areas.  The famous Pennsylvania "T," the wide, more or less rural bulk of the state between Pittsburgh and Philadelphia, has been of special interest in these closing weeks. In national nightly news broadcasts we have heard more references to Scranton, PA than we have heard in the past fifty years.  Like the southern portion of the state, Scranton is culturally conservative with a high population of people from the so-called "manufacturing class," although industry has pretty much dried up in the last five years.
 
 One would think that with the economy in such bad shape that votes from this area would be the proverbial "low hanging fruit" for Senator Obama.  His veep pick is a "kid from Scranton" and his now mildly supportive former primary opponent, Hillary Clinton, "hails" from the city, too.  Home foreclosures are high and, in a real test of how difficult times are, the classified sections of the local newspapers are filled with "for sale" ads:  Harleys, deer rifles, fishing gear, small boats, and ATVs—the fundamental "liquid" assets of a real  "Joe, the plumber."  Very bad economic times, clever campaign slogans such as "Jobs, Baby, Jobs," and regional loyalty, however, do not trump a very powerful counter-weight to voting Democratic, voter conscience instruction from Catholic bishops.

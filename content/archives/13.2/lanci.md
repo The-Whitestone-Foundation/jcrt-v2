@@ -1,7 +1,7 @@
 ---
 nanoid: "cbkTHy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37aja3q2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy7ehen2t'
 title: "Zombie 2.0: Subjectivation in Times of Apocalypse."
 author: "Yari Lanci"
 affilation:

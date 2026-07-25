@@ -1,5 +1,6 @@
 ---
 nanoid: "B60Zc8"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydtexh2h'
 title: "Crisis: A Liberation from Capitalism?"
 description: "Creston Davis interprets the 2008 financial collapse through Hegel and Badiou, arguing that crisis exposes labor's power and capitalism's hidden dependence."
 date: '2008-10-04'
@@ -16,7 +17,6 @@ tags:
   - "hegel"
   - "alain-badiou"
 ---
-
 A certain story underlines the truth of the relationship between the rich and the poor.  Set in a small farming town, a group of workers would meet every week for lunch at a local restaurant.  The men talk about anything from local politics to sports and the occasional vulgar gossip.  Lunch was always paid for by a rich man (who was also part of the group) until one day the working class men starting complaining that the tax code disproportionately favored the wealthy and unfairly burdened the workers and farmers of the town.  By the end of the meeting, the rich man got so mad that he refused to pay for everyone’s lunch.  The cliché moral of the story is that the workers committed the fallacy of biting the hand that feeds them.
 
 But this interpretation fails to see the true reality that resides in the power of the workers (the majority of the labor force in society), a reality that Hegel rightly identified in his master/slave dialectic in the Phenomenology of Spirit, namely that the power only appears to be in the hands of the master (capitalist, bankers etc.) but really resides in the hands of those who create and produce reality as such, namely the slaves (workers).  In this story, it is almost as if this group of workers could not exist until the rich man brings them together and thus brings them to “life” (appearance) out of sheer and gratuitous grace that is a fake—a mask behind which the reality of a enslavement logic lay.

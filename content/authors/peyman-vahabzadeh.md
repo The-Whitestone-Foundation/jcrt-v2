@@ -1,6 +1,6 @@
 ---
 nanoid: "C702f9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3ahpqnq2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiynllzc2q'
 name: Peyman Vahabzadeh
 affiliation: "University of Victoria, Brock University"
 bio:

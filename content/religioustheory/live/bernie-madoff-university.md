@@ -1,5 +1,6 @@
 ---
 nanoid: "dpkDjN"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyd7nso22'
 title: "Bernie Madoff University"
 description: "Victor Taylor satirizes the corporate university through Bernie Madoff's Ponzi scheme, exposing a higher education model built on appearance, debt, and profit."
 date: '2009-07-16'
@@ -16,7 +17,6 @@ tags:
   - "ponzi-scheme"
   - "neoliberalism"
 ---
-
 I remember the morning Bernie Madoff  was to be sentenced that it seemed I was waiting along with everyone else to find out if “disgraced financier” got twelve years or one hundred and fifty years in federal prison, a.k.a. “Camp Cupcake.”
 
 By now, the details are well known.  Madoff, according to the authorities, took in money from one group to payout nominal “dividends” to another group without ever having made an investment; that is, without investing except in his own lavish lifestyle.

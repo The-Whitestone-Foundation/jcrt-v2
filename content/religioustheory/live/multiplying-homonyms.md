@@ -1,5 +1,6 @@
 ---
 nanoid: "kY6bMJ"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydm2el2h'
 title: "Multiplying Homonyms"
 description: "Artur Sebastian Rosman uses homonymy to assess a JCRT debate between Clayton Crockett and Agata Bielik-Robson over theology and the postmodern sublime."
 date: '2008-11-20'
@@ -16,7 +17,6 @@ tags:
   - "clayton-crockett"
   - "agata-bielik-robson"
 ---
-
 It may be that the history of thought is a history of misreadings, but there is no need to proliferate misreadings for the sake of misreadings.  Clarity of thought, whenever it is possible, is preferable to sloppy thinking.  Or is that too presumptuous?
 
 Thinking about the Titanic missing the iceberg does have its merits, although it is much more fascinating and thought-provoking to see the ship hit that clear mountain of ice.  In the same way a polemic gains clarity through the definition of its terms, because such definition facilitates a head-on clash of ideas that might lead to a more transparent dialogue.

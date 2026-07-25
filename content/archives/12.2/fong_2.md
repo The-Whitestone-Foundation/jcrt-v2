@@ -1,7 +1,7 @@
 ---
 nanoid: "qdU9hY"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37ebpf22e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyan7gh2h'
 title: "A Review of Peter Sloterdijk, Spheres, Volume One: Bubbles"
 author: "Benjamin Fong"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "YNKKGQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3akeu3c2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyoilmy2s'
 name: Nikolay Karkov
 affiliation:
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "1LpHMT"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh363jkzc2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixrseyp25'
 title: 'Tsimtsum In Life Of Pi, Part 2 (Daniel Reiser)'
 description: "The following is the second of a four-part series. The first can be found here. Hasidism, which translated Kabbalah into psychological categories, was a target"
 date: '2020-12-08T05:12:16.000Z'

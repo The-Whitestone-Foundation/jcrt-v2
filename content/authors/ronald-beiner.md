@@ -1,6 +1,6 @@
 ---
 nanoid: "qm6aGQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3aearwl25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiymd7su2p'
 name: Ronald Beiner
 affiliation: "University of Toronto"
 bio:

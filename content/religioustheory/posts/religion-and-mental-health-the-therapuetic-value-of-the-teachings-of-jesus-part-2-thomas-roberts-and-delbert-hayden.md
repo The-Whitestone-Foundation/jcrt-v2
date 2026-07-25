@@ -1,7 +1,7 @@
 ---
 nanoid: "fwjR6w"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36gv6rv2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixwg77z2e'
 title: >-
   Religion And Mental Health – The Therapuetic Value Of The Teachings of Jesus,
   Part 2 (Thomas Roberts and Delbert Hayden)

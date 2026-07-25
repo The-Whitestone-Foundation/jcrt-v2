@@ -1,7 +1,7 @@
 ---
 nanoid: "N3hJg_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36aqmps2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixtnbkw22'
 title: "On Becoming a Radical Theologian."
 author: "Richard L. Rubenstein"
 affilation:

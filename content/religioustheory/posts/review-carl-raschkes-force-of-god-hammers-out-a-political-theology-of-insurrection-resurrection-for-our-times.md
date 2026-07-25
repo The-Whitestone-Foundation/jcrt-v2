@@ -1,7 +1,7 @@
 ---
 nanoid: "VWavJM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36yyaci2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy4rfec2q'
 title: >-
   Review – Carl Raschke’s Force of God Hammers Out A Political Theology Of
   Insurrection/Resurrection For Our Times

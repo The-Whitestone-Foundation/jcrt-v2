@@ -1,5 +1,6 @@
 ---
 nanoid: "JIg5gI"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydhpna2s'
 title: "Dis-Enclosure and the Inaugural Moment"
 description: "Carl A. Raschke reads Obama's inauguration beside Jean-Luc Nancy's Dis-Enclosure, asking how event, faith, Christianity, and the future resist philosophy."
 date: '2009-01-22'
@@ -17,7 +18,6 @@ tags:
   - "deconstruction"
   - "christianity"
 ---
-
 Why do I write one day after the historic inauguration of President Barack Obama about the significance, or possibly the ultimate inconsequence, of Jean-Luc Nancy's recently translated and immediately discussed book *La Déclosion* (*Dis-enclosure*)?  Both the book and the event (and, of course, both book and event often have reciprocal, overlapping if not co-extensive qualities) can be considered specific instances of an aporia in the Derridean sense.
 
 First, the event.  Inauguration day represented in many ways the deconstruction of the historic text of American presidential politics, as everyone across the political spectrum from the Rev. Jeremiah Wright to Fox News' Bill O'Reilley seemed to acknowledge.  Contrary to much received opinion, Obama's presidency was indeed, as the former candidate himself said it was in effect, a deconstruction of the binary politics of right and left.  But the aporia itself, or what has at times been called the "moment of deconstruction", could be seen in the subtle disquietudes of the day.  Much of the inaugural crowd came to hear something approaching Martin Luther King's "I have a dream" speech, and what they got instead was a mild version of Churchill's "Blood, sweat, and tears."  The day seemed not as "inaugural" as many had hoped, yet neither was it simply replay.  It represented not so much continuity and not so much discontinuity.

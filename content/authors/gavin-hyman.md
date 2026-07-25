@@ -1,6 +1,6 @@
 ---
 nanoid: "j1pFWX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3b56dc62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyv5rxd2h'
 name: Gavin Hyman
 affiliation: "University of Lancaster, UK"
 bio:

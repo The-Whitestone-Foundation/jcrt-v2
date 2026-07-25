@@ -1,5 +1,6 @@
 ---
 nanoid: "8QGMcO"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyde4df2t'
 title: "Born Again"
 description: "Colbey Emmerson Reid reads The Descent as a feminist resurrection narrative in which trauma, monstrosity, repetition, and rebirth unsettle Christian allegory."
 date: '2009-04-02'
@@ -17,7 +18,6 @@ tags:
   - "trauma"
   - "monstrosity"
 ---
-
 Neil Marshall’s 2006 horror film *The Descent* is about six female high-risk adventurers who get lost in an uncharted Appalachian cave system inhabited by cannibalistic monsters. These turn out to be an undiscovered species of southerners produced through inbreeding, perfectly adapted to live alone in solitary pockets of the mountains until it’s time to go hunting.  You know, just like the real ones.
 
 Naturally, the entryway to the cave collapses, the spelunkers are separated, and the women’s only hope of survival is to find another exit while evading the creatures. The women who try to outwit the monsters with their more highly evolved brains, like the English teacher and zoology doctoral candidate, who determines her opponents hunt by sound and can be eluded by silence, are the first to go. The only way to survive against the so-called “crawlers” is by becoming as feral as they, which is to say, by hacking them to pieces with climbing tools before they rip your throat out.

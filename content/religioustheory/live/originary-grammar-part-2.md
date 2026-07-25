@@ -1,5 +1,6 @@
 ---
 nanoid: "4ErZI7"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydf2sc2q'
 title: "Originary Grammar, Part 2"
 description: "Adam Katz develops originary grammar through sentence forms, metaphysics, imperatives, and the linguistic ordering that continually defers social violence."
 date: '2009-03-09'
@@ -16,7 +17,6 @@ tags:
   - "imperatives"
   - "generative-anthropology"
 ---
-
 R.C. Collingwood exposed a basic principle of Western metaphysics when he noted that “[t]he logician’s proposition seemed to me a kind of ghostly double of the grammarian’s sentence… Grammar recognizes a form of discourse called the sentence, and among sentences…one kind which express[es] statements  In grammatical phraseology, these are indicative sentences; and logicians have almost always tried to conceive the ‘unit of thought’, or that which is either true or false, as a kind of logical ‘soul’ whose linguistic ‘body’ is the indicative sentence.”  Eric Gans’ originary hypothesis enables us to pursue further the implications of this observation regarding the reduction of claims about reality to true or false propositions modeled upon the indicative sentence.  Gans defines metaphysics as that form of thought that presupposes the primacy of the declarative sentence.   Metaphysics thereby obscures the primacy of the ostensive sign, and the secondariness of the imperative.
 
 The purpose of this obfuscation in ancient and modern Enlightenments is to neutralize the power of the ostensive:  as the originary sign, the ostensive defers violence and constitutes the community around a central, sacred object; however, once contending sacralities struggle to occupy the same space the power of the ostensive becomes a source of violence.  Metaphysics attempts to do the work done by ritual in the more compact community—it defers violence in a world where market interaction breaks the bonds of ritual by placing the representation of a reality that transcends all specific desires and demands at the ethical center of society.

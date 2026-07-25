@@ -1,5 +1,6 @@
 ---
 nanoid: "8a890i"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydqjuq2q'
 title: "Laclau and Democracy in Light of the Current Crisis"
 description: "Daniel Douglas Miller uses Ernesto Laclau's account of democracy and populism to argue that the financial crisis demands political action, not passive hope."
 date: '2008-10-20'
@@ -16,7 +17,6 @@ tags:
   - "populism"
   - "financial-crisis"
 ---
-
 The current global economic crisis has obviously given rise to all kinds of legitimate fears.  But it has also given rise to expressions of hope.  Some, including colleagues contributing to this blog, have spoken of turning points in history, the possible end of the neo-liberal economic orthodoxies which gained institutional power in the late 1970s and 1980s, and hinted at the possibility of a more democratic future coming out of this current crisis.
 
 I share these hopes.  It seems to me that the present moment is ripe with potential, and it may in fact be the case that thirty years from now this period will be viewed as the same kind of watershed as the election of Ronald Reagan in 1980.  But, unfortunately, I believe the chances remain at least even that very little will change, that this present crisis will have been a hurdle for the expansion of neo-liberalism, only serving to slow it for a time.  What will determine which of these possible futures (among others) emerges from the present crisis will be the nature of political action undertaken in the immediate future.

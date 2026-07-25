@@ -1,7 +1,7 @@
 ---
 nanoid: "p2TJBH"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh366j2mk2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixsuvlh2h'
 title: >-
   Reframing The Adwa Victory As A Decolonizing Praxis –  Discourse Around
   Colonization In The Ethiopian Context, Part 1 (Rode Molla)

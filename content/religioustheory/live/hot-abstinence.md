@@ -1,5 +1,6 @@
 ---
 nanoid: "xHyTjt"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydl3u527'
 title: "Hot Abstinence"
 description: "Colbey Emmerson Reid reads Twilight as a Gothic theology of erotic abstinence, sacrifice, subjectivity, and the unexpectedly sensual force of Puritanism."
 date: '2008-12-20'
@@ -17,7 +18,6 @@ tags:
   - "gothic"
   - "film-criticism"
 ---
-
 In *Twilight*, Summit Entertainment’s new teen vampire movie based on the first book in Stephenie Meyer’s four-part series, Catherine Hardwicke (*Thirteen*, *The Nativity Story*) rescues a banal romance by stylizing the novel’s overwrought prose as operatic and its clichés as Romantic archetypes. Hardwicke’s prolonged “quoting” of Meyer’s novel in the film thereby both perfectly replicates the original text and thoroughly departs from it, turning a chronologically straightforward story devoted to old-fashioned values like beauty, transcendence and the union of soul-mates into something avant-garde, experimental, even postmodern.
 
 The film is a long quote that forms a new narrative precisely through its pretense of devotion to the original. The new narrative, I’ll argue, is a myth for the subjects of global recession, a theory not only representing but explaining the paradox of lush asceticism that can be found but lacks context in the original novel.

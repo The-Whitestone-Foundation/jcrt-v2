@@ -1,5 +1,6 @@
 ---
 nanoid: "ayIQRX"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiybbwcd2h'
 title: "What Egypt Really Means for the Theory of Religion"
 description: "Carl A. Raschke interprets Egypt's 2011 uprising through May 1968, youth politics, Derrida, and a universalist religion without renewed religiosity in public."
 date: '2011-02-12'
@@ -16,7 +17,6 @@ tags:
   - "universalism"
   - "religion-without-religion"
 ---
-
 The Egyptian "revolution", which was not really a revolution in the Western historical sense, is now a *fait accompli*.   But what was it, really?  What does it mean in the long haul?
 
 The events of the last two weeks strike me as a post-modern, perhaps even "post-Muslim" version of the events of May 1968, which French intellectuals today still recall as *l'eventement*, the "event", or events, that supposedly changed everything.

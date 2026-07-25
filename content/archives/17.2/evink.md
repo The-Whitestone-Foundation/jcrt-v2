@@ -1,7 +1,7 @@
 ---
 nanoid: "TcFszc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36nqtaa2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixytyou25'
 title: "Religious Life After Religion: Jan PatoČKa’s Care for the Soul and Its Relation to Religion."
 author: "Eddo Evink"
 affilation:

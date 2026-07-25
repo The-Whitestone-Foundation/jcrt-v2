@@ -1,6 +1,6 @@
 ---
 nanoid: "7fvlq-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bihlxl25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyz7n572k'
 name: Barbara Muraca
 affiliation: "Oregon State University"
 bio:

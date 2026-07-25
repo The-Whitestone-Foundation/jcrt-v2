@@ -1,5 +1,6 @@
 ---
 nanoid: "l-YkT7"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydrgy527'
 title: "The Hinge of History, or Žižek’s “New Politics”"
 description: "Carl A. Raschke asks whether the 2008 financial crash marks a hinge of history, testing Žižek's call for a new politics against consumer capitalism today."
 date: '2008-10-17'
@@ -16,7 +17,6 @@ tags:
   - "slavoj-žižek"
   - "consumerism"
 ---
-
 The expression "hinge of history" has often been reserved for certain brief epochs in which the momentum of events, though not necessarily pre-determined, is poised to turn decidedly in a different direction than has been the case for a relatively long time theretofore.   The enthronement of Charlemagne at the start of the ninth century was just such a moment.  Martin Luther's posting of his 95 theses in 1517 was another one.  The assassination of the Austrian archduke Ferdinand in 1914 was still another example.  There are many more illustrations and iterations of how the course of human affairs can "swing" one way or the other on these hinges.  Sometimes the hinges themselves are rusted and fragile.  There may be a definite "swing" along a certain trajectory for a brief moment, but the "hardware" on which historical processes are mounted may itself be rusted and coming apart.  In that case the whole system collapses and doesn't swing any particular way.
 
 It is not clear yet whether we are about to see history swing on a hinge, or whether the hinge itself is faulty.  Let me explain further what I mean.  The current global financial crisis has been both rued by the public at large and welcomed at the same time with a certain amount of *Schadenfreude* by many political, moral, and spiritual critics of global capitalism.  For those who never bought into the neo-liberal fantasy of planetary integration and prosperity through the viral spread of "democratic capitalism" (what is usually implied in the economic take on "globalization"), which gained favor and fervor following the fall of the Soviet Union in 1991, the events of the past month has seemed like divine justice, if not personal vindication.  It has also re-energized - perhaps we should say "retro-energized" - intellectual, though not necessarily activist, Marxism.   Until the last day or so it also seemed to have guaranteed the election of Barack Obama.

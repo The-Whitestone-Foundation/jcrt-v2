@@ -1,5 +1,6 @@
 ---
 nanoid: "QZGsn8"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydmwkz2e'
 title: "A New Project for Correlational/Continental Theology (Again)"
 description: "Wilson Dickinson proposes a renewed correlational and Continental theology that can connect public events, experience, mysticism, and constructive thought."
 date: '2008-11-11'
@@ -16,7 +17,6 @@ tags:
   - "mysticism"
   - "constructive-theology"
 ---
-
 I was still in college during the 2000 presidential election, when the American democratic process was seemingly dissolving in front of our eyes.  While it was spoken about several times in a religion course I was taking, a friend of mine told me that the professor of his “Introduction to Political Science” class had yet to mention it and, instead, had stuck to the outline of his old yellow notes.  Given the events of this week, and the focus of this blog since its recent inception, I must warn you that this post is at risk of doing much the same, sticking to what I had planned to write on and excluding myself from the more pressing and important conversations of the day.
 
 Yet, this backdrop of political concern and engagement is not something that is limited to this week or this blog, but it seems to have become the primary focus of scholarship at the fruitful nexus of continental philosophy and theology for the last couple of years (if not decades).  While I have followed this trend with great interest, I would like to propose a new (and I would argue complementary) agenda or project for this field.

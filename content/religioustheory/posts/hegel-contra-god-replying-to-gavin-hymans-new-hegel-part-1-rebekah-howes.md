@@ -1,7 +1,7 @@
 ---
 nanoid: "CumHrg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh35r3ql525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixnx7jy2j'
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 1 (Rebekah
   Howes)

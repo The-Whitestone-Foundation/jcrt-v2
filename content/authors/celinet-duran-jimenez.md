@@ -1,6 +1,6 @@
 ---
 nanoid: "mQDdsR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bfsm7525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyycuk72h'
 name: Celinet Duran Jimenez
 affiliation: "State University of New York Oswego"
 bio: |-

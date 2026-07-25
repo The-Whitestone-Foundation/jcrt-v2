@@ -1,6 +1,6 @@
 ---
 nanoid: "IKgjS1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3azco6d2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyttiis2q'
 name: Jason Alvis
 affiliation: "University of Vienna, Univeristy of Denver"
 bio:

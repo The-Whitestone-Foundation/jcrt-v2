@@ -1,6 +1,6 @@
 ---
 nanoid: "uODDCy"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3ayegfl2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiytji2y2s'
 name: Jeffrey J Williams
 affiliation: "University of Missouri-Columbia"
 bio:

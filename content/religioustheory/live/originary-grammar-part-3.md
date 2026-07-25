@@ -1,5 +1,6 @@
 ---
 nanoid: "-3dm95"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyd6rrp2h'
 title: "Originary Grammar, Part 3"
 description: "Adam Katz extends originary grammar through Eric Gans, metaphysics, imperatives, global law, and the need for signs capable of deferring political violence."
 date: '2009-08-01'
@@ -17,7 +18,6 @@ tags:
   - "international-law"
   - "violence"
 ---
-
 Eric Gans likes to speak of his “originary hypothesis” regarding the origin of language as a “new way of thinking.”  In my view, a new way of thinking means thinking in a new idiom, with a new vocabulary and grammar—an idiom of inquiry.
 
 Gans’ originary hypothesis completes the “linguistic turn” of 20th century thought—the intuition guiding the dismantling of metaphysics by 20th century thinkers was that language doesn’t represent some external and independent reality; on the contrary, language, or more generally, signs, is constitutive of anything we can call a human reality.  What Gans’ hypothesis does is explain why language is constitutive:  because it was through the sign that our immediate ancestors transcended the mimetic rivalry that perpetually threatened their existence by discovering/inventing a way of deferring violence.  Without Gans’ hypothesis, the linguistic turn remains hostage to victimary thought, which, following and slightly inflecting Gans’ talk at the [annual Generative Anthropology conference](http://www.anthropoetics.ucla.edu/views/vw375.htm) on June 20, I would define as the insistence that claims to metaphysical hierarchies are really disguises legitimating social and political hierarchies.

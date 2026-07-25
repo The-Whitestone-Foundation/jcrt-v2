@@ -1,5 +1,6 @@
 ---
 nanoid: "3qC8mB"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydjjfm25'
 title: "The Business of the Real and the Unreality of Business"
 description: "Victor Taylor examines corporate failure and the 2008 economic crisis, arguing that business models conceal the Real they claim to master through metrics."
 date: '2008-12-27'
@@ -16,7 +17,6 @@ tags:
   - "management"
   - "corporate-failure"
 ---
-
 In the past few months we have heard the gruesome details of various business failures across the American and global economies, which, in a certain respect, is even more terrifying than the actual occurrence of the disasters themselves.  It is awful that bad things happen; we accept this as a fact of life; however, when bad things happen and it slowly begins under someone’s nose, then the merely awful becomes the tragic—preventable disaster.  Why didn’t the government repair the levees in New Orleans before Katrina?  Or, why didn’t someone tell us that there were no WMD in Iraq?  Actually, someone did, but the reader gets my point.
 
 The recent global collapse of various business sectors, I will argue, should not be seen in this light.  Yes, the circumstances that led up to the ruin of parts of the banking and financial sectors did begin under the noses of those in power.  This is not the same as the levees in New Orleans, however.  No one fixed the levees because government (state and/or federal) was lazy and/or incompetent and/or out of money.  Perhaps there was even some malicious and willful neglect.  Who knows?  The banking and financial problems, which are the “heart of the system,” however, were not problems to be fixed or covered up; they were “problems” that made a lot of people a lot of money.

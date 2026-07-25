@@ -1,5 +1,6 @@
 ---
 nanoid: "nh2LaY"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydfvwm2p'
 title: "“Post-America”: An Exchange"
 description: "David Hale and Carl A. Raschke exchange views on American decline, debt, empire, irony, and the uncertain line between the audacity and arrogance of hope."
 date: '2009-02-10'
@@ -16,7 +17,6 @@ tags:
   - "messianism"
   - "political-irony"
 ---
-
 “When all truth is lost, we at least have irony.” I have always loved Kierkegaard for that remark. In close competition for my affections is Nietzsche’s “hope is the last cry of the slave class.” Is his not the season of the ironical slave? - A time of smug satisfaction that those who are more equal are now in charge of all the rest of the equals? - A time of hope that all things will turn out for the better because of some invisible guiding hand of goodness?
 
 I fear I am hopelessly caught between Kierkegaard’s cynicism and Nietzsche’s utter lack of determinism. Without truth and without hope can there be any life at all? It is in this lifeless indeterminism, somewhere between Kierkegaard and Nietzsche, that I wish to respond to Carl Raschke’s rather dark blogs.

@@ -1,6 +1,6 @@
 ---
 nanoid: "a2IvtG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3aupo7y2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiysbkqa2q'
 name: "Joshua Samuel"
 affiliation: "Union Theological Seminary"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "oWv7ry"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh35y4yfs2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixqfam22q'
 title: 'Entheogens, Spirituality, And Modern Myths, Part 2 (John Cuda)'
 description: "The following is the second of a three-part series. The first can be found here. Symbolically, the idea of going beyond the edge of the ordinary world to"
 date: '2021-10-12T21:31:25.000Z'

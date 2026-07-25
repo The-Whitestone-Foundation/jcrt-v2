@@ -1,7 +1,7 @@
 ---
 nanoid: "2ISHJQ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh374vxm22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy64vut2h'
 title: "Hegel and the Gift of Sacrifice."
 author: "Joseph Cohen"
 affilation:

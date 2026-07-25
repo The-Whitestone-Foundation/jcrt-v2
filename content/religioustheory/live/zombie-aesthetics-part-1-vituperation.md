@@ -1,5 +1,6 @@
 ---
 nanoid: "KeQuam"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyd5tc32h'
 title: "Zombie Aesthetics, Part 1: Vituperation"
 description: "Colbey Emmerson Reid reads zombie cinema as an allegory of democracy, citizenship, agency, fascism, and the political limits of the Western action hero."
 date: '2009-10-25'
@@ -17,7 +18,6 @@ tags:
   - "political-aesthetics"
   - "film-criticism"
 ---
-
 *Zombieland*, Ruben Fleischer’s 2009 contribution to the cinema of zombie apocalypse, resembles many recent contributions to the genre in its stylization of the undead into a political allegory. The film’s opening voiceover describes the collapse of America into Zombieland, a construct of post-nationhood in which American citizens and governments have perished in the chaos caused by a virulent strain of mad cow disease that turns people into sponge-brained monsters.
 
 Fleischer’s zombies are a cautionary tale against the American lifestyle, whence the over-consumption of fast-food hamburgers causes epidemic hyperglycemia as the country is overrun by people who are grouchy, indiscriminately ravenous, and too fat to run away from danger. The reinvention of America falls not to lawmakers, since cops on their lunch break are some of the first to fall prey to the disease, but four oddballs whose circumstantial rendering as post-American even before the apocalypse equips them to survive in their country’s wasteland. Besides being physically fit, they’re all loners divested of a conventional sense of family and belonging.

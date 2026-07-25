@@ -1,7 +1,7 @@
 ---
 nanoid: "pDu8E4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37zpop62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyimvx725'
 title: "Knocking on Heaven’s Door: American Religion in the Age of Counterculture"
 author: "Michael J Gilmour"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "SoL3O1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh35s4m4a2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixocngv27'
 title: "The Re-Enchantment of Bodies: the Transformative Power of Charismatic Healings in the “World of Phenomena”"
 author: "Anna-Maria Magnasco"
 affilation:

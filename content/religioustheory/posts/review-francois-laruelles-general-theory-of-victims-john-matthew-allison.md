@@ -1,7 +1,7 @@
 ---
 nanoid: "WJDr0y"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36v2z622e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy3gf6v2t'
 title: Review – François Laruelle’s General Theory of Victims (John Matthew Allison)
 description: "*Laruelle, François. General Theory of Victims. Translated by Jessie Hock and Alex Dubilet. Malden, MA: Polity Press, 2015. ISBN-10: 0745679617 It highlights"
 date: '2016-11-17T08:00:18.000Z'

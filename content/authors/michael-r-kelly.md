@@ -1,6 +1,6 @@
 ---
 nanoid: "Hx23G7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3amgb3f25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyp7tqe2n'
 name: Michael R. Kelly
 affiliation: "UNIVERSITY OF SAN DIEGO"
 bio:

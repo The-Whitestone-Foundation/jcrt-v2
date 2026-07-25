@@ -1,5 +1,6 @@
 ---
 nanoid: "Y7QHLj"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydbhfx2k'
 title: "Obama’s Cairo Speech: “New Beginning,” New Enlightenment, or Old Aporia?"
 description: "Carl A. Raschke analyzes Obama's Cairo speech as a bid for renewed relations between Islam and the West, testing its promise against Enlightenment aporias."
 date: '2009-06-05'
@@ -17,7 +18,6 @@ tags:
   - "deconstruction"
   - "religion-and-politics"
 ---
-
 I've been sifting through the text of President [Barack Obama's speech](http://www.whitehouse.gov/the_press_office/Remarks-by-the-President-at-Cairo-University-6-04-09/) in Cairo calling for a "new beginning" in relations between Muslims and the West.  I've been looking for those portions of the text that would truly seem *inaugural*, if I may be permitted a little piece of "pomo-speak".   I have to say that I am impressed, and that there is almost nothing in the address that comes across as hackneyed, platitudinous, or downright fulsome, as one would expect of any "political" speech, even though this one is political to the core.  Is it inaugural?  Yes, truly, and the reason has to do with far more than what the White House itself is saying.
 
 There were concerns voiced by Obama's critics in the run-up to his "historic" talk before a sometimes approving, sometimes demuring (especially when he criticized violence against Israeli citizens in Palestine) audience of largely Egyptian students.  The critics predicted he would spend a lot of time "apologizing" for America and its historical sins.  He didn't.  They also warned that he might end up pandering to his Islamic audience.  He didn't do that either.  Obama defied in this instance the effort of many of his critics to brand him as one who kowtows to enemies simply by "making nice."

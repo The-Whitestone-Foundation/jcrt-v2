@@ -1,5 +1,6 @@
 ---
 nanoid: "PZATFI"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydilww22'
 title: "Originary Grammar"
 description: "Adam Katz introduces originary grammar through Eric Gans, René Girard, language, mimetic crisis, and the emergence of signs that defer collective violence."
 date: '2009-01-05'
@@ -17,7 +18,6 @@ tags:
   - "language"
   - "mimetic-desire"
 ---
-
 **By Adam Katz**
 
 Originary grammar *is* the name I give to my work within Eric Gans’ originary hypothesis of the origin of language.  According to the originary hypothesis, the first sign emerges in the midst of a crisis in which the pre-human hominid group is threatened with self-destruction through everyone’s common convergence upon some desired object.  Following Rene Girard’s account of mimetic desire, and attributing to the higher hominids the distinguishing feature of greater mimetic capacity, the originary hypothesis posits a mimetic crisis that leads to the breakdown of the animal pecking order within the group, requiring some new mode of restraint upon mimetic desire and rivalry.

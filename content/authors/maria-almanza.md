@@ -1,6 +1,6 @@
 ---
 nanoid: "p0XZ4u"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3aqbbk22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyqqdip2k'
 name: Maria Almanza
 affiliation: "Randolph College"
 bio:

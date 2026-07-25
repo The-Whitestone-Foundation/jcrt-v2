@@ -1,5 +1,6 @@
 ---
 nanoid: "Ha30ff"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydor5n2t'
 title: "Apocalypse Now? The Subaltern Has Spoken"
 description: "Writing before the 2008 election, Carl A. Raschke considers Obama, globalization, identity politics, and whether an apparent apocalypse signals a new beginning."
 date: '2008-11-03'
@@ -16,7 +17,6 @@ tags:
   - "subalternity"
   - "identity-politics"
 ---
-
 I write this blog one day before the 2008 presidential election, not only because there was an unexpected hole in the schedule of bloggers this fall, but because I wanted to offer these observations before the actual electoral outcome is determined.  I will steadfastly refuse to weigh in with a political opinion on who I personally think should be elected, mainly because as a 501(c) 3 the non-profit organization that sponsors JCRT and this blog is forbidden from doing so.  At the same time, this election has effectively gone on for almost two years and totally dominated the passions and public consciousness of America, and I can say that I will personally be more than happy when it is over. It's sort of like the two weeks I spent in Vienna this past June with a "travel class" from my own university.
 
 We arrived just about the day what German speakers call *die* *Meisterschaft*, or "championship" - opened in that city.  It was still going on when we left, and on my next stop in Amsterdam, where I was planning to visit with my son and family, who live there, it was still going on, at least on the television to which every Dutch citizen glued their gazes in the evening  - as was the case earlier with Austrian citizens and the tens of thousands of curiosity-seekers, beer-sotted fans, and news observers who had crowded into Vienna to participate in some manner.  *Die Meisterschaft*, of course, is the European soccer bacchanalia that takes place every four years in some fortunate, or unfortunate, city on the Continent. Every national team plays every other national team in a protracted, elimination contest that generates far more passion, and bad public behavior, than one could ever generate for the Olmypics.  For the first five days watching Germans, Croats, Turks, and Portuguese paint their faces patriotic colors, swarm and bellow chants in their native languages like some frenzied ratpack in the city's official "fanzone" was exciting and even amusing.  After a week it became not only tedious, but depressing.  The same can be said for the election.

@@ -1,6 +1,6 @@
 ---
 nanoid: "MEy26x"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3ba2jdk2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyw7url2h'
 name: Edward F Mooney
 affiliation:
 bio:

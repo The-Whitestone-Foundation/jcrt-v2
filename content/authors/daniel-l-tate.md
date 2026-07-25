@@ -1,6 +1,6 @@
 ---
 nanoid: "V9zg6D"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bdertn2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyxgg6d2h'
 name: Daniel L Tate
 affiliation: "St. Bonaventure University"
 bio:

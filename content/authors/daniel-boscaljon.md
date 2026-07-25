@@ -1,6 +1,6 @@
 ---
 nanoid: "wBZh6y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bdrbha2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyxlpu527'
 name: Daniel Boscaljon
 affiliation: ""
 bio:

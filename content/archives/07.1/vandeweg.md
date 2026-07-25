@@ -1,7 +1,7 @@
 ---
 nanoid: "MvXw5o"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37u5r6s2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiygp4aa2s'
 title: "Confidence Games: Money and Markets in a World without Redemption"
 author: "R M Van de Weg"
 affilation:

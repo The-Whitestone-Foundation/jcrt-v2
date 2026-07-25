@@ -1,6 +1,6 @@
 ---
 nanoid: "wccsu-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3axfypp2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyt72zp2k'
 name: Jodi Dean
 affiliation: "Hobart and William Smith Colleges"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "KRid_g"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3a3hjrf2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyjahpp2k'
 title: "The Return to Ritual: Violence and Art in the Media Age"
 author: "Tobin Siebers"
 affilation:

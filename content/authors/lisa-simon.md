@@ -1,6 +1,6 @@
 ---
 nanoid: "aAJOyR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3arul4o2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyrceu725'
 name: Lisa Simon
 affiliation: " University of Missoula, Montana"
 bio:
