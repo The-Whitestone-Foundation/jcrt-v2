@@ -1,7 +1,7 @@
 ---
 nanoid: "NlFXz6"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dcomcjo27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh35yzjk52s'
 title: >-
   Truth And Irony –  Beyond Binary Patterns In Theological Reasoning, Part 1
   (Florian Klug)

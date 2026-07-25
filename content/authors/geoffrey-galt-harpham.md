@@ -1,6 +1,6 @@
 ---
 nanoid: "tl8Ft7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfddy2d2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3b4ze352s'
 name: Geoffrey Galt Harpham
 affiliation: "National Humanities Center "
 bio:

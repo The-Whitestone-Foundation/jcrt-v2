@@ -1,7 +1,7 @@
 ---
 nanoid: "ikYesu"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2ddkwxcl2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3726ze62h'
 title: "Judith Butler’s Senses of the Subject."
 author: "Matt Waggoner"
 affilation:

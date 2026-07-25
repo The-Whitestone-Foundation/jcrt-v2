@@ -1,6 +1,6 @@
 ---
 nanoid: "AE5e1o"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2derv3ae2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3aicaha2q'
 name: Perri Druen
 affiliation: "York College of Pennsylvania"
 bio:

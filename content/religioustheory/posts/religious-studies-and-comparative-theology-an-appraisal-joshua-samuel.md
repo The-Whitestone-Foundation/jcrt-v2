@@ -1,7 +1,7 @@
 ---
 nanoid: "MwI-m-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2ddc2ayy25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36pqwuf2k'
 title: Religious Studies and Comparative Theology – An Appraisal (Joshua Samuel)
 description: "The title “religious scholar,” it must be remembered, is a very ambiguous categorization. It could either mean those who are engaged in academic work in the"
 date: '2017-10-09T02:29:56.000Z'

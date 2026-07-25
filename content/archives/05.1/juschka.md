@@ -1,7 +1,7 @@
 ---
 nanoid: "mnGWAd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dehcyut22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3a3u6ws2e'
 title: "The Writing of Ethnography: Magical Realism and Michael Taussig"
 author: "Darlene M Juschka"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "aEoQmx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dedmhvl2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37xfv7s2t'
 title: "Godhead and the Nothing"
 author: "Apple Zefelius Igrek"
 affilation:

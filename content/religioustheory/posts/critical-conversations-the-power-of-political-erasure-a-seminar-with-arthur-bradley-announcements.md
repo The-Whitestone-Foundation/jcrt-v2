@@ -1,7 +1,7 @@
 ---
 nanoid: "Trcr2f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dcksn2l2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh35uk7si2h'
 title: >-
   Critical Conversations – The Power Of “Political Erasure”, A Seminar With
   Arthur Bradley (Announcements)

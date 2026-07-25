@@ -1,6 +1,6 @@
 ---
 nanoid: "1uDRRa"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deirm6l2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3a5jfcv25'
 name: William D Dean
 affiliation: "Iliff School of Theology"
 bio:

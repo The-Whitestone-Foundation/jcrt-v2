@@ -1,7 +1,7 @@
 ---
 nanoid: "vmdEIq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dcw3gvt22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36bnoe22e'
 title: "Altizer, My Theological Contemporary."
 author: "John B. Cobb Jr."
 affilation:

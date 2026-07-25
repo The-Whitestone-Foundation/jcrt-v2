@@ -1,6 +1,6 @@
 ---
 nanoid: "tsmtx1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dffckyj25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3b7bjmn2k'
 name: Eric Bain-Selbo
 affiliation: "Western Kentucky University, Lebanon Valley College"
 bio:

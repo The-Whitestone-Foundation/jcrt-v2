@@ -1,6 +1,6 @@
 ---
 nanoid: "BKnHm1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deoc4jt2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3adz4qy2q'
 name: Ruud Welten
 affiliation: "Erasmus University and Tilburg University"
 bio:

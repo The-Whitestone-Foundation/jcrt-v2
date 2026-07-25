@@ -1,6 +1,6 @@
 ---
 nanoid: "miurIP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2detwzn32t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3akrgpy2h'
 name: Nicholas Mather
 affiliation: "East Los Angeles College"
 bio:

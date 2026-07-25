@@ -1,6 +1,6 @@
 ---
 nanoid: "-ukdgb"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2df2ajte2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3as6mgk2q'
 name: Leslie C. Miller
 affiliation: "Colorado Mesa University"
 bio:

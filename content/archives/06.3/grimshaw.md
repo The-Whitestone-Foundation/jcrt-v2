@@ -1,7 +1,7 @@
 ---
 nanoid: "sQVjzv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2decouo22s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh37wcrek2q'
 title: "Did God Die in the Christian Century?"
 author: "Mike Grimshaw"
 affilation:

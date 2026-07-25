@@ -1,6 +1,6 @@
 ---
 nanoid: "FuTlgo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dexmgf627'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3ap3hfs2t'
 name: Martin Hägglund
 affiliation: "Harvard Society of Fellows"
 bio:

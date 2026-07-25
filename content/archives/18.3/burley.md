@@ -1,7 +1,7 @@
 ---
 nanoid: "-UDQ09"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dcyyw6j25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36f4ijd25'
 title: "“A Language in Which to Think of the World” – Animism, Indigenous Traditions, and the Deprovincialization of Philosophy of Religion."
 author: "Mikel Burley"
 affilation:

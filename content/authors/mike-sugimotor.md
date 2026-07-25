@@ -1,6 +1,6 @@
 ---
 nanoid: "ZtGLnA"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deusv7k2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3als4mq2h'
 name: "Mike Sugimoto"
 affiliation: "University of Puget Sound"
 bio: ""

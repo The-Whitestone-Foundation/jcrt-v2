@@ -1,6 +1,6 @@
 ---
 nanoid: "nBU1CM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dfrb65t2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bmlio325'
 name: Adam F. Braun
 affiliation: ""
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "G8-j1C"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2deqdv2k2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3aghmfw2h'
 name: Rebekah Gordon
 affiliation: ""
 bio:

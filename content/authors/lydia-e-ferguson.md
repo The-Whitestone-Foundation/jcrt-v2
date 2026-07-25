@@ -1,6 +1,6 @@
 ---
 nanoid: "kHhHFV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2dezixxt2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3arcxpi2q'
 name: Lydia E. Ferguson
 affiliation: "Auburn University"
 bio:

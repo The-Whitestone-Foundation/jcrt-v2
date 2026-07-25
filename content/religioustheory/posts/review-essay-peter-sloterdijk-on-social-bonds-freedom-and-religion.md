@@ -1,7 +1,7 @@
 ---
 nanoid: "V8Dcqi"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2ddkhvyx2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36zmybi2q'
 title: 'Review Essay – Peter Sloterdijk on Social Bonds, Freedom, and Religion'
 description: "The English reception of Peter Sloterdijk has been ambivalent at best, relying largely on hearsay from European interlocutors (Žižek especially) or gossip about"
 date: '2016-03-10T02:19:00.000Z'

@@ -1,7 +1,7 @@
 ---
 nanoid: "T0eDCc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mr2ddfgftl2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh36tpft22q'
 title: "Machines of Loving Grace: Angels, Cyborgs, and Postsecular Labour."
 author: "Marika Rose"
 affilation:
