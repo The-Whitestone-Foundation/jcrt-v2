@@ -1,7 +1,7 @@
 ---
 nanoid: "njoxy4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy5v2qu2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vaiuq342b'
 title: "Narratives of Overcoming: Disability Theory and the Crash Reel."
 author: "Joseph M. M. Aldinger"
 affilation:

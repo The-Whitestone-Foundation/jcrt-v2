@@ -1,6 +1,6 @@
 ---
 nanoid: "Oz44bi"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyzw7x22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcy4ud42b'
 name: Andrew Tatusko
 affiliation: "Seton Hall University"
 bio:

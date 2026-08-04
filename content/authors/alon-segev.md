@@ -1,6 +1,6 @@
 ---
 nanoid: "3EXTxG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiz2bj2u2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcz3lnt2s'
 name: Alon Segev
 affiliation: "Philosophisches Seminar Ruprechts-Karl Universität, Heidelberg "
 bio:

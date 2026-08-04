@@ -1,6 +1,6 @@
 ---
 nanoid: "Km2bVw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyse5u22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vccagdp2g'
 name: Joshua M Hall
 affiliation: "University of Alabama at Birmingham"
 bio:

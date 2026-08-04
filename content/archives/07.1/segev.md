@@ -1,7 +1,7 @@
 ---
 nanoid: "7wH7m8"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiygrqbl2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vbcn24f2l'
 title: "Thought and Belief: the Attempt at Speculative Seeing in Hegel"
 author: "Alon Segev"
 affilation:

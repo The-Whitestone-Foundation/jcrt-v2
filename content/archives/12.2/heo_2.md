@@ -1,7 +1,7 @@
 ---
 nanoid: "J6NG1x"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyaklc22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vaqgx5526'
 title: "Three Classic Readings of ‘Ethnographic Practice’ in Religious Studies‘"
 author: "Angie Heo"
 affilation:

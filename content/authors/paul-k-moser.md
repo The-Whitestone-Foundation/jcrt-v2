@@ -1,6 +1,6 @@
 ---
 nanoid: "btNCfN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiynue5o22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vbw5al72c'
 name: Paul K. Moser
 affiliation: "LOYOLA UNIVERSITY CHICAGO"
 bio:

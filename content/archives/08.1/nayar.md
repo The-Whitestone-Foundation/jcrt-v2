@@ -1,7 +1,7 @@
 ---
 nanoid: "qr1jDj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyg3laa2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vbapbjh2g'
 title: "Transmitting Culture"
 author: "Pramod K Nayar"
 affilation:

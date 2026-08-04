@@ -1,7 +1,7 @@
 ---
 nanoid: "qvA8jl"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixuj3aa2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7qg7xz2f'
 title: >-
   Jonathan Edwards And The Vegan Elect – An Unconventional Calvinist Reading,
   Part 1 (Tadd Ruetenik)

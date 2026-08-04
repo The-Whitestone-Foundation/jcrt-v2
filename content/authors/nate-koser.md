@@ -1,6 +1,6 @@
 ---
 nanoid: "5hVbkW"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyou6pg22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vbyvc3i2q'
 name: Nate Koser
 affiliation: "Licensed Professional Counselor"
 bio:

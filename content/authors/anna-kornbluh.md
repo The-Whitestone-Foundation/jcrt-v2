@@ -1,6 +1,6 @@
 ---
 nanoid: "U_hiCz"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyzqcey2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcxlmnh2g'
 name: Anna Kornbluh
 affiliation:
 bio:

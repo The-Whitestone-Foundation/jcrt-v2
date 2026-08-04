@@ -1,6 +1,6 @@
 ---
 nanoid: "kdl8Ox"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyu4t6e2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vchbyb72g'
 name: James Cochran
 affiliation: ""
 bio:

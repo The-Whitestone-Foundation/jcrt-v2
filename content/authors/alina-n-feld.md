@@ -1,6 +1,6 @@
 ---
 nanoid: "m0ye0L"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiz2dbqb2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vczakvm2b'
 name: Alina N. Feld
 affiliation: "Hofstra University"
 bio:

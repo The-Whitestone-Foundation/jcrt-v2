@@ -1,7 +1,7 @@
 ---
 nanoid: "Xk44tB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixrbomo22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7hxjw62w'
 title: >-
   Critical Conversations  – American Indian Worldview And The Twinned Cosmos Of
   Indigenous America  (Barbara Alice Mann, Onondawaga, Bear Clan And Tink

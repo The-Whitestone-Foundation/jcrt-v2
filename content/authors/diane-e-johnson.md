@@ -1,6 +1,6 @@
 ---
 nanoid: "XJSy9h"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiywkmlq2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcorxx72g'
 name: Diane E Johnson
 affiliation: "Lebanon Valley College"
 bio:

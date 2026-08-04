@@ -1,6 +1,6 @@
 ---
 nanoid: "f5SBJV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiytdeqg22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vceyqfh2c'
 name: Jennifer R Rust
 affiliation:
 bio:

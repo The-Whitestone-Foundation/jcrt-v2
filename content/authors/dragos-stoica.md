@@ -1,6 +1,6 @@
 ---
 nanoid: "xg9mno"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiywehd22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcoao532e'
 name: Dragos Stoica
 affiliation:
 bio:
