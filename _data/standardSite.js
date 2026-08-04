@@ -94,7 +94,16 @@ function contentPath(prefix, slug, data) {
 
 function normalizeDate(value) {
 	if (!value) return "";
-	const date = value instanceof Date ? value : new Date(String(value));
+	const date =
+		value instanceof Date
+			? value
+			: typeof value === "number"
+				? new Date(value)
+				: typeof value === "string"
+					? new Date(value)
+					: typeof value?.toISOString === "function"
+						? new Date(value.toISOString())
+						: new Date(value);
 	if (Number.isNaN(date.getTime())) return "";
 	return date.toISOString();
 }
