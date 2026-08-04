@@ -26,6 +26,12 @@ function assert(condition, message) {
 	if (!condition) errors.push(message);
 }
 
+function isValidIsoTimestamp(value) {
+	if (typeof value !== "string" || !value) return false;
+	const date = new Date(value);
+	return !Number.isNaN(date.getTime()) && date.toISOString() === value;
+}
+
 function isAtUri(value) {
 	return typeof value === "string" && value.startsWith("at://");
 }
@@ -109,9 +115,13 @@ function main() {
 		assert(record?.site, `${label} is missing site.`);
 		assert(record?.title, `${label} is missing title.`);
 		assert(record?.publishedAt, `${label} is missing publishedAt.`);
+		assert(isValidIsoTimestamp(record?.publishedAt), `${label} publishedAt must be a valid ISO timestamp.`);
 		assert(record?.path?.startsWith("/"), `${label} path must start with "/".`);
 		assert(record?.path?.endsWith("/"), `${label} path must use the canonical JCRT trailing slash.`);
 		assert(!documentPaths.has(record.path), `Duplicate Standard.site document path: ${record.path}`);
+		if (record?.updatedAt) {
+			assert(isValidIsoTimestamp(record.updatedAt), `${label} updatedAt must be a valid ISO timestamp.`);
+		}
 		if (record?.pdfUrl) {
 			assert(record.pdfUrl.startsWith("https://"), `${label} pdfUrl must start with https://.`);
 			assert(record.pdfUrl.toLowerCase().endsWith(".pdf"), `${label} pdfUrl must end with .pdf.`);
