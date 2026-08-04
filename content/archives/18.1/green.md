@@ -1,7 +1,7 @@
 ---
 nanoid: "r8xCyM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriixxzfax2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7yj4d52l'
 title: "Non-Ordinary States, Entheogens, and the Unconscious."
 author: "Rodger K. Green"
 affilation:

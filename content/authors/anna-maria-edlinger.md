@@ -1,6 +1,6 @@
 ---
 nanoid: "7J2cRX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiyzpf3a2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcxj5hm2b'
 name: Anna-Maria Edlinger
 affiliation:
 bio:

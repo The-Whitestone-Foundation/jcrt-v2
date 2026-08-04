@@ -1,6 +1,6 @@
 ---
 nanoid: "wzZQJv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiytfzpq2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcf7zt62w'
 name: Jeffrey W Robbins
 affiliation: "Lebanon Valley College, Le Moyne College"
 bio:

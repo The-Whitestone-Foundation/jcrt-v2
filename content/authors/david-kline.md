@@ -1,6 +1,6 @@
 ---
 nanoid: "Q_u_N0"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiywtbsq2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcpki5526'
 name: David Kline
 affiliation: "University of Tennessee"
 bio:

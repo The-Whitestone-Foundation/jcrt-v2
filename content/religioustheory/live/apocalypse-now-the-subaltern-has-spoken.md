@@ -1,6 +1,6 @@
 ---
 nanoid: "Ha30ff"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydor5n2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vazyfga25'
 title: "Apocalypse Now? The Subaltern Has Spoken"
 description: "Writing before the 2008 election, Carl A. Raschke considers Obama, globalization, identity politics, and whether an apparent apocalypse signals a new beginning."
 date: '2008-11-03'

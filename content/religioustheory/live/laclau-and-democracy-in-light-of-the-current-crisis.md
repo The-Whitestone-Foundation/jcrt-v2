@@ -1,6 +1,6 @@
 ---
 nanoid: "8a890i"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiydqjuq2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vb254wv2l'
 title: "Laclau and Democracy in Light of the Current Crisis"
 description: "Daniel Douglas Miller uses Ernesto Laclau's account of democracy and populism to argue that the financial crisis demands political action, not passive hope."
 date: '2008-10-20'

@@ -1,7 +1,7 @@
 ---
 nanoid: "4fN9H1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mriiy3mpjs2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vacg6nx2c'
 title: 'Collective Desire and the Pathology of the Individual, Part 1 (Jodi Dean)'
 description: "An interesting strand of contemporary theory designates the specificity of capitalism with the qualifier “cognitive.” I do not write under this term, although I"
 date: '2016-10-10T09:56:45.000Z'
