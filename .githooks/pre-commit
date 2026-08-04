@@ -5,4 +5,22 @@
 #
 # Enabled via `git config core.hooksPath .githooks` (run automatically by the
 # `prepare` npm script on install).
-node scripts/generate-nanoids.mjs --staged || exit 1
+
+# Git hooks run in a minimal shell; try common ways to locate Node.
+if command -v node >/dev/null 2>&1; then
+	NODE_BIN="$(command -v node)"
+elif [ -s "$HOME/.nvm/nvm.sh" ]; then
+	. "$HOME/.nvm/nvm.sh"
+	NODE_BIN="$(command -v node 2>/dev/null)"
+elif [ -x "/opt/homebrew/bin/node" ]; then
+	NODE_BIN="/opt/homebrew/bin/node"
+elif [ -x "/usr/local/bin/node" ]; then
+	NODE_BIN="/usr/local/bin/node"
+fi
+
+if [ -z "$NODE_BIN" ]; then
+	echo "pre-commit: Node.js not found in PATH. Install Node or load your Node environment for Git hooks." >&2
+	exit 1
+fi
+
+"$NODE_BIN" scripts/generate-nanoids.mjs --staged || exit 1
