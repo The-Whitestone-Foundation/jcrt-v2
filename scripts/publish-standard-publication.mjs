@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import yaml from "js-yaml";
+import * as yaml from "js-yaml";
 
 const ROOT = process.cwd();
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");

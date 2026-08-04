@@ -28,3 +28,5 @@ content/archives/**/*.tif
 content/archives/**/*.tiff
 content/archives/**/*.gif
 public/images/**/*.pdf
+/.tmp-buildawesome-alpha
+/.tmp-buildawesome

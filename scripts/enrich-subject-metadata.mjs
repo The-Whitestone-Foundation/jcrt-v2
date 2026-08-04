@@ -2,7 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import readline from "node:readline";
-import yaml from "js-yaml";
+import * as yaml from "js-yaml";
 import { controlledSubjects } from "../_config/subjects.js";
 
 const ROOT = process.cwd();

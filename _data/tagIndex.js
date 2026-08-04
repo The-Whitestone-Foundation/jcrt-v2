@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import yaml from "js-yaml";
+import * as yaml from "js-yaml";
 import { authorSlug, splitAuthors } from "../_config/authorSlug.js";
 
 const CACHE_PATH = path.join(process.cwd(), ".cache", "tag-index-cache.json");

@@ -36,19 +36,42 @@ function runGit(args) {
 		.filter(Boolean);
 }
 
-function changedMarkdownFiles() {
+function changedFiles() {
 	const commitRef = String(process.env.COMMIT_REF || "").trim();
 	const cachedCommitRef = String(process.env.CACHED_COMMIT_REF || "").trim();
 
 	if (commitRef && cachedCommitRef && commitRef !== cachedCommitRef) {
-		const files = runGit(["diff", "--name-only", `${cachedCommitRef}...${commitRef}`, "--", "*.md"]);
+		const files = runGit(["diff", "--name-only", `${cachedCommitRef}...${commitRef}`]);
 		if (files) return files;
 	}
 
-	const previousCommitFiles = runGit(["show", "--pretty=", "--name-only", "HEAD", "--", "*.md"]);
+	const previousCommitFiles = runGit(["show", "--pretty=", "--name-only", "HEAD"]);
 	if (previousCommitFiles) return previousCommitFiles;
 
 	return null;
+}
+
+function isImpactfulBuildChange(filePath) {
+	const file = String(filePath || "").trim();
+	if (!file) return false;
+
+	// Run full checks when core content/templates/config/build surface changed.
+	if (
+		file.startsWith("content/") ||
+		file.startsWith("_includes/") ||
+		file.startsWith("_data/") ||
+		file.startsWith("_config/") ||
+		file.startsWith("public/") ||
+		file.startsWith("netlify/") ||
+		file === "eleventy.config.js" ||
+		file === "netlify.toml" ||
+		file === "package.json" ||
+		file === "package-lock.json"
+	) {
+		return true;
+	}
+
+	return /\.(md|njk|html|xml|yaml|yml|json|js|cjs|mjs)$/i.test(file);
 }
 
 function runFullBuild() {
@@ -64,25 +87,27 @@ function runFastBuild() {
 function main() {
 	fs.mkdirSync(".cache", { recursive: true });
 
-	const mdFiles = changedMarkdownFiles();
-	const canDetectMdChanges = Array.isArray(mdFiles);
-	const hasMdChanges = canDetectMdChanges ? mdFiles.length > 0 : IS_PRODUCTION_CONTEXT;
+	const files = changedFiles();
+	const canDetectChanges = Array.isArray(files);
+	const impactfulFiles = canDetectChanges ? files.filter(isImpactfulBuildChange) : [];
+	const hasImpactfulChanges = canDetectChanges ? impactfulFiles.length > 0 : IS_PRODUCTION_CONTEXT;
 
 	console.log(`[build:netlify] Context: ${CONTEXT || "unknown"} (branch: ${BRANCH || "unknown"})`);
-	if (canDetectMdChanges) {
-		console.log(`[build:netlify] Changed .md files: ${mdFiles.length}`);
-		if (mdFiles.length > 0) {
-			const preview = mdFiles.slice(0, 10);
-			for (const file of preview) console.log(`[build:netlify] md: ${file}`);
-			if (mdFiles.length > preview.length) {
-				console.log(`[build:netlify] md: ...and ${mdFiles.length - preview.length} more`);
+	if (canDetectChanges) {
+		console.log(`[build:netlify] Changed files: ${files.length}`);
+		console.log(`[build:netlify] Impactful files: ${impactfulFiles.length}`);
+		if (impactfulFiles.length > 0) {
+			const preview = impactfulFiles.slice(0, 10);
+			for (const file of preview) console.log(`[build:netlify] file: ${file}`);
+			if (impactfulFiles.length > preview.length) {
+				console.log(`[build:netlify] file: ...and ${impactfulFiles.length - preview.length} more`);
 			}
 		}
 	} else {
-		console.log("[build:netlify] Unable to detect changed .md files; defaulting to safe mode.");
+		console.log("[build:netlify] Unable to detect changed files; defaulting to safe mode.");
 	}
 
-	const shouldRunFull = IS_PRODUCTION_CONTEXT && hasMdChanges;
+	const shouldRunFull = IS_PRODUCTION_CONTEXT && hasImpactfulChanges;
 	if (FORCE_FULL_BUILD && FORCE_FAST_BUILD) {
 		console.error("[build:netlify] FORCE_FULL_NETLIFY_BUILD and FORCE_FAST_NETLIFY_BUILD cannot both be 1.");
 		process.exit(1);
@@ -98,12 +123,12 @@ function main() {
 		return;
 	}
 	if (shouldRunFull) {
-		console.log("[build:netlify] Running full production checks (markdown changed).");
+		console.log("[build:netlify] Running full production checks (impactful files changed).");
 		runFullBuild();
 		return;
 	}
 
-	console.log("[build:netlify] Running fast checks (no markdown changes or non-production context).");
+	console.log("[build:netlify] Running fast checks (no impactful changes or non-production context).");
 	runFastBuild();
 }
 
