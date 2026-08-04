@@ -273,7 +273,13 @@ function byPathThenDate(a, b) {
 	return String(a.path).localeCompare(String(b.path)) || String(a.publishedAt).localeCompare(String(b.publishedAt));
 }
 
+// ponytail: see _data/tagIndex.js — freezing lets Eleventy's Merge skip the
+// per-template deep copy of this ~12MB record set.
 export default function standardSite() {
+	return Object.freeze(buildStandardSite());
+}
+
+function buildStandardSite() {
 	const { metadata, standardConfig, siteUrl, filesUrl, publicationSite } = readMetadata();
 	const name = String(standardConfig.name || "The Journal for Cultural and Religious Theory").trim();
 	const description = String(standardConfig.description || metadata.description || "").trim();

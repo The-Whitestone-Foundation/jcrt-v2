@@ -274,7 +274,16 @@ let inProcessMemo = {
 	value: null,
 };
 
+// ponytail: Object.freeze lets Eleventy's data-cascade Merge return this by
+// reference instead of deep-copying ~139k nodes into every template's data
+// (see @11ty/eleventy-utils/src/Merge.js frozen-source shortcut). Ceiling: the
+// shortcut only fires while nothing else defines a `tagIndex` key; if a
+// template's front matter ever does, Merge will throw on the frozen target.
 export default async function tagIndexData() {
+	return Object.freeze(await buildTagIndex());
+}
+
+async function buildTagIndex() {
 	const prev = readJson(CACHE_PATH, { version: CACHE_VERSION, files: {} });
 	const prevFiles = prev?.version === CACHE_VERSION && prev?.files && typeof prev.files === "object" ? prev.files : {};
 
