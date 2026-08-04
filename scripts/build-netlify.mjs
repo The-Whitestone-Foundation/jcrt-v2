@@ -84,18 +84,46 @@ function runFastBuild() {
 	runNpmScript("build:netlify:fast");
 }
 
+function runContentBuild() {
+	console.log("[build:netlify] Mode: content");
+	runNpmScript("build:netlify:content");
+}
+
+function isFullBuildOnlyChange(filePath) {
+	const file = String(filePath || "").trim();
+	if (!file) return false;
+
+	// Infrastructure and build pipeline changes must run all validations.
+	if (
+		file.startsWith("scripts/") ||
+		file.startsWith("netlify/") ||
+		file.startsWith("_config/") ||
+		file === "eleventy.config.js" ||
+		file === "netlify.toml" ||
+		file === "package.json" ||
+		file === "package-lock.json"
+	) {
+		return true;
+	}
+
+	return false;
+}
+
 function main() {
 	fs.mkdirSync(".cache", { recursive: true });
 
 	const files = changedFiles();
 	const canDetectChanges = Array.isArray(files);
 	const impactfulFiles = canDetectChanges ? files.filter(isImpactfulBuildChange) : [];
+	const fullBuildOnlyFiles = canDetectChanges ? impactfulFiles.filter(isFullBuildOnlyChange) : [];
 	const hasImpactfulChanges = canDetectChanges ? impactfulFiles.length > 0 : IS_PRODUCTION_CONTEXT;
+	const hasFullBuildOnlyChanges = canDetectChanges ? fullBuildOnlyFiles.length > 0 : IS_PRODUCTION_CONTEXT;
 
 	console.log(`[build:netlify] Context: ${CONTEXT || "unknown"} (branch: ${BRANCH || "unknown"})`);
 	if (canDetectChanges) {
 		console.log(`[build:netlify] Changed files: ${files.length}`);
 		console.log(`[build:netlify] Impactful files: ${impactfulFiles.length}`);
+		console.log(`[build:netlify] Full-build-only files: ${fullBuildOnlyFiles.length}`);
 		if (impactfulFiles.length > 0) {
 			const preview = impactfulFiles.slice(0, 10);
 			for (const file of preview) console.log(`[build:netlify] file: ${file}`);
@@ -107,7 +135,8 @@ function main() {
 		console.log("[build:netlify] Unable to detect changed files; defaulting to safe mode.");
 	}
 
-	const shouldRunFull = IS_PRODUCTION_CONTEXT && hasImpactfulChanges;
+	const shouldRunFull = IS_PRODUCTION_CONTEXT && hasFullBuildOnlyChanges;
+	const shouldRunContent = IS_PRODUCTION_CONTEXT && hasImpactfulChanges && !hasFullBuildOnlyChanges;
 	if (FORCE_FULL_BUILD && FORCE_FAST_BUILD) {
 		console.error("[build:netlify] FORCE_FULL_NETLIFY_BUILD and FORCE_FAST_NETLIFY_BUILD cannot both be 1.");
 		process.exit(1);
@@ -123,8 +152,14 @@ function main() {
 		return;
 	}
 	if (shouldRunFull) {
-		console.log("[build:netlify] Running full production checks (impactful files changed).");
+		console.log("[build:netlify] Running full production checks (infrastructure/build files changed).");
 		runFullBuild();
+		return;
+	}
+
+	if (shouldRunContent) {
+		console.log("[build:netlify] Running content mode (content/templates changed, infra unchanged).");
+		runContentBuild();
 		return;
 	}
 
