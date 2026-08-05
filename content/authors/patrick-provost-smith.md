@@ -1,6 +1,6 @@
 ---
 nanoid: "XsANyv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vbwgz4q2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvbblfn2k'
 name: Patrick Provost-Smith
 affiliation:
 bio:

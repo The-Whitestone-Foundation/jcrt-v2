@@ -1,7 +1,7 @@
 ---
 nanoid: "KR-gKn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vaekrxq25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpunzhk42v'
 title: >-
   Review – The Evolution of the Religious Factor in Fantasy Role-Playing Games
   (Jeffrey Scholes)

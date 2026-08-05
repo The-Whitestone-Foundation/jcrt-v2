@@ -1,6 +1,6 @@
 ---
 nanoid: "C5yFsw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vccywjn26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvg4w452k'
 name: Joseph Cohen
 affiliation: "University of Dublin"
 bio:

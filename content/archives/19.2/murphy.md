@@ -1,7 +1,7 @@
 ---
 nanoid: "7a3NPB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7n5ndc2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuemnld2s'
 title: "Lacan and Pneumatology."
 author: "Mark Murphy"
 affilation:

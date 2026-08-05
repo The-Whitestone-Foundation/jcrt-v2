@@ -1,7 +1,7 @@
 ---
 nanoid: "6CJTcz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vaofm6b2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpurvidf2k'
 title: "Anti-Cartesian Meditations: on the Orign of the Philosophical Anti-Discourse of Modernity."
 author: "Enrique Dussel"
 affilation:

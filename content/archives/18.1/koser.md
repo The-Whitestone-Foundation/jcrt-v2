@@ -1,7 +1,7 @@
 ---
 nanoid: "JT_cqT"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7ybouo2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuizlen2k'
 title: "Of the Ties That B(L)Ind."
 author: "Nate Koser"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "QrSeml"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vczd4wy2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvofyjn2k'
 name: Ali Hval
 affiliation: "University of Iowa"
 bio:

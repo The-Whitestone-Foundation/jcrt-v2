@@ -1,7 +1,7 @@
 ---
 nanoid: "iCU0C9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7swjdt2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpugudis26'
 title: "Spring in Italy: Anna Karenina and the God Who May Be."
 author: "Emily McAvan"
 affilation:

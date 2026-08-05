@@ -1,7 +1,7 @@
 ---
 nanoid: "x0r5cc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vawq4ij2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuusgvc26'
 title: "The German Discovery of the World: Renaissance Discoveries with the Strange and Marvelous"
 author: "Mary B Campbell"
 affilation:

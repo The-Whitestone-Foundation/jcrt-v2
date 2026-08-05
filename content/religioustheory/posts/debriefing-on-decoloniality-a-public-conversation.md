@@ -1,7 +1,7 @@
 ---
 nanoid: "ZjXYGE"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7grn4h2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpubzy5u2y'
 title: 'Debriefing On Decoloniality – A Public Conversation, Part 1'
 description: "Part 1 presents a transcripted debrief from participants in the decoloniality conference, mapping core disagreements, shared concerns, and conceptual stakes"
 date: '2021-06-15T02:55:34.000Z'

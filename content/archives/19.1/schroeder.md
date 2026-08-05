@@ -1,7 +1,7 @@
 ---
 nanoid: "dm5b5V"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7nyvgq2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuewzmd2s'
 title: "Kenotic Theology, Buddhism, and Time."
 author: "Brian ShŪDŌ Schroeder"
 affilation:

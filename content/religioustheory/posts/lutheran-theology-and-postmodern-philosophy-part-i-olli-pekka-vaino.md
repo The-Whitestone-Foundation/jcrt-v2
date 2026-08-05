@@ -1,7 +1,7 @@
 ---
 nanoid: "07qG1C"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v7vqk5d26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuhxnfh25'
 title: 'Lutheran Theology And Postmodern Philosophy, Part I (Olli-Pekka Vaino)'
 description: "Recently, Martin Luther and the Lutheran Reformation has received heavy criticism in various theological and philosophical circles It highlights key arguments"
 date: '2018-05-01T02:54:39.000Z'

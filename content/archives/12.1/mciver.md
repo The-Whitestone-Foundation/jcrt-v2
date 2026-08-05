@@ -1,7 +1,7 @@
 ---
 nanoid: "Em_TXr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vas2v5u2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdputckqm2w'
 title: "Shame without Shame: What Remains of Modernist Aesthetics"
 author: "Mia L McIver"
 affilation:

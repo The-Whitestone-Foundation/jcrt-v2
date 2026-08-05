@@ -1,7 +1,7 @@
 ---
 nanoid: "HiG_37"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vabffy52l'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpumt25m2y'
 title: Review – The Greatest Trick God Ever Pulled… (Benjamin Steele-Fisher)
 description: "*Kotsko, Adam. The Prince of this World. Stanford: Stanford University Press, 2017. ISBN-10: 1503600203. Hardcover, paperback, e-book It highlights key"
 date: '2016-12-08T08:00:35.000Z'

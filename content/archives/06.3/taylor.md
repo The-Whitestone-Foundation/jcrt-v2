@@ -1,7 +1,7 @@
 ---
 nanoid: "eOaizS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vbdklfp2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuztn3g2f'
 title: "Theorizing Religion II"
 author: "Victor Taylor"
 affilation:

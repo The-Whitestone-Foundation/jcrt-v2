@@ -1,7 +1,7 @@
 ---
 nanoid: "RAE3v7"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v72tgiz2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu5hwa32v'
 title: "Religion’s Relationship with Public Bioethics: a Critical Historical Assessment and Pragmatic Method for Inclusive Discourse"
 author: "Christopher Durante"
 affilation:

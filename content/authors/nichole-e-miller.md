@@ -1,6 +1,6 @@
 ---
 nanoid: "rNAT3x"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vby7bve2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvbxat42y'
 name: Nichole E Miller
 affiliation: "University of California, Irvine "
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "U8j-ev"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcj4ry72c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvihwkm2y'
 name: Hemopereki Simon
 affiliation: "University of Kent"
 bio:

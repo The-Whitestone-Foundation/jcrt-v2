@@ -1,7 +1,7 @@
 ---
 nanoid: "FyJqwU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vacdokj2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpun5lz42w'
 title: 'Review – Caputo, The Unconditional, The Folly of God (Richard M. Allen)'
 description: "*Caputo, John D. The Folly of God: A Theology of the Unconditional. Salem, OR: Polebridge Press, 2016. ISBN-10: 1598151711. Paperback, e-book Paperback, e-book."
 date: '2016-10-13T08:00:48.000Z'

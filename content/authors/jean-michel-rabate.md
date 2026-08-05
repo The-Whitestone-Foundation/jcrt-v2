@@ -1,6 +1,6 @@
 ---
 nanoid: "3Ak5UD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcfvzvg2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvhajqh2e'
 name: Jean-Michel Rabaté
 affiliation: "University of Pennsylvania"
 bio:

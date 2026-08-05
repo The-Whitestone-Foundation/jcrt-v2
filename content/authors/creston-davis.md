@@ -1,6 +1,6 @@
 ---
 nanoid: "ciIKoD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcrs4y72v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvljiou2g'
 name: Creston Davis
 affiliation:
 bio:

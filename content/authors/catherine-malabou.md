@@ -1,6 +1,6 @@
 ---
 nanoid: "BWxahR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vctprn72v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvmaxk52k'
 name: Catherine Malabou
 affiliation:
 bio:

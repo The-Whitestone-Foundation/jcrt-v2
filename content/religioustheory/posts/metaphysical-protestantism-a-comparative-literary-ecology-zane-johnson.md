@@ -1,7 +1,7 @@
 ---
 nanoid: "840G4z"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7v6zn4wx2c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu4ypwg2c'
 title: Metaphysical Protestantism-A Comparative Literary Ecology (Zane Johnson)
 description: "The influence of religions on human attitudes toward the non-human, whether beneficent or deleterious, has been the subject of serious scholarly debate since at"
 date: '2024-06-05T14:50:13.000Z'

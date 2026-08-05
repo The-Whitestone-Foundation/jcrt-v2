@@ -1,6 +1,6 @@
 ---
 nanoid: "MgdLqX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcy7eeh2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvny6an2l'
 name: Andrew Stone Porter
 affiliation: "Bellarmine University"
 bio:

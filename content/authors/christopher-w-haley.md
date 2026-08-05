@@ -1,6 +1,6 @@
 ---
 nanoid: "nKRiBd"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3ms7vcsddsq2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvlq3la26'
 name: Christopher W Haley
 affiliation:
 bio:
