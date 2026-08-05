@@ -26,44 +26,44 @@ season: spring
 year: 2008
 pages:
 subjects:
-  - label: "Christianity"
-    scheme: "FAST"
-    identifier: "fst00859599"
-    uri: "https://id.worldcat.org/fast/859599"
-    category: "topical"
-  - label: "Islam"
-    scheme: "FAST"
-    identifier: "fst00979776"
-    uri: "https://id.worldcat.org/fast/979776"
-    category: "topical"
-  - label: "Just war doctrine"
-    scheme: "FAST"
-    identifier: "fst00985112"
-    uri: "https://id.worldcat.org/fast/985112"
-    category: "topical"
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Religion and politics"
-    scheme: "FAST"
-    identifier: "fst01093842"
-    uri: "https://id.worldcat.org/fast/1093842"
-    category: "topical"
-  - label: "Religious fundamentalism"
-    scheme: "FAST"
-    identifier: "fst01094078"
-    uri: "https://id.worldcat.org/fast/1094078"
-    category: "topical"
-  - label: "September 11 Terrorist Attacks (2001)"
-    scheme: "FAST"
-    identifier: "fst01112794"
-    uri: "https://id.worldcat.org/fast/1112794"
-    category: "event"
-  - label: "Terrorism"
-    scheme: "FAST"
-    identifier: "fst01148101"
-    uri: "https://id.worldcat.org/fast/1148101"
-    category: "topical"
+  - label: 'Christianity'
+    scheme: 'FAST'
+    identifier: 'fst00859599'
+    uri: 'https://id.worldcat.org/fast/859599'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Fundamentalism'
+    scheme: 'FAST'
+    identifier: 'fst00936186'
+    uri: 'https://id.worldcat.org/fast/936186'
+    category: 'topical'
+  - label: 'Islam'
+    scheme: 'FAST'
+    identifier: 'fst00979776'
+    uri: 'https://id.worldcat.org/fast/979776'
+    category: 'topical'
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
+  - label: 'Religion and politics'
+    scheme: 'FAST'
+    identifier: 'fst01093842'
+    uri: 'https://id.worldcat.org/fast/1093842'
+    category: 'topical'
+  - label: 'Religion and violence'
+    scheme: 'FAST'
+    identifier: 'fst01791006'
+    uri: 'https://id.worldcat.org/fast/1791006'
+    category: 'title'
+  - label: 'Terrorism'
+    scheme: 'FAST'
+    identifier: 'fst01148101'
+    uri: 'https://id.worldcat.org/fast/1148101'
+    category: 'topical'
 ---

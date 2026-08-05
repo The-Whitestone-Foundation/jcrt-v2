@@ -26,39 +26,44 @@ season: summer
 year: 2024
 pages: 1-16
 subjects:
-  - label: "Ahiṃsā"
-    scheme: "FAST"
-    identifier: "fst00801935"
-    uri: "https://id.worldcat.org/fast/801935"
-    category: "topical"
-  - label: "Asceticism"
-    scheme: "FAST"
-    identifier: "fst00818425"
-    uri: "https://id.worldcat.org/fast/818425"
-    category: "topical"
-  - label: "Fasting"
-    scheme: "FAST"
-    identifier: "fst00921717"
-    uri: "https://id.worldcat.org/fast/921717"
-    category: "topical"
-  - label: "Jaina ethics"
-    scheme: "FAST"
-    identifier: "fst00981169"
-    uri: "https://id.worldcat.org/fast/981169"
-    category: "topical"
-  - label: "Jainism"
-    scheme: "FAST"
-    identifier: "fst00981236"
-    uri: "https://id.worldcat.org/fast/981236"
-    category: "topical"
-  - label: "Nonviolence"
-    scheme: "FAST"
-    identifier: "fst01039027"
-    uri: "https://id.worldcat.org/fast/1039027"
-    category: "topical"
-  - label: "Sallekhanā"
-    scheme: "FAST"
-    identifier: "fst01104071"
-    uri: "https://id.worldcat.org/fast/1104071"
-    category: "topical"
+  - label: 'Ahiṃsā'
+    scheme: 'FAST'
+    identifier: 'fst00801935'
+    uri: 'https://id.worldcat.org/fast/801935'
+    category: 'topical'
+  - label: 'Asceticism'
+    scheme: 'FAST'
+    identifier: 'fst00818425'
+    uri: 'https://id.worldcat.org/fast/818425'
+    category: 'topical'
+  - label: 'Death'
+    scheme: 'FAST'
+    identifier: 'fst00888613'
+    uri: 'https://id.worldcat.org/fast/888613'
+    category: 'topical'
+  - label: 'Fasting'
+    scheme: 'FAST'
+    identifier: 'fst00921717'
+    uri: 'https://id.worldcat.org/fast/921717'
+    category: 'topical'
+  - label: 'Jaina ethics'
+    scheme: 'FAST'
+    identifier: 'fst00981169'
+    uri: 'https://id.worldcat.org/fast/981169'
+    category: 'topical'
+  - label: 'Jainism'
+    scheme: 'FAST'
+    identifier: 'fst00981236'
+    uri: 'https://id.worldcat.org/fast/981236'
+    category: 'topical'
+  - label: 'Nonviolence'
+    scheme: 'FAST'
+    identifier: 'fst01039027'
+    uri: 'https://id.worldcat.org/fast/1039027'
+    category: 'topical'
+  - label: 'Sallekhanā'
+    scheme: 'FAST'
+    identifier: 'fst01104071'
+    uri: 'https://id.worldcat.org/fast/1104071'
+    category: 'topical'
 ---

@@ -26,50 +26,30 @@ keywords:
   - alterity
   - meister-eckhart
   - rationality
-subjects:
-  - label: "Caputo, John D."
-    scheme: "FAST"
-    identifier: "fst00026653"
-    uri: "https://id.worldcat.org/fast/26653"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Husserl, Edmund, 1859-1938"
-    scheme: "FAST"
-    identifier: "fst00042628"
-    uri: "https://id.worldcat.org/fast/42628"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Messianism"
-    scheme: "FAST"
-    identifier: "fst01017438"
-    uri: "https://id.worldcat.org/fast/1017438"
-    category: "topical"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
 abstract:
 year: 1999
 sort_id: 07
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Messianism'
+    scheme: 'FAST'
+    identifier: 'fst01017438'
+    uri: 'https://id.worldcat.org/fast/1017438'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
 ---
 Kavka - Rationality of Derrida's Religion - JCRT 1.1 
 ## The Rationality of Derrida's "Religion without Religion": A Phenomenological Gift for John D. Caputo

@@ -28,50 +28,40 @@ keywords:
   - negative-theology
   - faith
   - gift
-subjects:
-  - label: "Caputo, John D."
-    scheme: "FAST"
-    identifier: "fst00026653"
-    uri: "https://id.worldcat.org/fast/26653"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Kierkegaard, Søren, 1813-1855"
-    scheme: "FAST"
-    identifier: "fst00037558"
-    uri: "https://id.worldcat.org/fast/37558"
-    category: "personal"
-  - label: "Kingdom of God"
-    scheme: "FAST"
-    identifier: "fst00987680"
-    uri: "https://id.worldcat.org/fast/987680"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Messianism"
-    scheme: "FAST"
-    identifier: "fst01017438"
-    uri: "https://id.worldcat.org/fast/1017438"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 03
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Kingdom of God'
+    scheme: 'FAST'
+    identifier: 'fst00987680'
+    uri: 'https://id.worldcat.org/fast/987680'
+    category: 'topical'
+  - label: 'Messianism'
+    scheme: 'FAST'
+    identifier: 'fst01017438'
+    uri: 'https://id.worldcat.org/fast/1017438'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
 ---
 Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
 

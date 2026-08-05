@@ -19,37 +19,6 @@ keywords:
   - critical-history
   - politics-of-religion
   - deconstruction-of-religion
-subjects:
-  - label: "Civilization"
-    scheme: "FAST"
-    identifier: "fst00862898"
-    uri: "https://id.worldcat.org/fast/862898"
-    category: "topical"
-  - label: "Discourse analysis"
-    scheme: "FAST"
-    identifier: "fst00894932"
-    uri: "https://id.worldcat.org/fast/894932"
-    category: "topical"
-  - label: "Imperialism"
-    scheme: "FAST"
-    identifier: "fst00968126"
-    uri: "https://id.worldcat.org/fast/968126"
-    category: "topical"
-  - label: "Religion"
-    scheme: "FAST"
-    identifier: "fst01093763"
-    uri: "https://id.worldcat.org/fast/1093763"
-    category: "topical"
-  - label: "Religion--Study and teaching"
-    scheme: "FAST"
-    identifier: "fst01093807"
-    uri: "https://id.worldcat.org/fast/1093807"
-    category: "topical"
-  - label: "Secularism"
-    scheme: "FAST"
-    identifier: "fst01110732"
-    uri: "https://id.worldcat.org/fast/1110732"
-    category: "topical"
 pdf: martin.pdf
 sort_id: 05
 volume: 9
@@ -57,4 +26,20 @@ issue: 3
 season: fall
 year: 2008
 pages:
+subjects:
+  - label: 'Courtesy'
+    scheme: 'FAST'
+    identifier: 'fst00881711'
+    uri: 'https://id.worldcat.org/fast/881711'
+    category: 'topical'
+  - label: 'Discourse analysis'
+    scheme: 'FAST'
+    identifier: 'fst00894932'
+    uri: 'https://id.worldcat.org/fast/894932'
+    category: 'topical'
+  - label: 'Secularism'
+    scheme: 'FAST'
+    identifier: 'fst01110732'
+    uri: 'https://id.worldcat.org/fast/1110732'
+    category: 'topical'
 ---

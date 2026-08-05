@@ -27,39 +27,29 @@ season: fall
 year: 2022
 pages:
 subjects:
-  - label: "Biopolitics"
-    scheme: "FAST"
-    identifier: "fst00832668"
-    uri: "https://id.worldcat.org/fast/832668"
-    category: "topical"
-  - label: "Disappeared persons"
-    scheme: "FAST"
-    identifier: "fst00894675"
-    uri: "https://id.worldcat.org/fast/894675"
-    category: "topical"
-  - label: "Political persecution"
-    scheme: "FAST"
-    identifier: "fst01069448"
-    uri: "https://id.worldcat.org/fast/1069448"
-    category: "topical"
-  - label: "Political science--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01069819"
-    uri: "https://id.worldcat.org/fast/1069819"
-    category: "topical"
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Political violence"
-    scheme: "FAST"
-    identifier: "fst01069902"
-    uri: "https://id.worldcat.org/fast/1069902"
-    category: "topical"
-  - label: "Sovereignty"
-    scheme: "FAST"
-    identifier: "fst01127379"
-    uri: "https://id.worldcat.org/fast/1127379"
-    category: "topical"
+  - label: 'Biopolitics'
+    scheme: 'FAST'
+    identifier: 'fst00832668'
+    uri: 'https://id.worldcat.org/fast/832668'
+    category: 'topical'
+  - label: 'Genealogy'
+    scheme: 'FAST'
+    identifier: 'fst00939652'
+    uri: 'https://id.worldcat.org/fast/939652'
+    category: 'topical'
+  - label: 'Political science Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01069819'
+    uri: 'https://id.worldcat.org/fast/1069819'
+    category: 'topical'
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
+  - label: 'Sovereignty'
+    scheme: 'FAST'
+    identifier: 'fst01127379'
+    uri: 'https://id.worldcat.org/fast/1127379'
+    category: 'topical'
 ---

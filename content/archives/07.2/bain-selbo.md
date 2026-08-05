@@ -25,29 +25,19 @@ season: spring
 year: 2006
 pages:
 subjects:
-  - label: "Authenticity (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00821634"
-    uri: "https://id.worldcat.org/fast/821634"
-    category: "topical"
-  - label: "Civil religion"
-    scheme: "FAST"
-    identifier: "fst00862624"
-    uri: "https://id.worldcat.org/fast/862624"
-    category: "topical"
-  - label: "Consumption (Economics)"
-    scheme: "FAST"
-    identifier: "fst00876455"
-    uri: "https://id.worldcat.org/fast/876455"
-    category: "topical"
-  - label: "Popular culture"
-    scheme: "FAST"
-    identifier: "fst01071344"
-    uri: "https://id.worldcat.org/fast/1071344"
-    category: "topical"
-  - label: "Religion"
-    scheme: "FAST"
-    identifier: "fst01093763"
-    uri: "https://id.worldcat.org/fast/1093763"
-    category: "topical"
+  - label: 'Civil religion'
+    scheme: 'FAST'
+    identifier: 'fst00862624'
+    uri: 'https://id.worldcat.org/fast/862624'
+    category: 'topical'
+  - label: 'Popular culture'
+    scheme: 'FAST'
+    identifier: 'fst01071344'
+    uri: 'https://id.worldcat.org/fast/1071344'
+    category: 'topical'
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

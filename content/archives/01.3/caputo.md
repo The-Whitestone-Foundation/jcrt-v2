@@ -27,50 +27,25 @@ keywords:
   - religion-without-religion
   - negative-theology
   - metaphysics-of-presence
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Husserl, Edmund, 1859-1938"
-    scheme: "FAST"
-    identifier: "fst00042628"
-    uri: "https://id.worldcat.org/fast/42628"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Realism"
-    scheme: "FAST"
-    identifier: "fst01091228"
-    uri: "https://id.worldcat.org/fast/1091228"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 02
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
 ---
 Caputo - For Love of Things Themselves - JCRT 1.3 
 

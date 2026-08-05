@@ -18,19 +18,9 @@ season: fall
 year: 2019
 pages: 382-399
 subjects:
-  - label: "Hegel, Georg Wilhelm Friedrich, 1770-1831"
-    scheme: "FAST"
-    identifier: "fst00031816"
-    uri: "https://id.worldcat.org/fast/31816"
-    category: "personal"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Transcendentalism"
-    scheme: "FAST"
-    identifier: "fst01154548"
-    uri: "https://id.worldcat.org/fast/1154548"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

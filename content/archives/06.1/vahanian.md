@@ -28,34 +28,34 @@ season: winter
 year: 2004
 pages:
 subjects:
-  - label: "Antisemitism"
-    scheme: "FAST"
-    identifier: "fst00810769"
-    uri: "https://id.worldcat.org/fast/810769"
-    category: "topical"
-  - label: "Christology"
-    scheme: "FAST"
-    identifier: "fst01352288"
-    uri: "https://id.worldcat.org/fast/1352288"
-    category: "topical"
-  - label: "Jesus Christ"
-    scheme: "FAST"
-    identifier: "fst00040116"
-    uri: "https://id.worldcat.org/fast/40116"
-    category: "personal"
-  - label: "Jewish role in the Passion of Jesus Christ"
-    scheme: "FAST"
-    identifier: "fst01353466"
-    uri: "https://id.worldcat.org/fast/1353466"
-    category: "topical"
-  - label: "Motion pictures--Religious aspects"
-    scheme: "FAST"
-    identifier: "fst01027371"
-    uri: "https://id.worldcat.org/fast/1027371"
-    category: "topical"
-  - label: "Passion of Jesus Christ"
-    scheme: "FAST"
-    identifier: "fst01353950"
-    uri: "https://id.worldcat.org/fast/1353950"
-    category: "topical"
+  - label: 'Antisemitism'
+    scheme: 'FAST'
+    identifier: 'fst00810769'
+    uri: 'https://id.worldcat.org/fast/810769'
+    category: 'topical'
+  - label: 'Christology'
+    scheme: 'FAST'
+    identifier: 'fst01352288'
+    uri: 'https://id.worldcat.org/fast/1352288'
+    category: 'topical'
+  - label: 'Crucifixion'
+    scheme: 'FAST'
+    identifier: 'fst00884348'
+    uri: 'https://id.worldcat.org/fast/884348'
+    category: 'topical'
+  - label: 'Eschatology'
+    scheme: 'FAST'
+    identifier: 'fst00915134'
+    uri: 'https://id.worldcat.org/fast/915134'
+    category: 'topical'
+  - label: 'Jesus Christ'
+    scheme: 'FAST'
+    identifier: 'fst00040116'
+    uri: 'https://id.worldcat.org/fast/40116'
+    category: 'personal'
+  - label: 'Salvation Christianity'
+    scheme: 'FAST'
+    identifier: 'fst01104426'
+    uri: 'https://id.worldcat.org/fast/1104426'
+    category: 'topical'
 ---

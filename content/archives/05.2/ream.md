@@ -27,39 +27,29 @@ season: spring
 year: 2004
 pages:
 subjects:
-  - label: "Augustine, of Hippo, Saint, 354-430"
-    scheme: "FAST"
-    identifier: "fst00061554"
-    uri: "https://id.worldcat.org/fast/61554"
-    category: "personal"
-  - label: "Descartes, René, 1596-1650"
-    scheme: "FAST"
-    identifier: "fst00036818"
-    uri: "https://id.worldcat.org/fast/36818"
-    category: "personal"
-  - label: "Philosophy and religion"
-    scheme: "FAST"
-    identifier: "fst01060826"
-    uri: "https://id.worldcat.org/fast/1060826"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Self"
-    scheme: "FAST"
-    identifier: "fst01111441"
-    uri: "https://id.worldcat.org/fast/1111441"
-    category: "topical"
-  - label: "Theology"
-    scheme: "FAST"
-    identifier: "fst01149559"
-    uri: "https://id.worldcat.org/fast/1149559"
-    category: "topical"
-  - label: "Trinity"
-    scheme: "FAST"
-    identifier: "fst01156777"
-    uri: "https://id.worldcat.org/fast/1156777"
-    category: "topical"
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Fathers of the church'
+    scheme: 'FAST'
+    identifier: 'fst00921916'
+    uri: 'https://id.worldcat.org/fast/921916'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
+  - label: 'Theology'
+    scheme: 'FAST'
+    identifier: 'fst01149559'
+    uri: 'https://id.worldcat.org/fast/1149559'
+    category: 'topical'
+  - label: 'Trinity'
+    scheme: 'FAST'
+    identifier: 'fst01156777'
+    uri: 'https://id.worldcat.org/fast/1156777'
+    category: 'topical'
 ---

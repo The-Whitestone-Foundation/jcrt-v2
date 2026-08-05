@@ -26,39 +26,24 @@ season: summer
 year: 2010
 pages:
 subjects:
-  - label: "Caputo, John D."
-    scheme: "FAST"
-    identifier: "fst00026653"
-    uri: "https://id.worldcat.org/fast/26653"
-    category: "personal"
-  - label: "Continental philosophy"
-    scheme: "FAST"
-    identifier: "fst01765182"
-    uri: "https://id.worldcat.org/fast/1765182"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Religion and culture'
+    scheme: 'FAST'
+    identifier: 'fst01093823'
+    uri: 'https://id.worldcat.org/fast/1093823'
+    category: 'topical'
 ---

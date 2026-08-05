@@ -25,45 +25,40 @@ keywords:
   - temples
   - origins-of-philosophy
   - rhetoric
-subjects:
-  - label: "Anaximander"
-    scheme: "FAST"
-    identifier: "fst00167355"
-    uri: "https://id.worldcat.org/fast/167355"
-    category: "personal"
-  - label: "Architecture"
-    scheme: "FAST"
-    identifier: "fst00813346"
-    uri: "https://id.worldcat.org/fast/813346"
-    category: "topical"
-  - label: "Cosmology"
-    scheme: "FAST"
-    identifier: "fst00880600"
-    uri: "https://id.worldcat.org/fast/880600"
-    category: "topical"
-  - label: "Philosophy, Ancient"
-    scheme: "FAST"
-    identifier: "fst01060860"
-    uri: "https://id.worldcat.org/fast/1060860"
-    category: "topical"
-  - label: "Pre-Socratic philosophers"
-    scheme: "FAST"
-    identifier: "fst01074777"
-    uri: "https://id.worldcat.org/fast/1074777"
-    category: "topical"
-  - label: "Rhetoric"
-    scheme: "FAST"
-    identifier: "fst01096948"
-    uri: "https://id.worldcat.org/fast/1096948"
-    category: "topical"
-  - label: "Technology"
-    scheme: "FAST"
-    identifier: "fst01145078"
-    uri: "https://id.worldcat.org/fast/1145078"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 11
+subjects:
+  - label: 'Architecture'
+    scheme: 'FAST'
+    identifier: 'fst00813346'
+    uri: 'https://id.worldcat.org/fast/813346'
+    category: 'topical'
+  - label: 'Cosmology'
+    scheme: 'FAST'
+    identifier: 'fst00880600'
+    uri: 'https://id.worldcat.org/fast/880600'
+    category: 'topical'
+  - label: 'Philosophy, Ancient'
+    scheme: 'FAST'
+    identifier: 'fst01060860'
+    uri: 'https://id.worldcat.org/fast/1060860'
+    category: 'topical'
+  - label: 'Rhetoric'
+    scheme: 'FAST'
+    identifier: 'fst01096948'
+    uri: 'https://id.worldcat.org/fast/1096948'
+    category: 'topical'
+  - label: 'Technology'
+    scheme: 'FAST'
+    identifier: 'fst01145078'
+    uri: 'https://id.worldcat.org/fast/1145078'
+    category: 'topical'
+  - label: 'Temples'
+    scheme: 'FAST'
+    identifier: 'fst01147397'
+    uri: 'https://id.worldcat.org/fast/1147397'
+    category: 'topical'
 ---
 Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
 

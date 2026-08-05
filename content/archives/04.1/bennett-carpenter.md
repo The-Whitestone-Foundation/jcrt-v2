@@ -27,45 +27,35 @@ keywords:
   - intertextuality
   - theory-of-religion
   - roland-barthes
-subjects:
-  - label: "Bal, Mieke, 1946-"
-    scheme: "FAST"
-    identifier: "fst00030316"
-    uri: "https://id.worldcat.org/fast/30316"
-    category: "personal"
-  - label: "Barthes, Roland"
-    scheme: "FAST"
-    identifier: "fst00037338"
-    uri: "https://id.worldcat.org/fast/37338"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Intertextuality"
-    scheme: "FAST"
-    identifier: "fst00977562"
-    uri: "https://id.worldcat.org/fast/977562"
-    category: "topical"
-  - label: "Quotation"
-    scheme: "FAST"
-    identifier: "fst01086126"
-    uri: "https://id.worldcat.org/fast/1086126"
-    category: "topical"
-  - label: "Semiotics"
-    scheme: "FAST"
-    identifier: "fst01112351"
-    uri: "https://id.worldcat.org/fast/1112351"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 03
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Intertextuality'
+    scheme: 'FAST'
+    identifier: 'fst00977562'
+    uri: 'https://id.worldcat.org/fast/977562'
+    category: 'topical'
+  - label: 'Quotation'
+    scheme: 'FAST'
+    identifier: 'fst01086126'
+    uri: 'https://id.worldcat.org/fast/1086126'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
+  - label: 'Semiotics'
+    scheme: 'FAST'
+    identifier: 'fst01112351'
+    uri: 'https://id.worldcat.org/fast/1112351'
+    category: 'topical'
 ---
 Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 
 

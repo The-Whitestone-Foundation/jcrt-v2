@@ -27,45 +27,30 @@ keywords:
   - creation-science
   - the-real
   - william-blake
-subjects:
-  - label: "Blake, William, 1757-1827"
-    scheme: "FAST"
-    identifier: "fst00029047"
-    uri: "https://id.worldcat.org/fast/29047"
-    category: "personal"
-  - label: "Creationism"
-    scheme: "FAST"
-    identifier: "fst00882407"
-    uri: "https://id.worldcat.org/fast/882407"
-    category: "topical"
-  - label: "Evolution"
-    scheme: "FAST"
-    identifier: "fst00917265"
-    uri: "https://id.worldcat.org/fast/917265"
-    category: "topical"
-  - label: "Freud, Sigmund, 1856-1939"
-    scheme: "FAST"
-    identifier: "fst00034252"
-    uri: "https://id.worldcat.org/fast/34252"
-    category: "personal"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Psychoanalysis and religion"
-    scheme: "FAST"
-    identifier: "fst01081280"
-    uri: "https://id.worldcat.org/fast/1081280"
-    category: "topical"
-  - label: "Sublimation (Psychology)"
-    scheme: "FAST"
-    identifier: "fst01136591"
-    uri: "https://id.worldcat.org/fast/1136591"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 03
+subjects:
+  - label: 'Creationism'
+    scheme: 'FAST'
+    identifier: 'fst00882407'
+    uri: 'https://id.worldcat.org/fast/882407'
+    category: 'topical'
+  - label: 'Evolution'
+    scheme: 'FAST'
+    identifier: 'fst00917265'
+    uri: 'https://id.worldcat.org/fast/917265'
+    category: 'topical'
+  - label: 'Psychoanalysis and religion'
+    scheme: 'FAST'
+    identifier: 'fst01081280'
+    uri: 'https://id.worldcat.org/fast/1081280'
+    category: 'topical'
+  - label: 'Sublimation (Psychology)'
+    scheme: 'FAST'
+    identifier: 'fst01136591'
+    uri: 'https://id.worldcat.org/fast/1136591'
+    category: 'topical'
 ---
 Halpern - Creation: Lacan in Kansas - JCRT 2.1 
 

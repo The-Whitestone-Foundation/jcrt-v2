@@ -27,50 +27,25 @@ keywords:
   - self-sameness
   - being-qua-being
   - study-of-religion
-subjects:
-  - label: "Aristotle"
-    scheme: "FAST"
-    identifier: "fst00029885"
-    uri: "https://id.worldcat.org/fast/29885"
-    category: "personal"
-  - label: "Contemplation"
-    scheme: "FAST"
-    identifier: "fst00876612"
-    uri: "https://id.worldcat.org/fast/876612"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Faith and reason"
-    scheme: "FAST"
-    identifier: "fst00919959"
-    uri: "https://id.worldcat.org/fast/919959"
-    category: "topical"
-  - label: "Metaphysics"
-    scheme: "FAST"
-    identifier: "fst01018304"
-    uri: "https://id.worldcat.org/fast/1018304"
-    category: "topical"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Plato"
-    scheme: "FAST"
-    identifier: "fst00046610"
-    uri: "https://id.worldcat.org/fast/46610"
-    category: "personal"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 04
+subjects:
+  - label: 'Contemplation'
+    scheme: 'FAST'
+    identifier: 'fst00876612'
+    uri: 'https://id.worldcat.org/fast/876612'
+    category: 'topical'
+  - label: 'Desire'
+    scheme: 'FAST'
+    identifier: 'fst00891351'
+    uri: 'https://id.worldcat.org/fast/891351'
+    category: 'topical'
+  - label: 'Korana (African people)'
+    scheme: 'FAST'
+    identifier: 'fst00988542'
+    uri: 'https://id.worldcat.org/fast/988542'
+    category: 'topical'
 ---
 Richard - Aristotle and Religious Theory - JCRT 1.3 
 

@@ -27,50 +27,45 @@ keywords:
   - cyborg
   - philosophy-of-mind
   - book-review
-subjects:
-  - label: "Artificial life"
-    scheme: "FAST"
-    identifier: "fst00817302"
-    uri: "https://id.worldcat.org/fast/817302"
-    category: "topical"
-  - label: "Cybernetics"
-    scheme: "FAST"
-    identifier: "fst00885777"
-    uri: "https://id.worldcat.org/fast/885777"
-    category: "topical"
-  - label: "Cyborgs"
-    scheme: "FAST"
-    identifier: "fst00885806"
-    uri: "https://id.worldcat.org/fast/885806"
-    category: "topical"
-  - label: "Hayles, N. Katherine, 1943-"
-    scheme: "FAST"
-    identifier: "fst02012315"
-    uri: "https://id.worldcat.org/fast/2012315"
-    category: "personal"
-  - label: "Human body"
-    scheme: "FAST"
-    identifier: "fst01730057"
-    uri: "https://id.worldcat.org/fast/1730057"
-    category: "topical"
-  - label: "Information theory"
-    scheme: "FAST"
-    identifier: "fst00973149"
-    uri: "https://id.worldcat.org/fast/973149"
-    category: "topical"
-  - label: "Posthumanism"
-    scheme: "FAST"
-    identifier: "fst02027038"
-    uri: "https://id.worldcat.org/fast/2027038"
-    category: "topical"
-  - label: "Subjectivity"
-    scheme: "FAST"
-    identifier: "fst01136568"
-    uri: "https://id.worldcat.org/fast/1136568"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 10
+subjects:
+  - label: 'Artificial life'
+    scheme: 'FAST'
+    identifier: 'fst00817302'
+    uri: 'https://id.worldcat.org/fast/817302'
+    category: 'topical'
+  - label: 'Cybernetics'
+    scheme: 'FAST'
+    identifier: 'fst00885777'
+    uri: 'https://id.worldcat.org/fast/885777'
+    category: 'topical'
+  - label: 'Distributed cognition'
+    scheme: 'FAST'
+    identifier: 'fst01741266'
+    uri: 'https://id.worldcat.org/fast/1741266'
+    category: 'topical'
+  - label: 'Information theory'
+    scheme: 'FAST'
+    identifier: 'fst00973149'
+    uri: 'https://id.worldcat.org/fast/973149'
+    category: 'topical'
+  - label: 'Philosophy of mind'
+    scheme: 'FAST'
+    identifier: 'fst01060840'
+    uri: 'https://id.worldcat.org/fast/1060840'
+    category: 'topical'
+  - label: 'Subjectivity'
+    scheme: 'FAST'
+    identifier: 'fst01136568'
+    uri: 'https://id.worldcat.org/fast/1136568'
+    category: 'topical'
+  - label: 'Technology'
+    scheme: 'FAST'
+    identifier: 'fst01145078'
+    uri: 'https://id.worldcat.org/fast/1145078'
+    category: 'topical'
 ---
 Weiss - Posthuman Pleasures - JCRT 1.3
 

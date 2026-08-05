@@ -18,19 +18,9 @@ season: fall
 year: 2014
 pages: 143-164
 subjects:
-  - label: "Horror films"
-    scheme: "FAST"
-    identifier: "fst00960370"
-    uri: "https://id.worldcat.org/fast/960370"
-    category: "topical"
-  - label: "Mary, Blessed Virgin, Saint"
-    scheme: "FAST"
-    identifier: "fst00068107"
-    uri: "https://id.worldcat.org/fast/68107"
-    category: "personal"
-  - label: "Motherhood"
-    scheme: "FAST"
-    identifier: "fst01026907"
-    uri: "https://id.worldcat.org/fast/1026907"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

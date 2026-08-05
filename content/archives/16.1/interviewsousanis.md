@@ -27,34 +27,19 @@ season: winter
 year: 2016
 pages:
 subjects:
-  - label: "Aesthetics"
-    scheme: "FAST"
-    identifier: "fst00798702"
-    uri: "https://id.worldcat.org/fast/798702"
-    category: "topical"
-  - label: "Comic books, strips, etc."
-    scheme: "FAST"
-    identifier: "fst00869145"
-    uri: "https://id.worldcat.org/fast/869145"
-    category: "topical"
-  - label: "Education, Higher"
-    scheme: "FAST"
-    identifier: "fst00903005"
-    uri: "https://id.worldcat.org/fast/903005"
-    category: "topical"
-  - label: "Greene, Maxine"
-    scheme: "FAST"
-    identifier: "fst00222216"
-    uri: "https://id.worldcat.org/fast/222216"
-    category: "personal"
-  - label: "Visual metaphor"
-    scheme: "FAST"
-    identifier: "fst02005848"
-    uri: "https://id.worldcat.org/fast/2005848"
-    category: "topical"
-  - label: "Visual perception"
-    scheme: "FAST"
-    identifier: "fst01168049"
-    uri: "https://id.worldcat.org/fast/1168049"
-    category: "topical"
+  - label: 'Comic books, strips, etc.'
+    scheme: 'FAST'
+    identifier: 'fst00869145'
+    uri: 'https://id.worldcat.org/fast/869145'
+    category: 'topical'
+  - label: 'Education, Higher'
+    scheme: 'FAST'
+    identifier: 'fst00903005'
+    uri: 'https://id.worldcat.org/fast/903005'
+    category: 'topical'
+  - label: 'Visual metaphor'
+    scheme: 'FAST'
+    identifier: 'fst02005848'
+    uri: 'https://id.worldcat.org/fast/2005848'
+    category: 'topical'
 ---

@@ -28,50 +28,40 @@ keywords:
   - postmodernism
   - philosophical-theology
   - trace
-subjects:
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Memory"
-    scheme: "FAST"
-    identifier: "fst01015913"
-    uri: "https://id.worldcat.org/fast/1015913"
-    category: "topical"
-  - label: "Metaphysics"
-    scheme: "FAST"
-    identifier: "fst01018304"
-    uri: "https://id.worldcat.org/fast/1018304"
-    category: "topical"
-  - label: "Philosophical theology"
-    scheme: "FAST"
-    identifier: "fst01060773"
-    uri: "https://id.worldcat.org/fast/1060773"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
 abstract:
 year: 2001
 sort_id: 01
+subjects:
+  - label: 'Death of God'
+    scheme: 'FAST'
+    identifier: 'fst00888713'
+    uri: 'https://id.worldcat.org/fast/888713'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Memory'
+    scheme: 'FAST'
+    identifier: 'fst01015913'
+    uri: 'https://id.worldcat.org/fast/1015913'
+    category: 'topical'
+  - label: 'Metaphysics'
+    scheme: 'FAST'
+    identifier: 'fst01018304'
+    uri: 'https://id.worldcat.org/fast/1018304'
+    category: 'topical'
+  - label: 'Philosophical theology'
+    scheme: 'FAST'
+    identifier: 'fst01060773'
+    uri: 'https://id.worldcat.org/fast/1060773'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
 ---
 Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
 

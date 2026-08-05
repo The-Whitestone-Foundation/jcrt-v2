@@ -24,10 +24,20 @@ keywords:
   - martin-heidegger
   - paul-ricoeur
   - continental-philosophy-of-religion
-subjects:
 abstract:
 year: 2002
 sort_id: 01
+subjects:
+  - label: 'Ceremonial exchange'
+    scheme: 'FAST'
+    identifier: 'fst00851404'
+    uri: 'https://id.worldcat.org/fast/851404'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
 ---
 Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   
 

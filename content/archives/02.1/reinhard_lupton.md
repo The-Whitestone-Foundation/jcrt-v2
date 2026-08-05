@@ -27,50 +27,30 @@ keywords:
   - objet-petit-a
   - franz-rosenzweig
   - sigmund-freud
-subjects:
-  - label: "Freud, Sigmund, 1856-1939"
-    scheme: "FAST"
-    identifier: "fst00034252"
-    uri: "https://id.worldcat.org/fast/34252"
-    category: "personal"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Psychoanalysis and religion"
-    scheme: "FAST"
-    identifier: "fst01081280"
-    uri: "https://id.worldcat.org/fast/1081280"
-    category: "topical"
-  - label: "Revelation"
-    scheme: "FAST"
-    identifier: "fst01096460"
-    uri: "https://id.worldcat.org/fast/1096460"
-    category: "topical"
-  - label: "Rosenzweig, Franz, 1886-1929"
-    scheme: "FAST"
-    identifier: "fst00101180"
-    uri: "https://id.worldcat.org/fast/101180"
-    category: "personal"
-  - label: "Sabbath"
-    scheme: "FAST"
-    identifier: "fst01102941"
-    uri: "https://id.worldcat.org/fast/1102941"
-    category: "topical"
-  - label: "Sublimation (Psychology)"
-    scheme: "FAST"
-    identifier: "fst01136591"
-    uri: "https://id.worldcat.org/fast/1136591"
-    category: "topical"
-  - label: "Ten commandments"
-    scheme: "FAST"
-    identifier: "fst01356139"
-    uri: "https://id.worldcat.org/fast/1356139"
-    category: "uniform-title"
 abstract:
 year: 2000
 sort_id: 02
+subjects:
+  - label: 'Revelation'
+    scheme: 'FAST'
+    identifier: 'fst01096460'
+    uri: 'https://id.worldcat.org/fast/1096460'
+    category: 'topical'
+  - label: 'Sabbath'
+    scheme: 'FAST'
+    identifier: 'fst01102941'
+    uri: 'https://id.worldcat.org/fast/1102941'
+    category: 'topical'
+  - label: 'Sublimation (Psychology)'
+    scheme: 'FAST'
+    identifier: 'fst01136591'
+    uri: 'https://id.worldcat.org/fast/1136591'
+    category: 'topical'
+  - label: 'Ten commandments'
+    scheme: 'FAST'
+    identifier: 'fst01356139'
+    uri: 'https://id.worldcat.org/fast/1356139'
+    category: 'title'
 ---
 Reinhard & Lupton - Revelation - JCRT 2.1 
 

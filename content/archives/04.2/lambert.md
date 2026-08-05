@@ -27,50 +27,30 @@ keywords:
   - castration
   - dorothea-olkowski
   - luce-irigaray
-subjects:
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Feminism"
-    scheme: "FAST"
-    identifier: "fst00922671"
-    uri: "https://id.worldcat.org/fast/922671"
-    category: "topical"
-  - label: "Guattari, Félix, 1930-1992"
-    scheme: "FAST"
-    identifier: "fst01427475"
-    uri: "https://id.worldcat.org/fast/1427475"
-    category: "personal"
-  - label: "Irigaray, Luce"
-    scheme: "FAST"
-    identifier: "fst00092697"
-    uri: "https://id.worldcat.org/fast/92697"
-    category: "personal"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
-  - label: "Representation (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01094927"
-    uri: "https://id.worldcat.org/fast/1094927"
-    category: "topical"
-  - label: "Sex differences"
-    scheme: "FAST"
-    identifier: "fst01114321"
-    uri: "https://id.worldcat.org/fast/1114321"
-    category: "topical"
 abstract:
 year: 2003
 sort_id: 02
+subjects:
+  - label: 'Castration'
+    scheme: 'FAST'
+    identifier: 'fst00848466'
+    uri: 'https://id.worldcat.org/fast/848466'
+    category: 'topical'
+  - label: 'Feminism'
+    scheme: 'FAST'
+    identifier: 'fst00922671'
+    uri: 'https://id.worldcat.org/fast/922671'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
 ---
 Lambert - "Create, She Said.": Deleuze and Feminism - JCRT 4.2 
 

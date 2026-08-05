@@ -25,34 +25,29 @@ season: spring
 year: 2006
 pages:
 subjects:
-  - label: "Jewish philosophy"
-    scheme: "FAST"
-    identifier: "fst01730516"
-    uri: "https://id.worldcat.org/fast/1730516"
-    category: "topical"
-  - label: "Judaism"
-    scheme: "FAST"
-    identifier: "fst00984280"
-    uri: "https://id.worldcat.org/fast/984280"
-    category: "topical"
-  - label: "Language and languages--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00992193"
-    uri: "https://id.worldcat.org/fast/992193"
-    category: "topical"
-  - label: "Mysticism"
-    scheme: "FAST"
-    identifier: "fst01031629"
-    uri: "https://id.worldcat.org/fast/1031629"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Wittgenstein, Ludwig, 1889-1951"
-    scheme: "FAST"
-    identifier: "fst00032844"
-    uri: "https://id.worldcat.org/fast/32844"
-    category: "personal"
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Jews Identity'
+    scheme: 'FAST'
+    identifier: 'fst00983278'
+    uri: 'https://id.worldcat.org/fast/983278'
+    category: 'topical'
+  - label: 'Judaism'
+    scheme: 'FAST'
+    identifier: 'fst00984280'
+    uri: 'https://id.worldcat.org/fast/984280'
+    category: 'topical'
+  - label: 'Mysticism'
+    scheme: 'FAST'
+    identifier: 'fst01031629'
+    uri: 'https://id.worldcat.org/fast/1031629'
+    category: 'topical'
+  - label: 'Secrecy'
+    scheme: 'FAST'
+    identifier: 'fst01110644'
+    uri: 'https://id.worldcat.org/fast/1110644'
+    category: 'topical'
 ---

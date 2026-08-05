@@ -8,6 +8,12 @@ permalink: /archives/keywords/{{ keyword | slugify }}/index.html
 eleventyComputed:
   title: "Archive Keyword: {{ keyword }}"
 eleventyExcludeFromCollections: true
+subjects:
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---
 <div class="collection-shell collection-shell--archive-keyword">
   {% include "partials/nav_desktop.njk" %}

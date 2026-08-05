@@ -26,29 +26,24 @@ season: winter
 year: 2010
 pages:
 subjects:
-  - label: "Cash, Johnny"
-    scheme: "FAST"
-    identifier: "fst00031281"
-    uri: "https://id.worldcat.org/fast/31281"
-    category: "personal"
-  - label: "Christianity and culture"
-    scheme: "FAST"
-    identifier: "fst00859660"
-    uri: "https://id.worldcat.org/fast/859660"
-    category: "topical"
-  - label: "Country music"
-    scheme: "FAST"
-    identifier: "fst00881424"
-    uri: "https://id.worldcat.org/fast/881424"
-    category: "topical"
-  - label: "National characteristics, American"
-    scheme: "FAST"
-    identifier: "fst01033342"
-    uri: "https://id.worldcat.org/fast/1033342"
-    category: "topical"
-  - label: "Popular culture--Religious aspects"
-    scheme: "FAST"
-    identifier: "fst01071378"
-    uri: "https://id.worldcat.org/fast/1071378"
-    category: "topical"
+  - label: 'Country music'
+    scheme: 'FAST'
+    identifier: 'fst00881424'
+    uri: 'https://id.worldcat.org/fast/881424'
+    category: 'topical'
+  - label: 'Music Religious aspects'
+    scheme: 'FAST'
+    identifier: 'fst01030421'
+    uri: 'https://id.worldcat.org/fast/1030421'
+    category: 'topical'
+  - label: 'Protestantism'
+    scheme: 'FAST'
+    identifier: 'fst01079920'
+    uri: 'https://id.worldcat.org/fast/1079920'
+    category: 'topical'
+  - label: 'Religion and culture'
+    scheme: 'FAST'
+    identifier: 'fst01093823'
+    uri: 'https://id.worldcat.org/fast/1093823'
+    category: 'topical'
 ---

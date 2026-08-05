@@ -26,39 +26,29 @@ season: summer
 year: 2010
 pages:
 subjects:
-  - label: "Barth, Karl, 1886-1968"
-    scheme: "FAST"
-    identifier: "fst00038092"
-    uri: "https://id.worldcat.org/fast/38092"
-    category: "personal"
-  - label: "Christology"
-    scheme: "FAST"
-    identifier: "fst01352288"
-    uri: "https://id.worldcat.org/fast/1352288"
-    category: "topical"
-  - label: "History--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00958266"
-    uri: "https://id.worldcat.org/fast/958266"
-    category: "topical"
-  - label: "Missions"
-    scheme: "FAST"
-    identifier: "fst01023771"
-    uri: "https://id.worldcat.org/fast/1023771"
-    category: "topical"
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Troeltsch, Ernst, 1865-1923"
-    scheme: "FAST"
-    identifier: "fst00003778"
-    uri: "https://id.worldcat.org/fast/3778"
-    category: "personal"
-  - label: "Yoder, John Howard"
-    scheme: "FAST"
-    identifier: "fst00004340"
-    uri: "https://id.worldcat.org/fast/4340"
-    category: "personal"
+  - label: 'Christian Mission'
+    scheme: 'FAST'
+    identifier: 'fst00532135'
+    uri: 'https://id.worldcat.org/fast/532135'
+    category: 'corporate'
+  - label: 'Christology'
+    scheme: 'FAST'
+    identifier: 'fst01352288'
+    uri: 'https://id.worldcat.org/fast/1352288'
+    category: 'topical'
+  - label: 'Church'
+    scheme: 'FAST'
+    identifier: 'fst00860364'
+    uri: 'https://id.worldcat.org/fast/860364'
+    category: 'topical'
+  - label: 'Missions Theory'
+    scheme: 'FAST'
+    identifier: 'fst01023834'
+    uri: 'https://id.worldcat.org/fast/1023834'
+    category: 'topical'
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
 ---

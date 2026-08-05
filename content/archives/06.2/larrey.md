@@ -28,34 +28,34 @@ season: spring
 year: 2005
 pages:
 subjects:
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Rorty, Richard"
-    scheme: "FAST"
-    identifier: "fst00037243"
-    uri: "https://id.worldcat.org/fast/37243"
-    category: "personal"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Truth"
-    scheme: "FAST"
-    identifier: "fst01158235"
-    uri: "https://id.worldcat.org/fast/1158235"
-    category: "topical"
-  - label: "Vattimo, Gianni, 1936-"
-    scheme: "FAST"
-    identifier: "fst00057722"
-    uri: "https://id.worldcat.org/fast/57722"
-    category: "personal"
+  - label: 'Analysis (Philosophy)'
+    scheme: 'FAST'
+    identifier: 'fst00808323'
+    uri: 'https://id.worldcat.org/fast/808323'
+    category: 'topical'
+  - label: 'Death of God'
+    scheme: 'FAST'
+    identifier: 'fst00888713'
+    uri: 'https://id.worldcat.org/fast/888713'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
+  - label: 'Truth'
+    scheme: 'FAST'
+    identifier: 'fst01158235'
+    uri: 'https://id.worldcat.org/fast/1158235'
+    category: 'topical'
 ---

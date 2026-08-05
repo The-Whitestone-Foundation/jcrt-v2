@@ -28,50 +28,30 @@ keywords:
   - ontology
   - film-theory
   - mortality
-subjects:
-  - label: "Baudrillard, Jean, 1929-2007"
-    scheme: "FAST"
-    identifier: "fst01432596"
-    uri: "https://id.worldcat.org/fast/1432596"
-    category: "personal"
-  - label: "Blake, William, 1757-1827"
-    scheme: "FAST"
-    identifier: "fst00029047"
-    uri: "https://id.worldcat.org/fast/29047"
-    category: "personal"
-  - label: "Death"
-    scheme: "FAST"
-    identifier: "fst00888613"
-    uri: "https://id.worldcat.org/fast/888613"
-    category: "topical"
-  - label: "Death in motion pictures"
-    scheme: "FAST"
-    identifier: "fst00888701"
-    uri: "https://id.worldcat.org/fast/888701"
-    category: "topical"
-  - label: "Jarmusch, Jim, 1953-"
-    scheme: "FAST"
-    identifier: "fst00316525"
-    uri: "https://id.worldcat.org/fast/316525"
-    category: "personal"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Western films"
-    scheme: "FAST"
-    identifier: "fst01174006"
-    uri: "https://id.worldcat.org/fast/1174006"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 07
+subjects:
+  - label: 'Death'
+    scheme: 'FAST'
+    identifier: 'fst00888613'
+    uri: 'https://id.worldcat.org/fast/888613'
+    category: 'topical'
+  - label: 'Eternal return'
+    scheme: 'FAST'
+    identifier: 'fst00915773'
+    uri: 'https://id.worldcat.org/fast/915773'
+    category: 'topical'
+  - label: 'Mortality'
+    scheme: 'FAST'
+    identifier: 'fst01026502'
+    uri: 'https://id.worldcat.org/fast/1026502'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
 ---
 Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 
 

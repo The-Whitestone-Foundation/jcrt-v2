@@ -28,50 +28,40 @@ keywords:
   - agape
   - karl-marx
   - market-populism
-subjects:
-  - label: "Certeau, Michel de"
-    scheme: "FAST"
-    identifier: "fst00101174"
-    uri: "https://id.worldcat.org/fast/101174"
-    category: "personal"
-  - label: "Marion, Jean-Luc, 1946-"
-    scheme: "FAST"
-    identifier: "fst00108351"
-    uri: "https://id.worldcat.org/fast/108351"
-    category: "personal"
-  - label: "Marx, Karl, 1818-1883"
-    scheme: "FAST"
-    identifier: "fst00030215"
-    uri: "https://id.worldcat.org/fast/30215"
-    category: "personal"
-  - label: "Milbank, John"
-    scheme: "FAST"
-    identifier: "fst00261544"
-    uri: "https://id.worldcat.org/fast/261544"
-    category: "personal"
-  - label: "Nihilism"
-    scheme: "FAST"
-    identifier: "fst01037702"
-    uri: "https://id.worldcat.org/fast/1037702"
-    category: "topical"
-  - label: "Postmodern theology"
-    scheme: "FAST"
-    identifier: "fst01073163"
-    uri: "https://id.worldcat.org/fast/1073163"
-    category: "topical"
-  - label: "Secularism"
-    scheme: "FAST"
-    identifier: "fst01110732"
-    uri: "https://id.worldcat.org/fast/1110732"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 04
+subjects:
+  - label: 'Agape'
+    scheme: 'FAST'
+    identifier: 'fst00800089'
+    uri: 'https://id.worldcat.org/fast/800089'
+    category: 'topical'
+  - label: 'Ambivalence'
+    scheme: 'FAST'
+    identifier: 'fst00806745'
+    uri: 'https://id.worldcat.org/fast/806745'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Nihilism'
+    scheme: 'FAST'
+    identifier: 'fst01037702'
+    uri: 'https://id.worldcat.org/fast/1037702'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Secularization (Theology)'
+    scheme: 'FAST'
+    identifier: 'fst01110740'
+    uri: 'https://id.worldcat.org/fast/1110740'
+    category: 'topical'
 ---
 Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 
 

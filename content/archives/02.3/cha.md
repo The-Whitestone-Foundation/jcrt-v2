@@ -27,50 +27,35 @@ keywords:
   - middle-path
   - asanga
   - postmodernism
-subjects:
-  - label: "Asaṅga"
-    scheme: "FAST"
-    identifier: "fst00079614"
-    uri: "https://id.worldcat.org/fast/79614"
-    category: "personal"
-  - label: "Buddhist philosophy"
-    scheme: "FAST"
-    identifier: "fst01727628"
-    uri: "https://id.worldcat.org/fast/1727628"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Knowledge, Theory of"
-    scheme: "FAST"
-    identifier: "fst00988194"
-    uri: "https://id.worldcat.org/fast/988194"
-    category: "topical"
-  - label: "Language and languages--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00992193"
-    uri: "https://id.worldcat.org/fast/992193"
-    category: "topical"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Sunyata"
-    scheme: "FAST"
-    identifier: "fst01138749"
-    uri: "https://id.worldcat.org/fast/1138749"
-    category: "topical"
-  - label: "Yogācāra (Buddhism)"
-    scheme: "FAST"
-    identifier: "fst01182908"
-    uri: "https://id.worldcat.org/fast/1182908"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 02
+subjects:
+  - label: 'Buddhist philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01727628'
+    uri: 'https://id.worldcat.org/fast/1727628'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Knowledge, Theory of'
+    scheme: 'FAST'
+    identifier: 'fst00988194'
+    uri: 'https://id.worldcat.org/fast/988194'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
 ---
 Cha - Language, Conceptualization and Awakening - JCRT 2.3 
 

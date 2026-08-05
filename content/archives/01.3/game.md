@@ -27,50 +27,45 @@ keywords:
   - embodiment
   - spirituality
   - caravaggio
-subjects:
-  - label: "Caravaggio, Michelangelo Merisi da, 1573-1610"
-    scheme: "FAST"
-    identifier: "fst00000100"
-    uri: "https://id.worldcat.org/fast/100"
-    category: "personal"
-  - label: "Ecstasy"
-    scheme: "FAST"
-    identifier: "fst00902328"
-    uri: "https://id.worldcat.org/fast/902328"
-    category: "topical"
-  - label: "Fetishism"
-    scheme: "FAST"
-    identifier: "fst00923418"
-    uri: "https://id.worldcat.org/fast/923418"
-    category: "topical"
-  - label: "Memory"
-    scheme: "FAST"
-    identifier: "fst01015913"
-    uri: "https://id.worldcat.org/fast/1015913"
-    category: "topical"
-  - label: "Paul, the Apostle, Saint"
-    scheme: "FAST"
-    identifier: "fst00037330"
-    uri: "https://id.worldcat.org/fast/37330"
-    category: "personal"
-  - label: "Proust, Marcel, 1871-1922"
-    scheme: "FAST"
-    identifier: "fst00031804"
-    uri: "https://id.worldcat.org/fast/31804"
-    category: "personal"
-  - label: "Spirituality"
-    scheme: "FAST"
-    identifier: "fst01130186"
-    uri: "https://id.worldcat.org/fast/1130186"
-    category: "topical"
-  - label: "Teresa, of Avila, Saint, 1515-1582"
-    scheme: "FAST"
-    identifier: "fst00052461"
-    uri: "https://id.worldcat.org/fast/52461"
-    category: "personal"
 abstract:
 year: 2000
 sort_id: 07
+subjects:
+  - label: 'Conversion of Saint Paul'
+    scheme: 'FAST'
+    identifier: 'fst01352546'
+    uri: 'https://id.worldcat.org/fast/1352546'
+    category: 'topical'
+  - label: 'Ecstasy'
+    scheme: 'FAST'
+    identifier: 'fst00902328'
+    uri: 'https://id.worldcat.org/fast/902328'
+    category: 'topical'
+  - label: 'Fetishism'
+    scheme: 'FAST'
+    identifier: 'fst00923418'
+    uri: 'https://id.worldcat.org/fast/923418'
+    category: 'topical'
+  - label: 'Involuntary memory'
+    scheme: 'FAST'
+    identifier: 'fst01740641'
+    uri: 'https://id.worldcat.org/fast/1740641'
+    category: 'topical'
+  - label: 'Liminality'
+    scheme: 'FAST'
+    identifier: 'fst00998872'
+    uri: 'https://id.worldcat.org/fast/998872'
+    category: 'topical'
+  - label: 'Spirituality'
+    scheme: 'FAST'
+    identifier: 'fst01130186'
+    uri: 'https://id.worldcat.org/fast/1130186'
+    category: 'topical'
+  - label: 'Vertigo'
+    scheme: 'FAST'
+    identifier: 'fst01165632'
+    uri: 'https://id.worldcat.org/fast/1165632'
+    category: 'topical'
 ---
 Game - Falling - JCRT 1.3 
 

@@ -25,39 +25,34 @@ season: winter
 year: 2006
 pages:
 subjects:
-  - label: "Dialectical materialism"
-    scheme: "FAST"
-    identifier: "fst00892465"
-    uri: "https://id.worldcat.org/fast/892465"
-    category: "topical"
-  - label: "Hegel, Georg Wilhelm Friedrich, 1770-1831"
-    scheme: "FAST"
-    identifier: "fst00031816"
-    uri: "https://id.worldcat.org/fast/31816"
-    category: "personal"
-  - label: "Ideology"
-    scheme: "FAST"
-    identifier: "fst00966915"
-    uri: "https://id.worldcat.org/fast/966915"
-    category: "topical"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
-  - label: "Žižek, Slavoj"
-    scheme: "FAST"
-    identifier: "fst00161373"
-    uri: "https://id.worldcat.org/fast/161373"
-    category: "personal"
+  - label: 'Dialectical materialism'
+    scheme: 'FAST'
+    identifier: 'fst00892465'
+    uri: 'https://id.worldcat.org/fast/892465'
+    category: 'topical'
+  - label: 'Ideology'
+    scheme: 'FAST'
+    identifier: 'fst00966915'
+    uri: 'https://id.worldcat.org/fast/966915'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Parallax'
+    scheme: 'FAST'
+    identifier: 'fst01052918'
+    uri: 'https://id.worldcat.org/fast/1052918'
+    category: 'topical'
+  - label: 'Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01060777'
+    uri: 'https://id.worldcat.org/fast/1060777'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
 ---

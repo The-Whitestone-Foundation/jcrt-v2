@@ -26,45 +26,35 @@ keywords:
   - desire
   - narrative-theology
   - gift
-subjects:
-  - label: "Christianity and other religions"
-    scheme: "FAST"
-    identifier: "fst00859685"
-    uri: "https://id.worldcat.org/fast/859685"
-    category: "topical"
-  - label: "Desire"
-    scheme: "FAST"
-    identifier: "fst00891351"
-    uri: "https://id.worldcat.org/fast/891351"
-    category: "topical"
-  - label: "Human body"
-    scheme: "FAST"
-    identifier: "fst01730057"
-    uri: "https://id.worldcat.org/fast/1730057"
-    category: "topical"
-  - label: "Incarnation"
-    scheme: "FAST"
-    identifier: "fst00968453"
-    uri: "https://id.worldcat.org/fast/968453"
-    category: "topical"
-  - label: "Lord's Supper"
-    scheme: "FAST"
-    identifier: "fst01002518"
-    uri: "https://id.worldcat.org/fast/1002518"
-    category: "topical"
-  - label: "Narrative theology"
-    scheme: "FAST"
-    identifier: "fst01033061"
-    uri: "https://id.worldcat.org/fast/1033061"
-    category: "topical"
-  - label: "Semiotics"
-    scheme: "FAST"
-    identifier: "fst01112351"
-    uri: "https://id.worldcat.org/fast/1112351"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 04
+subjects:
+  - label: 'Desire'
+    scheme: 'FAST'
+    identifier: 'fst00891351'
+    uri: 'https://id.worldcat.org/fast/891351'
+    category: 'topical'
+  - label: 'Incarnation'
+    scheme: 'FAST'
+    identifier: 'fst00968453'
+    uri: 'https://id.worldcat.org/fast/968453'
+    category: 'topical'
+  - label: 'Lord''s Supper'
+    scheme: 'FAST'
+    identifier: 'fst01002518'
+    uri: 'https://id.worldcat.org/fast/1002518'
+    category: 'topical'
+  - label: 'Narrative theology'
+    scheme: 'FAST'
+    identifier: 'fst01033061'
+    uri: 'https://id.worldcat.org/fast/1033061'
+    category: 'topical'
+  - label: 'Semiotics'
+    scheme: 'FAST'
+    identifier: 'fst01112351'
+    uri: 'https://id.worldcat.org/fast/1112351'
+    category: 'topical'
 ---
 Rashkover - The Semiotics of Embodiment - JCRT 3.3 
 

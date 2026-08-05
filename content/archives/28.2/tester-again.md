@@ -11,6 +11,12 @@ affiliation: ''
 description: Test Description
 pdf: ''
 published: false
+subjects:
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---
 
 Test Content

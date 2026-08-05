@@ -27,29 +27,14 @@ season: fall
 year: 2022
 pages:
 subjects:
-  - label: "Agamben, Giorgio, 1942-"
-    scheme: "FAST"
-    identifier: "fst00075714"
-    uri: "https://id.worldcat.org/fast/75714"
-    category: "personal"
-  - label: "Althusser, Louis, 1918-1990"
-    scheme: "FAST"
-    identifier: "fst01427374"
-    uri: "https://id.worldcat.org/fast/1427374"
-    category: "personal"
-  - label: "Benjamin, Walter, 1892-1940"
-    scheme: "FAST"
-    identifier: "fst00052359"
-    uri: "https://id.worldcat.org/fast/52359"
-    category: "personal"
-  - label: "Biopolitics"
-    scheme: "FAST"
-    identifier: "fst00832668"
-    uri: "https://id.worldcat.org/fast/832668"
-    category: "topical"
-  - label: "Sovereignty"
-    scheme: "FAST"
-    identifier: "fst01127379"
-    uri: "https://id.worldcat.org/fast/1127379"
-    category: "topical"
+  - label: 'Biopolitics'
+    scheme: 'FAST'
+    identifier: 'fst00832668'
+    uri: 'https://id.worldcat.org/fast/832668'
+    category: 'topical'
+  - label: 'Sovereignty'
+    scheme: 'FAST'
+    identifier: 'fst01127379'
+    uri: 'https://id.worldcat.org/fast/1127379'
+    category: 'topical'
 ---

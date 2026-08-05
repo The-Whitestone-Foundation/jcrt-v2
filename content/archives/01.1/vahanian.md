@@ -26,50 +26,30 @@ keywords:
   - sabbath
   - alterity
   - theology-of-time
-subjects:
-  - label: "Augustine, of Hippo, Saint, 354-430"
-    scheme: "FAST"
-    identifier: "fst00061554"
-    uri: "https://id.worldcat.org/fast/61554"
-    category: "personal"
-  - label: "Barth, Karl, 1886-1968"
-    scheme: "FAST"
-    identifier: "fst00038092"
-    uri: "https://id.worldcat.org/fast/38092"
-    category: "personal"
-  - label: "Bultmann, Rudolf, 1884-1976"
-    scheme: "FAST"
-    identifier: "fst01756980"
-    uri: "https://id.worldcat.org/fast/1756980"
-    category: "personal"
-  - label: "Eschatology"
-    scheme: "FAST"
-    identifier: "fst00915134"
-    uri: "https://id.worldcat.org/fast/915134"
-    category: "topical"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Time"
-    scheme: "FAST"
-    identifier: "fst01151043"
-    uri: "https://id.worldcat.org/fast/1151043"
-    category: "topical"
 abstract:
 year: 1999
 sort_id: 04
+subjects:
+  - label: 'Eschatology'
+    scheme: 'FAST'
+    identifier: 'fst00915134'
+    uri: 'https://id.worldcat.org/fast/915134'
+    category: 'topical'
+  - label: 'Incarnation'
+    scheme: 'FAST'
+    identifier: 'fst00968453'
+    uri: 'https://id.worldcat.org/fast/968453'
+    category: 'topical'
+  - label: 'Sabbath'
+    scheme: 'FAST'
+    identifier: 'fst01102941'
+    uri: 'https://id.worldcat.org/fast/1102941'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---
 Vahanian - The Otherness of Time - JCRT 1.1
 

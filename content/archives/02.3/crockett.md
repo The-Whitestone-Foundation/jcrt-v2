@@ -28,50 +28,35 @@ keywords:
   - dasein
   - continental-philosophy
   - philosophical-theology
-subjects:
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Kristeva, Julia, 1941-"
-    scheme: "FAST"
-    identifier: "fst00015799"
-    uri: "https://id.worldcat.org/fast/15799"
-    category: "personal"
-  - label: "Marion, Jean-Luc, 1946-"
-    scheme: "FAST"
-    identifier: "fst00108351"
-    uri: "https://id.worldcat.org/fast/108351"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Philosophical theology"
-    scheme: "FAST"
-    identifier: "fst01060773"
-    uri: "https://id.worldcat.org/fast/1060773"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 05
+subjects:
+  - label: 'Continental philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01765182'
+    uri: 'https://id.worldcat.org/fast/1765182'
+    category: 'topical'
+  - label: 'Death of God'
+    scheme: 'FAST'
+    identifier: 'fst00888713'
+    uri: 'https://id.worldcat.org/fast/888713'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Philosophical theology'
+    scheme: 'FAST'
+    identifier: 'fst01060773'
+    uri: 'https://id.worldcat.org/fast/1060773'
+    category: 'topical'
 ---
 Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 

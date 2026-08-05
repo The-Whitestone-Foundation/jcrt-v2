@@ -27,29 +27,24 @@ season: winter
 year: 2016
 pages:
 subjects:
-  - label: "Beuys, Joseph"
-    scheme: "FAST"
-    identifier: "fst00042230"
-    uri: "https://id.worldcat.org/fast/42230"
-    category: "personal"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Digital humanities"
-    scheme: "FAST"
-    identifier: "fst00963599"
-    uri: "https://id.worldcat.org/fast/963599"
-    category: "topical"
-  - label: "Humanities"
-    scheme: "FAST"
-    identifier: "fst00963588"
-    uri: "https://id.worldcat.org/fast/963588"
-    category: "topical"
-  - label: "Mass media"
-    scheme: "FAST"
-    identifier: "fst01011219"
-    uri: "https://id.worldcat.org/fast/1011219"
-    category: "topical"
+  - label: 'Avant garde'
+    scheme: 'FAST'
+    identifier: 'fst01776700'
+    uri: 'https://id.worldcat.org/fast/1776700'
+    category: 'title'
+  - label: 'Digital humanities'
+    scheme: 'FAST'
+    identifier: 'fst00963599'
+    uri: 'https://id.worldcat.org/fast/963599'
+    category: 'topical'
+  - label: 'Humanities'
+    scheme: 'FAST'
+    identifier: 'fst00963588'
+    uri: 'https://id.worldcat.org/fast/963588'
+    category: 'topical'
+  - label: 'Media studies'
+    scheme: 'FAST'
+    identifier: 'fst01787007'
+    uri: 'https://id.worldcat.org/fast/1787007'
+    category: 'title'
 ---

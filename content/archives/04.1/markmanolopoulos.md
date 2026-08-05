@@ -26,50 +26,35 @@ keywords:
   - arianism
   - trinitarianism
   - god-without-being
-subjects:
-  - label: "Arianism"
-    scheme: "FAST"
-    identifier: "fst00814376"
-    uri: "https://id.worldcat.org/fast/814376"
-    category: "topical"
-  - label: "Caputo, John D."
-    scheme: "FAST"
-    identifier: "fst00026653"
-    uri: "https://id.worldcat.org/fast/26653"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Faith"
-    scheme: "FAST"
-    identifier: "fst01198492"
-    uri: "https://id.worldcat.org/fast/1198492"
-    category: "topical"
-  - label: "Marion, Jean-Luc, 1946-"
-    scheme: "FAST"
-    identifier: "fst00108351"
-    uri: "https://id.worldcat.org/fast/108351"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Trinity"
-    scheme: "FAST"
-    identifier: "fst01156777"
-    uri: "https://id.worldcat.org/fast/1156777"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 07
+subjects:
+  - label: 'Arianism'
+    scheme: 'FAST'
+    identifier: 'fst00814376'
+    uri: 'https://id.worldcat.org/fast/814376'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Dogmatism'
+    scheme: 'FAST'
+    identifier: 'fst00896231'
+    uri: 'https://id.worldcat.org/fast/896231'
+    category: 'topical'
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
 ---
 Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
 

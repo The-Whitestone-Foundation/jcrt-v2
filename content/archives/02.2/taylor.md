@@ -26,50 +26,25 @@ keywords:
   - alain-badiou
   - morphogenesis
   - metaphysics
-subjects:
-  - label: "Analogy (Religion)"
-    scheme: "FAST"
-    identifier: "fst00808319"
-    uri: "https://id.worldcat.org/fast/808319"
-    category: "topical"
-  - label: "Badiou, Alain"
-    scheme: "FAST"
-    identifier: "fst00099108"
-    uri: "https://id.worldcat.org/fast/99108"
-    category: "personal"
-  - label: "Browne, Thomas, 1604?-1673"
-    scheme: "FAST"
-    identifier: "fst00051954"
-    uri: "https://id.worldcat.org/fast/51954"
-    category: "personal"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Immanence (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00967698"
-    uri: "https://id.worldcat.org/fast/967698"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Metaphysics"
-    scheme: "FAST"
-    identifier: "fst01018304"
-    uri: "https://id.worldcat.org/fast/1018304"
-    category: "topical"
-  - label: "Representation (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01094927"
-    uri: "https://id.worldcat.org/fast/1094927"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 01
+subjects:
+  - label: 'Analogy'
+    scheme: 'FAST'
+    identifier: 'fst00808308'
+    uri: 'https://id.worldcat.org/fast/808308'
+    category: 'topical'
+  - label: 'Metaphysics'
+    scheme: 'FAST'
+    identifier: 'fst01018304'
+    uri: 'https://id.worldcat.org/fast/1018304'
+    category: 'topical'
+  - label: 'Morphogenesis'
+    scheme: 'FAST'
+    identifier: 'fst01026447'
+    uri: 'https://id.worldcat.org/fast/1026447'
+    category: 'topical'
 ---
 Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
 

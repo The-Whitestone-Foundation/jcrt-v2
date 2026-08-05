@@ -28,50 +28,35 @@ keywords:
   - language
   - prayer
   - the-event
-subjects:
-  - label: "Bereavement"
-    scheme: "FAST"
-    identifier: "fst00830665"
-    uri: "https://id.worldcat.org/fast/830665"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Desire"
-    scheme: "FAST"
-    identifier: "fst00891351"
-    uri: "https://id.worldcat.org/fast/891351"
-    category: "topical"
-  - label: "Language and languages--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00992193"
-    uri: "https://id.worldcat.org/fast/992193"
-    category: "topical"
-  - label: "Prayer"
-    scheme: "FAST"
-    identifier: "fst01074680"
-    uri: "https://id.worldcat.org/fast/1074680"
-    category: "topical"
-  - label: "Religion and literature"
-    scheme: "FAST"
-    identifier: "fst01093839"
-    uri: "https://id.worldcat.org/fast/1093839"
-    category: "topical"
-  - label: "Tolstoy, Leo, graf, 1828-1910"
-    scheme: "FAST"
-    identifier: "fst00037938"
-    uri: "https://id.worldcat.org/fast/37938"
-    category: "personal"
-  - label: "Wittgenstein, Ludwig, 1889-1951"
-    scheme: "FAST"
-    identifier: "fst00032844"
-    uri: "https://id.worldcat.org/fast/32844"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 02
+subjects:
+  - label: 'Desire'
+    scheme: 'FAST'
+    identifier: 'fst00891351'
+    uri: 'https://id.worldcat.org/fast/891351'
+    category: 'topical'
+  - label: 'Literature'
+    scheme: 'FAST'
+    identifier: 'fst00999953'
+    uri: 'https://id.worldcat.org/fast/999953'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Prayer'
+    scheme: 'FAST'
+    identifier: 'fst01074680'
+    uri: 'https://id.worldcat.org/fast/1074680'
+    category: 'topical'
+  - label: 'Theology'
+    scheme: 'FAST'
+    identifier: 'fst01149559'
+    uri: 'https://id.worldcat.org/fast/1149559'
+    category: 'topical'
 ---
 Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 

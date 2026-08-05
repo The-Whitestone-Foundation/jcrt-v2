@@ -26,50 +26,25 @@ keywords:
   - charles-long
   - materiality
   - colonialism
-subjects:
-  - label: "Aztec mythology"
-    scheme: "FAST"
-    identifier: "fst00824710"
-    uri: "https://id.worldcat.org/fast/824710"
-    category: "topical"
-  - label: "Eliade, Mircea, 1907-1986"
-    scheme: "FAST"
-    identifier: "fst00036712"
-    uri: "https://id.worldcat.org/fast/36712"
-    category: "personal"
-  - label: "Holy, The"
-    scheme: "FAST"
-    identifier: "fst00959050"
-    uri: "https://id.worldcat.org/fast/959050"
-    category: "topical"
-  - label: "Indians of North America--Religion"
-    scheme: "FAST"
-    identifier: "fst00969889"
-    uri: "https://id.worldcat.org/fast/969889"
-    category: "topical"
-  - label: "Iroquois Indians"
-    scheme: "FAST"
-    identifier: "fst00979404"
-    uri: "https://id.worldcat.org/fast/979404"
-    category: "topical"
-  - label: "Long, Charles H."
-    scheme: "FAST"
-    identifier: "fst00039569"
-    uri: "https://id.worldcat.org/fast/39569"
-    category: "personal"
-  - label: "Multiculturalism"
-    scheme: "FAST"
-    identifier: "fst01028836"
-    uri: "https://id.worldcat.org/fast/1028836"
-    category: "topical"
-  - label: "Religion--Study and teaching"
-    scheme: "FAST"
-    identifier: "fst01093807"
-    uri: "https://id.worldcat.org/fast/1093807"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 03
+subjects:
+  - label: 'Cultural pluralism'
+    scheme: 'FAST'
+    identifier: 'fst01715991'
+    uri: 'https://id.worldcat.org/fast/1715991'
+    category: 'topical'
+  - label: 'Multiculturalism'
+    scheme: 'FAST'
+    identifier: 'fst01028836'
+    uri: 'https://id.worldcat.org/fast/1028836'
+    category: 'topical'
+  - label: 'Religions'
+    scheme: 'FAST'
+    identifier: 'fst01093898'
+    uri: 'https://id.worldcat.org/fast/1093898'
+    category: 'topical'
 ---
 Arnold - Diversity in the History of Religions - JCRT 2.2 
 

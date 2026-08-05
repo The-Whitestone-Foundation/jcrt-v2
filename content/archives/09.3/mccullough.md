@@ -21,37 +21,6 @@ keywords:
   - apocalypticism
   - postmodern-theology
   - faith
-subjects:
-  - label: "Altizer, Thomas J. J."
-    scheme: "FAST"
-    identifier: "fst00043951"
-    uri: "https://id.worldcat.org/fast/43951"
-    category: "personal"
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Nihilism"
-    scheme: "FAST"
-    identifier: "fst01037702"
-    uri: "https://id.worldcat.org/fast/1037702"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
 pdf: mccullough.pdf
 sort_id: 13
 volume: 9
@@ -59,4 +28,30 @@ issue: 3
 season: fall
 year: 2008
 pages:
+subjects:
+  - label: 'Death of God theology'
+    scheme: 'FAST'
+    identifier: 'fst00888716'
+    uri: 'https://id.worldcat.org/fast/888716'
+    category: 'topical'
+  - label: 'Dialectic'
+    scheme: 'FAST'
+    identifier: 'fst00892462'
+    uri: 'https://id.worldcat.org/fast/892462'
+    category: 'topical'
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Nihilism'
+    scheme: 'FAST'
+    identifier: 'fst01037702'
+    uri: 'https://id.worldcat.org/fast/1037702'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
 ---

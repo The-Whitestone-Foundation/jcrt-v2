@@ -26,29 +26,19 @@ season: summer
 year: 2004
 pages:
 subjects:
-  - label: "Occultism"
-    scheme: "FAST"
-    identifier: "fst01043123"
-    uri: "https://id.worldcat.org/fast/1043123"
-    category: "topical"
-  - label: "Religion and culture"
-    scheme: "FAST"
-    identifier: "fst01093823"
-    uri: "https://id.worldcat.org/fast/1093823"
-    category: "topical"
-  - label: "Seances"
-    scheme: "FAST"
-    identifier: "fst01110345"
-    uri: "https://id.worldcat.org/fast/1110345"
-    category: "topical"
-  - label: "Spiritualism"
-    scheme: "FAST"
-    identifier: "fst01130170"
-    uri: "https://id.worldcat.org/fast/1130170"
-    category: "topical"
-  - label: "Spiritualists"
-    scheme: "FAST"
-    identifier: "fst01130184"
-    uri: "https://id.worldcat.org/fast/1130184"
-    category: "topical"
+  - label: 'Occultism'
+    scheme: 'FAST'
+    identifier: 'fst01043123'
+    uri: 'https://id.worldcat.org/fast/1043123'
+    category: 'topical'
+  - label: 'Spiritualism'
+    scheme: 'FAST'
+    identifier: 'fst01130170'
+    uri: 'https://id.worldcat.org/fast/1130170'
+    category: 'topical'
+  - label: 'Sympathy'
+    scheme: 'FAST'
+    identifier: 'fst01140836'
+    uri: 'https://id.worldcat.org/fast/1140836'
+    category: 'topical'
 ---

@@ -27,29 +27,19 @@ season: fall
 year: 2011
 pages:
 subjects:
-  - label: "Design"
-    scheme: "FAST"
-    identifier: "fst00891253"
-    uri: "https://id.worldcat.org/fast/891253"
-    category: "topical"
-  - label: "Human-machine systems"
-    scheme: "FAST"
-    identifier: "fst00963500"
-    uri: "https://id.worldcat.org/fast/963500"
-    category: "topical"
-  - label: "Mass media"
-    scheme: "FAST"
-    identifier: "fst01011219"
-    uri: "https://id.worldcat.org/fast/1011219"
-    category: "topical"
-  - label: "Posthumanism"
-    scheme: "FAST"
-    identifier: "fst02027038"
-    uri: "https://id.worldcat.org/fast/2027038"
-    category: "topical"
-  - label: "Technology--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01145171"
-    uri: "https://id.worldcat.org/fast/1145171"
-    category: "topical"
+  - label: 'Design'
+    scheme: 'FAST'
+    identifier: 'fst00891253'
+    uri: 'https://id.worldcat.org/fast/891253'
+    category: 'topical'
+  - label: 'Mediation'
+    scheme: 'FAST'
+    identifier: 'fst01013617'
+    uri: 'https://id.worldcat.org/fast/1013617'
+    category: 'topical'
+  - label: 'Posthumanism'
+    scheme: 'FAST'
+    identifier: 'fst02027038'
+    uri: 'https://id.worldcat.org/fast/2027038'
+    category: 'topical'
 ---

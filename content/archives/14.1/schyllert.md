@@ -21,24 +21,9 @@ season: fall
 year: 2014
 pages: 200-203
 subjects:
-  - label: "Millennialism"
-    scheme: "FAST"
-    identifier: "fst01021768"
-    uri: "https://id.worldcat.org/fast/1021768"
-    category: "topical"
-  - label: "New England"
-    scheme: "FAST"
-    identifier: "fst01241913"
-    uri: "https://id.worldcat.org/fast/1241913"
-    category: "geographic"
-  - label: "Primitivism"
-    scheme: "FAST"
-    identifier: "fst01076456"
-    uri: "https://id.worldcat.org/fast/1076456"
-    category: "topical"
-  - label: "Puritans"
-    scheme: "FAST"
-    identifier: "fst01084357"
-    uri: "https://id.worldcat.org/fast/1084357"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

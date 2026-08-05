@@ -27,50 +27,20 @@ keywords:
   - french-theory
   - jouissance
   - gender-theory
-subjects:
-  - label: "Barthes, Roland"
-    scheme: "FAST"
-    identifier: "fst00037338"
-    uri: "https://id.worldcat.org/fast/37338"
-    category: "personal"
-  - label: "Butler, Judith, 1956-"
-    scheme: "FAST"
-    identifier: "fst01428564"
-    uri: "https://id.worldcat.org/fast/1428564"
-    category: "personal"
-  - label: "De Man, Paul"
-    scheme: "FAST"
-    identifier: "fst00036574"
-    uri: "https://id.worldcat.org/fast/36574"
-    category: "personal"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Hysteria"
-    scheme: "FAST"
-    identifier: "fst00966135"
-    uri: "https://id.worldcat.org/fast/966135"
-    category: "topical"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
 abstract:
 year: 2003
 sort_id: 02
+subjects:
+  - label: 'Hysteria'
+    scheme: 'FAST'
+    identifier: 'fst00966135'
+    uri: 'https://id.worldcat.org/fast/966135'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
 ---
 Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
 

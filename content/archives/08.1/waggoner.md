@@ -28,44 +28,29 @@ season: winter
 year: 2006
 pages:
 subjects:
-  - label: "Adorno, Theodor W., 1903-1969"
-    scheme: "FAST"
-    identifier: "fst00048481"
-    uri: "https://id.worldcat.org/fast/48481"
-    category: "personal"
-  - label: "Benjamin, Walter, 1892-1940"
-    scheme: "FAST"
-    identifier: "fst00052359"
-    uri: "https://id.worldcat.org/fast/52359"
-    category: "personal"
-  - label: "Bloch, Ernst, 1885-1977"
-    scheme: "FAST"
-    identifier: "fst00050277"
-    uri: "https://id.worldcat.org/fast/50277"
-    category: "personal"
-  - label: "Critical theory"
-    scheme: "FAST"
-    identifier: "fst00883690"
-    uri: "https://id.worldcat.org/fast/883690"
-    category: "topical"
-  - label: "Habermas, Jürgen"
-    scheme: "FAST"
-    identifier: "fst00028860"
-    uri: "https://id.worldcat.org/fast/28860"
-    category: "personal"
-  - label: "Horkheimer, Max, 1895-1973"
-    scheme: "FAST"
-    identifier: "fst00049292"
-    uri: "https://id.worldcat.org/fast/49292"
-    category: "personal"
-  - label: "Marcuse, Herbert, 1898-1979"
-    scheme: "FAST"
-    identifier: "fst00060911"
-    uri: "https://id.worldcat.org/fast/60911"
-    category: "personal"
-  - label: "Philosophy and religion"
-    scheme: "FAST"
-    identifier: "fst01060826"
-    uri: "https://id.worldcat.org/fast/1060826"
-    category: "topical"
+  - label: 'Critical theory'
+    scheme: 'FAST'
+    identifier: 'fst00883690'
+    uri: 'https://id.worldcat.org/fast/883690'
+    category: 'topical'
+  - label: 'Frankfurt school of sociology'
+    scheme: 'FAST'
+    identifier: 'fst00933734'
+    uri: 'https://id.worldcat.org/fast/933734'
+    category: 'topical'
+  - label: 'Messianism'
+    scheme: 'FAST'
+    identifier: 'fst01017438'
+    uri: 'https://id.worldcat.org/fast/1017438'
+    category: 'topical'
+  - label: 'Religion and sociology'
+    scheme: 'FAST'
+    identifier: 'fst01093858'
+    uri: 'https://id.worldcat.org/fast/1093858'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---

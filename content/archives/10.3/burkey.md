@@ -26,34 +26,14 @@ season: summer
 year: 2010
 pages:
 subjects:
-  - label: "Atheism"
-    scheme: "FAST"
-    identifier: "fst00819974"
-    uri: "https://id.worldcat.org/fast/819974"
-    category: "topical"
-  - label: "Faith"
-    scheme: "FAST"
-    identifier: "fst01198492"
-    uri: "https://id.worldcat.org/fast/1198492"
-    category: "topical"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Kearney, Richard"
-    scheme: "FAST"
-    identifier: "fst01459543"
-    uri: "https://id.worldcat.org/fast/1459543"
-    category: "personal"
-  - label: "Postsecularism"
-    scheme: "FAST"
-    identifier: "fst01764747"
-    uri: "https://id.worldcat.org/fast/1764747"
-    category: "topical"
-  - label: "Theism"
-    scheme: "FAST"
-    identifier: "fst01149471"
-    uri: "https://id.worldcat.org/fast/1149471"
-    category: "topical"
+  - label: 'Continental philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01765182'
+    uri: 'https://id.worldcat.org/fast/1765182'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
 ---

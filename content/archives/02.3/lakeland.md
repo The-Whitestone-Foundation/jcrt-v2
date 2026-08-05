@@ -25,50 +25,35 @@ keywords:
   - ecclesiology
   - wolfhart-pannenberg
   - stanley-grenz
-subjects:
-  - label: "Eschatology"
-    scheme: "FAST"
-    identifier: "fst00915134"
-    uri: "https://id.worldcat.org/fast/915134"
-    category: "topical"
-  - label: "Evangelicalism"
-    scheme: "FAST"
-    identifier: "fst00917002"
-    uri: "https://id.worldcat.org/fast/917002"
-    category: "topical"
-  - label: "Foundationalism (Theory of knowledge)"
-    scheme: "FAST"
-    identifier: "fst00933265"
-    uri: "https://id.worldcat.org/fast/933265"
-    category: "topical"
-  - label: "Lindbeck, George A."
-    scheme: "FAST"
-    identifier: "fst00105936"
-    uri: "https://id.worldcat.org/fast/105936"
-    category: "personal"
-  - label: "Pannenberg, Wolfhart, 1928-2014"
-    scheme: "FAST"
-    identifier: "fst00044348"
-    uri: "https://id.worldcat.org/fast/44348"
-    category: "personal"
-  - label: "Postliberal theology"
-    scheme: "FAST"
-    identifier: "fst01073136"
-    uri: "https://id.worldcat.org/fast/1073136"
-    category: "topical"
-  - label: "Postmodern theology"
-    scheme: "FAST"
-    identifier: "fst01073163"
-    uri: "https://id.worldcat.org/fast/1073163"
-    category: "topical"
-  - label: "Trinity"
-    scheme: "FAST"
-    identifier: "fst01156777"
-    uri: "https://id.worldcat.org/fast/1156777"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 09
+subjects:
+  - label: 'Church'
+    scheme: 'FAST'
+    identifier: 'fst00860364'
+    uri: 'https://id.worldcat.org/fast/860364'
+    category: 'topical'
+  - label: 'Eschatology'
+    scheme: 'FAST'
+    identifier: 'fst00915134'
+    uri: 'https://id.worldcat.org/fast/915134'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Social constructionism'
+    scheme: 'FAST'
+    identifier: 'fst01748939'
+    uri: 'https://id.worldcat.org/fast/1748939'
+    category: 'topical'
+  - label: 'Trinity'
+    scheme: 'FAST'
+    identifier: 'fst01156777'
+    uri: 'https://id.worldcat.org/fast/1156777'
+    category: 'topical'
 ---
 Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
 

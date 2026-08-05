@@ -27,7 +27,7 @@ function walk(dir) {
 	if (!fs.existsSync(dir)) return [];
 	return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
 		const full = path.join(dir, entry.name);
-		return entry.isDirectory() ? walk(full) : entry.isFile() && entry.name.endsWith(".md") ? [full] : [];
+		return entry.isDirectory() ? walk(full) : entry.isFile() && /\.(md|njk)$/.test(entry.name) ? [full] : [];
 	});
 }
 
@@ -151,6 +151,7 @@ function yamlSubjects(subjects) {
 const files = roots.flatMap(walk);
 const parsed = files.map((file) => ({ file, ...parse(file), theory: file.includes(`${path.sep}religioustheory${path.sep}`) }));
 const wanted = new Set(parsed.flatMap((entry) => inputs(entry.data, entry.theory).map(normalize)).filter(Boolean));
+wanted.add(normalize("Religion"));
 console.error(`Scanning FAST for ${wanted.size} distinct source terms...`);
 const fast = await fastMatches(wanted);
 const homosaurus = homosaurusMatches(wanted);
@@ -172,10 +173,18 @@ for (const entry of parsed) {
 		if (fastOptions.length === 0 && homoOptions.length === 1) generated.push(homoOptions[0]);
 		else if (fastOptions.length === 0 && homoOptions.length > 1) ambiguous.add(`Homosaurus\t${term}\t${homoOptions.map((item) => item.label).join(" | ")}`);
 	}
+	if (!entry.theory && !generated.some((item) => item.scheme === "FAST")) {
+		const fallback = resolveFast(fast.get(normalize("Religion")) || [], normalize("Religion"));
+		if (fallback.length !== 1) throw new Error("FAST fallback 'Religion' did not resolve uniquely");
+		generated.push(fallback[0]);
+	}
 	const subjects = controlledSubjects(generated);
 	fastCount += subjects.filter((item) => item.scheme === "FAST").length;
 	homosaurusCount += subjects.filter((item) => item.scheme === "Homosaurus").length;
-	const withoutOld = entry.match[1].replace(/\n?subjects:\n(?:^[ \t]+.*\n?)*/m, "").trimEnd();
+	const existing = controlledSubjects(entry.data.subjects);
+	const validExisting = Array.isArray(entry.data.subjects) && existing.length === entry.data.subjects.length;
+	if (validExisting && JSON.stringify(existing) === JSON.stringify(subjects)) continue;
+	const withoutOld = entry.match[1].replace(/\n?subjects:\n(?:^[ \t]+.*\n?)*/m, "\n").trimEnd();
 	const frontmatter = subjects.length ? `${withoutOld}\n${yamlSubjects(subjects)}` : withoutOld;
 	const next = entry.raw.replace(entry.match[0], `---\n${frontmatter}\n---\n`);
 	if (next === entry.raw) continue;

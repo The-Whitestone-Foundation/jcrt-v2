@@ -26,44 +26,39 @@ season: fall
 year: 2007
 pages:
 subjects:
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Law"
-    scheme: "FAST"
-    identifier: "fst00993678"
-    uri: "https://id.worldcat.org/fast/993678"
-    category: "topical"
-  - label: "Liberty"
-    scheme: "FAST"
-    identifier: "fst00997251"
-    uri: "https://id.worldcat.org/fast/997251"
-    category: "topical"
-  - label: "Nihilism"
-    scheme: "FAST"
-    identifier: "fst01037702"
-    uri: "https://id.worldcat.org/fast/1037702"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Secularism"
-    scheme: "FAST"
-    identifier: "fst01110732"
-    uri: "https://id.worldcat.org/fast/1110732"
-    category: "topical"
-  - label: "Vattimo, Gianni, 1936-"
-    scheme: "FAST"
-    identifier: "fst00057722"
-    uri: "https://id.worldcat.org/fast/57722"
-    category: "personal"
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
+  - label: 'Law'
+    scheme: 'FAST'
+    identifier: 'fst00993678'
+    uri: 'https://id.worldcat.org/fast/993678'
+    category: 'topical'
+  - label: 'Liberty'
+    scheme: 'FAST'
+    identifier: 'fst00997251'
+    uri: 'https://id.worldcat.org/fast/997251'
+    category: 'topical'
+  - label: 'Nihilism'
+    scheme: 'FAST'
+    identifier: 'fst01037702'
+    uri: 'https://id.worldcat.org/fast/1037702'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---

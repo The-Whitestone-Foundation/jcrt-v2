@@ -24,4 +24,15 @@ issue: 1
 season: winter
 year: 2024
 pages:
+subjects:
+  - label: 'Aesthetics'
+    scheme: 'FAST'
+    identifier: 'fst00798702'
+    uri: 'https://id.worldcat.org/fast/798702'
+    category: 'topical'
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
 ---

@@ -26,50 +26,25 @@ keywords:
   - habitus
   - disciplinary-emulation
   - aesthetic-judgment
-subjects:
-  - label: "Bourdieu, Pierre, 1930-2002"
-    scheme: "FAST"
-    identifier: "fst01427371"
-    uri: "https://id.worldcat.org/fast/1427371"
-    category: "personal"
-  - label: "Criticism"
-    scheme: "FAST"
-    identifier: "fst00883735"
-    uri: "https://id.worldcat.org/fast/883735"
-    category: "topical"
-  - label: "De Man, Paul"
-    scheme: "FAST"
-    identifier: "fst00036574"
-    uri: "https://id.worldcat.org/fast/36574"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Habitus (Sociology)"
-    scheme: "FAST"
-    identifier: "fst01910997"
-    uri: "https://id.worldcat.org/fast/1910997"
-    category: "topical"
-  - label: "Kuhn, Thomas S. (Thomas Samuel), 1922-1996"
-    scheme: "FAST"
-    identifier: "fst00015867"
-    uri: "https://id.worldcat.org/fast/15867"
-    category: "personal"
-  - label: "New Criticism"
-    scheme: "FAST"
-    identifier: "fst01036719"
-    uri: "https://id.worldcat.org/fast/1036719"
-    category: "topical"
-  - label: "Paradigm (Theory of knowledge)"
-    scheme: "FAST"
-    identifier: "fst01052826"
-    uri: "https://id.worldcat.org/fast/1052826"
-    category: "topical"
 abstract:
 year: 2003
 sort_id: 08
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Literary criticism'
+    scheme: 'FAST'
+    identifier: 'fst01986215'
+    uri: 'https://id.worldcat.org/fast/1986215'
+    category: 'form-genre'
+  - label: 'New Criticism'
+    scheme: 'FAST'
+    identifier: 'fst01036719'
+    uri: 'https://id.worldcat.org/fast/1036719'
+    category: 'topical'
 ---
 Williams - Theory Change - JCRT 4.2 
 

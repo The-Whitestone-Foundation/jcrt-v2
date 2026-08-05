@@ -19,24 +19,9 @@ season: fall
 year: 2014
 pages:
 subjects:
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Religion--Study and teaching"
-    scheme: "FAST"
-    identifier: "fst01093807"
-    uri: "https://id.worldcat.org/fast/1093807"
-    category: "topical"
-  - label: "Semiotics"
-    scheme: "FAST"
-    identifier: "fst01112351"
-    uri: "https://id.worldcat.org/fast/1112351"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

@@ -26,45 +26,30 @@ keywords:
   - glory
   - justice
   - community
-subjects:
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "History--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00958266"
-    uri: "https://id.worldcat.org/fast/958266"
-    category: "topical"
-  - label: "Justice"
-    scheme: "FAST"
-    identifier: "fst00985122"
-    uri: "https://id.worldcat.org/fast/985122"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Memory"
-    scheme: "FAST"
-    identifier: "fst01015913"
-    uri: "https://id.worldcat.org/fast/1015913"
-    category: "topical"
-  - label: "Milbank, John"
-    scheme: "FAST"
-    identifier: "fst00261544"
-    uri: "https://id.worldcat.org/fast/261544"
-    category: "personal"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 02
+subjects:
+  - label: 'Community'
+    scheme: 'FAST'
+    identifier: 'fst00870635'
+    uri: 'https://id.worldcat.org/fast/870635'
+    category: 'topical'
+  - label: 'Glory'
+    scheme: 'FAST'
+    identifier: 'fst00943612'
+    uri: 'https://id.worldcat.org/fast/943612'
+    category: 'topical'
+  - label: 'Justice'
+    scheme: 'FAST'
+    identifier: 'fst00985122'
+    uri: 'https://id.worldcat.org/fast/985122'
+    category: 'topical'
+  - label: 'Memory'
+    scheme: 'FAST'
+    identifier: 'fst01015913'
+    uri: 'https://id.worldcat.org/fast/1015913'
+    category: 'topical'
 ---
 Wyschogrod & Raschke - Heterological History - JCRT 1.2 
 Edith Wyschogrod  

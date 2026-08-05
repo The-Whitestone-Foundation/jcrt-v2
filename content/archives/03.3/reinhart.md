@@ -25,45 +25,50 @@ keywords:
   - truth-and-reconciliation
   - modernity
   - ethics
-subjects:
-  - label: "Cosmopolitanism"
-    scheme: "FAST"
-    identifier: "fst00880635"
-    uri: "https://id.worldcat.org/fast/880635"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Emigration and immigration"
-    scheme: "FAST"
-    identifier: "fst00908690"
-    uri: "https://id.worldcat.org/fast/908690"
-    category: "topical"
-  - label: "Forgiveness"
-    scheme: "FAST"
-    identifier: "fst00932854"
-    uri: "https://id.worldcat.org/fast/932854"
-    category: "topical"
-  - label: "Hospitality"
-    scheme: "FAST"
-    identifier: "fst00961114"
-    uri: "https://id.worldcat.org/fast/961114"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 09
+subjects:
+  - label: 'Asylum, Right of Biblical teaching'
+    scheme: 'FAST'
+    identifier: 'fst00819844'
+    uri: 'https://id.worldcat.org/fast/819844'
+    category: 'topical'
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Cosmopolitanism'
+    scheme: 'FAST'
+    identifier: 'fst00880635'
+    uri: 'https://id.worldcat.org/fast/880635'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Emigration and immigration'
+    scheme: 'FAST'
+    identifier: 'fst00908690'
+    uri: 'https://id.worldcat.org/fast/908690'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Forgiveness'
+    scheme: 'FAST'
+    identifier: 'fst00932854'
+    uri: 'https://id.worldcat.org/fast/932854'
+    category: 'topical'
+  - label: 'Hospitality'
+    scheme: 'FAST'
+    identifier: 'fst00961114'
+    uri: 'https://id.worldcat.org/fast/961114'
+    category: 'topical'
 ---
 Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 
 

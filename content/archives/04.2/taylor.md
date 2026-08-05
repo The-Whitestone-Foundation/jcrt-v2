@@ -25,45 +25,30 @@ keywords:
   - parabasis
   - transcendental
   - abraham-and-isaac
-subjects:
-  - label: "Allegory"
-    scheme: "FAST"
-    identifier: "fst00805516"
-    uri: "https://id.worldcat.org/fast/805516"
-    category: "topical"
-  - label: "De Man, Paul"
-    scheme: "FAST"
-    identifier: "fst00036574"
-    uri: "https://id.worldcat.org/fast/36574"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Kafka, Franz, 1883-1924"
-    scheme: "FAST"
-    identifier: "fst00073986"
-    uri: "https://id.worldcat.org/fast/73986"
-    category: "personal"
-  - label: "Ronell, Avital"
-    scheme: "FAST"
-    identifier: "fst00157705"
-    uri: "https://id.worldcat.org/fast/157705"
-    category: "personal"
-  - label: "Stupidity"
-    scheme: "FAST"
-    identifier: "fst01136261"
-    uri: "https://id.worldcat.org/fast/1136261"
-    category: "topical"
 abstract:
 year: 2003
 sort_id: 10
+subjects:
+  - label: 'Abraham and Isaac'
+    scheme: 'FAST'
+    identifier: 'fst01379855'
+    uri: 'https://id.worldcat.org/fast/1379855'
+    category: 'title'
+  - label: 'Allegory'
+    scheme: 'FAST'
+    identifier: 'fst00805516'
+    uri: 'https://id.worldcat.org/fast/805516'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Stupidity'
+    scheme: 'FAST'
+    identifier: 'fst01136261'
+    uri: 'https://id.worldcat.org/fast/1136261'
+    category: 'topical'
 ---
 Taylor - Refusing Theory - JCRT 4.2 
 

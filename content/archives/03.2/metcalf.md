@@ -28,50 +28,40 @@ keywords:
   - sublimation
   - wish-fulfillment
   - plato
-subjects:
-  - label: "Freud, Sigmund, 1856-1939"
-    scheme: "FAST"
-    identifier: "fst00034252"
-    uri: "https://id.worldcat.org/fast/34252"
-    category: "personal"
-  - label: "Logos (Christian theology)"
-    scheme: "FAST"
-    identifier: "fst01002124"
-    uri: "https://id.worldcat.org/fast/1002124"
-    category: "topical"
-  - label: "Monotheism"
-    scheme: "FAST"
-    identifier: "fst01025714"
-    uri: "https://id.worldcat.org/fast/1025714"
-    category: "topical"
-  - label: "Narcissism"
-    scheme: "FAST"
-    identifier: "fst01032736"
-    uri: "https://id.worldcat.org/fast/1032736"
-    category: "topical"
-  - label: "Plato"
-    scheme: "FAST"
-    identifier: "fst00046610"
-    uri: "https://id.worldcat.org/fast/46610"
-    category: "personal"
-  - label: "Psychoanalysis and religion"
-    scheme: "FAST"
-    identifier: "fst01081280"
-    uri: "https://id.worldcat.org/fast/1081280"
-    category: "topical"
-  - label: "Ricœur, Paul"
-    scheme: "FAST"
-    identifier: "fst00035920"
-    uri: "https://id.worldcat.org/fast/35920"
-    category: "personal"
-  - label: "Sublimation (Psychology)"
-    scheme: "FAST"
-    identifier: "fst01136591"
-    uri: "https://id.worldcat.org/fast/1136591"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 06
+subjects:
+  - label: 'Logos'
+    scheme: 'FAST'
+    identifier: 'fst01939177'
+    uri: 'https://id.worldcat.org/fast/1939177'
+    category: 'topical'
+  - label: 'Narcissism'
+    scheme: 'FAST'
+    identifier: 'fst01032736'
+    uri: 'https://id.worldcat.org/fast/1032736'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
+  - label: 'Science'
+    scheme: 'FAST'
+    identifier: 'fst01108176'
+    uri: 'https://id.worldcat.org/fast/1108176'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
+  - label: 'Sublimation (Psychology)'
+    scheme: 'FAST'
+    identifier: 'fst01136591'
+    uri: 'https://id.worldcat.org/fast/1136591'
+    category: 'topical'
 ---
 Metcalf - The Word of Freud - JCRT 3.2 
 

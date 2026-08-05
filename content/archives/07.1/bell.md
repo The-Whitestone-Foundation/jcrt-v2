@@ -26,44 +26,44 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "God"
-    scheme: "FAST"
-    identifier: "fst00944037"
-    uri: "https://id.worldcat.org/fast/944037"
-    category: "topical"
-  - label: "Holiness"
-    scheme: "FAST"
-    identifier: "fst00958754"
-    uri: "https://id.worldcat.org/fast/958754"
-    category: "topical"
-  - label: "Lash, Nicholas"
-    scheme: "FAST"
-    identifier: "fst00048621"
-    uri: "https://id.worldcat.org/fast/48621"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Prayer"
-    scheme: "FAST"
-    identifier: "fst01074680"
-    uri: "https://id.worldcat.org/fast/1074680"
-    category: "topical"
-  - label: "Silence"
-    scheme: "FAST"
-    identifier: "fst01118516"
-    uri: "https://id.worldcat.org/fast/1118516"
-    category: "topical"
-  - label: "Theology"
-    scheme: "FAST"
-    identifier: "fst01149559"
-    uri: "https://id.worldcat.org/fast/1149559"
-    category: "topical"
-  - label: "Worship"
-    scheme: "FAST"
-    identifier: "fst01181450"
-    uri: "https://id.worldcat.org/fast/1181450"
-    category: "topical"
+  - label: 'God'
+    scheme: 'FAST'
+    identifier: 'fst00944037'
+    uri: 'https://id.worldcat.org/fast/944037'
+    category: 'topical'
+  - label: 'Holiness'
+    scheme: 'FAST'
+    identifier: 'fst00958754'
+    uri: 'https://id.worldcat.org/fast/958754'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Prayer'
+    scheme: 'FAST'
+    identifier: 'fst01074680'
+    uri: 'https://id.worldcat.org/fast/1074680'
+    category: 'topical'
+  - label: 'Silence'
+    scheme: 'FAST'
+    identifier: 'fst01118516'
+    uri: 'https://id.worldcat.org/fast/1118516'
+    category: 'topical'
+  - label: 'Speech'
+    scheme: 'FAST'
+    identifier: 'fst01129153'
+    uri: 'https://id.worldcat.org/fast/1129153'
+    category: 'topical'
+  - label: 'Theology'
+    scheme: 'FAST'
+    identifier: 'fst01149559'
+    uri: 'https://id.worldcat.org/fast/1149559'
+    category: 'topical'
+  - label: 'Worship'
+    scheme: 'FAST'
+    identifier: 'fst01181450'
+    uri: 'https://id.worldcat.org/fast/1181450'
+    category: 'topical'
 ---

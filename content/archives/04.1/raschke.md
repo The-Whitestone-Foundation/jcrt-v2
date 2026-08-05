@@ -28,50 +28,45 @@ keywords:
   - dialogue
   - heterology
   - subjectivity
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Descartes, René, 1596-1650"
-    scheme: "FAST"
-    identifier: "fst00036818"
-    uri: "https://id.worldcat.org/fast/36818"
-    category: "personal"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Faith"
-    scheme: "FAST"
-    identifier: "fst01198492"
-    uri: "https://id.worldcat.org/fast/1198492"
-    category: "topical"
-  - label: "Husserl, Edmund, 1859-1938"
-    scheme: "FAST"
-    identifier: "fst00042628"
-    uri: "https://id.worldcat.org/fast/42628"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 02
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Dialogue'
+    scheme: 'FAST'
+    identifier: 'fst00892486'
+    uri: 'https://id.worldcat.org/fast/892486'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Infinite'
+    scheme: 'FAST'
+    identifier: 'fst00972421'
+    uri: 'https://id.worldcat.org/fast/972421'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Subjectivity'
+    scheme: 'FAST'
+    identifier: 'fst01136568'
+    uri: 'https://id.worldcat.org/fast/1136568'
+    category: 'topical'
 ---
 Raschke - From Religion to Faith - JCRT 4.1 
 

@@ -27,45 +27,45 @@ keywords:
   - phenomenology
   - invisibility
   - disenchantment
-subjects:
-  - label: "Benjamin, Walter, 1892-1940"
-    scheme: "FAST"
-    identifier: "fst00052359"
-    uri: "https://id.worldcat.org/fast/52359"
-    category: "personal"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Icons"
-    scheme: "FAST"
-    identifier: "fst00966768"
-    uri: "https://id.worldcat.org/fast/966768"
-    category: "topical"
-  - label: "Nicholas, of Cusa, Cardinal, 1401-1464"
-    scheme: "FAST"
-    identifier: "fst00081001"
-    uri: "https://id.worldcat.org/fast/81001"
-    category: "personal"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Representation (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01094927"
-    uri: "https://id.worldcat.org/fast/1094927"
-    category: "topical"
-  - label: "Subjectivity"
-    scheme: "FAST"
-    identifier: "fst01136568"
-    uri: "https://id.worldcat.org/fast/1136568"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 05
+subjects:
+  - label: 'Aura'
+    scheme: 'FAST'
+    identifier: 'fst00821342'
+    uri: 'https://id.worldcat.org/fast/821342'
+    category: 'topical'
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Invisibility'
+    scheme: 'FAST'
+    identifier: 'fst01764553'
+    uri: 'https://id.worldcat.org/fast/1764553'
+    category: 'topical'
+  - label: 'Perspective'
+    scheme: 'FAST'
+    identifier: 'fst01058877'
+    uri: 'https://id.worldcat.org/fast/1058877'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
+  - label: 'Subjectivity'
+    scheme: 'FAST'
+    identifier: 'fst01136568'
+    uri: 'https://id.worldcat.org/fast/1136568'
+    category: 'topical'
 ---
 Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
 

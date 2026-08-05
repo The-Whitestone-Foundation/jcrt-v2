@@ -26,34 +26,19 @@ season: summer
 year: 2010
 pages:
 subjects:
-  - label: "Cosmography"
-    scheme: "FAST"
-    identifier: "fst00880594"
-    uri: "https://id.worldcat.org/fast/880594"
-    category: "topical"
-  - label: "Curiosities and wonders"
-    scheme: "FAST"
-    identifier: "fst00885285"
-    uri: "https://id.worldcat.org/fast/885285"
-    category: "topical"
-  - label: "Discoveries in geography"
-    scheme: "FAST"
-    identifier: "fst00894950"
-    uri: "https://id.worldcat.org/fast/894950"
-    category: "topical"
-  - label: "Marvelous, The"
-    scheme: "FAST"
-    identifier: "fst01010938"
-    uri: "https://id.worldcat.org/fast/1010938"
-    category: "topical"
-  - label: "Natural history"
-    scheme: "FAST"
-    identifier: "fst01034268"
-    uri: "https://id.worldcat.org/fast/1034268"
-    category: "topical"
-  - label: "Voyages and travels"
-    scheme: "FAST"
-    identifier: "fst01169308"
-    uri: "https://id.worldcat.org/fast/1169308"
-    category: "topical"
+  - label: 'Cosmography'
+    scheme: 'FAST'
+    identifier: 'fst00880594'
+    uri: 'https://id.worldcat.org/fast/880594'
+    category: 'topical'
+  - label: 'Natural history'
+    scheme: 'FAST'
+    identifier: 'fst01034268'
+    uri: 'https://id.worldcat.org/fast/1034268'
+    category: 'topical'
+  - label: 'Renaissance'
+    scheme: 'FAST'
+    identifier: 'fst01094518'
+    uri: 'https://id.worldcat.org/fast/1094518'
+    category: 'topical'
 ---

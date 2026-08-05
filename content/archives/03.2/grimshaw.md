@@ -28,50 +28,40 @@ keywords:
   - georges-bataille
   - western-genre
   - apocalypticism
-subjects:
-  - label: "Bataille, Georges, 1897-1962"
-    scheme: "FAST"
-    identifier: "fst00008540"
-    uri: "https://id.worldcat.org/fast/8540"
-    category: "personal"
-  - label: "Baudrillard, Jean, 1929-2007"
-    scheme: "FAST"
-    identifier: "fst01432596"
-    uri: "https://id.worldcat.org/fast/1432596"
-    category: "personal"
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Ennis, Garth"
-    scheme: "FAST"
-    identifier: "fst01518118"
-    uri: "https://id.worldcat.org/fast/1518118"
-    category: "personal"
-  - label: "Gnosticism"
-    scheme: "FAST"
-    identifier: "fst00943906"
-    uri: "https://id.worldcat.org/fast/943906"
-    category: "topical"
-  - label: "Graphic novels"
-    scheme: "FAST"
-    identifier: "fst00946656"
-    uri: "https://id.worldcat.org/fast/946656"
-    category: "topical"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Popular culture"
-    scheme: "FAST"
-    identifier: "fst01071344"
-    uri: "https://id.worldcat.org/fast/1071344"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 08
+subjects:
+  - label: 'Death of God'
+    scheme: 'FAST'
+    identifier: 'fst00888713'
+    uri: 'https://id.worldcat.org/fast/888713'
+    category: 'topical'
+  - label: 'Generation X'
+    scheme: 'FAST'
+    identifier: 'fst00939868'
+    uri: 'https://id.worldcat.org/fast/939868'
+    category: 'topical'
+  - label: 'Gnosticism'
+    scheme: 'FAST'
+    identifier: 'fst00943906'
+    uri: 'https://id.worldcat.org/fast/943906'
+    category: 'topical'
+  - label: 'Graphic novels'
+    scheme: 'FAST'
+    identifier: 'fst00946656'
+    uri: 'https://id.worldcat.org/fast/946656'
+    category: 'topical'
+  - label: 'Popular culture'
+    scheme: 'FAST'
+    identifier: 'fst01071344'
+    uri: 'https://id.worldcat.org/fast/1071344'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---
 Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 
 

@@ -27,29 +27,44 @@ season: spring
 year: 2005
 pages:
 subjects:
-  - label: "Human rights"
-    scheme: "FAST"
-    identifier: "fst00963285"
-    uri: "https://id.worldcat.org/fast/963285"
-    category: "topical"
-  - label: "Ignatieff, Michael"
-    scheme: "FAST"
-    identifier: "fst00050628"
-    uri: "https://id.worldcat.org/fast/50628"
-    category: "personal"
-  - label: "Political ethics"
-    scheme: "FAST"
-    identifier: "fst01069286"
-    uri: "https://id.worldcat.org/fast/1069286"
-    category: "topical"
-  - label: "Terrorism"
-    scheme: "FAST"
-    identifier: "fst01148101"
-    uri: "https://id.worldcat.org/fast/1148101"
-    category: "topical"
-  - label: "Torture"
-    scheme: "FAST"
-    identifier: "fst01152956"
-    uri: "https://id.worldcat.org/fast/1152956"
-    category: "topical"
+  - label: 'Civil rights'
+    scheme: 'FAST'
+    identifier: 'fst00862627'
+    uri: 'https://id.worldcat.org/fast/862627'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Human rights'
+    scheme: 'FAST'
+    identifier: 'fst00963285'
+    uri: 'https://id.worldcat.org/fast/963285'
+    category: 'topical'
+  - label: 'Political ethics'
+    scheme: 'FAST'
+    identifier: 'fst01069286'
+    uri: 'https://id.worldcat.org/fast/1069286'
+    category: 'topical'
+  - label: 'Terrorism'
+    scheme: 'FAST'
+    identifier: 'fst01148101'
+    uri: 'https://id.worldcat.org/fast/1148101'
+    category: 'topical'
+  - label: 'Terrorism Prevention'
+    scheme: 'FAST'
+    identifier: 'fst01148123'
+    uri: 'https://id.worldcat.org/fast/1148123'
+    category: 'topical'
+  - label: 'Torture'
+    scheme: 'FAST'
+    identifier: 'fst01152956'
+    uri: 'https://id.worldcat.org/fast/1152956'
+    category: 'topical'
+  - label: 'War on terror'
+    scheme: 'FAST'
+    identifier: 'fst02057043'
+    uri: 'https://id.worldcat.org/fast/2057043'
+    category: 'title'
 ---

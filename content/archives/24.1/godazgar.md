@@ -25,39 +25,39 @@ season: summer
 year: 2024
 pages: 37-74
 subjects:
-  - label: "Assisted suicide"
-    scheme: "FAST"
-    identifier: "fst00819130"
-    uri: "https://id.worldcat.org/fast/819130"
-    category: "topical"
-  - label: "Euthanasia"
-    scheme: "FAST"
-    identifier: "fst00916915"
-    uri: "https://id.worldcat.org/fast/916915"
-    category: "topical"
-  - label: "Islam"
-    scheme: "FAST"
-    identifier: "fst00979776"
-    uri: "https://id.worldcat.org/fast/979776"
-    category: "topical"
-  - label: "Medical ethics"
-    scheme: "FAST"
-    identifier: "fst01014081"
-    uri: "https://id.worldcat.org/fast/1014081"
-    category: "topical"
-  - label: "Medical ethics--Religious aspects--Islam"
-    scheme: "FAST"
-    identifier: "fst02008089"
-    uri: "https://id.worldcat.org/fast/2008089"
-    category: "topical"
-  - label: "Social constructionism"
-    scheme: "FAST"
-    identifier: "fst01748939"
-    uri: "https://id.worldcat.org/fast/1748939"
-    category: "topical"
-  - label: "Terminal care"
-    scheme: "FAST"
-    identifier: "fst01147835"
-    uri: "https://id.worldcat.org/fast/1147835"
-    category: "topical"
+  - label: 'Assisted suicide'
+    scheme: 'FAST'
+    identifier: 'fst00819130'
+    uri: 'https://id.worldcat.org/fast/819130'
+    category: 'topical'
+  - label: 'Euthanasia'
+    scheme: 'FAST'
+    identifier: 'fst00916915'
+    uri: 'https://id.worldcat.org/fast/916915'
+    category: 'topical'
+  - label: 'Islam'
+    scheme: 'FAST'
+    identifier: 'fst00979776'
+    uri: 'https://id.worldcat.org/fast/979776'
+    category: 'topical'
+  - label: 'Medical ethics'
+    scheme: 'FAST'
+    identifier: 'fst01014081'
+    uri: 'https://id.worldcat.org/fast/1014081'
+    category: 'topical'
+  - label: 'Medicine Religious aspects'
+    scheme: 'FAST'
+    identifier: 'fst01015038'
+    uri: 'https://id.worldcat.org/fast/1015038'
+    category: 'topical'
+  - label: 'Social constructionism'
+    scheme: 'FAST'
+    identifier: 'fst01748939'
+    uri: 'https://id.worldcat.org/fast/1748939'
+    category: 'topical'
+  - label: 'Terminal care'
+    scheme: 'FAST'
+    identifier: 'fst01147835'
+    uri: 'https://id.worldcat.org/fast/1147835'
+    category: 'topical'
 ---

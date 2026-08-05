@@ -27,39 +27,34 @@ season: winter
 year: 2004
 pages:
 subjects:
-  - label: "Fascism"
-    scheme: "FAST"
-    identifier: "fst00921551"
-    uri: "https://id.worldcat.org/fast/921551"
-    category: "topical"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Irrationalism (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00979483"
-    uri: "https://id.worldcat.org/fast/979483"
-    category: "topical"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Political science--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01069819"
-    uri: "https://id.worldcat.org/fast/1069819"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Totalitarianism"
-    scheme: "FAST"
-    identifier: "fst01153040"
-    uri: "https://id.worldcat.org/fast/1153040"
-    category: "topical"
+  - label: 'Fascism'
+    scheme: 'FAST'
+    identifier: 'fst00921551'
+    uri: 'https://id.worldcat.org/fast/921551'
+    category: 'topical'
+  - label: 'Political science Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01069819'
+    uri: 'https://id.worldcat.org/fast/1069819'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Poststructuralism'
+    scheme: 'FAST'
+    identifier: 'fst01073231'
+    uri: 'https://id.worldcat.org/fast/1073231'
+    category: 'topical'
+  - label: 'Romanticism'
+    scheme: 'FAST'
+    identifier: 'fst01100133'
+    uri: 'https://id.worldcat.org/fast/1100133'
+    category: 'topical'
+  - label: 'Totalitarianism'
+    scheme: 'FAST'
+    identifier: 'fst01153040'
+    uri: 'https://id.worldcat.org/fast/1153040'
+    category: 'topical'
 ---

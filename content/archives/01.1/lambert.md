@@ -26,50 +26,30 @@ keywords:
   - paul-klee
   - modern-art
   - perception
-subjects:
-  - label: "Aesthetics"
-    scheme: "FAST"
-    identifier: "fst00798702"
-    uri: "https://id.worldcat.org/fast/798702"
-    category: "topical"
-  - label: "Art and philosophy"
-    scheme: "FAST"
-    identifier: "fst00815419"
-    uri: "https://id.worldcat.org/fast/815419"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Extraterrestrial beings"
-    scheme: "FAST"
-    identifier: "fst01742248"
-    uri: "https://id.worldcat.org/fast/1742248"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Klee, Paul, 1879-1940"
-    scheme: "FAST"
-    identifier: "fst00041225"
-    uri: "https://id.worldcat.org/fast/41225"
-    category: "personal"
-  - label: "Science fiction"
-    scheme: "FAST"
-    identifier: "fst01108566"
-    uri: "https://id.worldcat.org/fast/1108566"
-    category: "topical"
-  - label: "Sublime, The"
-    scheme: "FAST"
-    identifier: "fst01136594"
-    uri: "https://id.worldcat.org/fast/1136594"
-    category: "topical"
 abstract:
 year: 1999
 sort_id: 03
+subjects:
+  - label: 'Aesthetics'
+    scheme: 'FAST'
+    identifier: 'fst00798702'
+    uri: 'https://id.worldcat.org/fast/798702'
+    category: 'topical'
+  - label: 'Extraterrestrial beings'
+    scheme: 'FAST'
+    identifier: 'fst01742248'
+    uri: 'https://id.worldcat.org/fast/1742248'
+    category: 'topical'
+  - label: 'Perception'
+    scheme: 'FAST'
+    identifier: 'fst01057622'
+    uri: 'https://id.worldcat.org/fast/1057622'
+    category: 'topical'
+  - label: 'Science fiction'
+    scheme: 'FAST'
+    identifier: 'fst01108566'
+    uri: 'https://id.worldcat.org/fast/1108566'
+    category: 'topical'
 ---
 Lambert - The Work of Art - JCRT 1.1 
 

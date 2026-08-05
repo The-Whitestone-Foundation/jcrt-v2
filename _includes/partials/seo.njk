@@ -150,6 +150,12 @@
 {% set schemaAuthors = authorName | splitAuthors %}
 {% set citationPublicationDate = publishedDate.split("T")[0] if publishedDate else "" %}
 
+{% if pageParts[1] == "archives" and not isArchivesArticlePage %}
+  {% for subject in (subjects or []) %}
+  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-identifier="{{ subject.identifier }}" data-subject-uri="{{ subject.uri }}" data-subject-category="{{ subject.category }}" />
+  {% endfor %}
+{% endif %}
+
 {# ── Dublin Core article + Google Scholar citation tags (article detail pages only) ── #}
 {% if isArchivesArticlePage %}
   <link rel="cite-as" href="{{ fairPageUrl }}" />
@@ -166,7 +172,7 @@
   <meta property="dc:subject" content="{{ kw | replace('-', ' ') }}" />
   {% endfor %}
   {% for subject in (subjects or []) %}
-  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-category="{{ subject.category }}" />
+  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-identifier="{{ subject.identifier }}" data-subject-uri="{{ subject.uri }}" data-subject-category="{{ subject.category }}" />
   {% endfor %}
   {% for aName in schemaAuthors %}
   <meta property="dc:creator" content="{{ aName }}" />
@@ -231,7 +237,7 @@
   <meta property="dc:subject" content="{{ cat }}" />
   {% endfor %}
   {% for subject in (subjects or []) %}
-  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-category="{{ subject.category }}" />
+  <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-identifier="{{ subject.identifier }}" data-subject-uri="{{ subject.uri }}" data-subject-category="{{ subject.category }}" />
   {% endfor %}
 {% else %}
   <meta property="dc:type" content="text" />

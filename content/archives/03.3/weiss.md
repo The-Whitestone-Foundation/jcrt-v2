@@ -25,45 +25,35 @@ keywords:
   - cybernetic-immortality
   - philosophy-of-mind
   - science-fiction
-subjects:
-  - label: "Artificial intelligence"
-    scheme: "FAST"
-    identifier: "fst00817247"
-    uri: "https://id.worldcat.org/fast/817247"
-    category: "topical"
-  - label: "Barth, Karl, 1886-1968"
-    scheme: "FAST"
-    identifier: "fst00038092"
-    uri: "https://id.worldcat.org/fast/38092"
-    category: "personal"
-  - label: "Image of God"
-    scheme: "FAST"
-    identifier: "fst01432055"
-    uri: "https://id.worldcat.org/fast/1432055"
-    category: "topical"
-  - label: "Philosophy of mind"
-    scheme: "FAST"
-    identifier: "fst01060840"
-    uri: "https://id.worldcat.org/fast/1060840"
-    category: "topical"
-  - label: "Robotics"
-    scheme: "FAST"
-    identifier: "fst01098997"
-    uri: "https://id.worldcat.org/fast/1098997"
-    category: "topical"
-  - label: "Theological anthropology"
-    scheme: "FAST"
-    identifier: "fst01431587"
-    uri: "https://id.worldcat.org/fast/1431587"
-    category: "topical"
-  - label: "Turkle, Sherry"
-    scheme: "FAST"
-    identifier: "fst00026130"
-    uri: "https://id.worldcat.org/fast/26130"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 06
+subjects:
+  - label: 'Artificial intelligence'
+    scheme: 'FAST'
+    identifier: 'fst00817247'
+    uri: 'https://id.worldcat.org/fast/817247'
+    category: 'topical'
+  - label: 'Philosophy of mind'
+    scheme: 'FAST'
+    identifier: 'fst01060840'
+    uri: 'https://id.worldcat.org/fast/1060840'
+    category: 'topical'
+  - label: 'Robotics'
+    scheme: 'FAST'
+    identifier: 'fst01098997'
+    uri: 'https://id.worldcat.org/fast/1098997'
+    category: 'topical'
+  - label: 'Science fiction'
+    scheme: 'FAST'
+    identifier: 'fst01108566'
+    uri: 'https://id.worldcat.org/fast/1108566'
+    category: 'topical'
+  - label: 'Theological anthropology'
+    scheme: 'FAST'
+    identifier: 'fst01431587'
+    uri: 'https://id.worldcat.org/fast/1431587'
+    category: 'topical'
 ---
 Weiss - Review of In Our Image - JCRT 3.3 
 

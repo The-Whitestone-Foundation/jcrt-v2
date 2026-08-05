@@ -25,29 +25,39 @@ season: winter
 year: 2006
 pages:
 subjects:
-  - label: "Multiculturalism"
-    scheme: "FAST"
-    identifier: "fst01028836"
-    uri: "https://id.worldcat.org/fast/1028836"
-    category: "topical"
-  - label: "Religion and sociology"
-    scheme: "FAST"
-    identifier: "fst01093858"
-    uri: "https://id.worldcat.org/fast/1093858"
-    category: "topical"
-  - label: "Religious minorities"
-    scheme: "FAST"
-    identifier: "fst01094193"
-    uri: "https://id.worldcat.org/fast/1094193"
-    category: "topical"
-  - label: "Religious pluralism"
-    scheme: "FAST"
-    identifier: "fst01094200"
-    uri: "https://id.worldcat.org/fast/1094200"
-    category: "topical"
-  - label: "Religious tolerance"
-    scheme: "FAST"
-    identifier: "fst01094328"
-    uri: "https://id.worldcat.org/fast/1094328"
-    category: "topical"
+  - label: 'Cultural pluralism'
+    scheme: 'FAST'
+    identifier: 'fst01715991'
+    uri: 'https://id.worldcat.org/fast/1715991'
+    category: 'topical'
+  - label: 'Emigration and immigration'
+    scheme: 'FAST'
+    identifier: 'fst00908690'
+    uri: 'https://id.worldcat.org/fast/908690'
+    category: 'topical'
+  - label: 'Multiculturalism'
+    scheme: 'FAST'
+    identifier: 'fst01028836'
+    uri: 'https://id.worldcat.org/fast/1028836'
+    category: 'topical'
+  - label: 'Religion and sociology'
+    scheme: 'FAST'
+    identifier: 'fst01093858'
+    uri: 'https://id.worldcat.org/fast/1093858'
+    category: 'topical'
+  - label: 'Religious pluralism'
+    scheme: 'FAST'
+    identifier: 'fst01094200'
+    uri: 'https://id.worldcat.org/fast/1094200'
+    category: 'topical'
+  - label: 'Secularism'
+    scheme: 'FAST'
+    identifier: 'fst01110732'
+    uri: 'https://id.worldcat.org/fast/1110732'
+    category: 'topical'
+  - label: 'Toleration'
+    scheme: 'FAST'
+    identifier: 'fst01152232'
+    uri: 'https://id.worldcat.org/fast/1152232'
+    category: 'topical'
 ---

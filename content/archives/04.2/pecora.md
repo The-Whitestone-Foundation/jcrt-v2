@@ -26,50 +26,50 @@ keywords:
   - friedrich-nietzsche
   - political-theology
   - clash-of-civilizations
-subjects:
-  - label: "Asad, Talal"
-    scheme: "FAST"
-    identifier: "fst01432432"
-    uri: "https://id.worldcat.org/fast/1432432"
-    category: "personal"
-  - label: "Christianity"
-    scheme: "FAST"
-    identifier: "fst00859599"
-    uri: "https://id.worldcat.org/fast/859599"
-    category: "topical"
-  - label: "Civilization, Modern"
-    scheme: "FAST"
-    identifier: "fst00863073"
-    uri: "https://id.worldcat.org/fast/863073"
-    category: "topical"
-  - label: "Islam"
-    scheme: "FAST"
-    identifier: "fst00979776"
-    uri: "https://id.worldcat.org/fast/979776"
-    category: "topical"
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Religion"
-    scheme: "FAST"
-    identifier: "fst01093763"
-    uri: "https://id.worldcat.org/fast/1093763"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Weber, Max, 1864-1920"
-    scheme: "FAST"
-    identifier: "fst00034097"
-    uri: "https://id.worldcat.org/fast/34097"
-    category: "personal"
 abstract:
 year: 2003
 sort_id: 06
+subjects:
+  - label: 'Christianity'
+    scheme: 'FAST'
+    identifier: 'fst00859599'
+    uri: 'https://id.worldcat.org/fast/859599'
+    category: 'topical'
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Fundamentalism'
+    scheme: 'FAST'
+    identifier: 'fst00936186'
+    uri: 'https://id.worldcat.org/fast/936186'
+    category: 'topical'
+  - label: 'Islam'
+    scheme: 'FAST'
+    identifier: 'fst00979776'
+    uri: 'https://id.worldcat.org/fast/979776'
+    category: 'topical'
+  - label: 'Nationalism'
+    scheme: 'FAST'
+    identifier: 'fst01033832'
+    uri: 'https://id.worldcat.org/fast/1033832'
+    category: 'topical'
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---
 Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
 

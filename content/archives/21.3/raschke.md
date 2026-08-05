@@ -22,24 +22,9 @@ season: fall
 year: 2022
 pages:
 subjects:
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Russo-Ukrainian War (2014-)"
-    scheme: "FAST"
-    identifier: "fst02070669"
-    uri: "https://id.worldcat.org/fast/2070669"
-    category: "event"
-  - label: "Sovereignty"
-    scheme: "FAST"
-    identifier: "fst01127379"
-    uri: "https://id.worldcat.org/fast/1127379"
-    category: "topical"
-  - label: "Zelensky, Volodymyr, 1978-"
-    scheme: "FAST"
-    identifier: "fst02013714"
-    uri: "https://id.worldcat.org/fast/2013714"
-    category: "personal"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

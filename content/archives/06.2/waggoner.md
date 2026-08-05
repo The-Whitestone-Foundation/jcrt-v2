@@ -28,44 +28,39 @@ season: spring
 year: 2005
 pages:
 subjects:
-  - label: "Comparative literature"
-    scheme: "FAST"
-    identifier: "fst01734553"
-    uri: "https://id.worldcat.org/fast/1734553"
-    category: "topical"
-  - label: "Ethnocentrism"
-    scheme: "FAST"
-    identifier: "fst00916081"
-    uri: "https://id.worldcat.org/fast/916081"
-    category: "topical"
-  - label: "Humanism"
-    scheme: "FAST"
-    identifier: "fst00963520"
-    uri: "https://id.worldcat.org/fast/963520"
-    category: "topical"
-  - label: "Multiculturalism"
-    scheme: "FAST"
-    identifier: "fst01028836"
-    uri: "https://id.worldcat.org/fast/1028836"
-    category: "topical"
-  - label: "Postcolonialism"
-    scheme: "FAST"
-    identifier: "fst01073032"
-    uri: "https://id.worldcat.org/fast/1073032"
-    category: "topical"
-  - label: "Religion--Study and teaching"
-    scheme: "FAST"
-    identifier: "fst01093807"
-    uri: "https://id.worldcat.org/fast/1093807"
-    category: "topical"
-  - label: "Spivak, Gayatri Chakravorty"
-    scheme: "FAST"
-    identifier: "fst00192388"
-    uri: "https://id.worldcat.org/fast/192388"
-    category: "personal"
-  - label: "Translating and interpreting"
-    scheme: "FAST"
-    identifier: "fst01154795"
-    uri: "https://id.worldcat.org/fast/1154795"
-    category: "topical"
+  - label: 'Area studies'
+    scheme: 'FAST'
+    identifier: 'fst00814190'
+    uri: 'https://id.worldcat.org/fast/814190'
+    category: 'topical'
+  - label: 'Comparative literature'
+    scheme: 'FAST'
+    identifier: 'fst01734553'
+    uri: 'https://id.worldcat.org/fast/1734553'
+    category: 'topical'
+  - label: 'Ethnocentrism'
+    scheme: 'FAST'
+    identifier: 'fst00916081'
+    uri: 'https://id.worldcat.org/fast/916081'
+    category: 'topical'
+  - label: 'Humanism'
+    scheme: 'FAST'
+    identifier: 'fst00963520'
+    uri: 'https://id.worldcat.org/fast/963520'
+    category: 'topical'
+  - label: 'Literary theory'
+    scheme: 'FAST'
+    identifier: 'fst01404190'
+    uri: 'https://id.worldcat.org/fast/1404190'
+    category: 'title'
+  - label: 'Multiculturalism'
+    scheme: 'FAST'
+    identifier: 'fst01028836'
+    uri: 'https://id.worldcat.org/fast/1028836'
+    category: 'topical'
+  - label: 'Postcolonialism'
+    scheme: 'FAST'
+    identifier: 'fst01073032'
+    uri: 'https://id.worldcat.org/fast/1073032'
+    category: 'topical'
 ---

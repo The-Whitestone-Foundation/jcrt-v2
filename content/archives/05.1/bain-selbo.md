@@ -27,39 +27,39 @@ season: winter
 year: 2003
 pages:
 subjects:
-  - label: "Critical theory"
-    scheme: "FAST"
-    identifier: "fst00883690"
-    uri: "https://id.worldcat.org/fast/883690"
-    category: "topical"
-  - label: "Faith and reason"
-    scheme: "FAST"
-    identifier: "fst00919959"
-    uri: "https://id.worldcat.org/fast/919959"
-    category: "topical"
-  - label: "Habermas, Jürgen"
-    scheme: "FAST"
-    identifier: "fst00028860"
-    uri: "https://id.worldcat.org/fast/28860"
-    category: "personal"
-  - label: "Philosophy and religion"
-    scheme: "FAST"
-    identifier: "fst01060826"
-    uri: "https://id.worldcat.org/fast/1060826"
-    category: "topical"
-  - label: "Rationalism"
-    scheme: "FAST"
-    identifier: "fst01090275"
-    uri: "https://id.worldcat.org/fast/1090275"
-    category: "topical"
-  - label: "Reason"
-    scheme: "FAST"
-    identifier: "fst01091272"
-    uri: "https://id.worldcat.org/fast/1091272"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Critical theory'
+    scheme: 'FAST'
+    identifier: 'fst00883690'
+    uri: 'https://id.worldcat.org/fast/883690'
+    category: 'topical'
+  - label: 'Everyman''s library. Theology & philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01937862'
+    uri: 'https://id.worldcat.org/fast/1937862'
+    category: 'title'
+  - label: 'Faith and reason'
+    scheme: 'FAST'
+    identifier: 'fst00919959'
+    uri: 'https://id.worldcat.org/fast/919959'
+    category: 'topical'
+  - label: 'Public sphere'
+    scheme: 'FAST'
+    identifier: 'fst02010609'
+    uri: 'https://id.worldcat.org/fast/2010609'
+    category: 'topical'
+  - label: 'Reason'
+    scheme: 'FAST'
+    identifier: 'fst01091272'
+    uri: 'https://id.worldcat.org/fast/1091272'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---

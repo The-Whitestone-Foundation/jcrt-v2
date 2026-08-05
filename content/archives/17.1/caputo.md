@@ -18,24 +18,9 @@ season: winter
 year: 2018
 pages: 37-56
 subjects:
-  - label: "Keller, Catherine, 1953-"
-    scheme: "FAST"
-    identifier: "fst02011212"
-    uri: "https://id.worldcat.org/fast/2011212"
-    category: "personal"
-  - label: "Mysticism"
-    scheme: "FAST"
-    identifier: "fst01031629"
-    uri: "https://id.worldcat.org/fast/1031629"
-    category: "topical"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Theology"
-    scheme: "FAST"
-    identifier: "fst01149559"
-    uri: "https://id.worldcat.org/fast/1149559"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

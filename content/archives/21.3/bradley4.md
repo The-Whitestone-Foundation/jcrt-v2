@@ -27,29 +27,19 @@ season: fall
 year: 2022
 pages:
 subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Foucault, Michel, 1926-1984"
-    scheme: "FAST"
-    identifier: "fst01427415"
-    uri: "https://id.worldcat.org/fast/1427415"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Sovereignty"
-    scheme: "FAST"
-    identifier: "fst01127379"
-    uri: "https://id.worldcat.org/fast/1127379"
-    category: "topical"
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Sovereignty'
+    scheme: 'FAST'
+    identifier: 'fst01127379'
+    uri: 'https://id.worldcat.org/fast/1127379'
+    category: 'topical'
 ---

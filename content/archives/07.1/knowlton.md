@@ -25,34 +25,19 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "Historiography"
-    scheme: "FAST"
-    identifier: "fst00958221"
-    uri: "https://id.worldcat.org/fast/958221"
-    category: "topical"
-  - label: "History--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00958266"
-    uri: "https://id.worldcat.org/fast/958266"
-    category: "topical"
-  - label: "Language and languages"
-    scheme: "FAST"
-    identifier: "fst00992154"
-    uri: "https://id.worldcat.org/fast/992154"
-    category: "topical"
-  - label: "Narration (Rhetoric)"
-    scheme: "FAST"
-    identifier: "fst01032927"
-    uri: "https://id.worldcat.org/fast/1032927"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Poststructuralism"
-    scheme: "FAST"
-    identifier: "fst01073231"
-    uri: "https://id.worldcat.org/fast/1073231"
-    category: "topical"
+  - label: 'Historiography'
+    scheme: 'FAST'
+    identifier: 'fst00958221'
+    uri: 'https://id.worldcat.org/fast/958221'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Poststructuralism'
+    scheme: 'FAST'
+    identifier: 'fst01073231'
+    uri: 'https://id.worldcat.org/fast/1073231'
+    category: 'topical'
 ---

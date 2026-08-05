@@ -27,29 +27,29 @@ season: summer
 year: 2014
 pages:
 subjects:
-  - label: "Evangelicalism"
-    scheme: "FAST"
-    identifier: "fst00917002"
-    uri: "https://id.worldcat.org/fast/917002"
-    category: "topical"
-  - label: "Methodism"
-    scheme: "FAST"
-    identifier: "fst01018631"
-    uri: "https://id.worldcat.org/fast/1018631"
-    category: "topical"
-  - label: "Religious newspapers and periodicals"
-    scheme: "FAST"
-    identifier: "fst01094196"
-    uri: "https://id.worldcat.org/fast/1094196"
-    category: "topical"
-  - label: "Rhetoric"
-    scheme: "FAST"
-    identifier: "fst01096948"
-    uri: "https://id.worldcat.org/fast/1096948"
-    category: "topical"
-  - label: "Women in Christianity"
-    scheme: "FAST"
-    identifier: "fst01177787"
-    uri: "https://id.worldcat.org/fast/1177787"
-    category: "topical"
+  - label: 'Evangelicalism'
+    scheme: 'FAST'
+    identifier: 'fst00917002'
+    uri: 'https://id.worldcat.org/fast/917002'
+    category: 'topical'
+  - label: 'Journalism, Religious'
+    scheme: 'FAST'
+    identifier: 'fst00984170'
+    uri: 'https://id.worldcat.org/fast/984170'
+    category: 'topical'
+  - label: 'Methodism'
+    scheme: 'FAST'
+    identifier: 'fst01018631'
+    uri: 'https://id.worldcat.org/fast/1018631'
+    category: 'topical'
+  - label: 'Rhetoric'
+    scheme: 'FAST'
+    identifier: 'fst01096948'
+    uri: 'https://id.worldcat.org/fast/1096948'
+    category: 'topical'
+  - label: 'Women and religion'
+    scheme: 'FAST'
+    identifier: 'fst01177110'
+    uri: 'https://id.worldcat.org/fast/1177110'
+    category: 'topical'
 ---

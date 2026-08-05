@@ -27,44 +27,34 @@ season: winter
 year: 2022
 pages:
 subjects:
-  - label: "Brazil"
-    scheme: "FAST"
-    identifier: "fst01206830"
-    uri: "https://id.worldcat.org/fast/1206830"
-    category: "geographic"
-  - label: "Dignity"
-    scheme: "FAST"
-    identifier: "fst00893760"
-    uri: "https://id.worldcat.org/fast/893760"
-    category: "topical"
-  - label: "Dualism"
-    scheme: "FAST"
-    identifier: "fst00899239"
-    uri: "https://id.worldcat.org/fast/899239"
-    category: "topical"
-  - label: "Hylomorphism"
-    scheme: "FAST"
-    identifier: "fst00965439"
-    uri: "https://id.worldcat.org/fast/965439"
-    category: "topical"
-  - label: "Imperialism"
-    scheme: "FAST"
-    identifier: "fst00968126"
-    uri: "https://id.worldcat.org/fast/968126"
-    category: "topical"
-  - label: "Scholasticism"
-    scheme: "FAST"
-    identifier: "fst01106919"
-    uri: "https://id.worldcat.org/fast/1106919"
-    category: "topical"
-  - label: "Thomas, Aquinas, Saint, 1225?-1274"
-    scheme: "FAST"
-    identifier: "fst00029176"
-    uri: "https://id.worldcat.org/fast/29176"
-    category: "personal"
-  - label: "Thomism"
-    scheme: "FAST"
-    identifier: "fst01765220"
-    uri: "https://id.worldcat.org/fast/1765220"
-    category: "topical"
+  - label: 'Brazil'
+    scheme: 'FAST'
+    identifier: 'fst01206830'
+    uri: 'https://id.worldcat.org/fast/1206830'
+    category: 'geographic'
+  - label: 'Dignity'
+    scheme: 'FAST'
+    identifier: 'fst00893760'
+    uri: 'https://id.worldcat.org/fast/893760'
+    category: 'topical'
+  - label: 'Hylomorphism'
+    scheme: 'FAST'
+    identifier: 'fst00965439'
+    uri: 'https://id.worldcat.org/fast/965439'
+    category: 'topical'
+  - label: 'Scholasticism'
+    scheme: 'FAST'
+    identifier: 'fst01106919'
+    uri: 'https://id.worldcat.org/fast/1106919'
+    category: 'topical'
+  - label: 'Theological anthropology'
+    scheme: 'FAST'
+    identifier: 'fst01431587'
+    uri: 'https://id.worldcat.org/fast/1431587'
+    category: 'topical'
+  - label: 'Thomism'
+    scheme: 'FAST'
+    identifier: 'fst01765220'
+    uri: 'https://id.worldcat.org/fast/1765220'
+    category: 'topical'
 ---

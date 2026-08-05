@@ -20,29 +20,9 @@ season: fall
 year: 2017
 pages: 1-14
 subjects:
-  - label: "African Americans--Social conditions"
-    scheme: "FAST"
-    identifier: "fst00799698"
-    uri: "https://id.worldcat.org/fast/799698"
-    category: "topical"
-  - label: "Badiou, Alain"
-    scheme: "FAST"
-    identifier: "fst00099108"
-    uri: "https://id.worldcat.org/fast/99108"
-    category: "personal"
-  - label: "Black lives matter movement"
-    scheme: "FAST"
-    identifier: "fst01940193"
-    uri: "https://id.worldcat.org/fast/1940193"
-    category: "topical"
-  - label: "Race"
-    scheme: "FAST"
-    identifier: "fst01086436"
-    uri: "https://id.worldcat.org/fast/1086436"
-    category: "topical"
-  - label: "Subjectivity"
-    scheme: "FAST"
-    identifier: "fst01136568"
-    uri: "https://id.worldcat.org/fast/1136568"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

@@ -26,50 +26,35 @@ keywords:
   - ethics
   - representation
   - higher-education
-subjects:
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Imagination"
-    scheme: "FAST"
-    identifier: "fst00967585"
-    uri: "https://id.worldcat.org/fast/967585"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Philosophical theology"
-    scheme: "FAST"
-    identifier: "fst01060773"
-    uri: "https://id.worldcat.org/fast/1060773"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Tillich, Paul, 1886-1965"
-    scheme: "FAST"
-    identifier: "fst00034887"
-    uri: "https://id.worldcat.org/fast/34887"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 01
+subjects:
+  - label: 'Education, Higher'
+    scheme: 'FAST'
+    identifier: 'fst00903005'
+    uri: 'https://id.worldcat.org/fast/903005'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Philosophical theology'
+    scheme: 'FAST'
+    identifier: 'fst01060773'
+    uri: 'https://id.worldcat.org/fast/1060773'
+    category: 'topical'
+  - label: 'Religious thought'
+    scheme: 'FAST'
+    identifier: 'fst01094322'
+    uri: 'https://id.worldcat.org/fast/1094322'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
 ---
 Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 
 

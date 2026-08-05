@@ -9,6 +9,12 @@ keywords: []
 pdf: false
 sort_id: 01
 year: 2019
+subjects:
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---
 ### **Author Bios**
 

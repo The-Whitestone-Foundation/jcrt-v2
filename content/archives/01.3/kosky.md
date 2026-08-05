@@ -27,50 +27,30 @@ keywords:
   - divine-names
   - transcendence
   - deconstruction
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Marion, Jean-Luc, 1946-"
-    scheme: "FAST"
-    identifier: "fst00108351"
-    uri: "https://id.worldcat.org/fast/108351"
-    category: "personal"
-  - label: "Mysticism"
-    scheme: "FAST"
-    identifier: "fst01031629"
-    uri: "https://id.worldcat.org/fast/1031629"
-    category: "topical"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Pseudo-Dionysius, the Areopagite"
-    scheme: "FAST"
-    identifier: "fst00009547"
-    uri: "https://id.worldcat.org/fast/9547"
-    category: "personal"
-  - label: "Transcendence of God"
-    scheme: "FAST"
-    identifier: "fst01154533"
-    uri: "https://id.worldcat.org/fast/1154533"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 03
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Mysticism'
+    scheme: 'FAST'
+    identifier: 'fst01031629'
+    uri: 'https://id.worldcat.org/fast/1031629'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Responsibility'
+    scheme: 'FAST'
+    identifier: 'fst01095857'
+    uri: 'https://id.worldcat.org/fast/1095857'
+    category: 'topical'
 ---
 Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
 

@@ -27,50 +27,40 @@ keywords:
   - desire
   - karl-marx
   - deconstruction
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Economics"
-    scheme: "FAST"
-    identifier: "fst00902116"
-    uri: "https://id.worldcat.org/fast/902116"
-    category: "topical"
-  - label: "Faith and reason"
-    scheme: "FAST"
-    identifier: "fst00919959"
-    uri: "https://id.worldcat.org/fast/919959"
-    category: "topical"
-  - label: "Marx, Karl, 1818-1883"
-    scheme: "FAST"
-    identifier: "fst00030215"
-    uri: "https://id.worldcat.org/fast/30215"
-    category: "personal"
-  - label: "Religion--Study and teaching"
-    scheme: "FAST"
-    identifier: "fst01093807"
-    uri: "https://id.worldcat.org/fast/1093807"
-    category: "topical"
-  - label: "Sacrifice"
-    scheme: "FAST"
-    identifier: "fst01103249"
-    uri: "https://id.worldcat.org/fast/1103249"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 01
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Desire'
+    scheme: 'FAST'
+    identifier: 'fst00891351'
+    uri: 'https://id.worldcat.org/fast/891351'
+    category: 'topical'
+  - label: 'Holiness'
+    scheme: 'FAST'
+    identifier: 'fst00958754'
+    uri: 'https://id.worldcat.org/fast/958754'
+    category: 'topical'
+  - label: 'Sacrifice'
+    scheme: 'FAST'
+    identifier: 'fst01103249'
+    uri: 'https://id.worldcat.org/fast/1103249'
+    category: 'topical'
+  - label: 'Secularization (Theology)'
+    scheme: 'FAST'
+    identifier: 'fst01110740'
+    uri: 'https://id.worldcat.org/fast/1110740'
+    category: 'topical'
+  - label: 'Utilitarianism'
+    scheme: 'FAST'
+    identifier: 'fst01163333'
+    uri: 'https://id.worldcat.org/fast/1163333'
+    category: 'topical'
 ---
 Crockett - Economies of Studying Religion - JCRT 1.3 
 

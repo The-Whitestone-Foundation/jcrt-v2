@@ -28,50 +28,30 @@ keywords:
   - finitude
   - taboo
   - ethics
-subjects:
-  - label: "Bataille, Georges, 1897-1962"
-    scheme: "FAST"
-    identifier: "fst00008540"
-    uri: "https://id.worldcat.org/fast/8540"
-    category: "personal"
-  - label: "Bible. Leviticus"
-    scheme: "FAST"
-    identifier: "fst01892925"
-    uri: "https://id.worldcat.org/fast/1892925"
-    category: "uniform-title"
-  - label: "Douglas, Mary, 1921-2007"
-    scheme: "FAST"
-    identifier: "fst01439239"
-    uri: "https://id.worldcat.org/fast/1439239"
-    category: "personal"
-  - label: "Nancy, Jean-Luc"
-    scheme: "FAST"
-    identifier: "fst00080095"
-    uri: "https://id.worldcat.org/fast/80095"
-    category: "personal"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Purity, Ritual"
-    scheme: "FAST"
-    identifier: "fst01084384"
-    uri: "https://id.worldcat.org/fast/1084384"
-    category: "topical"
-  - label: "Ricœur, Paul"
-    scheme: "FAST"
-    identifier: "fst00035920"
-    uri: "https://id.worldcat.org/fast/35920"
-    category: "personal"
-  - label: "Taboo"
-    scheme: "FAST"
-    identifier: "fst01141792"
-    uri: "https://id.worldcat.org/fast/1141792"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 05
+subjects:
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Finite, The'
+    scheme: 'FAST'
+    identifier: 'fst00924915'
+    uri: 'https://id.worldcat.org/fast/924915'
+    category: 'topical'
+  - label: 'Sacrifice'
+    scheme: 'FAST'
+    identifier: 'fst01103249'
+    uri: 'https://id.worldcat.org/fast/1103249'
+    category: 'topical'
+  - label: 'Taboo'
+    scheme: 'FAST'
+    identifier: 'fst01141792'
+    uri: 'https://id.worldcat.org/fast/1141792'
+    category: 'topical'
 ---
 Majer - On Contagions - JCRT 2.2 
 

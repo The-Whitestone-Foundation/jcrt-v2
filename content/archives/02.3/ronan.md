@@ -28,50 +28,50 @@ keywords:
   - postmodernism
   - holocaust
   - womens-ordination
-subjects:
-  - label: "Catholic Church"
-    scheme: "FAST"
-    identifier: "fst00531720"
-    uri: "https://id.worldcat.org/fast/531720"
-    category: "corporate"
-  - label: "Freud, Sigmund, 1856-1939"
-    scheme: "FAST"
-    identifier: "fst00034252"
-    uri: "https://id.worldcat.org/fast/34252"
-    category: "personal"
-  - label: "Gender identity"
-    scheme: "FAST"
-    identifier: "fst00939593"
-    uri: "https://id.worldcat.org/fast/939593"
-    category: "topical"
-  - label: "Melancholy"
-    scheme: "FAST"
-    identifier: "fst01015651"
-    uri: "https://id.worldcat.org/fast/1015651"
-    category: "topical"
-  - label: "Neo-Scholasticism"
-    scheme: "FAST"
-    identifier: "fst01035746"
-    uri: "https://id.worldcat.org/fast/1035746"
-    category: "topical"
-  - label: "Ordination of women"
-    scheme: "FAST"
-    identifier: "fst01047425"
-    uri: "https://id.worldcat.org/fast/1047425"
-    category: "topical"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
-  - label: "Sex role"
-    scheme: "FAST"
-    identifier: "fst01114598"
-    uri: "https://id.worldcat.org/fast/1114598"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 03
+subjects:
+  - label: 'Abortion'
+    scheme: 'FAST'
+    identifier: 'fst00794582'
+    uri: 'https://id.worldcat.org/fast/794582'
+    category: 'topical'
+  - label: 'Immaculate Conception'
+    scheme: 'FAST'
+    identifier: 'fst00967693'
+    uri: 'https://id.worldcat.org/fast/967693'
+    category: 'topical'
+  - label: 'Melancholia'
+    scheme: 'FAST'
+    identifier: 'fst01939186'
+    uri: 'https://id.worldcat.org/fast/1939186'
+    category: 'topical'
+  - label: 'Neo-Scholasticism'
+    scheme: 'FAST'
+    identifier: 'fst01035746'
+    uri: 'https://id.worldcat.org/fast/1035746'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
+  - label: 'Sex'
+    scheme: 'FAST'
+    identifier: 'fst01114160'
+    uri: 'https://id.worldcat.org/fast/1114160'
+    category: 'topical'
+  - label: 'Gender'
+    scheme: 'Homosaurus'
+    identifier: 'homoit0000560'
+    uri: 'https://homosaurus.org/v5/homoit0000560'
+    category: 'topical'
 ---
 Ronan - Blessed Are They Who Mourn - JCRT 2.3 
 

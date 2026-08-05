@@ -28,50 +28,35 @@ keywords:
   - martin-luther
   - tracing
   - postmodern-theology
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Ekphrasis"
-    scheme: "FAST"
-    identifier: "fst00904124"
-    uri: "https://id.worldcat.org/fast/904124"
-    category: "topical"
-  - label: "Hegel, Georg Wilhelm Friedrich, 1770-1831"
-    scheme: "FAST"
-    identifier: "fst00031816"
-    uri: "https://id.worldcat.org/fast/31816"
-    category: "personal"
-  - label: "Kierkegaard, Søren, 1813-1855"
-    scheme: "FAST"
-    identifier: "fst00037558"
-    uri: "https://id.worldcat.org/fast/37558"
-    category: "personal"
-  - label: "Luther, Martin, 1483-1546"
-    scheme: "FAST"
-    identifier: "fst00040681"
-    uri: "https://id.worldcat.org/fast/40681"
-    category: "personal"
-  - label: "Postmodern theology"
-    scheme: "FAST"
-    identifier: "fst01073163"
-    uri: "https://id.worldcat.org/fast/1073163"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
 abstract:
 year: 2001
 sort_id: 04
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Ekphrasis'
+    scheme: 'FAST'
+    identifier: 'fst00904124'
+    uri: 'https://id.worldcat.org/fast/904124'
+    category: 'topical'
+  - label: 'Martin, Luther'
+    scheme: 'FAST'
+    identifier: 'fst01786817'
+    uri: 'https://id.worldcat.org/fast/1786817'
+    category: 'personal'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
 ---
 Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 

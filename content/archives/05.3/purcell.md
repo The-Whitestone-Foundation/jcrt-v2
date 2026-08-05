@@ -29,34 +29,29 @@ season: summer
 year: 2004
 pages:
 subjects:
-  - label: "Existentialism"
-    scheme: "FAST"
-    identifier: "fst00918204"
-    uri: "https://id.worldcat.org/fast/918204"
-    category: "topical"
-  - label: "Jewish philosophy"
-    scheme: "FAST"
-    identifier: "fst01730516"
-    uri: "https://id.worldcat.org/fast/1730516"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Transcendence (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01154529"
-    uri: "https://id.worldcat.org/fast/1154529"
-    category: "topical"
+  - label: 'Jewish philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01730516'
+    uri: 'https://id.worldcat.org/fast/1730516'
+    category: 'topical'
+  - label: 'Nausea'
+    scheme: 'FAST'
+    identifier: 'fst01034747'
+    uri: 'https://id.worldcat.org/fast/1034747'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Shame'
+    scheme: 'FAST'
+    identifier: 'fst01115183'
+    uri: 'https://id.worldcat.org/fast/1115183'
+    category: 'topical'
 ---

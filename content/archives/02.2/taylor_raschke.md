@@ -28,50 +28,20 @@ keywords:
   - kierkegaard
   - complexity-theory
   - theory-of-religion
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Hegel, Georg Wilhelm Friedrich, 1770-1831"
-    scheme: "FAST"
-    identifier: "fst00031816"
-    uri: "https://id.worldcat.org/fast/31816"
-    category: "personal"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Holy, The"
-    scheme: "FAST"
-    identifier: "fst00959050"
-    uri: "https://id.worldcat.org/fast/959050"
-    category: "topical"
-  - label: "Kierkegaard, Søren, 1813-1855"
-    scheme: "FAST"
-    identifier: "fst00037558"
-    uri: "https://id.worldcat.org/fast/37558"
-    category: "personal"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
 abstract:
 year: 2001
 sort_id: 02
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
 ---
 Taylor & Raschke - About About Religion - JCRT 2.2 
 

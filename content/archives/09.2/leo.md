@@ -19,37 +19,6 @@ keywords:
   - rationalism
   - early-modern-philosophy
   - materialism
-subjects:
-  - label: "Civilization, Modern"
-    scheme: "FAST"
-    identifier: "fst00863073"
-    uri: "https://id.worldcat.org/fast/863073"
-    category: "topical"
-  - label: "Enlightenment"
-    scheme: "FAST"
-    identifier: "fst00912527"
-    uri: "https://id.worldcat.org/fast/912527"
-    category: "topical"
-  - label: "Materialism"
-    scheme: "FAST"
-    identifier: "fst01011758"
-    uri: "https://id.worldcat.org/fast/1011758"
-    category: "topical"
-  - label: "Rationalism"
-    scheme: "FAST"
-    identifier: "fst01090275"
-    uri: "https://id.worldcat.org/fast/1090275"
-    category: "topical"
-  - label: "Secularism"
-    scheme: "FAST"
-    identifier: "fst01110732"
-    uri: "https://id.worldcat.org/fast/1110732"
-    category: "topical"
-  - label: "Spinoza, Benedictus de, 1632-1677"
-    scheme: "FAST"
-    identifier: "fst00031382"
-    uri: "https://id.worldcat.org/fast/31382"
-    category: "personal"
 pdf: leo.pdf
 sort_id: 06
 volume: 9
@@ -57,4 +26,35 @@ issue: 2
 season: summer
 year: 2008
 pages:
+subjects:
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Enlightenment'
+    scheme: 'FAST'
+    identifier: 'fst00912527'
+    uri: 'https://id.worldcat.org/fast/912527'
+    category: 'topical'
+  - label: 'Liberty'
+    scheme: 'FAST'
+    identifier: 'fst00997251'
+    uri: 'https://id.worldcat.org/fast/997251'
+    category: 'topical'
+  - label: 'Materialism'
+    scheme: 'FAST'
+    identifier: 'fst01011758'
+    uri: 'https://id.worldcat.org/fast/1011758'
+    category: 'topical'
+  - label: 'Rationalism'
+    scheme: 'FAST'
+    identifier: 'fst01090275'
+    uri: 'https://id.worldcat.org/fast/1090275'
+    category: 'topical'
+  - label: 'Secularism'
+    scheme: 'FAST'
+    identifier: 'fst01110732'
+    uri: 'https://id.worldcat.org/fast/1110732'
+    category: 'topical'
 ---

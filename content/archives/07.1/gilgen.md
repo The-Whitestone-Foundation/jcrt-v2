@@ -26,44 +26,19 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "Adorno, Theodor W., 1903-1969"
-    scheme: "FAST"
-    identifier: "fst00048481"
-    uri: "https://id.worldcat.org/fast/48481"
-    category: "personal"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Violence"
-    scheme: "FAST"
-    identifier: "fst01167224"
-    uri: "https://id.worldcat.org/fast/1167224"
-    category: "topical"
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Religion and violence'
+    scheme: 'FAST'
+    identifier: 'fst01791006'
+    uri: 'https://id.worldcat.org/fast/1791006'
+    category: 'title'
 ---

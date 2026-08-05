@@ -27,44 +27,29 @@ keywords:
   - ethics
   - ontology
   - exemplarism
-subjects:
-  - label: "Blanchot, Maurice"
-    scheme: "FAST"
-    identifier: "fst00002875"
-    uri: "https://id.worldcat.org/fast/2875"
-    category: "personal"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Political science"
-    scheme: "FAST"
-    identifier: "fst01069781"
-    uri: "https://id.worldcat.org/fast/1069781"
-    category: "topical"
 abstract: 
 year: 2002
+subjects:
+  - label: 'Community'
+    scheme: 'FAST'
+    identifier: 'fst00870635'
+    uri: 'https://id.worldcat.org/fast/870635'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Zionism'
+    scheme: 'FAST'
+    identifier: 'fst01184468'
+    uri: 'https://id.worldcat.org/fast/1184468'
+    category: 'topical'
 ---
 ## The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
 

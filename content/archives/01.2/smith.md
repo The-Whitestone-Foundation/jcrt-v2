@@ -25,50 +25,30 @@ keywords:
   - the-sublime
   - otherness
   - collective-memory
-subjects:
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Historiography"
-    scheme: "FAST"
-    identifier: "fst00958221"
-    uri: "https://id.worldcat.org/fast/958221"
-    category: "topical"
-  - label: "History--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00958266"
-    uri: "https://id.worldcat.org/fast/958266"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Memory"
-    scheme: "FAST"
-    identifier: "fst01015913"
-    uri: "https://id.worldcat.org/fast/1015913"
-    category: "topical"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Sublime, The"
-    scheme: "FAST"
-    identifier: "fst01136594"
-    uri: "https://id.worldcat.org/fast/1136594"
-    category: "topical"
-  - label: "Wyschogrod, Edith"
-    scheme: "FAST"
-    identifier: "fst00140248"
-    uri: "https://id.worldcat.org/fast/140248"
-    category: "personal"
 abstract:
 year: 2000
 sort_id: 08
+subjects:
+  - label: 'Collective memory'
+    scheme: 'FAST'
+    identifier: 'fst01739814'
+    uri: 'https://id.worldcat.org/fast/1739814'
+    category: 'topical'
+  - label: 'Historiography'
+    scheme: 'FAST'
+    identifier: 'fst00958221'
+    uri: 'https://id.worldcat.org/fast/958221'
+    category: 'topical'
+  - label: 'Memory'
+    scheme: 'FAST'
+    identifier: 'fst01015913'
+    uri: 'https://id.worldcat.org/fast/1015913'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
 ---
 Smith - Difficult History - JCRT 1.2 
 

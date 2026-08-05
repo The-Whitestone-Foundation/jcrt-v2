@@ -25,34 +25,34 @@ season: winter
 year: 2006
 pages:
 subjects:
-  - label: "Badiou, Alain"
-    scheme: "FAST"
-    identifier: "fst00099108"
-    uri: "https://id.worldcat.org/fast/99108"
-    category: "personal"
-  - label: "Continental philosophy"
-    scheme: "FAST"
-    identifier: "fst01765182"
-    uri: "https://id.worldcat.org/fast/1765182"
-    category: "topical"
-  - label: "Mathematics--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01012213"
-    uri: "https://id.worldcat.org/fast/1012213"
-    category: "topical"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Set theory"
-    scheme: "FAST"
-    identifier: "fst01113587"
-    uri: "https://id.worldcat.org/fast/1113587"
-    category: "topical"
-  - label: "Truth"
-    scheme: "FAST"
-    identifier: "fst01158235"
-    uri: "https://id.worldcat.org/fast/1158235"
-    category: "topical"
+  - label: 'Continental philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01765182'
+    uri: 'https://id.worldcat.org/fast/1765182'
+    category: 'topical'
+  - label: 'Mathematics'
+    scheme: 'FAST'
+    identifier: 'fst01012163'
+    uri: 'https://id.worldcat.org/fast/1012163'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01060777'
+    uri: 'https://id.worldcat.org/fast/1060777'
+    category: 'topical'
+  - label: 'Set theory'
+    scheme: 'FAST'
+    identifier: 'fst01113587'
+    uri: 'https://id.worldcat.org/fast/1113587'
+    category: 'topical'
+  - label: 'Truth'
+    scheme: 'FAST'
+    identifier: 'fst01158235'
+    uri: 'https://id.worldcat.org/fast/1158235'
+    category: 'topical'
 ---

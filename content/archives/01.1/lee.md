@@ -26,50 +26,40 @@ keywords:
   - pseudo-dionysius
   - meister-eckhart
   - buddhism
-subjects:
-  - label: "Chain of being (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00851759"
-    uri: "https://id.worldcat.org/fast/851759"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Mysticism"
-    scheme: "FAST"
-    identifier: "fst01031629"
-    uri: "https://id.worldcat.org/fast/1031629"
-    category: "topical"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Neoplatonism"
-    scheme: "FAST"
-    identifier: "fst01035884"
-    uri: "https://id.worldcat.org/fast/1035884"
-    category: "topical"
-  - label: "Plotinus"
-    scheme: "FAST"
-    identifier: "fst00049787"
-    uri: "https://id.worldcat.org/fast/49787"
-    category: "personal"
-  - label: "Pseudo-Dionysius, the Areopagite"
-    scheme: "FAST"
-    identifier: "fst00009547"
-    uri: "https://id.worldcat.org/fast/9547"
-    category: "personal"
 abstract:
 year: 1999
 sort_id: 09
+subjects:
+  - label: 'Buddhism'
+    scheme: 'FAST'
+    identifier: 'fst00840028'
+    uri: 'https://id.worldcat.org/fast/840028'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Mysticism'
+    scheme: 'FAST'
+    identifier: 'fst01031629'
+    uri: 'https://id.worldcat.org/fast/1031629'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Neoplatonism'
+    scheme: 'FAST'
+    identifier: 'fst01035884'
+    uri: 'https://id.worldcat.org/fast/1035884'
+    category: 'topical'
+  - label: 'Prayer'
+    scheme: 'FAST'
+    identifier: 'fst01074680'
+    uri: 'https://id.worldcat.org/fast/1074680'
+    category: 'topical'
 ---
 Lee - Deconstructing the Great Chain of Being - JCRT 1.1
 

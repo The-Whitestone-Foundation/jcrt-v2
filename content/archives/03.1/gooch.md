@@ -28,50 +28,35 @@ keywords:
   - william-james
   - blaise-pascal
   - bertrand-russell
-subjects:
-  - label: "Emotions"
-    scheme: "FAST"
-    identifier: "fst00908819"
-    uri: "https://id.worldcat.org/fast/908819"
-    category: "topical"
-  - label: "Faith and reason"
-    scheme: "FAST"
-    identifier: "fst00919959"
-    uri: "https://id.worldcat.org/fast/919959"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Knowledge, Theory of"
-    scheme: "FAST"
-    identifier: "fst00988194"
-    uri: "https://id.worldcat.org/fast/988194"
-    category: "topical"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Scheler, Max, 1874-1928"
-    scheme: "FAST"
-    identifier: "fst00052249"
-    uri: "https://id.worldcat.org/fast/52249"
-    category: "personal"
-  - label: "Values"
-    scheme: "FAST"
-    identifier: "fst01163906"
-    uri: "https://id.worldcat.org/fast/1163906"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 02
+subjects:
+  - label: 'Emotions'
+    scheme: 'FAST'
+    identifier: 'fst00908819'
+    uri: 'https://id.worldcat.org/fast/908819'
+    category: 'topical'
+  - label: 'Experience (Religion)'
+    scheme: 'FAST'
+    identifier: 'fst00918383'
+    uri: 'https://id.worldcat.org/fast/918383'
+    category: 'topical'
+  - label: 'Faith and reason'
+    scheme: 'FAST'
+    identifier: 'fst00919959'
+    uri: 'https://id.worldcat.org/fast/919959'
+    category: 'topical'
+  - label: 'Knowledge, Theory of'
+    scheme: 'FAST'
+    identifier: 'fst00988194'
+    uri: 'https://id.worldcat.org/fast/988194'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
 ---
 Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
 

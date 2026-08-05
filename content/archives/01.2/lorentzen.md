@@ -25,50 +25,20 @@ keywords:
   - friedrich-nietzsche
   - transcendence
   - philosophy-of-religion
-subjects:
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Difference (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00893405"
-    uri: "https://id.worldcat.org/fast/893405"
-    category: "topical"
-  - label: "Immanence (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00967698"
-    uri: "https://id.worldcat.org/fast/967698"
-    category: "topical"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Nihilism"
-    scheme: "FAST"
-    identifier: "fst01037702"
-    uri: "https://id.worldcat.org/fast/1037702"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Transcendence (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01154529"
-    uri: "https://id.worldcat.org/fast/1154529"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 09
+subjects:
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Nihilism'
+    scheme: 'FAST'
+    identifier: 'fst01037702'
+    uri: 'https://id.worldcat.org/fast/1037702'
+    category: 'topical'
 ---
 Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
 

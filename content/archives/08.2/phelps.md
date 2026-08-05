@@ -26,44 +26,39 @@ season: spring
 year: 2008
 pages:
 subjects:
-  - label: "Church and state"
-    scheme: "FAST"
-    identifier: "fst00860509"
-    uri: "https://id.worldcat.org/fast/860509"
-    category: "topical"
-  - label: "Conservatism"
-    scheme: "FAST"
-    identifier: "fst00875582"
-    uri: "https://id.worldcat.org/fast/875582"
-    category: "topical"
-  - label: "Evangelicalism"
-    scheme: "FAST"
-    identifier: "fst00917002"
-    uri: "https://id.worldcat.org/fast/917002"
-    category: "topical"
-  - label: "Imperialism"
-    scheme: "FAST"
-    identifier: "fst00968126"
-    uri: "https://id.worldcat.org/fast/968126"
-    category: "topical"
-  - label: "Nationalism"
-    scheme: "FAST"
-    identifier: "fst01033832"
-    uri: "https://id.worldcat.org/fast/1033832"
-    category: "topical"
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Religion and politics"
-    scheme: "FAST"
-    identifier: "fst01093842"
-    uri: "https://id.worldcat.org/fast/1093842"
-    category: "topical"
-  - label: "September 11 Terrorist Attacks (2001)"
-    scheme: "FAST"
-    identifier: "fst01112794"
-    uri: "https://id.worldcat.org/fast/1112794"
-    category: "event"
+  - label: 'Church and state'
+    scheme: 'FAST'
+    identifier: 'fst00860509'
+    uri: 'https://id.worldcat.org/fast/860509'
+    category: 'topical'
+  - label: 'Conservatism'
+    scheme: 'FAST'
+    identifier: 'fst00875582'
+    uri: 'https://id.worldcat.org/fast/875582'
+    category: 'topical'
+  - label: 'Evangelicalism'
+    scheme: 'FAST'
+    identifier: 'fst00917002'
+    uri: 'https://id.worldcat.org/fast/917002'
+    category: 'topical'
+  - label: 'Imperialism'
+    scheme: 'FAST'
+    identifier: 'fst00968126'
+    uri: 'https://id.worldcat.org/fast/968126'
+    category: 'topical'
+  - label: 'Nationalism'
+    scheme: 'FAST'
+    identifier: 'fst01033832'
+    uri: 'https://id.worldcat.org/fast/1033832'
+    category: 'topical'
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
+  - label: 'Religion and politics'
+    scheme: 'FAST'
+    identifier: 'fst01093842'
+    uri: 'https://id.worldcat.org/fast/1093842'
+    category: 'topical'
 ---

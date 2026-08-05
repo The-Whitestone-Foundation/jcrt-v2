@@ -27,50 +27,50 @@ keywords:
   - mystery
   - the-unsayable
   - chiaroscuro
-subjects:
-  - label: "Angels"
-    scheme: "FAST"
-    identifier: "fst00808746"
-    uri: "https://id.worldcat.org/fast/808746"
-    category: "topical"
-  - label: "Castoriadis, Cornelius, 1922-1997"
-    scheme: "FAST"
-    identifier: "fst01427517"
-    uri: "https://id.worldcat.org/fast/1427517"
-    category: "personal"
-  - label: "Creative ability"
-    scheme: "FAST"
-    identifier: "fst00882417"
-    uri: "https://id.worldcat.org/fast/882417"
-    category: "topical"
-  - label: "Imagination"
-    scheme: "FAST"
-    identifier: "fst00967585"
-    uri: "https://id.worldcat.org/fast/967585"
-    category: "topical"
-  - label: "Knowledge, Theory of"
-    scheme: "FAST"
-    identifier: "fst00988194"
-    uri: "https://id.worldcat.org/fast/988194"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Serres, Michel"
-    scheme: "FAST"
-    identifier: "fst00002844"
-    uri: "https://id.worldcat.org/fast/2844"
-    category: "personal"
-  - label: "Wonder"
-    scheme: "FAST"
-    identifier: "fst01179176"
-    uri: "https://id.worldcat.org/fast/1179176"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 06
+subjects:
+  - label: 'Angels'
+    scheme: 'FAST'
+    identifier: 'fst00808746'
+    uri: 'https://id.worldcat.org/fast/808746'
+    category: 'topical'
+  - label: 'Chiaroscuro'
+    scheme: 'FAST'
+    identifier: 'fst00854002'
+    uri: 'https://id.worldcat.org/fast/854002'
+    category: 'topical'
+  - label: 'Creative ability'
+    scheme: 'FAST'
+    identifier: 'fst00882417'
+    uri: 'https://id.worldcat.org/fast/882417'
+    category: 'topical'
+  - label: 'Gratitude'
+    scheme: 'FAST'
+    identifier: 'fst00946831'
+    uri: 'https://id.worldcat.org/fast/946831'
+    category: 'topical'
+  - label: 'Imagination'
+    scheme: 'FAST'
+    identifier: 'fst00967585'
+    uri: 'https://id.worldcat.org/fast/967585'
+    category: 'topical'
+  - label: 'Inspiration'
+    scheme: 'FAST'
+    identifier: 'fst00974230'
+    uri: 'https://id.worldcat.org/fast/974230'
+    category: 'topical'
+  - label: 'Mystery'
+    scheme: 'FAST'
+    identifier: 'fst01031615'
+    uri: 'https://id.worldcat.org/fast/1031615'
+    category: 'topical'
+  - label: 'Wonder'
+    scheme: 'FAST'
+    identifier: 'fst01179176'
+    uri: 'https://id.worldcat.org/fast/1179176'
+    category: 'topical'
 ---
 Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
 

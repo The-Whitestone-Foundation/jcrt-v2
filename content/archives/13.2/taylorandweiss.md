@@ -27,39 +27,29 @@ season: summer
 year: 2014
 pages:
 subjects:
-  - label: "Biopolitics"
-    scheme: "FAST"
-    identifier: "fst00832668"
-    uri: "https://id.worldcat.org/fast/832668"
-    category: "topical"
-  - label: "Monsters"
-    scheme: "FAST"
-    identifier: "fst01025752"
-    uri: "https://id.worldcat.org/fast/1025752"
-    category: "topical"
-  - label: "Neoliberalism"
-    scheme: "FAST"
-    identifier: "fst01737382"
-    uri: "https://id.worldcat.org/fast/1737382"
-    category: "topical"
-  - label: "Popular culture"
-    scheme: "FAST"
-    identifier: "fst01071344"
-    uri: "https://id.worldcat.org/fast/1071344"
-    category: "topical"
-  - label: "Posthumanism"
-    scheme: "FAST"
-    identifier: "fst02027038"
-    uri: "https://id.worldcat.org/fast/2027038"
-    category: "topical"
-  - label: "Zombies"
-    scheme: "FAST"
-    identifier: "fst01184595"
-    uri: "https://id.worldcat.org/fast/1184595"
-    category: "topical"
-  - label: "Žižek, Slavoj"
-    scheme: "FAST"
-    identifier: "fst00161373"
-    uri: "https://id.worldcat.org/fast/161373"
-    category: "personal"
+  - label: 'Biopolitics'
+    scheme: 'FAST'
+    identifier: 'fst00832668'
+    uri: 'https://id.worldcat.org/fast/832668'
+    category: 'topical'
+  - label: 'Neoliberalism'
+    scheme: 'FAST'
+    identifier: 'fst01737382'
+    uri: 'https://id.worldcat.org/fast/1737382'
+    category: 'topical'
+  - label: 'Popular culture'
+    scheme: 'FAST'
+    identifier: 'fst01071344'
+    uri: 'https://id.worldcat.org/fast/1071344'
+    category: 'topical'
+  - label: 'Posthumanism'
+    scheme: 'FAST'
+    identifier: 'fst02027038'
+    uri: 'https://id.worldcat.org/fast/2027038'
+    category: 'topical'
+  - label: 'Zombies'
+    scheme: 'FAST'
+    identifier: 'fst01184595'
+    uri: 'https://id.worldcat.org/fast/1184595'
+    category: 'topical'
 ---

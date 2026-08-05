@@ -27,50 +27,35 @@ keywords:
   - colonialism
   - materiality
   - cross-cultural-exchange
-subjects:
-  - label: "Ceremonial exchange"
-    scheme: "FAST"
-    identifier: "fst00851404"
-    uri: "https://id.worldcat.org/fast/851404"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Economic anthropology"
-    scheme: "FAST"
-    identifier: "fst00901586"
-    uri: "https://id.worldcat.org/fast/901586"
-    category: "topical"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Gifts"
-    scheme: "FAST"
-    identifier: "fst00942628"
-    uri: "https://id.worldcat.org/fast/942628"
-    category: "topical"
-  - label: "Mauss, Marcel, 1872-1950"
-    scheme: "FAST"
-    identifier: "fst00047500"
-    uri: "https://id.worldcat.org/fast/47500"
-    category: "personal"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Siksika Indians"
-    scheme: "FAST"
-    identifier: "fst01118464"
-    uri: "https://id.worldcat.org/fast/1118464"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 06
+subjects:
+  - label: 'Blackfoot'
+    scheme: 'FAST'
+    identifier: 'fst00833864'
+    uri: 'https://id.worldcat.org/fast/833864'
+    category: 'topical'
+  - label: 'Exchange'
+    scheme: 'FAST'
+    identifier: 'fst00917649'
+    uri: 'https://id.worldcat.org/fast/917649'
+    category: 'topical'
+  - label: 'Medicine bundles'
+    scheme: 'FAST'
+    identifier: 'fst01015165'
+    uri: 'https://id.worldcat.org/fast/1015165'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Reciprocity'
+    scheme: 'FAST'
+    identifier: 'fst01091400'
+    uri: 'https://id.worldcat.org/fast/1091400'
+    category: 'topical'
 ---
 Lokensgard - The Matter of Responsibility - JCRT 4.1 
 

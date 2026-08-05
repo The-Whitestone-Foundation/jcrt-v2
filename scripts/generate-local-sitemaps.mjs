@@ -22,7 +22,7 @@ const PUBLISHER_OAI = "Whitestone Publications";
 const JOURNAL_TITLE_DOAJ = "The Journal for Cultural and Religious Theory";
 const JOURNAL_TITLE_OAI = "Journal for Cultural & Religious Theory";
 const RIGHTS_TEXT =
-  "Copyright held by the author(s). Articles are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.";
+  "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/";
 const DOAJ_SKIP_SLUGS = new Set(["index", "author-bios", "table-of-contents", "abstracts", "bios"]);
 const OAI_SKIP_SLUGS = new Set(["author-bios", "abstracts"]);
 

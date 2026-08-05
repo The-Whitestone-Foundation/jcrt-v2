@@ -27,50 +27,50 @@ keywords:
   - phenomenology
   - hermeneutics
   - emmanuel-levinas
-subjects:
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Forgiveness"
-    scheme: "FAST"
-    identifier: "fst00932854"
-    uri: "https://id.worldcat.org/fast/932854"
-    category: "topical"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Justice"
-    scheme: "FAST"
-    identifier: "fst00985122"
-    uri: "https://id.worldcat.org/fast/985122"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Responsibility"
-    scheme: "FAST"
-    identifier: "fst01095857"
-    uri: "https://id.worldcat.org/fast/1095857"
-    category: "topical"
-  - label: "Ricœur, Paul"
-    scheme: "FAST"
-    identifier: "fst00035920"
-    uri: "https://id.worldcat.org/fast/35920"
-    category: "personal"
-  - label: "Self"
-    scheme: "FAST"
-    identifier: "fst01111441"
-    uri: "https://id.worldcat.org/fast/1111441"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 05
+subjects:
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Forgiveness'
+    scheme: 'FAST'
+    identifier: 'fst00932854'
+    uri: 'https://id.worldcat.org/fast/932854'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
+  - label: 'Justice'
+    scheme: 'FAST'
+    identifier: 'fst00985122'
+    uri: 'https://id.worldcat.org/fast/985122'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Reconciliation'
+    scheme: 'FAST'
+    identifier: 'fst01091509'
+    uri: 'https://id.worldcat.org/fast/1091509'
+    category: 'topical'
+  - label: 'Responsibility'
+    scheme: 'FAST'
+    identifier: 'fst01095857'
+    uri: 'https://id.worldcat.org/fast/1095857'
+    category: 'topical'
+  - label: 'Revenge'
+    scheme: 'FAST'
+    identifier: 'fst01096476'
+    uri: 'https://id.worldcat.org/fast/1096476'
+    category: 'topical'
 ---
 MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 
 

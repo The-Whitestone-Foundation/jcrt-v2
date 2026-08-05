@@ -27,40 +27,40 @@ keywords:
   - cloning
   - postmodernism
   - imago-dei
-subjects:
-  - label: "Baudrillard, Jean, 1929-2007"
-    scheme: "FAST"
-    identifier: "fst01432596"
-    uri: "https://id.worldcat.org/fast/1432596"
-    category: "personal"
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Nihilism"
-    scheme: "FAST"
-    identifier: "fst01037702"
-    uri: "https://id.worldcat.org/fast/1037702"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 04
+subjects:
+  - label: 'Calvinism'
+    scheme: 'FAST'
+    identifier: 'fst00844591'
+    uri: 'https://id.worldcat.org/fast/844591'
+    category: 'topical'
+  - label: 'Cloning'
+    scheme: 'FAST'
+    identifier: 'fst00864579'
+    uri: 'https://id.worldcat.org/fast/864579'
+    category: 'topical'
+  - label: 'Death of God'
+    scheme: 'FAST'
+    identifier: 'fst00888713'
+    uri: 'https://id.worldcat.org/fast/888713'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Nihilism'
+    scheme: 'FAST'
+    identifier: 'fst01037702'
+    uri: 'https://id.worldcat.org/fast/1037702'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
 ---
 McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 
 

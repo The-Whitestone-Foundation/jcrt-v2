@@ -26,50 +26,25 @@ keywords:
   - gilles-deleuze
   - rhizome
   - avant-garde
-subjects:
-  - label: "Avant-garde (Aesthetics)"
-    scheme: "FAST"
-    identifier: "fst00824280"
-    uri: "https://id.worldcat.org/fast/824280"
-    category: "topical"
-  - label: "Debord, Guy, 1931-1994"
-    scheme: "FAST"
-    identifier: "fst01774974"
-    uri: "https://id.worldcat.org/fast/1774974"
-    category: "personal"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Ideology"
-    scheme: "FAST"
-    identifier: "fst00966915"
-    uri: "https://id.worldcat.org/fast/966915"
-    category: "topical"
-  - label: "Mass media"
-    scheme: "FAST"
-    identifier: "fst01011219"
-    uri: "https://id.worldcat.org/fast/1011219"
-    category: "topical"
-  - label: "Motion pictures"
-    scheme: "FAST"
-    identifier: "fst01027285"
-    uri: "https://id.worldcat.org/fast/1027285"
-    category: "topical"
-  - label: "Parody"
-    scheme: "FAST"
-    identifier: "fst01053849"
-    uri: "https://id.worldcat.org/fast/1053849"
-    category: "topical"
-  - label: "Société du spectacle (Debord, Guy)"
-    scheme: "FAST"
-    identifier: "fst01364498"
-    uri: "https://id.worldcat.org/fast/1364498"
-    category: "uniform-title"
 abstract:
 year: 2003
 sort_id: 07
+subjects:
+  - label: 'Avant garde'
+    scheme: 'FAST'
+    identifier: 'fst01776700'
+    uri: 'https://id.worldcat.org/fast/1776700'
+    category: 'title'
+  - label: 'Parody'
+    scheme: 'FAST'
+    identifier: 'fst01053849'
+    uri: 'https://id.worldcat.org/fast/1053849'
+    category: 'topical'
+  - label: 'Spectacular, The'
+    scheme: 'FAST'
+    identifier: 'fst01129046'
+    uri: 'https://id.worldcat.org/fast/1129046'
+    category: 'topical'
 ---
 Saper - Of Spectacularization - JCRT 4.2 
 

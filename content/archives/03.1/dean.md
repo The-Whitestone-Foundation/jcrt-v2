@@ -27,50 +27,30 @@ keywords:
   - charles-sanders-peirce
   - alfred-north-whitehead
   - black-elk
-subjects:
-  - label: "Black Elk, 1863-1950"
-    scheme: "FAST"
-    identifier: "fst00039557"
-    uri: "https://id.worldcat.org/fast/39557"
-    category: "personal"
-  - label: "Dewey, John, 1859-1952"
-    scheme: "FAST"
-    identifier: "fst00036653"
-    uri: "https://id.worldcat.org/fast/36653"
-    category: "personal"
-  - label: "James, William, 1842-1910"
-    scheme: "FAST"
-    identifier: "fst00029108"
-    uri: "https://id.worldcat.org/fast/29108"
-    category: "personal"
-  - label: "Peirce, Charles S. (Charles Sanders), 1839-1914"
-    scheme: "FAST"
-    identifier: "fst00033077"
-    uri: "https://id.worldcat.org/fast/33077"
-    category: "personal"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Philosophy, American"
-    scheme: "FAST"
-    identifier: "fst01060855"
-    uri: "https://id.worldcat.org/fast/1060855"
-    category: "topical"
-  - label: "Pragmatism"
-    scheme: "FAST"
-    identifier: "fst01074582"
-    uri: "https://id.worldcat.org/fast/1074582"
-    category: "topical"
-  - label: "Rorty, Richard"
-    scheme: "FAST"
-    identifier: "fst00037243"
-    uri: "https://id.worldcat.org/fast/37243"
-    category: "personal"
 abstract:
 year: 2001
 sort_id: 07
+subjects:
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Philosophy, American'
+    scheme: 'FAST'
+    identifier: 'fst01060855'
+    uri: 'https://id.worldcat.org/fast/1060855'
+    category: 'topical'
+  - label: 'Pragmatism'
+    scheme: 'FAST'
+    identifier: 'fst01074582'
+    uri: 'https://id.worldcat.org/fast/1074582'
+    category: 'topical'
+  - label: 'Process philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01078048'
+    uri: 'https://id.worldcat.org/fast/1078048'
+    category: 'topical'
 ---
 Dean - The Archaeology of American Thought - JCRT 3.1 
 

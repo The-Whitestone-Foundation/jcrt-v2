@@ -19,37 +19,6 @@ keywords:
   - continental-philosophy
   - activism
   - disappointment
-subjects:
-  - label: "Anarchism"
-    scheme: "FAST"
-    identifier: "fst00808387"
-    uri: "https://id.worldcat.org/fast/808387"
-    category: "topical"
-  - label: "Critchley, Simon, 1960-"
-    scheme: "FAST"
-    identifier: "fst01947364"
-    uri: "https://id.worldcat.org/fast/1947364"
-    category: "personal"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Nihilism"
-    scheme: "FAST"
-    identifier: "fst01037702"
-    uri: "https://id.worldcat.org/fast/1037702"
-    category: "topical"
-  - label: "Political science"
-    scheme: "FAST"
-    identifier: "fst01069781"
-    uri: "https://id.worldcat.org/fast/1069781"
-    category: "topical"
 pdf: hilberg.pdf
 sort_id: 03
 volume: 9
@@ -57,4 +26,35 @@ issue: 3
 season: fall
 year: 2008
 pages:
+subjects:
+  - label: 'Activism'
+    scheme: 'FAST'
+    identifier: 'fst02070573'
+    uri: 'https://id.worldcat.org/fast/2070573'
+    category: 'topical'
+  - label: 'Anarchism'
+    scheme: 'FAST'
+    identifier: 'fst00808387'
+    uri: 'https://id.worldcat.org/fast/808387'
+    category: 'topical'
+  - label: 'Continental philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01765182'
+    uri: 'https://id.worldcat.org/fast/1765182'
+    category: 'topical'
+  - label: 'Disappointment'
+    scheme: 'FAST'
+    identifier: 'fst00894681'
+    uri: 'https://id.worldcat.org/fast/894681'
+    category: 'topical'
+  - label: 'Nihilism'
+    scheme: 'FAST'
+    identifier: 'fst01037702'
+    uri: 'https://id.worldcat.org/fast/1037702'
+    category: 'topical'
+  - label: 'Political science Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01069819'
+    uri: 'https://id.worldcat.org/fast/1069819'
+    category: 'topical'
 ---

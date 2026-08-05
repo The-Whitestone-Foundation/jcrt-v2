@@ -27,50 +27,60 @@ keywords:
   - historiography
   - textual-criticism
   - islamic-theology
-subjects:
-  - label: "Hadith"
-    scheme: "FAST"
-    identifier: "fst00950112"
-    uri: "https://id.worldcat.org/fast/950112"
-    category: "topical"
-  - label: "Islam"
-    scheme: "FAST"
-    identifier: "fst00979776"
-    uri: "https://id.worldcat.org/fast/979776"
-    category: "topical"
-  - label: "Islamic law"
-    scheme: "FAST"
-    identifier: "fst00979949"
-    uri: "https://id.worldcat.org/fast/979949"
-    category: "topical"
-  - label: "Muslims"
-    scheme: "FAST"
-    identifier: "fst01031029"
-    uri: "https://id.worldcat.org/fast/1031029"
-    category: "topical"
-  - label: "Orientalism"
-    scheme: "FAST"
-    identifier: "fst01048139"
-    uri: "https://id.worldcat.org/fast/1048139"
-    category: "topical"
-  - label: "Qurʼan"
-    scheme: "FAST"
-    identifier: "fst01842877"
-    uri: "https://id.worldcat.org/fast/1842877"
-    category: "uniform-title"
-  - label: "Shīʻah"
-    scheme: "FAST"
-    identifier: "fst01117946"
-    uri: "https://id.worldcat.org/fast/1117946"
-    category: "topical"
-  - label: "Sufism"
-    scheme: "FAST"
-    identifier: "fst01137257"
-    uri: "https://id.worldcat.org/fast/1137257"
-    category: "topical"
 abstract:
 year: 2001
 sort_id: 10
+subjects:
+  - label: 'Criticism, Textual'
+    scheme: 'FAST'
+    identifier: 'fst00883762'
+    uri: 'https://id.worldcat.org/fast/883762'
+    category: 'topical'
+  - label: 'Hadith'
+    scheme: 'FAST'
+    identifier: 'fst00950112'
+    uri: 'https://id.worldcat.org/fast/950112'
+    category: 'topical'
+  - label: 'Historiography'
+    scheme: 'FAST'
+    identifier: 'fst00958221'
+    uri: 'https://id.worldcat.org/fast/958221'
+    category: 'topical'
+  - label: 'Islam'
+    scheme: 'FAST'
+    identifier: 'fst00979776'
+    uri: 'https://id.worldcat.org/fast/979776'
+    category: 'topical'
+  - label: 'Islam Doctrines'
+    scheme: 'FAST'
+    identifier: 'fst00979787'
+    uri: 'https://id.worldcat.org/fast/979787'
+    category: 'topical'
+  - label: 'Islamic law'
+    scheme: 'FAST'
+    identifier: 'fst00979949'
+    uri: 'https://id.worldcat.org/fast/979949'
+    category: 'topical'
+  - label: 'Orientalism'
+    scheme: 'FAST'
+    identifier: 'fst01048139'
+    uri: 'https://id.worldcat.org/fast/1048139'
+    category: 'topical'
+  - label: 'Shīʻah'
+    scheme: 'FAST'
+    identifier: 'fst01117946'
+    uri: 'https://id.worldcat.org/fast/1117946'
+    category: 'topical'
+  - label: 'Sufism'
+    scheme: 'FAST'
+    identifier: 'fst01137257'
+    uri: 'https://id.worldcat.org/fast/1137257'
+    category: 'topical'
+  - label: 'Sunna'
+    scheme: 'FAST'
+    identifier: 'fst01138712'
+    uri: 'https://id.worldcat.org/fast/1138712'
+    category: 'topical'
 ---
 Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
 

@@ -26,29 +26,34 @@ season: winter
 year: 2004
 pages:
 subjects:
-  - label: "Aesthetics"
-    scheme: "FAST"
-    identifier: "fst00798702"
-    uri: "https://id.worldcat.org/fast/798702"
-    category: "topical"
-  - label: "Art and philosophy"
-    scheme: "FAST"
-    identifier: "fst00815419"
-    uri: "https://id.worldcat.org/fast/815419"
-    category: "topical"
-  - label: "Chrétien, Jean-Louis, 1952-"
-    scheme: "FAST"
-    identifier: "fst01469893"
-    uri: "https://id.worldcat.org/fast/1469893"
-    category: "personal"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "Prayer"
-    scheme: "FAST"
-    identifier: "fst01074680"
-    uri: "https://id.worldcat.org/fast/1074680"
-    category: "topical"
+  - label: 'Aesthetics'
+    scheme: 'FAST'
+    identifier: 'fst00798702'
+    uri: 'https://id.worldcat.org/fast/798702'
+    category: 'topical'
+  - label: 'Art'
+    scheme: 'FAST'
+    identifier: 'fst00815177'
+    uri: 'https://id.worldcat.org/fast/815177'
+    category: 'topical'
+  - label: 'Listening'
+    scheme: 'FAST'
+    identifier: 'fst00999799'
+    uri: 'https://id.worldcat.org/fast/999799'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Prayer'
+    scheme: 'FAST'
+    identifier: 'fst01074680'
+    uri: 'https://id.worldcat.org/fast/1074680'
+    category: 'topical'
+  - label: 'Speech'
+    scheme: 'FAST'
+    identifier: 'fst01129153'
+    uri: 'https://id.worldcat.org/fast/1129153'
+    category: 'topical'
 ---

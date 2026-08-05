@@ -28,50 +28,35 @@ keywords:
   - judith-butler
   - political-theology
   - revolution
-subjects:
-  - label: "Butler, Judith, 1956-"
-    scheme: "FAST"
-    identifier: "fst01428564"
-    uri: "https://id.worldcat.org/fast/1428564"
-    category: "personal"
-  - label: "Communism"
-    scheme: "FAST"
-    identifier: "fst00870421"
-    uri: "https://id.worldcat.org/fast/870421"
-    category: "topical"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Lenin, Vladimir Ilʹich, 1870-1924"
-    scheme: "FAST"
-    identifier: "fst00055663"
-    uri: "https://id.worldcat.org/fast/55663"
-    category: "personal"
-  - label: "Political theology"
-    scheme: "FAST"
-    identifier: "fst01069899"
-    uri: "https://id.worldcat.org/fast/1069899"
-    category: "topical"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
-  - label: "September 11 Terrorist Attacks (2001)"
-    scheme: "FAST"
-    identifier: "fst01112794"
-    uri: "https://id.worldcat.org/fast/1112794"
-    category: "event"
-  - label: "Žižek, Slavoj"
-    scheme: "FAST"
-    identifier: "fst00161373"
-    uri: "https://id.worldcat.org/fast/161373"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 05
+subjects:
+  - label: 'Political theology'
+    scheme: 'FAST'
+    identifier: 'fst01069899'
+    uri: 'https://id.worldcat.org/fast/1069899'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
+  - label: 'Revolution'
+    scheme: 'FAST'
+    identifier: 'fst01198953'
+    uri: 'https://id.worldcat.org/fast/1198953'
+    category: 'topical'
+  - label: 'Terrorism'
+    scheme: 'FAST'
+    identifier: 'fst01148101'
+    uri: 'https://id.worldcat.org/fast/1148101'
+    category: 'topical'
+  - label: 'Universalism'
+    scheme: 'FAST'
+    identifier: 'fst01161574'
+    uri: 'https://id.worldcat.org/fast/1161574'
+    category: 'topical'
 ---
 Katz - Left Traumatized - JCRT 3.2 
 

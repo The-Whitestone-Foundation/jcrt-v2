@@ -27,39 +27,29 @@ season: summer
 year: 2004
 pages:
 subjects:
-  - label: "Cybernetics"
-    scheme: "FAST"
-    identifier: "fst00885777"
-    uri: "https://id.worldcat.org/fast/885777"
-    category: "topical"
-  - label: "Cyborgs"
-    scheme: "FAST"
-    identifier: "fst00885806"
-    uri: "https://id.worldcat.org/fast/885806"
-    category: "topical"
-  - label: "Digital media"
-    scheme: "FAST"
-    identifier: "fst00893716"
-    uri: "https://id.worldcat.org/fast/893716"
-    category: "topical"
-  - label: "Identity (Psychology)"
-    scheme: "FAST"
-    identifier: "fst00966892"
-    uri: "https://id.worldcat.org/fast/966892"
-    category: "topical"
-  - label: "Information technology"
-    scheme: "FAST"
-    identifier: "fst00973089"
-    uri: "https://id.worldcat.org/fast/973089"
-    category: "topical"
-  - label: "Posthumanism"
-    scheme: "FAST"
-    identifier: "fst02027038"
-    uri: "https://id.worldcat.org/fast/2027038"
-    category: "topical"
-  - label: "Ubiquitous computing"
-    scheme: "FAST"
-    identifier: "fst01160283"
-    uri: "https://id.worldcat.org/fast/1160283"
-    category: "topical"
+  - label: 'Cybernetics'
+    scheme: 'FAST'
+    identifier: 'fst00885777'
+    uri: 'https://id.worldcat.org/fast/885777'
+    category: 'topical'
+  - label: 'Identity (Philosophical concept)'
+    scheme: 'FAST'
+    identifier: 'fst00966889'
+    uri: 'https://id.worldcat.org/fast/966889'
+    category: 'topical'
+  - label: 'Information technology'
+    scheme: 'FAST'
+    identifier: 'fst00973089'
+    uri: 'https://id.worldcat.org/fast/973089'
+    category: 'topical'
+  - label: 'Posthumanism'
+    scheme: 'FAST'
+    identifier: 'fst02027038'
+    uri: 'https://id.worldcat.org/fast/2027038'
+    category: 'topical'
+  - label: 'Ubiquitous computing'
+    scheme: 'FAST'
+    identifier: 'fst01160283'
+    uri: 'https://id.worldcat.org/fast/1160283'
+    category: 'topical'
 ---

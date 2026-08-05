@@ -26,50 +26,45 @@ keywords:
   - postmodern-theology
   - eternal-recurrence
   - deconstruction
-subjects:
-  - label: "Consciousness"
-    scheme: "FAST"
-    identifier: "fst00875441"
-    uri: "https://id.worldcat.org/fast/875441"
-    category: "topical"
-  - label: "Death of God theology"
-    scheme: "FAST"
-    identifier: "fst00888716"
-    uri: "https://id.worldcat.org/fast/888716"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Desire"
-    scheme: "FAST"
-    identifier: "fst00891351"
-    uri: "https://id.worldcat.org/fast/891351"
-    category: "topical"
-  - label: "Nietzsche, Friedrich Wilhelm, 1844-1900"
-    scheme: "FAST"
-    identifier: "fst00031611"
-    uri: "https://id.worldcat.org/fast/31611"
-    category: "personal"
-  - label: "Subjectivity"
-    scheme: "FAST"
-    identifier: "fst01136568"
-    uri: "https://id.worldcat.org/fast/1136568"
-    category: "topical"
-  - label: "Tillich, Paul, 1886-1965"
-    scheme: "FAST"
-    identifier: "fst00034887"
-    uri: "https://id.worldcat.org/fast/34887"
-    category: "personal"
 abstract:
 year: 1999
 sort_id: 02
+subjects:
+  - label: 'Consciousness'
+    scheme: 'FAST'
+    identifier: 'fst00875441'
+    uri: 'https://id.worldcat.org/fast/875441'
+    category: 'topical'
+  - label: 'Death of God'
+    scheme: 'FAST'
+    identifier: 'fst00888713'
+    uri: 'https://id.worldcat.org/fast/888713'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Desire'
+    scheme: 'FAST'
+    identifier: 'fst00891351'
+    uri: 'https://id.worldcat.org/fast/891351'
+    category: 'topical'
+  - label: 'Eternal return'
+    scheme: 'FAST'
+    identifier: 'fst00915773'
+    uri: 'https://id.worldcat.org/fast/915773'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Subjectivity'
+    scheme: 'FAST'
+    identifier: 'fst01136568'
+    uri: 'https://id.worldcat.org/fast/1136568'
+    category: 'topical'
 ---
 Winquist - Ambiguous Gift of Desire - JCRT 1.1
 

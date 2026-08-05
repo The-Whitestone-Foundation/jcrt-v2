@@ -27,34 +27,34 @@ season: winter
 year: 2004
 pages:
 subjects:
-  - label: "Democracy"
-    scheme: "FAST"
-    identifier: "fst00890077"
-    uri: "https://id.worldcat.org/fast/890077"
-    category: "topical"
-  - label: "Globalization"
-    scheme: "FAST"
-    identifier: "fst00943532"
-    uri: "https://id.worldcat.org/fast/943532"
-    category: "topical"
-  - label: "Imperialism"
-    scheme: "FAST"
-    identifier: "fst00968126"
-    uri: "https://id.worldcat.org/fast/968126"
-    category: "topical"
-  - label: "Political science--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01069819"
-    uri: "https://id.worldcat.org/fast/1069819"
-    category: "topical"
-  - label: "Sovereignty"
-    scheme: "FAST"
-    identifier: "fst01127379"
-    uri: "https://id.worldcat.org/fast/1127379"
-    category: "topical"
-  - label: "War"
-    scheme: "FAST"
-    identifier: "fst01170328"
-    uri: "https://id.worldcat.org/fast/1170328"
-    category: "topical"
+  - label: 'Biopolitics'
+    scheme: 'FAST'
+    identifier: 'fst00832668'
+    uri: 'https://id.worldcat.org/fast/832668'
+    category: 'topical'
+  - label: 'Democracy'
+    scheme: 'FAST'
+    identifier: 'fst00890077'
+    uri: 'https://id.worldcat.org/fast/890077'
+    category: 'topical'
+  - label: 'Globalization'
+    scheme: 'FAST'
+    identifier: 'fst00943532'
+    uri: 'https://id.worldcat.org/fast/943532'
+    category: 'topical'
+  - label: 'Political science Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01069819'
+    uri: 'https://id.worldcat.org/fast/1069819'
+    category: 'topical'
+  - label: 'Sovereignty'
+    scheme: 'FAST'
+    identifier: 'fst01127379'
+    uri: 'https://id.worldcat.org/fast/1127379'
+    category: 'topical'
+  - label: 'War'
+    scheme: 'FAST'
+    identifier: 'fst01170328'
+    uri: 'https://id.worldcat.org/fast/1170328'
+    category: 'topical'
 ---

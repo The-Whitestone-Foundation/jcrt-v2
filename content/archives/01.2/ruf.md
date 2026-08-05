@@ -25,50 +25,40 @@ keywords:
   - rupture
   - self-transformation
   - american-literature
-subjects:
-  - label: "American literature"
-    scheme: "FAST"
-    identifier: "fst00807113"
-    uri: "https://id.worldcat.org/fast/807113"
-    category: "topical"
-  - label: "Bowles, Paul, 1910-1999"
-    scheme: "FAST"
-    identifier: "fst00034184"
-    uri: "https://id.worldcat.org/fast/34184"
-    category: "personal"
-  - label: "Liminality"
-    scheme: "FAST"
-    identifier: "fst00998872"
-    uri: "https://id.worldcat.org/fast/998872"
-    category: "topical"
-  - label: "Miller, Henry, 1891-1980"
-    scheme: "FAST"
-    identifier: "fst00038103"
-    uri: "https://id.worldcat.org/fast/38103"
-    category: "personal"
-  - label: "Rites and ceremonies"
-    scheme: "FAST"
-    identifier: "fst01098216"
-    uri: "https://id.worldcat.org/fast/1098216"
-    category: "topical"
-  - label: "Trance"
-    scheme: "FAST"
-    identifier: "fst01154483"
-    uri: "https://id.worldcat.org/fast/1154483"
-    category: "topical"
-  - label: "Travel"
-    scheme: "FAST"
-    identifier: "fst01155558"
-    uri: "https://id.worldcat.org/fast/1155558"
-    category: "topical"
-  - label: "Twain, Mark, 1835-1910"
-    scheme: "FAST"
-    identifier: "fst00031622"
-    uri: "https://id.worldcat.org/fast/31622"
-    category: "personal"
 abstract:
 year: 2000
 sort_id: 07
+subjects:
+  - label: 'American literature'
+    scheme: 'FAST'
+    identifier: 'fst00807113'
+    uri: 'https://id.worldcat.org/fast/807113'
+    category: 'topical'
+  - label: 'Danger'
+    scheme: 'FAST'
+    identifier: 'fst02010151'
+    uri: 'https://id.worldcat.org/fast/2010151'
+    category: 'topical'
+  - label: 'Implicit religion'
+    scheme: 'FAST'
+    identifier: 'fst00968178'
+    uri: 'https://id.worldcat.org/fast/968178'
+    category: 'topical'
+  - label: 'Liminality'
+    scheme: 'FAST'
+    identifier: 'fst00998872'
+    uri: 'https://id.worldcat.org/fast/998872'
+    category: 'topical'
+  - label: 'Trance'
+    scheme: 'FAST'
+    identifier: 'fst01154483'
+    uri: 'https://id.worldcat.org/fast/1154483'
+    category: 'topical'
+  - label: 'Travel'
+    scheme: 'FAST'
+    identifier: 'fst01155558'
+    uri: 'https://id.worldcat.org/fast/1155558'
+    category: 'topical'
 ---
 Ruf - Ride of Passage - JCRT 1.2
 

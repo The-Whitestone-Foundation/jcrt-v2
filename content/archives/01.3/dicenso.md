@@ -27,50 +27,35 @@ keywords:
   - jacques-lacan
   - reflection
   - critique-of-religion
-subjects:
-  - label: "Autonomy"
-    scheme: "FAST"
-    identifier: "fst00824163"
-    uri: "https://id.worldcat.org/fast/824163"
-    category: "topical"
-  - label: "Castoriadis, Cornelius, 1922-1997"
-    scheme: "FAST"
-    identifier: "fst01427517"
-    uri: "https://id.worldcat.org/fast/1427517"
-    category: "personal"
-  - label: "Gauchet, Marcel"
-    scheme: "FAST"
-    identifier: "fst00057511"
-    uri: "https://id.worldcat.org/fast/57511"
-    category: "personal"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Monotheism"
-    scheme: "FAST"
-    identifier: "fst01025714"
-    uri: "https://id.worldcat.org/fast/1025714"
-    category: "topical"
-  - label: "Other (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01048904"
-    uri: "https://id.worldcat.org/fast/1048904"
-    category: "topical"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 05
+subjects:
+  - label: 'Autonomy'
+    scheme: 'FAST'
+    identifier: 'fst00824163'
+    uri: 'https://id.worldcat.org/fast/824163'
+    category: 'topical'
+  - label: 'Iconoclasm'
+    scheme: 'FAST'
+    identifier: 'fst00966761'
+    uri: 'https://id.worldcat.org/fast/966761'
+    category: 'topical'
+  - label: 'Monotheism'
+    scheme: 'FAST'
+    identifier: 'fst01025714'
+    uri: 'https://id.worldcat.org/fast/1025714'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---
 DiCenso - Splitting Religion - JCRT 1.3 
 

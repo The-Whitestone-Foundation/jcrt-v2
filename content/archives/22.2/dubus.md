@@ -25,29 +25,34 @@ season: fall
 year: 2023
 pages:
 subjects:
-  - label: "Aesthetics"
-    scheme: "FAST"
-    identifier: "fst00798702"
-    uri: "https://id.worldcat.org/fast/798702"
-    category: "topical"
-  - label: "Art"
-    scheme: "FAST"
-    identifier: "fst00815177"
-    uri: "https://id.worldcat.org/fast/815177"
-    category: "topical"
-  - label: "Fashion"
-    scheme: "FAST"
-    identifier: "fst00921600"
-    uri: "https://id.worldcat.org/fast/921600"
-    category: "topical"
-  - label: "Material culture"
-    scheme: "FAST"
-    identifier: "fst01011739"
-    uri: "https://id.worldcat.org/fast/1011739"
-    category: "topical"
-  - label: "Painting"
-    scheme: "FAST"
-    identifier: "fst01050567"
-    uri: "https://id.worldcat.org/fast/1050567"
-    category: "topical"
+  - label: 'Aesthetics'
+    scheme: 'FAST'
+    identifier: 'fst00798702'
+    uri: 'https://id.worldcat.org/fast/798702'
+    category: 'topical'
+  - label: 'Art'
+    scheme: 'FAST'
+    identifier: 'fst00815177'
+    uri: 'https://id.worldcat.org/fast/815177'
+    category: 'topical'
+  - label: 'Fashion'
+    scheme: 'FAST'
+    identifier: 'fst00921600'
+    uri: 'https://id.worldcat.org/fast/921600'
+    category: 'topical'
+  - label: 'Fashion and art'
+    scheme: 'FAST'
+    identifier: 'fst00921625'
+    uri: 'https://id.worldcat.org/fast/921625'
+    category: 'topical'
+  - label: 'Material culture'
+    scheme: 'FAST'
+    identifier: 'fst01011739'
+    uri: 'https://id.worldcat.org/fast/1011739'
+    category: 'topical'
+  - label: 'Painting'
+    scheme: 'FAST'
+    identifier: 'fst01050567'
+    uri: 'https://id.worldcat.org/fast/1050567'
+    category: 'topical'
 ---

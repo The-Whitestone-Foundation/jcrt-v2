@@ -26,50 +26,40 @@ keywords:
   - ethnicity
   - monotheism
   - midrash
-subjects:
-  - label: "Critical theory"
-    scheme: "FAST"
-    identifier: "fst00883690"
-    uri: "https://id.worldcat.org/fast/883690"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Judaism"
-    scheme: "FAST"
-    identifier: "fst00984280"
-    uri: "https://id.worldcat.org/fast/984280"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Midrash"
-    scheme: "FAST"
-    identifier: "fst01020601"
-    uri: "https://id.worldcat.org/fast/1020601"
-    category: "topical"
-  - label: "Rosenzweig, Franz, 1886-1929"
-    scheme: "FAST"
-    identifier: "fst00101180"
-    uri: "https://id.worldcat.org/fast/101180"
-    category: "personal"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Talmud"
-    scheme: "FAST"
-    identifier: "fst01356431"
-    uri: "https://id.worldcat.org/fast/1356431"
-    category: "uniform-title"
 abstract:
 year: 1999
 sort_id: 06
+subjects:
+  - label: 'Critical theory'
+    scheme: 'FAST'
+    identifier: 'fst00883690'
+    uri: 'https://id.worldcat.org/fast/883690'
+    category: 'topical'
+  - label: 'Ethnicity'
+    scheme: 'FAST'
+    identifier: 'fst00916034'
+    uri: 'https://id.worldcat.org/fast/916034'
+    category: 'topical'
+  - label: 'Jews Study and teaching'
+    scheme: 'FAST'
+    identifier: 'fst00983377'
+    uri: 'https://id.worldcat.org/fast/983377'
+    category: 'topical'
+  - label: 'Judaism'
+    scheme: 'FAST'
+    identifier: 'fst00984280'
+    uri: 'https://id.worldcat.org/fast/984280'
+    category: 'topical'
+  - label: 'Midrash'
+    scheme: 'FAST'
+    identifier: 'fst01020601'
+    uri: 'https://id.worldcat.org/fast/1020601'
+    category: 'topical'
+  - label: 'Monotheism'
+    scheme: 'FAST'
+    identifier: 'fst01025714'
+    uri: 'https://id.worldcat.org/fast/1025714'
+    category: 'topical'
 ---
 Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1
 

@@ -27,34 +27,39 @@ season: summer
 year: 2004
 pages:
 subjects:
-  - label: "Catholic Church"
-    scheme: "FAST"
-    identifier: "fst00531720"
-    uri: "https://id.worldcat.org/fast/531720"
-    category: "corporate"
-  - label: "Counterculture"
-    scheme: "FAST"
-    identifier: "fst00881315"
-    uri: "https://id.worldcat.org/fast/881315"
-    category: "topical"
-  - label: "Judaism"
-    scheme: "FAST"
-    identifier: "fst00984280"
-    uri: "https://id.worldcat.org/fast/984280"
-    category: "topical"
-  - label: "Protestantism"
-    scheme: "FAST"
-    identifier: "fst01079920"
-    uri: "https://id.worldcat.org/fast/1079920"
-    category: "topical"
-  - label: "Social movements"
-    scheme: "FAST"
-    identifier: "fst01122657"
-    uri: "https://id.worldcat.org/fast/1122657"
-    category: "topical"
-  - label: "Spirituality"
-    scheme: "FAST"
-    identifier: "fst01130186"
-    uri: "https://id.worldcat.org/fast/1130186"
-    category: "topical"
+  - label: 'Counterculture'
+    scheme: 'FAST'
+    identifier: 'fst00881315'
+    uri: 'https://id.worldcat.org/fast/881315'
+    category: 'topical'
+  - label: 'Judaism'
+    scheme: 'FAST'
+    identifier: 'fst00984280'
+    uri: 'https://id.worldcat.org/fast/984280'
+    category: 'topical'
+  - label: 'Protestantism'
+    scheme: 'FAST'
+    identifier: 'fst01079920'
+    uri: 'https://id.worldcat.org/fast/1079920'
+    category: 'topical'
+  - label: 'Religion and culture'
+    scheme: 'FAST'
+    identifier: 'fst01093823'
+    uri: 'https://id.worldcat.org/fast/1093823'
+    category: 'topical'
+  - label: 'Social change'
+    scheme: 'FAST'
+    identifier: 'fst01122310'
+    uri: 'https://id.worldcat.org/fast/1122310'
+    category: 'topical'
+  - label: 'Social movements'
+    scheme: 'FAST'
+    identifier: 'fst01122657'
+    uri: 'https://id.worldcat.org/fast/1122657'
+    category: 'topical'
+  - label: 'Spirituality'
+    scheme: 'FAST'
+    identifier: 'fst01130186'
+    uri: 'https://id.worldcat.org/fast/1130186'
+    category: 'topical'
 ---

@@ -19,42 +19,6 @@ keywords:
   - platonic-dialogue
   - subjectivity
   - danish-philosophy
-subjects:
-  - label: "Existentialism"
-    scheme: "FAST"
-    identifier: "fst00918204"
-    uri: "https://id.worldcat.org/fast/918204"
-    category: "topical"
-  - label: "Faith"
-    scheme: "FAST"
-    identifier: "fst01198492"
-    uri: "https://id.worldcat.org/fast/1198492"
-    category: "topical"
-  - label: "Irony"
-    scheme: "FAST"
-    identifier: "fst00979386"
-    uri: "https://id.worldcat.org/fast/979386"
-    category: "topical"
-  - label: "Kierkegaard, Søren, 1813-1855"
-    scheme: "FAST"
-    identifier: "fst00037558"
-    uri: "https://id.worldcat.org/fast/37558"
-    category: "personal"
-  - label: "Philosophy, Ancient"
-    scheme: "FAST"
-    identifier: "fst01060860"
-    uri: "https://id.worldcat.org/fast/1060860"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Socrates"
-    scheme: "FAST"
-    identifier: "fst00035600"
-    uri: "https://id.worldcat.org/fast/35600"
-    category: "personal"
 pdf: Igrek.pdf
 sort_id:
 volume: 9
@@ -62,4 +26,45 @@ issue: 1
 season: winter
 year: 2008
 pages:
+subjects:
+  - label: 'Existentialism'
+    scheme: 'FAST'
+    identifier: 'fst00918204'
+    uri: 'https://id.worldcat.org/fast/918204'
+    category: 'topical'
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Faith and reason'
+    scheme: 'FAST'
+    identifier: 'fst00919959'
+    uri: 'https://id.worldcat.org/fast/919959'
+    category: 'topical'
+  - label: 'Irony'
+    scheme: 'FAST'
+    identifier: 'fst00979386'
+    uri: 'https://id.worldcat.org/fast/979386'
+    category: 'topical'
+  - label: 'Philosophy, Ancient'
+    scheme: 'FAST'
+    identifier: 'fst01060860'
+    uri: 'https://id.worldcat.org/fast/1060860'
+    category: 'topical'
+  - label: 'Philosophy, Danish'
+    scheme: 'FAST'
+    identifier: 'fst01747032'
+    uri: 'https://id.worldcat.org/fast/1747032'
+    category: 'topical'
+  - label: 'Questioning'
+    scheme: 'FAST'
+    identifier: 'fst01085685'
+    uri: 'https://id.worldcat.org/fast/1085685'
+    category: 'topical'
+  - label: 'Subjectivity'
+    scheme: 'FAST'
+    identifier: 'fst01136568'
+    uri: 'https://id.worldcat.org/fast/1136568'
+    category: 'topical'
 ---

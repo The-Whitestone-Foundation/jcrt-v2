@@ -27,50 +27,50 @@ keywords:
   - apocalypse
   - messianism
   - scapegoating
-subjects:
-  - label: "Antisemitism"
-    scheme: "FAST"
-    identifier: "fst00810769"
-    uri: "https://id.worldcat.org/fast/810769"
-    category: "topical"
-  - label: "Blood accusation"
-    scheme: "FAST"
-    identifier: "fst00834641"
-    uri: "https://id.worldcat.org/fast/834641"
-    category: "topical"
-  - label: "Christianity"
-    scheme: "FAST"
-    identifier: "fst00859599"
-    uri: "https://id.worldcat.org/fast/859599"
-    category: "topical"
-  - label: "Freud, Sigmund, 1856-1939"
-    scheme: "FAST"
-    identifier: "fst00034252"
-    uri: "https://id.worldcat.org/fast/34252"
-    category: "personal"
-  - label: "Jewish Holocaust (1939-1945)"
-    scheme: "FAST"
-    identifier: "fst00958866"
-    uri: "https://id.worldcat.org/fast/958866"
-    category: "event"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "National socialism"
-    scheme: "FAST"
-    identifier: "fst01033761"
-    uri: "https://id.worldcat.org/fast/1033761"
-    category: "topical"
-  - label: "Scapegoat"
-    scheme: "FAST"
-    identifier: "fst01106500"
-    uri: "https://id.worldcat.org/fast/1106500"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 04
+subjects:
+  - label: 'Antisemitism'
+    scheme: 'FAST'
+    identifier: 'fst00810769'
+    uri: 'https://id.worldcat.org/fast/810769'
+    category: 'topical'
+  - label: 'Blood accusation'
+    scheme: 'FAST'
+    identifier: 'fst00834641'
+    uri: 'https://id.worldcat.org/fast/834641'
+    category: 'topical'
+  - label: 'Christianity'
+    scheme: 'FAST'
+    identifier: 'fst00859599'
+    uri: 'https://id.worldcat.org/fast/859599'
+    category: 'topical'
+  - label: 'Fantasy'
+    scheme: 'FAST'
+    identifier: 'fst00920687'
+    uri: 'https://id.worldcat.org/fast/920687'
+    category: 'topical'
+  - label: 'Human sacrifice'
+    scheme: 'FAST'
+    identifier: 'fst00963355'
+    uri: 'https://id.worldcat.org/fast/963355'
+    category: 'topical'
+  - label: 'Messianism'
+    scheme: 'FAST'
+    identifier: 'fst01017438'
+    uri: 'https://id.worldcat.org/fast/1017438'
+    category: 'topical'
+  - label: 'National socialism'
+    scheme: 'FAST'
+    identifier: 'fst01033761'
+    uri: 'https://id.worldcat.org/fast/1033761'
+    category: 'topical'
+  - label: 'Ritual murder'
+    scheme: 'FAST'
+    identifier: 'fst02041146'
+    uri: 'https://id.worldcat.org/fast/2041146'
+    category: 'topical'
 ---
 Canning - Jesus Christ Holocaust - JCRT 1.2
 

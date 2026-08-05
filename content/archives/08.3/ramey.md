@@ -26,39 +26,24 @@ season: fall
 year: 2007
 pages:
 subjects:
-  - label: "Continental philosophy"
-    scheme: "FAST"
-    identifier: "fst01765182"
-    uri: "https://id.worldcat.org/fast/1765182"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Immanence (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst00967698"
-    uri: "https://id.worldcat.org/fast/967698"
-    category: "topical"
-  - label: "Metaphysics"
-    scheme: "FAST"
-    identifier: "fst01018304"
-    uri: "https://id.worldcat.org/fast/1018304"
-    category: "topical"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Spinoza, Benedictus de, 1632-1677"
-    scheme: "FAST"
-    identifier: "fst00031382"
-    uri: "https://id.worldcat.org/fast/31382"
-    category: "personal"
-  - label: "Transcendence (Philosophy)"
-    scheme: "FAST"
-    identifier: "fst01154529"
-    uri: "https://id.worldcat.org/fast/1154529"
-    category: "topical"
+  - label: 'Continental philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01765182'
+    uri: 'https://id.worldcat.org/fast/1765182'
+    category: 'topical'
+  - label: 'Creative ability'
+    scheme: 'FAST'
+    identifier: 'fst00882417'
+    uri: 'https://id.worldcat.org/fast/882417'
+    category: 'topical'
+  - label: 'Metaphysics'
+    scheme: 'FAST'
+    identifier: 'fst01018304'
+    uri: 'https://id.worldcat.org/fast/1018304'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
 ---

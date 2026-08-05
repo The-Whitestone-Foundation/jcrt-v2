@@ -25,39 +25,29 @@ season: winter
 year: 2006
 pages:
 subjects:
-  - label: "Atheism"
-    scheme: "FAST"
-    identifier: "fst00819974"
-    uri: "https://id.worldcat.org/fast/819974"
-    category: "topical"
-  - label: "Free will and determinism"
-    scheme: "FAST"
-    identifier: "fst00933968"
-    uri: "https://id.worldcat.org/fast/933968"
-    category: "topical"
-  - label: "God"
-    scheme: "FAST"
-    identifier: "fst00944037"
-    uri: "https://id.worldcat.org/fast/944037"
-    category: "topical"
-  - label: "Good and evil"
-    scheme: "FAST"
-    identifier: "fst00944894"
-    uri: "https://id.worldcat.org/fast/944894"
-    category: "topical"
-  - label: "Providence and government of God"
-    scheme: "FAST"
-    identifier: "fst01080657"
-    uri: "https://id.worldcat.org/fast/1080657"
-    category: "topical"
-  - label: "Suffering"
-    scheme: "FAST"
-    identifier: "fst01137151"
-    uri: "https://id.worldcat.org/fast/1137151"
-    category: "topical"
-  - label: "Theodicy"
-    scheme: "FAST"
-    identifier: "fst01149507"
-    uri: "https://id.worldcat.org/fast/1149507"
-    category: "topical"
+  - label: 'Atheism'
+    scheme: 'FAST'
+    identifier: 'fst00819974'
+    uri: 'https://id.worldcat.org/fast/819974'
+    category: 'topical'
+  - label: 'God'
+    scheme: 'FAST'
+    identifier: 'fst00944037'
+    uri: 'https://id.worldcat.org/fast/944037'
+    category: 'topical'
+  - label: 'Suffering'
+    scheme: 'FAST'
+    identifier: 'fst01137151'
+    uri: 'https://id.worldcat.org/fast/1137151'
+    category: 'topical'
+  - label: 'Theodicy'
+    scheme: 'FAST'
+    identifier: 'fst01149507'
+    uri: 'https://id.worldcat.org/fast/1149507'
+    category: 'topical'
+  - label: 'Theology'
+    scheme: 'FAST'
+    identifier: 'fst01149559'
+    uri: 'https://id.worldcat.org/fast/1149559'
+    category: 'topical'
 ---

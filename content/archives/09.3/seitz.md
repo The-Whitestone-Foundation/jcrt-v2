@@ -27,34 +27,39 @@ season: fall
 year: 2008
 pages:
 subjects:
-  - label: "Feminism"
-    scheme: "FAST"
-    identifier: "fst00922671"
-    uri: "https://id.worldcat.org/fast/922671"
-    category: "topical"
-  - label: "Islam and secularism"
-    scheme: "FAST"
-    identifier: "fst00979887"
-    uri: "https://id.worldcat.org/fast/979887"
-    category: "topical"
-  - label: "Protestantism"
-    scheme: "FAST"
-    identifier: "fst01079920"
-    uri: "https://id.worldcat.org/fast/1079920"
-    category: "topical"
-  - label: "Religion and politics"
-    scheme: "FAST"
-    identifier: "fst01093842"
-    uri: "https://id.worldcat.org/fast/1093842"
-    category: "topical"
-  - label: "Secularism"
-    scheme: "FAST"
-    identifier: "fst01110732"
-    uri: "https://id.worldcat.org/fast/1110732"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Feminism'
+    scheme: 'FAST'
+    identifier: 'fst00922671'
+    uri: 'https://id.worldcat.org/fast/922671'
+    category: 'topical'
+  - label: 'Islam and secularism'
+    scheme: 'FAST'
+    identifier: 'fst00979887'
+    uri: 'https://id.worldcat.org/fast/979887'
+    category: 'topical'
+  - label: 'Protestantism'
+    scheme: 'FAST'
+    identifier: 'fst01079920'
+    uri: 'https://id.worldcat.org/fast/1079920'
+    category: 'topical'
+  - label: 'Religion and politics'
+    scheme: 'FAST'
+    identifier: 'fst01093842'
+    uri: 'https://id.worldcat.org/fast/1093842'
+    category: 'topical'
+  - label: 'Secularism'
+    scheme: 'FAST'
+    identifier: 'fst01110732'
+    uri: 'https://id.worldcat.org/fast/1110732'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---

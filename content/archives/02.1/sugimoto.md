@@ -27,50 +27,45 @@ keywords:
   - higher-education
   - walter-benjamin
   - baconianism
-subjects:
-  - label: "Enlightenment"
-    scheme: "FAST"
-    identifier: "fst00912527"
-    uri: "https://id.worldcat.org/fast/912527"
-    category: "topical"
-  - label: "Evangelicalism"
-    scheme: "FAST"
-    identifier: "fst00917002"
-    uri: "https://id.worldcat.org/fast/917002"
-    category: "topical"
-  - label: "Hegel, Georg Wilhelm Friedrich, 1770-1831"
-    scheme: "FAST"
-    identifier: "fst00031816"
-    uri: "https://id.worldcat.org/fast/31816"
-    category: "personal"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Nationalism"
-    scheme: "FAST"
-    identifier: "fst01033832"
-    uri: "https://id.worldcat.org/fast/1033832"
-    category: "topical"
-  - label: "Noll, Mark A., 1946-"
-    scheme: "FAST"
-    identifier: "fst00020066"
-    uri: "https://id.worldcat.org/fast/20066"
-    category: "personal"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Universities and colleges"
-    scheme: "FAST"
-    identifier: "fst01161597"
-    uri: "https://id.worldcat.org/fast/1161597"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 07
+subjects:
+  - label: 'Civilization, Modern'
+    scheme: 'FAST'
+    identifier: 'fst00863073'
+    uri: 'https://id.worldcat.org/fast/863073'
+    category: 'topical'
+  - label: 'Education, Higher'
+    scheme: 'FAST'
+    identifier: 'fst00903005'
+    uri: 'https://id.worldcat.org/fast/903005'
+    category: 'topical'
+  - label: 'Enlightenment'
+    scheme: 'FAST'
+    identifier: 'fst00912527'
+    uri: 'https://id.worldcat.org/fast/912527'
+    category: 'topical'
+  - label: 'Evangelicalism'
+    scheme: 'FAST'
+    identifier: 'fst00917002'
+    uri: 'https://id.worldcat.org/fast/917002'
+    category: 'topical'
+  - label: 'Nation-state'
+    scheme: 'FAST'
+    identifier: 'fst01715961'
+    uri: 'https://id.worldcat.org/fast/1715961'
+    category: 'topical'
+  - label: 'Nationalism'
+    scheme: 'FAST'
+    identifier: 'fst01033832'
+    uri: 'https://id.worldcat.org/fast/1033832'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---
 Sugimoto - Nation as University - JCRT 2.1 
 

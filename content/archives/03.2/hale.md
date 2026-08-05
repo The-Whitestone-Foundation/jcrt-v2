@@ -26,50 +26,35 @@ keywords:
   - edmund-husserl
   - cosmic-war
   - tolerance
-subjects:
-  - label: "Holy, The"
-    scheme: "FAST"
-    identifier: "fst00959050"
-    uri: "https://id.worldcat.org/fast/959050"
-    category: "topical"
-  - label: "Husserl, Edmund, 1859-1938"
-    scheme: "FAST"
-    identifier: "fst00042628"
-    uri: "https://id.worldcat.org/fast/42628"
-    category: "personal"
-  - label: "Juergensmeyer, Mark"
-    scheme: "FAST"
-    identifier: "fst00044556"
-    uri: "https://id.worldcat.org/fast/44556"
-    category: "personal"
-  - label: "Otto, Rudolf, 1869-1937"
-    scheme: "FAST"
-    identifier: "fst00016984"
-    uri: "https://id.worldcat.org/fast/16984"
-    category: "personal"
-  - label: "Phenomenology"
-    scheme: "FAST"
-    identifier: "fst01060522"
-    uri: "https://id.worldcat.org/fast/1060522"
-    category: "topical"
-  - label: "September 11 Terrorist Attacks (2001)"
-    scheme: "FAST"
-    identifier: "fst01112794"
-    uri: "https://id.worldcat.org/fast/1112794"
-    category: "event"
-  - label: "Terrorism"
-    scheme: "FAST"
-    identifier: "fst01148101"
-    uri: "https://id.worldcat.org/fast/1148101"
-    category: "topical"
-  - label: "Violence--Religious aspects"
-    scheme: "FAST"
-    identifier: "fst01167248"
-    uri: "https://id.worldcat.org/fast/1167248"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 09
+subjects:
+  - label: 'Experience (Religion)'
+    scheme: 'FAST'
+    identifier: 'fst00918383'
+    uri: 'https://id.worldcat.org/fast/918383'
+    category: 'topical'
+  - label: 'Fundamentalism'
+    scheme: 'FAST'
+    identifier: 'fst00936186'
+    uri: 'https://id.worldcat.org/fast/936186'
+    category: 'topical'
+  - label: 'Phenomenology'
+    scheme: 'FAST'
+    identifier: 'fst01060522'
+    uri: 'https://id.worldcat.org/fast/1060522'
+    category: 'topical'
+  - label: 'Terrorism'
+    scheme: 'FAST'
+    identifier: 'fst01148101'
+    uri: 'https://id.worldcat.org/fast/1148101'
+    category: 'topical'
+  - label: 'Toleration'
+    scheme: 'FAST'
+    identifier: 'fst01152232'
+    uri: 'https://id.worldcat.org/fast/1152232'
+    category: 'topical'
 ---
 Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
 

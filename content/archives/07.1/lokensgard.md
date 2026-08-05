@@ -25,34 +25,39 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "Cultural appropriation"
-    scheme: "FAST"
-    identifier: "fst02002519"
-    uri: "https://id.worldcat.org/fast/2002519"
-    category: "topical"
-  - label: "Cultural property"
-    scheme: "FAST"
-    identifier: "fst00885014"
-    uri: "https://id.worldcat.org/fast/885014"
-    category: "topical"
-  - label: "Cultural property--Repatriation"
-    scheme: "FAST"
-    identifier: "fst00885046"
-    uri: "https://id.worldcat.org/fast/885046"
-    category: "topical"
-  - label: "Indians of North America"
-    scheme: "FAST"
-    identifier: "fst00969633"
-    uri: "https://id.worldcat.org/fast/969633"
-    category: "topical"
-  - label: "Indigenous peoples"
-    scheme: "FAST"
-    identifier: "fst00970213"
-    uri: "https://id.worldcat.org/fast/970213"
-    category: "topical"
-  - label: "Intellectual property"
-    scheme: "FAST"
-    identifier: "fst00975774"
-    uri: "https://id.worldcat.org/fast/975774"
-    category: "topical"
+  - label: 'Anthropology'
+    scheme: 'FAST'
+    identifier: 'fst00810196'
+    uri: 'https://id.worldcat.org/fast/810196'
+    category: 'topical'
+  - label: 'Cultural appropriation'
+    scheme: 'FAST'
+    identifier: 'fst02002519'
+    uri: 'https://id.worldcat.org/fast/2002519'
+    category: 'topical'
+  - label: 'Cultural property'
+    scheme: 'FAST'
+    identifier: 'fst00885014'
+    uri: 'https://id.worldcat.org/fast/885014'
+    category: 'topical'
+  - label: 'Indigenous peoples Civil rights'
+    scheme: 'FAST'
+    identifier: 'fst00970219'
+    uri: 'https://id.worldcat.org/fast/970219'
+    category: 'topical'
+  - label: 'Intellectual property'
+    scheme: 'FAST'
+    identifier: 'fst00975774'
+    uri: 'https://id.worldcat.org/fast/975774'
+    category: 'topical'
+  - label: 'Native American'
+    scheme: 'FAST'
+    identifier: 'fst01530330'
+    uri: 'https://id.worldcat.org/fast/1530330'
+    category: 'personal'
+  - label: 'Religious articles'
+    scheme: 'FAST'
+    identifier: 'fst01093939'
+    uri: 'https://id.worldcat.org/fast/1093939'
+    category: 'topical'
 ---

@@ -26,50 +26,30 @@ keywords:
   - prophetic-philosophy
   - sin
   - faith
-subjects:
-  - label: "Faith"
-    scheme: "FAST"
-    identifier: "fst01198492"
-    uri: "https://id.worldcat.org/fast/1198492"
-    category: "topical"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Kierkegaard, Søren, 1813-1855"
-    scheme: "FAST"
-    identifier: "fst00037558"
-    uri: "https://id.worldcat.org/fast/37558"
-    category: "personal"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Religion--Philosophy"
-    scheme: "FAST"
-    identifier: "fst01093794"
-    uri: "https://id.worldcat.org/fast/1093794"
-    category: "topical"
-  - label: "Ricœur, Paul"
-    scheme: "FAST"
-    identifier: "fst00035920"
-    uri: "https://id.worldcat.org/fast/35920"
-    category: "personal"
-  - label: "Westphal, Merold"
-    scheme: "FAST"
-    identifier: "fst01795887"
-    uri: "https://id.worldcat.org/fast/1795887"
-    category: "personal"
 abstract:
 year: 2002
 sort_id: 03
+subjects:
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Knowledge, Theory of'
+    scheme: 'FAST'
+    identifier: 'fst00988194'
+    uri: 'https://id.worldcat.org/fast/988194'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Sin'
+    scheme: 'FAST'
+    identifier: 'fst01119194'
+    uri: 'https://id.worldcat.org/fast/1119194'
+    category: 'topical'
 ---
 Putt - The Benefit of the Doubt - JCRT 3.3 
 

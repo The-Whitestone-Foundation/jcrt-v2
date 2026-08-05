@@ -27,50 +27,50 @@ keywords:
   - homeostasis
   - walter-benjamin
   - sublimation
-subjects:
-  - label: "Benjamin, Walter, 1892-1940"
-    scheme: "FAST"
-    identifier: "fst00052359"
-    uri: "https://id.worldcat.org/fast/52359"
-    category: "personal"
-  - label: "Death instinct"
-    scheme: "FAST"
-    identifier: "fst00888707"
-    uri: "https://id.worldcat.org/fast/888707"
-    category: "topical"
-  - label: "Division of labor"
-    scheme: "FAST"
-    identifier: "fst00895801"
-    uri: "https://id.worldcat.org/fast/895801"
-    category: "topical"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Marx, Karl, 1818-1883"
-    scheme: "FAST"
-    identifier: "fst00030215"
-    uri: "https://id.worldcat.org/fast/30215"
-    category: "personal"
-  - label: "Messianism"
-    scheme: "FAST"
-    identifier: "fst01017438"
-    uri: "https://id.worldcat.org/fast/1017438"
-    category: "topical"
-  - label: "Redemption"
-    scheme: "FAST"
-    identifier: "fst01092243"
-    uri: "https://id.worldcat.org/fast/1092243"
-    category: "topical"
-  - label: "Sabbath"
-    scheme: "FAST"
-    identifier: "fst01102941"
-    uri: "https://id.worldcat.org/fast/1102941"
-    category: "topical"
 abstract:
 year: 2000
 sort_id: 05
+subjects:
+  - label: 'Capital'
+    scheme: 'FAST'
+    identifier: 'fst00846272'
+    uri: 'https://id.worldcat.org/fast/846272'
+    category: 'topical'
+  - label: 'Death instinct'
+    scheme: 'FAST'
+    identifier: 'fst00888707'
+    uri: 'https://id.worldcat.org/fast/888707'
+    category: 'topical'
+  - label: 'Division of labor'
+    scheme: 'FAST'
+    identifier: 'fst00895801'
+    uri: 'https://id.worldcat.org/fast/895801'
+    category: 'topical'
+  - label: 'Homeostasis'
+    scheme: 'FAST'
+    identifier: 'fst00959606'
+    uri: 'https://id.worldcat.org/fast/959606'
+    category: 'topical'
+  - label: 'Messianism'
+    scheme: 'FAST'
+    identifier: 'fst01017438'
+    uri: 'https://id.worldcat.org/fast/1017438'
+    category: 'topical'
+  - label: 'Redemption'
+    scheme: 'FAST'
+    identifier: 'fst01092243'
+    uri: 'https://id.worldcat.org/fast/1092243'
+    category: 'topical'
+  - label: 'Sabbath'
+    scheme: 'FAST'
+    identifier: 'fst01102941'
+    uri: 'https://id.worldcat.org/fast/1102941'
+    category: 'topical'
+  - label: 'Sublimation (Psychology)'
+    scheme: 'FAST'
+    identifier: 'fst01136591'
+    uri: 'https://id.worldcat.org/fast/1136591'
+    category: 'topical'
 ---
 Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
 

@@ -28,50 +28,55 @@ keywords:
   - psychoanalysis
   - singularity
   - ethics
-subjects:
-  - label: "Christianity"
-    scheme: "FAST"
-    identifier: "fst00859599"
-    uri: "https://id.worldcat.org/fast/859599"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Faith"
-    scheme: "FAST"
-    identifier: "fst01198492"
-    uri: "https://id.worldcat.org/fast/1198492"
-    category: "topical"
-  - label: "Kant, Immanuel, 1724-1804"
-    scheme: "FAST"
-    identifier: "fst00031763"
-    uri: "https://id.worldcat.org/fast/31763"
-    category: "personal"
-  - label: "Kierkegaard, Søren, 1813-1855"
-    scheme: "FAST"
-    identifier: "fst00037558"
-    uri: "https://id.worldcat.org/fast/37558"
-    category: "personal"
-  - label: "Nancy, Jean-Luc"
-    scheme: "FAST"
-    identifier: "fst00080095"
-    uri: "https://id.worldcat.org/fast/80095"
-    category: "personal"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
 abstract:
 year: 2002
 sort_id: 04
+subjects:
+  - label: 'Aporia'
+    scheme: 'FAST'
+    identifier: 'fst00811469'
+    uri: 'https://id.worldcat.org/fast/811469'
+    category: 'topical'
+  - label: 'Christianity'
+    scheme: 'FAST'
+    identifier: 'fst00859599'
+    uri: 'https://id.worldcat.org/fast/859599'
+    category: 'topical'
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Faith'
+    scheme: 'FAST'
+    identifier: 'fst01198492'
+    uri: 'https://id.worldcat.org/fast/1198492'
+    category: 'topical'
+  - label: 'Mediation'
+    scheme: 'FAST'
+    identifier: 'fst01013617'
+    uri: 'https://id.worldcat.org/fast/1013617'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
+  - label: 'Sin, Original'
+    scheme: 'FAST'
+    identifier: 'fst01119208'
+    uri: 'https://id.worldcat.org/fast/1119208'
+    category: 'topical'
 ---
 Egginton - The Christianization of Deconstruction - JCRT 4.1 
 

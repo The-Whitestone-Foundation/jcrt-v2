@@ -26,50 +26,35 @@ keywords:
   - human-machine-boundary
   - arnold-gehlen
   - posthumanism
-subjects:
-  - label: "Artificial intelligence"
-    scheme: "FAST"
-    identifier: "fst00817247"
-    uri: "https://id.worldcat.org/fast/817247"
-    category: "topical"
-  - label: "Human beings"
-    scheme: "FAST"
-    identifier: "fst00962832"
-    uri: "https://id.worldcat.org/fast/962832"
-    category: "topical"
-  - label: "Human-machine systems"
-    scheme: "FAST"
-    identifier: "fst00963500"
-    uri: "https://id.worldcat.org/fast/963500"
-    category: "topical"
-  - label: "Philosophical anthropology"
-    scheme: "FAST"
-    identifier: "fst01060766"
-    uri: "https://id.worldcat.org/fast/1060766"
-    category: "topical"
-  - label: "Posthumanism"
-    scheme: "FAST"
-    identifier: "fst02027038"
-    uri: "https://id.worldcat.org/fast/2027038"
-    category: "topical"
-  - label: "Sociobiology"
-    scheme: "FAST"
-    identifier: "fst01123838"
-    uri: "https://id.worldcat.org/fast/1123838"
-    category: "topical"
-  - label: "Spielberg, Steven, 1946-"
-    scheme: "FAST"
-    identifier: "fst00047705"
-    uri: "https://id.worldcat.org/fast/47705"
-    category: "personal"
-  - label: "Turkle, Sherry"
-    scheme: "FAST"
-    identifier: "fst00026130"
-    uri: "https://id.worldcat.org/fast/26130"
-    category: "personal"
 abstract:
 year: 2001
 sort_id: 06
+subjects:
+  - label: 'Artificial intelligence'
+    scheme: 'FAST'
+    identifier: 'fst00817247'
+    uri: 'https://id.worldcat.org/fast/817247'
+    category: 'topical'
+  - label: 'Love'
+    scheme: 'FAST'
+    identifier: 'fst01002769'
+    uri: 'https://id.worldcat.org/fast/1002769'
+    category: 'topical'
+  - label: 'Philosophical anthropology'
+    scheme: 'FAST'
+    identifier: 'fst01060766'
+    uri: 'https://id.worldcat.org/fast/1060766'
+    category: 'topical'
+  - label: 'Posthumanism'
+    scheme: 'FAST'
+    identifier: 'fst02027038'
+    uri: 'https://id.worldcat.org/fast/2027038'
+    category: 'topical'
+  - label: 'Sociobiology'
+    scheme: 'FAST'
+    identifier: 'fst01123838'
+    uri: 'https://id.worldcat.org/fast/1123838'
+    category: 'topical'
 ---
 Weiss - Mecha Love: A Review of Steven Spielberg's A.I. - JCRT 2.3 
 

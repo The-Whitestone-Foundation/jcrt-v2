@@ -26,34 +26,29 @@ season: summer
 year: 2010
 pages:
 subjects:
-  - label: "Academic freedom"
-    scheme: "FAST"
-    identifier: "fst00794987"
-    uri: "https://id.worldcat.org/fast/794987"
-    category: "topical"
-  - label: "College teachers"
-    scheme: "FAST"
-    identifier: "fst00868114"
-    uri: "https://id.worldcat.org/fast/868114"
-    category: "topical"
-  - label: "Education, Higher"
-    scheme: "FAST"
-    identifier: "fst00903005"
-    uri: "https://id.worldcat.org/fast/903005"
-    category: "topical"
-  - label: "Humanities"
-    scheme: "FAST"
-    identifier: "fst00963588"
-    uri: "https://id.worldcat.org/fast/963588"
-    category: "topical"
-  - label: "Neoliberalism"
-    scheme: "FAST"
-    identifier: "fst01737382"
-    uri: "https://id.worldcat.org/fast/1737382"
-    category: "topical"
-  - label: "Universities and colleges"
-    scheme: "FAST"
-    identifier: "fst01161597"
-    uri: "https://id.worldcat.org/fast/1161597"
-    category: "topical"
+  - label: 'Academic freedom'
+    scheme: 'FAST'
+    identifier: 'fst00794987'
+    uri: 'https://id.worldcat.org/fast/794987'
+    category: 'topical'
+  - label: 'Education, Higher'
+    scheme: 'FAST'
+    identifier: 'fst00903005'
+    uri: 'https://id.worldcat.org/fast/903005'
+    category: 'topical'
+  - label: 'Education, Humanistic'
+    scheme: 'FAST'
+    identifier: 'fst00903134'
+    uri: 'https://id.worldcat.org/fast/903134'
+    category: 'topical'
+  - label: 'Humanities'
+    scheme: 'FAST'
+    identifier: 'fst00963588'
+    uri: 'https://id.worldcat.org/fast/963588'
+    category: 'topical'
+  - label: 'Neoliberalism'
+    scheme: 'FAST'
+    identifier: 'fst01737382'
+    uri: 'https://id.worldcat.org/fast/1737382'
+    category: 'topical'
 ---

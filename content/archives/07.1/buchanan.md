@@ -25,34 +25,29 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "Continental philosophy"
-    scheme: "FAST"
-    identifier: "fst01765182"
-    uri: "https://id.worldcat.org/fast/1765182"
-    category: "topical"
-  - label: "Deleuze, Gilles, 1925-1995"
-    scheme: "FAST"
-    identifier: "fst01427364"
-    uri: "https://id.worldcat.org/fast/1427364"
-    category: "personal"
-  - label: "Geography--Philosophy"
-    scheme: "FAST"
-    identifier: "fst00940505"
-    uri: "https://id.worldcat.org/fast/940505"
-    category: "topical"
-  - label: "Guattari, Félix, 1930-1992"
-    scheme: "FAST"
-    identifier: "fst01427475"
-    uri: "https://id.worldcat.org/fast/1427475"
-    category: "personal"
-  - label: "Ontology"
-    scheme: "FAST"
-    identifier: "fst01045995"
-    uri: "https://id.worldcat.org/fast/1045995"
-    category: "topical"
-  - label: "Space and time"
-    scheme: "FAST"
-    identifier: "fst01127622"
-    uri: "https://id.worldcat.org/fast/1127622"
-    category: "topical"
+  - label: 'Continental philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01765182'
+    uri: 'https://id.worldcat.org/fast/1765182'
+    category: 'topical'
+  - label: 'Dynamics'
+    scheme: 'FAST'
+    identifier: 'fst00900295'
+    uri: 'https://id.worldcat.org/fast/900295'
+    category: 'topical'
+  - label: 'Geography'
+    scheme: 'FAST'
+    identifier: 'fst00940469'
+    uri: 'https://id.worldcat.org/fast/940469'
+    category: 'topical'
+  - label: 'Ontology'
+    scheme: 'FAST'
+    identifier: 'fst01045995'
+    uri: 'https://id.worldcat.org/fast/1045995'
+    category: 'topical'
+  - label: 'Space'
+    scheme: 'FAST'
+    identifier: 'fst01765196'
+    uri: 'https://id.worldcat.org/fast/1765196'
+    category: 'topical'
 ---

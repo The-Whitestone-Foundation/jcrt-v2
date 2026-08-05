@@ -26,39 +26,44 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "Capitalism"
-    scheme: "FAST"
-    identifier: "fst00846425"
-    uri: "https://id.worldcat.org/fast/846425"
-    category: "topical"
-  - label: "Economics"
-    scheme: "FAST"
-    identifier: "fst00902116"
-    uri: "https://id.worldcat.org/fast/902116"
-    category: "topical"
-  - label: "Finance"
-    scheme: "FAST"
-    identifier: "fst00924349"
-    uri: "https://id.worldcat.org/fast/924349"
-    category: "topical"
-  - label: "Money"
-    scheme: "FAST"
-    identifier: "fst01025265"
-    uri: "https://id.worldcat.org/fast/1025265"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
-  - label: "Secularization"
-    scheme: "FAST"
-    identifier: "fst01110738"
-    uri: "https://id.worldcat.org/fast/1110738"
-    category: "topical"
-  - label: "Taylor, Mark C., 1945-"
-    scheme: "FAST"
-    identifier: "fst00057011"
-    uri: "https://id.worldcat.org/fast/57011"
-    category: "personal"
+  - label: 'Capitalism'
+    scheme: 'FAST'
+    identifier: 'fst00846425'
+    uri: 'https://id.worldcat.org/fast/846425'
+    category: 'topical'
+  - label: 'Economics'
+    scheme: 'FAST'
+    identifier: 'fst00902116'
+    uri: 'https://id.worldcat.org/fast/902116'
+    category: 'topical'
+  - label: 'Finance'
+    scheme: 'FAST'
+    identifier: 'fst00924349'
+    uri: 'https://id.worldcat.org/fast/924349'
+    category: 'topical'
+  - label: 'Markets'
+    scheme: 'FAST'
+    identifier: 'fst01010316'
+    uri: 'https://id.worldcat.org/fast/1010316'
+    category: 'topical'
+  - label: 'Money'
+    scheme: 'FAST'
+    identifier: 'fst01025265'
+    uri: 'https://id.worldcat.org/fast/1025265'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
+  - label: 'Religion and economics'
+    scheme: 'FAST'
+    identifier: 'fst01939306'
+    uri: 'https://id.worldcat.org/fast/1939306'
+    category: 'topical'
+  - label: 'Secularization'
+    scheme: 'FAST'
+    identifier: 'fst01110738'
+    uri: 'https://id.worldcat.org/fast/1110738'
+    category: 'topical'
 ---

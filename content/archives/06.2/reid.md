@@ -26,29 +26,44 @@ season: spring
 year: 2005
 pages:
 subjects:
-  - label: "Bentham, Jeremy, 1748-1832"
-    scheme: "FAST"
-    identifier: "fst00033662"
-    uri: "https://id.worldcat.org/fast/33662"
-    category: "personal"
-  - label: "Censorship"
-    scheme: "FAST"
-    identifier: "fst00850568"
-    uri: "https://id.worldcat.org/fast/850568"
-    category: "topical"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "Pornography"
-    scheme: "FAST"
-    identifier: "fst01071875"
-    uri: "https://id.worldcat.org/fast/1071875"
-    category: "topical"
-  - label: "Utilitarianism"
-    scheme: "FAST"
-    identifier: "fst01163333"
-    uri: "https://id.worldcat.org/fast/1163333"
-    category: "topical"
+  - label: 'Action theory'
+    scheme: 'FAST'
+    identifier: 'fst00796236'
+    uri: 'https://id.worldcat.org/fast/796236'
+    category: 'topical'
+  - label: 'Censorship'
+    scheme: 'FAST'
+    identifier: 'fst00850568'
+    uri: 'https://id.worldcat.org/fast/850568'
+    category: 'topical'
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Literary theory'
+    scheme: 'FAST'
+    identifier: 'fst01404190'
+    uri: 'https://id.worldcat.org/fast/1404190'
+    category: 'title'
+  - label: 'Pornography'
+    scheme: 'FAST'
+    identifier: 'fst01071875'
+    uri: 'https://id.worldcat.org/fast/1071875'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
+  - label: 'Sex'
+    scheme: 'FAST'
+    identifier: 'fst01114160'
+    uri: 'https://id.worldcat.org/fast/1114160'
+    category: 'topical'
+  - label: 'Utilitarianism'
+    scheme: 'FAST'
+    identifier: 'fst01163333'
+    uri: 'https://id.worldcat.org/fast/1163333'
+    category: 'topical'
 ---

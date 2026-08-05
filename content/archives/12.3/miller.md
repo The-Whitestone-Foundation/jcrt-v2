@@ -26,29 +26,9 @@ season: spring
 year: 2013
 pages: 169-172
 subjects:
-  - label: "Cassirer, Ernst, 1874-1945"
-    scheme: "FAST"
-    identifier: "fst00011615"
-    uri: "https://id.worldcat.org/fast/11615"
-    category: "personal"
-  - label: "Continental philosophy"
-    scheme: "FAST"
-    identifier: "fst01765182"
-    uri: "https://id.worldcat.org/fast/1765182"
-    category: "topical"
-  - label: "Heidegger, Martin, 1889-1976"
-    scheme: "FAST"
-    identifier: "fst00032385"
-    uri: "https://id.worldcat.org/fast/32385"
-    category: "personal"
-  - label: "Neo-Kantianism"
-    scheme: "FAST"
-    identifier: "fst01035740"
-    uri: "https://id.worldcat.org/fast/1035740"
-    category: "topical"
-  - label: "Philosophy, German"
-    scheme: "FAST"
-    identifier: "fst01060969"
-    uri: "https://id.worldcat.org/fast/1060969"
-    category: "topical"
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

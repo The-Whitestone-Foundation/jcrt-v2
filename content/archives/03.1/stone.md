@@ -28,45 +28,25 @@ keywords:
   - sociology-of-religion
   - social-transformation
   - max-weber
-subjects:
-  - label: "Bourdieu, Pierre, 1930-2002"
-    scheme: "FAST"
-    identifier: "fst01427371"
-    uri: "https://id.worldcat.org/fast/1427371"
-    category: "personal"
-  - label: "Catholic Church"
-    scheme: "FAST"
-    identifier: "fst00531720"
-    uri: "https://id.worldcat.org/fast/531720"
-    category: "corporate"
-  - label: "Ordination of women"
-    scheme: "FAST"
-    identifier: "fst01047425"
-    uri: "https://id.worldcat.org/fast/1047425"
-    category: "topical"
-  - label: "Religion and sociology"
-    scheme: "FAST"
-    identifier: "fst01093858"
-    uri: "https://id.worldcat.org/fast/1093858"
-    category: "topical"
-  - label: "Social change"
-    scheme: "FAST"
-    identifier: "fst01122310"
-    uri: "https://id.worldcat.org/fast/1122310"
-    category: "topical"
-  - label: "Social movements"
-    scheme: "FAST"
-    identifier: "fst01122657"
-    uri: "https://id.worldcat.org/fast/1122657"
-    category: "topical"
-  - label: "Weber, Max, 1864-1920"
-    scheme: "FAST"
-    identifier: "fst00034097"
-    uri: "https://id.worldcat.org/fast/34097"
-    category: "personal"
 abstract:
 year: 2001
 sort_id: 04
+subjects:
+  - label: 'Catholic Church'
+    scheme: 'FAST'
+    identifier: 'fst00531720'
+    uri: 'https://id.worldcat.org/fast/531720'
+    category: 'corporate'
+  - label: 'Religion and sociology'
+    scheme: 'FAST'
+    identifier: 'fst01093858'
+    uri: 'https://id.worldcat.org/fast/1093858'
+    category: 'topical'
+  - label: 'Social movements'
+    scheme: 'FAST'
+    identifier: 'fst01122657'
+    uri: 'https://id.worldcat.org/fast/1122657'
+    category: 'topical'
 ---
 Stone - "Misrecognition of the Limits" - JCRT 3.1 
 

@@ -25,29 +25,29 @@ season: spring
 year: 2006
 pages:
 subjects:
-  - label: "Biblical hermeneutics"
-    scheme: "FAST"
-    identifier: "fst01352004"
-    uri: "https://id.worldcat.org/fast/1352004"
-    category: "topical"
-  - label: "Deconstruction"
-    scheme: "FAST"
-    identifier: "fst00889137"
-    uri: "https://id.worldcat.org/fast/889137"
-    category: "topical"
-  - label: "Derrida, Jacques"
-    scheme: "FAST"
-    identifier: "fst00041147"
-    uri: "https://id.worldcat.org/fast/41147"
-    category: "personal"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Postmodern theology"
-    scheme: "FAST"
-    identifier: "fst01073163"
-    uri: "https://id.worldcat.org/fast/1073163"
-    category: "topical"
+  - label: 'Deconstruction'
+    scheme: 'FAST'
+    identifier: 'fst00889137'
+    uri: 'https://id.worldcat.org/fast/889137'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Reformation texts with translation (1350-1650). Biblical studies'
+    scheme: 'FAST'
+    identifier: 'fst01364487'
+    uri: 'https://id.worldcat.org/fast/1364487'
+    category: 'title'
+  - label: 'Religion'
+    scheme: 'FAST'
+    identifier: 'fst01093763'
+    uri: 'https://id.worldcat.org/fast/1093763'
+    category: 'topical'
 ---

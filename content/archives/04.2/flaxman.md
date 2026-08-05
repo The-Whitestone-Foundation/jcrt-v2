@@ -26,50 +26,35 @@ keywords:
   - psychoanalysis
   - institution-of-theory
   - master-signifier
-subjects:
-  - label: "Criticism"
-    scheme: "FAST"
-    identifier: "fst00883735"
-    uri: "https://id.worldcat.org/fast/883735"
-    category: "topical"
-  - label: "De Man, Paul"
-    scheme: "FAST"
-    identifier: "fst00036574"
-    uri: "https://id.worldcat.org/fast/36574"
-    category: "personal"
-  - label: "Freud, Sigmund, 1856-1939"
-    scheme: "FAST"
-    identifier: "fst00034252"
-    uri: "https://id.worldcat.org/fast/34252"
-    category: "personal"
-  - label: "Hysteria"
-    scheme: "FAST"
-    identifier: "fst00966135"
-    uri: "https://id.worldcat.org/fast/966135"
-    category: "topical"
-  - label: "Lacan, Jacques, 1901-1981"
-    scheme: "FAST"
-    identifier: "fst00050728"
-    uri: "https://id.worldcat.org/fast/50728"
-    category: "personal"
-  - label: "Poststructuralism"
-    scheme: "FAST"
-    identifier: "fst01073231"
-    uri: "https://id.worldcat.org/fast/1073231"
-    category: "topical"
-  - label: "Psychoanalysis"
-    scheme: "FAST"
-    identifier: "fst01081235"
-    uri: "https://id.worldcat.org/fast/1081235"
-    category: "topical"
-  - label: "Structuralism"
-    scheme: "FAST"
-    identifier: "fst01135732"
-    uri: "https://id.worldcat.org/fast/1135732"
-    category: "topical"
 abstract:
 year: 2003
 sort_id: 03
+subjects:
+  - label: 'Hysteria'
+    scheme: 'FAST'
+    identifier: 'fst00966135'
+    uri: 'https://id.worldcat.org/fast/966135'
+    category: 'topical'
+  - label: 'Literary theory'
+    scheme: 'FAST'
+    identifier: 'fst01404190'
+    uri: 'https://id.worldcat.org/fast/1404190'
+    category: 'title'
+  - label: 'Poststructuralism'
+    scheme: 'FAST'
+    identifier: 'fst01073231'
+    uri: 'https://id.worldcat.org/fast/1073231'
+    category: 'topical'
+  - label: 'Psychoanalysis'
+    scheme: 'FAST'
+    identifier: 'fst01081235'
+    uri: 'https://id.worldcat.org/fast/1081235'
+    category: 'topical'
+  - label: 'Structuralism'
+    scheme: 'FAST'
+    identifier: 'fst01135732'
+    uri: 'https://id.worldcat.org/fast/1135732'
+    category: 'topical'
 ---
 Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 
 

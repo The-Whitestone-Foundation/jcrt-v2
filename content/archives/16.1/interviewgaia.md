@@ -27,34 +27,24 @@ season: winter
 year: 2016
 pages:
 subjects:
-  - label: "Gentrification"
-    scheme: "FAST"
-    identifier: "fst00940296"
-    uri: "https://id.worldcat.org/fast/940296"
-    category: "topical"
-  - label: "Graffiti"
-    scheme: "FAST"
-    identifier: "fst00945846"
-    uri: "https://id.worldcat.org/fast/945846"
-    category: "topical"
-  - label: "Mural painting and decoration"
-    scheme: "FAST"
-    identifier: "fst01029558"
-    uri: "https://id.worldcat.org/fast/1029558"
-    category: "topical"
-  - label: "Public art"
-    scheme: "FAST"
-    identifier: "fst01082064"
-    uri: "https://id.worldcat.org/fast/1082064"
-    category: "topical"
-  - label: "Public spaces"
-    scheme: "FAST"
-    identifier: "fst01083049"
-    uri: "https://id.worldcat.org/fast/1083049"
-    category: "topical"
-  - label: "Street art"
-    scheme: "FAST"
-    identifier: "fst01134650"
-    uri: "https://id.worldcat.org/fast/1134650"
-    category: "topical"
+  - label: 'Gentrification'
+    scheme: 'FAST'
+    identifier: 'fst00940296'
+    uri: 'https://id.worldcat.org/fast/940296'
+    category: 'topical'
+  - label: 'Graffiti'
+    scheme: 'FAST'
+    identifier: 'fst00945846'
+    uri: 'https://id.worldcat.org/fast/945846'
+    category: 'topical'
+  - label: 'Public art'
+    scheme: 'FAST'
+    identifier: 'fst01082064'
+    uri: 'https://id.worldcat.org/fast/1082064'
+    category: 'topical'
+  - label: 'Street art'
+    scheme: 'FAST'
+    identifier: 'fst01134650'
+    uri: 'https://id.worldcat.org/fast/1134650'
+    category: 'topical'
 ---

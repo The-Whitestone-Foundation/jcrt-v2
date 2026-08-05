@@ -27,34 +27,34 @@ season: winter
 year: 2005
 pages:
 subjects:
-  - label: "Death"
-    scheme: "FAST"
-    identifier: "fst00888613"
-    uri: "https://id.worldcat.org/fast/888613"
-    category: "topical"
-  - label: "Foucault, Michel, 1926-1984"
-    scheme: "FAST"
-    identifier: "fst01427415"
-    uri: "https://id.worldcat.org/fast/1427415"
-    category: "personal"
-  - label: "Human anatomy"
-    scheme: "FAST"
-    identifier: "fst00962785"
-    uri: "https://id.worldcat.org/fast/962785"
-    category: "topical"
-  - label: "Human body"
-    scheme: "FAST"
-    identifier: "fst01730057"
-    uri: "https://id.worldcat.org/fast/1730057"
-    category: "topical"
-  - label: "Medical ethics"
-    scheme: "FAST"
-    identifier: "fst01014081"
-    uri: "https://id.worldcat.org/fast/1014081"
-    category: "topical"
-  - label: "Plastination"
-    scheme: "FAST"
-    identifier: "fst01739186"
-    uri: "https://id.worldcat.org/fast/1739186"
-    category: "topical"
+  - label: 'Death'
+    scheme: 'FAST'
+    identifier: 'fst00888613'
+    uri: 'https://id.worldcat.org/fast/888613'
+    category: 'topical'
+  - label: 'Human body'
+    scheme: 'FAST'
+    identifier: 'fst01730057'
+    uri: 'https://id.worldcat.org/fast/1730057'
+    category: 'topical'
+  - label: 'Medical ethics'
+    scheme: 'FAST'
+    identifier: 'fst01014081'
+    uri: 'https://id.worldcat.org/fast/1014081'
+    category: 'topical'
+  - label: 'Plastination'
+    scheme: 'FAST'
+    identifier: 'fst01739186'
+    uri: 'https://id.worldcat.org/fast/1739186'
+    category: 'topical'
+  - label: 'Spectacular, The'
+    scheme: 'FAST'
+    identifier: 'fst01129046'
+    uri: 'https://id.worldcat.org/fast/1129046'
+    category: 'topical'
+  - label: 'Voyeurism'
+    scheme: 'FAST'
+    identifier: 'fst01169342'
+    uri: 'https://id.worldcat.org/fast/1169342'
+    category: 'topical'
 ---

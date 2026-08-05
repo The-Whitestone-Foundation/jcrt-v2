@@ -27,50 +27,40 @@ keywords:
   - george-lindbeck
   - postliberal-theology
   - charles-peirce
-subjects:
-  - label: "Anthropomorphism"
-    scheme: "FAST"
-    identifier: "fst00810263"
-    uri: "https://id.worldcat.org/fast/810263"
-    category: "topical"
-  - label: "Buber, Martin, 1878-1965"
-    scheme: "FAST"
-    identifier: "fst00039651"
-    uri: "https://id.worldcat.org/fast/39651"
-    category: "personal"
-  - label: "Cohen, Hermann, 1842-1918"
-    scheme: "FAST"
-    identifier: "fst00037717"
-    uri: "https://id.worldcat.org/fast/37717"
-    category: "personal"
-  - label: "Idolatry"
-    scheme: "FAST"
-    identifier: "fst00966944"
-    uri: "https://id.worldcat.org/fast/966944"
-    category: "topical"
-  - label: "Jewish philosophy"
-    scheme: "FAST"
-    identifier: "fst01730516"
-    uri: "https://id.worldcat.org/fast/1730516"
-    category: "topical"
-  - label: "Lévinas, Emmanuel"
-    scheme: "FAST"
-    identifier: "fst00046641"
-    uri: "https://id.worldcat.org/fast/46641"
-    category: "personal"
-  - label: "Peirce, Charles S. (Charles Sanders), 1839-1914"
-    scheme: "FAST"
-    identifier: "fst00033077"
-    uri: "https://id.worldcat.org/fast/33077"
-    category: "personal"
-  - label: "Rosenzweig, Franz, 1886-1929"
-    scheme: "FAST"
-    identifier: "fst00101180"
-    uri: "https://id.worldcat.org/fast/101180"
-    category: "personal"
 abstract:
 year: 2000
 sort_id: 08
+subjects:
+  - label: 'Anthropomorphism'
+    scheme: 'FAST'
+    identifier: 'fst00810263'
+    uri: 'https://id.worldcat.org/fast/810263'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
+  - label: 'Idolatry'
+    scheme: 'FAST'
+    identifier: 'fst00966944'
+    uri: 'https://id.worldcat.org/fast/966944'
+    category: 'topical'
+  - label: 'Jewish philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01730516'
+    uri: 'https://id.worldcat.org/fast/1730516'
+    category: 'topical'
+  - label: 'Postliberal theology'
+    scheme: 'FAST'
+    identifier: 'fst01073136'
+    uri: 'https://id.worldcat.org/fast/1073136'
+    category: 'topical'
+  - label: 'Representative government and representation'
+    scheme: 'FAST'
+    identifier: 'fst01094941'
+    uri: 'https://id.worldcat.org/fast/1094941'
+    category: 'topical'
 ---
 Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1 
 

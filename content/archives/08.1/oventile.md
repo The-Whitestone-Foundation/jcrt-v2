@@ -26,34 +26,39 @@ season: winter
 year: 2006
 pages:
 subjects:
-  - label: "Aesthetics"
-    scheme: "FAST"
-    identifier: "fst00798702"
-    uri: "https://id.worldcat.org/fast/798702"
-    category: "topical"
-  - label: "Criticism"
-    scheme: "FAST"
-    identifier: "fst00883735"
-    uri: "https://id.worldcat.org/fast/883735"
-    category: "topical"
-  - label: "Hermeneutics"
-    scheme: "FAST"
-    identifier: "fst00955492"
-    uri: "https://id.worldcat.org/fast/955492"
-    category: "topical"
-  - label: "Humanities"
-    scheme: "FAST"
-    identifier: "fst00963588"
-    uri: "https://id.worldcat.org/fast/963588"
-    category: "topical"
-  - label: "Philosophy and religion"
-    scheme: "FAST"
-    identifier: "fst01060826"
-    uri: "https://id.worldcat.org/fast/1060826"
-    category: "topical"
-  - label: "Poetics"
-    scheme: "FAST"
-    identifier: "fst01067682"
-    uri: "https://id.worldcat.org/fast/1067682"
-    category: "topical"
+  - label: 'Aesthetics'
+    scheme: 'FAST'
+    identifier: 'fst00798702'
+    uri: 'https://id.worldcat.org/fast/798702'
+    category: 'topical'
+  - label: 'Critical theory'
+    scheme: 'FAST'
+    identifier: 'fst00883690'
+    uri: 'https://id.worldcat.org/fast/883690'
+    category: 'topical'
+  - label: 'Hermeneutics'
+    scheme: 'FAST'
+    identifier: 'fst00955492'
+    uri: 'https://id.worldcat.org/fast/955492'
+    category: 'topical'
+  - label: 'Humanities'
+    scheme: 'FAST'
+    identifier: 'fst00963588'
+    uri: 'https://id.worldcat.org/fast/963588'
+    category: 'topical'
+  - label: 'Literary criticism'
+    scheme: 'FAST'
+    identifier: 'fst01986215'
+    uri: 'https://id.worldcat.org/fast/1986215'
+    category: 'form-genre'
+  - label: 'Literary theory'
+    scheme: 'FAST'
+    identifier: 'fst01404190'
+    uri: 'https://id.worldcat.org/fast/1404190'
+    category: 'title'
+  - label: 'Poetics'
+    scheme: 'FAST'
+    identifier: 'fst01067682'
+    uri: 'https://id.worldcat.org/fast/1067682'
+    category: 'topical'
 ---

@@ -20,42 +20,6 @@ keywords:
   - philosophy-as-inquiry
   - selected-essays
   - practical-reason
-subjects:
-  - label: "Aristotle"
-    scheme: "FAST"
-    identifier: "fst00029885"
-    uri: "https://id.worldcat.org/fast/29885"
-    category: "personal"
-  - label: "Ethics"
-    scheme: "FAST"
-    identifier: "fst00915833"
-    uri: "https://id.worldcat.org/fast/915833"
-    category: "topical"
-  - label: "MacIntyre, Alasdair C."
-    scheme: "FAST"
-    identifier: "fst00032977"
-    uri: "https://id.worldcat.org/fast/32977"
-    category: "personal"
-  - label: "Political science"
-    scheme: "FAST"
-    identifier: "fst01069781"
-    uri: "https://id.worldcat.org/fast/1069781"
-    category: "topical"
-  - label: "Practical reason"
-    scheme: "FAST"
-    identifier: "fst01074530"
-    uri: "https://id.worldcat.org/fast/1074530"
-    category: "topical"
-  - label: "Thomism"
-    scheme: "FAST"
-    identifier: "fst01765220"
-    uri: "https://id.worldcat.org/fast/1765220"
-    category: "topical"
-  - label: "Virtue"
-    scheme: "FAST"
-    identifier: "fst01167712"
-    uri: "https://id.worldcat.org/fast/1167712"
-    category: "topical"
 pdf: bain-selbo.pdf
 sort_id: 01
 volume: 9
@@ -63,4 +27,25 @@ issue: 3
 season: fall
 year: 2008
 pages:
+subjects:
+  - label: 'Ethics'
+    scheme: 'FAST'
+    identifier: 'fst00915833'
+    uri: 'https://id.worldcat.org/fast/915833'
+    category: 'topical'
+  - label: 'Political science Philosophy'
+    scheme: 'FAST'
+    identifier: 'fst01069819'
+    uri: 'https://id.worldcat.org/fast/1069819'
+    category: 'topical'
+  - label: 'Practical reason'
+    scheme: 'FAST'
+    identifier: 'fst01074530'
+    uri: 'https://id.worldcat.org/fast/1074530'
+    category: 'topical'
+  - label: 'Thomism'
+    scheme: 'FAST'
+    identifier: 'fst01765220'
+    uri: 'https://id.worldcat.org/fast/1765220'
+    category: 'topical'
 ---

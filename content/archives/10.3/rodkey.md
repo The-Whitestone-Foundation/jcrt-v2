@@ -26,34 +26,39 @@ season: summer
 year: 2010
 pages:
 subjects:
-  - label: "Christianity and culture"
-    scheme: "FAST"
-    identifier: "fst00859660"
-    uri: "https://id.worldcat.org/fast/859660"
-    category: "topical"
-  - label: "Evangelistic work"
-    scheme: "FAST"
-    identifier: "fst00917035"
-    uri: "https://id.worldcat.org/fast/917035"
-    category: "topical"
-  - label: "Globalization"
-    scheme: "FAST"
-    identifier: "fst00943532"
-    uri: "https://id.worldcat.org/fast/943532"
-    category: "topical"
-  - label: "Incarnation"
-    scheme: "FAST"
-    identifier: "fst00968453"
-    uri: "https://id.worldcat.org/fast/968453"
-    category: "topical"
-  - label: "Missions"
-    scheme: "FAST"
-    identifier: "fst01023771"
-    uri: "https://id.worldcat.org/fast/1023771"
-    category: "topical"
-  - label: "Postmodernism"
-    scheme: "FAST"
-    identifier: "fst01073164"
-    uri: "https://id.worldcat.org/fast/1073164"
-    category: "topical"
+  - label: 'Christian Mission'
+    scheme: 'FAST'
+    identifier: 'fst00532135'
+    uri: 'https://id.worldcat.org/fast/532135'
+    category: 'corporate'
+  - label: 'Evangelistic work'
+    scheme: 'FAST'
+    identifier: 'fst00917035'
+    uri: 'https://id.worldcat.org/fast/917035'
+    category: 'topical'
+  - label: 'Globalization'
+    scheme: 'FAST'
+    identifier: 'fst00943532'
+    uri: 'https://id.worldcat.org/fast/943532'
+    category: 'topical'
+  - label: 'Incarnation'
+    scheme: 'FAST'
+    identifier: 'fst00968453'
+    uri: 'https://id.worldcat.org/fast/968453'
+    category: 'topical'
+  - label: 'Missions Theory'
+    scheme: 'FAST'
+    identifier: 'fst01023834'
+    uri: 'https://id.worldcat.org/fast/1023834'
+    category: 'topical'
+  - label: 'Postmodern theology'
+    scheme: 'FAST'
+    identifier: 'fst01073163'
+    uri: 'https://id.worldcat.org/fast/1073163'
+    category: 'topical'
+  - label: 'Postmodernism'
+    scheme: 'FAST'
+    identifier: 'fst01073164'
+    uri: 'https://id.worldcat.org/fast/1073164'
+    category: 'topical'
 ---

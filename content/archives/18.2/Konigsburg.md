@@ -27,29 +27,19 @@ season: spring
 year: 2019
 pages: 246-252
 subjects:
-  - label: "Analogy (Religion)"
-    scheme: "FAST"
-    identifier: "fst00808319"
-    uri: "https://id.worldcat.org/fast/808319"
-    category: "topical"
-  - label: "Immanence of God"
-    scheme: "FAST"
-    identifier: "fst00967701"
-    uri: "https://id.worldcat.org/fast/967701"
-    category: "topical"
-  - label: "Negative theology"
-    scheme: "FAST"
-    identifier: "fst01035499"
-    uri: "https://id.worldcat.org/fast/1035499"
-    category: "topical"
-  - label: "Tanner, Kathryn, 1957-"
-    scheme: "FAST"
-    identifier: "fst00210318"
-    uri: "https://id.worldcat.org/fast/210318"
-    category: "personal"
-  - label: "Transcendence of God"
-    scheme: "FAST"
-    identifier: "fst01154533"
-    uri: "https://id.worldcat.org/fast/1154533"
-    category: "topical"
+  - label: 'Analogy'
+    scheme: 'FAST'
+    identifier: 'fst00808308'
+    uri: 'https://id.worldcat.org/fast/808308'
+    category: 'topical'
+  - label: 'Negative theology'
+    scheme: 'FAST'
+    identifier: 'fst01035499'
+    uri: 'https://id.worldcat.org/fast/1035499'
+    category: 'topical'
+  - label: 'Transcendence of God'
+    scheme: 'FAST'
+    identifier: 'fst01154533'
+    uri: 'https://id.worldcat.org/fast/1154533'
+    category: 'topical'
 ---
