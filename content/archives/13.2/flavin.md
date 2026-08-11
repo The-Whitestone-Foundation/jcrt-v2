@@ -1,7 +1,7 @@
 ---
 nanoid: "w3Ct42"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpurg3a42y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwghju52h'
 title: "The Watching Dead: the Panoptic Gaze and Ideologic Zombies."
 author: "Christopher M. Flavin"
 affilation:

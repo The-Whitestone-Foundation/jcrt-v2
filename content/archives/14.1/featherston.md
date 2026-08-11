@@ -1,7 +1,7 @@
 ---
 nanoid: "3ZTjkS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuqx6kx25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwfa3wy22'
 title: "Crusaders without a Cross: Biopolitical and Secular Reconfiguration of Cosmic War."
 author: "Donnie Featherston"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "DSv9Pn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpudfhqu2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvclcnq2q'
 title: >-
   The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In
   Adjudicating Competing Ethical Claims, Part 1 (W. Travis McMaken)

@@ -1,7 +1,7 @@
 ---
 nanoid: "1HJsLC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu73tet2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszuxvh6f2k'
 title: "Introducing Spirit Dance: Reconstructed / Spiritual Practices"
 author: "Joshua M Hall"
 affilation:

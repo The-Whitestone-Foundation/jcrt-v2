@@ -1,7 +1,7 @@
 ---
 nanoid: "jRtxRZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpv2fsb42y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszx5cbjt2a'
 title: "The Lesser Evil: Political Ethics in the Age of Terror"
 author: "Peyman Vahabzadeh"
 affilation:

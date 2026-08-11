@@ -1,7 +1,7 @@
 ---
 nanoid: "Aip7IG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu6osgu2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszux252i2g'
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 3 (Joshua Hall)

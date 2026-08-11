@@ -1,6 +1,6 @@
 ---
 nanoid: "nsCgx2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvbckpm2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszxot3se2h'
 name: Patrice Haynes
 affiliation: "Liverpool Hope College"
 bio:

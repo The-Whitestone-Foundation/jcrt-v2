@@ -1,7 +1,7 @@
 ---
 nanoid: "8js7uG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuzyeid2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszx4acll2h'
 title: "The Western Construction of Religion: Myths, Knowledge, and Ideology"
 author: "Pramod K Nayar"
 affilation:

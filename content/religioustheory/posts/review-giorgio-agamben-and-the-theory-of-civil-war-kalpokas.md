@@ -1,7 +1,7 @@
 ---
 nanoid: "e2d7yh"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpunoj2m2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszw4qep62j'
 title: Review – Giorgio Agamben and the Theory of Civil War (Ignas Kalpokas)
 description: "*Agamben, Giorgio. Stasis: Civil War as a Political Paradigm (Meridian: Crossing Aesthetics). Translated by Nicholas Heron Translated by Nicholas Heron."
 date: '2016-08-11T08:00:32.000Z'

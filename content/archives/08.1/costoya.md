@@ -1,7 +1,7 @@
 ---
 nanoid: "uweiML"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuytevd2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwzfhfd2a'
 title: "A Reconstruction of the Theologies of Liberation:the Lacanian Corrective to the Ellacurian Synthesis"
 author: "Manuel Mejido Costoya"
 affilation:

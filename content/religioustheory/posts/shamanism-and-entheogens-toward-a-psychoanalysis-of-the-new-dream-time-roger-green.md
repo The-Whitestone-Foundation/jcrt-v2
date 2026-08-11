@@ -1,7 +1,7 @@
 ---
 nanoid: "MUzz-s"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpun3li226'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszw3cns32h'
 title: >-
   Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time”
   (Roger Green)

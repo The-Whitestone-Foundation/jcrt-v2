@@ -1,7 +1,7 @@
 ---
 nanoid: "EZ-wLb"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpukhi6m2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvuf4z32i'
 title: Review – Indebted to Asceticism (Hollis Phelps)
 description: "Stimilli, Elettra. **The Debt of the Living: Ascesis and Capitalism. Translated by Arianna Bove. Albany: SUNY Press, 2017. ISBN 9781438464152 It highlights"
 date: '2017-11-14T09:50:55.000Z'

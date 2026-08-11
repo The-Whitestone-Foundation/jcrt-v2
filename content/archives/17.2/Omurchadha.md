@@ -1,7 +1,7 @@
 ---
 nanoid: "w-fBUN"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpujpodo2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvshahc2y'
 title: "A Phenomenology of the Infinite: Horizon, Faith, Love."
 author: "Felix Ó Murchadha"
 affilation:

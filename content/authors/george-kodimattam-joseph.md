@@ -1,6 +1,6 @@
 ---
 nanoid: "6xOmIi"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvirm5a26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszycrgi72w'
 name: George Kodimattam Joseph
 affiliation: "Indian Institute of Technology"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "F2byCP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpugcwv32s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvjx7ia2q'
 title:
 author:
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "OJMZQX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvflgmd2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszy2ij232a'
 name: Karen Bray
 affiliation: "Wesleyan College, Drew University"
 bio:

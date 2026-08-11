@@ -1,6 +1,6 @@
 ---
 nanoid: "odSh47"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpv7zkbm2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszxlj35h2w'
 name: Robert Duncan
 affiliation:
 bio:

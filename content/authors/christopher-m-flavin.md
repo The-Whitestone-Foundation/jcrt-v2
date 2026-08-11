@@ -1,6 +1,6 @@
 ---
 nanoid: "owzV9a"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvlswcp2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszyku2zi2q'
 name: Christopher M. Flavin
 affiliation: "Northeastern State University"
 bio:

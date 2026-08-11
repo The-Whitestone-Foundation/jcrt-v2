@@ -1,6 +1,6 @@
 ---
 nanoid: "-Hz5lv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvggbvh2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszy4mroq2q'
 name: John Y Cha
 affiliation: "Gustavus Adolphus College"
 bio:

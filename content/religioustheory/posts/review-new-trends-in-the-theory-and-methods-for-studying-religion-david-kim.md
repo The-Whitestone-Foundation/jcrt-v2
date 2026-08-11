@@ -1,7 +1,7 @@
 ---
 nanoid: "meLG6l"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpumoy6x2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszw2camg2w'
 title: >-
   Review – New Trends In The Theory And Methods For Studying Religion (David
   Kim)

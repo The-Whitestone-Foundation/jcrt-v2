@@ -1,7 +1,7 @@
 ---
 nanoid: "G-PMXK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpudslko2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvdlmph2w'
 title: >-
   “Naming The Darkness,” Spiritual Violence, And Radical Incompleteness –
   Resituating A Political Theology, Part 2 (James E. Willis, III)

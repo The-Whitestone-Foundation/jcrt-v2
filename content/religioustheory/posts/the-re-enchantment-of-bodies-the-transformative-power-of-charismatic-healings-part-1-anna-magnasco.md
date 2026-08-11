@@ -1,7 +1,7 @@
 ---
 nanoid: "jAxVxC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu66rno2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszuvuusa2q'
 title: >-
   The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic
   Healings, Part 1 (Anna Magnasco)

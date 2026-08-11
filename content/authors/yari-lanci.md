@@ -1,6 +1,6 @@
 ---
 nanoid: "uxJOM7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpv4mukg2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszxctbnd26'
 name: Yari Lanci
 affiliation: "Goldsmiths, University of London"
 bio:

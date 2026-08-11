@@ -1,7 +1,7 @@
 ---
 nanoid: "MoECC9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuuzu7t2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwprpqd2a'
 title: "‘Tear US an Altar’: Erotic Violence and the Self-Unmade Prophet"
 author: "Shannon McRae"
 affilation:

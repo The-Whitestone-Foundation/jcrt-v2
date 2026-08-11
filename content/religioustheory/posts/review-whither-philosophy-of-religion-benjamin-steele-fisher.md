@@ -1,7 +1,7 @@
 ---
 nanoid: "ptTL03"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpukl4he2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvuoqmt2i'
 title: Review—Whither Philosophy of Religion? (Benjamin Steele-Fisher)
 description: "**Religion and European Philosophy: Key Thinkers from Kant to Zizek. Edited by Philip Goodchild and Hollis Phelps. New York: Routledge, 2017 It highlights"
 date: '2017-10-27T03:07:20.000Z'

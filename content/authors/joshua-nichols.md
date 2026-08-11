@@ -1,6 +1,6 @@
 ---
 nanoid: "qqDQ9y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvfryht2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszy2zf532i'
 name: Joshua Nichols
 affiliation: ":The University of Toronto"
 bio:

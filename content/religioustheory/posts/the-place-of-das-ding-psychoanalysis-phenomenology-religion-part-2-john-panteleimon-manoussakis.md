@@ -1,7 +1,7 @@
 ---
 nanoid: "2TzjSG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuln5a42w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvxbxrf2h'
 title: >-
   The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 2 (John
   Panteleimon Manoussakis)

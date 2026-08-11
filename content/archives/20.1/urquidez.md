@@ -1,7 +1,7 @@
 ---
 nanoid: "NWZm_k"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu5vtkw2c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszuv6ewx2w'
 title: "The Religious Significance of Miracles: Why Hume’s Critique of Miracles Is Superfluous."
 author: "Alberto Urquidez"
 affilation:

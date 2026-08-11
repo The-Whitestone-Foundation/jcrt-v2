@@ -1,7 +1,7 @@
 ---
 nanoid: "5ojcll"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuqqug42v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwerhf52h'
 title: "Miracles and Militants."
 author: "Timothy Isaacson; Zachary Thomas Settle"
 affilation:

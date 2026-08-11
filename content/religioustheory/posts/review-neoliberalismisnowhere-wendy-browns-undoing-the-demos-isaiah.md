@@ -1,7 +1,7 @@
 ---
 nanoid: "kHuAUO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpulo6eh25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvxegqe2h'
 title: >-
   Review – Neoliberalsm Is Nowhere – Wendy Brown’s Undoing the Demos (Isaiah
   Dylan Ellis)

@@ -1,6 +1,6 @@
 ---
 nanoid: "w1MFYI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvkwh4w2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszyijh6a22'
 name: Darlene M Juschka
 affiliation: "University of Regina"
 bio:

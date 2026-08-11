@@ -1,6 +1,6 @@
 ---
 nanoid: "3Mx3Ay"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvmv63y26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszynluiw2j'
 name: Bo Eberle
 affiliation: "Union Theology Seminary in New York"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "I97MhZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpum5hml2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvyhrmi2h'
 title: "Badiou and the Necessity of Fables: or, Theology as Fabulation."
 author: "Hollis Phelps"
 affilation:

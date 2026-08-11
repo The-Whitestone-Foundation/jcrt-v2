@@ -1,6 +1,6 @@
 ---
 nanoid: "wgHBWw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvmpdla26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszyn5brl2i'
 name: Brian Britt
 affiliation: "Virginia Tech"
 bio:

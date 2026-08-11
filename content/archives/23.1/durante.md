@@ -1,7 +1,7 @@
 ---
 nanoid: "QOjV3s"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpu5tv2l2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszuuzgr32h'
 title: "Religious Faith in Pursuit of Environmental Justice."
 author: "Chris Durante"
 affilation:

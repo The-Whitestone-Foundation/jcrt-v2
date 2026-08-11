@@ -1,7 +1,7 @@
 ---
 nanoid: "u9C6sj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuqars62c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwdhikl2i'
 title: "The Weird Place of God Debates in the Academic Study of Religions."
 author: "Kevin Schilbrack"
 affilation:

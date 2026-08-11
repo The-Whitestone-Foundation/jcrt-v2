@@ -1,7 +1,7 @@
 ---
 nanoid: "9zUEM8"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuzimq42g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszx33tmq2h'
 title: "Stare Decisis: (Forever) Lost in Translation"
 author: "Neal Magee"
 affilation:

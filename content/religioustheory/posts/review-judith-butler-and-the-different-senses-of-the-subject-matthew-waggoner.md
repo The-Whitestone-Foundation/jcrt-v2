@@ -1,7 +1,7 @@
 ---
 nanoid: "HSU1NL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpulwotl2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvxwlwf2h'
 title: >-
   Review – Judith Butler And The Different “Senses” Of The Subject (Matthew
   Waggoner)

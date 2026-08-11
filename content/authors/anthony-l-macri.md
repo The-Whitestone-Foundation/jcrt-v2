@@ -1,6 +1,6 @@
 ---
 nanoid: "DjGq6K"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpvnmabh25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszyph3z62j'
 name: Anthony L Macri
 affiliation:
 bio:

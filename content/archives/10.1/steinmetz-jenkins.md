@@ -1,7 +1,7 @@
 ---
 nanoid: "LKa70a"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuvcdo62f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwqfglt2a'
 title: "Claude Lefort and the Illegitimacy of Modernity"
 author: "Daniel Steinmetz-Jenkins"
 affilation:

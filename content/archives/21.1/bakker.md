@@ -1,7 +1,7 @@
 ---
 nanoid: "qoYBv5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpubgssg2c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszv5rimh2d'
 title: "Locating the Oceanic in Sylvia Wynter’s"
 author: "Justine M. Bakker"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "VNS5gY"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpurjx6v2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwgrg4k2y'
 title: "Beyond the Pulpit: Women’s Rhetorical Roles in the Antebellum Religious Press."
 author: "Kerrie L. Carsey"
 affilation:

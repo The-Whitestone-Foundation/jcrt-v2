@@ -1,7 +1,7 @@
 ---
 nanoid: "fWnyb4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdputfigt2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwljs6l2i'
 title: "Enjoying Law: Psychoanalysis and Sovereign Bodies"
 author: "Anna Kornbluh"
 affilation:

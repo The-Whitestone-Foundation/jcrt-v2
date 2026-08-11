@@ -1,7 +1,7 @@
 ---
 nanoid: "SR8ogx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuzukjd2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszx3wjzg2w'
 title: "Formations of the Secular: Christianity, Islam, Modernity"
 author: "James K A Smith"
 affilation:

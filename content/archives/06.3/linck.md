@@ -1,7 +1,7 @@
 ---
 nanoid: "Gm5D4J"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpv22c2u2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszx4f5ud2h'
 title: "Truth and Genesis: Philosophy as Differential Ontology"
 author: "Matthew S Linck"
 affilation:

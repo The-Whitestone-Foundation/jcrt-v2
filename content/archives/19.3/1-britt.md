@@ -1,7 +1,7 @@
 ---
 nanoid: "IHpGt3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuejssu2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvfgx5h2w'
 title: "Benjamin’s Habits and the Study of Religion"
 author: "Brian Britt"
 affilation:
