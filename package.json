@@ -40,6 +40,8 @@
     "indexnow:submit": "node scripts/indexnow-submit.mjs",
     "css:purge": "purgecss --css _site/css/bs.css --content \"_site/**/*.html\" --output _site/css/ --safelist show showing collapsing collapse modal-backdrop fade offcanvas-backdrop",
     "build:local": "cross-env LOCAL_BUILD=1 FAST_BUILD=1 LEAN_BUILD=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --incremental --quiet && npm run check:icons",
+    "build:latest": "cross-env USE_LATEST_ISSUE=1 FAST_BUILD=1 LEAN_BUILD=1 SKIP_IMAGE_PROCESSING=1 ELEVENTY_RUN_MODE=build NODE_OPTIONS=--max-old-space-size=4096 eleventy --quiet",
+    "build:local:latest": "cross-env USE_LATEST_ISSUE=1 LOCAL_BUILD=1 FAST_BUILD=1 LEAN_BUILD=1 SKIP_IMAGE_PROCESSING=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --incremental --quiet",
     "build:bench": "cross-env BENCH_11TY=1 BENCH_ISSUE=24.2 FAST_BUILD=1 ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=4096 eleventy --quiet",
     "build": "npm run sequoia:stage && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy && npm run sitemaps:check && npm run oai:validate && npm run css:purge && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
     "build:netlify": "node scripts/build-netlify.mjs",

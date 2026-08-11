@@ -10,6 +10,7 @@ Developed by Adam DJ Brett
 
 ## Acknowledgments
 - Build performance optimization audit and recommendations by [Brennan Kenneth Brown](https://github.com/brennankbrown)
+- Credit to [11tybundle.dev](https://github.com/bobmonsour/11tybundle.dev) for the build-speed pattern that inspired the faster local JCRT workflow. Their latest-issue / cache-first approach helped reduce local iteration time by roughly 60-70% in practice, and the JCRT build now uses the same idea via the `build:latest` and `build:local:latest` fast paths.
 
 ## Next Steps
 5. idea: use RT for book reviews

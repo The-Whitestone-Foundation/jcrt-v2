@@ -28,6 +28,27 @@ Reduces console output overhead during build
 - **Pagefind:** Cached! (skips re-indexing when content unchanged)
 - **Per-file:** 34.2ms (down from 54ms)
 
+## 🚀 Lessons from 11tybundle.dev applied locally
+
+The most effective build-time pattern in the reference repo is not "do less in Eleventy" so much as "precompute and cache the expensive data once, then render only the small slice needed for the current task."
+
+### 1. Keep a small JSON data source for iteration
+The 11tybundle.dev build reads a curated JSON database and supports a `USE_LATEST_DATA=true` mode for latest-issue-only iteration. We applied the same pattern locally with `USE_LATEST_ISSUE=1`, which limits archive generation to the newest issue while keeping the main full build available.
+
+### 2. Precompute cacheable metadata instead of re-fetching on every build
+The reference site stores long-lived fetch results in a cache directory and uses explicit cache durations. JCRT already keeps its asset cache and pagefind cache durable, and the local build flags continue to avoid expensive data work where possible.
+
+### 3. Use lean build flags to skip expensive pages
+The reference project keeps a fast path for local work with low-cost build settings. JCRT now supports the same idea through `FAST_BUILD=1`, `LEAN_BUILD=1`, and `SKIP_IMAGE_PROCESSING=1`, so local previews avoid expensive rendering and image pipeline work.
+
+### 4. Don’t invalidate the entire site for every local edit
+The reference repo uses subset builds and cached static assets to keep iteration fast. Our local scripts keep a single "latest issue" preview command and a standard full build command; developers can switch between the two instead of paying the full cost every time.
+
+### 5. Cache browser assets aggressively
+The repo provides server-side cache headers for CSS/JS/image assets and pagefind bundles. JCRT already has a similar `_headers` setup; we keep that strategy in place and pair it with lean local builds so the site remains fast on both the build pipeline and the CDN edge.
+
+---
+
 ## 🚀 How to Speed Up Markdown, Templates & Collections
 
 ### MARKDOWN OPTIMIZATIONS

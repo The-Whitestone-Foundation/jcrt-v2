@@ -465,6 +465,39 @@ export default async function (eleventyConfig) {
 		eleventyConfig.ignores.add("religioustheory/**");
 		eleventyConfig.ignores.add("feed/**");
 	}
+	if (process.env.USE_LATEST_ISSUE === "1") {
+		const archivesRoot = path.join(process.cwd(), "content", "archives");
+		let latestIssue = "";
+		try {
+			const issueDirs = fs
+				.readdirSync(archivesRoot, { withFileTypes: true })
+				.filter((d) => d.isDirectory())
+				.map((d) => d.name)
+				.filter((name) => /^\d+(?:\.\d+)?$/.test(name))
+				.sort((a, b) => {
+					const aKey = archiveIssueSortKey(`content/archives/${a}/index.njk`, "");
+					const bKey = archiveIssueSortKey(`content/archives/${b}/index.njk`, "");
+					return (bKey.major + bKey.minor / 10) - (aKey.major + aKey.minor / 10);
+				});
+			latestIssue = issueDirs[0] || "";
+		} catch {
+			// Ignore if archives root is not readable.
+		}
+		if (latestIssue) {
+			eleventyConfig.addPreprocessor("latest-issue-scope", "*", (data) => {
+				const inputPath = String(data?.page?.inputPath || "").replaceAll("\\", "/");
+				const marker = "/content/";
+				const idx = inputPath.indexOf(marker);
+				const rel = idx >= 0 ? inputPath.slice(idx + marker.length) : "";
+				if (!rel) return;
+				if (rel === "archives/index.njk" || rel.startsWith("archives/keywords/")) return;
+				if (rel.startsWith("archives/")) {
+					if (rel.startsWith(`archives/${latestIssue}/`)) return;
+					return false;
+				}
+			});
+		}
+	}
 	// HTML minification removed — Netlify's asset optimization and gzip
 	// handle compression; the regex-based transform saved <1s but added
 	// per-page overhead across 2,000+ pages.
