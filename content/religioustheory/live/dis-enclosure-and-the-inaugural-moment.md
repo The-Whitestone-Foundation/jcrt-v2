@@ -1,6 +1,6 @@
 ---
 nanoid: "JIg5gI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msdpuvuayu2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszwrv4ug2w'
 title: "Dis-Enclosure and the Inaugural Moment"
 description: "Carl A. Raschke reads Obama's inauguration beside Jean-Luc Nancy's Dis-Enclosure, asking how event, faith, Christianity, and the future resist philosophy."
 date: '2009-01-22'

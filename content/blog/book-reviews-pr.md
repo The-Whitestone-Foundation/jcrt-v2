@@ -1,7 +1,7 @@
 ---
 nanoid: "H4IAAV"
 doi:
-atproto: 
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszuoojmq2h'
 title: "JCRT Relaunches Its Book Review Section, Inviting Graduate Students, Independent Scholars, and Faculty to Contribute"
 description: ""
 image: /images/jcrt-open-graph.webp
@@ -13,7 +13,6 @@ tags:
 author: editors_religioustheory
 toc: false
 ---
-
 ## **Press Release Draft**
 
 **FOR IMMEDIATE RELEASE**  
