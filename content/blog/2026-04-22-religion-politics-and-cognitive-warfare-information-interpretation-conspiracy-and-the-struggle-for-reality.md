@@ -73,7 +73,7 @@ Religious and occult traditions offer rich precedents for contemporary speculati
 
 ## Submission of Proposals
 
-Contributors should send an abstract of 300--500 words outlining their proposal and its relevance to the conference theme. All proposals should be submitted as email attachments to the editor at editor.jcrt@gmail.com with the subject line header: "Religion, Politics, and Cognitive Warfare -- [Paper Title]."
+Contributors should send an abstract of 300--500 words outlining their proposal and its relevance to the conference theme. All proposals should be submitted as email attachments to the editor at editor@jcrt.org with the subject line header: "Religion, Politics, and Cognitive Warfare -- [Paper Title]."
 
 Abstracts of papers, drafts of papers, or complete papers are welcome, as well as proposals for oral presentations, panel discussions, or short workshops. Accepted presenters will be invited to submit finished articles for peer review and possible inclusion in a special issue of the *JCRT*.
 
@@ -84,8 +84,8 @@ As the *Journal for Cultural and Religious Theory* works toward a special issue 
 ## Queries
 
 
-For questions regarding the conference or submissions, please contact the JCRT editorial office at <editor.jcrt@gmail.com>.
+For questions regarding the conference or submissions, please contact the JCRT editorial office at <editor@jcrt.org>.
 
 *Sponsored by the Journal for Cultural and Religious Theory (JCRT) in Collaboration with the University of Denver*
 
-*[jcrt.org](https://jcrt.org/)  -  <editor.jcrt@gmail.com>*
+*[jcrt.org](https://jcrt.org/)  -  <editor@jcrt.org>*

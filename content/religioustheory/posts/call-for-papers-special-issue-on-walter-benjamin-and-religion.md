@@ -59,4 +59,4 @@ But few studies have situated Benjamin’s work in current discussions of religi
 
 The goal of this special issue of *JCRT* is to expand conversations about Benjamin and religion for scholars of Benjamin and religion alike.
 
-Please email submissions no later than Dec. 1, 2019 to Brian Britt, Professor, Department of Religion and Culture, Virginia Tech University, at [bbritt@vt.edu](mailto:bbritt@vt.edu) with a cc. to [contact form](/contact/) or <editor.jcrt@gmail.com>
+Please email submissions no later than Dec. 1, 2019 to Brian Britt, Professor, Department of Religion and Culture, Virginia Tech University, at [bbritt@vt.edu](mailto:bbritt@vt.edu) with a cc. to [contact form](/contact/) or <editor@jcrt.org>
