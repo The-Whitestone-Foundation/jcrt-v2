@@ -1,7 +1,7 @@
 ---
 nanoid: "S7SOtr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszvj6bix2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuydd4z2k'
 title: 'God And Language, Lecture 6 (Johannes Zachhuber)'
 description: "The following is the sixth lecture in an eight-lecture series. The most recent one can be found here. I started the last couple of lectures with elaborate"
 date: '2019-04-02T04:06:03.000Z'

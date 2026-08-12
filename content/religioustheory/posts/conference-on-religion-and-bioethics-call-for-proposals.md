@@ -1,7 +1,7 @@
 ---
 nanoid: "IbLns9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszusjh7t2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttugfpj52d'
 title: Conference on Religion and Bioethics – Call for Proposals
 description: "This call for proposals frames a conference on religion and bioethics, inviting interdisciplinary work on ethics, theology, policy, and emerging The argument"
 date: '2024-09-26T02:18:17.000Z'

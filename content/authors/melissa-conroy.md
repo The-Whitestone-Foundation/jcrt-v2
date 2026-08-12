@@ -1,6 +1,6 @@
 ---
 nanoid: "2T8A3P"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszxu7v6y2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwrrgdk22'
 name: Melissa Conroy
 affiliation: "Muskingum University, Syracuse University"
 bio:
