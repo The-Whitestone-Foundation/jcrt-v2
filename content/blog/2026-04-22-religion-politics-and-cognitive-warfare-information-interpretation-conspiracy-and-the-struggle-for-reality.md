@@ -4,8 +4,8 @@ doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msszupeft32a'
 title: "CFP: Religion, Politics, and Cognitive Warfare"
 description: "This call for papers invites work on religion, politics, and cognitive warfare, exploring how belief, media, conspiracy, identity, and power shape struggles over reality, interpretation, and life in an age of disinformation, polarization, and contested truth. Essays may be theoretical, historical, or contemporary."
-image: /images/jcrt-open-graph.webp
-thumbnail: /images/jcrt-open-graph.webp
+image: https://files.jcrt.org/images/header.webp
+thumbnail: https://files.jcrt.org/images/header_tn.webp
 date: 2026-04-22T18:16:00.000-04:00
 tags: 
   - call-for-papers
