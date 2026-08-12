@@ -6,7 +6,6 @@ import * as yaml from "js-yaml";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
-import markdownItAttrs from "markdown-it-attrs";
 import pluginTOC from "eleventy-plugin-toc";
 import pluginFilters from "./_config/filters.js";
 import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
@@ -391,7 +390,7 @@ function isPublishedItem(data = {}, runMode = process.env.ELEVENTY_RUN_MODE) {
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
 	// Performance optimizations
-	eleventyConfig.setQuietMode(true); // Reduce console output overhead
+	eleventyConfig.setQuietMode(!process.env.DEBUG?.includes("Benchmark"));
 
 	// Add Luxon-powered date filter for Nunjucks
 	eleventyConfig.addFilter("luxonDate", function(dateObj, format = "yyyy-MM-dd", zone = TIME_ZONE) {
@@ -660,7 +659,6 @@ export default async function (eleventyConfig) {
 	};
 
 	let markdownLib = markdownIt(options)
-		.use(markdownItAttrs)
 		.use(markdownItFootnote);
 	eleventyConfig.setLibrary("md", markdownLib);
 	eleventyConfig.amendLibrary("md", (mdLib) => {
