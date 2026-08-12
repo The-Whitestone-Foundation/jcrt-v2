@@ -1,6 +1,6 @@
 ---
 nanoid: "Ahe-Un"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwib72m2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hbaiap2h'
 name: Steven G Smith
 affiliation:
 bio:

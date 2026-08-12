@@ -1,7 +1,7 @@
 ---
 nanoid: "XrZH4b"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttumulmv2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fenu3w2j'
 title: >-
   Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical
   Conversation” With Roger Green

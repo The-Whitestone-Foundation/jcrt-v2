@@ -1,7 +1,7 @@
 ---
 nanoid: "ihnq4-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw7cgbf2y'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gyarej2h'
 title: "Holiness, Speech and Silence: Reflections on the Questions of God"
 author: "Daniel M Jr Bell"
 affilation:

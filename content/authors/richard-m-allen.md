@@ -1,6 +1,6 @@
 ---
 nanoid: "WQQR8R"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwlrxj226'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7heqryd2h'
 name: Richard M. Allen
 affiliation: ""
 bio:

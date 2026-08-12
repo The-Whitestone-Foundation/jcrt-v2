@@ -1,6 +1,6 @@
 ---
 nanoid: "sG3p8Y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttx2u76w2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hugnpr2h'
 name: James K A Smith
 affiliation: "Calvin College "
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "FjGVDC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxi66uy2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7iazoye2w'
 name: Angie Heo
 affiliation: "Max Planck Institute for the Study of Religious and Ethnic Diversity"
 bio:

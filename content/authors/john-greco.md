@@ -1,6 +1,6 @@
 ---
 nanoid: "dRlL6h"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwyno7i2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hsa5nz2d'
 name: John Greco
 affiliation: "SAINT LOUIS UNIVERSITY"
 bio:

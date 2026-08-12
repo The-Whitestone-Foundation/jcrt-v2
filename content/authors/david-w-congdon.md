@@ -1,6 +1,6 @@
 ---
 nanoid: "qKwONL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxat3ic2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i2dbsp2i'
 name: David W. Congdon
 affiliation: "University Press of Kansas"
 bio:

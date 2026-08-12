@@ -1,7 +1,7 @@
 ---
 nanoid: "ZYQe2b"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvplqgb2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gige3u2w'
 title: "Transcending Dimorphism: Afro-Cuban Ritual Praxis and the Rematerialization of the Body."
 author: "Xhercis MÉNdez"
 affilation:

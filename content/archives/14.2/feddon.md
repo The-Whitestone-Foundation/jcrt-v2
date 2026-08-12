@@ -1,7 +1,7 @@
 ---
 nanoid: "g4WGgi"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvn5lia2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gfxcx72i'
 title: "To “Let Religion Itself Speak:” Feuerbach and Religious Consciousness in Modern Culture"
 author: "Christy Flanagan-Feddon"
 affilation:

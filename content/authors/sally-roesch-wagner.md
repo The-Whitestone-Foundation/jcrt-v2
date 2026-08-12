@@ -1,6 +1,6 @@
 ---
 nanoid: "iZ5FrC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwkaocm2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hd765g2h'
 name: Sally Roesch Wagner
 affiliation: "Matlida Joslyn Gage Center & Syracuse University"
 bio: |-

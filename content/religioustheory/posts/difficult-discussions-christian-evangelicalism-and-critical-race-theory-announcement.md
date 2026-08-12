@@ -1,7 +1,7 @@
 ---
 nanoid: "8KXw-v"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuq6z4y2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fhygaw2j'
 title: >-
   Difficult Discussions – Christian Evangelicalism And Critical Race Theory
   (Announcement)

@@ -1,7 +1,7 @@
 ---
 nanoid: "rJe-kP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvznt3y2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gskxs42w'
 title: "Two Reviews: Macintyre’s the Tasks of Philosophy and Ethics and Politics"
 author: "Eric Bain-Selbo"
 affilation: "Western Kentucky University"

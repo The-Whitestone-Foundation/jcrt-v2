@@ -1,6 +1,6 @@
 ---
 nanoid: "HlClRv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwmq3as22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hfpfih2h'
 name: Pranay Somayajula
 affiliation: "independant scholar"
 bio: |-

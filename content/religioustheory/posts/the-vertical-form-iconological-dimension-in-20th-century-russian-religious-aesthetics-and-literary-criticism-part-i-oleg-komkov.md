@@ -1,7 +1,7 @@
 ---
 nanoid: "pGwmyA"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttv4lngr2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fuy3zp2h'
 title: >-
   The Vertical Form – The Iconological Dimension in 20th Century Russian
   Religious Aesthetics and Literary Criticism, Part I (Oleg Komkov)

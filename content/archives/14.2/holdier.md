@@ -1,7 +1,7 @@
 ---
 nanoid: "nLKUGN"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvmxwpu2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gfrlds26'
 title: "Meeting Mary in Myth: Pursuing Pre/Post/Modern Apologetics."
 author: "A. G. Holdier"
 affilation:

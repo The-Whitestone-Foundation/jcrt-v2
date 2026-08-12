@@ -1,7 +1,7 @@
 ---
 nanoid: "uyagD2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvkkk5c2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gdd2pb2h'
 title: "An Interview with Nick Sousanis"
 author: "S. Andrew Stowe"
 affilation:

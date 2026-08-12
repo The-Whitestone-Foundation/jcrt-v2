@@ -1,7 +1,7 @@
 ---
 nanoid: "1Euqy4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw4qp5w2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gvoq7d2h'
 title: "The End of Words: the Language of Reconciliation in a Culture of Violence"
 author: "Ford Turrell"
 affilation:

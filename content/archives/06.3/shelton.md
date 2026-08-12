@@ -1,7 +1,7 @@
 ---
 nanoid: "2yvJhv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw7iikm2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gygitw2h'
 title: "Evolution and Ethics: Human Morality in Biological and Religious Perspective"
 author: "Anthony Shelton"
 affilation:

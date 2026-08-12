@@ -1,7 +1,7 @@
 ---
 nanoid: "sJj0WJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvon4sy2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7ghhfvd2h'
 title: "Adorno, ŽIŽEk and the Zombie: Representing Mortality in an Age of Mass Killing."
 author: "Gary A. Mullen"
 affilation:

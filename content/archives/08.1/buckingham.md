@@ -1,7 +1,7 @@
 ---
 nanoid: "m3s6TA"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw5ljhm2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gwjdpy2g'
 title: "Walter Benjamin, Religion, and Aesthetics: Rethinking Religion Through the Arts"
 author: "Will Buckingham"
 affilation:

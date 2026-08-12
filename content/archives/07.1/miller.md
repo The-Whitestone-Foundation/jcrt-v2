@@ -1,7 +1,7 @@
 ---
 nanoid: "PEv2iE"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw6phsi2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gxnpwk2q'
 title: "Philosophy & Scripture in Book VII of Augustine’s Confessions"
 author: "Adam S Miller"
 affilation:

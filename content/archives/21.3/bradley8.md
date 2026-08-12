@@ -1,7 +1,7 @@
 ---
 nanoid: "QGex_R"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttunrmky2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7ffl2rr26'
 title: "Otherwise: A Response to Boštjan Nedoh"
 author: "Arthur Bradley"
 affilation:

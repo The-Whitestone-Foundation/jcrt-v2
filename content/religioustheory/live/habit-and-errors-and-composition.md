@@ -1,6 +1,6 @@
 ---
 nanoid: "6zhQNf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvxdryq2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gqa4g22q'
 title: "Habit and Errors and Composition"
 description: "Adam Katz uses Gertrude Stein to connect habit, error, attention, composition, reciprocity, and political exchange in an account of how novelty emerges."
 date: '2009-04-26'

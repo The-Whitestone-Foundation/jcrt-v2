@@ -1,7 +1,7 @@
 ---
 nanoid: "ipTACN"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvd7ioe2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7g3nsw52w'
 title: >-
   The Bell Jar’s New Look – Sylvia Plath, Simone De Beauvoir, And The Visual
   Representation Of Feminist Discourse (Madeline Yonker)

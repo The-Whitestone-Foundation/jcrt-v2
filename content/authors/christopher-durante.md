@@ -1,6 +1,6 @@
 ---
 nanoid: "PO0LL2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxe3bi42h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i4xstb2a'
 name: Christopher Durante
 affiliation:
 bio:

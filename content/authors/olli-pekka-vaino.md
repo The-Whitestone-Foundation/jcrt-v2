@@ -1,6 +1,6 @@
 ---
 nanoid: "qeYWwP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwokqdj2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hhkzsh2i'
 name: Olli-Pekka Vaino
 affiliation:
 bio:

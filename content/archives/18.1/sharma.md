@@ -1,7 +1,7 @@
 ---
 nanoid: "kQ8mML"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttv5ohle2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fw3eus22'
 title: "Framing Religious Conflict and Violence - Insights from Historical Institutionalism."
 author: "Vivek Swaroop Sharma"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "FZMOTP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw3w2mo2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gutbay2g'
 title: "Shylock Between Exception and Emancipation: Shakespeare, Schmitt, Arendt"
 author: "Julia Reinhard Lupton"
 affilation:

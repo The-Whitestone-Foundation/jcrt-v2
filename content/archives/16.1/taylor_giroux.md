@@ -1,7 +1,7 @@
 ---
 nanoid: "f_zhdj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvk3axc26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gcrk5r2h'
 title: "An Interview with Henry Giroux"
 author: "VICTOR TAYLOR; Henry Giroux"
 affilation:

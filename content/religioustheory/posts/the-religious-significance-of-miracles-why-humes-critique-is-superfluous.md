@@ -1,7 +1,7 @@
 ---
 nanoid: "olikq2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttutgr7n2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fl6ooi2g'
 title: >-
   The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous,
   Part 1 (Alberto Urquidez)

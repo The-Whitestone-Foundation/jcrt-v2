@@ -1,6 +1,6 @@
 ---
 nanoid: "jlf0S1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxflfgu2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i6fcrz2d'
 name: Bruce Janz
 affiliation: "University of Central Florida "
 bio:

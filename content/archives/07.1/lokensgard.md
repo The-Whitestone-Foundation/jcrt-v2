@@ -1,7 +1,7 @@
 ---
 nanoid: "S7nXRU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw6tave2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gxri2c2q'
 title: "Who Owns Native Culture?"
 author: "Kenneth H Lokensgard"
 affilation:

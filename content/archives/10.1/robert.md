@@ -1,7 +1,7 @@
 ---
 nanoid: "Ec_s2Y"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvwoxtk2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gpkvkz2d'
 title: "Human, Life, and Other Sacred Stuff"
 author: "William Robert"
 affilation:

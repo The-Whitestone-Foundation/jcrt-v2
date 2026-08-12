@@ -1,6 +1,6 @@
 ---
 nanoid: "Dz7crj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwmgmju2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hffrss22'
 name: Ray L. Hart
 affiliation: "Boston University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "CH79tF"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwrc27k2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hkcte22q'
 name: Michael Hardt
 affiliation: "Duke University"
 bio:

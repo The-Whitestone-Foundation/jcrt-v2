@@ -1,7 +1,7 @@
 ---
 nanoid: "_Qgd7I"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvztilm2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gsqqgf2w'
 title: "Politics and Perversion: Situating ŽIŽEk’s Paul"
 author: "Adam Kotsko"
 affilation:

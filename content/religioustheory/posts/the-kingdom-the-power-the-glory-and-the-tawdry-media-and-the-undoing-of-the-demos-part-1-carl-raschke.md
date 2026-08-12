@@ -1,7 +1,7 @@
 ---
 nanoid: "OJBABe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvbynm62i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7g2g5fz2a'
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 1 (Carl Raschke)

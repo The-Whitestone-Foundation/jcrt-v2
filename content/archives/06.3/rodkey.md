@@ -1,7 +1,7 @@
 ---
 nanoid: "dGbhyZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw7kg5u2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gyigbz2d'
 title: "Thinking Through the Death of God: a Critical Companion to Thomas J. J. Altizer"
 author: "Christopher Demuth Rodkey"
 affilation:

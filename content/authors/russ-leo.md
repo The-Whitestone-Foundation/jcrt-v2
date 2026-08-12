@@ -1,6 +1,6 @@
 ---
 nanoid: "TYN_U6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwkialo2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hdgs7b2d'
 name: Russ Leo
 affiliation: "Duke University"
 bio:

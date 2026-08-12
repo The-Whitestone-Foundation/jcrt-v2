@@ -1,7 +1,7 @@
 ---
 nanoid: "eOCrND"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvrki4q2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gkglxb2h'
 title: "Teaching with Fear and Trembling: the Trial of Abraham, the Reader, and the Professor"
 author: "T Wilson Dickinson"
 affilation:

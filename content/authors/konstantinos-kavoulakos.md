@@ -1,6 +1,6 @@
 ---
 nanoid: "09kcCJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwvkcl42h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hp46gk22'
 name: Konstantinos Kavoulakos
 affiliation: "University of Crete"
 bio:

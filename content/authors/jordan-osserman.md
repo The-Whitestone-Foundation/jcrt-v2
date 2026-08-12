@@ -1,6 +1,6 @@
 ---
 nanoid: "APTaEt"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwy2g5i2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hrmplc22'
 name: Jordan Osserman
 affiliation: "University College London"
 bio: 

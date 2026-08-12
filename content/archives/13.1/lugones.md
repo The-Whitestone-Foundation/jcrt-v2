@@ -1,7 +1,7 @@
 ---
 nanoid: "PYSqbx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvpnmvc2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7giibp62h'
 title: "Radical Multiculturalism and Women of Color Feminisms."
 author: "Maria Lugones"
 affilation:

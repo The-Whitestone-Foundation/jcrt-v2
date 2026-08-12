@@ -1,6 +1,6 @@
 ---
 nanoid: "-CldQZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxgwpea2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i7rsnl2h'
 name: B C Knowlton
 affiliation: "Assumption College "
 bio:

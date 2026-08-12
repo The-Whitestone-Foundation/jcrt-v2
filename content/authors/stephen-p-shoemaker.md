@@ -1,6 +1,6 @@
 ---
 nanoid: "KnJASE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwiey5c2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hbeegb2h'
 name: Stephen P Shoemaker
 affiliation: "Harvard University"
 bio:

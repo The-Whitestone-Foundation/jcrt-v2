@@ -1,7 +1,7 @@
 ---
 nanoid: "GBkDvl"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttweisl226'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7h5ioao2y'
 title: "Religion and Rationality: Essays on Reason, God, and Modernity"
 author: "Eric Bain-Selbo"
 affilation:

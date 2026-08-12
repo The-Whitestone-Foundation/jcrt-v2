@@ -1,6 +1,6 @@
 ---
 nanoid: "v11Hz9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwiknrs2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hbk3xc2q'
 name: Stephen Bujno
 affiliation: ""
 bio:

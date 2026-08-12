@@ -1,7 +1,7 @@
 ---
 nanoid: "OWDC0k"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttv6qtam2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fx5nm32h'
 title: "Love, Psychoanalysis, and Leftist Political Ontology."
 author: "Daniel Tutt"
 affilation:

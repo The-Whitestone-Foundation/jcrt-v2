@@ -1,7 +1,7 @@
 ---
 nanoid: "IcwYFG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuzppzr2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7frhlgx2h'
 title: "John the Possibilizer: the Promise of a Kearnian Baptismal Hermeneutic."
 author: "Eric Trozzo"
 affilation:

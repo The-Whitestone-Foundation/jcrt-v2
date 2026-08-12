@@ -1,6 +1,6 @@
 ---
 nanoid: "p1sWjj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwrv7ik2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hkw5fw2j'
 name: Matthew Waggoner
 affiliation:
 bio:

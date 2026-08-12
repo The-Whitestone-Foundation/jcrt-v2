@@ -1,6 +1,6 @@
 ---
 nanoid: "UTpBzE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxdnjxy2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i4kj2b2a'
 name: Colbey Emmerson-Reid
 affiliation: "North Carolina State University, York College of Pennsylvania"
 bio:

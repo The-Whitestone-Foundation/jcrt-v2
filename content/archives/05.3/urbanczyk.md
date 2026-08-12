@@ -1,7 +1,7 @@
 ---
 nanoid: "8Ilueg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwc2esk26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7h2yhtt2h'
 title: "Body and Soul: a Sympathetic History of American Spiritualism"
 author: "Aaron Urbanczyk"
 affilation:

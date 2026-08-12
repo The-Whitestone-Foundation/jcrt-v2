@@ -1,6 +1,6 @@
 ---
 nanoid: "Mz3xaS"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxh6dfc2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i7zgr42w'
 name: Arthur Bradley
 affiliation: "Lancaster University"
 bio:

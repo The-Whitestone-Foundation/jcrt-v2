@@ -1,7 +1,7 @@
 ---
 nanoid: "tdCkyo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvpjswq2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7giefmo2j'
 title: "The Darker Side of Western Modernity: Global Futures, Decolonial Options."
 author: "Jordan E. Miller"
 affilation:

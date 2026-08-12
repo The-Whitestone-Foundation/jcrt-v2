@@ -1,6 +1,6 @@
 ---
 nanoid: "dSxQ7e"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxangt22h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i25k2j2g'
 name: Dennis M Weiss
 affiliation: "York College of Pennsylvania"
 bio:

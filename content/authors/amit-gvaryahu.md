@@ -1,6 +1,6 @@
 ---
 nanoid: "mOrjx2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxiunrq2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7ibqz2z2g'
 name: Amit Gvaryahu
 affiliation: ""
 bio:

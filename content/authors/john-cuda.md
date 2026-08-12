@@ -1,6 +1,6 @@
 ---
 nanoid: "jrQDBh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwyrjcj2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hsdyqg2j'
 name: John Cuda
 affiliation: "Lincoln University"
 bio:

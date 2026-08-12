@@ -1,6 +1,6 @@
 ---
 nanoid: "mTrr0l"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwmctgy2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hfc2ou2w'
 name: Rebecca Todd Peters
 affiliation: "Elon University"
 bio:

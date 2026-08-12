@@ -1,7 +1,7 @@
 ---
 nanoid: "MjEijx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvg2rks2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7g6jv4s22'
 title: >-
   From Heathen to Sub-Human: A Genealogy of the Influence of the Decline of
   Religion on the Rise of Modern Racism, Part 3 (Oludamini Ogunnaike)

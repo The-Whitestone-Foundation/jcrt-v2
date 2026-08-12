@@ -1,6 +1,6 @@
 ---
 nanoid: "t07JXc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwxkzub2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hr5dkc26'
 name: Joseph Valente
 affiliation: "SUNY University at Buffalo"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "4ta38J"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuks4qs2j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fcouhw2j'
 title: "John Boswell’s History of (Eurochristian) Sexuality and the Case for Transcendental Somatics."
 author: "Kieryn E. Wurts"
 affilation:

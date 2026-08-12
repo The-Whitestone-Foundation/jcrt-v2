@@ -1,7 +1,7 @@
 ---
 nanoid: "u4XEPw"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvytbdm2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7grqcfs2q'
 title: "Religion: Beyond a Concept"
 author: "Matthew T Powell"
 affilation:

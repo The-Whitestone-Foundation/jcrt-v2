@@ -1,7 +1,7 @@
 ---
 nanoid: "WoT-7P"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuj5pw52d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fazpbj2d'
 title: 'The Sacred As Bordering Practice, Part 1 (Anna-Maria Edlinger)'
 description: "Part 1 theorizes the sacred as bordering practice, showing how ritual and discourse draw limits, authorize belonging, and organize contested social and"
 date: '2023-10-25T15:51:14.000Z'

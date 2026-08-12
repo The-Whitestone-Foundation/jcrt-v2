@@ -1,6 +1,6 @@
 ---
 nanoid: "ZFzKBf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxd5z2i2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i42kag2y'
 name: Daniel Colucciello Barber
 affiliation: "ICI Berlin for Cultural Inquiry, Marymont Manhattan College"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "4la34z"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwbfmqr2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7h2de4g2h'
 title: "A Theology of Engagement"
 author: "Derek Michaud"
 affilation:

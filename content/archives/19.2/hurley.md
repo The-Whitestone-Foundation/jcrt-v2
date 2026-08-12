@@ -1,7 +1,7 @@
 ---
 nanoid: "fdkEcv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuvwk3z2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fno4o222'
 title: "Horror Fiction and Catholic Theology - a Rhetorical Synthesis."
 author: "Gavin Hurley"
 affilation:

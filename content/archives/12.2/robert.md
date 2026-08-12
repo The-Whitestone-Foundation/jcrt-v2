@@ -1,7 +1,7 @@
 ---
 nanoid: "Vm2LUd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvqtlpa2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gjp4ri2g'
 title: "Performing Religiously Between Passion and Resistance."
 author: "William Robert"
 affilation:

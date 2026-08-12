@@ -1,7 +1,7 @@
 ---
 nanoid: "yobmzP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttv7fw252h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fxsoif2w'
 title: "Spiritual Exercises in a Secular Age: Prospects for a Theological Reduction."
 author: "Joseph Rivera"
 affilation:

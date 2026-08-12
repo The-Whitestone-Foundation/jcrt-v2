@@ -1,6 +1,6 @@
 ---
 nanoid: "_HfbsJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttxbeute2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i2upbj2d'
 name: David A Adcock
 affiliation: "Rice University"
 bio:

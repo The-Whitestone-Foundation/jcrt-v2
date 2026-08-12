@@ -1,7 +1,7 @@
 ---
 nanoid: "daSSmk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvjncm22h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gcdsik22'
 title: >-
   NOTATIONS – The “Unacculturable” – Refugee Flux Spurs Crisis of European
   Belief

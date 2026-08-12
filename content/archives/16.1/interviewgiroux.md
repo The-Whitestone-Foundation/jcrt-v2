@@ -1,7 +1,7 @@
 ---
 nanoid: "OHjUqu"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttvkmgp52h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gdex5v2k'
 title: "An Interview with Henry Giroux"
 author: "Victor Taylor"
 affilation:

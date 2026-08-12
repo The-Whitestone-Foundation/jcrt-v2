@@ -1,6 +1,6 @@
 ---
 nanoid: "Nndnn_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttwvzg2y2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hplbyc26'
 name: Kevin Grane
 affiliation: "University of Denver/Iliff School of Theology"
 bio:

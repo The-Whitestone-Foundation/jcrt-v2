@@ -1,7 +1,7 @@
 ---
 nanoid: "oI7GQs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttviewmc2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gbo73q2g'
 title: >-
   More Sympathy for the Devil, or The State of Satan in The Age of Obama and
   Trump

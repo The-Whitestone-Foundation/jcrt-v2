@@ -1,7 +1,7 @@
 ---
 nanoid: "byhxRN"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttw45mrj2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gv3pwh2i'
 title: "Shylock: the Knight of Faith?"
 author: "Kenneth S Jackson"
 affilation:

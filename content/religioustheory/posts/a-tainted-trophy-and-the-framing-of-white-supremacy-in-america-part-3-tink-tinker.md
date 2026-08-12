@@ -1,7 +1,7 @@
 ---
 nanoid: "WR5O0f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msttuln44226'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fdk3oj26'
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (Tink
   Tinker)
