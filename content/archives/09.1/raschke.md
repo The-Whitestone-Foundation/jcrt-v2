@@ -1,7 +1,7 @@
 ---
 nanoid: "RjCe14"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kq5qof72e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eevvvxy2g'
 title: "The Religion of Politics: Concerning a Postmodern Political Theology ‘to Come’"
 author: "Carl A. Raschke"
 affilation:

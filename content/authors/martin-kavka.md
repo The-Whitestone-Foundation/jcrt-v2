@@ -1,6 +1,6 @@
 ---
 nanoid: "FMdI0w"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kr6ck5p2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5efxzgoq2g'
 name: Martin Kavka
 affiliation: "FLORIDA STATE UNIVERSITY, Rice University"
 bio:

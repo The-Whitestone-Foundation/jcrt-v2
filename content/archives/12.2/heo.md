@@ -1,7 +1,7 @@
 ---
 nanoid: "CVj0y9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kprm2qt2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eejjgmb2s'
 title: "Three Classroom Readings of ‘Ethnographic Practice’ in Religious Studies."
 author: "Angie Heo"
 affilation:

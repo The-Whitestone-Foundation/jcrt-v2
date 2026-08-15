@@ -1,7 +1,7 @@
 ---
 nanoid: "7jj7im"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kq4giof25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eeulnjg2h'
 title: "Infinitely Demanding: Ethics of Commitment, Politics of Resistance"
 author: "Nathan S Hilberg"
 affilation:

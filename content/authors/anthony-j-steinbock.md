@@ -1,6 +1,6 @@
 ---
 nanoid: "YjYrLP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ks2asgx2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5egtkqpx2i'
 name: Anthony J. Steinbock
 affiliation: "Southern Illinois University Carbondale"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "WaGrGT"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3koilyd62i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5ed7z5qb2p'
 title: 'Antinomian Flesh, Part 1 (David Kline)'
 description: "In this essay I explore the idea of what I call an “antinomian flesh.” Looking to the concept of nomos theorized by sociologists, political and legal theorists"
 date: '2020-10-19T04:24:16.000Z'

@@ -1,7 +1,7 @@
 ---
 nanoid: "uChYUe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3knz5wqw2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5ecq4tuo2u'
 title: 'Sikhs As Subalterns – Voice, Inequality, And Power, Part 2 (Nirvikar Singh)'
 description: "The following is the second installment of a three part series. The first can be found here. It is published as a catalogued .PDF in article in the latest issue"
 date: '2024-01-26T17:09:44.000Z'
