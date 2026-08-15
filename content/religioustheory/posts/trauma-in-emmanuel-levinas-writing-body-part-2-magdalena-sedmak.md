@@ -1,7 +1,7 @@
 ---
 nanoid: "voJgHM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fbjegz2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ko4lbro2i'
 title: 'Trauma In Emmanuel Levinas’ Writing Body, Part 2 (Magdalena Sedmak)'
 description: "The following is the second of a two part series. The first can be found here. The entire article appears in Issue 22.1 of the Journal for Cultural and"
 date: '2023-06-30T23:40:25.000Z'

@@ -1,7 +1,7 @@
 ---
 nanoid: "0rNbni"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7flzyvr2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kokprd32h'
 title: Lacan And Pneumatology (Mark Murphy)
 description: "There has been much work on Lacan in describing his relationship to a Christological theology. We see this in work such as Žižek’s The Fragile Absolute and also"
 date: '2020-03-22T18:41:58.000Z'
