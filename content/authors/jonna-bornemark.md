@@ -1,6 +1,6 @@
 ---
 nanoid: "fLm-5y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hrqsls26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krfmali2p'
 name: Jonna Bornemark
 affiliation:
 bio:

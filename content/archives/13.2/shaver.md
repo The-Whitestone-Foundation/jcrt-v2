@@ -1,7 +1,7 @@
 ---
 nanoid: "e5q-vx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gh3h2b2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpmyqrl2q'
 title: "A review of Lisa J. Shaver, Beyond the Pulpit: Women s Rhetorical Roles in the Antebellum Religious Press"
 author: "Kerrie L. Carsey"
 affilation:

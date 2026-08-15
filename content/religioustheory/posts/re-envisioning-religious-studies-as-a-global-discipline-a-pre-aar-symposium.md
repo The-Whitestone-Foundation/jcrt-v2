@@ -1,7 +1,7 @@
 ---
 nanoid: "DAUFkU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fsqh4b2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kotmzdb2q'
 title: Re-Envisioning Religious Studies As A Global Discipline – A Pre-AAR Symposium
 description: "The Journal for Cultural and Religious Theory and the Department of Religious Studies at the University of Denver in conjunction with its partner faculty"
 date: '2018-10-02T22:22:09.000Z'

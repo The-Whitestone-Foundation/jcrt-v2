@@ -1,6 +1,6 @@
 ---
 nanoid: "GGsGWI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hrgw6k2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krf7do72h'
 name: Joseph Ballan
 affiliation: "University of Copenhagen"
 bio:

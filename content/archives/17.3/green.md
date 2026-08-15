@@ -1,7 +1,7 @@
 ---
 nanoid: "TCG8Cg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fxj4vx2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kozc66p2s'
 title: "The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes."
 author: "Roger Green"
 affilation:

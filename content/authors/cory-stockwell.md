@@ -1,6 +1,6 @@
 ---
 nanoid: "2Xb_e2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i4ht2p2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krurd2s2z'
 name: Cory Stockwell
 affiliation: "University of King's College"
 bio:

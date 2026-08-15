@@ -1,7 +1,7 @@
 ---
 nanoid: "jk33WW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7g43bk62j'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kp7hy6z2z'
 title: 'Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)'
 description: "Psychoanalysis has undeniably played a significant role in the development of theories critical of the social landscape It highlights key arguments and"
 date: '2017-01-21T18:54:54.000Z'

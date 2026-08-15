@@ -1,6 +1,6 @@
 ---
 nanoid: "cfEy7p"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7ibl6kj2d'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ks3n4bl2h'
 name: Ananda Abeysekara
 affiliation: ""
 bio:

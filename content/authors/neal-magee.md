@@ -1,6 +1,6 @@
 ---
 nanoid: "9LKPIj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hindf62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kr27oqh2h'
 name: Neal Magee
 affiliation: "Le Moyne College, Syracuse University"
 bio:

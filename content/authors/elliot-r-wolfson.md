@@ -1,6 +1,6 @@
 ---
 nanoid: "M0hIwO"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hytpcf2k'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krptyyi2g'
 name: Elliot R. Wolfson
 affiliation: "University of California at Santa Barbara "
 bio:

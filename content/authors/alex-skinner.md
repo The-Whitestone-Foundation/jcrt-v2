@@ -1,6 +1,6 @@
 ---
 nanoid: "wrzBhR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7ic6dul2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ks4hm2x2e'
 name: Alex Skinner
 affiliation:
 bio:

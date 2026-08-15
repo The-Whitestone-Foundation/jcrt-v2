@@ -1,6 +1,6 @@
 ---
 nanoid: "Wb3BHh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hvokx62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krllpnb2q'
 name: Ian McPherson
 affiliation: "University of Dundee"
 bio:

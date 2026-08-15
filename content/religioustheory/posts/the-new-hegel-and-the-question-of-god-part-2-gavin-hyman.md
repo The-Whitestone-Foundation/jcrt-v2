@@ -1,7 +1,7 @@
 ---
 nanoid: "utoZ4b"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7fpj2iw2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kopdgwu25'
 title: 'The “New Hegel” And The Question Of God, Part 2 (Gavin Hyman)'
 description: "The following is the second installment of a three-part series. The first one can be found here. Slavoj Žižek’s return to God in the context of his wider return"
 date: '2019-05-31T02:03:41.000Z'

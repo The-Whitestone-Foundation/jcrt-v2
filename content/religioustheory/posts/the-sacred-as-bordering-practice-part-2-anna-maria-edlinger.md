@@ -1,7 +1,7 @@
 ---
 nanoid: "2EZqNf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7faxpuf2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ko3t6fp2s'
 title: 'The Sacred As Bordering Practice, Part 2 (Anna-Maria Edlinger)'
 description: "The following is the second of a two-part series. The first portion can be found here. It was originally published in issue 22.1 of the Journal for Cultural and"
 date: '2023-11-13T16:11:04.000Z'

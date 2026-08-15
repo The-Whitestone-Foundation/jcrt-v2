@@ -1,7 +1,7 @@
 ---
 nanoid: "215Dfn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7gulnbc26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kq7lyn62i'
 title: "Confronting the Politics of Evasion in an Age of Fright: Democracy, Religious Enthusiasm, and the State"
 author: "Matthew Abrahams"
 affilation:

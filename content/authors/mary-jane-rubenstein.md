@@ -1,6 +1,6 @@
 ---
 nanoid: "9RfNuD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7hlhbdb2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kr5ygyp2h'
 name: Mary-Jane Rubenstein
 affiliation: "Wesleyan University"
 bio:

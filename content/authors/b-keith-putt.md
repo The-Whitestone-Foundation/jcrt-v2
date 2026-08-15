@@ -1,6 +1,6 @@
 ---
 nanoid: "nwghA6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7i7pvbz2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krz4gab2u'
 name: B Keith Putt
 affiliation: "Samford University"
 bio:

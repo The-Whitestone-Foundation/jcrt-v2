@@ -1,6 +1,6 @@
 ---
 nanoid: "zZz9Ti"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7ht6gi52w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krhkhsr2z'
 name: Jeffrey Scholes
 affiliation: "University of Colorado, Colorado Springs"
 bio:

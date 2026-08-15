@@ -1,7 +1,7 @@
 ---
 nanoid: "yZJA8O"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3msu7f6e44b2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3knyqtud2h'
 title: 'The Image of God and Our Vocation of the Soil, Part 2 (Mick Pope)'
 description: "The article is published in two installments. The first can be found here. It is generally recognised that the Garden story is more environmentally friendly"
 date: '2024-05-24T20:12:53.000Z'
