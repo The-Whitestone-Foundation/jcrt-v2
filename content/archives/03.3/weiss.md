@@ -106,8 +106,6 @@ In In her 1997 sociological study of cyberculture and identity formation entitle
 
 ### Bibliography
 
-### Bibliography
-
 - Brooks, Rodney. *Flesh and Machines: How Robots Will Change Us*. New York: Pantheon Books, 2002.
 - Davis, Erik. "The Soft Machine: The Play-Doh of the Future, Here Today!" Electronic manuscript available at http://www.techgnosis.com/robot.html.
 - Gergen, Kenneth. *The Saturated Self*. New York: Basic Books, 1991.
