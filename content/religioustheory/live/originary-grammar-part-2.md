@@ -1,6 +1,6 @@
 ---
 nanoid: "4ErZI7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauz775vz2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwc5r65g2u'
 title: "Originary Grammar, Part 2"
 description: "Adam Katz develops originary grammar through sentence forms, metaphysics, imperatives, and the linguistic ordering that continually defers social violence."
 date: '2009-03-09'

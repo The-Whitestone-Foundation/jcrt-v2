@@ -1,7 +1,7 @@
 ---
 nanoid: "NhbVY4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauzjwtzx2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcito2g2n'
 title: "Philosophy in a Time of Terror: Dialogues with JÜRgen Habermas and Jacques Derrida"
 author: "David Reinhart"
 affilation:

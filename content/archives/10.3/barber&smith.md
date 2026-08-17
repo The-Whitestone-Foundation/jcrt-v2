@@ -1,7 +1,7 @@
 ---
 nanoid: "0gQiE-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauz5glen2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwc3z7d72s'
 title: "Too Poor for Measure: Working with Negri on Poverty and Fabulation"
 author: "Daniel Colucciello Barber; Anthony Paul Smith"
 affilation:

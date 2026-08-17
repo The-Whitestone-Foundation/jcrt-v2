@@ -1,7 +1,7 @@
 ---
 nanoid: "KrlrMA"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauxzlcje2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwaycsjg25'
 title: "Intentionalism and God’s Fiction."
 author: "Noel Boulting"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "ZeI7uk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav2hdngn2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdge5ko25'
 name: Elaina Berlin
 affiliation: "The University at Albany"
 bio: |-

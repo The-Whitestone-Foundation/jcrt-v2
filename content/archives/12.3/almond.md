@@ -1,7 +1,7 @@
 ---
 nanoid: "V4Zt_e"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauyyf7fo2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwbwvnvy23'
 title: "Messianic Themes in South Asian Literature: Reading Bibhutibhushan Banerji in the Light of Agamben."
 author: "Ian Almond"
 affilation:
