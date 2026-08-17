@@ -1,6 +1,6 @@
 ---
 nanoid: "P2oSfR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krg3mrz2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eg7utho2q'
 name: John L Meeks
 affiliation: "Lutheran School of Theology at Chicago"
 bio:

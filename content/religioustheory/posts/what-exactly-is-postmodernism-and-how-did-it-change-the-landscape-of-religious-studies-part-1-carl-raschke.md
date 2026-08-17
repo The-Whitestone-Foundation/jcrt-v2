@@ -1,7 +1,7 @@
 ---
 nanoid: "NcpNqw"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ko42ycy2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5ect4qei2q'
 title: >-
   What Exactly Is Postmodernism, And How Did It Change The Landscape Of
   Religious Studies?, Part 1 (Carl Raschke)

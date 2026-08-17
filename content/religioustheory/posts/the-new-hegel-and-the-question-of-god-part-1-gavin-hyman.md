@@ -1,7 +1,7 @@
 ---
 nanoid: "WDSTKy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kopg3ua2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edhm52m2e'
 title: 'The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)'
 description: "Among recent developments in continental philosophy and religious thought, one of the most prominent has been a ‘return to Hegel.’ It has been exemplified in"
 date: '2019-05-24T12:20:15.000Z'

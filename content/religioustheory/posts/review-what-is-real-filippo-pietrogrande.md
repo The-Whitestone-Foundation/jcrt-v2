@@ -1,7 +1,7 @@
 ---
 nanoid: "LZwupW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kol7jcj2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eddbqbo2f'
 title: Review -- What is Real? (Filippo Pietrogrande)
 description: "Giorgio Agamben. What is Real? Trans. Lorenzo Chiesa. Stanford: Stanford University Press, 2018. 88 pages. ISBN: 978-1-5036-0737-8"
 date: '2020-01-24T08:00:49.000Z'

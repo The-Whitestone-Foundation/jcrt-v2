@@ -1,7 +1,7 @@
 ---
 nanoid: "Vm1ofO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kqcsb672f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5ef3nab42e'
 title: "Beginning to Think"
 author: "Jeffrey W Robbins"
 affilation:

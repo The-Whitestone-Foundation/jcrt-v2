@@ -1,7 +1,7 @@
 ---
 nanoid: "eo2eBd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpogtix2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eegwqu62z'
 title: "Decolonizing Mass Incarceration: “Flesh Will Wear Out Chains”"
 author: "Mark Lewis Taylor"
 affilation:

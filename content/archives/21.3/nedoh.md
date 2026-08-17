@@ -1,7 +1,7 @@
 ---
 nanoid: "KRCoS1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kobnt2d2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5ecyuddg2f'
 title: "Undead"
 author: "Boštjan Nedoh"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "xyMZyj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpid7sx2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eear3mw2q'
 title: "Researching the Past to Write the Present: Archival Research, Civic Engagement, and Liberal Arts Advocacy."
 author: "Lydia E. Ferguson"
 affilation:

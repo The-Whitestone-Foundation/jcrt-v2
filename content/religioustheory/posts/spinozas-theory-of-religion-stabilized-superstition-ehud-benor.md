@@ -1,7 +1,7 @@
 ---
 nanoid: "bV7b2W"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kp7kggw2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edxwesg2u'
 title: Spinoza’s Theory of Religion – Stabilized Superstition (Ehud Benor)
 description: "The best interpretations of Spinoza’s philosophy would lead us to believe that, for Spinoza, religion is superstition. Henry Allison’s account is an excellent"
 date: '2017-01-13T22:59:35.000Z'

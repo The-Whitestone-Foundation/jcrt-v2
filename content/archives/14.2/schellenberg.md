@@ -1,7 +1,7 @@
 ---
 nanoid: "Ptxx-J"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpkod3b2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eed4noy25'
 title: "A Shallow Species in Deep Time: Modernism, Postmodernism, and Our Place in the Potential History of Inquiry."
 author: "J. L. Schellenberg"
 affilation:

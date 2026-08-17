@@ -1,7 +1,7 @@
 ---
 nanoid: "h2MMFb"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kptbdtd2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eelakzo2u'
 title: "Pauline Biopolitics"
 author: "Nichole E Miller"
 affilation:

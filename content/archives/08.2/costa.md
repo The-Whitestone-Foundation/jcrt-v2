@@ -1,7 +1,7 @@
 ---
 nanoid: "6Z4ohH"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kq7dqyy2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eexk6ta2g'
 title: "‘A Love as Strong as Death’: Reconstructing a Politics of Christian Love"
 author: "Mario Costa"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "Spik5y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpzhiqh2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eerl5go2z'
 title: "Indicative Culture"
 description: "Adam Katz explores the indicative sentence, authority, law, and counterinsurgency to argue that institutions must learn from situated habits and judgment."
 date: '2009-06-25'

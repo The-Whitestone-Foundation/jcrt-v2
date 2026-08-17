@@ -1,6 +1,6 @@
 ---
 nanoid: "uxsHGM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3krxltmz2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5egqulyq2g'
 name: Brian Shūdō Schroeder
 affiliation: "Rochester Institute of Technology"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "5gG8_d"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kp4eeoy2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edurt742e'
 title: >-
   Slow Journalism? Ethnography As A Means Of Understanding Religious Social
   Activism, Part 1 (James V. Spickard)

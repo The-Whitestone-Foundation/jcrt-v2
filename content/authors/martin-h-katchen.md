@@ -1,6 +1,6 @@
 ---
 nanoid: "LfcLA9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kr6hoab2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5efy6mpa2g'
 name: Martin H Katchen
 affiliation: "Los Angeles, California"
 bio:

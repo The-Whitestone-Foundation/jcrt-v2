@@ -1,6 +1,6 @@
 ---
 nanoid: "mTOl5J"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ks2nokh2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5egul24o2h'
 name: Ann M. Fox
 affiliation: "Davidson College"
 bio:

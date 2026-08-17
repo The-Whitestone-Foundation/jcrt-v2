@@ -1,7 +1,7 @@
 ---
 nanoid: "lfk69H"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3ko6mbyy2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5ecvow3x2i'
 title: "Binding Freedom: Embodiment of the Secular and Religious"
 author: "Kevin Hujing"
 affilation:

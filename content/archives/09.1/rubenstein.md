@@ -1,7 +1,7 @@
 ---
 nanoid: "gRu1kx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kq5o5al2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eevt6za25'
 title: "Of Ghosts and Angels: Derrida, Kushner, and the Impossibility of Forgiveness"
 author: "Mary-Jane Rubenstein"
 affilation:

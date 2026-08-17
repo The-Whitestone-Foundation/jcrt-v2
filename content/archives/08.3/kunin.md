@@ -1,7 +1,7 @@
 ---
 nanoid: "AVFuUg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kq7yqyi2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eey6suo2z'
 title: "Unfinished Business: a Response to the Symposium ‘the Merchant of Venice and Contemporary Theory’"
 author: "Aaron Kunin"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "mQqA7h"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3korcflm25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edjjrrr2p'
 title: "A Note on Pre-Positions: Methodology in the Continental Philosophy of Religion."
 author: "Lucas McCracken"
 affilation:

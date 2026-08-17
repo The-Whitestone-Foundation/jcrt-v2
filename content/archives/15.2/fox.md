@@ -1,7 +1,7 @@
 ---
 nanoid: "XfL-JO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpj2jpl2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eebilq62f'
 title: "Peeking Under the Veil: Niki De Saint Phalle’s the Bride and/as Feminist Disability Aesthetics."
 author: "Ann M. Fox"
 affilation:

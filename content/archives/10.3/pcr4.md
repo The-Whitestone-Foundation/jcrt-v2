@@ -1,7 +1,7 @@
 ---
 nanoid: "44Qb3A"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kpwqnez2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eeos4yo2h'
 title: "Postmodernism, Culture and Religion 4: The Future of Continental Philosophy of Religion"
 author: "John D. Caputo"
 affilation: Syracuse University

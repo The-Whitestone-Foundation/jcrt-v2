@@ -1,6 +1,6 @@
 ---
 nanoid: "sL68Qw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kqra4f32q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5efkm4d42p'
 name: Simon Clark
 affiliation: "Goldsmiths, University of London"
 bio:

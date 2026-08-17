@@ -1,7 +1,7 @@
 ---
 nanoid: "xd3JLz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kqjrett2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5efctyto2z'
 title: "Weak Theology"
 author: "Jeffrey W Robbins"
 affilation:

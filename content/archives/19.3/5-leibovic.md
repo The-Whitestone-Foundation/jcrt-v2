@@ -1,7 +1,7 @@
 ---
 nanoid: "6JBG7v"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt3kolu2hd2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eddwn6a25'
 title: "Benjamin: To the Rhythm of Theological Concepts"
 author: "Nitzan Lebovic"
 affilation:
