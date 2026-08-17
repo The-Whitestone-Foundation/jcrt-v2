@@ -1,6 +1,6 @@
 ---
 nanoid: "TTA8aU"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav2oqrfk2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdnvcht2i'
 name: Anna Westin
 affiliation:
 bio:

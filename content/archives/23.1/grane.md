@@ -1,7 +1,7 @@
 ---
 nanoid: "GHs_oJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauxpzw4q2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwaof2lz2z'
 title: "Religious Sacrificial Sympathy: How Man Became More Valuable Than Beast."
 author: "Kevin S. Grane"
 affilation:

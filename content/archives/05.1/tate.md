@@ -1,7 +1,7 @@
 ---
 nanoid: "eeuL7h"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauzljaet2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwckjtd625'
 title: "Tragic Thoughts at the End of Philosophy: Language, Literature and Ethical Theory"
 author: "Daniel L Tate"
 affilation:

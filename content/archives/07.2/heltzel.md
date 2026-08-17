@@ -1,7 +1,7 @@
 ---
 nanoid: "XVIR8d"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauzfy3jd2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcepkjj2q'
 title: "The Weakness of God: a Theology of the Event"
 author: "Peter Heltzel"
 affilation:

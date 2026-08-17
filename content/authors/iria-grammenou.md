@@ -1,6 +1,6 @@
 ---
 nanoid: "qrI-qb"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav2dudx42n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdcv3sw2u'
 name: Iria Grammenou
 affiliation: "National and Kapodistrian University of Athens"
 bio:
