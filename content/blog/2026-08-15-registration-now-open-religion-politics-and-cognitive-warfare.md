@@ -17,7 +17,7 @@ redirect_from: /cw-registration/
 ---
 ## Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality
 
-<p style="text-align:center; margin: 2rem 0;"><a href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#0d6efd; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(13,110,253,0.25);">Register Now</a></p>
+<p style="text-align:center; margin: 2rem 0;"><a class="btn btn-primary btn-lg rounded-pill" href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#B42318; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(180,35,24,0.25);">Register Now</a></p>
 
 ### Details
 - **When:** October 1-3, 2026
@@ -41,7 +41,7 @@ The talk will trace the emergence of these conceptions of the mind to a Cold War
 
 *[Jason Ānanda Josephson Storm](https://religion.williams.edu/faculty/jason-josephson/) is the Francis Christopher Oakley Third Century Professor of Religion, Chair of Science & Technology Studies at Williams College and author of* [The Genealogy of Genealogy: Nietzsche, Foucault, and the Coils of Critical History](https://press.uchicago.edu/ucp/books/book/chicago/G/bo265446241.html) *and* [Metamodernism: The Future of Theory](https://amzn.to/36LNa2q).
 
-<p style="text-align:center; margin: 2.5rem 0 1rem;"><a href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#0d6efd; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(13,110,253,0.25);">Register Now</a></p>
+<p style="text-align:center; margin: 2.5rem 0 1rem;"><a class="btn btn-primary btn-lg rounded-pill" href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#B42318; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(180,35,24,0.25);">Register Now</a></p>
 
 The conference will be held online from October 1-3, 2026. Registration is free and open to interested participants. We look forward to gathering scholars, students, and interested readers to explore how religion, politics, and cognitive warfare shape the struggle for truth, authority, and reality in our contemporary world.
 
