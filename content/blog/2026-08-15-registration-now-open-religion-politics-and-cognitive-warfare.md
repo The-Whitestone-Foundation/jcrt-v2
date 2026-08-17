@@ -14,6 +14,7 @@ tags:
   - religion-politics
 author: editors_religioustheory
 toc: false
+redirect_from: /cw-registration/
 ---
 ## Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality
 
