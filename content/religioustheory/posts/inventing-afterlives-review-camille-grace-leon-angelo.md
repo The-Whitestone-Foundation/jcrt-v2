@@ -1,7 +1,7 @@
 ---
 nanoid: "nyNFm4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edlrbra2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauycx5d623'
 title: Inventing Afterlives – Review (Camille Grace Leon Angelo)
 description: "Janes, Regina M. Inventing Afterlives: The Stories We Tell Ourselves About Life After Death. New York, NY: Columbia University Press, 2018. 384 pages 384 pages."
 date: '2018-10-22T13:31:58.000Z'

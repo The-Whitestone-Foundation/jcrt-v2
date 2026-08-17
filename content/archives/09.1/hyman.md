@@ -1,7 +1,7 @@
 ---
 nanoid: "2unQ0B"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eewfeyo2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauzcfu4p2q'
 title: "Augustine on the ‘Nihil’: an Interrogation"
 author: "Gavin Hyman"
 affilation:

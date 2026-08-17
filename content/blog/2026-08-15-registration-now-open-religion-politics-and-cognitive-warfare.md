@@ -1,5 +1,6 @@
 ---
 nanoid: "Q8r7cX"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauxl7udf2g'
 layout: blog.njk
 title: "Registration Now Open: Religion, Politics, and Cognitive Warfare"
 description: "Registration is now open for the online JCRT conference Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality, taking place October 1-3, 2026."
@@ -14,7 +15,6 @@ tags:
 author: editors_religioustheory
 toc: false
 ---
-
 ## Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality
 
 <p style="text-align:center; margin: 2rem 0;"><a href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#0d6efd; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(13,110,253,0.25);">Register Now</a></p>

@@ -1,6 +1,6 @@
 ---
 nanoid: "oUEkwT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5egvfazj2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav2pklht25'
 name: Andrea Sun-Mee Jones
 affiliation: "Princeton University, Syracuse Univer sity"
 bio:

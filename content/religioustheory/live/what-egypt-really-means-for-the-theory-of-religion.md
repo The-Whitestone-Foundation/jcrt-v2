@@ -1,6 +1,6 @@
 ---
 nanoid: "ayIQRX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eelsjao2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauz2o6eq2q'
 title: "What Egypt Really Means for the Theory of Religion"
 description: "Carl A. Raschke interprets Egypt's 2011 uprising through May 1968, youth politics, Derrida, and a universalist religion without renewed religiosity in public."
 date: '2011-02-12'

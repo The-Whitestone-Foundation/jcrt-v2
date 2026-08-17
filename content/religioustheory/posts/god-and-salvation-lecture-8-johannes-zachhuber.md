@@ -1,7 +1,7 @@
 ---
 nanoid: "ooBabQ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edi3znx2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauyacf7q2u'
 title: 'God And Salvation, Lecture 8 (Johannes Zachhuber)'
 description: "This is the eighth lecture in an eight-lecture series. The most recent lecture can be found here. The paper these lectures support is entitled “God, Christ, and"
 date: '2019-04-17T02:32:33.000Z'

@@ -1,7 +1,7 @@
 ---
 nanoid: "ExUYPC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5edvwwk42p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauykiwpd2p'
 title: Religious Autonomy As Secularism’s Silent Partner (Darshan Datar)
 description: "Scholarship has noted that the genealogical trajectory of a state has consistently had an impact on the evolution of state-church relationships It highlights"
 date: '2017-05-31T04:39:51.000Z'

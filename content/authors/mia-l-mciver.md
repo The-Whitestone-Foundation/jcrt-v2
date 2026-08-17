@@ -1,6 +1,6 @@
 ---
 nanoid: "WWn4Z5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5efwneg62z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauzzsi4j2p'
 name: Mia L McIver
 affiliation:
 bio:

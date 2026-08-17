@@ -1,7 +1,7 @@
 ---
 nanoid: "S8-D3q"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eewcuw62u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauzcdyhz2z'
 title: "Kierkegaard and Socrates: a Study in Philosophy and Faith"
 author: "Apple Zefelius Igrek"
 affilation:

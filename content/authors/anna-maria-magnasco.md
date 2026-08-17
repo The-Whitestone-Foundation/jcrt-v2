@@ -1,6 +1,6 @@
 ---
 nanoid: "339niZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5egud54a2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav2osmul25'
 name: Anna-Maria Magnasco
 affiliation:
 bio:

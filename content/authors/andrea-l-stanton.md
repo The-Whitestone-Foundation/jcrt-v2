@@ -1,6 +1,6 @@
 ---
 nanoid: "_uwkF8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5egvhvuo2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav2pmi4k2i'
 name: Andrea L. Stanton
 affiliation: "University of Denver"
 bio:

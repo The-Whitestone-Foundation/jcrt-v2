@@ -1,6 +1,6 @@
 ---
 nanoid: "kY6bMJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eeskjil2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtauz7mlqa2h'
 title: "Multiplying Homonyms"
 description: "Artur Sebastian Rosman uses homonymy to assess a JCRT debate between Clayton Crockett and Agata Bielik-Robson over theology and the postmodern sublime."
 date: '2008-11-20'

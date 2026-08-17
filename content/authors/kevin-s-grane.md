@@ -1,6 +1,6 @@
 ---
 nanoid: "V0HWgr"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mt5eg45k4w2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtav25ssoi2h'
 name: Kevin S. Grane
 affiliation:
 bio:
