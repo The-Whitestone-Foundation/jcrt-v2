@@ -811,6 +811,27 @@ h1.navbar-brand a:focus .text-secondary,
     text-align: center;
 }
 
+/* Secondary button (e.g. book review guidelines on /submissions/) */
+.btn-secondary,
+a.btn-secondary {
+    --bs-btn-bg: #DDDDDD;
+    --bs-btn-border-color: #DDDDDD;
+    --bs-btn-color: #ffffff;
+    --bs-btn-hover-bg: #DDDDDD;
+    --bs-btn-hover-border-color: #DDDDDD;
+    --bs-btn-hover-color: #ffffff;
+    --bs-btn-active-bg: #DDDDDD;
+    --bs-btn-active-border-color: #DDDDDD;
+    --bs-btn-active-color: #ffffff;
+    --bs-btn-disabled-bg: #DDDDDD;
+    --bs-btn-disabled-border-color: #DDDDDD;
+    --bs-btn-disabled-color: #ffffff;
+    background-color: #DDDDDD;
+    border-color: #DDDDDD;
+    color: #ffffff;
+}
+
+
 .reading-article {
     width: 100%;
 }
