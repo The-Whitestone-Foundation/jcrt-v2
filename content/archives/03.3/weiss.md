@@ -59,7 +59,7 @@ Weiss - Review of In Our Image - JCRT 3.3
 
 ## In Our Image
 
-a review of Noreen Herzfeld, _[In Our Image: Artificial Intelligence and the Human Spirit](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0800634764&bfmtype=book)_. Fortress Press, 2002. 135 pp. $16.00. ISBN: 0800634764
+a review of Noreen Herzfeld, _[In Our Image: Artificial Intelligence and the Human Spirit](https://www.fortresspress.com/store/product/9780800634766/In-Our-Image-Artificial-Intelligence-and-the-Human-Spirit)_. Fortress Press, 2002. 135 pp. $16.00. ISBN: 0800634764
 
 Dennis Weiss  
 York College of Pennsylvania
