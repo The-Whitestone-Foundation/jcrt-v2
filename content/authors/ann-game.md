@@ -1,6 +1,6 @@
 ---
 nanoid: "Bhe4ek"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdo6t5p2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdih7oz2e'
 name: Ann Game
 affiliation: "University of New South Wales"
 bio:

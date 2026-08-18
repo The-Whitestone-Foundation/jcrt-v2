@@ -1,6 +1,6 @@
 ---
 nanoid: "iDDp0J"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcvnv3w2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehct722v2n'
 name: Noëlle Vahanian
 affiliation: "Lebanon Valley College, LeMoyne College "
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "9g4mjt"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdn4asw2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdhk4ws2h'
 name: Ashley Graham
 affiliation: "Emory University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "sKFuD8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcng2kb2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehclnkjj2f'
 name: Tom Eagle
 affiliation:
 bio:

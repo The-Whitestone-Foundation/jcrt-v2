@@ -1,7 +1,7 @@
 ---
 nanoid: "Ocp5u1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwat23dp2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehb2o77s2h'
 title: >-
   Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings
   Of Heidegger’s “Geist”, Part 3 (Jake Sirota)

@@ -1,6 +1,6 @@
 ---
 nanoid: "XKFi0t"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdgnpdh2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdc3a6z25'
 name: Eddo Evink
 affiliation:
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "4ABJt8"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwckpm5h2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcjgyju2p'
 title: "Cities of God"
 author: "B Keith Putt"
 affilation:

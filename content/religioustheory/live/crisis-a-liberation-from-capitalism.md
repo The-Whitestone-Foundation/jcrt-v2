@@ -1,6 +1,6 @@
 ---
 nanoid: "B60Zc8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwc6ny5x2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehc7ghu42s'
 title: "Crisis: A Liberation from Capitalism?"
 description: "Creston Davis interprets the 2008 financial collapse through Hegel and Badiou, arguing that crisis exposes labor's power and capitalism's hidden dependence."
 date: '2008-10-04'

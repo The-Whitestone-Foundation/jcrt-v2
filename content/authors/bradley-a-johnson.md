@@ -1,6 +1,6 @@
 ---
 nanoid: "6luf4V"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdm4lxc2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdgq6zh2q'
 name: Bradley A Johnson
 affiliation: "University of Glasgow"
 bio:

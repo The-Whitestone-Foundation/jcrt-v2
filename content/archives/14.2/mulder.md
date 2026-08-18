@@ -1,7 +1,7 @@
 ---
 nanoid: "Wh4iZl"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwbsdl332i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehbvcwef2n'
 title: "Knowledge, Virtue, and Ontotheology: a Kierkegaardian (Self-)Critique."
 author: "Jack Mulder Jr."
 affilation:

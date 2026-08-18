@@ -1,6 +1,6 @@
 ---
 nanoid: "8-jWbN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdpr2ho25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdjejye2p'
 name: Almut-Barbara Renger
 affiliation: "Freie Universität Berlin"
 bio:

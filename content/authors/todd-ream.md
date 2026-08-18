@@ -1,6 +1,6 @@
 ---
 nanoid: "jY82qL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcnhz3i2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcloyfw2q'
 name: Todd Ream
 affiliation: "Baylor University"
 bio:

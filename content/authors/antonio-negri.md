@@ -1,6 +1,6 @@
 ---
 nanoid: "n8pKHq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdnlnv62n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdhwz2c2h'
 name: Antonio Negri
 affiliation:
 bio:
