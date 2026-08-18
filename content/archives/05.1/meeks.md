@@ -1,7 +1,7 @@
 ---
 nanoid: "V759AM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwckrmiq23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcjimcz25'
 title: "In the Wake of Edward Said"
 author: "John L Meeks"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "PFVVk2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdlpc6c2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdgeitk2h'
 name: Brooke Schedneck
 affiliation: "Chiangmai University, Thailand"
 bio:

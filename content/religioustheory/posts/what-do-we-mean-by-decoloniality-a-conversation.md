@@ -1,7 +1,7 @@
 ---
 nanoid: "jEcduc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwax7isk2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehb5yoi52n'
 title: 'What Do We Mean By “Decoloniality”? A Discussion, Part 1'
 description: "Part 1 records a keynote discussion defining decoloniality, foregrounding coloniality's persistence, divergent methods, and disputes over politics, knowledge"
 date: '2021-04-26T17:02:02.000Z'

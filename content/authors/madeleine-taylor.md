@@ -1,6 +1,6 @@
 ---
 nanoid: "w17MOv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwd3cef32i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcxyl7x2q'
 name: Madeleine Taylor
 affiliation: "Binghamton University"
 bio:

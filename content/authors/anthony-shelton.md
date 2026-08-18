@@ -1,6 +1,6 @@
 ---
 nanoid: "f4NwMC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdnnljh2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdhynqn2i'
 name: Anthony Shelton
 affiliation: "Princeton Theological Seminary, John Carroll School "
 bio:

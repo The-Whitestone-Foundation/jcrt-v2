@@ -1,6 +1,6 @@
 ---
 nanoid: "WLuX96"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdj7rgp2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehde7pqv2n'
 name: Daniel E Rossi Keen
 affiliation: "Ohio University"
 bio:

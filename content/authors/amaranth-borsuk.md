@@ -1,6 +1,6 @@
 ---
 nanoid: "0_akCd"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwdpn7ky23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdjbem52n'
 name: Amaranth Borsuk
 affiliation: "University of Southern California"
 bio:

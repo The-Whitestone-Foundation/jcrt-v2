@@ -1,6 +1,6 @@
 ---
 nanoid: "JRIGZG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwd5mqb72q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehd22gko2q'
 name: Karey Harwood
 affiliation: "North Carolina State University"
 bio:

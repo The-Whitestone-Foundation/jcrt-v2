@@ -1,6 +1,6 @@
 ---
 nanoid: "t6hJZg"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcvrj2o2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehctc7mz2e'
 name: Noel Boulting
 affiliation:
 bio:

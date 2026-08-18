@@ -1,7 +1,7 @@
 ---
 nanoid: "0rtR_p"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcejvow2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcec7y42u'
 title: "The Sexual Politics of Pain: Hannah Arendt Meets Shakespeare’s Shrew"
 author: "Nichole E Miller"
 affilation:

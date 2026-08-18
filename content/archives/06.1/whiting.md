@@ -1,7 +1,7 @@
 ---
 nanoid: "Uwezuw"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwchq7bl2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcgzwvv2p'
 title: "The American Spiritual Culture and the Invention of Jazz, Football, and the Movies"
 author: "Jenifer Whiting"
 affilation:

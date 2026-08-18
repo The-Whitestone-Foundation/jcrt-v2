@@ -1,6 +1,6 @@
 ---
 nanoid: "BtlDuj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtbwcwmcqp2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehctykcz25'
 name: Neal Deroo
 affiliation: "The King’s University"
 bio:
