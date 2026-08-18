@@ -1,7 +1,7 @@
 ---
 nanoid: "SSgFut"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehauetuc2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74s2zld2e'
 title: Greening America’s Virtues (Nick Mather)
 description: "The United States likes to present itself as a global leader, yet, when it comes to tackling what is arguably the greatest crisis facing humanity, global"
 date: '2024-10-02T11:59:01.000Z'

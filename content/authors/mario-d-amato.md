@@ -1,6 +1,6 @@
 ---
 nanoid: "GI2ucw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehcx4oce2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77mo3yf2z'
 name: Mario D'Amato
 affiliation: "Rollins College"
 bio:

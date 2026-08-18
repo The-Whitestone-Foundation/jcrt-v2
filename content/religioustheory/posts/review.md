@@ -1,7 +1,7 @@
 ---
 nanoid: "H8CrpI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehbnp4lz2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75ts4kj2u'
 title: Review – Theologies of the Boss (James Cochran)
 description: "*Yadin-Israel, Azzan. The Grace of God and the Grace of Man: The Theologies of Bruce Springsteen. Highland Park: Lingua Press, 2016. ISBN-10: 0692718516"
 date: '2017-03-02T08:00:29.000Z'
