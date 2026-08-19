@@ -1,7 +1,7 @@
 ---
 nanoid: "tPz5hB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75cks7v2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcaoyc42q'
 title: 'The Hollow Christians Of End Times Fiction, Part 1 (Paul Maltby)'
 description: "A flaw at the heart of End Times fiction gravely weakens its credibility as Christian literature. Its stock characters lack the degree of interiority required"
 date: '2020-02-18T04:18:55.000Z'

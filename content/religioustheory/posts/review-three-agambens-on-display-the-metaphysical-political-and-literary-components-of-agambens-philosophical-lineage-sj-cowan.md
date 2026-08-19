@@ -1,7 +1,7 @@
 ---
 nanoid: "a9ULhI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75mlycb2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcmbim32z'
 title: Review – Three Agambens on Display (S.J. Cowan)
 description: "Agamben’s Philosophical Lineage. Edited by Adam Kotsko and Carlo Salzani. Edinburgh: Edinburgh University Press, 2017. ISBN-10: 1474423647 ISBN-10: 1474423647."
 date: '2018-02-06T16:13:34.000Z'

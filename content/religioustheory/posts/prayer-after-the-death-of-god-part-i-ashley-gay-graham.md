@@ -1,7 +1,7 @@
 ---
 nanoid: "2IryRN"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75mjpdd2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcm6wn52h'
 title: 'Prayer After The Death Of God, Part I (Ashley [Gay] Graham)'
 description: "> Metaphysics is onto-theo-logy. Someone who has experienced theology in his own roots, both the theology of the Christian faith and that of philosophy, would"
 date: '2018-02-11T20:01:30.000Z'

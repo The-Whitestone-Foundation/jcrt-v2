@@ -1,6 +1,6 @@
 ---
 nanoid: "PfP97t"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77m45ql2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrev4eg42g'
 name: Markus Weidler
 affiliation: "COLUMBUS STATE UNIVERSITY"
 bio:

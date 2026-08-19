@@ -1,6 +1,6 @@
 ---
 nanoid: "LBLwg5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf7afheq32g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfs37lu2g'
 name: Andrew J. Ball
 affiliation: "Harvard University"
 bio:
