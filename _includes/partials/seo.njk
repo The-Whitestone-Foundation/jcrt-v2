@@ -1,4 +1,10 @@
 {% set pageUrl = page.url | default("", true) %}
+{% set pageParts = pageUrl.split("/") %}
+{% set isArchivesArticlePage = (pageParts | length) == 5 and pageParts[1] == "archives" and pageParts[2] and pageParts[3] and pageParts[2] != "keywords" and pageParts[2] != "page" %}
+{% set isTheoryArticlePage = (pageParts | length) == 5 and pageParts[1] == "religioustheory" and pageParts[2] in ["posts", "live"] and pageParts[3] and pageParts[3] != "page" %}
+{% set isAcademic = isArchivesArticlePage %}
+{% set isBlogHome = pageUrl in ["/blog/", "/religioustheory/", "/religioustheory/posts/"] %}
+{% set isBlogPost = isTheoryArticlePage or ("/blog/" in pageUrl and (not isBlogHome)) %}
 {% set defaultAuthor = "Religious Theory Editors" if "/religioustheory/" in pageUrl else "JCRT Editors" %}
 {% set authorCandidate = author or authors or pg.authorName or post.authorName or metadata.site.author or defaultAuthor %}
 {% set authorName = authorCandidate %}
@@ -83,8 +89,18 @@
 <meta content="{{ metadata.metasocial.facebook }}" property="facebook:author" />
 <meta content="{{ metadata.metasocial.twitteruser }}" property="twitter:author" />
 <meta property="dc:creator" content="{{ authorName }}" />
+{% for aName in (authorName | splitAuthors) %}
+<meta name="author" content="{{ aName }}" />
+{% endfor %}
+{% if isArchivesArticlePage or isBlogPost %}
+{% for aName in (authorName | splitAuthors) %}
+<meta property="article:author" content="{{ aName }}" />
+{% endfor %}
+<meta property="article:published_time" content="{{ publishedDate }}" />
+<meta property="article:modified_time" content="{{ modifiedDate }}" />
+{% endif %}
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="{{ "article" if (isArchivesArticlePage or isBlogPost) else "website" }}" />
 <meta content="{{ robotsDirective }}" name="robots">
 <link rel="canonical" href="{{ canonicalUrl }}" />
 {% set standardSiteEnabled = metadata.standard_site and metadata.standard_site.enabled %}
@@ -140,12 +156,6 @@
 </noscript>
 <style>{% getBundle "css" %}</style>
 
-{% set pageParts = pageUrl.split("/") %}
-{% set isArchivesArticlePage = (pageParts | length) == 5 and pageParts[1] == "archives" and pageParts[2] and pageParts[3] and pageParts[2] != "keywords" and pageParts[2] != "page" %}
-{% set isTheoryArticlePage = (pageParts | length) == 5 and pageParts[1] == "religioustheory" and pageParts[2] in ["posts", "live"] and pageParts[3] and pageParts[3] != "page" %}
-{% set isAcademic = isArchivesArticlePage %}
-{% set isBlogHome = pageUrl in ["/blog/", "/religioustheory/", "/religioustheory/posts/"] %}
-{% set isBlogPost = isTheoryArticlePage or ("/blog/" in pageUrl and (not isBlogHome)) %}
 {% set pageSchemaType = "ScholarlyArticle" if isArchivesArticlePage else ("Blog" if isBlogHome else ("BlogPosting" if isBlogPost else "WebPage")) %}
 {% set schemaAuthors = authorName | splitAuthors %}
 {% set citationPublicationDate = publishedDate.split("T")[0] if publishedDate else "" %}
@@ -182,6 +192,8 @@
   <meta name="citation_journal_title" content="The Journal for Cultural and Religious Theory" />
   <meta name="citation_issn" content="1530-5228" />
   <meta name="citation_publication_date" content="{{ citationPublicationDate or publishedDate }}" />
+  <meta name="citation_date" content="{{ citationPublicationDate or publishedDate }}" />
+  {% if doi %}<meta name="citation_doi" content="{{ doi }}" />{% endif %}
   <meta name="citation_fulltext_html_url" content="{{ canonicalUrl }}" />
   {% if volume %}<meta name="citation_volume" content="{{ volume }}" />{% endif %}
   {% if issue %}<meta name="citation_issue" content="{{ issue }}" />{% endif %}
@@ -220,13 +232,17 @@
   <meta property="dc:date" content="{{ citationPublicationDate or publishedDate }}" />
   <meta property="dc:language" content="{{ metadata.language }}" />
   <meta property="dc:identifier" content="{{ canonicalUrl }}" />
+  {% if doi %}<meta property="dc:identifier" content="doi:{{ doi }}" />{% endif %}
   <meta property="dc:source" content="{{ blogPublicationName }}" />
   {% if pageDesc %}<meta property="dc:description" content="{{ pageDesc }}" />{% endif %}
   {% for aName in schemaAuthors %}
   <meta property="dc:creator" content="{{ aName }}" />
   <meta name="citation_author" content="{{ aName }}" />
   {% endfor %}
+  <meta name="citation_title" content="{{ pageTitle }}" />
   <meta name="citation_publication_date" content="{{ citationPublicationDate or publishedDate }}" />
+  <meta name="citation_date" content="{{ citationPublicationDate or publishedDate }}" />
+  <meta name="citation_fulltext_html_url" content="{{ canonicalUrl }}" />
   <meta name="citation_public_url" content="{{ canonicalUrl }}" />
   <meta name="citation_language" content="{{ metadata.language }}" />
   {% if doi %}<meta name="citation_doi" content="{{ doi }}" />{% endif %}
