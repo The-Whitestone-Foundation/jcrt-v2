@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T06:54:07.554Z",
+  "generatedAt": "2026-08-19T16:39:43.299Z",
   "baseURL": "https://jcrt.org/sitemaps/oai_dc.xml",
   "metadataPrefix": "oai_dc",
   "repositoryName": "Victor Taylor",
@@ -34347,11 +34347,51 @@
       "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
     },
     {
+      "identifier": "oai:jcrt.org:religioustheory:9780593493205",
+      "datestamp": "2026-08-18",
+      "title": "BOOK REVIEW: YASCHA MOUNK, THE IDENTITY TRAP: A STORY OF IDEAS AND POWER IN OUR TIME.",
+      "creators": [
+        "Kevin S. Grane"
+      ],
+      "subjects": [
+        "Book-Review",
+        "Reviews",
+        "Critical Race Theory",
+        "Political Theory",
+        "Political Philosophy",
+        "identity",
+        "liberalism",
+        "universalism",
+        "democracy",
+        "politics",
+        "Critical race theory",
+        "Democracy",
+        "Identity (Philosophical concept)",
+        "Liberalism",
+        "Multiculturalism"
+      ],
+      "description": "Kevin Grane reviews Yascha Mounk’s The Identity Trap, whose sharpest contribution is showing how the identity synthesis undercuts its own egalitarian aims.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-18",
+      "type": "article",
+      "format": "text/html",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://jcrt.org/religioustheory/posts/9780593493205/"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228"
+      ],
+      "relations": [],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
       "identifier": "oai:jcrt.org:religioustheory:a-preface-to-the-genealogy-of-neoliberalism-part-1-carl-raschke",
       "datestamp": "2016-08-22",
       "title": "A Preface To The Genealogy of Neoliberalism, Part 1 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Political Theology",
@@ -34385,7 +34425,7 @@
       "datestamp": "2016-08-29",
       "title": "A Preface To The Genealogy of Neoliberalism, Part 2 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Political Theology",
@@ -34419,7 +34459,7 @@
       "datestamp": "2022-10-15",
       "title": "A Tainted Trophy And The Framing Of White Supremacy In America, Part 1 (Tink Tinker)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -34454,7 +34494,7 @@
       "datestamp": "2022-10-31",
       "title": "A Tainted Trophy And The Framing Of White Supremacy In America, Part 2 (Tink Tinker)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -34489,7 +34529,7 @@
       "datestamp": "2022-11-10",
       "title": "A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (Tink Tinker)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -34523,7 +34563,7 @@
       "datestamp": "2018-04-09",
       "title": "Admitting A Certain Fear of Zizek’s Theology – A Modest Plea For A Deleuzian Reading Of The Death Of God (Elijah Prewitt-Davis)",
       "creators": [
-        "editors"
+        "Elijah Prewitt-Davis"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -34597,7 +34637,7 @@
       "datestamp": "2020-10-19",
       "title": "Antinomian Flesh, Part 1 (David Kline)",
       "creators": [
-        "editors"
+        "David Kline"
       ],
       "subjects": [
         "Religion and Race",
@@ -34629,7 +34669,7 @@
       "datestamp": "2020-10-26",
       "title": "Antinomian Flesh, Part 2 (David Kline)",
       "creators": [
-        "editors"
+        "David Kline"
       ],
       "subjects": [
         "Religion and Race",
@@ -34661,7 +34701,7 @@
       "datestamp": "2020-11-09",
       "title": "Antinomian Flesh, Part 3 (David Kline)",
       "creators": [
-        "editors"
+        "David Kline"
       ],
       "subjects": [
         "Religion and Race",
@@ -34695,7 +34735,7 @@
       "datestamp": "2016-08-15",
       "title": "Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part 2 (Ronald Beiner)",
       "creators": [
-        "editors"
+        "Ronald Beiner"
       ],
       "subjects": [
         "Political Theology",
@@ -34731,7 +34771,7 @@
       "datestamp": "2016-08-08",
       "title": "Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part 1 (Ronald Beiner)",
       "creators": [
-        "editors"
+        "Ronald Beiner"
       ],
       "subjects": [
         "Political Theology",
@@ -34769,7 +34809,7 @@
       "datestamp": "2018-06-19",
       "title": "Beyond Religious Ideas – The Legacy Of Max Weber In Critical Theory And Critical Religion (Joel Harrison)",
       "creators": [
-        "editors"
+        "Joel Harrison"
       ],
       "subjects": [
         "Critical Theory",
@@ -34807,7 +34847,7 @@
       "datestamp": "2016-05-27",
       "title": "Biopolitics and Vajrayana Buddhism, Part 1 (Padraic Fitzgerald)",
       "creators": [
-        "editors"
+        "Padraic Fitzgerald"
       ],
       "subjects": [
         "Political Theology",
@@ -34844,7 +34884,7 @@
       "datestamp": "2016-06-08",
       "title": "Biopolitics and Vajrayana Buddhism, Part 2 (Padraic Fitzgerald)",
       "creators": [
-        "editors"
+        "Padraic Fitzgerald"
       ],
       "subjects": [
         "Political Theology",
@@ -34878,7 +34918,7 @@
       "datestamp": "2016-06-21",
       "title": "Biopolitics and Vajrayana Buddhism, Part 3 (Padraic Fitzgerald)",
       "creators": [
-        "editors"
+        "Padraic Fitzgerald"
       ],
       "subjects": [
         "Political Theology",
@@ -34915,7 +34955,7 @@
       "datestamp": "2023-04-24",
       "title": "Body Erotic –  John Boswell’s History Of Eurochristian Sexuality And The Case For Transcendental Somatics, Part 1 (Kieryn Wurts)",
       "creators": [
-        "editors"
+        "Kieryn E. Wurts"
       ],
       "subjects": [
         "Gender Studies",
@@ -34949,7 +34989,7 @@
       "datestamp": "2023-05-08",
       "title": "Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case For Transcendental Somatics, Part 2 (Kieryn Wurts)",
       "creators": [
-        "editors"
+        "Kieryn E. Wurts"
       ],
       "subjects": [
         "Gender Studies",
@@ -34983,7 +35023,7 @@
       "datestamp": "2023-05-22",
       "title": "Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case For Transcendental Somatics, Part 3 (Kieryn Wurts)",
       "creators": [
-        "editors"
+        "Kieryn E. Wurts"
       ],
       "subjects": [
         "Gender Studies",
@@ -35016,7 +35056,7 @@
       "datestamp": "2020-08-10",
       "title": "Bushwhacking Derrida – “Perception” – “Context of Context”, “The Hunter And The Hunted” (Gary Bedford)",
       "creators": [
-        "editors"
+        "Gary Bedford"
       ],
       "subjects": [
         "Philosophy",
@@ -35125,7 +35165,7 @@
       "datestamp": "2019-09-13",
       "title": "Christianity As A New Humanism – Historical, Theological, And Philosophical Reflections On The Bible, Hegel, And Robert Musil, Part 4 (Kurt Appel)",
       "creators": [
-        "editors"
+        "Kurt Appel"
       ],
       "subjects": [
         "historical",
@@ -35153,7 +35193,7 @@
       "datestamp": "2016-10-10",
       "title": "Collective Desire and the Pathology of the Individual, Part 1 (Jodi Dean)",
       "creators": [
-        "editors"
+        "Jodi Dean"
       ],
       "subjects": [
         "Critical Theory",
@@ -35190,7 +35230,7 @@
       "datestamp": "2016-10-19",
       "title": "Collective Desire and the Pathology of the Individual, Part 2 (Jodi Dean)",
       "creators": [
-        "editors"
+        "Jodi Dean"
       ],
       "subjects": [
         "Critical Theory",
@@ -35562,7 +35602,8 @@
       "datestamp": "2021-01-22",
       "title": "Critical Conversations  – American Indian Worldview And The Twinned Cosmos Of Indigenous America  (Barbara Alice Mann, Onondawaga, Bear Clan And Tink Tinker, Wazhazhe, Osage Nation, Eagle Clan)",
       "creators": [
-        "editors"
+        "Barbara Alice Mann",
+        "Tink Tinker"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -35675,7 +35716,7 @@
       "datestamp": "2019-03-21",
       "title": "“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human Skin, Part 2 (Tink Tinker, wazhazhe udsethe)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Native American Religions",
@@ -35706,7 +35747,7 @@
       "datestamp": "2019-03-26",
       "title": "“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human Skin, Part 3 (Tink Tinker, wazhazhe udsethe)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Native American Religions",
@@ -35738,7 +35779,7 @@
       "datestamp": "2019-03-14",
       "title": "“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human Skin (Tink Tinker, wazhazhe udsethe), Part 1",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Native American Religions",
@@ -35959,7 +36000,7 @@
       "datestamp": "2016-11-07",
       "title": "Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation, Part 1 (Alan Jay Richard)",
       "creators": [
-        "editors"
+        "Alan Jay Richard"
       ],
       "subjects": [
         "Theology",
@@ -35995,7 +36036,7 @@
       "datestamp": "2016-11-21",
       "title": "Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation, Part 2 (Alan Jay Richard)",
       "creators": [
-        "editors"
+        "Alan Jay Richard"
       ],
       "subjects": [
         "Theology",
@@ -36029,7 +36070,7 @@
       "datestamp": "2016-11-29",
       "title": "Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation, Part 3 (Alan Jay Richard)",
       "creators": [
-        "editors"
+        "Alan Jay Richard"
       ],
       "subjects": [
         "Theology",
@@ -36068,7 +36109,8 @@
       "datestamp": "2021-05-31",
       "title": "Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchild And Devin Singh)",
       "creators": [
-        "editors"
+        "Philip Goodchild",
+        "Devin Singh"
       ],
       "subjects": [
         "Political Theology",
@@ -36138,7 +36180,7 @@
       "datestamp": "2021-10-12",
       "title": "Entheogens, Spirituality, And Modern Myths, Part 2 (John Cuda)",
       "creators": [
-        "editors"
+        "John Cuda"
       ],
       "subjects": [
         "New Religions",
@@ -36174,7 +36216,7 @@
       "datestamp": "2021-10-21",
       "title": "Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)",
       "creators": [
-        "editors"
+        "John Cuda"
       ],
       "subjects": [
         "New Religions",
@@ -36210,7 +36252,7 @@
       "datestamp": "2021-10-04",
       "title": "Entheogens, Spirituality, And Modern Myths, Part 1 (John Cuda)",
       "creators": [
-        "editors"
+        "John Cuda"
       ],
       "subjects": [
         "New Religions",
@@ -36317,7 +36359,7 @@
       "datestamp": "2019-07-08",
       "title": "Fetishism And The Erasure Of Identity, Part 1 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -36353,7 +36395,7 @@
       "datestamp": "2019-07-16",
       "title": "Fetishism And The Erasure Of Identity, Part 2 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -36390,7 +36432,7 @@
       "datestamp": "2016-05-31",
       "title": "Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 1 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Political Theology",
@@ -36426,7 +36468,7 @@
       "datestamp": "2016-06-17",
       "title": "Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 2 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Political Theology",
@@ -36460,7 +36502,7 @@
       "datestamp": "2016-06-26",
       "title": "Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 3 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Political Theology",
@@ -36498,7 +36540,7 @@
       "datestamp": "2017-04-11",
       "title": "Forging A Path From Theory To Theology – Review Essay (Matt Waggoner)",
       "creators": [
-        "editors"
+        "Matt Waggoner"
       ],
       "subjects": [
         "Reviews",
@@ -36531,7 +36573,7 @@
       "datestamp": "2017-03-10",
       "title": "Foucault’s Disciplinary Society And The Community Rule Of Qumran (Rebekah Gordon)",
       "creators": [
-        "editors"
+        "Rebekah Gordon"
       ],
       "subjects": [
         "Theory",
@@ -36569,7 +36611,7 @@
       "datestamp": "2017-09-12",
       "title": "Framing Religious Conflict and Violence – Insights from Historical Institutionalism, Part 1 (Vivek Swaroop Sharma)",
       "creators": [
-        "editors"
+        "Vivek Swaroop Sharma"
       ],
       "subjects": [
         "Political Theory",
@@ -36610,7 +36652,7 @@
       "datestamp": "2017-09-22",
       "title": "Framing Religious Conflict and Violence – Insights from Historical Institutionalism, Part 2 (Vivek Swaroop Sharma)",
       "creators": [
-        "editors"
+        "Vivek Swaroop Sharma"
       ],
       "subjects": [
         "Political Theory",
@@ -36651,7 +36693,7 @@
       "datestamp": "2018-02-26",
       "title": "From Christology to Political Theology (Cyril Hovorun)",
       "creators": [
-        "editors"
+        "Cyril Hovorun"
       ],
       "subjects": [
         "Political Theology",
@@ -36687,7 +36729,7 @@
       "datestamp": "2016-09-19",
       "title": "From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of Religion on the Rise of Modern Racism, Part 1 (Oludamini Ogunnaike)",
       "creators": [
-        "editors"
+        "Oludamini Ogunnaike"
       ],
       "subjects": [
         "African Studies",
@@ -36721,7 +36763,7 @@
       "datestamp": "2016-09-27",
       "title": "From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of Religion on the Rise of Modern Racism, Part 2 (Oludamini Ogunnaike)",
       "creators": [
-        "editors"
+        "Oludamini Ogunnaike"
       ],
       "subjects": [
         "Critical Race Theory",
@@ -36755,7 +36797,7 @@
       "datestamp": "2016-10-04",
       "title": "From Heathen to Sub-Human: A Genealogy of the Influence of the Decline of Religion on the Rise of Modern Racism, Part 3 (Oludamini Ogunnaike)",
       "creators": [
-        "editors"
+        "Oludamini Ogunnaike"
       ],
       "subjects": [
         "Critical Race Theory",
@@ -36791,7 +36833,7 @@
       "datestamp": "2022-04-30",
       "title": "From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane Yesus, Part 2 (Rode Molla)",
       "creators": [
-        "editors"
+        "Rode Molla"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -36826,7 +36868,7 @@
       "datestamp": "2022-05-18",
       "title": "From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane Yesus, Part 3 (Rode Molla)",
       "creators": [
-        "editors"
+        "Rode Molla"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -36861,7 +36903,7 @@
       "datestamp": "2022-04-15",
       "title": "From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane Yesus, Part 1 (Rode Molla)",
       "creators": [
-        "editors"
+        "Rode Molla"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -36897,7 +36939,7 @@
       "datestamp": "2019-05-17",
       "title": "From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical Aesthetics, Part 3 (Jakob Deibl)",
       "creators": [
-        "editors"
+        "Jakob Deibl"
       ],
       "subjects": [
         "Aesthetics",
@@ -36931,7 +36973,7 @@
       "datestamp": "2019-05-07",
       "title": "From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical Aesthetics, Part 2 (Jakob Deibl)",
       "creators": [
-        "editors"
+        "Jakob Deibl"
       ],
       "subjects": [
         "Aesthetics",
@@ -36965,7 +37007,7 @@
       "datestamp": "2019-04-30",
       "title": "From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical Aesthetics, Part 1 (Jakob Deibl)",
       "creators": [
-        "editors"
+        "Jakob Deibl"
       ],
       "subjects": [
         "Aesthetics",
@@ -37001,7 +37043,7 @@
       "datestamp": "2019-09-23",
       "title": "From The Gift Of Mortality To The Name Of God (Jakob Helmut Deibl)",
       "creators": [
-        "editors"
+        "Jakob Deibl"
       ],
       "subjects": [
         "Theology",
@@ -37035,7 +37077,7 @@
       "datestamp": "2023-08-20",
       "title": "George Batailles On Ethnographic Surrealism And “The Limits Of The Useful” – Review Essay (Matt Waggoner)",
       "creators": [
-        "editors"
+        "Matt Waggoner"
       ],
       "subjects": [
         "Reviews",
@@ -37070,7 +37112,7 @@
       "datestamp": "2022-02-07",
       "title": "Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings of Heidegger’s “Geist”, Part 1 (Jake Sirota)",
       "creators": [
-        "editors"
+        "Jake S Sirota"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -37108,7 +37150,7 @@
       "datestamp": "2022-02-15",
       "title": "Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings of Heidegger’s “Geist”, Part 2 (Jake Sirota)",
       "creators": [
-        "editors"
+        "Jake S Sirota"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -37146,7 +37188,7 @@
       "datestamp": "2022-02-23",
       "title": "Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings Of Heidegger’s “Geist”, Part 3 (Jake Sirota)",
       "creators": [
-        "editors"
+        "Jake S Sirota"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -37180,7 +37222,7 @@
       "datestamp": "2018-08-29",
       "title": "God And Existence, Lecture 4 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -37213,7 +37255,7 @@
       "datestamp": "2018-11-13",
       "title": "God and History, Lecture 5 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -37248,7 +37290,7 @@
       "datestamp": "2019-04-02",
       "title": "God And Language, Lecture 6 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -37283,7 +37325,7 @@
       "datestamp": "2019-04-17",
       "title": "God And Salvation, Lecture 8 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -37319,7 +37361,7 @@
       "datestamp": "2019-04-10",
       "title": "God As Person and Trinity, Lecture 7 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -37354,7 +37396,7 @@
       "datestamp": "2024-10-02",
       "title": "Greening America’s Virtues (Nick Mather)",
       "creators": [
-        "editors"
+        "Nick Mather"
       ],
       "subjects": [
         "Religion and Ecology",
@@ -37386,7 +37428,7 @@
       "datestamp": "2016-11-02",
       "title": "Hanging Garlands Of Flowers On The Chains That Bind – Soft Totalitarianism and Techno-Rationality (Jeff Appel)",
       "creators": [
-        "editors"
+        "Jeff Appel"
       ],
       "subjects": [
         "Media Theory",
@@ -37417,7 +37459,7 @@
       "datestamp": "2024-10-17",
       "title": "Healing As A Multimedia Practice – Contemporary Spirituality In Turkey, Part 1 (Duygu Sendag)",
       "creators": [
-        "editors"
+        "Duygu Sendag"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -37451,7 +37493,7 @@
       "datestamp": "2023-01-12",
       "title": "Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 1 (Rebekah Howes)",
       "creators": [
-        "editors"
+        "Rebekah Howes"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -37487,7 +37529,7 @@
       "datestamp": "2023-01-30",
       "title": "Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 2 (Rebekah Howes)",
       "creators": [
-        "editors"
+        "Rebekah Howes"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -37523,7 +37565,7 @@
       "datestamp": "2023-02-11",
       "title": "Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 3 (Rebekah Howes)",
       "creators": [
-        "editors"
+        "Rebekah Howes"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -37559,7 +37601,7 @@
       "datestamp": "2017-04-18",
       "title": "Hegemony And Techno-Rationality – Toward An Aesthetic Soteriology (Mason Davis)",
       "creators": [
-        "editors"
+        "Mason Davis"
       ],
       "subjects": [
         "Aesthetics",
@@ -37593,7 +37635,7 @@
       "datestamp": "2019-12-29",
       "title": "Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 (Gavin Hurley)",
       "creators": [
-        "editors"
+        "Gavin Hurley"
       ],
       "subjects": [
         "Aesthetics",
@@ -37628,7 +37670,7 @@
       "datestamp": "2020-01-05",
       "title": "Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 2 (Gavin Hurley)",
       "creators": [
-        "editors"
+        "Gavin Hurley"
       ],
       "subjects": [
         "Aesthetics",
@@ -37663,7 +37705,7 @@
       "datestamp": "2023-03-16",
       "title": "Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual Practices, Part 1 (Joshua Hall)",
       "creators": [
-        "editors"
+        "Joshua M Hall"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -37698,7 +37740,7 @@
       "datestamp": "2023-03-31",
       "title": "Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual Practices, Part 2 (Joshua Hall)",
       "creators": [
-        "editors"
+        "Joshua M Hall"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -37734,7 +37776,7 @@
       "datestamp": "2023-04-10",
       "title": "Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual Practices, Part 3 (Joshua Hall)",
       "creators": [
-        "editors"
+        "Joshua M Hall"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -37769,7 +37811,7 @@
       "datestamp": "2018-10-22",
       "title": "Inventing Afterlives – Review (Camille Grace Leon Angelo)",
       "creators": [
-        "editors"
+        "Camille Grace Leon Angelo"
       ],
       "subjects": [
         "Reviews",
@@ -37916,7 +37958,7 @@
       "datestamp": "2018-01-21",
       "title": "John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part I (Eric Trozzo)",
       "creators": [
-        "editors"
+        "Eric Trozzo"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -37950,7 +37992,7 @@
       "datestamp": "2018-01-28",
       "title": "John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part II (Eric Trozzo)",
       "creators": [
-        "editors"
+        "Eric Trozzo"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -37985,7 +38027,7 @@
       "datestamp": "2019-04-23",
       "title": "Jonathan Edwards And The Vegan Elect – An Unconventional Calvinist Reading, Part 1 (Tadd Ruetenik)",
       "creators": [
-        "editors"
+        "Tadd Ruetenik"
       ],
       "subjects": [
         "Theology",
@@ -38021,7 +38063,7 @@
       "datestamp": "2019-06-22",
       "title": "Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 1 (Sarah Pessin)",
       "creators": [
-        "editors"
+        "Sarah Pessin"
       ],
       "subjects": [
         "Interfaith Conversations",
@@ -38054,7 +38096,7 @@
       "datestamp": "2019-07-01",
       "title": "Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 2 (Sarah Pessin)",
       "creators": [
-        "editors"
+        "Sarah Pessin"
       ],
       "subjects": [
         "Interfaith Conversations",
@@ -38088,7 +38130,7 @@
       "datestamp": "2020-03-22",
       "title": "Lacan And Pneumatology (Mark Murphy)",
       "creators": [
-        "editors"
+        "Mark Murphy"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -38125,7 +38167,7 @@
       "datestamp": "2018-07-31",
       "title": "Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And Christian Mysticism, Part 1  (Mark Murphy)",
       "creators": [
-        "editors"
+        "Mark Murphy"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -38160,7 +38202,7 @@
       "datestamp": "2018-08-08",
       "title": "Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And Christian Mysticism, Part 2 (Mark Murphy)",
       "creators": [
-        "editors"
+        "Mark Murphy"
       ],
       "subjects": [
         "Psychoanalysis",
@@ -38196,7 +38238,7 @@
       "datestamp": "2018-08-15",
       "title": "Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And Christian Mysticism, Part 3 (Mark Murphy)",
       "creators": [
-        "editors"
+        "Mark Murphy"
       ],
       "subjects": [
         "Psychoanalysis",
@@ -38232,7 +38274,7 @@
       "datestamp": "2017-01-21",
       "title": "Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)",
       "creators": [
-        "editors"
+        "Joshua Lawrence"
       ],
       "subjects": [
         "Political Theology",
@@ -38345,7 +38387,7 @@
       "datestamp": "2022-01-17",
       "title": "Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 2 (Justine M. Bakker)",
       "creators": [
-        "editors"
+        "Justine M. Bakker"
       ],
       "subjects": [
         "Critical Race Theory",
@@ -38381,7 +38423,7 @@
       "datestamp": "2022-01-27",
       "title": "Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 3 (Justine M. Bakker)",
       "creators": [
-        "editors"
+        "Justine M. Bakker"
       ],
       "subjects": [
         "Critical Race Theory",
@@ -38417,7 +38459,7 @@
       "datestamp": "2022-01-07",
       "title": "Locating The Oceanic in Sylvia Wynter’s “Demonic Ground”, Part 1 (Justine M. Bakker)",
       "creators": [
-        "editors"
+        "Justine M. Bakker"
       ],
       "subjects": [
         "Critical Race Theory",
@@ -38450,7 +38492,7 @@
       "datestamp": "2020-06-17",
       "title": "Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus As The Inauguration Of An Age Of Writing, Part 1 (Jared Lacy)",
       "creators": [
-        "editors"
+        "Jared Lacy"
       ],
       "subjects": [
         "Higher Education",
@@ -38485,7 +38527,7 @@
       "datestamp": "2020-06-24",
       "title": "Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus As The Inauguration Of An Age Of Writing, Part 2 (Jared Lacy)",
       "creators": [
-        "editors"
+        "Jared Lacy"
       ],
       "subjects": [
         "Higher Education",
@@ -38519,7 +38561,7 @@
       "datestamp": "2016-09-05",
       "title": "Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tutt)",
       "creators": [
-        "editors"
+        "Daniel Tutt"
       ],
       "subjects": [
         "Critical Theory",
@@ -38561,7 +38603,7 @@
       "datestamp": "2016-09-13",
       "title": "Love, Psychoanalysis, and Leftist Political Ontology, Part 2 (Daniel Tutt)",
       "creators": [
-        "editors"
+        "Daniel Tutt"
       ],
       "subjects": [
         "Critical Theory",
@@ -38601,7 +38643,7 @@
       "datestamp": "2016-07-25",
       "title": "Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part 1 (Agata Bielik-Robson)",
       "creators": [
-        "editors"
+        "Agata Bielik-Robson"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -38636,7 +38678,7 @@
       "datestamp": "2016-08-01",
       "title": "Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part 2 (Agata Bielik-Robson)",
       "creators": [
-        "editors"
+        "Agata Bielik-Robson"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -38669,7 +38711,7 @@
       "datestamp": "2018-05-01",
       "title": "Lutheran Theology And Postmodern Philosophy, Part I (Olli-Pekka Vaino)",
       "creators": [
-        "editors"
+        "Olli-Pekka Vaino"
       ],
       "subjects": [
         "Lutheran Theology",
@@ -38704,7 +38746,7 @@
       "datestamp": "2018-05-09",
       "title": "Lutheran Theology and Postmodern Philosophy, Part II (Olli-Pekka Vaino)",
       "creators": [
-        "editors"
+        "Olli-Pekka Vaino"
       ],
       "subjects": [
         "Lutheran Theology",
@@ -38742,7 +38784,7 @@
       "datestamp": "2024-06-05",
       "title": "Metaphysical Protestantism-A Comparative Literary Ecology (Zane Johnson)",
       "creators": [
-        "editors"
+        "Zane Johnson"
       ],
       "subjects": [
         "Religion and Literature",
@@ -38776,7 +38818,7 @@
       "datestamp": "2018-05-19",
       "title": "Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part I (Kevin Lewis)",
       "creators": [
-        "editors"
+        "Kevin Lewis"
       ],
       "subjects": [
         "Hermeneutics",
@@ -38812,7 +38854,7 @@
       "datestamp": "2018-05-28",
       "title": "Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part II (Kevin Lewis)",
       "creators": [
-        "editors"
+        "Kevin Lewis"
       ],
       "subjects": [
         "Hermeneutics",
@@ -38847,7 +38889,7 @@
       "datestamp": "2021-02-01",
       "title": "Modern Theology And The Dialectic Of God, Part 1 (Kelly Maeshiro)",
       "creators": [
-        "editors"
+        "Kelly Maeshiro"
       ],
       "subjects": [
         "Theology",
@@ -38883,7 +38925,7 @@
       "datestamp": "2021-02-08",
       "title": "Modern Theology And The Dialectic Of God, Part 2 (Kelly Maeshiro)",
       "creators": [
-        "editors"
+        "Kelly Maeshiro"
       ],
       "subjects": [
         "Theology",
@@ -38919,7 +38961,7 @@
       "datestamp": "2021-02-22",
       "title": "Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)",
       "creators": [
-        "editors"
+        "Kelly Maeshiro"
       ],
       "subjects": [
         "Theology",
@@ -38955,7 +38997,7 @@
       "datestamp": "2021-03-01",
       "title": "Modern Theology And The Dialectic Of God, Part 4 (Kelly Maeshiro)",
       "creators": [
-        "editors"
+        "Kelly Maeshiro"
       ],
       "subjects": [
         "Theology",
@@ -39024,7 +39066,7 @@
       "datestamp": "2020-05-01",
       "title": "“Naming The Darkness,” Spiritual Violence, And Radical Incompleteness –  Resituating A Political Theology, Part 1 (James E. Willis, III)",
       "creators": [
-        "editors"
+        "James E. Willis Iii"
       ],
       "subjects": [
         "Political Theology",
@@ -39059,7 +39101,7 @@
       "datestamp": "2020-05-09",
       "title": "“Naming The Darkness,” Spiritual Violence, And Radical Incompleteness – Resituating A Political Theology, Part 2 (James E. Willis, III)",
       "creators": [
-        "editors"
+        "James E. Willis Iii"
       ],
       "subjects": [
         "Political Theology",
@@ -39101,7 +39143,7 @@
       "datestamp": "2018-07-26",
       "title": "Negative Theology And Its Problems: Barth And Marion, Lecture 3 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -39178,7 +39220,7 @@
       "datestamp": "2018-03-10",
       "title": "New Religions in Brazil – A Game Between Relativism and Fundamentalism (Silas Guerriero)",
       "creators": [
-        "editors"
+        "Silas Guerriero"
       ],
       "subjects": [
         "New Religions",
@@ -39357,7 +39399,7 @@
       "datestamp": "2022-08-19",
       "title": "Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H. Long, Part 2 (Mehnaz Afridi)",
       "creators": [
-        "editors"
+        "Mehnaz Afridi"
       ],
       "subjects": [
         "Religious Studies",
@@ -39394,7 +39436,7 @@
       "datestamp": "2022-08-09",
       "title": "Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H. Long, Part 1 (Mehnaz Afridi)",
       "creators": [
-        "editors"
+        "Mehnaz Afridi"
       ],
       "subjects": [
         "Religious Studies",
@@ -39431,7 +39473,7 @@
       "datestamp": "2017-03-15",
       "title": "Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and Andrew Feenberg on Lukács’ Theory of Reification (Konstantinos Kavoulakos)",
       "creators": [
-        "editors"
+        "Konstantinos Kavoulakos"
       ],
       "subjects": [
         "Critical Theory",
@@ -39468,7 +39510,8 @@
       "datestamp": "2017-02-06",
       "title": "Philosophy As Interdisciplinary Intensity – An Interview With Giorgio Agamben (Antonio Gnolio/Ido Govrin)",
       "creators": [
-        "editors"
+        "Antonio Gnolio",
+        "Ido Govrin"
       ],
       "subjects": [
         "Philosophy",
@@ -39502,7 +39545,7 @@
       "datestamp": "2022-11-29",
       "title": "Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 1 (Erik Meganck)",
       "creators": [
-        "editors"
+        "Erik Meganck"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -39539,7 +39582,7 @@
       "datestamp": "2022-12-15",
       "title": "Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 2 (Erik Meganck)",
       "creators": [
-        "editors"
+        "Erik Meganck"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -39574,7 +39617,7 @@
       "datestamp": "2022-12-29",
       "title": "Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 3 (Erik Meganck)",
       "creators": [
-        "editors"
+        "Erik Meganck"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -39646,7 +39689,7 @@
       "datestamp": "2018-02-11",
       "title": "Prayer After The Death Of God, Part I (Ashley [Gay] Graham)",
       "creators": [
-        "editors"
+        "Ashley Graham"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -39679,7 +39722,7 @@
       "datestamp": "2018-02-18",
       "title": "Prayer After the Death of God, Part II (Ashley [Gay] Graham)",
       "creators": [
-        "editors"
+        "Ashley Graham"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -39716,7 +39759,7 @@
       "datestamp": "2020-07-05",
       "title": "“Progressive Neoliberalism” – Symbolic Capitalism And The Global Reproduction Of The “Precariat” (Interview With Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Interviews",
@@ -39749,7 +39792,7 @@
       "datestamp": "2022-03-29",
       "title": "Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical Conversation” With Roger Green",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Critical Conversations",
@@ -39783,7 +39826,7 @@
       "datestamp": "2022-07-04",
       "title": "Rapture Music – Intensity And Eschatology Within Christian Revival Movements, Part 1 (Fraser Macdonald)",
       "creators": [
-        "editors"
+        "Fraser Macdonald"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -39817,7 +39860,7 @@
       "datestamp": "2022-07-12",
       "title": "Rapture Music – Intensity And Eschatology Within Christian Revival Movements, Part 2 (Fraser Macdonald)",
       "creators": [
-        "editors"
+        "Fraser Macdonald"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -39851,7 +39894,7 @@
       "datestamp": "2022-07-25",
       "title": "Rapture Music – Intensity And Eschatology Within Christian Revival Movements, Part 3 (Fraser Macdonald)",
       "creators": [
-        "editors"
+        "Fraser Macdonald"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -39919,7 +39962,7 @@
       "datestamp": "2020-02-04",
       "title": "Reframing The Adwa Victory As A Decolonizing Praxis – Discourse Around Colonization In The Ethiopian Context, Part 2 (Rode Molla)",
       "creators": [
-        "editors"
+        "Rode Molla"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -39955,7 +39998,7 @@
       "datestamp": "2020-01-30",
       "title": "Reframing The Adwa Victory As A Decolonizing Praxis –  Discourse Around Colonization In The Ethiopian Context, Part 1 (Rode Molla)",
       "creators": [
-        "editors"
+        "Rode Molla"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -40024,7 +40067,8 @@
       "datestamp": "2018-09-30",
       "title": "Religion And Mental Health – The Therapeutic Value Of The Teachings Of Jesus , Part 1 (Thomas Roberts And Delbert Hayden)",
       "creators": [
-        "editors"
+        "Thomas Roberts",
+        "Delbert Hayden"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -40062,7 +40106,8 @@
       "datestamp": "2018-10-09",
       "title": "Religion And Mental Health – The Therapuetic Value Of The Teachings of Jesus, Part 2 (Thomas Roberts and Delbert Hayden)",
       "creators": [
-        "editors"
+        "Thomas Roberts",
+        "Delbert Hayden"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -40098,7 +40143,7 @@
       "datestamp": "2017-05-31",
       "title": "Religious Autonomy As Secularism’s Silent Partner (Darshan Datar)",
       "creators": [
-        "editors"
+        "Darshan Datar"
       ],
       "subjects": [
         "Political Theology",
@@ -40168,7 +40213,7 @@
       "datestamp": "2024-03-15",
       "title": "Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin S. Grane)",
       "creators": [
-        "editors"
+        "Kevin S. Grane"
       ],
       "subjects": [
         "Cultural Theory",
@@ -40206,7 +40251,7 @@
       "datestamp": "2017-10-09",
       "title": "Religious Studies and Comparative Theology – An Appraisal (Joshua Samuel)",
       "creators": [
-        "editors"
+        "Joshua Samuel"
       ],
       "subjects": [
         "Religious Studies",
@@ -40241,7 +40286,7 @@
       "datestamp": "2022-09-07",
       "title": "Religious Studies As The “State Religion” Of Neoliberalism, Part 1 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Uncategorized",
@@ -40282,7 +40327,7 @@
       "datestamp": "2022-09-21",
       "title": "Religious Studies As The “State Religion” Of Neoliberalism, Part 2 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Neoliberalism and Religion",
@@ -40315,7 +40360,7 @@
       "datestamp": "2022-10-05",
       "title": "Religious Studies As The “State Religion” Of Neoliberalism, Part 3 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Neoliberalism and Religion",
@@ -40348,7 +40393,7 @@
       "datestamp": "2020-06-09",
       "title": "Religious Studies – The Final Colonization Of American Indians, Part 2 (Tink Tinker, wazhazhe udsethe)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Native American Religions",
@@ -40381,7 +40426,7 @@
       "datestamp": "2020-06-01",
       "title": "Religious Studies – The Final Colonization Of American Indians, Part 1 (Tink Tinker, wazhazhe udsethe)",
       "creators": [
-        "editors"
+        "Tink Tinker"
       ],
       "subjects": [
         "Native American Religions",
@@ -40484,7 +40529,7 @@
       "datestamp": "2021-03-15",
       "title": "Reorientation In The Field – Why Religion Matters, Part 1 (Wendy Felese)",
       "creators": [
-        "editors"
+        "Wendy Felese"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -40519,7 +40564,7 @@
       "datestamp": "2021-03-29",
       "title": "Reorientation In The Field – Why Religion Matters, Part 2 (Wendy Felese)",
       "creators": [
-        "editors"
+        "Wendy Felese"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -40554,7 +40599,7 @@
       "datestamp": "2017-01-03",
       "title": "Rethinking Anselm’s Atonement Theory –  “Unmaking” The Indebted Man (Ryne Beddard)",
       "creators": [
-        "editors"
+        "Ryne Beddard"
       ],
       "subjects": [
         "Theology",
@@ -40835,7 +40880,7 @@
       "datestamp": "2016-06-13",
       "title": "Review – Badiou’s Conversations About Theatre Offer Light-Hearted And Quirky Insight Into Mind Of Philosopher (Ryne Beddard)",
       "creators": [
-        "editors"
+        "Ryne Beddard"
       ],
       "subjects": [
         "Reviews",
@@ -40868,7 +40913,7 @@
       "datestamp": "2017-06-07",
       "title": "Review – Bahai Religion And Religious Cycles (Rebekah Gordon)",
       "creators": [
-        "editors"
+        "Rebekah Gordon"
       ],
       "subjects": [
         "Reviews",
@@ -40934,7 +40979,7 @@
       "datestamp": "2017-05-15",
       "title": "Review – Caputo’s “Spooky” Call To Theology (Rob Kennedy)",
       "creators": [
-        "editors"
+        "Rob Kennedy"
       ],
       "subjects": [
         "Reviews",
@@ -41035,7 +41080,7 @@
       "datestamp": "2018-11-30",
       "title": "Review – Decolonizing Dialectics (Josiah Solis)",
       "creators": [
-        "editors"
+        "Josiah Solis"
       ],
       "subjects": [
         "Reviews",
@@ -41104,7 +41149,7 @@
       "datestamp": "2016-06-03",
       "title": "Review – Donovan Schaefer’s Call For a Materialist Turn In Religious Theory (Jonathan Russell)",
       "creators": [
-        "editors"
+        "Jonathan Russell"
       ],
       "subjects": [
         "Reviews",
@@ -41138,7 +41183,7 @@
       "datestamp": "2017-05-23",
       "title": "Review – Economy And Ontology From Agamben To Nancy (Taylor Weaver)",
       "creators": [
-        "editors"
+        "Taylor Weaver"
       ],
       "subjects": [
         "Reviews",
@@ -41469,7 +41514,7 @@
       "datestamp": "2017-01-09",
       "title": "Review – Judith Butler And The Different “Senses” Of The Subject (Matthew Waggoner)",
       "creators": [
-        "editors"
+        "Matthew Waggoner"
       ],
       "subjects": [
         "Reviews",
@@ -41599,7 +41644,7 @@
       "datestamp": "2017-06-15",
       "title": "Review – Mysticism As Language Game (Adam Loch)",
       "creators": [
-        "editors"
+        "Adam Loch"
       ],
       "subjects": [
         "Reviews",
@@ -41700,7 +41745,7 @@
       "datestamp": "2016-12-29",
       "title": "Review – New Trends In The Theory And Methods For Studying Religion (David Kim)",
       "creators": [
-        "editors"
+        "David Kim"
       ],
       "subjects": [
         "Reviews",
@@ -41799,7 +41844,7 @@
       "datestamp": "2019-02-07",
       "title": "Review – Performance Apophatics (John Matthew Allison)",
       "creators": [
-        "editors"
+        "John Matthew Allison"
       ],
       "subjects": [
         "Performance Studies",
@@ -41868,7 +41913,7 @@
       "datestamp": "2017-11-28",
       "title": "Review – Power After Biopower, Or The Colonizing Of Perception (Adam Loch)",
       "creators": [
-        "editors"
+        "Adam Loch"
       ],
       "subjects": [
         "Reviews",
@@ -42074,7 +42119,7 @@
       "datestamp": "2016-07-02",
       "title": "Review – The Evolution of the Religious Factor in Fantasy Role-Playing Games (Jeffrey Scholes)",
       "creators": [
-        "editors"
+        "Jeffrey Scholes"
       ],
       "subjects": [
         "Reviews",
@@ -42212,7 +42257,7 @@
       "datestamp": "2016-07-07",
       "title": "Review – The Search For Transcendence In The “Material Phenomenology” of David Foster Wallace (Jeff Appel)",
       "creators": [
-        "editors"
+        "Jeff Appel"
       ],
       "subjects": [
         "Reviews",
@@ -42416,7 +42461,7 @@
       "datestamp": "2020-05-16",
       "title": "Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To The Leveling Of The Public Sphere, Part 1 (Andrew Ball)",
       "creators": [
-        "editors"
+        "Andrew J. Ball"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -42449,7 +42494,7 @@
       "datestamp": "2020-05-23",
       "title": "Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To The Leveling Of The Public Sphere, Part 2 (Andrew Ball)",
       "creators": [
-        "editors"
+        "Andrew J. Ball"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -42482,7 +42527,7 @@
       "datestamp": "2021-05-11",
       "title": "“Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 1 (N.E. Boulting)",
       "creators": [
-        "editors"
+        "N. E. Boulting"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -42517,7 +42562,7 @@
       "datestamp": "2021-05-18",
       "title": "“Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 2 (N.E. Boulting",
       "creators": [
-        "editors"
+        "N. E. Boulting"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -42552,7 +42597,8 @@
       "datestamp": "2018-04-21",
       "title": "Secularism And Its Discontents – On Charting Pathways With A Phenomenology Of Religion, Part 1 (Ludger Hagerdorn and Michael Staudigl)",
       "creators": [
-        "editors"
+        "Ludger Hagerdorn",
+        "Michael Staudigl"
       ],
       "subjects": [
         "Phenomenology",
@@ -42587,7 +42633,7 @@
       "datestamp": "2020-09-28",
       "title": "Sexual Difference And The Vatican – A Lacanian Response, Part 1 (Melissa Conroy)",
       "creators": [
-        "editors"
+        "Melissa Conroy"
       ],
       "subjects": [
         "Sexuality and Religion",
@@ -42622,7 +42668,7 @@
       "datestamp": "2020-10-06",
       "title": "Sexual Difference And The Vatican – A Lacanian Response, Part 2 (Melissa Conroy)",
       "creators": [
-        "editors"
+        "Melissa Conroy"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -42656,7 +42702,7 @@
       "datestamp": "2020-10-12",
       "title": "Sexual Difference And The Vatican – A Lacanian Response, Part 3 (Melissa Conroy)",
       "creators": [
-        "editors"
+        "Melissa Conroy"
       ],
       "subjects": [
         "Sexuality and Religion",
@@ -42690,7 +42736,7 @@
       "datestamp": "2016-10-24",
       "title": "Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time” (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -42725,7 +42771,7 @@
       "datestamp": "2024-08-07",
       "title": "Sikh Environmental Ethics-Theory and Praxis Part 1 (Harpreet Kaur)",
       "creators": [
-        "editors"
+        "Harpreet Kaur"
       ],
       "subjects": [
         "Sikhism",
@@ -42759,7 +42805,7 @@
       "datestamp": "2024-08-24",
       "title": "Sikh Environmental Ethics-Theory and Praxis Part 2 (Harpreet Kaur)",
       "creators": [
-        "editors"
+        "Harpreet Kaur"
       ],
       "subjects": [
         "Sikhism",
@@ -42792,7 +42838,7 @@
       "datestamp": "2024-01-26",
       "title": "Sikhs As Subalterns – Voice, Inequality, And Power, Part 2 (Nirvikar Singh)",
       "creators": [
-        "editors"
+        "Nirvikar Singh"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -42829,7 +42875,7 @@
       "datestamp": "2024-02-08",
       "title": "Sikhs As Subalterns – Voice, Inequality, And Power, Part 3 (Nirvikar Singh)",
       "creators": [
-        "editors"
+        "Nirvikar Singh"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -42864,7 +42910,7 @@
       "datestamp": "2024-01-10",
       "title": "Sikhs As Subalterns – Voice, Inequality, and Power, Part 1 (Nirvikar Singh)",
       "creators": [
-        "editors"
+        "Nirvikar Singh"
       ],
       "subjects": [
         "Postcolonial Theory",
@@ -42900,7 +42946,7 @@
       "datestamp": "2017-10-16",
       "title": "Slow Journalism? Ethnography As A Means Of Understanding Religious Social Activism, Part 1 (James V. Spickard)",
       "creators": [
-        "editors"
+        "James V. Spickard"
       ],
       "subjects": [
         "Religion and Media",
@@ -42936,7 +42982,7 @@
       "datestamp": "2017-10-23",
       "title": "Slow Journalism? Ethnography as a Means of Understanding Religious Social Activism, Part 2 (James V. Spickard)",
       "creators": [
-        "editors"
+        "James V. Spickard"
       ],
       "subjects": [
         "Religion and Media",
@@ -42974,7 +43020,7 @@
       "datestamp": "2019-07-28",
       "title": "Speaking Of God’s Presence As Non-Contrastive Transcendent Distinction (Joyce Konigsburg)",
       "creators": [
-        "editors"
+        "Joyce Konigsburg"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -43071,7 +43117,7 @@
       "datestamp": "2017-01-13",
       "title": "Spinoza’s Theory of Religion – Stabilized Superstition (Ehud Benor)",
       "creators": [
-        "editors"
+        "Ehud Benor"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43208,7 +43254,7 @@
       "datestamp": "2021-09-08",
       "title": "“Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious Virtues, Part 1 (A.G. Holdier)",
       "creators": [
-        "editors"
+        "A. G. Holdier"
       ],
       "subjects": [
         "Religion and Literature",
@@ -43241,7 +43287,7 @@
       "datestamp": "2021-09-22",
       "title": "“Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious Virtues, Part 2 (A.G. Holdier)",
       "creators": [
-        "editors"
+        "A. G. Holdier"
       ],
       "subjects": [
         "Religion and Literature",
@@ -43274,7 +43320,7 @@
       "datestamp": "2017-03-01",
       "title": "The Bell Jar’s New Look – Sylvia Plath, Simone De Beauvoir, And The Visual Representation Of Feminist Discourse (Madeline Yonker)",
       "creators": [
-        "editors"
+        "Madeline Yonker"
       ],
       "subjects": [
         "Feminist Theory",
@@ -43308,7 +43354,7 @@
       "datestamp": "2018-06-09",
       "title": "The Critique Of Theism – Kant, Hegel, Feuerbach, Nietzsche, Lecture 2 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43348,7 +43394,7 @@
       "datestamp": "2020-04-16",
       "title": "The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons, Part 1 (J. Edward Hackett)",
       "creators": [
-        "editors"
+        "J. Edward Hackett"
       ],
       "subjects": [
         "Phenomenology",
@@ -43382,7 +43428,7 @@
       "datestamp": "2020-04-23",
       "title": "The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons, Part 2 (J. Edward Hackett)",
       "creators": [
-        "editors"
+        "J. Edward Hackett"
       ],
       "subjects": [
         "Phenomenology",
@@ -43417,7 +43463,7 @@
       "datestamp": "2018-06-26",
       "title": "The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On The “Religious” Reading Of Deconstruction, Part 1 (Neal DeRoo)",
       "creators": [
-        "editors"
+        "Neal Deroo"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43452,7 +43498,7 @@
       "datestamp": "2018-07-03",
       "title": "The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On The “Religious” Reading Of Deconstruction, Part 2 (Neal DeRoo)",
       "creators": [
-        "editors"
+        "Neal Deroo"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43488,7 +43534,7 @@
       "datestamp": "2018-07-11",
       "title": "The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On The “Religious” Reading Of Deconstruction, Part 3 (Neal DeRoo)",
       "creators": [
-        "editors"
+        "Neal Deroo"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43602,7 +43648,7 @@
       "datestamp": "2024-04-17",
       "title": "The Environmental Ethics of Pope Francis – Parsing Key Terms and Claims In Laudato Si’ (Thomas Massaro, S.J.)",
       "creators": [
-        "editors"
+        "Thomas Massaro"
       ],
       "subjects": [
         "Religion and Ecology",
@@ -43679,7 +43725,7 @@
       "datestamp": "2021-12-02",
       "title": "The Futurity Of God, Part 1 (Lenart Škof)",
       "creators": [
-        "editors"
+        "Lenart Škof"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -43715,7 +43761,7 @@
       "datestamp": "2021-12-16",
       "title": "The Futurity Of God, Part 2 (Lenart Škof)",
       "creators": [
-        "editors"
+        "Lenart Škof"
       ],
       "subjects": [
         "Philosophical Theology",
@@ -43750,7 +43796,7 @@
       "datestamp": "2020-02-18",
       "title": "The Hollow Christians Of End Times Fiction, Part 1 (Paul Maltby)",
       "creators": [
-        "editors"
+        "Paul Maltby"
       ],
       "subjects": [
         "Religion and Literature",
@@ -43786,7 +43832,7 @@
       "datestamp": "2020-02-25",
       "title": "The Hollow Christians Of End Times Fiction, Part 2 (Paul Maltby)",
       "creators": [
-        "editors"
+        "Paul Maltby"
       ],
       "subjects": [
         "Religion and Literature",
@@ -43821,7 +43867,7 @@
       "datestamp": "2020-03-03",
       "title": "The Hollow Christians Of End Times Fiction, Part 3 (Paul Maltby)",
       "creators": [
-        "editors"
+        "Paul Maltby"
       ],
       "subjects": [
         "Religion and Literature",
@@ -43855,7 +43901,7 @@
       "datestamp": "2024-05-03",
       "title": "The Image of God and Our Vocation of the Soil, Part 1 (Mick Pope)",
       "creators": [
-        "editors"
+        "Mick Pope"
       ],
       "subjects": [
         "Religion and Ecology",
@@ -43888,7 +43934,7 @@
       "datestamp": "2024-05-24",
       "title": "The Image of God and Our Vocation of the Soil, Part 2 (Mick Pope)",
       "creators": [
-        "editors"
+        "Mick Pope"
       ],
       "subjects": [
         "Uncategorized",
@@ -43927,7 +43973,7 @@
       "datestamp": "2023-07-27",
       "title": "The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei Intellectualis, Part 1 (Caterina De Gaetano)",
       "creators": [
-        "editors"
+        "Caterina Gaetano"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43959,7 +44005,7 @@
       "datestamp": "2023-08-05",
       "title": "The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei Intellectualis, Part 2 (Caterina De Gaetano)",
       "creators": [
-        "editors"
+        "Caterina Gaetano"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -43993,7 +44039,7 @@
       "datestamp": "2019-08-06",
       "title": "The Irreducible (Jean-Luc Marion)",
       "creators": [
-        "editors"
+        "Jean-Luc Marion"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44026,7 +44072,7 @@
       "datestamp": "2017-07-04",
       "title": "The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of The Demos, Part 1 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Political Economy",
@@ -44068,7 +44114,7 @@
       "datestamp": "2017-07-12",
       "title": "The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of The Demos, Part 2 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Political Economy",
@@ -44106,7 +44152,7 @@
       "datestamp": "2017-07-19",
       "title": "The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of The Demos, Part 3 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Political Theology",
@@ -44141,7 +44187,7 @@
       "datestamp": "2022-06-23",
       "title": "The Legacy Of Charles H. Long – Resisting and Short-Circuiting the Discourses Of Exclusion In The Theory And Practice Of Administration (Victor E. Taylor)",
       "creators": [
-        "editors"
+        "Victor Taylor"
       ],
       "subjects": [
         "Religious Studies",
@@ -44178,7 +44224,7 @@
       "datestamp": "2017-11-01",
       "title": "The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict, Part 1 (Brigid Burke)",
       "creators": [
-        "editors"
+        "Brigid Burke"
       ],
       "subjects": [
         "Mythology",
@@ -44217,7 +44263,7 @@
       "datestamp": "2017-11-07",
       "title": "The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict, Part 2 (Brigid Burke)",
       "creators": [
-        "editors"
+        "Brigid Burke"
       ],
       "subjects": [
         "Mythology",
@@ -44257,7 +44303,7 @@
       "datestamp": "2019-05-24",
       "title": "The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)",
       "creators": [
-        "editors"
+        "Gavin Hyman"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44294,7 +44340,7 @@
       "datestamp": "2019-05-31",
       "title": "The “New Hegel” And The Question Of God, Part 2 (Gavin Hyman)",
       "creators": [
-        "editors"
+        "Gavin Hyman"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44328,7 +44374,7 @@
       "datestamp": "2019-06-08",
       "title": "The “New Hegel” And The Question Of God, Part 3 (Gavin Hyman)",
       "creators": [
-        "editors"
+        "Gavin Hyman"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44361,7 +44407,7 @@
       "datestamp": "2017-05-09",
       "title": "The One Is Not – On the Fate Of Unity in Post-Metaphysical Philosophy (Jussi Backman)",
       "creators": [
-        "editors"
+        "Jussi Backman"
       ],
       "subjects": [
         "Metaphysics",
@@ -44397,7 +44443,7 @@
       "datestamp": "2017-02-13",
       "title": "The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 1 (John Panteleimon Manoussakis)",
       "creators": [
-        "editors"
+        "John Panteleimon Manoussakis"
       ],
       "subjects": [
         "Philosophy",
@@ -44435,7 +44481,7 @@
       "datestamp": "2017-02-21",
       "title": "The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 2 (John Panteleimon Manoussakis)",
       "creators": [
-        "editors"
+        "John Panteleimon Manoussakis"
       ],
       "subjects": [
         "Philosophy",
@@ -44472,7 +44518,7 @@
       "datestamp": "2023-11-28",
       "title": "The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic Healings, Part 1 (Anna Magnasco)",
       "creators": [
-        "editors"
+        "Anna-Maria Magnasco"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -44506,7 +44552,7 @@
       "datestamp": "2023-12-12",
       "title": "The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic Healings, Part 2 (Anna Magnasco)",
       "creators": [
-        "editors"
+        "Anna-Maria Magnasco"
       ],
       "subjects": [
         "Anthropology of Religion",
@@ -44607,7 +44653,7 @@
       "datestamp": "2020-07-22",
       "title": "The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous, Part 2 (Alberto Urquidez)",
       "creators": [
-        "editors"
+        "Alberto Urquidez"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44639,7 +44685,7 @@
       "datestamp": "2020-07-29",
       "title": "The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous, Part 3 (Alberto Urquidez)",
       "creators": [
-        "editors"
+        "Alberto Urquidez"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44673,7 +44719,7 @@
       "datestamp": "2020-07-14",
       "title": "The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous, Part 1 (Alberto Urquidez)",
       "creators": [
-        "editors"
+        "Alberto Urquidez"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -44706,7 +44752,7 @@
       "datestamp": "2020-04-01",
       "title": "“The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic Hospitality And The Limits Of Multiculturalism, Part 1 (Emily McAvan)",
       "creators": [
-        "editors"
+        "EMILY McAVAN"
       ],
       "subjects": [
         "Religion and Literature",
@@ -44741,7 +44787,7 @@
       "datestamp": "2020-04-08",
       "title": "“The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic Hospitality And The Limits Of Multiculturalism, Part 2 (Emily McAvan)",
       "creators": [
-        "editors"
+        "EMILY McAVAN"
       ],
       "subjects": [
         "Religion and Literature",
@@ -44776,7 +44822,7 @@
       "datestamp": "2023-10-25",
       "title": "The Sacred As Bordering Practice, Part 1 (Anna-Maria Edlinger)",
       "creators": [
-        "editors"
+        "Anna-Maria Edlinger"
       ],
       "subjects": [
         "Political Theology",
@@ -44810,7 +44856,7 @@
       "datestamp": "2023-11-13",
       "title": "The Sacred As Bordering Practice, Part 2 (Anna-Maria Edlinger)",
       "creators": [
-        "editors"
+        "Anna-Maria Edlinger"
       ],
       "subjects": [
         "Political Theology",
@@ -44882,7 +44928,7 @@
       "datestamp": "2016-12-26",
       "title": "The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 2 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Philosophy",
@@ -44920,7 +44966,7 @@
       "datestamp": "2016-12-19",
       "title": "The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 1 (Roger Green)",
       "creators": [
-        "editors"
+        "Roger Green"
       ],
       "subjects": [
         "Philosophy",
@@ -44957,7 +45003,7 @@
       "datestamp": "2020-08-17",
       "title": "The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In Adjudicating Competing Ethical Claims, Part 1 (W. Travis McMaken)",
       "creators": [
-        "editors"
+        "W. Travis Mcmaken"
       ],
       "subjects": [
         "Theological Ethics",
@@ -44994,7 +45040,7 @@
       "datestamp": "2020-08-23",
       "title": "The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In Adjudicating Competing Ethical Claims, Part 2 (W. Travis McMaken)",
       "creators": [
-        "editors"
+        "W. Travis Mcmaken"
       ],
       "subjects": [
         "Theological Ethics",
@@ -45028,7 +45074,7 @@
       "datestamp": "2021-11-04",
       "title": "The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian Rose And Paul, Part 1 (Michael C. Raubach)",
       "creators": [
-        "editors"
+        "Michael C. Raubach"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -45066,7 +45112,7 @@
       "datestamp": "2021-11-18",
       "title": "The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian Rose And Paul, Part 2 (Michael C. Raubach)",
       "creators": [
-        "editors"
+        "Michael C. Raubach"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -45097,7 +45143,7 @@
       "datestamp": "2018-03-21",
       "title": "The Vertical Form – The Iconological Dimension in 20th Century Russian Religious Aesthetics and Literary Criticism, Part I (Oleg Komkov)",
       "creators": [
-        "editors"
+        "Oleg Komkov"
       ],
       "subjects": [
         "Aesthetics",
@@ -45132,7 +45178,7 @@
       "datestamp": "2018-03-31",
       "title": "The Vertical Form – The Iconological Dimension in 20th Century Russian Religious Aesthetics and Literary Criticism, Part II (Oleg Komkov)",
       "creators": [
-        "editors"
+        "Oleg Komkov"
       ],
       "subjects": [
         "Aesthetics",
@@ -45168,7 +45214,7 @@
       "datestamp": "2016-05-18",
       "title": "Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)",
       "creators": [
-        "editors"
+        "Timothy Snediker"
       ],
       "subjects": [
         "Religion and Economics",
@@ -45206,7 +45252,7 @@
       "datestamp": "2018-05-12",
       "title": "Thinking About God In A Pluralistic World – The Challenge of Modern Theology, Lecture 1 (Johannes Zachhuber)",
       "creators": [
-        "editors"
+        "Johannes Zachhuber"
       ],
       "subjects": [
         "Theology",
@@ -45242,7 +45288,7 @@
       "datestamp": "2021-08-03",
       "title": "Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity in Brazil –  Theological Origins Of A Nation’s Self-Understanding, Part 1 (Vinicius Marinho)",
       "creators": [
-        "editors"
+        "Vinicius Marinho"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -45276,7 +45322,7 @@
       "datestamp": "2021-08-09",
       "title": "Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity In Brazil – Theological Origins Of A Nation’s Self-Understanding, Part 2 (Vinicius Marinho)",
       "creators": [
-        "editors"
+        "Vinicius Marinho"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -45311,7 +45357,7 @@
       "datestamp": "2021-08-16",
       "title": "Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity In Brazil – Theological Origins Of A Nation’s Self-Understanding, Part 3 (Vinicius Marinho)",
       "creators": [
-        "editors"
+        "Vinicius Marinho"
       ],
       "subjects": [
         "Indigenous Religions",
@@ -45343,7 +45389,7 @@
       "datestamp": "2016-12-01",
       "title": "Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of Contretemps, Part 1 (Daniel Rhodes)",
       "creators": [
-        "editors"
+        "Daniel Rhodes"
       ],
       "subjects": [
         "Philosophy",
@@ -45380,7 +45426,7 @@
       "datestamp": "2016-12-06",
       "title": "Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of Contretemps, Part 2 (Daniel Rhodes)",
       "creators": [
-        "editors"
+        "Daniel Rhodes"
       ],
       "subjects": [
         "Philosophy",
@@ -45415,7 +45461,7 @@
       "datestamp": "2016-12-12",
       "title": "Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of Contretemps, Part 3 (Daniel Rhodes)",
       "creators": [
-        "editors"
+        "Daniel Rhodes"
       ],
       "subjects": [
         "Philosophy",
@@ -45451,7 +45497,7 @@
       "datestamp": "2020-01-14",
       "title": "To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 1 (Matt Rosen)",
       "creators": [
-        "editors"
+        "Matt Rosen"
       ],
       "subjects": [
         "Political Philosophy",
@@ -45492,7 +45538,7 @@
       "datestamp": "2020-01-21",
       "title": "To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 2 (Matt Rosen)",
       "creators": [
-        "editors"
+        "Matt Rosen"
       ],
       "subjects": [
         "Political Philosophy",
@@ -45533,7 +45579,7 @@
       "datestamp": "2018-09-23",
       "title": "Towards A New Comparative Methodology In Religious Studies (Kara Roberts)",
       "creators": [
-        "editors"
+        "Kara Roberts"
       ],
       "subjects": [
         "Mythology",
@@ -45571,7 +45617,7 @@
       "datestamp": "2018-09-06",
       "title": "Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 1 (Philipp Valentini)",
       "creators": [
-        "editors"
+        "Philipp Valentini"
       ],
       "subjects": [
         "World Religions",
@@ -45608,7 +45654,7 @@
       "datestamp": "2018-09-15",
       "title": "Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 2 (Philipp Valentini)",
       "creators": [
-        "editors"
+        "Philipp Valentini"
       ],
       "subjects": [
         "World Religions",
@@ -45645,7 +45691,7 @@
       "datestamp": "2023-06-15",
       "title": "Trauma In Emmanuel Levinas’ Writing Body, Part 1 (Magdalena Sedmak)",
       "creators": [
-        "editors"
+        "Magdalena Sedmak"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -45679,7 +45725,7 @@
       "datestamp": "2023-06-30",
       "title": "Trauma In Emmanuel Levinas’ Writing Body, Part 2 (Magdalena Sedmak)",
       "creators": [
-        "editors"
+        "Magdalena Sedmak"
       ],
       "subjects": [
         "Psychology of Religion",
@@ -45714,7 +45760,7 @@
       "datestamp": "2017-07-28",
       "title": "Traversing W.H. Auden’s Religious And Aesthetic States, Part 1 (Raji Singh Soni)",
       "creators": [
-        "editors"
+        "Raji Singh Soni"
       ],
       "subjects": [
         "Religion and Literature",
@@ -45747,7 +45793,7 @@
       "datestamp": "2017-08-04",
       "title": "Traversing W.H. Auden’s Religious And Aesthetic States, Part 2 (Raji Singh Soni)",
       "creators": [
-        "editors"
+        "Raji Singh Soni"
       ],
       "subjects": [
         "Religion and Literature",
@@ -45779,7 +45825,7 @@
       "datestamp": "2017-08-13",
       "title": "Traversing W.H. Auden’s Religious And Aesthetic States, Part 3 (Raji Singh Soni)",
       "creators": [
-        "editors"
+        "Raji Singh Soni"
       ],
       "subjects": [
         "Religion and Literature",
@@ -45812,7 +45858,7 @@
       "datestamp": "2021-06-28",
       "title": "Truth And Irony –  Beyond Binary Patterns In Theological Reasoning, Part 1 (Florian Klug)",
       "creators": [
-        "editors"
+        "Florian Klug"
       ],
       "subjects": [
         "Theology",
@@ -45848,7 +45894,7 @@
       "datestamp": "2021-07-12",
       "title": "Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Part 2 (Florian Klug)",
       "creators": [
-        "editors"
+        "Florian Klug"
       ],
       "subjects": [
         "Theology",
@@ -45881,7 +45927,7 @@
       "datestamp": "2021-07-20",
       "title": "Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Part 3 (Florian Klug)",
       "creators": [
-        "editors"
+        "Florian Klug"
       ],
       "subjects": [
         "Theology",
@@ -45913,7 +45959,7 @@
       "datestamp": "2020-11-25",
       "title": "Tsimtsum In Life Of Pi, Part 1 (Daniel Reiser)",
       "creators": [
-        "editors"
+        "Daniel Reiser"
       ],
       "subjects": [
         "Jewish Philosophy of Religion",
@@ -45945,7 +45991,7 @@
       "datestamp": "2020-12-08",
       "title": "Tsimtsum In Life Of Pi, Part 2 (Daniel Reiser)",
       "creators": [
-        "editors"
+        "Daniel Reiser"
       ],
       "subjects": [
         "Jewish Philosophy of Religion",
@@ -45977,7 +46023,7 @@
       "datestamp": "2020-12-15",
       "title": "Tsimtsum In Life Of Pi, Part 3 (Daniel Reiser)",
       "creators": [
-        "editors"
+        "Daniel Reiser"
       ],
       "subjects": [
         "Jewish Philosophy of Religion",
@@ -46010,7 +46056,7 @@
       "datestamp": "2020-12-22",
       "title": "Tsimtsum In Life Of Pi, Part 4 (Daniel Reiser)",
       "creators": [
-        "editors"
+        "Daniel Reiser"
       ],
       "subjects": [
         "Jewish Philosophy of Religion",
@@ -46044,7 +46090,7 @@
       "datestamp": "2017-03-22",
       "title": "Untimely Meditations on Techno-Theology and Theo-Poetics, Part 1 (John Panteleimon Manoussakis)",
       "creators": [
-        "editors"
+        "John Panteleimon Manoussakis"
       ],
       "subjects": [
         "Philosophy",
@@ -46078,7 +46124,7 @@
       "datestamp": "2017-04-01",
       "title": "Untimely Meditations on Techno-Theology and Theo-Poetics, Part 2 (John Panteleimon Manoussakis)",
       "creators": [
-        "editors"
+        "John Panteleimon Manoussakis"
       ],
       "subjects": [
         "Philosophy",
@@ -46150,7 +46196,7 @@
       "datestamp": "2024-07-10",
       "title": "What Black Disabled Bodies Can Teach Us About Environmental Justice (Robert Monson)",
       "creators": [
-        "editors"
+        "Robert Monson"
       ],
       "subjects": [
         "Disability",
@@ -46249,7 +46295,7 @@
       "datestamp": "2023-09-28",
       "title": "What Exactly Is Postmodernism, And How Did It Change The Landscape Of Religious Studies?, Part 1 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -46285,7 +46331,7 @@
       "datestamp": "2023-10-11",
       "title": "What Exactly Is Postmodernism, And How Did It Change The Landscape Of Religious Studies?, Part 2 (Carl Raschke)",
       "creators": [
-        "editors"
+        "Carl A. Raschke"
       ],
       "subjects": [
         "Philosophy of Religion",
@@ -46322,7 +46368,7 @@
       "datestamp": "2016-07-11",
       "title": "What Is A Dispositif? – Part 1 (Gregg Lambert)",
       "creators": [
-        "editors"
+        "Gregg Lambert"
       ],
       "subjects": [
         "Critical Theory",
@@ -46361,7 +46407,7 @@
       "datestamp": "2016-07-18",
       "title": "What Is A Dispositif? – Part 2 (Gregg Lambert)",
       "creators": [
-        "editors"
+        "Gregg Lambert"
       ],
       "subjects": [
         "Critical Theory",

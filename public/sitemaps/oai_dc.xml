@@ -2,7 +2,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-08-05T06:54:07.525Z</responseDate>
+  <responseDate>2026-08-19T16:39:43.269Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/sitemaps/oai_dc.xml</request>
   <ListRecords>
     <record>
@@ -24477,7 +24477,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Timothy Snediker</dc:creator>
           <dc:subject>Religion and Economics</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>forgiveness</dc:subject>
@@ -24515,7 +24515,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Biopolitics and Vajrayana Buddhism, Part 1 (Padraic Fitzgerald)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Padraic Fitzgerald</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>Philosophy</dc:subject>
@@ -24552,7 +24552,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 1 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>political</dc:subject>
@@ -24588,7 +24588,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Donovan Schaefer’s Call For a Materialist Turn In Religious Theory (Jonathan Russell)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jonathan Russell</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -24622,7 +24622,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Biopolitics and Vajrayana Buddhism, Part 2 (Padraic Fitzgerald)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Padraic Fitzgerald</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>ritual</dc:subject>
           <dc:subject>individual</dc:subject>
@@ -24656,7 +24656,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Badiou’s Conversations About Theatre Offer Light-Hearted And Quirky Insight Into Mind Of Philosopher (Ryne Beddard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ryne Beddard</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Uncategorized</dc:subject>
           <dc:subject>philosophical</dc:subject>
@@ -24689,7 +24689,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 2 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>kant</dc:subject>
           <dc:subject>political</dc:subject>
@@ -24723,7 +24723,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Biopolitics and Vajrayana Buddhism, Part 3 (Padraic Fitzgerald)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Padraic Fitzgerald</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>ritual</dc:subject>
@@ -24760,7 +24760,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 3 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Religion and Economics</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
@@ -24798,7 +24798,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – The Evolution of the Religious Factor in Fantasy Role-Playing Games (Jeffrey Scholes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jeffrey Scholes</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Uncategorized</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -24833,7 +24833,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – The Search For Transcendence In The “Material Phenomenology” of David Foster Wallace (Jeff Appel)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jeff Appel</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Theory</dc:subject>
@@ -24868,7 +24868,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>What Is A Dispositif? – Part 1 (Gregg Lambert)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gregg Lambert</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Uncategorized</dc:subject>
           <dc:subject>Announcements</dc:subject>
@@ -24943,7 +24943,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>What Is A Dispositif? – Part 2 (Gregg Lambert)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gregg Lambert</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Globalization</dc:subject>
@@ -25018,7 +25018,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part 1 (Agata Bielik-Robson)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Agata Bielik-Robson</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Phenomenology</dc:subject>
           <dc:subject>Philosophical Theology</dc:subject>
@@ -25087,7 +25087,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part 2 (Agata Bielik-Robson)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Agata Bielik-Robson</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Aesthetics</dc:subject>
@@ -25154,7 +25154,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part 1 (Ronald Beiner)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ronald Beiner</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Religion and Economics</dc:subject>
@@ -25224,7 +25224,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part 2 (Ronald Beiner)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ronald Beiner</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
           <dc:subject>history</dc:subject>
@@ -25294,7 +25294,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>A Preface To The Genealogy of Neoliberalism, Part 1 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
           <dc:subject>political</dc:subject>
@@ -25360,7 +25360,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>A Preface To The Genealogy of Neoliberalism, Part 2 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
           <dc:subject>neoliberalism</dc:subject>
@@ -25394,7 +25394,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tutt)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Tutt</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Announcements</dc:subject>
@@ -25468,7 +25468,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Love, Psychoanalysis, and Leftist Political Ontology, Part 2 (Daniel Tutt)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Tutt</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -25508,7 +25508,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of Religion on the Rise of Modern Racism, Part 1 (Oludamini Ogunnaike)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Oludamini Ogunnaike</dc:creator>
           <dc:subject>African Studies</dc:subject>
           <dc:subject>Critical Race Theory</dc:subject>
           <dc:subject>rational</dc:subject>
@@ -25575,7 +25575,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of Religion on the Rise of Modern Racism, Part 2 (Oludamini Ogunnaike)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Oludamini Ogunnaike</dc:creator>
           <dc:subject>Critical Race Theory</dc:subject>
           <dc:subject>racism</dc:subject>
           <dc:subject>medieval</dc:subject>
@@ -25640,7 +25640,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Heathen to Sub-Human: A Genealogy of the Influence of the Decline of Religion on the Rise of Modern Racism, Part 3 (Oludamini Ogunnaike)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Oludamini Ogunnaike</dc:creator>
           <dc:subject>Critical Race Theory</dc:subject>
           <dc:subject>African Studies</dc:subject>
           <dc:subject>enlightenment</dc:subject>
@@ -25711,7 +25711,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Collective Desire and the Pathology of the Individual, Part 1 (Jodi Dean)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jodi Dean</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
@@ -25780,7 +25780,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Collective Desire and the Pathology of the Individual, Part 2 (Jodi Dean)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jodi Dean</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Announcements</dc:subject>
@@ -25816,7 +25816,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time” (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Sexuality and Religion</dc:subject>
@@ -25887,7 +25887,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Hanging Garlands Of Flowers On The Chains That Bind – Soft Totalitarianism and Techno-Rationality (Jeff Appel)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jeff Appel</dc:creator>
           <dc:subject>Media Theory</dc:subject>
           <dc:subject>technological</dc:subject>
           <dc:subject>real</dc:subject>
@@ -25918,7 +25918,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation, Part 1 (Alan Jay Richard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Alan Jay Richard</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
@@ -25988,7 +25988,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation, Part 2 (Alan Jay Richard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Alan Jay Richard</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>innocence</dc:subject>
@@ -26022,7 +26022,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation, Part 3 (Alan Jay Richard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Alan Jay Richard</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -26061,7 +26061,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of Contretemps, Part 1 (Daniel Rhodes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Rhodes</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -26098,7 +26098,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of Contretemps, Part 2 (Daniel Rhodes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Rhodes</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Higher Education</dc:subject>
           <dc:subject>capital</dc:subject>
@@ -26167,7 +26167,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Politics Of Contretemps, Part 3 (Daniel Rhodes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Rhodes</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>community</dc:subject>
@@ -26203,7 +26203,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 1 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -26240,7 +26240,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 2 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Higher Education</dc:subject>
@@ -26278,7 +26278,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – New Trends In The Theory And Methods For Studying Religion (David Kim)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>David Kim</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -26902,7 +26902,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Rethinking Anselm’s Atonement Theory –  “Unmaking” The Indebted Man (Ryne Beddard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ryne Beddard</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -26940,7 +26940,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Judith Butler And The Different “Senses” Of The Subject (Matthew Waggoner)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Matthew Waggoner</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>subject</dc:subject>
           <dc:subject>ethical</dc:subject>
@@ -26971,7 +26971,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Spinoza’s Theory of Religion – Stabilized Superstition (Ehud Benor)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ehud Benor</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>religion</dc:subject>
           <dc:subject>superstition</dc:subject>
@@ -27005,7 +27005,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joshua Lawrence</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -27111,7 +27111,8 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Philosophy As Interdisciplinary Intensity – An Interview With Giorgio Agamben (Antonio Gnolio/Ido Govrin)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Antonio Gnolio</dc:creator>
+          <dc:creator>Ido Govrin</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Political Theology</dc:subject>
@@ -27145,7 +27146,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 1 (John Panteleimon Manoussakis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Panteleimon Manoussakis</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -27215,7 +27216,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 2 (John Panteleimon Manoussakis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Panteleimon Manoussakis</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Higher Education</dc:subject>
@@ -27252,7 +27253,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Bell Jar’s New Look – Sylvia Plath, Simone De Beauvoir, And The Visual Representation Of Feminist Discourse (Madeline Yonker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Madeline Yonker</dc:creator>
           <dc:subject>Feminist Theory</dc:subject>
           <dc:subject>representation</dc:subject>
           <dc:subject>visual</dc:subject>
@@ -27319,7 +27320,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Foucault’s Disciplinary Society And The Community Rule Of Qumran (Rebekah Gordon)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rebekah Gordon</dc:creator>
           <dc:subject>Theory</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Hermeneutics</dc:subject>
@@ -27357,7 +27358,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and Andrew Feenberg on Lukács’ Theory of Reification (Konstantinos Kavoulakos)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Konstantinos Kavoulakos</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Uncategorized</dc:subject>
@@ -27426,7 +27427,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Untimely Meditations on Techno-Theology and Theo-Poetics, Part 1 (John Panteleimon Manoussakis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Panteleimon Manoussakis</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -27460,7 +27461,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Untimely Meditations on Techno-Theology and Theo-Poetics, Part 2 (John Panteleimon Manoussakis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Panteleimon Manoussakis</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Metaphysics</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -27529,7 +27530,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Forging A Path From Theory To Theology – Review Essay (Matt Waggoner)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Matt Waggoner</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Theory</dc:subject>
@@ -27562,7 +27563,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Hegemony And Techno-Rationality – Toward An Aesthetic Soteriology (Mason Davis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mason Davis</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Catholicism</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -27662,7 +27663,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The One Is Not – On the Fate Of Unity in Post-Metaphysical Philosophy (Jussi Backman)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jussi Backman</dc:creator>
           <dc:subject>Metaphysics</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
@@ -27698,7 +27699,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Caputo’s “Spooky” Call To Theology (Rob Kennedy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rob Kennedy</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>theology</dc:subject>
@@ -27732,7 +27733,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Economy And Ontology From Agamben To Nancy (Taylor Weaver)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Taylor Weaver</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>community</dc:subject>
           <dc:subject>political</dc:subject>
@@ -27798,7 +27799,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Autonomy As Secularism’s Silent Partner (Darshan Datar)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Darshan Datar</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>World Religions</dc:subject>
@@ -27836,7 +27837,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Bahai Religion And Religious Cycles (Rebekah Gordon)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rebekah Gordon</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>religion</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -27870,7 +27871,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Mysticism As Language Game (Adam Loch)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Adam Loch</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>mysticism</dc:subject>
           <dc:subject>propositional</dc:subject>
@@ -27936,7 +27937,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of The Demos, Part 1 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Political Economy</dc:subject>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>Announcements</dc:subject>
@@ -27978,7 +27979,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of The Demos, Part 2 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Political Economy</dc:subject>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>Political Theology</dc:subject>
@@ -28016,7 +28017,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of The Demos, Part 3 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>social</dc:subject>
@@ -28051,7 +28052,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Traversing W.H. Auden’s Religious And Aesthetic States, Part 1 (Raji Singh Soni)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Raji Singh Soni</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>religious</dc:subject>
           <dc:subject>citizenship</dc:subject>
@@ -28084,7 +28085,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Traversing W.H. Auden’s Religious And Aesthetic States, Part 2 (Raji Singh Soni)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Raji Singh Soni</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>aesthetic</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -28116,7 +28117,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Traversing W.H. Auden’s Religious And Aesthetic States, Part 3 (Raji Singh Soni)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Raji Singh Soni</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>aesthetic</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -28149,7 +28150,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Framing Religious Conflict and Violence – Insights from Historical Institutionalism, Part 1 (Vivek Swaroop Sharma)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Vivek Swaroop Sharma</dc:creator>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Announcements</dc:subject>
@@ -28190,7 +28191,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Framing Religious Conflict and Violence – Insights from Historical Institutionalism, Part 2 (Vivek Swaroop Sharma)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Vivek Swaroop Sharma</dc:creator>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>Political Economy</dc:subject>
           <dc:subject>Political Theology</dc:subject>
@@ -28231,7 +28232,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Studies and Comparative Theology – An Appraisal (Joshua Samuel)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joshua Samuel</dc:creator>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Religion and Media</dc:subject>
@@ -28301,7 +28302,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Slow Journalism? Ethnography As A Means Of Understanding Religious Social Activism, Part 1 (James V. Spickard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>James V. Spickard</dc:creator>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -28337,7 +28338,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Slow Journalism? Ethnography as a Means of Understanding Religious Social Activism, Part 2 (James V. Spickard)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>James V. Spickard</dc:creator>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>New Religions</dc:subject>
@@ -28409,7 +28410,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict, Part 1 (Brigid Burke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Brigid Burke</dc:creator>
           <dc:subject>Mythology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -28482,7 +28483,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict, Part 2 (Brigid Burke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Brigid Burke</dc:creator>
           <dc:subject>Mythology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -28556,7 +28557,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Power After Biopower, Or The Colonizing Of Perception (Adam Loch)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Adam Loch</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>preemption</dc:subject>
           <dc:subject>operative</dc:subject>
@@ -30630,7 +30631,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part I (Eric Trozzo)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Eric Trozzo</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -30664,7 +30665,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part II (Eric Trozzo)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Eric Trozzo</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -30734,7 +30735,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Prayer After The Death Of God, Part I (Ashley [Gay] Graham)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ashley Graham</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>event</dc:subject>
@@ -30805,7 +30806,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Prayer After the Death of God, Part II (Ashley [Gay] Graham)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ashley Graham</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy</dc:subject>
@@ -30842,7 +30843,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Christology to Political Theology (Cyril Hovorun)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Cyril Hovorun</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -30914,7 +30915,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>New Religions in Brazil – A Game Between Relativism and Fundamentalism (Silas Guerriero)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Silas Guerriero</dc:creator>
           <dc:subject>New Religions</dc:subject>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -30989,7 +30990,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Vertical Form – The Iconological Dimension in 20th Century Russian Religious Aesthetics and Literary Criticism, Part I (Oleg Komkov)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Oleg Komkov</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
@@ -31024,7 +31025,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Vertical Form – The Iconological Dimension in 20th Century Russian Religious Aesthetics and Literary Criticism, Part II (Oleg Komkov)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Oleg Komkov</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
@@ -31094,7 +31095,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Admitting A Certain Fear of Zizek’s Theology – A Modest Plea For A Deleuzian Reading Of The Death Of God (Elijah Prewitt-Davis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Elijah Prewitt-Davis</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -31165,7 +31166,8 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Secularism And Its Discontents – On Charting Pathways With A Phenomenology Of Religion, Part 1 (Ludger Hagerdorn and Michael Staudigl)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Ludger Hagerdorn</dc:creator>
+          <dc:creator>Michael Staudigl</dc:creator>
           <dc:subject>Phenomenology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -31200,7 +31202,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lutheran Theology And Postmodern Philosophy, Part I (Olli-Pekka Vaino)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Olli-Pekka Vaino</dc:creator>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -31235,7 +31237,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lutheran Theology and Postmodern Philosophy, Part II (Olli-Pekka Vaino)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Olli-Pekka Vaino</dc:creator>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -31273,7 +31275,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Thinking About God In A Pluralistic World – The Challenge of Modern Theology, Lecture 1 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -31309,7 +31311,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part I (Kevin Lewis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kevin Lewis</dc:creator>
           <dc:subject>Hermeneutics</dc:subject>
           <dc:subject>Theory</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -31345,7 +31347,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part II (Kevin Lewis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kevin Lewis</dc:creator>
           <dc:subject>Hermeneutics</dc:subject>
           <dc:subject>Theory</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -31380,7 +31382,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Critique Of Theism – Kant, Hegel, Feuerbach, Nietzsche, Lecture 2 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Mythology</dc:subject>
@@ -31420,7 +31422,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Beyond Religious Ideas – The Legacy Of Max Weber In Critical Theory And Critical Religion (Joel Harrison)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joel Harrison</dc:creator>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -31458,7 +31460,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On The “Religious” Reading Of Deconstruction, Part 1 (Neal DeRoo)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Neal Deroo</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>deconstruction</dc:subject>
@@ -31493,7 +31495,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On The “Religious” Reading Of Deconstruction, Part 2 (Neal DeRoo)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Neal Deroo</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>deconstruction</dc:subject>
@@ -31529,7 +31531,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On The “Religious” Reading Of Deconstruction, Part 3 (Neal DeRoo)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Neal Deroo</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -31565,7 +31567,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Negative Theology And Its Problems: Barth And Marion, Lecture 3 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
@@ -31602,7 +31604,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And Christian Mysticism, Part 1  (Mark Murphy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mark Murphy</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -31670,7 +31672,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And Christian Mysticism, Part 2 (Mark Murphy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mark Murphy</dc:creator>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Mythology</dc:subject>
@@ -31706,7 +31708,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And Christian Mysticism, Part 3 (Mark Murphy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mark Murphy</dc:creator>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -31777,7 +31779,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>God And Existence, Lecture 4 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>theology</dc:subject>
@@ -31810,7 +31812,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 1 (Philipp Valentini)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Philipp Valentini</dc:creator>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Political Theology</dc:subject>
@@ -31847,7 +31849,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 2 (Philipp Valentini)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Philipp Valentini</dc:creator>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Political Theology</dc:subject>
@@ -31884,7 +31886,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Towards A New Comparative Methodology In Religious Studies (Kara Roberts)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kara Roberts</dc:creator>
           <dc:subject>Mythology</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -31922,7 +31924,8 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religion And Mental Health – The Therapeutic Value Of The Teachings Of Jesus , Part 1 (Thomas Roberts And Delbert Hayden)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Thomas Roberts</dc:creator>
+          <dc:creator>Delbert Hayden</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -31993,7 +31996,8 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religion And Mental Health – The Therapuetic Value Of The Teachings of Jesus, Part 2 (Thomas Roberts and Delbert Hayden)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Thomas Roberts</dc:creator>
+          <dc:creator>Delbert Hayden</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -32029,7 +32033,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Inventing Afterlives – Review (Camille Grace Leon Angelo)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Camille Grace Leon Angelo</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
           <dc:subject>morality</dc:subject>
@@ -32063,7 +32067,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>God and History, Lecture 5 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -32098,7 +32102,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Decolonizing Dialectics (Josiah Solis)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Josiah Solis</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>dialectics</dc:subject>
           <dc:subject>dialectical</dc:subject>
@@ -33177,7 +33181,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Performance Apophatics (John Matthew Allison)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Matthew Allison</dc:creator>
           <dc:subject>Performance Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
@@ -33282,7 +33286,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human Skin (Tink Tinker, wazhazhe udsethe), Part 1</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Native American Religions</dc:subject>
           <dc:subject>colonial</dc:subject>
           <dc:subject>history</dc:subject>
@@ -33314,7 +33318,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human Skin, Part 2 (Tink Tinker, wazhazhe udsethe)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Native American Religions</dc:subject>
           <dc:subject>native</dc:subject>
           <dc:subject>resistance</dc:subject>
@@ -33345,7 +33349,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human Skin, Part 3 (Tink Tinker, wazhazhe udsethe)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Native American Religions</dc:subject>
           <dc:subject>narrative</dc:subject>
           <dc:subject>history</dc:subject>
@@ -33377,7 +33381,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>God And Language, Lecture 6 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -33412,7 +33416,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>God As Person and Trinity, Lecture 7 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -33447,7 +33451,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>God And Salvation, Lecture 8 (Johannes Zachhuber)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Johannes Zachhuber</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>salvation</dc:subject>
@@ -33483,7 +33487,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Jonathan Edwards And The Vegan Elect – An Unconventional Calvinist Reading, Part 1 (Tadd Ruetenik)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tadd Ruetenik</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -33560,7 +33564,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical Aesthetics, Part 1 (Jakob Deibl)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jakob Deibl</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Catholicism</dc:subject>
@@ -33596,7 +33600,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical Aesthetics, Part 2 (Jakob Deibl)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jakob Deibl</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>kant</dc:subject>
@@ -33630,7 +33634,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical Aesthetics, Part 3 (Jakob Deibl)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jakob Deibl</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -33664,7 +33668,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gavin Hyman</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -33701,7 +33705,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The “New Hegel” And The Question Of God, Part 2 (Gavin Hyman)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gavin Hyman</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>transcendence</dc:subject>
@@ -33735,7 +33739,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The “New Hegel” And The Question Of God, Part 3 (Gavin Hyman)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gavin Hyman</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>transcendence</dc:subject>
@@ -33768,7 +33772,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 1 (Sarah Pessin)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Sarah Pessin</dc:creator>
           <dc:subject>Interfaith Conversations</dc:subject>
           <dc:subject>subjectivity</dc:subject>
           <dc:subject>christianity</dc:subject>
@@ -33801,7 +33805,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 2 (Sarah Pessin)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Sarah Pessin</dc:creator>
           <dc:subject>Interfaith Conversations</dc:subject>
           <dc:subject>christianity</dc:subject>
           <dc:subject>liberalism</dc:subject>
@@ -33835,7 +33839,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Fetishism And The Erasure Of Identity, Part 1 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>indigenous</dc:subject>
@@ -33871,7 +33875,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Fetishism And The Erasure Of Identity, Part 2 (Roger Green)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -33908,7 +33912,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Speaking Of God’s Presence As Non-Contrastive Transcendent Distinction (Joyce Konigsburg)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joyce Konigsburg</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>presence</dc:subject>
           <dc:subject>transcendence</dc:subject>
@@ -33941,7 +33945,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Irreducible (Jean-Luc Marion)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jean-Luc Marion</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -33974,7 +33978,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Christianity As A New Humanism – Historical, Theological, And Philosophical Reflections On The Bible, Hegel, And Robert Musil, Part 4 (Kurt Appel)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kurt Appel</dc:creator>
           <dc:subject>historical</dc:subject>
           <dc:subject>philosophical</dc:subject>
           <dc:subject>theological</dc:subject>
@@ -34001,7 +34005,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From The Gift Of Mortality To The Name Of God (Jakob Helmut Deibl)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jakob Deibl</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>story</dc:subject>
@@ -34065,7 +34069,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 (Gavin Hurley)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gavin Hurley</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Catholicism</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -35516,7 +35520,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 2 (Gavin Hurley)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gavin Hurley</dc:creator>
           <dc:subject>Aesthetics</dc:subject>
           <dc:subject>Catholicism</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -35551,7 +35555,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 1 (Matt Rosen)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Matt Rosen</dc:creator>
           <dc:subject>Political Philosophy</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
@@ -35592,7 +35596,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 2 (Matt Rosen)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Matt Rosen</dc:creator>
           <dc:subject>Political Philosophy</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Political Theology</dc:subject>
@@ -35665,7 +35669,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Reframing The Adwa Victory As A Decolonizing Praxis –  Discourse Around Colonization In The Ethiopian Context, Part 1 (Rode Molla)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rode Molla</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>victory</dc:subject>
@@ -35700,7 +35704,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Reframing The Adwa Victory As A Decolonizing Praxis – Discourse Around Colonization In The Ethiopian Context, Part 2 (Rode Molla)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rode Molla</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -35736,7 +35740,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Hollow Christians Of End Times Fiction, Part 1 (Paul Maltby)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Paul Maltby</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>fiction</dc:subject>
           <dc:subject>salvation</dc:subject>
@@ -35772,7 +35776,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Hollow Christians Of End Times Fiction, Part 2 (Paul Maltby)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Paul Maltby</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>fiction</dc:subject>
           <dc:subject>spiritual</dc:subject>
@@ -35807,7 +35811,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Hollow Christians Of End Times Fiction, Part 3 (Paul Maltby)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Paul Maltby</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>fiction</dc:subject>
           <dc:subject>spiritual</dc:subject>
@@ -35841,7 +35845,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Lacan And Pneumatology (Mark Murphy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mark Murphy</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Mythology</dc:subject>
@@ -35878,7 +35882,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic Hospitality And The Limits Of Multiculturalism, Part 1 (Emily McAvan)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>EMILY McAVAN</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>hospitality</dc:subject>
           <dc:subject>reluctant</dc:subject>
@@ -35913,7 +35917,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic Hospitality And The Limits Of Multiculturalism, Part 2 (Emily McAvan)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>EMILY McAVAN</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>hospitality</dc:subject>
           <dc:subject>abrahamic</dc:subject>
@@ -35948,7 +35952,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons, Part 1 (J. Edward Hackett)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>J. Edward Hackett</dc:creator>
           <dc:subject>Phenomenology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>experience</dc:subject>
@@ -35982,7 +35986,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons, Part 2 (J. Edward Hackett)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>J. Edward Hackett</dc:creator>
           <dc:subject>Phenomenology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>impulsion</dc:subject>
@@ -36017,7 +36021,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Naming The Darkness,” Spiritual Violence, And Radical Incompleteness –  Resituating A Political Theology, Part 1 (James E. Willis, III)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>James E. Willis Iii</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>theology</dc:subject>
@@ -36052,7 +36056,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Naming The Darkness,” Spiritual Violence, And Radical Incompleteness – Resituating A Political Theology, Part 2 (James E. Willis, III)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>James E. Willis Iii</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Political Philosophy</dc:subject>
@@ -36094,7 +36098,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To The Leveling Of The Public Sphere, Part 1 (Andrew Ball)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Andrew J. Ball</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>public</dc:subject>
@@ -36127,7 +36131,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To The Leveling Of The Public Sphere, Part 2 (Andrew Ball)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Andrew J. Ball</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>economy</dc:subject>
@@ -36160,7 +36164,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Studies – The Final Colonization Of American Indians, Part 1 (Tink Tinker, wazhazhe udsethe)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Native American Religions</dc:subject>
           <dc:subject>religion</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -36193,7 +36197,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Studies – The Final Colonization Of American Indians, Part 2 (Tink Tinker, wazhazhe udsethe)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Native American Religions</dc:subject>
           <dc:subject>native</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -36226,7 +36230,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus As The Inauguration Of An Age Of Writing, Part 1 (Jared Lacy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jared Lacy</dc:creator>
           <dc:subject>Higher Education</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -36261,7 +36265,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus As The Inauguration Of An Age Of Writing, Part 2 (Jared Lacy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jared Lacy</dc:creator>
           <dc:subject>Higher Education</dc:subject>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -36295,7 +36299,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Progressive Neoliberalism” – Symbolic Capitalism And The Global Reproduction Of The “Precariat” (Interview With Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Interviews</dc:subject>
           <dc:subject>neoliberalism</dc:subject>
           <dc:subject>capitalism</dc:subject>
@@ -36328,7 +36332,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous, Part 1 (Alberto Urquidez)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Alberto Urquidez</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -36361,7 +36365,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous, Part 2 (Alberto Urquidez)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Alberto Urquidez</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -36393,7 +36397,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous, Part 3 (Alberto Urquidez)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Alberto Urquidez</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -36463,7 +36467,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Bushwhacking Derrida – “Perception” – “Context of Context”, “The Hunter And The Hunted” (Gary Bedford)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Gary Bedford</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>perception</dc:subject>
           <dc:subject>textual</dc:subject>
@@ -36496,7 +36500,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In Adjudicating Competing Ethical Claims, Part 1 (W. Travis McMaken)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>W. Travis Mcmaken</dc:creator>
           <dc:subject>Theological Ethics</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -36533,7 +36537,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In Adjudicating Competing Ethical Claims, Part 2 (W. Travis McMaken)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>W. Travis Mcmaken</dc:creator>
           <dc:subject>Theological Ethics</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -36640,7 +36644,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sexual Difference And The Vatican – A Lacanian Response, Part 1 (Melissa Conroy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Melissa Conroy</dc:creator>
           <dc:subject>Sexuality and Religion</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>sexual</dc:subject>
@@ -36675,7 +36679,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sexual Difference And The Vatican – A Lacanian Response, Part 2 (Melissa Conroy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Melissa Conroy</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Sexuality and Religion</dc:subject>
           <dc:subject>sexual</dc:subject>
@@ -36709,7 +36713,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sexual Difference And The Vatican – A Lacanian Response, Part 3 (Melissa Conroy)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Melissa Conroy</dc:creator>
           <dc:subject>Sexuality and Religion</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>difference</dc:subject>
@@ -36743,7 +36747,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Antinomian Flesh, Part 1 (David Kline)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>David Kline</dc:creator>
           <dc:subject>Religion and Race</dc:subject>
           <dc:subject>political</dc:subject>
           <dc:subject>social</dc:subject>
@@ -36775,7 +36779,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Antinomian Flesh, Part 2 (David Kline)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>David Kline</dc:creator>
           <dc:subject>Religion and Race</dc:subject>
           <dc:subject>racial</dc:subject>
           <dc:subject>political</dc:subject>
@@ -36847,7 +36851,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Antinomian Flesh, Part 3 (David Kline)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>David Kline</dc:creator>
           <dc:subject>Religion and Race</dc:subject>
           <dc:subject>poetics</dc:subject>
           <dc:subject>identity</dc:subject>
@@ -36915,7 +36919,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Tsimtsum In Life Of Pi, Part 1 (Daniel Reiser)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Reiser</dc:creator>
           <dc:subject>Jewish Philosophy of Religion</dc:subject>
           <dc:subject>story</dc:subject>
           <dc:subject>hasidic</dc:subject>
@@ -36947,7 +36951,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Tsimtsum In Life Of Pi, Part 2 (Daniel Reiser)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Reiser</dc:creator>
           <dc:subject>Jewish Philosophy of Religion</dc:subject>
           <dc:subject>absence</dc:subject>
           <dc:subject>experience</dc:subject>
@@ -36979,7 +36983,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Tsimtsum In Life Of Pi, Part 3 (Daniel Reiser)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Reiser</dc:creator>
           <dc:subject>Jewish Philosophy of Religion</dc:subject>
           <dc:subject>story</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -37012,7 +37016,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Tsimtsum In Life Of Pi, Part 4 (Daniel Reiser)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Daniel Reiser</dc:creator>
           <dc:subject>Jewish Philosophy of Religion</dc:subject>
           <dc:subject>judaism</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -37515,7 +37519,8 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Critical Conversations  – American Indian Worldview And The Twinned Cosmos Of Indigenous America  (Barbara Alice Mann, Onondawaga, Bear Clan And Tink Tinker, Wazhazhe, Osage Nation, Eagle Clan)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Barbara Alice Mann</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>want</dc:subject>
           <dc:subject>important</dc:subject>
@@ -37548,7 +37553,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Modern Theology And The Dialectic Of God, Part 1 (Kelly Maeshiro)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kelly Maeshiro</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -37584,7 +37589,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Modern Theology And The Dialectic Of God, Part 2 (Kelly Maeshiro)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kelly Maeshiro</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
@@ -37620,7 +37625,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kelly Maeshiro</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -37656,7 +37661,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Modern Theology And The Dialectic Of God, Part 4 (Kelly Maeshiro)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kelly Maeshiro</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Performance Studies</dc:subject>
@@ -37690,7 +37695,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Reorientation In The Field – Why Religion Matters, Part 1 (Wendy Felese)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Wendy Felese</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -37761,7 +37766,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Reorientation In The Field – Why Religion Matters, Part 2 (Wendy Felese)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Wendy Felese</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -37899,7 +37904,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 1 (N.E. Boulting)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>N. E. Boulting</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>science</dc:subject>
@@ -37934,7 +37939,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 2 (N.E. Boulting</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>N. E. Boulting</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>philosophy</dc:subject>
           <dc:subject>science</dc:subject>
@@ -37969,7 +37974,8 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchild And Devin Singh)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Philip Goodchild</dc:creator>
+          <dc:creator>Devin Singh</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Political Theory</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
@@ -38111,7 +38117,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Truth And Irony –  Beyond Binary Patterns In Theological Reasoning, Part 1 (Florian Klug)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Florian Klug</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Philosophy</dc:subject>
@@ -38147,7 +38153,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Part 2 (Florian Klug)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Florian Klug</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Theory</dc:subject>
@@ -38180,7 +38186,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Part 3 (Florian Klug)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Florian Klug</dc:creator>
           <dc:subject>Theology</dc:subject>
           <dc:subject>confession</dc:subject>
           <dc:subject>sacrament</dc:subject>
@@ -38254,7 +38260,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity in Brazil –  Theological Origins Of A Nation’s Self-Understanding, Part 1 (Vinicius Marinho)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Vinicius Marinho</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>dignity</dc:subject>
@@ -38288,7 +38294,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity In Brazil – Theological Origins Of A Nation’s Self-Understanding, Part 2 (Vinicius Marinho)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Vinicius Marinho</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>colonial</dc:subject>
@@ -38323,7 +38329,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity In Brazil – Theological Origins Of A Nation’s Self-Understanding, Part 3 (Vinicius Marinho)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Vinicius Marinho</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>dignity</dc:subject>
           <dc:subject>natural</dc:subject>
@@ -38400,7 +38406,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious Virtues, Part 1 (A.G. Holdier)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>A. G. Holdier</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>theological</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -38433,7 +38439,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>“Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious Virtues, Part 2 (A.G. Holdier)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>A. G. Holdier</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>theological</dc:subject>
           <dc:subject>perceptual</dc:subject>
@@ -38466,7 +38472,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Entheogens, Spirituality, And Modern Myths, Part 1 (John Cuda)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Cuda</dc:creator>
           <dc:subject>New Religions</dc:subject>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>social</dc:subject>
@@ -38501,7 +38507,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Entheogens, Spirituality, And Modern Myths, Part 2 (John Cuda)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Cuda</dc:creator>
           <dc:subject>New Religions</dc:subject>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>identity</dc:subject>
@@ -38537,7 +38543,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>John Cuda</dc:creator>
           <dc:subject>New Religions</dc:subject>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
@@ -38573,7 +38579,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian Rose And Paul, Part 1 (Michael C. Raubach)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Michael C. Raubach</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Philosophical Theology</dc:subject>
@@ -38611,7 +38617,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian Rose And Paul, Part 2 (Michael C. Raubach)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Michael C. Raubach</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>universal</dc:subject>
           <dc:subject>subject</dc:subject>
@@ -38642,7 +38648,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Futurity Of God, Part 1 (Lenart Škof)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Lenart Škof</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>philosophy</dc:subject>
@@ -38678,7 +38684,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Futurity Of God, Part 2 (Lenart Škof)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Lenart Škof</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>magic</dc:subject>
@@ -40066,7 +40072,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Locating The Oceanic in Sylvia Wynter’s “Demonic Ground”, Part 1 (Justine M. Bakker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Justine M. Bakker</dc:creator>
           <dc:subject>Critical Race Theory</dc:subject>
           <dc:subject>demonic</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -40099,7 +40105,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 2 (Justine M. Bakker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Justine M. Bakker</dc:creator>
           <dc:subject>Critical Race Theory</dc:subject>
           <dc:subject>African Studies</dc:subject>
           <dc:subject>demonic</dc:subject>
@@ -40135,7 +40141,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 3 (Justine M. Bakker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Justine M. Bakker</dc:creator>
           <dc:subject>Critical Race Theory</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
@@ -40171,7 +40177,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings of Heidegger’s “Geist”, Part 1 (Jake Sirota)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jake S Sirota</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Mythology</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -40209,7 +40215,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings of Heidegger’s “Geist”, Part 2 (Jake Sirota)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jake S Sirota</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Mythology</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
@@ -40247,7 +40253,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings Of Heidegger’s “Geist”, Part 3 (Jake Sirota)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Jake S Sirota</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Phenomenology</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -40367,7 +40373,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical Conversation” With Roger Green</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Roger Green</dc:creator>
           <dc:subject>Critical Conversations</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>political</dc:subject>
@@ -40401,7 +40407,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane Yesus, Part 1 (Rode Molla)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rode Molla</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
@@ -40437,7 +40443,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane Yesus, Part 2 (Rode Molla)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rode Molla</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Reviews</dc:subject>
@@ -40472,7 +40478,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane Yesus, Part 3 (Rode Molla)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rode Molla</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Indigenous Religions</dc:subject>
@@ -40590,7 +40596,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Legacy Of Charles H. Long – Resisting and Short-Circuiting the Discourses Of Exclusion In The Theory And Practice Of Administration (Victor E. Taylor)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Victor Taylor</dc:creator>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Religion and Media</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
@@ -40627,7 +40633,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Rapture Music – Intensity And Eschatology Within Christian Revival Movements, Part 1 (Fraser Macdonald)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Fraser Macdonald</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>music</dc:subject>
@@ -40661,7 +40667,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Rapture Music – Intensity And Eschatology Within Christian Revival Movements, Part 2 (Fraser Macdonald)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Fraser Macdonald</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>music</dc:subject>
@@ -40695,7 +40701,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Rapture Music – Intensity And Eschatology Within Christian Revival Movements, Part 3 (Fraser Macdonald)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Fraser Macdonald</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>music</dc:subject>
@@ -40730,7 +40736,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H. Long, Part 1 (Mehnaz Afridi)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mehnaz Afridi</dc:creator>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -40767,7 +40773,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H. Long, Part 2 (Mehnaz Afridi)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mehnaz Afridi</dc:creator>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -40838,7 +40844,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Studies As The “State Religion” Of Neoliberalism, Part 1 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Uncategorized</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Mythology</dc:subject>
@@ -40879,7 +40885,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Studies As The “State Religion” Of Neoliberalism, Part 2 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Neoliberalism and Religion</dc:subject>
           <dc:subject>neoliberalism</dc:subject>
           <dc:subject>social</dc:subject>
@@ -40912,7 +40918,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Studies As The “State Religion” Of Neoliberalism, Part 3 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Neoliberalism and Religion</dc:subject>
           <dc:subject>religion</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -40945,7 +40951,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>A Tainted Trophy And The Framing Of White Supremacy In America, Part 1 (Tink Tinker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>history</dc:subject>
@@ -40980,7 +40986,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>A Tainted Trophy And The Framing Of White Supremacy In America, Part 2 (Tink Tinker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>history</dc:subject>
@@ -41015,7 +41021,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (Tink Tinker)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Tink Tinker</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>native</dc:subject>
@@ -41049,7 +41055,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 1 (Erik Meganck)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Erik Meganck</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Lutheran Theology</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -41086,7 +41092,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 2 (Erik Meganck)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Erik Meganck</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>secularization</dc:subject>
@@ -41121,7 +41127,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 3 (Erik Meganck)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Erik Meganck</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
@@ -41969,7 +41975,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 1 (Rebekah Howes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rebekah Howes</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -42005,7 +42011,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 2 (Rebekah Howes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rebekah Howes</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -42041,7 +42047,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 3 (Rebekah Howes)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Rebekah Howes</dc:creator>
           <dc:subject>Philosophical Theology</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -42116,7 +42122,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual Practices, Part 1 (Joshua Hall)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joshua M Hall</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>dance</dc:subject>
@@ -42151,7 +42157,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual Practices, Part 2 (Joshua Hall)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joshua M Hall</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>dance</dc:subject>
@@ -42187,7 +42193,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual Practices, Part 3 (Joshua Hall)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Joshua M Hall</dc:creator>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>dance</dc:subject>
           <dc:subject>social</dc:subject>
@@ -42222,7 +42228,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Body Erotic –  John Boswell’s History Of Eurochristian Sexuality And The Case For Transcendental Somatics, Part 1 (Kieryn Wurts)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kieryn E. Wurts</dc:creator>
           <dc:subject>Gender Studies</dc:subject>
           <dc:subject>historical</dc:subject>
           <dc:subject>sexuality</dc:subject>
@@ -42256,7 +42262,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case For Transcendental Somatics, Part 2 (Kieryn Wurts)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kieryn E. Wurts</dc:creator>
           <dc:subject>Gender Studies</dc:subject>
           <dc:subject>sexuality</dc:subject>
           <dc:subject>history</dc:subject>
@@ -42290,7 +42296,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case For Transcendental Somatics, Part 3 (Kieryn Wurts)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kieryn E. Wurts</dc:creator>
           <dc:subject>Gender Studies</dc:subject>
           <dc:subject>sexuality</dc:subject>
           <dc:subject>transcendental</dc:subject>
@@ -42323,7 +42329,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Trauma In Emmanuel Levinas’ Writing Body, Part 1 (Magdalena Sedmak)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Magdalena Sedmak</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>trauma</dc:subject>
@@ -42357,7 +42363,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Trauma In Emmanuel Levinas’ Writing Body, Part 2 (Magdalena Sedmak)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Magdalena Sedmak</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Sexuality and Religion</dc:subject>
@@ -42426,7 +42432,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei Intellectualis, Part 1 (Caterina De Gaetano)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Caterina Gaetano</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>imagination</dc:subject>
           <dc:subject>imaginative</dc:subject>
@@ -42458,7 +42464,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei Intellectualis, Part 2 (Caterina De Gaetano)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Caterina Gaetano</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -42492,7 +42498,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>George Batailles On Ethnographic Surrealism And “The Limits Of The Useful” – Review Essay (Matt Waggoner)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Matt Waggoner</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Uncategorized</dc:subject>
           <dc:subject>surrealism</dc:subject>
@@ -42561,7 +42567,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>What Exactly Is Postmodernism, And How Did It Change The Landscape Of Religious Studies?, Part 1 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -42597,7 +42603,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>What Exactly Is Postmodernism, And How Did It Change The Landscape Of Religious Studies?, Part 2 (Carl Raschke)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Religious Studies</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -42634,7 +42640,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Sacred As Bordering Practice, Part 1 (Anna-Maria Edlinger)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Anna-Maria Edlinger</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
           <dc:subject>migration</dc:subject>
@@ -42668,7 +42674,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Sacred As Bordering Practice, Part 2 (Anna-Maria Edlinger)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Anna-Maria Edlinger</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Political Philosophy</dc:subject>
@@ -42707,7 +42713,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic Healings, Part 1 (Anna Magnasco)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Anna-Maria Magnasco</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>charismatic</dc:subject>
@@ -42741,7 +42747,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic Healings, Part 2 (Anna Magnasco)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Anna-Maria Magnasco</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>charismatic</dc:subject>
@@ -43626,7 +43632,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sikhs As Subalterns – Voice, Inequality, and Power, Part 1 (Nirvikar Singh)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Nirvikar Singh</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Indigenous Religions</dc:subject>
           <dc:subject>community</dc:subject>
@@ -43662,7 +43668,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sikhs As Subalterns – Voice, Inequality, And Power, Part 2 (Nirvikar Singh)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Nirvikar Singh</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>Indigenous Religions</dc:subject>
@@ -43699,7 +43705,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sikhs As Subalterns – Voice, Inequality, And Power, Part 3 (Nirvikar Singh)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Nirvikar Singh</dc:creator>
           <dc:subject>Postcolonial Theory</dc:subject>
           <dc:subject>Theology</dc:subject>
           <dc:subject>tradition</dc:subject>
@@ -43734,7 +43740,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin S. Grane)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Kevin S. Grane</dc:creator>
           <dc:subject>Cultural Theory</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
@@ -43772,7 +43778,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Environmental Ethics of Pope Francis – Parsing Key Terms and Claims In Laudato Si’ (Thomas Massaro, S.J.)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Thomas Massaro</dc:creator>
           <dc:subject>Religion and Ecology</dc:subject>
           <dc:subject>ecological</dc:subject>
           <dc:subject>social</dc:subject>
@@ -43804,7 +43810,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Image of God and Our Vocation of the Soil, Part 1 (Mick Pope)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mick Pope</dc:creator>
           <dc:subject>Religion and Ecology</dc:subject>
           <dc:subject>creation</dc:subject>
           <dc:subject>agricultural</dc:subject>
@@ -43837,7 +43843,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Image of God and Our Vocation of the Soil, Part 2 (Mick Pope)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Mick Pope</dc:creator>
           <dc:subject>Uncategorized</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Mythology</dc:subject>
@@ -43876,7 +43882,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Metaphysical Protestantism-A Comparative Literary Ecology (Zane Johnson)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Zane Johnson</dc:creator>
           <dc:subject>Religion and Literature</dc:subject>
           <dc:subject>metaphysical</dc:subject>
           <dc:subject>renaissance</dc:subject>
@@ -43910,7 +43916,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>What Black Disabled Bodies Can Teach Us About Environmental Justice (Robert Monson)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Robert Monson</dc:creator>
           <dc:subject>Disability</dc:subject>
           <dc:subject>disability</dc:subject>
           <dc:subject>environmental</dc:subject>
@@ -43976,7 +43982,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sikh Environmental Ethics-Theory and Praxis Part 1 (Harpreet Kaur)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Harpreet Kaur</dc:creator>
           <dc:subject>Sikhism</dc:subject>
           <dc:subject>environmental</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -44010,7 +44016,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Sikh Environmental Ethics-Theory and Praxis Part 2 (Harpreet Kaur)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Harpreet Kaur</dc:creator>
           <dc:subject>Sikhism</dc:subject>
           <dc:subject>environmental</dc:subject>
           <dc:subject>spiritual</dc:subject>
@@ -44075,7 +44081,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Greening America’s Virtues (Nick Mather)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Nick Mather</dc:creator>
           <dc:subject>Religion and Ecology</dc:subject>
           <dc:subject>environmental</dc:subject>
           <dc:subject>political</dc:subject>
@@ -44107,7 +44113,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Healing As A Multimedia Practice – Contemporary Spirituality In Turkey, Part 1 (Duygu Sendag)</dc:title>
-          <dc:creator>editors</dc:creator>
+          <dc:creator>Duygu Sendag</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>religious</dc:subject>
@@ -45860,6 +45866,46 @@
           <dc:source>Vol. 25, No. 1, pp. 100-136</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.1/schwartzberg.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:religioustheory:9780593493205</identifier>
+        <datestamp>2026-08-18</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>BOOK REVIEW: YASCHA MOUNK, THE IDENTITY TRAP: A STORY OF IDEAS AND POWER IN OUR TIME.</dc:title>
+          <dc:creator>Kevin S. Grane</dc:creator>
+          <dc:subject>Book-Review</dc:subject>
+          <dc:subject>Reviews</dc:subject>
+          <dc:subject>Critical Race Theory</dc:subject>
+          <dc:subject>Political Theory</dc:subject>
+          <dc:subject>Political Philosophy</dc:subject>
+          <dc:subject>identity</dc:subject>
+          <dc:subject>liberalism</dc:subject>
+          <dc:subject>universalism</dc:subject>
+          <dc:subject>democracy</dc:subject>
+          <dc:subject>politics</dc:subject>
+          <dc:subject>Critical race theory</dc:subject>
+          <dc:subject>Democracy</dc:subject>
+          <dc:subject>Identity (Philosophical concept)</dc:subject>
+          <dc:subject>Liberalism</dc:subject>
+          <dc:subject>Multiculturalism</dc:subject>
+          <dc:description>Kevin Grane reviews Yascha Mounk’s The Identity Trap, whose sharpest contribution is showing how the identity synthesis undercuts its own egalitarian aims.</dc:description>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2026-08-18</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://jcrt.org/religioustheory/posts/9780593493205/</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:language>en</dc:language>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>

@@ -112,6 +112,10 @@
             <a href="{{ pdfUrl }}" title="Download Article as a PDF" class="btn btn-primary px-3 shadow-sm" target="_blank">
               <i class="bi bi-file-earmark-pdf"></i> Download Article
             </a>
+          {% elif not isIssueIndex and doiUrl %}
+            <a href="{{ doiUrl }}" title="Download Article via DOI" class="btn btn-primary px-3 shadow-sm" target="_blank" rel="noopener">
+              <i class="bi bi-file-earmark-pdf"></i> Download Article
+            </a>
           {% endif %}
           {% if not isIssueIndex and risCitationUrl %}
             <a href="{{ risCitationUrl }}" title="Download citation as RIS" class="btn btn-outline-primary px-3 shadow-sm" download>
