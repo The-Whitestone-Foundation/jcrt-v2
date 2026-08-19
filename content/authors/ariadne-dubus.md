@@ -1,6 +1,6 @@
 ---
 nanoid: "bw8CHc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehdhs7k42u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf7adwbkq2f'
 name: Ariadne Dubus
 affiliation: "Binghamton University"
 bio:

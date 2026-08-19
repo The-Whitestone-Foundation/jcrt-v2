@@ -1,7 +1,7 @@
 ---
 nanoid: "YbnthW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehb4zt6b2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf754yvul2e'
 title: 'Entheogens, Spirituality, And Modern Myths, Part 1 (John Cuda)'
 description: "The following is the first of a three-part series. In this article I seek to analyze spiritual phenomena using contemporary mythological and pop-cultural"
 date: '2021-10-04T02:47:13.000Z'

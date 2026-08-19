@@ -1,7 +1,7 @@
 ---
 nanoid: "IAlJiz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehbiojvu2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75mxgrl23'
 title: Looking For Reviewers
 description: "We are looking for authors to review the a variety books in different topic areas related to religious and cultural theory It highlights key arguments"
 date: '2018-01-02T00:09:52.000Z'

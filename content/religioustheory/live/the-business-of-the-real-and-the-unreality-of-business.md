@@ -1,6 +1,6 @@
 ---
 nanoid: "3qC8mB"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehc6w27m2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76m3btm2i'
 title: "The Business of the Real and the Unreality of Business"
 description: "Victor Taylor examines corporate failure and the 2008 economic crisis, arguing that business models conceal the Real they claim to master through metrics."
 date: '2008-12-27'

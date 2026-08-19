@@ -1,7 +1,7 @@
 ---
 nanoid: "haHtfr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtehauu2242p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74snfet2h'
 title: 'The Image of God and Our Vocation of the Soil, Part 1 (Mick Pope)'
 description: "Earth history has entered a new geological era known as the Anthropocene. The commonly agreed origin of this era was the 1950s with the “Great Acceleration,” a"
 date: '2024-05-03T22:51:43.000Z'
