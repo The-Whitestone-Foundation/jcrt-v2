@@ -7,7 +7,7 @@ title: >-
   Religion on the Rise of Modern Racism, Part 3 (Oludamini Ogunnaike)
 description: "The following is the third part of an article in three installments that initially appeared in July 2016 in Open Theology 2:2016 785-203 It highlights"
 date: '2016-10-04T03:22:37.000Z'
-author: editors
+author: Oludamini Ogunnaike
 image: /images/2016/09/mumbett702.webp
 categories:
   - Critical Race Theory

@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcf7d
 title: 'The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)'
 description: "Among recent developments in continental philosophy and religious thought, one of the most prominent has been a ‘return to Hegel.’ It has been exemplified in"
 date: '2019-05-24T12:20:15.000Z'
-author: editors
+author: Gavin Hyman
 image: /images/2019/05/hegel_by_kugler_retouched.webp
 categories:
   - Philosophy of Religion

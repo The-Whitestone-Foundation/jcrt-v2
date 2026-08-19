@@ -7,7 +7,7 @@ title: >-
   Of The “Precariat” (Interview With Carl Raschke)
 description: "*Raschke, Carl. Neoliberalism and Political Theology: From Kant to Identity Politics. Edinburgh: Edinburgh University Press, 2019 It highlights key arguments"
 date: '2020-07-05T20:19:28.000Z'
-author: editors
+author: Carl A. Raschke
 image: /images/2020/07/img_6855.webp
 categories:
   - Interviews

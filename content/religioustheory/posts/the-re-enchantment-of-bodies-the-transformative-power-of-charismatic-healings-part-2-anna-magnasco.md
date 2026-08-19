@@ -7,7 +7,7 @@ title: >-
   Healings, Part 2 (Anna Magnasco)
 description: "The following is the first of a two-part series. The first installment can be found here. It was originally published in issue 22.1 of the Journal for Cultural"
 date: '2023-12-12T16:56:00.000Z'
-author: editors
+author: Anna-Maria Magnasco
 image: /images/2023/12/screenshot-2023-12-25-at-5-56-48-pm.webp
 categories:
   - Anthropology of Religion

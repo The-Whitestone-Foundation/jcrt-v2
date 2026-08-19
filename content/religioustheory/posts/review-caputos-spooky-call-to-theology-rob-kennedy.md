@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcthk
 title: Review – Caputo’s “Spooky” Call To Theology (Rob Kennedy)
 description: "*Caputo, John D., Moody, Sarah, and DeLay, Tad., It Spooks: Living In Response To An Unheard Call. Rapid City SD: Shelter50 Publishing Collective, 2015"
 date: '2017-05-15T19:10:04.000Z'
-author: editors
+author: Rob Kennedy
 image: /images/2017/05/ghost-story.webp
 categories:
   - Reviews

@@ -7,7 +7,7 @@ title: >-
   Waggoner)
 description: "Note: This review is also published simultaneously in the PDF special issue of JCRT 16.1. *Butler, Judith. Senses of the Subject Senses of the Subject."
 date: '2017-01-09T08:44:06.000Z'
-author: editors
+author: Matthew Waggoner
 image: /images/2017/01/20897035259_73d12d6fb3_b.webp
 categories:
   - Reviews

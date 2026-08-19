@@ -7,7 +7,7 @@ title: >-
   Raschke)
 description: "> “Neptunus alii per alia, poterunt intellegi qui qualesque sint, quoque eos nomine consuetudo nuncupaverit, hoc eos et venerari et colere debemus.” – Cicero"
 date: '2022-09-07T20:13:03.000Z'
-author: editors
+author: Carl A. Raschke
 image: /images/2022/10/august_labicana_massimo_inv56230_n2.webp
 categories:
   - Uncategorized

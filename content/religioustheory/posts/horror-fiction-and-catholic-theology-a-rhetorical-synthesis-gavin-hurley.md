@@ -7,7 +7,7 @@ title: >-
   Hurley)
 description: "Catholic horror—horror fiction that integrates Catholic perspectives into the fiction itself—is often be seen by Catholics to be incompatible with the mission"
 date: '2019-12-29T21:37:41.000Z'
-author: editors
+author: Gavin Hurley
 image: /images/2019/12/ossuary-bones.webp
 categories:
   - Aesthetics

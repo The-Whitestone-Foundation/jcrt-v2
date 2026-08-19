@@ -8,7 +8,7 @@ title: >-
   Valentini)
 description: "The following is the second installment of a three-part series. The first can be found here. A non-Paulinian theology understands the Law not as a whole but as"
 date: '2018-09-15T02:24:13.000Z'
-author: editors
+author: Philipp Valentini
 image: /images/2018/09/img_2675.webp
 categories:
   - World Religions

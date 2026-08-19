@@ -7,7 +7,7 @@ title: >-
   Bakker)
 description: "Part 3 concludes the series by synthesizing Wynter's oceanic analytics and drawing implications for contemporary religious theory, critique, and decolonial"
 date: '2022-01-27T20:12:29.000Z'
-author: editors
+author: Justine M. Bakker
 image: /images/2022/01/clouds_and_water_met_dp236116.webp
 categories:
   - Critical Race Theory

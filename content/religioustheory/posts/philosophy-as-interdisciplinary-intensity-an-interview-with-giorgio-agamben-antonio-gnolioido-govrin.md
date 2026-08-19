@@ -7,7 +7,7 @@ title: >-
   (Antonio Gnolio/Ido Govrin)
 description: "The following is an interview with the famed Continental philosopher Giorgio Agamben conducted by journalist Antonio Gnolio It highlights key arguments"
 date: '2017-02-06T18:07:41.000Z'
-author: editors
+author: Antonio Gnolio; Ido Govrin
 image: /images/2017/02/intensity.webp
 categories:
   - Philosophy

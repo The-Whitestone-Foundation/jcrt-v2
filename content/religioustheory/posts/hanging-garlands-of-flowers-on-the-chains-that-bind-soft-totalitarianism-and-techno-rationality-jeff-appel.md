@@ -7,7 +7,7 @@ title: >-
   Techno-Rationality (Jeff Appel)
 description: "This article was originally a paper delivered at the conference “Reclaiming the Unconscious – On The Intersection of Psychoanalysis With the Humanities,”"
 date: '2016-11-02T02:59:28.000Z'
-author: editors
+author: Jeff Appel
 image: /images/2016/11/bd7ff1a1c6e460bf8e87a4fa0ee90199.webp
 categories:
   - Media Theory

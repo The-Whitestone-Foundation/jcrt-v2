@@ -7,7 +7,7 @@ title: >-
   Conversation” With Roger Green
 description: "The following Critical Conversation took place on February 17, 2022 with Roger Green, author of A Transatlantic Political Theology of Psychedelic Aesthetics:"
 date: '2022-03-29T19:40:35.000Z'
-author: editors
+author: Roger Green
 image: >-
   /images/2022/04/800px-la_vision_de_tatutsi_xuweri_timaiweme_-_arte_del_pueblo_wixarika.webp
 categories:

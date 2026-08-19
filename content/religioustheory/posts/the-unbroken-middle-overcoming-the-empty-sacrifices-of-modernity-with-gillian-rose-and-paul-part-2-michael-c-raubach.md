@@ -7,7 +7,7 @@ title: >-
   Rose And Paul, Part 2 (Michael C. Raubach)
 description: "The following is the second of a two-part series. The first can be found here Is it not true, though, that many individuals of different races, creeds, and"
 date: '2021-11-18T15:52:31.000Z'
-author: editors
+author: Michael C. Raubach
 image: >-
   /images/2021/11/abrahams_sacrifice_the_sacrifice_of_isaac_met_dp888579-1119x642.webp
 categories:

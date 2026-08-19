@@ -7,7 +7,7 @@ title: >-
   II (Eric Trozzo)
 description: "The following is the second part in a two-part installment. The first part can be found here. In Kearnian terms, then, the John portrayed by Luke is one who has"
 date: '2018-01-28T23:44:10.000Z'
-author: editors
+author: Eric Trozzo
 image: /images/2018/01/24054189-a75190ba-640.webp
 categories:
   - Philosophy of Religion

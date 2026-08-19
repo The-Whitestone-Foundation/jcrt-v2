@@ -7,7 +7,7 @@ title: >-
   Backman)
 description: "*A Turkish translation of a version of this essay has been published as “Bir, bir şey değildir: post-metafizik düşüncede birlik ve çokluğun akıbeti,” trans"
 date: '2017-05-09T20:06:50.000Z'
-author: editors
+author: Jussi Backman
 image: /images/2017/05/aristotle-metaphysics.webp
 categories:
   - Metaphysics

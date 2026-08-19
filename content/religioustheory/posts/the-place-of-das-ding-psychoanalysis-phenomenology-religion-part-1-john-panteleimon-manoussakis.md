@@ -7,7 +7,7 @@ title: >-
   Panteleimon Manoussakis)
 description: "The following article is the first installment of a two-part series. The second installment can be found here. “One, two, three, but where is the fourth?”"
 date: '2017-02-13T22:56:28.000Z'
-author: editors
+author: John Panteleimon Manoussakis
 image: /images/2017/02/dd.webp
 categories:
   - Philosophy

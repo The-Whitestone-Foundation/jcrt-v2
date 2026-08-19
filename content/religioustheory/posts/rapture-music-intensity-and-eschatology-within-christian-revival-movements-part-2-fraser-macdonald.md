@@ -7,7 +7,7 @@ title: >-
   Part 2 (Fraser Macdonald)
 description: "The following is the second of a three-part series. The first can be found here. The full article is also available in the Spring 2022 issue of the Journal for"
 date: '2022-07-12T02:50:01.000Z'
-author: editors
+author: Fraser Macdonald
 image: >-
   /images/2022/08/800px-haitian_vodou_altar_to_petwo_rada_and_gede_spirits_november_5_2010.webp
 categories:

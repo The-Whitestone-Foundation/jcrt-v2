@@ -7,7 +7,7 @@ title: >-
   Konigsburg)
 description: "To speak or not to speak of God is an important yet rather uncomfortable question that participants encounter during interreligious and interdisciplinary"
 date: '2019-07-28T01:42:10.000Z'
-author: editors
+author: Joyce Konigsburg
 image: >-
   /images/2019/08/964px-angel_of_the_divine_presence_bringing_eve_to_adam_the_creation_of_eve-__and_she_shall_be_called_woman_recto_sketch_for_the_same_verso_met_dp805381.webp
 categories:

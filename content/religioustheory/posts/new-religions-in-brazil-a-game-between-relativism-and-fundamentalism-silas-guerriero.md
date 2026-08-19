@@ -7,7 +7,7 @@ title: >-
   Guerriero)
 description: "Speaking of new religious movements in Brazil implies, above all, in defining what we refer to when we speak of “new religions.” We have already had an"
 date: '2018-03-10T04:59:57.000Z'
-author: editors
+author: Silas Guerriero
 image: >-
   /images/2018/03/iskcon_temple_bhubaneswar_lord_jagannath_balabhadra_subhadra.webp
 categories:

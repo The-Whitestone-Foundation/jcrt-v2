@@ -7,7 +7,7 @@ title: >-
   Religious Studies?, Part 1 (Carl Raschke)
 description: "Almost a half century ago a change took place in the humanities, and by extension in the fledgling field of religious studies It highlights key arguments"
 date: '2023-09-28T17:26:12.000Z'
-author: editors
+author: Carl A. Raschke
 image: >-
   /images/2023/09/viewing_robert_smithsons_spiral_jetty_on_june_18th_2018-1200x642.webp
 categories:

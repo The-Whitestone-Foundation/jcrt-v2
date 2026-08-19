@@ -7,7 +7,7 @@ title: >-
   The “Religious” Reading Of Deconstruction, Part 2 (Neal DeRoo)
 description: "The following is the second installment of a three-part series. The first one can be found here. If deconstruction problematizes the idea of a ‘pure’ logical"
 date: '2018-07-03T01:42:18.000Z'
-author: editors
+author: Neal Deroo
 image: /images/2018/07/praghaus.webp
 categories:
   - Philosophy of Religion

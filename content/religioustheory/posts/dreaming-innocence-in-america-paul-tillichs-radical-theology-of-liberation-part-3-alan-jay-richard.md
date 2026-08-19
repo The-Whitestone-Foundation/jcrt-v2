@@ -7,7 +7,7 @@ title: >-
   Part 3 (Alan Jay Richard)
 description: "The following is the final installment of a three-part series. The first installment can be accessed here. The second part can be found here It highlights"
 date: '2016-11-29T19:55:27.000Z'
-author: editors
+author: Alan Jay Richard
 image: >-
   /images/2016/11/william_blake_-_the_shepherd_from_songs_of_innocence_-_google_art_project.webp
 categories:

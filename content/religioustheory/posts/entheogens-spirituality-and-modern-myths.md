@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc2ag
 title: 'Entheogens, Spirituality, And Modern Myths, Part 1 (John Cuda)'
 description: "The following is the first of a three-part series. In this article I seek to analyze spiritual phenomena using contemporary mythological and pop-cultural"
 date: '2021-10-04T02:47:13.000Z'
-author: editors
+author: John Cuda
 image: /images/2021/09/haley-lawrence-ewyga88k0yg-unsplash-1.webp
 categories:
   - New Religions

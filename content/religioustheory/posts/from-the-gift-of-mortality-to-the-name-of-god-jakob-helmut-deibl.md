@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcecv
 title: From The Gift Of Mortality To The Name Of God (Jakob Helmut Deibl)
 description: "The following is a continuation of a series of articles corresponding to chapters of the book Preis der Sterblichkeit: Christentum und Neuer Humanismus"
 date: '2019-09-23T03:47:00.000Z'
-author: editors
+author: Jakob Deibl
 image: >-
   /images/2019/09/paolo_uccello_cacciata_dal_paradiso_terrestre_e_storie_di_caino_e_abele_1430-40_ca-_09_caino_e_abele_bambini.webp
 categories:

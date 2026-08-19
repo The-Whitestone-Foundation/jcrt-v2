@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc67x
 title: 'Antinomian Flesh, Part 2 (David Kline)'
 description: "The following is the second of a three-part series. The first can be found here. The above descriptions of nomos encapsulate general sociological, political"
 date: '2020-10-26T04:28:31.000Z'
-author: editors
+author: David Kline
 image: >-
   /images/2020/11/black_background_close_up_dark_face_fashion_female_girl_lady-1560227.webp
 categories:

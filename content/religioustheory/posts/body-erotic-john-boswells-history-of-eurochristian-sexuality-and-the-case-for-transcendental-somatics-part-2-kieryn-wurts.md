@@ -7,7 +7,7 @@ title: >-
   For Transcendental Somatics, Part 2 (Kieryn Wurts)
 description: "The following is the second of a three-part series. The first can be found here. Social constructionist theory developed as an answer to essentialist theories"
 date: '2023-05-08T17:11:28.000Z'
-author: editors
+author: Kieryn E. Wurts
 image: /images/2023/05/jerusalem_gay_pride_parade_05-1.webp
 categories:
   - Gender Studies

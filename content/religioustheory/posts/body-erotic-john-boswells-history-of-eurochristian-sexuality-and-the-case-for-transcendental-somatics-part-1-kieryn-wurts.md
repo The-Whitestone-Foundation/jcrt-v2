@@ -7,7 +7,7 @@ title: >-
   For Transcendental Somatics, Part 1 (Kieryn Wurts)
 description: "John Boswell (1947-94) was a Yale philologist who published two major studies betweeen 1980 and 1994 which, considered together, constitute an extended and"
 date: '2023-04-24T16:52:35.000Z'
-author: editors
+author: Kieryn E. Wurts
 image: /images/2023/05/homosexuality_in_khajuraho_sculpture.webp
 categories:
   - Gender Studies

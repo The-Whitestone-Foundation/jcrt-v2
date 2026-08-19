@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbzqn
 title: 'The Futurity Of God, Part 2 (Lenart Škof)'
 description: "The following is the second of a two-part series. The first can be found here. In a chapter titled “The Magic of Being Mormon”, Stephen H It highlights"
 date: '2021-12-16T00:18:53.000Z'
-author: editors
+author: Lenart Škof
 image: /images/2021/12/800px-apophysis_cyclone.webp
 categories:
   - Philosophical Theology

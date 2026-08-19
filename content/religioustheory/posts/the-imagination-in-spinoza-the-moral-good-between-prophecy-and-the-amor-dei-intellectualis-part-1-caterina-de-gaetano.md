@@ -7,7 +7,7 @@ title: >-
   Intellectualis, Part 1 (Caterina De Gaetano)
 description: "The following is the first of a two-part series. The entire article appears in Issue 22.1 of the Journal for Cultural and Religious Theory It highlights"
 date: '2023-07-27T16:21:05.000Z'
-author: editors
+author: Caterina Gaetano
 image: /images/2023/08/baruch_spinoza_plaque_budapest07_cropped.webp
 categories:
   - Philosophy of Religion

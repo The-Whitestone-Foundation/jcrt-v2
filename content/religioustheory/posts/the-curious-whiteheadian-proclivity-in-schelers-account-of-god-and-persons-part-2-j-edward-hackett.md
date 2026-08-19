@@ -7,7 +7,7 @@ title: >-
   Part 2 (J. Edward Hackett)
 description: "The following is the second installment of a two-part series. The first can be found here. Before talking about Scheler’s conception of the person It highlights"
 date: '2020-04-23T19:45:07.000Z'
-author: editors
+author: J. Edward Hackett
 image: /images/2020/04/download.webp
 categories:
   - Phenomenology

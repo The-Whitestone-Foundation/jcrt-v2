@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd34q
 title: 'Biopolitics and Vajrayana Buddhism, Part 1 (Padraic Fitzgerald)'
 description: "Biopolitics, as Michel Foucault argued, views populations through an economic lens, as capital to be preserved and multiplied to keep the nation or tradition"
 date: '2016-05-27T00:43:59.000Z'
-author: editors
+author: Padraic Fitzgerald
 image: >-
   /images/2016/05/buddhistprayerflagsinnepalatopstupawithbuddhawisdomeyesbykarnevilflickr.webp
 categories:

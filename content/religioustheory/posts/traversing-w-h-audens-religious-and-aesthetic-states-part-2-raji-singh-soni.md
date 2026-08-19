@@ -7,7 +7,7 @@ title: >-
   Soni)
 description: "The following is the second installment of a three-part series. The first one can be found here. Used by Auden in concert with “limitation” to qualify"
 date: '2017-08-04T15:44:59.000Z'
-author: editors
+author: Raji Singh Soni
 image: /images/2017/08/the_sea.webp
 categories:
   - Religion and Literature

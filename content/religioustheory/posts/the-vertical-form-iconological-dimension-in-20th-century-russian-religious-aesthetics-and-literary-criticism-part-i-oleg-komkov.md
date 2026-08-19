@@ -7,7 +7,7 @@ title: >-
   Religious Aesthetics and Literary Criticism, Part I (Oleg Komkov)
 description: "The following is the first part in a two-part installment. This article is an attempt to highlight and reflect on several interrelated issues that seem to be"
 date: '2018-03-21T00:19:44.000Z'
-author: editors
+author: Oleg Komkov
 image: >-
   /images/2018/03/umberto_boccioni_1913_dynamism_of_a_cyclist_dinamismo_di_un_ciclista_oil_on_canvas_70_x_95_cm_gianni_mattioli_collection_on_long-term_loan_to_the_peggy_gugg.webp
 categories:

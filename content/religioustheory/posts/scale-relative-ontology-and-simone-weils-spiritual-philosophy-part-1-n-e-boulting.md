@@ -7,7 +7,7 @@ title: >-
   Boulting)
 description: "Can the debilitating effects of Scientism – identifying knowledge solely “with science” – be overcome? To answer that question, Simone Weil’s treatment of her"
 date: '2021-05-11T02:35:23.000Z'
-author: editors
+author: N. E. Boulting
 image: /images/2021/05/2014-08-25-simoneweilcroquis-byth-rioult.webp
 categories:
   - Philosophical Theology

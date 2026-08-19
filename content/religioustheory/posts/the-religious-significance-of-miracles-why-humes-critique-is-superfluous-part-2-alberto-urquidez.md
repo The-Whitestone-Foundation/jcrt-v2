@@ -7,7 +7,7 @@ title: >-
   Part 2 (Alberto Urquidez)
 description: "The following is the second of a three-part series. The first can be found here. The question I shall now consider is this: If not all miracles are religious"
 date: '2020-07-22T02:21:01.000Z'
-author: editors
+author: Alberto Urquidez
 image: >-
   /images/2020/07/allan_ramsay_-_david_hume_1711_-_1776-_historian_and_philosopher_-_google_art_project.webp
 categories:

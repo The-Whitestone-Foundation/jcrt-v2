@@ -7,7 +7,7 @@ title: >-
   Activism, Part 1 (James V. Spickard)
 description: "The following is a talk presented at the Weatherhead Center for International Affairs, Harvard University, and is the first installment of a two-part series"
 date: '2017-10-16T21:33:10.000Z'
-author: editors
+author: James V. Spickard
 image: >-
   /images/2017/10/1532494-shiva-and-parvati-on-bull-images-sculptures-on-hindu-temple-gopura-tower-menakshi-temple-madurai-tamil-nadu-india.webp
 categories:

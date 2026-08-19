@@ -7,7 +7,7 @@ title: >-
   Reading Of The Death Of God (Elijah Prewitt-Davis)
 description: "I am told by Zizek—as well as Hegelian friends—that any attempt to argue or disagree with Hegel fits nicely within his dialectical scheme It highlights"
 date: '2018-04-09T14:13:22.000Z'
-author: editors
+author: Elijah Prewitt-Davis
 image: /images/2018/04/horror.webp
 categories:
   - Philosophy of Religion

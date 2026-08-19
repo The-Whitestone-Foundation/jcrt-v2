@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcfuq
 title: 'God And Language, Lecture 6 (Johannes Zachhuber)'
 description: "The following is the sixth lecture in an eight-lecture series. The most recent one can be found here. I started the last couple of lectures with elaborate"
 date: '2019-04-02T04:06:03.000Z'
-author: editors
+author: Johannes Zachhuber
 image: /images/2019/04/ludwig-wittgenstein.webp
 categories:
   - Theology

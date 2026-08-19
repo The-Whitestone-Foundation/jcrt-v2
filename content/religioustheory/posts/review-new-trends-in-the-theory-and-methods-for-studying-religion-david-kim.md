@@ -7,7 +7,7 @@ title: >-
   Kim)
 description: "Kovács, Ábrahám, and James L. Cox, Editors. New Trends and Recurring Issues in the Study of Religion: Context and Overview. Budapest: L’Harmattan, 2014"
 date: '2016-12-29T18:36:39.000Z'
-author: editors
+author: David Kim
 image: /images/2016/12/clock.webp
 categories:
   - Reviews

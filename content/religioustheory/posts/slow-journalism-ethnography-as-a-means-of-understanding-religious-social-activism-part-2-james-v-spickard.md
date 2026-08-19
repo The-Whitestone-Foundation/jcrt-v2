@@ -7,7 +7,7 @@ title: >-
   Activism, Part 2 (James V. Spickard)
 description: "The following is a talk presented at the Weatherhead Center for International Affairs, Harvard University, and is the second installment of a two-part series"
 date: '2017-10-23T16:40:32.000Z'
-author: editors
+author: James V. Spickard
 image: /images/2017/10/denali-national-park-1733313_1280-uncharted-territory.webp
 categories:
   - Religion and Media

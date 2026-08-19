@@ -7,7 +7,7 @@ title: >-
   Part 3 (Fraser Macdonald)
 description: "The following is the second of a three-part series. The first can be found here, the second here. The full article is also available in the Spring 2022 issue of"
 date: '2022-07-25T03:10:05.000Z'
-author: editors
+author: Fraser Macdonald
 image: /images/2022/08/worship-band.webp
 categories:
   - Anthropology of Religion

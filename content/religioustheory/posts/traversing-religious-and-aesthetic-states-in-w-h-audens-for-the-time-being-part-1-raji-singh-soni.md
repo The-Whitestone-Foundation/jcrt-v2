@@ -7,7 +7,7 @@ title: >-
   Soni)
 description: "The following is part one of an article that will be published in three successive installments. > TRINCULO Servant-monster! The folly of this island!"
 date: '2017-07-28T22:17:23.000Z'
-author: editors
+author: Raji Singh Soni
 image: /images/2017/07/pda44.webp
 categories:
   - Religion and Literature

@@ -7,7 +7,7 @@ title: >-
   2 (Ronald Beiner)
 description: "Part 2 extends the Benjamin-Arendt comparison by testing judgment against crisis and memory, clarifying how historical rupture reshapes political discernment"
 date: '2016-08-15T05:34:31.000Z'
-author: editors
+author: Ronald Beiner
 image: >-
   /images/2016/08/thomas_abel_prior_-_queen_victoria_opening_the_1851_universal_exhibition_at_the_crystal_palace_in_london_-_google_art_project.webp
 categories:

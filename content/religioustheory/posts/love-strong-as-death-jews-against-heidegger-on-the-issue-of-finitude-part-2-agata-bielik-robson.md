@@ -7,7 +7,7 @@ title: >-
   2 (Agata Bielik-Robson)
 description: "The following is the second of a two-part series. The first segment was published on July 25, 2016 and can be accessed here It highlights key arguments"
 date: '2016-08-01T05:27:14.000Z'
-author: editors
+author: Agata Bielik-Robson
 image: /images/2016/07/transcendence.webp
 categories:
   - Philosophy of Religion

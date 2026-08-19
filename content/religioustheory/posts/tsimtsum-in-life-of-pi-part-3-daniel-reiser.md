@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc5q7
 title: 'Tsimtsum In Life Of Pi, Part 3 (Daniel Reiser)'
 description: "The following is the third of a four-part series. The first can be found here, the second here. Beyond the question of metaphor and reality, the greatest"
 date: '2020-12-15T05:31:14.000Z'
-author: editors
+author: Daniel Reiser
 image: /images/2020/12/rabbi_pinchas_hakohen_lintup.webp
 categories:
   - Jewish Philosophy of Religion

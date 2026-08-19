@@ -7,7 +7,7 @@ title: >-
   (Kevin Lewis)
 description: "Biblical hermeneutics, studied reflection upon interpretation of scriptural passages, has not remained static in method or approach over the centuries"
 date: '2018-05-19T17:37:39.000Z'
-author: editors
+author: Kevin Lewis
 image: /images/2018/05/img_0921-1.webp
 categories:
   - Hermeneutics

@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc5sv
 title: 'Tsimtsum In Life Of Pi, Part 2 (Daniel Reiser)'
 description: "The following is the second of a four-part series. The first can be found here. Hasidism, which translated Kabbalah into psychological categories, was a target"
 date: '2020-12-08T05:12:16.000Z'
-author: editors
+author: Daniel Reiser
 image: >-
   /images/2020/12/scheme_of_christian_kabbalism_from_heinrich_khunrath_amphiteatrum_sapientiae_aeternae_met_dp820686-1.webp
 categories:

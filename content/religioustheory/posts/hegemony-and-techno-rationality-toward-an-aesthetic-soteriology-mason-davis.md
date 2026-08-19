@@ -7,7 +7,7 @@ title: >-
   Davis)
 description: "To speak of aesthetics is not simply to consign art to its effects on sensibility, but to open up the configurations of experience that create new modalities of"
 date: '2017-04-18T13:22:11.000Z'
-author: editors
+author: Mason Davis
 image: /images/2017/04/6222400489_896549e00e_o.webp
 categories:
   - Aesthetics

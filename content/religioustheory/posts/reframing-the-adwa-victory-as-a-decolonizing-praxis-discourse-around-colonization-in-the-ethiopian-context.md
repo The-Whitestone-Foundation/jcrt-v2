@@ -7,7 +7,7 @@ title: >-
   Colonization In The Ethiopian Context, Part 1 (Rode Molla)
 description: "In 1896 Ethiopians defeated the Italian military and defended their border. That made Ethiopia the only black nation that defended its border in the era of"
 date: '2020-01-30T04:54:10.000Z'
-author: editors
+author: Rode Molla
 image: /images/2020/01/adoua_1.webp
 categories:
   - Postcolonial Theory

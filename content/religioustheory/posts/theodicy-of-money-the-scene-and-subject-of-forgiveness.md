@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd37f
 title: Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)
 description: "Today the question of debt forgiveness has become an eminently practical, not to mention political, question. From sovereign debt crises in Greece, Spain"
 date: '2016-05-18T20:23:24.000Z'
-author: editors
+author: Timothy Snediker
 image: /images/2016/05/mammon_and_his_slave.webp
 categories:
   - Religion and Economics

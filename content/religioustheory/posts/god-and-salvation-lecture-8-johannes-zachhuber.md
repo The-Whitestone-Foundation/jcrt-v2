@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcfpk
 title: 'God And Salvation, Lecture 8 (Johannes Zachhuber)'
 description: "This is the eighth lecture in an eight-lecture series. The most recent lecture can be found here. The paper these lectures support is entitled “God, Christ, and"
 date: '2019-04-17T02:32:33.000Z'
-author: editors
+author: Johannes Zachhuber
 image: /images/2019/04/gauguin-christ-in-garden.webp
 categories:
   - Theology

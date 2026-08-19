@@ -7,7 +7,7 @@ title: >-
   Gordon)
 description: "In his 1975 work Discipline and Punish, Michel Foucault uses the lens of prison and society to examine the ways in which power structures act upon the"
 date: '2017-03-10T02:20:55.000Z'
-author: editors
+author: Rebekah Gordon
 image: /images/2017/03/qumran-drawing.webp
 categories:
   - Theory

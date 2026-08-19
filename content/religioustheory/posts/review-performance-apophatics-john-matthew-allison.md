@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcgee
 title: Review – Performance Apophatics (John Matthew Allison)
 description: "*Claire Maria Chambers. Performance Studies and Negative Epistemology: Performance Apophatics. Palgrave Macmillan, 2017. Hardback Hardback. It highlights"
 date: '2019-02-07T03:27:46.000Z'
-author: editors
+author: John Matthew Allison
 image: /images/2019/02/55c1056e-0b10-4b38-9128-b51fd8fbb1e3.webp
 categories:
   - Performance Studies

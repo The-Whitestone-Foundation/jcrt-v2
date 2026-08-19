@@ -7,7 +7,7 @@ title: >-
   Of Heidegger’s “Geist”, Part 3 (Jake Sirota)
 description: "The following is the third of a three-part series. The first can be found here, the second here. Derrida’s suspicion of and discomfort with the seemingly"
 date: '2022-02-23T22:55:00.000Z'
-author: editors
+author: Jake S Sirota
 image: >-
   /images/2022/02/allee_jacques_derrida_-_paris_vi_fr75_-_2021-07-29_-_1-1200x642.webp
 categories:

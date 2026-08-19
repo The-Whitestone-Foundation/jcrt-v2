@@ -7,7 +7,7 @@ title: >-
   (Erik Meganck)
 description: "The following is the third of a three part-series. The first can be found here, the second here. Where planning fails, despair grows Planning is also faithless."
 date: '2022-12-29T12:32:18.000Z'
-author: editors
+author: Erik Meganck
 image: /images/2022/12/rodin_the_thinker_p1070090.webp
 categories:
   - Philosophy of Religion

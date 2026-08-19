@@ -7,7 +7,7 @@ title: >-
   Tinker)
 description: "The following is the first of a three-part series. The entire article appears in the fall 2022 issue of The New Polis Journal It highlights key arguments"
 date: '2022-10-15T04:12:37.000Z'
-author: editors
+author: Tink Tinker
 image: >-
   /images/2022/11/1600px-john_wesley_preaching_to_native_american_indians-_engraving-_wellcome_v0006867-1210x642.webp
 categories:

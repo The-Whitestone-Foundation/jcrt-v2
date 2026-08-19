@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd2ad
 title: What Is A Dispositif? – Part 1 (Gregg Lambert)
 description: "The following article by internationally known theory scholar Gregg Lambert is the first of a two-part series. The concept of “dispositif” is best known as a"
 date: '2016-07-11T03:35:20.000Z'
-author: editors
+author: Gregg Lambert
 image: /images/2016/07/682px-thumbnail.webp
 categories:
   - Critical Theory

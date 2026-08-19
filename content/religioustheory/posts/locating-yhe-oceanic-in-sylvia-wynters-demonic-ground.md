@@ -7,7 +7,7 @@ title: >-
   Bakker)
 description: "Part 1 introduces an oceanic reading of Sylvia Wynter's “Demonic Ground,” developing the conceptual frame and tracing how embodiment, race, and poetics"
 date: '2022-01-07T19:38:39.000Z'
-author: editors
+author: Justine M. Bakker
 image: /images/2022/01/irish-ruins.webp
 categories:
   - Critical Race Theory

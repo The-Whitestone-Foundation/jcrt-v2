@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcjl6
 title: Towards A New Comparative Methodology In Religious Studies (Kara Roberts)
 description: "Author Note: The following was originally written as the introduction to a much longer comparative project between two religious myths Amy Balogh. It highlights"
 date: '2018-09-23T23:04:41.000Z'
-author: editors
+author: Kara Roberts
 image: /images/2018/09/img_0497.webp
 categories:
   - Mythology

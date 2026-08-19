@@ -7,7 +7,7 @@ title: >-
   Practices, Part 1 (Joshua Hall)
 description: "This project was provoked by the almost nonexistent pushback from the Democratic liberal establishment to the (2020) exoneration of Kyle Rittenhouse, despite"
 date: '2023-03-16T03:14:11.000Z'
-author: editors
+author: Joshua M Hall
 image: >-
   /images/2023/04/800px-volute_krater_wedding_purifying_b_lucania_roccanova_painter_350-325_bc_prague_nm-h10_4759_151621.webp
 categories:

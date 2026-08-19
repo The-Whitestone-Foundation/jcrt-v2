@@ -7,7 +7,7 @@ title: >-
   Hospitality And The Limits Of Multiculturalism, Part 1 (Emily McAvan)
 description: "> “Share with God’s people who are in need. Practice hospitality.” (Romans 12:13 NIV) > > “he who believes in Allah and the Last Day should show hospitality to"
 date: '2020-04-01T03:58:31.000Z'
-author: editors
+author: EMILY McAVAN
 image: /images/2020/04/eisa_shikawi.webp
 categories:
   - Religion and Literature

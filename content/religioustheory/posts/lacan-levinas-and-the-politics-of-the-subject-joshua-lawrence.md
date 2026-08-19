@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcv47
 title: 'Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)'
 description: "Psychoanalysis has undeniably played a significant role in the development of theories critical of the social landscape It highlights key arguments and"
 date: '2017-01-21T18:54:54.000Z'
-author: editors
+author: Joshua Lawrence
 image: /images/2017/01/levinas1.webp
 categories:
   - Political Theology

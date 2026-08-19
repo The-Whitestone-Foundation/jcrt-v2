@@ -7,7 +7,7 @@ title: >-
   The Demos, Part 1 (Carl Raschke)
 description: "This article appears in three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk Conference"
 date: '2017-07-04T20:51:08.000Z'
-author: editors
+author: Carl A. Raschke
 image: /images/2017/07/img_1588.webp
 categories:
   - Political Economy

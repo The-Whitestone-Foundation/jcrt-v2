@@ -7,7 +7,7 @@ title: >-
   Tinker)
 description: "The following is the third of a three-part series. The first can be found The entire article appears in the fall 2022 issue of The New Polis Journal. It"
 date: '2022-11-10T04:34:35.000Z'
-author: editors
+author: Tink Tinker
 image: /images/2022/11/indian-picture.webp
 categories:
   - Indigenous Religions

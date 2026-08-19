@@ -7,7 +7,7 @@ title: >-
   Virtues, Part 2 (A.G. Holdier)
 description: "The following is the second of a two-part series. The first can be found here. In short, then, despite the absence of God in Bad Times, the characters all come"
 date: '2021-09-22T16:13:42.000Z'
-author: editors
+author: A. G. Holdier
 image: /images/2021/09/800px-faith_fides_from_the_virtues_met_dp818312.webp
 categories:
   - Religion and Literature

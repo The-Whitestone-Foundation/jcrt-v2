@@ -7,7 +7,7 @@ title: >-
   For Transcendental Somatics, Part 3 (Kieryn Wurts)
 description: "The following is the last of a three-part series.The first can be found here, the second here. Essentialist and social constructionist discourses on sexuality"
 date: '2023-05-22T17:29:12.000Z'
-author: editors
+author: Kieryn E. Wurts
 image: /images/2023/05/stellen.webp
 categories:
   - Gender Studies

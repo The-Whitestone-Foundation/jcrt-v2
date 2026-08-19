@@ -7,7 +7,7 @@ title: >-
   Contretemps, Part 1 (Daniel Rhodes)
 description: "In his long-awaited interjection into the debates on the future of Marxism after the collapse of Soviet state communism, Jacques Derrida introduces the notion"
 date: '2016-12-01T05:48:01.000Z'
-author: editors
+author: Daniel Rhodes
 image: /images/2016/12/capitalism_0.webp
 categories:
   - Philosophy

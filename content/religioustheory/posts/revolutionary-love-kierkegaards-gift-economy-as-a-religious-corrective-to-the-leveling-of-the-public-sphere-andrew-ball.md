@@ -7,7 +7,7 @@ title: >-
   The Leveling Of The Public Sphere, Part 1 (Andrew Ball)
 description: "Though Kierkegaard is typically considered to be the consummate philosopher of the single individual, his critique of secular modernity and institutional"
 date: '2020-05-16T18:21:11.000Z'
-author: editors
+author: Andrew J. Ball
 image: /images/2020/05/876px-s-ren_kierkegaard_1813-1855_-_9645353110.webp
 categories:
   - Philosophical Theology

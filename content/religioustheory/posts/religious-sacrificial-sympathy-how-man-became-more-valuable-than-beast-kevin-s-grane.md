@@ -7,7 +7,7 @@ title: >-
   S. Grane)
 description: "The religious attitude of the West today demonstrates a consumerist ethos that would have been deeply foreign to the religious discourse of old It highlights"
 date: '2024-03-15T13:53:12.000Z'
-author: editors
+author: Kevin S. Grane
 image: /images/2024/09/3725.webp
 categories:
   - Cultural Theory

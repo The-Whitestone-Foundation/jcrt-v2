@@ -7,7 +7,7 @@ title: >-
   The “Religious” Reading Of Deconstruction, Part 1 (Neal DeRoo)
 description: "On the surface, the debate between John D. Caputo and Martin Hägglund in the Spring 2011 edition of The Journal of Cultural and Religious Theory seems to be a"
 date: '2018-06-26T01:40:12.000Z'
-author: editors
+author: Neal Deroo
 image: /images/2018/06/jacques-derrida.webp
 categories:
   - Philosophy of Religion

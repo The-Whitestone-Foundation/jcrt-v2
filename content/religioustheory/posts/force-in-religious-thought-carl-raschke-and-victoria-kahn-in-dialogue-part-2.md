@@ -7,7 +7,7 @@ title: >-
   2 (Roger Green)
 description: "The following is the second of a three-part series. The first part was published on May 31, 2016. It is especially significant that Heidegger’s attention to the"
 date: '2016-06-17T03:22:41.000Z'
-author: editors
+author: Roger Green
 image: /images/2016/06/storytelling.webp
 categories:
   - Political Theology

@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcytt
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 2 (Daniel Tutt)'
 description: "The following is the second installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.” It has been"
 date: '2016-09-13T16:38:35.000Z'
-author: editors
+author: Daniel Tutt
 image: >-
   /images/2016/09/public-domain-images-free-stock-photos-wedding-dress-outdoors-green-grass-wisteria-vines.webp
 categories:

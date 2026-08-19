@@ -7,7 +7,7 @@ title: >-
   Part 2 (Alan Jay Richard)
 description: "The following is the second installment of a multi-part series. The first installment can be accessed here. As Tillich argues in the second dissertation, Kant"
 date: '2016-11-21T06:11:53.000Z'
-author: editors
+author: Alan Jay Richard
 image: /images/2016/11/double_vac_line_front_view.webp
 categories:
   - Theology

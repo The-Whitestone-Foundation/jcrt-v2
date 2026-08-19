@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcekp
 title: The Irreducible (Jean-Luc Marion)
 description: "Of that which we cannot speak, must we remain silent? Probably—especially if we understand why we cannot say anything about it, and have good reason for not"
 date: '2019-08-06T02:16:13.000Z'
-author: editors
+author: Jean-Luc Marion
 image: >-
   /images/2019/08/vassily_kandinsky_1923_-_composition_8_huile_sur_toile_140_cm_x_201_cm_musee_guggenheim_new_york.webp
 categories:

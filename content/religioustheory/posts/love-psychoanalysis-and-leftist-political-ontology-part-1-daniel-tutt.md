@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcyyy
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tutt)'
 description: "The following is the first installment of a two-part article by Daniel Tutt entitled “Love, Psychoanalysis, and Leftist Political Ontology.” It has been"
 date: '2016-09-05T06:20:15.000Z'
-author: editors
+author: Daniel Tutt
 image: /images/2016/09/muses.webp
 categories:
   - Critical Theory

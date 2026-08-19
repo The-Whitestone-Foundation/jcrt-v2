@@ -7,7 +7,7 @@ title: >-
   Skin, Part 2 (Tink Tinker, wazhazhe udsethe)
 description: "The following is the second of a three-part series. The first installation can be found here. The article in full originally appeared in The New Polis in"
 date: '2019-03-21T16:21:23.000Z'
-author: editors
+author: Tink Tinker
 image: /images/2019/03/creek_war_treaty_1814.webp
 categories:
   - Native American Religions

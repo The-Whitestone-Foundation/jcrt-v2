@@ -7,7 +7,7 @@ title: >-
   Christian Mysticism, Part 3 (Mark Murphy)
 description: "The following is the third installment of a three-part series. The first can be found here. The second one can be found here The second one can be found here."
 date: '2018-08-15T03:18:13.000Z'
-author: editors
+author: Mark Murphy
 image: /images/2018/08/keys-to-the-kingdom.webp
 categories:
   - Psychoanalysis

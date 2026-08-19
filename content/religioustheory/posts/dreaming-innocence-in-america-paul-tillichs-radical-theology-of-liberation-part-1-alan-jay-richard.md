@@ -7,7 +7,7 @@ title: >-
   Part 1 (Alan Jay Richard)
 description: "One of the challenges of liberation theology is to think the radical political and social liberation of the oppressed in a way that is truly this-worldly"
 date: '2016-11-07T22:06:49.000Z'
-author: editors
+author: Alan Jay Richard
 image: /images/2016/11/public-domain-installation.webp
 categories:
   - Theology

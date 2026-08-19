@@ -7,7 +7,7 @@ title: >-
   (Jeffrey Scholes)
 description: "*Laycock, Joseph P. Dangerous Games: What the Moral Panic over Role-Playing Games Says about Play, Religion, and Imagined Worlds ISBN-10: 0520284925. It"
 date: '2016-07-02T19:43:11.000Z'
-author: editors
+author: Jeffrey Scholes
 image: /images/2016/07/dragon-slayer.webp
 categories:
   - Reviews

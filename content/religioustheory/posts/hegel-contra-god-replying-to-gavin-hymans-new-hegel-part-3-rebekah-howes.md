@@ -7,7 +7,7 @@ title: >-
   Howes)
 description: "The following is the last of a three-part series. The first can be found here, the second here. The earlier article by Prof The earlier article by Prof."
 date: '2023-02-11T23:30:55.000Z'
-author: editors
+author: Rebekah Howes
 image: /images/2023/02/socrates_statue_at_the_louvre_8_april_2013.webp
 categories:
   - Philosophical Theology

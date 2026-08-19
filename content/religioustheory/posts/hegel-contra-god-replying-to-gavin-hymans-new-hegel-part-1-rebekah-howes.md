@@ -7,7 +7,7 @@ title: >-
   Howes)
 description: "The following is the first of a three-part series. The earlier article by Prof. Hyman to which the author replies can be found here It highlights key arguments"
 date: '2023-01-12T23:00:59.000Z'
-author: editors
+author: Rebekah Howes
 image: /images/2023/02/hegel_042.webp
 categories:
   - Philosophical Theology

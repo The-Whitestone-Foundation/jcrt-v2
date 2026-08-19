@@ -7,7 +7,7 @@ title: >-
   Panteleimon Manoussakis)
 description: "The following is the second installment of a two-part series. The first part can be found here. The foregoing has been an effort to inscribe das Ding within a"
 date: '2017-02-21T04:28:03.000Z'
-author: editors
+author: John Panteleimon Manoussakis
 image: /images/2017/02/the-thing-max-res.webp
 categories:
   - Philosophy

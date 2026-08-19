@@ -7,7 +7,7 @@ title: >-
   Foster Wallace (Jeff Appel)
 description: "*Miller, Adam S. The Gospel According to David Foster Wallace: Boredom and Addiction in an Age of Distraction. New York: Bloomsburg Academic, 2016 It highlights"
 date: '2016-07-07T00:19:50.000Z'
-author: editors
+author: Jeff Appel
 image: /images/2016/07/davidfosterwallace1.webp
 categories:
   - Reviews

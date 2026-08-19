@@ -7,7 +7,7 @@ title: >-
   Feenberg on Lukács’ Theory of Reification (Konstantinos Kavoulakos)
 description: "Axel Honneth’s Reification. A New Look at an Old Idea (2008) and Andrew Feenberg’s Philosophy of Praxis (2014) represent two recent publications, which give a"
 date: '2017-03-15T18:04:08.000Z'
-author: editors
+author: Konstantinos Kavoulakos
 image: /images/2017/03/lukacs-and-woman.webp
 categories:
   - Critical Theory

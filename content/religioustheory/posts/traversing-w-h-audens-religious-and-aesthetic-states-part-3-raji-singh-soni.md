@@ -7,7 +7,7 @@ title: >-
   Soni)
 description: "The following is the final installment of a three-part series. The first one can be found here, the second one here. As Julia Reinhard Lupton argues It"
 date: '2017-08-13T03:32:03.000Z'
-author: editors
+author: Raji Singh Soni
 image: /images/2017/08/style-img_7932-kanagawa-0-4mp.webp
 categories:
   - Religion and Literature

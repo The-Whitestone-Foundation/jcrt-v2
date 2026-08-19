@@ -7,7 +7,7 @@ title: >-
   Pessin)
 description: "The following is the first of a two-part installment. This article can also be downloaded in PDF format from the Spring 2019 issue (Vol. 18, No 18, No."
 date: '2019-06-22T15:41:21.000Z'
-author: editors
+author: Sarah Pessin
 image: /images/2019/06/jewish-woman-free-image.webp
 categories:
   - Interfaith Conversations

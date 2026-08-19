@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc4jc
 title: 'Modern Theology And The Dialectic Of God, Part 1 (Kelly Maeshiro)'
 description: "In the Christian tradition, the question of whether philosophy is necessary for theology, or even relevant to it, is a question almost as old as theology"
 date: '2021-02-01T17:07:14.000Z'
-author: editors
+author: Kelly Maeshiro
 image: /images/2021/02/god_by_gabe_alberro.webp
 categories:
   - Theology

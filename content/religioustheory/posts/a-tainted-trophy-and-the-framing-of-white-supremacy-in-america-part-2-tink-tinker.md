@@ -7,7 +7,7 @@ title: >-
   Tinker)
 description: "The following is the third of a three-part series. The first can be found here. The entire article appears in the fall 2022 issue of The New Polis Journal"
 date: '2022-10-31T04:19:21.000Z'
-author: editors
+author: Tink Tinker
 image: /images/2022/11/native-american-women.webp
 categories:
   - Indigenous Religions

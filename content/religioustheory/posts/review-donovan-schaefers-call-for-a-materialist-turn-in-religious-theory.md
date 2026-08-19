@@ -7,7 +7,7 @@ title: >-
   (Jonathan Russell)
 description: "*Schaefer, Donovan O. Religious Affects: Animality, Evolution, and Power. Durham NC: Duke University Press, 2015. ISBN 10: 978-0-8223-5982-1, 10: It highlights"
 date: '2016-06-03T04:17:59.000Z'
-author: editors
+author: Jonathan Russell
 image: /images/2016/06/busy-fall.webp
 categories:
   - Reviews

@@ -7,7 +7,7 @@ title: >-
   Part 3 (Alberto Urquidez)
 description: "Surprisingly few commentators have advanced this basic criticism against Hume’s argument. One glaring exception is the Wittgensteinian philosopher of religion"
 date: '2020-07-29T00:34:06.000Z'
-author: editors
+author: Alberto Urquidez
 image: /images/2020/07/milagros.webp
 categories:
   - Philosophy of Religion

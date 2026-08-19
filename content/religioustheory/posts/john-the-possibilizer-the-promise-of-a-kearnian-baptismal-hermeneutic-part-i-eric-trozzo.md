@@ -7,7 +7,7 @@ title: >-
   (Eric Trozzo)
 description: "The wild hair, the scratchy clothing, the grit and body odor, and the exotic diet. All of these images typically come to mind when one mentions John the"
 date: '2018-01-21T21:20:32.000Z'
-author: editors
+author: Eric Trozzo
 image: >-
   /images/2018/01/style-head_of_saint_john_the_baptist_by_an_anonymous_spanish_painter_c-_1600-1650_cleveland_museum_of_art-ballpoint-0-4mp.webp
 categories:

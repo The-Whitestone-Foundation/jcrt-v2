@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrclzq
 title: 'Prayer After the Death of God, Part II (Ashley [Gay] Graham)'
 description: "The following is the second part in a two-part installment. The first part can be found here. This abandonment is not a permanent void; rather, it demonstrates"
 date: '2018-02-18T22:55:37.000Z'
-author: editors
+author: Ashley Graham
 image: /images/2018/02/img_0502.webp
 categories:
   - Philosophy of Religion

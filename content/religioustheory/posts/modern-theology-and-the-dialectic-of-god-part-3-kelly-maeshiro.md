@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc4e2
 title: 'Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)'
 description: "The following is the third of a four-part series. The first can be found here, the second here. Philosophically speaking, Hegel’s Absolute idealism represented"
 date: '2021-02-22T16:53:48.000Z'
-author: editors
+author: Kelly Maeshiro
 image: /images/2021/03/img_7446-1.webp
 categories:
   - Theology

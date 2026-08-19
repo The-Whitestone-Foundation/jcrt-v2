@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbn7k
 title: Metaphysical Protestantism-A Comparative Literary Ecology (Zane Johnson)
 description: "The influence of religions on human attitudes toward the non-human, whether beneficent or deleterious, has been the subject of serious scholarly debate since at"
 date: '2024-06-05T14:50:13.000Z'
-author: editors
+author: Zane Johnson
 image: /images/2024/09/20210225-104958-clear-cut-forests_eugene-or_webextent0106.webp
 categories:
   - Religion and Literature

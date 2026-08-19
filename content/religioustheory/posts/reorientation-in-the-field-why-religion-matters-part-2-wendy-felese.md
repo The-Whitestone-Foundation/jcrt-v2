@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc3zm
 title: 'Reorientation In The Field – Why Religion Matters, Part 2 (Wendy Felese)'
 description: "The following is the second of a two-part series. The first can be found here. The article was first given at a conference in 2019 in Athens, Greece (2019)."
 date: '2021-03-29T01:57:00.000Z'
-author: editors
+author: Wendy Felese
 image: >-
   /images/2021/03/sikoslingmuit_eskimo_woman-_southern_baffin_island-_copper-plate_engraving_17459827988.webp
 categories:

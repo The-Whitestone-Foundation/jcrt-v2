@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrczat
 title: 'A Preface To The Genealogy of Neoliberalism, Part 1 (Carl Raschke)'
 description: "The following is the first installment of a lecture delivered to the faculty and students of the Research Platform on Religion and Transformation from the"
 date: '2016-08-22T06:04:22.000Z'
-author: editors
+author: Carl A. Raschke
 image: /images/2016/08/malabon-city.webp
 categories:
   - Political Theology

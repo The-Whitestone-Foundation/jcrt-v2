@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcame
 title: 'The Hollow Christians Of End Times Fiction, Part 2 (Paul Maltby)'
 description: "The following is the second of a three-part series. The first can be found here. End Times fiction’s unrelenting focus on human sinfulness and unworthiness, a"
 date: '2020-02-25T00:35:12.000Z'
-author: editors
+author: Paul Maltby
 image: /images/2020/03/1280px-last_judgement_michelangelo.webp
 categories:
   - Religion and Literature

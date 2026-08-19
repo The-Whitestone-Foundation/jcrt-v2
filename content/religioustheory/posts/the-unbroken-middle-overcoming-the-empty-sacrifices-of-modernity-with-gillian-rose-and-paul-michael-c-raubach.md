@@ -7,7 +7,7 @@ title: >-
   Rose And Paul, Part 1 (Michael C. Raubach)
 description: "In her 1992 masterpiece, The Broken Middle, the philosopher Gillian Rose explored what she saw as a baleful crisis of ethics in modern political discourse"
 date: '2021-11-04T15:40:15.000Z'
-author: editors
+author: Michael C. Raubach
 image: >-
   /images/2021/11/800px-wandbild_portrait_george_floyd_von_eme_street_art_im_mauerpark_berlin.webp
 categories:

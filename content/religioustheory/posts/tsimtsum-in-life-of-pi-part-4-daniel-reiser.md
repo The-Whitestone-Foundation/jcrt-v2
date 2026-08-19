@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc5nm
 title: 'Tsimtsum In Life Of Pi, Part 4 (Daniel Reiser)'
 description: "The following is the last of a four-part series. The first can be found here, the second here, the third here. Is what Martel presents his readers only a"
 date: '2020-12-22T05:53:55.000Z'
-author: editors
+author: Daniel Reiser
 image: /images/2020/12/albert_bierstadt_farallon_island_1887_oil_on_canvas.webp
 categories:
   - Jewish Philosophy of Religion

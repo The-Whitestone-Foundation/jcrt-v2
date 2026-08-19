@@ -7,7 +7,7 @@ title: >-
   The “Religious” Reading Of Deconstruction, Part 3 (Neal DeRoo)
 description: "The following is the third installment of a three-part series. The first one can be found here, the second here. But one could embrace another prevalence for"
 date: '2018-07-11T22:56:31.000Z'
-author: editors
+author: Neal Deroo
 image: /images/2018/07/img_1464-1.webp
 categories:
   - Philosophy of Religion

@@ -7,7 +7,7 @@ title: >-
   (Kevin Lewis)
 description: "The following is the second part in a two-part installment. The first part can be found here. We proceed first by a reminder of Scripture itself (which makes no"
 date: '2018-05-28T14:19:34.000Z'
-author: editors
+author: Kevin Lewis
 image: >-
   /images/2018/02/william_blake_-_satan_smiting_job_with_sore_boils_-_google_art_project.webp
 categories:

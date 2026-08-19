@@ -7,7 +7,7 @@ title: >-
   Part 1 (J. Edward Hackett)
 description: "Before explicating the underlying structure of Scheler’s panentheism, I wanted to take some time and explain what Scheler’s phenomenological method entails and"
 date: '2020-04-16T19:17:35.000Z'
-author: editors
+author: J. Edward Hackett
 image: /images/2020/04/scheler_max.webp
 categories:
   - Phenomenology

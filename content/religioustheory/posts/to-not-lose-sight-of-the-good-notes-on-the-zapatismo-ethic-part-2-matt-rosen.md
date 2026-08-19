@@ -7,7 +7,7 @@ title: >-
   Rosen)
 description: "The following is the second of a two-part series. The first can be found here. The recasting of the field of three against the field of two, which is the field"
 date: '2020-01-21T04:07:07.000Z'
-author: editors
+author: Matt Rosen
 image: /images/2020/01/lacanja_burn_crop.webp
 categories:
   - Political Philosophy

@@ -7,7 +7,7 @@ title: >-
   The Demos, Part 3 (Carl Raschke)
 description: "This article is the last of three installments. It was originally a paper given at the international conference “The Crisis of Representation” at Melk"
 date: '2017-07-19T13:58:20.000Z'
-author: editors
+author: Carl A. Raschke
 image: /images/2017/07/blake_jacobsladder.webp
 categories:
   - Political Theology

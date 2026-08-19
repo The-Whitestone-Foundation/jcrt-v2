@@ -7,7 +7,7 @@ title: >-
   Critical Religion (Joel Harrison)
 description: "This article was initially published in The New Polis, March 23, 2018. In his essay “The Failure of Nerve in the Academic Study of Religion,” Donald Wiebe"
 date: '2018-06-19T14:31:30.000Z'
-author: editors
+author: Joel Harrison
 image: /images/2018/06/max-weber.webp
 categories:
   - Critical Theory

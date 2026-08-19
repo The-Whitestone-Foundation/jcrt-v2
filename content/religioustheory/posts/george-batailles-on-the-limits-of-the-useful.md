@@ -7,7 +7,7 @@ title: >-
   Review Essay (Matt Waggoner)
 description: "Georges Bataille, The Limit of the Useful. Translated and edited by Corey Austin Knudson and Tomas Elliott. Cambridge: The MIT Press, 2022. Hardback. 360 pages"
 date: '2023-08-20T04:30:04.000Z'
-author: editors
+author: Matt Waggoner
 image: /images/2023/08/joan_miro_-_dona_i_ocell_2.webp
 categories:
   - Reviews

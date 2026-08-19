@@ -7,7 +7,7 @@ title: >-
   Representation Of Feminist Discourse (Madeline Yonker)
 description: "The following article is republished from an earlier edition of The Journal for Cultural Theory. The link to the original article can be found here It"
 date: '2017-03-01T00:16:30.000Z'
-author: editors
+author: Madeline Yonker
 image: /images/2017/03/bell-jar-cover.webp
 categories:
   - Feminist Theory

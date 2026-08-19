@@ -7,7 +7,7 @@ title: >-
   Healings, Part 1 (Anna Magnasco)
 description: "Part 1 investigates charismatic healing as embodied practice, arguing that affect, ritual, and perception can reconfigure modern assumptions about agency and"
 date: '2023-11-28T16:40:43.000Z'
-author: editors
+author: Anna-Maria Magnasco
 image: >-
   /images/2023/12/st_peter_and_st_john_healing_the_cripple_1841_wellcome_l0000122-1210x642.webp
 categories:

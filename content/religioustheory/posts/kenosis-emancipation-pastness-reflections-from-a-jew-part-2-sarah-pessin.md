@@ -7,7 +7,7 @@ title: >-
   Pessin)
 description: "Emphasized in a temporalized modality, and bringing together elements of our phenomenological and political reflections above, we may specifically unpack the"
 date: '2019-07-01T21:09:48.000Z'
-author: editors
+author: Sarah Pessin
 image: /images/2019/07/1599px-jewish_star_star_of_david_6002048043.webp
 categories:
   - Interfaith Conversations

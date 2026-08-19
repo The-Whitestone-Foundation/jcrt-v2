@@ -7,7 +7,7 @@ title: >-
   Panteleimon Manoussakis)
 description: "**The following is the second half of the article. The first installment can be found here.** Richard Kearney’s theopoetics offers an alternative to the"
 date: '2017-04-01T01:41:57.000Z'
-author: editors
+author: John Panteleimon Manoussakis
 image: /images/2017/04/under-den-linden.webp
 categories:
   - Philosophy

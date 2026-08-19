@@ -7,7 +7,7 @@ title: >-
   Conroy)
 description: "The following is the second of a three-part series. The first can be found here, the second here. Likewise, Teresa de Lauretis argues that gender is best"
 date: '2020-10-12T02:55:20.000Z'
-author: editors
+author: Melissa Conroy
 image: /images/2020/10/candi_ceto_lingam_and_yoni_1259.webp
 categories:
   - Sexuality and Religion

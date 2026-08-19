@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcjsw
 title: 'God And Existence, Lecture 4 (Johannes Zachhuber)'
 description: "The following is the fourth lecture in an eight-part lecture series. Readers can also refer to lectures one, two, and three It highlights key arguments"
 date: '2018-08-29T17:34:34.000Z'
-author: editors
+author: Johannes Zachhuber
 image: /images/2018/08/img_2603.webp
 categories:
   - Theology

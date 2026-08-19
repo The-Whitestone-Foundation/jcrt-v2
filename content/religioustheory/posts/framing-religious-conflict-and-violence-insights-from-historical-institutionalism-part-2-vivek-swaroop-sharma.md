@@ -7,7 +7,7 @@ title: >-
   Institutionalism, Part 2 (Vivek Swaroop Sharma)
 description: "The following is the second installment of a two-part series. The first installment can be found here. There are two important qualifications to the following"
 date: '2017-09-22T14:50:20.000Z'
-author: editors
+author: Vivek Swaroop Sharma
 image: /images/images.webp
 categories:
   - Political Theory

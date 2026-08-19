@@ -7,7 +7,7 @@ title: >-
   1 (Ronald Beiner)
 description: "Part 1 traces how Walter Benjamin's theses on history inform Hannah Arendt's account of judgment, emphasizing temporality, critique, and political The"
 date: '2016-08-08T06:37:39.000Z'
-author: editors
+author: Ronald Beiner
 image: /images/2016/08/benjamins-angel-of-history.webp
 categories:
   - Political Theology

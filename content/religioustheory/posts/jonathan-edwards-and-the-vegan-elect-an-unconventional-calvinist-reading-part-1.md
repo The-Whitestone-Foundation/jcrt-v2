@@ -7,7 +7,7 @@ title: >-
   Part 1 (Tadd Ruetenik)
 description: "In 1895, when Myrtle Fillmore, co-founder of the Unity School of Christianity, first became a vegetarian, she said that “the appetite left me without my even"
 date: '2019-04-23T16:59:41.000Z'
-author: editors
+author: Tadd Ruetenik
 image: /images/2019/04/j-edwards.webp
 categories:
   - Theology

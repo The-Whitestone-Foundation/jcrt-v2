@@ -7,7 +7,7 @@ title: >-
   Part 2 (Brigid Burke)
 description: "The following is the second installment of a two-part series. The first installment can be found here. Zoroastrianism is believed to be an outgrowth of an"
 date: '2017-11-07T22:29:04.000Z'
-author: editors
+author: Brigid Burke
 image: /images/2017/10/genrich_ippolitovich_semiradsky_-_roma_1889.webp
 categories:
   - Mythology

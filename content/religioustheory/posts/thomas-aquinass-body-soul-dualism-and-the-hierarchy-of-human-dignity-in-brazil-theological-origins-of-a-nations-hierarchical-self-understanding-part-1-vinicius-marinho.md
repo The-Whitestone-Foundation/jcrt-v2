@@ -8,7 +8,7 @@ title: >-
   (Vinicius Marinho)
 description: "“Manda quem pode, obedece quem tem juízo” is an old Brazilian proverb. It synthetizes, in two clauses, the dominant value of the Brazilian political culture:"
 date: '2021-08-03T00:25:53.000Z'
-author: editors
+author: Vinicius Marinho
 image: /images/2021/08/menina_da_etnia_terena-1.webp
 categories:
   - Indigenous Religions

@@ -7,7 +7,7 @@ title: >-
   (Johannes Zachhuber)
 description: "The following is the second lecture in an eight-lecture series. The first can be found here. I introduced these lectures last week by pointing out the unique"
 date: '2018-06-09T16:19:28.000Z'
-author: editors
+author: Johannes Zachhuber
 image: /images/2018/06/img_0310.webp
 categories:
   - Philosophy of Religion

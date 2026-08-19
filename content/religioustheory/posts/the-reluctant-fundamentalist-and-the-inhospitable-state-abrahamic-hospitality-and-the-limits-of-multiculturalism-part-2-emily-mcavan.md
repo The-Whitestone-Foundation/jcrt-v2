@@ -7,7 +7,7 @@ title: >-
   Hospitality And The Limits Of Multiculturalism, Part 2 (Emily McAvan)
 description: "The following is the second of a two-part series. The first can be found here. Yet even in the first bloom of his success in New York, it is clear that"
 date: '2020-04-08T21:29:27.000Z'
-author: editors
+author: EMILY McAVAN
 image: /images/2020/04/deployment.webp
 categories:
   - Religion and Literature

@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc23b
 title: 'Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)'
 description: "Part 3 links entheogen practice and dreamwork, arguing that altered states function as a training ground for agency, myth-making, and transformed lived reality."
 date: '2021-10-21T22:02:12.000Z'
-author: editors
+author: John Cuda
 image: /images/2021/10/screen-shot-2021-10-21-at-9-57-51-pm.webp
 categories:
   - New Religions

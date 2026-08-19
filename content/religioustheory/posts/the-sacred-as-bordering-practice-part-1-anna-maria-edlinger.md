@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbr6d
 title: 'The Sacred As Bordering Practice, Part 1 (Anna-Maria Edlinger)'
 description: "Part 1 theorizes the sacred as bordering practice, showing how ritual and discourse draw limits, authorize belonging, and organize contested social and"
 date: '2023-10-25T15:51:14.000Z'
-author: editors
+author: Anna-Maria Edlinger
 image: /images/2023/12/img_1797.webp
 categories:
   - Political Theology

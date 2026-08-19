@@ -7,7 +7,7 @@ title: >-
   Adjudicating Competing Ethical Claims, Part 2 (W. Travis McMaken)
 description: "The following is the second of a two-part series. The first can be found here. Reflecting on the development of Bonhoeffer’s ethical thought, Rasmussen notes"
 date: '2020-08-23T20:44:58.000Z'
-author: editors
+author: W. Travis Mcmaken
 image: /images/2020/08/img_5070-1.webp
 categories:
   - Theological Ethics
