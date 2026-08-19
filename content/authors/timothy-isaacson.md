@@ -1,6 +1,6 @@
 ---
 nanoid: "qy__bT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf776dp3z2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfref5wmc2p'
 name: Timothy Isaacson
 affiliation: "University of Denver"
 bio:

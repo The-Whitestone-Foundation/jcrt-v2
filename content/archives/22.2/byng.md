@@ -1,7 +1,7 @@
 ---
 nanoid: "XQmHwn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74x6nuj2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbtdbop2n'
 title: "Eckhart and the Ek-Sistence of God: a Mystical Quarter Turn in the Theology of the Real"
 article_number:
 author: "Gabriel Thomas Gustav Byng"

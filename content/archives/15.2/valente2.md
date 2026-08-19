@@ -1,7 +1,7 @@
 ---
 nanoid: "d4vJDO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf764bs2m2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd6blbk2p'
 title: "There’s a Girl Inside."
 author: "Joseph Valente"
 affilation:

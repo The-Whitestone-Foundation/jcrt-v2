@@ -1,6 +1,6 @@
 ---
 nanoid: "2yUuAs"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77b5g442i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreifb3q2p'
 name: Sebastian Modrow
 affiliation: "Syracuse University"
 bio: |-

@@ -1,6 +1,6 @@
 ---
 nanoid: "rgg8XI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf773vnvq25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrecdd5h23'
 name: Wilson Dickinson
 affiliation: "Syracuse University"
 bio:

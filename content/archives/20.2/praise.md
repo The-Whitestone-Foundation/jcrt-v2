@@ -1,7 +1,7 @@
 ---
 nanoid: "mbgRL8"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf757qnju2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc5ikup2e'
 title: "In Praise of Mortality: Christianity as a New Humanism"
 author: Kurt Appel; Jakob Deibl; Isabella Guanzini; Alex Skinner; Natalie Eder; Carl A. Raschke; Rachel Thomas
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "QQjIFP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76dq4z42i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdglspd2z'
 title: "Christianity and Contemporary Politics: the Conditions and Possibility of Faithful Witness."
 author: "Laura E. Alexander"
 affilation:

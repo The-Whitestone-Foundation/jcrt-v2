@@ -1,7 +1,7 @@
 ---
 nanoid: "D4PmOD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75yfy4a25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcztgfh2n'
 title: >-
   Review – Altered States: Buddhism and Psychedelic Spirituality in America
   (Roger Green)

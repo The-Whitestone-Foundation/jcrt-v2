@@ -1,7 +1,7 @@
 ---
 nanoid: "2x-OM7"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74rnhy323'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrblhf5g2f'
 title: "Saying “You”: the Grammar of Address and the Limitations of Cognitive Theories of Religion"
 author: "Carl A. Raschke"
 affilation:

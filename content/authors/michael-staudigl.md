@@ -1,6 +1,6 @@
 ---
 nanoid: "8rGyqh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77jhwhf2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrerz3tk2p'
 name: Michael Staudigl
 affiliation: "University of Vienna"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "p_jTa0"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74tivd52s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrboqqah2e'
 title: "A ‘Social Constructionist’ Approach to ‘Muslim Biomedical Ethics’: Examining ‘Muslim’ Opposition to Physician-Assisted Suicide"
 author: "Hossein Godazgar"
 affilation:

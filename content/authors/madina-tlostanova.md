@@ -1,6 +1,6 @@
 ---
 nanoid: "u9urjk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77nnrn32g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrewvml723'
 name: Madina Tlostanova
 affiliation: "Russian Presidential Academy of National Economy and Public Administration (Moscow)"
 bio:

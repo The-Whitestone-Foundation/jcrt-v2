@@ -1,7 +1,7 @@
 ---
 nanoid: "4Mrisx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf763bvlf2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd55wio2i'
 title: "Review of Judith Butler’s Senses of the Subject"
 author: "Matt Waggoner"
 affilation: "Albertus Magnus College"

@@ -1,6 +1,6 @@
 ---
 nanoid: "bQo5PY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77b7njc2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreihtbs2p'
 name: Sean J McGrath
 affiliation: "University of Toronto"
 bio:

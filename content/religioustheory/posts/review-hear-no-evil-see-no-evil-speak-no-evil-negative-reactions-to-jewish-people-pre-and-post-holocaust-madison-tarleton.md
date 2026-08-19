@@ -1,7 +1,7 @@
 ---
 nanoid: "CM_o4_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75msvxz2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcmjdmx23'
 title: >-
   Review – Hear No Evil, See No Evil, Speak No Evil: Negative Reactions to the
   Jewish Pre- and Post-Holocaust (Madison Tarleton)

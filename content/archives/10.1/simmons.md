@@ -1,7 +1,7 @@
 ---
 nanoid: "s6SLzj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76knzse2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdojayw2i'
 title: "Moments of Intense Presence: a Conversation with David Wood"
 author: "David C Wood; J Aaron Simmons"
 affilation:

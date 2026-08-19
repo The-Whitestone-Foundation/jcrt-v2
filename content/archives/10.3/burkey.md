@@ -1,7 +1,7 @@
 ---
 nanoid: "maDgmu"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76jisem2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdn7xrd2z'
 title: "Anatheism: Returning to God After God"
 author: "John Burkey"
 affilation:

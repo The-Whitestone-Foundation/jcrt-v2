@@ -1,6 +1,6 @@
 ---
 nanoid: "A7U4r1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf777zjs323'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreh3uzs2p'
 name: Stella Indira Auer
 affiliation:
 bio:

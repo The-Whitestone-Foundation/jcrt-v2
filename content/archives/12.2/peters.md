@@ -1,7 +1,7 @@
 ---
 nanoid: "djDvd_"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76dwxv22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdgthrg2i'
 title: "Teaching for Social Justice: Creating a Context for Transformation."
 author: "Rebecca Todd Peters"
 affilation:

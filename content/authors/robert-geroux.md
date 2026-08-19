@@ -1,6 +1,6 @@
 ---
 nanoid: "1ThizM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77ddjfc2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrekwfxn2q'
 name: Robert Geroux
 affiliation: "Marian College "
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "F3eCIA"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77ve4hv2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfae7vj2u'
 name: James O Duke
 affiliation: "Texas Christian University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "LaptdQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77u5l6a2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrf6ykpo2f'
 name: Jeffrey Kosky
 affiliation: "Washington and Lee University, Bucknell University"
 bio:

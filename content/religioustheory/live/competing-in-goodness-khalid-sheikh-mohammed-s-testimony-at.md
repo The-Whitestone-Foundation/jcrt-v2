@@ -1,6 +1,6 @@
 ---
 nanoid: "IhSgWf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76mpuya25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdqtoxf2h'
 title: "“Competing in Goodness”: Khalid Sheikh Mohammed’s Testimony at Guantanamo"
 description: "Faisal Devji analyzes Khalid Sheikh Mohammed's Guantanamo testimony, exploring militant pluralism, legal exception, guilt, war, and competing in goodness."
 date: '2008-10-06'

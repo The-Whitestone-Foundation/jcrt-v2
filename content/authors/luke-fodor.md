@@ -1,6 +1,6 @@
 ---
 nanoid: "RPf5yf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77nz7ut2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrexcjnz2n'
 name: Luke Fodor
 affiliation: "New York University"
 bio:

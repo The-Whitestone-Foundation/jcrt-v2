@@ -1,7 +1,7 @@
 ---
 nanoid: "e8lWyq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75br7wu2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc7s75o25'
 title: >-
   Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To
   The Leveling Of The Public Sphere, Part 2 (Andrew Ball)

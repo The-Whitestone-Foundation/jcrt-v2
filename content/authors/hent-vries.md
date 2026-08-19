@@ -1,6 +1,6 @@
 ---
 nanoid: "efeY-U"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77xg2s42i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfcosvh2e'
 name: Hent de Vries
 affiliation: "Johns Hopkins University"
 bio:

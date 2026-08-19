@@ -1,7 +1,7 @@
 ---
 nanoid: "8we0HS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf757jzhv2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc5axp72n'
 title: "What do we Mean by Decoloniality?"
 author: Catherine Walsh; Walter Mignolo; Fernando Herrero; Tink Tinker
 affilation:

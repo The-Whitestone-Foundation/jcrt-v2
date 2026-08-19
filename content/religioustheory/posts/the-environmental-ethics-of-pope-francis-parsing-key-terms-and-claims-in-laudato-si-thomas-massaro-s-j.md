@@ -1,7 +1,7 @@
 ---
 nanoid: "jScoJy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74spqn52s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbni4gh2n'
 title: >-
   The Environmental Ethics of Pope Francis – Parsing Key Terms and Claims In
   Laudato Si’ (Thomas Massaro, S.J.)

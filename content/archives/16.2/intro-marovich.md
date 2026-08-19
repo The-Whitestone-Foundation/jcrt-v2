@@ -1,7 +1,7 @@
 ---
 nanoid: "ua-z74"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75vn5l42q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcworox23'
 title: "Negotiating Terrain: Gender and the Postsecular?"
 author: "Beatrice Marovich; Alex Dubilet"
 affilation:

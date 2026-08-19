@@ -1,7 +1,7 @@
 ---
 nanoid: "iGkh9z"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75mf6um2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrclzqm42q'
 title: 'Prayer After the Death of God, Part II (Ashley [Gay] Graham)'
 description: "The following is the second part in a two-part installment. The first part can be found here. This abandonment is not a permanent void; rather, it demonstrates"
 date: '2018-02-18T22:55:37.000Z'

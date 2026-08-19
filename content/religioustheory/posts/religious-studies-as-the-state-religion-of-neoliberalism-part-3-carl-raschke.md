@@ -1,7 +1,7 @@
 ---
 nanoid: "mrU-Lc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf74yk3jb2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbuuxme2q'
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 3 (Carl
   Raschke)

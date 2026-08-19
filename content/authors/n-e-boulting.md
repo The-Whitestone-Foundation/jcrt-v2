@@ -1,6 +1,6 @@
 ---
 nanoid: "lwp56E"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77iw45f2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrereof22h'
 name: N. E. Boulting
 affiliation:
 bio:

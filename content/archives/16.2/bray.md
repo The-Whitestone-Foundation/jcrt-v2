@@ -1,7 +1,7 @@
 ---
 nanoid: "n3zbSC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75vrnzk2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcwtosw2i'
 title: "On Ignorant and Insightful Chickens: Why ŽIŽEkian Post Secularity Needs Halberstam’s Shadow Feminism."
 author: "Karen Bray"
 affilation:

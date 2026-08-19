@@ -1,6 +1,6 @@
 ---
 nanoid: "Yrg6UT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf7a3xezz2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfh55lb2n'
 name: Edith Wyschogrod
 affiliation: "Rice University"
 bio:

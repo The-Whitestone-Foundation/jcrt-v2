@@ -1,7 +1,7 @@
 ---
 nanoid: "xeEilH"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf752jxft2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbxdhax2e'
 title: "Niddah as Index of Jewish Sexuality: a Theoretical Foundation for an Anthrpology of Menstrual Rituals."
 author: "Isobel-Marie Johnston"
 affilation:

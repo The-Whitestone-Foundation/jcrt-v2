@@ -1,7 +1,7 @@
 ---
 nanoid: "2izL3L"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75zpdj22q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd3eln42q'
 title: Review – Badiou and Gauchet on Capitalism and Democracy
 description: "*Badiou, Alain and Gauchet, Marcel. What Is To Be Done?: A Dialogue on Communism, Capitalism, and the Future of Democracy. Translated by Susan Spitzer"
 date: '2016-05-12T21:22:23.000Z'

@@ -1,6 +1,6 @@
 ---
 nanoid: "Qr6CA6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77a5za32g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrehazzh2n'
 name: Sophie Fuggle
 affiliation: "King's College, London"
 bio:

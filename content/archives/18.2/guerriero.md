@@ -1,7 +1,7 @@
 ---
 nanoid: "AF8nfg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75jfp452s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcimcnw2f'
 title: "New Religions in Brazil: a Game Between Relativism and Fundamentalism."
 author: "Silas Guerriero"
 affilation:

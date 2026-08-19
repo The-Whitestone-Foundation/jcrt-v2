@@ -1,7 +1,7 @@
 ---
 nanoid: "sXiH1G"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75dkdzd2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcbsxlh2e'
 title: "Walter Benjamin’s World of Things."
 author: "Yael Almog"
 affilation:

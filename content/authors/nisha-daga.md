@@ -1,6 +1,6 @@
 ---
 nanoid: "0tFDHC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77hla6d2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrepsmyf2q'
 name: Nisha Daga
 affiliation: "Indian Institute of Technology"
 bio:

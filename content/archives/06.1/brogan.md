@@ -1,7 +1,7 @@
 ---
 nanoid: "vdCkOx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76xystd2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfre5uqne2q'
 title: "Judaism and Alterity in Blanchot and Levinas"
 author: "Michael J Brogan"
 affilation:

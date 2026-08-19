@@ -1,7 +1,7 @@
 ---
 nanoid: "OxTVyJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf757fez32g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc53zix2e'
 title: "“Teach Me to Do What’s Right”: Faith, Hope, and Love as Post-Religious Virtues."
 author: "A. G. Holdier"
 affilation:

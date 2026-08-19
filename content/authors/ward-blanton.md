@@ -1,6 +1,6 @@
 ---
 nanoid: "RGM1Q2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf774o5bl2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreda3xk2h'
 name: Ward Blanton
 affiliation: "University of Glasgow, Luther College"
 bio:

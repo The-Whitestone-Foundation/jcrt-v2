@@ -1,6 +1,6 @@
 ---
 nanoid: "rvvY4d"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf774lwuf2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfred5hwm2g'
 name: Warren Clarnette
 affiliation:
 bio:

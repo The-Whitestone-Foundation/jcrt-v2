@@ -1,7 +1,7 @@
 ---
 nanoid: "TPkz9W"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76o5f5z2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdsheb72n'
 title: "God After Metaphysics: a Theological Aesthetic"
 author: "Wilson Dickinson"
 affilation:

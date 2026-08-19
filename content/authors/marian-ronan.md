@@ -1,6 +1,6 @@
 ---
 nanoid: "Z_gDTP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf77muswc2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrevz4i52h'
 name: Marian Ronan
 affiliation: "American Baptist Seminary of the West"
 bio:

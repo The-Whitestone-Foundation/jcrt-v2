@@ -1,6 +1,6 @@
 ---
 nanoid: "0CLOty"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf776keyy2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrefftey2p'
 name: Thomas Nail
 affiliation: "University of Denver"
 bio:

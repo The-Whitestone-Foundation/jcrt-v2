@@ -1,6 +1,6 @@
 ---
 nanoid: "G2Rf2T"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf7a66pit2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfjpj5w25'
 name: Danielle Celermajer
 affiliation:
 bio:

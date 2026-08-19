@@ -1,7 +1,7 @@
 ---
 nanoid: "OLn7l9"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf76xlaey2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfre5f5mp2n'
 title: "What the Doing Does: Religious Practice & the Problem of Meaning"
 author: "Andrea Sun-Mee Jones"
 affilation:

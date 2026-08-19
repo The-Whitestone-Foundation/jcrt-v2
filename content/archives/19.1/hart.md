@@ -1,7 +1,7 @@
 ---
 nanoid: "0u2Ghz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtf75f6e4u2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcdo4432z'
 title: "Afterthinking Altizer: Redemption and the Divine Recusal."
 author: "Ray L. Hart"
 affilation:
