@@ -3,11 +3,11 @@ nanoid: "pChT7U"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbnnn3g2i'
 title: >-
-  Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin
-  S. Grane)
+  Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kev
+  Grane)
 description: "The religious attitude of the West today demonstrates a consumerist ethos that would have been deeply foreign to the religious discourse of old It highlights"
 date: '2024-03-15T13:53:12.000Z'
-author: Kevin S. Grane
+author: Kev Grane
 image: /images/2024/09/3725.webp
 categories:
   - Cultural Theory
@@ -16,7 +16,7 @@ categories:
   - Political Theology
   - Political Theory
 slug: >-
-  religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kevin-s-grane
+  religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kev-grane
 tags:
   - theoryPosts
   - animal
@@ -123,7 +123,7 @@ Early practices of dietary restriction and refrain from animal sacrifice further
 
 The conclusion leads us to believe that the value of non-human life has gradually lessened for many religious populations. This shift is symptomatic of the larger project demonstrating a depreciating concern of major religious traditions for environmental sanctity and preservation of non-human life.
 
-*Kevin S. Grane is a doctoral candidate at the University of Denver/Iliff School of Theology joint PhD program in the study of religion.*
+*Kev Grane is a doctoral candidate at the University of Denver/Iliff School of Theology joint PhD program in the study of religion.*
 
 * * *
 

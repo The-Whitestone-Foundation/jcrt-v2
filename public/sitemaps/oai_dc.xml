@@ -2,7 +2,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-08-19T16:39:43.269Z</responseDate>
+  <responseDate>2026-08-19T18:26:06.089Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/sitemaps/oai_dc.xml</request>
   <ListRecords>
     <record>
@@ -41287,7 +41287,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Evolution of Colonial Gender Roles</dc:title>
-          <dc:creator>Kevin Grane</dc:creator>
+          <dc:creator>Kev Grane</dc:creator>
           <dc:subject>patriarchy</dc:subject>
           <dc:subject>imperialism</dc:subject>
           <dc:subject>colonialism-and-neocolonialism</dc:subject>
@@ -43156,7 +43156,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Religious Sacrificial Sympathy: How Man Became More Valuable Than Beast.</dc:title>
-          <dc:creator>Kevin S. Grane</dc:creator>
+          <dc:creator>Kev Grane</dc:creator>
           <dc:subject>faith</dc:subject>
           <dc:subject>sympathy</dc:subject>
           <dc:subject>Faith</dc:subject>
@@ -43731,7 +43731,7 @@
     </record>
     <record>
       <header>
-        <identifier>oai:jcrt.org:religioustheory:religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kevin-s-grane</identifier>
+        <identifier>oai:jcrt.org:religioustheory:religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kev-grane</identifier>
         <datestamp>2024-03-15</datestamp>
       </header>
       <metadata>
@@ -43739,8 +43739,8 @@
                    xmlns:dc="http://purl.org/dc/elements/1.1/"
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:title>Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin S. Grane)</dc:title>
-          <dc:creator>Kevin S. Grane</dc:creator>
+          <dc:title>Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kev Grane)</dc:title>
+          <dc:creator>Kev Grane</dc:creator>
           <dc:subject>Cultural Theory</dc:subject>
           <dc:subject>Announcements</dc:subject>
           <dc:subject>Critical Theory</dc:subject>
@@ -43760,7 +43760,7 @@
           <dc:type>article</dc:type>
           <dc:format>text/html</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/religioustheory/posts/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kevin-s-grane/</dc:identifier>
+          <dc:identifier>https://jcrt.org/religioustheory/posts/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kev-grane/</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:language>en</dc:language>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -44581,7 +44581,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Faith and Transitions: Religious Notions of Accountability and Gender Affirming Care for Youth</dc:title>
-          <dc:creator>Kevin Grane</dc:creator>
+          <dc:creator>Kev Grane</dc:creator>
           <dc:subject>gender-affirming-care</dc:subject>
           <dc:subject>transgender-youth</dc:subject>
           <dc:subject>religion-and-gender</dc:subject>
@@ -45881,7 +45881,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>BOOK REVIEW: YASCHA MOUNK, THE IDENTITY TRAP: A STORY OF IDEAS AND POWER IN OUR TIME.</dc:title>
-          <dc:creator>Kevin S. Grane</dc:creator>
+          <dc:creator>Kev Grane</dc:creator>
           <dc:subject>Book-Review</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Critical Race Theory</dc:subject>
@@ -45897,7 +45897,7 @@
           <dc:subject>Identity (Philosophical concept)</dc:subject>
           <dc:subject>Liberalism</dc:subject>
           <dc:subject>Multiculturalism</dc:subject>
-          <dc:description>Kevin Grane reviews Yascha Mounk’s The Identity Trap, whose sharpest contribution is showing how the identity synthesis undercuts its own egalitarian aims.</dc:description>
+          <dc:description>Kev Grane reviews Yascha Mounk’s The Identity Trap, whose sharpest contribution is showing how the identity synthesis undercuts its own egalitarian aims.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2026-08-18</dc:date>
           <dc:type>article</dc:type>

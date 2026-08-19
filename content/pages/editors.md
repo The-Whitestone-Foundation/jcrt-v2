@@ -13,7 +13,7 @@ permalink: /editors/
 
 ## Assistant Editors
 - [**Robert Spinelli**](mailto:rspinelli@ncis.org), Independent Scholar.
-- [**Kevin Grane**](mailto:kev.grane@du.edu), University of Denver \| [Articlces by Grane](/authors/kevin-grane/)
+- [**Kev Grane**](mailto:kev.grane@du.edu), University of Denver \| [Articlces by Grane](/authors/kev-grane/)
 - [**J.C. Smith**](mailto:mailto:jc.smith@du.edu), University of Denver
 
 ## 

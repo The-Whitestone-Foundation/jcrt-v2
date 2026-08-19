@@ -5,6 +5,16 @@
 
 # Legacy archive article and issue redirects must resolve before the
 # archive directory-index rewrite to avoid redirected 404s.
+/authors/kevin-grane /authors/kev-grane/ 301
+/authors/kevin-grane/ /authors/kev-grane/ 301
+/authors/kevin-s-grane /authors/kev-grane/ 301
+/authors/kevin-s-grane/ /authors/kev-grane/ 301
+/religioustheory/authors/kevin-grane /religioustheory/authors/kev-grane/ 301
+/religioustheory/authors/kevin-grane/ /religioustheory/authors/kev-grane/ 301
+/religioustheory/authors/kevin-s-grane /religioustheory/authors/kev-grane/ 301
+/religioustheory/authors/kevin-s-grane/ /religioustheory/authors/kev-grane/ 301
+/religioustheory/posts/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kevin-s-grane /religioustheory/posts/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kev-grane/ 301
+/religioustheory/posts/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kevin-s-grane/ /religioustheory/posts/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kev-grane/ 301
 /cw /blog/2026-04-22-religion-politics-and-cognitive-warfare-information-interpretation-conspiracy-and-the-struggle-for-reality/ 301
 /cw/ /blog/2026-04-22-religion-politics-and-cognitive-warfare-information-interpretation-conspiracy-and-the-struggle-for-reality/ 301
 /cw-registration /blog/2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare/ 301
