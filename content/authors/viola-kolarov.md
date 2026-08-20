@@ -1,6 +1,6 @@
 ---
 nanoid: "Vwsi_t"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfredn6yh23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2kavh52h'
 name: Viola Kolarov
 affiliation: "University of California, Santa Barbara "
 bio:

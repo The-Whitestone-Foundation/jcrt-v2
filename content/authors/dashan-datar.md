@@ -1,6 +1,6 @@
 ---
 nanoid: "iiMbjf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfjcq3l2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3qor2u2e'
 name: "Dashan Datar"
 affiliation:
 bio:

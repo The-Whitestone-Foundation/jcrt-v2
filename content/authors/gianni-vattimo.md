@@ -1,6 +1,6 @@
 ---
 nanoid: "EUFU-q"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfdbejw2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3keo4n2h'
 name: Gianni Vattimo
 affiliation: "The University of Turin"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "W09rJb"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreuf7a62i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg33nunl2i'
 name: Matt Rosen
 affiliation: "Colorado College"
 bio:

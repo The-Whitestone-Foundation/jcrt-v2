@@ -1,5 +1,6 @@
 ---
 nanoid: "4b3n0G"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3h6lo42e'
 name: Jared Lacy
 affiliation:
 bio:

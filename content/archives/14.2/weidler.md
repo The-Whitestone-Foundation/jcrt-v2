@@ -1,7 +1,7 @@
 ---
 nanoid: "pPSJ2q"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd7umzm2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzh7rie2z'
 title: "Vernacular Fundamentalism After ŽIŽEk: Some Ethical Concerns About Religious Online Communication."
 author: "Markus Weidler"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "uzvgNC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfredpsyf2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2kdhkv2s'
 name: "Vinicius Marinho"
 affiliation: "University of Chicago Divinity School"
 bio:

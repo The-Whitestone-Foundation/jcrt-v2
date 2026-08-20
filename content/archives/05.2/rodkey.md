@@ -1,7 +1,7 @@
 ---
 nanoid: "ebDp5w"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfre7so6e2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2gippo2p'
 title: "Shopping Malls and Other Sacred Spaces: Putting God in Place"
 author: "Christopher D Rodkey"
 affilation:

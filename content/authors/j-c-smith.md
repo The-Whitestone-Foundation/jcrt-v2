@@ -1,6 +1,6 @@
 ---
 nanoid: "iLP9HZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfbnk5z2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3ioxf42z'
 name: J.C. Smith
 affiliation: "University of Denver"
 bio:

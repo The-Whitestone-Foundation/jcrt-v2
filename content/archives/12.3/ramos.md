@@ -1,7 +1,7 @@
 ---
 nanoid: "kUhs2c"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdfzrkl2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzmtsa42z'
 title: "Demographics as Destiny: Globalization and the Resurgence of Religion Through Fertility."
 author: "Joshua Ramos"
 affilation:

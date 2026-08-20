@@ -1,7 +1,7 @@
 ---
 nanoid: "EiaLo2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd2cwee2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzboapm2u'
 title: >-
   Review – The Search For Transcendence In The “Material Phenomenology” of David
   Foster Wallace (Jeff Appel)

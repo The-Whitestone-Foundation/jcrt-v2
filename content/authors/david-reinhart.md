@@ -1,6 +1,6 @@
 ---
 nanoid: "Ojysqq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfilvqv2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3pumym2z'
 name: David Reinhart
 affiliation: "DePaul University, Saint Xavier University"
 bio:

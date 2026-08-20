@@ -1,6 +1,6 @@
 ---
 nanoid: "iV_YS1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfdvtw72e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3kz7i62q'
 name: Genn Ruan
 affiliation: "University of California, Riverside"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "tIO6XJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfre5zvla2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2eqew42u'
 title: "Aristotle’s Children: How Christians, Muslims, and Jews Rediscovered Ancient Wisdom and Illuminated the Dark Ages"
 author: "Nöelle Vahanian"
 affilation:

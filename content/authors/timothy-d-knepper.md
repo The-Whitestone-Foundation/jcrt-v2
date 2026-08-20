@@ -1,6 +1,6 @@
 ---
 nanoid: "-Jvpvf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrefajhi2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2ltzbm2h'
 name: Timothy D. Knepper
 affiliation: "DRAKE UNIVERSITY"
 bio:

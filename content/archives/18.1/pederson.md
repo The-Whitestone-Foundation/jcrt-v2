@@ -1,7 +1,7 @@
 ---
 nanoid: "yCgZOc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcnfvox2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfyucjem2n'
 title: "Essence, Alienation, and the Economics of Libido."
 author: "Trevor Pederson"
 affilation:

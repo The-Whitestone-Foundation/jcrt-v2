@@ -1,6 +1,6 @@
 ---
 nanoid: "U_rBnJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfkjr662f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3rvwvv2s'
 name: Daniel J McClain
 affiliation: "The Catholic University of America"
 bio:

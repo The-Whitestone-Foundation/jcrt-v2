@@ -1,7 +1,7 @@
 ---
 nanoid: "f-XSxj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcuew5b2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfz3srse2z'
 title: >-
   Foucault’s Disciplinary Society And The Community Rule Of Qumran (Rebekah
   Gordon)

@@ -1,7 +1,7 @@
 ---
 nanoid: "s2SBXf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcenaxb2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfylfo6523'
 title: >-
   Speaking Of God’s Presence As Non-Contrastive Transcendent Distinction (Joyce
   Konigsburg)

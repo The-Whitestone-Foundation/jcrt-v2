@@ -1,7 +1,7 @@
 ---
 nanoid: "-9UHJW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcdqn7o2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfykldb32i'
 title: "Altizer and the Christian Epic Tradition."
 author: "William Franke"
 affilation:

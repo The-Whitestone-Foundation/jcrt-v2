@@ -1,7 +1,7 @@
 ---
 nanoid: "b8TNnu"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdfmopk2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzmgxzd2i'
 title: "From Alchemy to Revolution: a Conversation with Carl A. Raschke."
 author: "Carl A. Raschke; Victor Taylor"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "Nndnn_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrezcng52q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3amc6f2p'
 name: Kev Grane
 affiliation: "University of Denver/Iliff School of Theology"
 bio: "Kev Grane is a scholar in the University of Denver/Iliff School of Theology joint PhD program in the study of religion."

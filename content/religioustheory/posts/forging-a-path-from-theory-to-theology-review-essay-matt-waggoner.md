@@ -1,7 +1,7 @@
 ---
 nanoid: "y73Ba2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrctuls625'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfz3bxtu2e'
 title: Forging A Path From Theory To Theology – Review Essay (Matt Waggoner)
 description: "*Blanton, Ward. Crockett, Clayton. Robbins, Jeffrey. Vahanian, Noëlle. An Insurrectionist Manifesto: Four New Gospels for a Radical Politics (Insurrections:"
 date: '2017-04-11T05:03:59.000Z'

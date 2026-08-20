@@ -1,7 +1,7 @@
 ---
 nanoid: "67zZUI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdz7aco25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg27zb542n'
 title: "Authentic Fakes: Religion and American Popular Culture"
 author: "Eric Bain-Selbo"
 affilation:

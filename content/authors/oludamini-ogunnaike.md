@@ -1,6 +1,6 @@
 ---
 nanoid: "GhICKt"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrep5tue2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2wfqum2n'
 name: Oludamini Ogunnaike
 affiliation: "Stanford University"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "LAsc1z"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbz4ane2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfy7y6u523'
 title: "Orientalism, Ontology, and Orientation: a Muslim Perspective on Charles H. Long."
 author: "Mehnaz Afridi"
 affilation:

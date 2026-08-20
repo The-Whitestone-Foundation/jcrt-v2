@@ -1,7 +1,7 @@
 ---
 nanoid: "UNMipf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbrqycm2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfxywpyv2s'
 title: >-
   The Religious Roots Of Environmental Justice – Call For Papers Or
   Presentations (Conference)

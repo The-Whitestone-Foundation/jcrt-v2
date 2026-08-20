@@ -1,7 +1,7 @@
 ---
 nanoid: "AXDTNZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc6hut62f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfyf6g6v23'
 title: >-
   Sexual Difference And The Vatican – A Lacanian Response, Part 2 (Melissa
   Conroy)

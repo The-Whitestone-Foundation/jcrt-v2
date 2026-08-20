@@ -1,7 +1,7 @@
 ---
 nanoid: "dqVhbe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcve5gp2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfz4rtz42h'
 title: >-
   Rethinking Anselm’s Atonement Theory –  “Unmaking” The Indebted Man (Ryne
   Beddard)

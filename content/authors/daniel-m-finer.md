@@ -1,6 +1,6 @@
 ---
 nanoid: "TPDAEu"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfkdzhi2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3rqowv2s'
 name: Daniel M Finer
 affiliation: "Syracuse University"
 bio:

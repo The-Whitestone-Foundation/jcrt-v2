@@ -1,6 +1,6 @@
 ---
 nanoid: "jXKS0t"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfo6khr2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3vmlrv2s'
 name: Brigid Burke
 affiliation: "Montclair State University"
 bio:

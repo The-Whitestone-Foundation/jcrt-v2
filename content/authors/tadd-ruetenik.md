@@ -1,6 +1,6 @@
 ---
 nanoid: "x5WmtA"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreg4ylq2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2mq6mc2g'
 name: Tadd Ruetenik
 affiliation: "St. Ambrose University"
 bio:

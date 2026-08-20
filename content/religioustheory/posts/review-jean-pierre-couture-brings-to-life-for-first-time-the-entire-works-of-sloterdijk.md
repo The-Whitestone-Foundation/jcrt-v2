@@ -1,7 +1,7 @@
 ---
 nanoid: "VdwiSX"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd3rnm723'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzd2zj52s'
 title: >-
   Review – Jean-Pierre Couture Brings To Life The Ongoing Oeuvre of Peter
   Sloterdijk

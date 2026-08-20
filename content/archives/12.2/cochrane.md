@@ -1,7 +1,7 @@
 ---
 nanoid: "NAjBNG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdhztim2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzotu452s'
 title: "Hexis and Grace: the Formation of Souls at Port Royal and Elsewhere."
 author: "Rich Cochrane"
 affilation:

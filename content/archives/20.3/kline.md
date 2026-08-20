@@ -1,7 +1,7 @@
 ---
 nanoid: "ekouqF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc4wiqe2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfydowmu2n'
 title: "Antinomian Flesh."
 author: "David Kline"
 affilation:

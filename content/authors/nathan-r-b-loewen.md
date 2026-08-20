@@ -1,6 +1,6 @@
 ---
 nanoid: "nx4-K4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrer2iev2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2ydpka2q'
 name: Nathan R. B. Loewen
 affiliation: "UNIVERSITY OF ALABAMA"
 bio:

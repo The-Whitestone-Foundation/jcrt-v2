@@ -1,6 +1,6 @@
 ---
 nanoid: "IythGR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfretksmg2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg32txof2s'
 name: Merrill Cole
 affiliation: "Western Illinois University"
 bio:

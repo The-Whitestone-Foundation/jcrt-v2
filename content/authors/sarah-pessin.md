@@ -1,6 +1,6 @@
 ---
 nanoid: "G-sEFG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreimz5g2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2pa4bf23'
 name: Sarah Pessin
 affiliation: "University of Denver"
 bio:

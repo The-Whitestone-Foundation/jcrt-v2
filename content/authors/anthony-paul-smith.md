@@ -1,6 +1,6 @@
 ---
 nanoid: "0uAtZS"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfqrir723'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3ydmst2i'
 name: Anthony Paul Smith
 affiliation: "University of Nottingham"
 bio:

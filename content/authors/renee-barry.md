@@ -1,6 +1,6 @@
 ---
 nanoid: "HOWbNa"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrelvd5g2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2sjfat25'
 name: Renée Barry
 affiliation: "Matilda Joslyn Gage Foundation"
 bio: |-

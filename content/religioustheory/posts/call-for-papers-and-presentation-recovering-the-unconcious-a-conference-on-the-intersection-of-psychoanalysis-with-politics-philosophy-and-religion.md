@@ -1,7 +1,7 @@
 ---
 nanoid: "SJaS9f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd44kc22p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzdfiju2e'
 title: >-
   Recovering the Unconscious – A Conference on the Intersection of
   Psychoanalysis With Politics, Philosophy, and Religion – CFP

@@ -1,7 +1,7 @@
 ---
 nanoid: "Eavyl-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbwrb7p23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfy5ov2n2h'
 title: >-
   Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 3 (Justine M.
   Bakker)

@@ -1,7 +1,7 @@
 ---
 nanoid: "HxiaGr"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfre7q4yd2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2gg5sf2s'
 title: "Theory Fever: Archivalism and the Future of Religious Studies"
 author: "Victor Taylor"
 affilation:

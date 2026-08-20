@@ -1,7 +1,7 @@
 ---
 nanoid: "iY86aF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrdi6vjh2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzoynif2p'
 title: "Education as Event: a Conversation with John D. Caputo."
 author: "John D. Caputo; T. Wilson Dickinson"
 affilation:

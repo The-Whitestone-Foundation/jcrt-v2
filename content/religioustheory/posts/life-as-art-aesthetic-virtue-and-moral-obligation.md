@@ -1,7 +1,7 @@
 ---
 nanoid: "tvMptH"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd4r4hf2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfze24n523'
 title: Life As Art – Aesthetic Virtue and Moral Obligation
 description: "Virtue ethics has received much attention throughout the last decades. While some of the corresponding works are dealing with questions of aesthetics, there"
 date: '2016-02-24T02:46:50.000Z'

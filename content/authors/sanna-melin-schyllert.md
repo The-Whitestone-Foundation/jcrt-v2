@@ -1,6 +1,6 @@
 ---
 nanoid: "Faps2o"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreixe6y2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2pk7kg2q'
 name: Sanna Melin Schyllert
 affiliation: "University of Westminster"
 bio:

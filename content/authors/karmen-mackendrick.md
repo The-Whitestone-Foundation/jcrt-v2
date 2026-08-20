@@ -1,6 +1,6 @@
 ---
 nanoid: "frl0Ki"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrf247og2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3bg2d52f'
 name: Karmen MacKendrick
 affiliation: "Le Moyne College"
 bio:

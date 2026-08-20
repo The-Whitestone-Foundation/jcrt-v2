@@ -1,6 +1,6 @@
 ---
 nanoid: "AvuJRu"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfgxzaj2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3o6mlw2q'
 name: Edward S. Casey 
 affiliation: "Stony Brook University"
 bio:

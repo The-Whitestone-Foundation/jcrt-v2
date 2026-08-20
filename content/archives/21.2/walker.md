@@ -1,7 +1,7 @@
 ---
 nanoid: "gLFj3u"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbypgeo2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfy7l4qt2i'
 title: "Africans Making the Modern World: According to Dr. Charles H. Long."
 author: "Sheila S. Walker"
 affilation:

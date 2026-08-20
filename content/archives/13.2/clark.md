@@ -1,7 +1,7 @@
 ---
 nanoid: "DuA9hF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrddlgro2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzkvf2e2u'
 title: "Doing the Zombie Glitch; Haptic Undeadliness as a Political Theory."
 author: "Simon Clark"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "RLEbPU"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrf3hu4625'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3cwou62p'
 name: Joseph Rivera
 affiliation:
 bio:

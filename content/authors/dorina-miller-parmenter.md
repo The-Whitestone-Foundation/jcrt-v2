@@ -1,6 +1,6 @@
 ---
 nanoid: "zYzj48"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfhmlpn2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3ot4oo2p'
 name: Dorina Miller Parmenter
 affiliation: "Syracuse University"
 bio:

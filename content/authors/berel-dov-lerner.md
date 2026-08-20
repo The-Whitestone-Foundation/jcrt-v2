@@ -1,6 +1,6 @@
 ---
 nanoid: "boyX1o"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfp5yes2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3wld2l2i'
 name: Berel Dov Lerner
 affiliation: "Western Galilee College "
 bio:

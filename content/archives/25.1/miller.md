@@ -1,7 +1,7 @@
 ---
 nanoid: "YHFQdp"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbj4bqc2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfxrn6ef2f'
 layout: archives.njk
 article_number: '04'
 volume: '25'

@@ -1,6 +1,6 @@
 ---
 nanoid: "Fs9lED"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfreq7nvv2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2xha6n2s'
 name: Nicolas De Warren
 affiliation:
 bio:

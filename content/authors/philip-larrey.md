@@ -1,6 +1,6 @@
 ---
 nanoid: "LNFRRP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfren7om723'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2ui4642z'
 name: Philip Larrey
 affiliation: "Pontifical Lateran University "
 bio:

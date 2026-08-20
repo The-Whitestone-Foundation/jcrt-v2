@@ -1,6 +1,6 @@
 ---
 nanoid: "ZannzQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrefiffe2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2m3mb42u'
 name: Thomas Massaro
 affiliation: "S.J., Fordham University"
 bio:

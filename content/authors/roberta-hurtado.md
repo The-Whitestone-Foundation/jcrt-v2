@@ -1,6 +1,6 @@
 ---
 nanoid: "nq7sAT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrekftkl2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2qywom2e'
 name: Roberta Hurtado
 affiliation: "State University of New York Oswego"
 bio: |-

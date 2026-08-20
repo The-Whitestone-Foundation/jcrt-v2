@@ -1,6 +1,6 @@
 ---
 nanoid: "6vebWZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfree4q5f2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2kqasm2e'
 name: Valérie Nicolet Anderson
 affiliation: "Emory University"
 bio:

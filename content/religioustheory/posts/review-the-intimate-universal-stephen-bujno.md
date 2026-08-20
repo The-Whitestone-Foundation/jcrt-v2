@@ -1,7 +1,7 @@
 ---
 nanoid: "rHIu1O"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrcg76xm2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfymxiue2n'
 title: Review – The Intimate Universal (Stephen Bujno)
 description: "*William Desmond, The Intimate Universal: The Hidden Porosity Among Religion, Art, Philosophy, and Politics. Columbia University Press, 2016. 520 pages"
 date: '2019-03-08T03:46:26.000Z'

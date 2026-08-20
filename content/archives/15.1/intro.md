@@ -1,7 +1,7 @@
 ---
 nanoid: "R9wDwf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrd7fcrm2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzgq4ne2e'
 title: "Violence And The Gift: Challenging Continental Philosophy Of Religion"
 author: Udger Hagedorn; Michael Staudigl; Jason W. Alvis
 affilation:

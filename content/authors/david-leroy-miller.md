@@ -1,6 +1,6 @@
 ---
 nanoid: "4Hh9FX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfiqxtc2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3pzvyv2f'
 name: David LeRoy Miller
 affiliation:
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "9vD_Y5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrbtxsud2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfy35eqn2s'
 title: "Evolution of Colonial Gender Roles"
 author: "Kev Grane"
 affilation:

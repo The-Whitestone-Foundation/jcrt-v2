@@ -1,6 +1,6 @@
 ---
 nanoid: "tgbA7f"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfex6d72e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3m2zdw2p'
 name: Forrest Clingerman
 affiliation: "University of Iowa"
 bio:

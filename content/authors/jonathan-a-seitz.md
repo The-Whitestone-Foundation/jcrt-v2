@@ -1,6 +1,6 @@
 ---
 nanoid: "0Vxxu6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrf4goof2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3dxwoi2q'
 name: Jonathan A Seitz
 affiliation: "Centenary College"
 bio:

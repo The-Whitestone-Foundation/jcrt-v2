@@ -1,6 +1,6 @@
 ---
 nanoid: "BxrwLG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrfiogpv2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3pxcz523'
 name: David R Glowacki
 affiliation: "University of Bristol"
 bio:

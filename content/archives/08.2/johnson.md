@@ -1,7 +1,7 @@
 ---
 nanoid: "TDjmDk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrduufys2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg23qrt325'
 title: "Globalization and Its Enemies"
 author: "Diane E Johnson"
 affilation:

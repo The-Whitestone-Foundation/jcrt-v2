@@ -1,7 +1,7 @@
 ---
 nanoid: "ditkq5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtfrc3wxs625'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfycp6yk2g'
 title: >-
   Critical Conversations 9 – Economic Theology And The Indebtedness Of Everyday
   Life (Announcement)
