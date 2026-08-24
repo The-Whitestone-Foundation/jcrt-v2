@@ -1,6 +1,6 @@
 ---
 nanoid: "RLjZih"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3y6iun2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttngqx44u2n'
 name: Antonio Gnolio
 affiliation:
 bio:

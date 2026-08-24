@@ -1,6 +1,6 @@
 ---
 nanoid: "SVzZ-6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3etqve2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttngdnvwp2q'
 name: Johannes Zachhuber
 affiliation:
 bio:

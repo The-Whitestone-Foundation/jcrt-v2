@@ -1,6 +1,6 @@
 ---
 nanoid: "YxIe7q"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2mdcjv2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnft7b4t2u'
 name: Theodore W. Jennings
 affiliation: "Chicago Theological Seminary"
 bio:

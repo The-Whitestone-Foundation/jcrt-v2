@@ -1,7 +1,7 @@
 ---
 nanoid: "Ufj7yO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfyxmtpc2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnentdmc2q'
 title: "Dreaming Innocence in America: Paul Tillich’s Radical Theology of Liberation."
 author: "Alan Jay Richard"
 affilation:

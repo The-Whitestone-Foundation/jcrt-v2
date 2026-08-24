@@ -1,7 +1,7 @@
 ---
 nanoid: "XrDJNs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg25m3au2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnfibewc2h'
 title: "The Frankfurt School on Religion: Key Writings by the Major Thinkers"
 author: "Matthew Waggoner"
 affilation:

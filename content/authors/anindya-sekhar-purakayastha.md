@@ -1,6 +1,6 @@
 ---
 nanoid: "rdRmd5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3z2uwl25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttngrkkbc2h'
 name: Anindya Sekhar Purakayastha
 affiliation: "SKB University, India"
 bio:

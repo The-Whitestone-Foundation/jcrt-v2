@@ -1,7 +1,7 @@
 ---
 nanoid: "qDoVAv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2bmdwf2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnfl2rhh2q'
 title: "Doing Theology without God?: About the Reality of Faith in the 21st Century"
 author: "Gerrit W Neven"
 affilation:

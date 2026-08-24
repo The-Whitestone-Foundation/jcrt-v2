@@ -1,7 +1,7 @@
 ---
 nanoid: "395iOB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfzbdxs42h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttneullik2p'
 title: Review – Agamben’s Political Reading of the Trial of Jesus (Ryne Beddard)
 description: "*Agamben, Giorgio. Pilate and Jesus (Meridian: Crossing Aesthetics). Translated by Adam Kotsko. Stanford: Stanford University Press, 2015 It highlights"
 date: '2016-07-21T08:00:10.000Z'
