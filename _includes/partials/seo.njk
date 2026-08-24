@@ -340,7 +340,8 @@
           "@type": "Person",
           "name": {{ (aName | trim) | dump | safe }},
           "@id": {{ (metadata.url ~ authorPath ~ "#person") | dump | safe }},
-          "url": {{ (metadata.url ~ authorPath) | dump | safe }}
+          "url": {{ (metadata.url ~ authorPath) | dump | safe }}{% if authorObj and authorObj.data.sameAs %},
+          "sameAs": {{ authorObj.data.sameAs | dump | safe }}{% endif %}
         }{% if not loop.last %},{% endif %}
         {%- endfor %}
         {% else %}
