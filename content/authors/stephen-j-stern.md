@@ -1,6 +1,6 @@
 ---
 nanoid: "csS6Kk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2nhfpv2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnftyoon2i'
 name: Stephen J Stern
 affiliation: "Gettysburg College"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "HWz9s5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3iu3h42z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttngggcrp2g'
 name: Isobel-Marie Johnston
 affiliation: " Arizona State University"
 bio:

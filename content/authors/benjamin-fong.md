@@ -1,6 +1,6 @@
 ---
 nanoid: "6DC5th"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3wvoa52f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttngq24gd2s'
 name: Benjamin Fong
 affiliation: "Columbia University"
 bio:

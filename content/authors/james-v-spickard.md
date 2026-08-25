@@ -1,6 +1,6 @@
 ---
 nanoid: "yzmYe1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg3hdnrm2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttngfeuhp2g'
 name: James V. Spickard
 affiliation: "University of Redlands"
 bio:

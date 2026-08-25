@@ -1,7 +1,7 @@
 ---
 nanoid: "DNOIJW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfy7vkvw2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttne5kfqv2i'
 title: "Why the White Guy?"
 author: "Philip P. Arnold"
 affilation:

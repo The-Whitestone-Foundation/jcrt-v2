@@ -1,7 +1,7 @@
 ---
 nanoid: "ZOWHLQ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfxt6ggg2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnduegjt2h'
 layout: archives.njk
 article_number: '15'
 volume: '24'

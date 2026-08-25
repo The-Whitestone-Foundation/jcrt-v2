@@ -1,7 +1,7 @@
 ---
 nanoid: "HPxV1G"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg233m642z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnfgknsd2z'
 title: "Apology and the Possibility of Ethical Politics"
 author: "Danielle Celermajer"
 affilation:

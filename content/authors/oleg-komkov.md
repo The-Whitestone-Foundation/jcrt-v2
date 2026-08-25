@@ -1,6 +1,6 @@
 ---
 nanoid: "epuXb4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2wkws62p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnfzuxxn2f'
 name: Oleg Komkov
 affiliation: "Moscow State University"
 bio:

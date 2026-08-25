@@ -1,7 +1,7 @@
 ---
 nanoid: "zssaoV"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjg2antbn2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnfkey6x2q'
 title: "On Bullshit"
 author: "Berel Dov Lerner"
 affilation:

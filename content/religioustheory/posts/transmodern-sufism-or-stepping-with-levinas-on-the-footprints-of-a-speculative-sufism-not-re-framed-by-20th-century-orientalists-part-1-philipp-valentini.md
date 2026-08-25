@@ -1,7 +1,7 @@
 ---
 nanoid: "-JRUai"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtjfyqlnq62q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttneiyaps2q'
 title: >-
   Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A
   Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 1 (Philipp
