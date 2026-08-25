@@ -26,7 +26,7 @@ subjects:
     {% for post in keywordPosts %}
       <div class="col-md-6 col-lg-4 p-3 small p-md-5">
         <h3 class="h5">
-          <a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a>
+          <a class="text-decoration-none" href="{{ post.url }}">{{ post.title | mdInline | safe }}</a>
         </h3>
         {% if post.author %}
           <p class="small text-muted mb-1">{{ post.author }}</p>

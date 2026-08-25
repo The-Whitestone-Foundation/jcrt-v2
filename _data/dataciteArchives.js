@@ -3,6 +3,7 @@ import path from "node:path";
 import * as yaml from "js-yaml";
 import { controlledSubjects } from "../_config/subjects.js";
 
+import { stripMarkdown } from "../_config/markdownTitle.js";
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
 const THEORY_DIRS = ["posts", "live"].map((directory) => path.join(ROOT, "content", "religioustheory", directory));
@@ -155,7 +156,7 @@ export default function dataciteArchives() {
 			normalizeYear(issueData.year) ||
 			(dateIssued ? dateIssued.slice(0, 4) : "");
 
-		const title = String(data.title || "").trim() || slug;
+		const title = stripMarkdown(String(data.title || "").trim()) || slug;
 		const creators = splitAuthors(data.author);
 		const keywords = splitKeywords(data.keywords);
 		const subjects = controlledSubjects(data.subjects);
@@ -193,7 +194,7 @@ export default function dataciteArchives() {
 		const fileSlug = path.basename(filePath, ".md");
 		const slug = String(data.slug || fileSlug).trim();
 		if (!slug) continue;
-		const title = String(data.title || "").trim();
+		const title = stripMarkdown(String(data.title || "").trim());
 		if (!title) continue;
 		const directory = path.basename(path.dirname(filePath));
 		const pagePath = String(data.permalink || "").startsWith("/") ? data.permalink : `/religioustheory/${directory}/${slug}/`;

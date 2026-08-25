@@ -37,7 +37,7 @@ layout: false
   {% set postIssue = post.data.issue %}
   {% set postPages = post.data.pages %}
   <item rdf:about="{{ postUrl }}">
-    <title>{{ post.data.title | xmlEscape }}</title>
+    <title>{{ post.data.title | stripMd | xmlEscape }}</title>
     <link>{{ postUrl }}</link>
     {%- for authorName in postAuthors %}
     <dc:creator>{{ authorName | xmlEscape }}</dc:creator>

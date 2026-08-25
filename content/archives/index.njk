@@ -37,7 +37,7 @@ subjects:
       <h2 class="serif fw-bold text-body-emphasis mb-2">
         <a href="{{ issue.url }}" class="text-decoration-none text-body-emphasis hover-primary">
           {{ issue.data.volume }}.{{ issue.data.issue }} - {{ issue.data.season }}
-          {% if issue.data.title %} - {{ issue.data.title }}{% endif %}
+          {% if issue.data.title %} - {{ issue.data.title | mdInline | safe }}{% endif %}
         </a>
   </h2>
   {% if issue.data.description %}<p class="text-body-secondary mb-4">{{ issue.data.description }}</p>{% endif %}
@@ -55,7 +55,7 @@ subjects:
         <div class="col-12 border-bottom pb-3 mb-3 article-item">
           <h3 class="h5 serif fw-bold mb-1">
             <a href="{{ article.url }}" class="text-decoration-none text-body-emphasis hover-primary">
-              {{ article.data.title or article.fileSlug }}
+              {{ (article.data.title or article.fileSlug) | mdInline | safe }}
             </a>
           </h3>
 

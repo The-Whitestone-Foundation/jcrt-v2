@@ -28,11 +28,11 @@
           <div class="img-zoom-container mb-3 shadow-sm rounded collection-card-media">
             <a href="{{ post.url }}">
               {% set archiveThumb = (post.data.image | ensureImage('/images/jcrt-open-graph.webp')) if post.data.image and post.data.image != 'null' else (metadata.files_url + '/images/jcrt-open-graph.webp') %}
-              {% responsiveThumb archiveThumb, (post.data.title or "Untitled Document"), "img-fluid w-100 h-100", "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw", "320,480,640", "lazy", "low", (metadata.files_url + "/images/jcrt-open-graph.webp"), "object-fit: cover;" %}
+              {% responsiveThumb archiveThumb, ((post.data.title or "Untitled Document") | stripMd), "img-fluid w-100 h-100", "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw", "320,480,640", "lazy", "low", (metadata.files_url + "/images/jcrt-open-graph.webp"), "object-fit: cover;" %}
             </a>
           </div>
           
-          <h3 class="h6 serif fw-bold mb-1">{{ post.data.title or "Untitled Document" }}</h3>
+          <h3 class="h6 serif fw-bold mb-1">{{ (post.data.title or "Untitled Document") | mdInline | safe }}</h3>
           
           <p class="small text-muted mb-2">
             By {{ post.data.author or post.data.authors or "Unknown" }}
@@ -45,7 +45,7 @@
             {{ post.data.description | truncate(170) if post.data.description else post.templateContent | striptags | truncate(170) }}
           </p>
           
-          {% set readTitle = post.data.title or "Document" %}
+          {% set readTitle = (post.data.title or "Document") | stripMd %}
           {% set colonIdx = readTitle.indexOf(":") %}
           {% set semiIdx = readTitle.indexOf(";") %}
           {% set sepIdx = -1 %}

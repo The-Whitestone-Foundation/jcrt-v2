@@ -36,7 +36,7 @@
           <h3 class="h5 serif fw-bold mb-1">
             <span class="text-muted me-2">{{ toc_number }}</span>
             <a href="{{ entry.url }}" class="text-decoration-none text-body-emphasis hover-primary">
-              {{ entry.data.title or entry.fileSlug }}
+              {{ (entry.data.title or entry.fileSlug) | mdInline | safe }}
             </a>
           </h3>
           {% if entry.data.author %}

@@ -1,3 +1,4 @@
+import { stripMarkdown } from "../../_config/markdownTitle.js";
 function toPlainText(input = "") {
 	return String(input)
 		.replace(/<[^>]*>/g, " ")
@@ -32,7 +33,7 @@ export default class FeedJsonTemplate {
 				return {
 					id: url,
 					url,
-					title: item?.data?.title || item?.fileSlug || item?.url || "Untitled",
+					title: stripMarkdown(item?.data?.title || item?.fileSlug || item?.url || "Untitled"),
 					date_published:
 						item?.date instanceof Date ? item.date.toISOString() : new Date().toISOString(),
 					content_text: content,

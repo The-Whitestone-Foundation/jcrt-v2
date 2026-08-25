@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
+import { stripMarkdown } from "../_config/markdownTitle.js";
 const ROOT = process.cwd();
 const CONTENT_DIR = path.join(ROOT, "content");
 const OUT_DIR = path.join(ROOT, ".sequoia", "content");
@@ -124,7 +125,7 @@ function writeRecord(filePath) {
   if (data.draft === "true" || data.published === "false") return false;
   const standardPath = outputPathFor(filePath, data);
   if (!standardPath) return false;
-  const title = data.title || data.name || path.basename(filePath, ".md");
+  const title = stripMarkdown(data.title || data.name || path.basename(filePath, ".md"));
   const description = data.description || data.abstract || data.bio || "";
   const date = data.date || (data.year ? `${data.year}-01-01` : "1999-01-01");
   const tags = [...new Set([...listValue(data.tags), ...listValue(data.keywords), ...listValue(data.categories)])];

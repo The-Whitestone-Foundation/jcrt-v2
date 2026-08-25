@@ -24,7 +24,7 @@ layout: false
       {% set absoluteUrl %}{{ feedBaseUrl }}{{ post.url }}{% endset %}
       {% set entryHtml = (post.templateContent or post.content or post.data.description or "") | trim %}
       <entry>
-        <title>{{ post.data.title }}</title>
+        <title>{{ post.data.title | stripMd }}</title>
         <link href="{{ absoluteUrl }}"/>
         <updated>{{ post.date | isoDate }}</updated>
         <id>{{ absoluteUrl }}</id>

@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import * as yaml from "js-yaml";
 
+import { stripMarkdown } from "../_config/markdownTitle.js";
 const ROOT = process.cwd();
 const CONTENT_DIR = path.join(ROOT, "content");
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
@@ -186,7 +187,7 @@ function archiveDocuments(publicationSite, filesUrl) {
 
 			const issueData = readIssueMetadata(issueSlug, issueCache);
 			const publishedAt = normalizeDate(data.date) || normalizeDate(issueData.date) || normalizeDate(data.year ? `${data.year}-01-01` : "");
-			const title = String(data.title || slug).trim();
+			const title = stripMarkdown(String(data.title || slug).trim());
 			const description = stripHtml(data.description || data.abstract || "");
 
 			return documentRecord({
@@ -214,7 +215,7 @@ function blogDocuments(publicationSite) {
 			return documentRecord({
 				site: publicationSite,
 				path: contentPath("/blog", slug, data),
-				title: String(data.title || slug).trim(),
+				title: stripMarkdown(String(data.title || slug).trim()),
 				description: stripHtml(data.description || data.excerpt || data.abstract || ""),
 				publishedAt,
 				updatedAt: normalizeDate(data.updated || data.modified || data.lastmod),
@@ -235,7 +236,7 @@ function theoryDocuments(publicationSite) {
 			return documentRecord({
 				site: publicationSite,
 				path: contentPath(`/religioustheory/${directory}`, slug, data),
-				title: String(data.title || slug).trim(),
+				title: stripMarkdown(String(data.title || slug).trim()),
 				description: stripHtml(data.description || data.excerpt || data.abstract || ""),
 				publishedAt,
 				updatedAt: normalizeDate(data.updated || data.modified || data.lastmod),
@@ -253,7 +254,7 @@ function authorDocuments(publicationSite) {
 			const { data, body } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 			if (!isPublished(data)) return null;
 			const publishedAt = normalizeDate(data.date) || normalizeDate("1999-01-01");
-			const title = String(data.title || data.name || slug).trim();
+			const title = stripMarkdown(String(data.title || data.name || slug).trim());
 			const description = stripHtml(data.description || data.bio || "");
 			return documentRecord({
 				site: publicationSite,

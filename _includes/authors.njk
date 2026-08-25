@@ -77,12 +77,12 @@ layout: base.njk
             {% for b in postsByAuthor %}
               <div class="col-md-4 col-lg-4 p-3 p-md-4"> 
                 <div class="img-zoom-container mb-3">
-                  <a href="{{ b.url }}" title="{{ b.title }}">
+                  <a href="{{ b.url }}" title="{{ b.title | stripMd }}">
                     {% set authorPostImage = (b.image | ensureImage('/images/jcrt-open-graph.webp')) if b.image else (metadata.files_url + '/images/jcrt-open-graph.webp') %}
-                    <img class="img-post rounded" alt="{{ b.title }}" src="{{ authorPostImage | preferWebp }}" data-fallback-src="{{ authorPostImage }}" {% imageAttrs authorPostImage, 640, 360 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/>
+                    <img class="img-post rounded" alt="{{ b.title | stripMd }}" src="{{ authorPostImage | preferWebp }}" data-fallback-src="{{ authorPostImage }}" {% imageAttrs authorPostImage, 640, 360 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/>
                   </a>
                 </div>
-                <h3 class="h5"><strong>{{ b.title }}</strong></h3>
+                <h3 class="h5"><strong>{{ b.title | mdInline | safe }}</strong></h3>
                 <p class="small text-muted">
                   {{ b.description }}
                 </p>

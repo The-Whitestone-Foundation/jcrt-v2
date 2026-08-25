@@ -9,6 +9,7 @@ import markdownItFootnote from "markdown-it-footnote";
 import pluginTOC from "eleventy-plugin-toc";
 import pluginFilters from "./_config/filters.js";
 import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
+import { renderInlineMarkdown, stripMarkdown } from "./_config/markdownTitle.js";
 import Image from "@11ty/eleventy-img";
 import fs from "node:fs";
 import path from "node:path";
@@ -1008,14 +1009,16 @@ export default async function (eleventyConfig) {
 					: item?.date instanceof Date
 						? item.date
 						: new Date(0);
-			if (title.trim()) {
-				item.date = normalizedDate;
-				return item;
-			}
+			// Feed titles are plain text. Copy rather than mutate: these items are
+			// the shared collection objects, and stripping in place would strip
+			// the emphasis out of every page that renders the same title.
 			return {
 				url: item?.url,
 				date: normalizedDate,
-				data: { ...(item?.data || {}), title: fallbackTitle },
+				data: {
+					...(item?.data || {}),
+					title: title.trim() ? stripMarkdown(title) : fallbackTitle,
+				},
 				inputPath: item?.inputPath,
 				fileSlug: item?.fileSlug,
 			};
@@ -1072,6 +1075,10 @@ export default async function (eleventyConfig) {
 	const renderMd = createMemoizedRenderer((content) => mdLib.render(content || ""));
 	const renderMarkdownify = createMemoizedRenderer((content) => md.render(content));
 	eleventyConfig.addFilter("md", (content) => renderMd(content || ""));
+	// Inline markdown in titles: `mdInline` for display (mark it `| safe`),
+	// `stripMd` for <title>, meta tags, feeds, sitemaps and citation records.
+	eleventyConfig.addFilter("mdInline", (content) => renderInlineMarkdown(content));
+	eleventyConfig.addFilter("stripMd", (content) => stripMarkdown(content));
 	eleventyConfig.addFilter("markdownify", (content) => {
 		if (!content) return "";
 		return renderMarkdownify(content);

@@ -21,7 +21,7 @@ layout: false
 {% endfor %}
     </creators>
     <titles>
-      <title>{{ rec.title | escape }}</title>
+      <title>{{ rec.title | stripMd | escape }}</title>
     </titles>
     <publisher>{{ rec.publisher | escape }}</publisher>
     <publicationYear>{{ rec.publicationYear }}</publicationYear>

@@ -37,7 +37,7 @@
           </ol>
         </nav>
 
-        <h1 class="jcrt-article-title p-name">{{ jsonEntry.title or title }}</h1>
+        <h1 class="jcrt-article-title p-name">{{ (jsonEntry.title or title) | mdInline | safe }}</h1>
 
         {% if isIssueIndex %}
           {% set issueImage = (image | ensureImage('/images/jcrt-open-graph.webp')) if image else (metadata.files_url + '/images/logos/JCRT.svg') %}
@@ -47,7 +47,7 @@
             <img
               src="{{ issueImage | preferWebp }}"
               data-fallback-src="{{ issueImage }}"
-              alt="{{ title or 'Journal issue cover image' }}"
+              alt="{{ (title | stripMd) or 'Journal issue cover image' }}"
               class="jcrt-article-image {% if issueImageWidth and issueImageHeight %}issue-index-cover issue-index-cover--custom{% endif %}"
               {% if issueImageWidth and issueImageHeight %}
               width="{{ issueImageWidth }}"
@@ -72,7 +72,7 @@
             <img
               src="{{ postImagePreferred }}"
               data-fallback-src="{{ postImage }}"
-              alt="{{ title }}"
+              alt="{{ title | stripMd }}"
               class="jcrt-article-image"
               {% imageAttrs postImage, 1200, 675 %}
               loading="eager"
@@ -163,7 +163,7 @@
         {% endfor %}
       {% endif %}
 
-      {% set shareTitle = jsonEntry.title or title or metadata.site.title %}
+      {% set shareTitle = (jsonEntry.title or title or metadata.site.title) | stripMd %}
       {% set canonicalPath = (canonical_url or page.url) | stripQueryAndHash %}
       {% set shareUrl = canonicalUrl or (canonicalPath if "http" in canonicalPath else metadata.url + canonicalPath) %}
       {% set encodedShareUrl = shareUrl | urlencode %}

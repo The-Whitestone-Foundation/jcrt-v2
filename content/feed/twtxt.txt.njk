@@ -10,6 +10,6 @@ eleventyExcludeFromCollections: true
 {% set items = collections.feed | reverse -%}
 {% for item in items -%}
 {% if loop.index0 < 150 -%}
-{{ item.date | dateToRfc3339 }}	{{ (item.data.title or item.fileSlug or item.url or "Untitled") | striptags | trim }}	{{ feedBaseUrl }}{{ item.url }}
+{{ item.date | dateToRfc3339 }}	{{ (item.data.title or item.fileSlug or item.url or "Untitled") | stripMd | striptags | trim }}	{{ feedBaseUrl }}{{ item.url }}
 {% endif -%}
 {% endfor -%}
