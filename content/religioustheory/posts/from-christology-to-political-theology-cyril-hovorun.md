@@ -1,7 +1,7 @@
 ---
 nanoid: "9jRAJX"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnekjntn2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3jtkgr2s'
 title: From Christology to Political Theology (Cyril Hovorun)
 description: "In the Christian Antiquity and later on during the Middle Ages, there was neither separation nor much distinction between the theological and the political"
 date: '2018-02-26T18:03:11.000Z'

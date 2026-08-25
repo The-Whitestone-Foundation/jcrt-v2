@@ -1,7 +1,7 @@
 ---
 nanoid: "o35RRF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttneunfip23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3pch4w2q'
 title: What Is A Dispositif? – Part 2 (Gregg Lambert)
 description: "The following article by internationally known theory scholar Gregg Lambert is the second of a two-part series. The first part was published on July 11, 2016"
 date: '2016-07-18T14:11:35.000Z'

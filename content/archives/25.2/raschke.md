@@ -1,6 +1,7 @@
 ---
 nanoid: "r-kaRt"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa335egx2g'
 layout: archives.njk
 article_number: '06'
 volume: '25'

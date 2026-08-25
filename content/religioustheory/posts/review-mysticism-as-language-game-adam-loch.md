@@ -1,7 +1,7 @@
 ---
 nanoid: "AudRUD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnepi7x42f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3mlwhp2g'
 title: Review – Mysticism As Language Game (Adam Loch)
 description: "*Tugendhat, Ernst. Egocentricity and Mysticism: An Anthropological Study. Translated by Alexei Procyshyn and Mario Wenning ISBN-10: 0231169124. It highlights"
 date: '2017-06-15T12:55:38.000Z'

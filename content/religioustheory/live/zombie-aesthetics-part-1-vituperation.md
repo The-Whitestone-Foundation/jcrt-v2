@@ -1,6 +1,6 @@
 ---
 nanoid: "KeQuam"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mttnfcwfvx25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3x7h3x23'
 title: "Zombie Aesthetics, Part 1: Vituperation"
 description: "Colbey Emmerson Reid reads zombie cinema as an allegory of democracy, citizenship, agency, fascism, and the political limits of the Western action hero."
 date: '2009-10-25'
