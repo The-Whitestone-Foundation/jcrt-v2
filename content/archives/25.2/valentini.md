@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '09'
 volume: '25'
 issue: '2'
-pages: 128-146
+pages: 281-299
 title: "Ibn ʿArabī’s Role in Ibrahim Niasse’s Thinking: From the Unity of Being to Muḥammad’s Names-of-the-Father"
 author: 'Philipp Valentini'
 affiliation: 'Independent Scholar'

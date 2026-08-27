@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '01'
 volume: '25'
 issue: '2'
-pages: 1-16
+pages: 154-169
 title: "Bare Life and Divine Violence: Benjamin, Levinas, and Ethics of Interruption"
 author: 'Diako Alikhani'
 affiliation: 'University of Denver'

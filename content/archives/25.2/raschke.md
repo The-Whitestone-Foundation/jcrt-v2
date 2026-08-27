@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '06'
 volume: '25'
 issue: '2'
-pages: 86-94
+pages: 239-247
 title: "Spooky Cognition: Quantum Entanglement, Ephaptic Coupling, and the Transcendental Frontiers of Consciousness Studies"
 author: 'Carl A. Raschke'
 affiliation: 'University of Denver'

@@ -1,5 +1,11 @@
 # Controlled subject metadata
 
+> **Tooling removed.** `enrich-subject-metadata.mjs` and `check-subject-outputs.mjs`
+> were deleted when the build was slimmed to 11ty-only. The `subjects` front-matter
+> contract below is still live and rendered — only the generator is gone. Restore it
+> with `git checkout <commit> -- scripts/enrich-subject-metadata.mjs` and re-add the
+> `subjects:*` npm scripts.
+
 Article front matter stores controlled terms in `subjects`. Each entry records a
 label, vocabulary scheme, identifier, canonical URI, and FAST authority
 category. Existing `keywords`, `categories`, and `tags` remain the editorial

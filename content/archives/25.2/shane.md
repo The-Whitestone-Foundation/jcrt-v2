@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '07'
 volume: '25'
 issue: '2'
-pages: 95-112
+pages: 248-265
 title: "From Deconstruction to Re-Enchantment: Postmodernism, Metamodernism, and the Re-Emergence of Wonder"
 author: 'D.A. Shane'
 affiliation: 'Independent Scholar'

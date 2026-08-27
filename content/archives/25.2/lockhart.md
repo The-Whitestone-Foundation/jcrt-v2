@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '05'
 volume: '25'
 issue: '2'
-pages: 71-85
+pages: 224-238
 title: "Beyond the Material: Toward a Proper Understanding and Engagement with the Material in Christianity"
 author: 'Aaron T. Lockhart'
 affiliation: 'University of Denver / Iliff School of Theology'

@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '08'
 volume: '25'
 issue: '2'
-pages: 113-127
+pages: 266-280
 title: "Caught in the Act: Voyeurism and Performance in Augustine’s *Confessions*"
 author: 'Paige Spencer'
 affiliation: 'Syracuse University'

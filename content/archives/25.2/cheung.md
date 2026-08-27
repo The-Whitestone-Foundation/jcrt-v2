@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '02'
 volume: '25'
 issue: '2'
-pages: 17-34
+pages: 170-187
 title: "Specters of Lost Causes: Caputo’s Theology through the Žižekian Lens of Fidelity and Haunting"
 author: 'Yiu Ming Cheung'
 affiliation: 'GCAS College, Dublin'

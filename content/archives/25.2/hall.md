@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '04'
 volume: '25'
 issue: '2'
-pages: 49-70
+pages: 202-223
 title: "Holding Green Commons: Vandana Shiva’s Spirit-Lanterned Guardians"
 author: 'Joshua M. Hall'
 affiliation: 'University of Alabama at Birmingham'

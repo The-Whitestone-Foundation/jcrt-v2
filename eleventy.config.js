@@ -192,21 +192,29 @@ function isDecorativeImageTag(imgTag) {
 }
 
 function ensureImageAltAttributes(content, outputPath) {
-	const fallbackAlt = escapeHtmlAttr(fallbackAltForHtml(content, outputPath));
+	// `fallbackAltForHtml` scans the whole page, so compute it lazily: almost every
+	// <img> already carries an alt, and then it is never needed at all.
+	let fallbackAlt = null;
+	const getFallbackAlt = () => (fallbackAlt ??= escapeHtmlAttr(fallbackAltForHtml(content, outputPath)));
 	return content.replace(/<img\b[^>]*>/gi, (imgTag) => {
+		const hasAlt = /\balt\s*=/i.test(imgTag);
+		const hasEmptyAlt = hasAlt && /\balt\s*=\s*(['"])\s*\1/i.test(imgTag);
+		if (hasAlt && !hasEmptyAlt) return imgTag;
 		if (isDecorativeImageTag(imgTag)) {
-			if (/\balt\s*=/i.test(imgTag)) return imgTag;
+			if (hasAlt) return imgTag;
 			return imgTag.replace(/\s*\/?>$/, (ending) => ending.includes("/>") ? ' alt="" />' : ' alt="">');
 		}
-		if (/\balt\s*=\s*(['"])\s*\1/i.test(imgTag)) {
-			return imgTag.replace(/\balt\s*=\s*(['"])\s*\1/i, `alt="${fallbackAlt}"`);
+		if (hasEmptyAlt) {
+			return imgTag.replace(/\balt\s*=\s*(['"])\s*\1/i, `alt="${getFallbackAlt()}"`);
 		}
-		if (/\balt\s*=/i.test(imgTag)) return imgTag;
-		return imgTag.replace(/\s*\/?>$/, (ending) => ending.includes("/>") ? ` alt="${fallbackAlt}" />` : ` alt="${fallbackAlt}">`);
+		return imgTag.replace(/\s*\/?>$/, (ending) => ending.includes("/>") ? ` alt="${getFallbackAlt()}" />` : ` alt="${getFallbackAlt()}">`);
 	});
 }
 
 function demoteRedundantH1s(content) {
+	// Only 1 page in ~7,000 has a second <h1>; skip the scan for the rest.
+	const firstH1 = content.indexOf("<h1");
+	if (firstH1 < 0 || content.indexOf("<h1", firstH1 + 3) < 0) return content;
 	let h1Count = 0;
 	return content.replace(/<\/?h1\b[^>]*>/gi, (tag) => {
 		if (/^<h1\b/i.test(tag)) {
@@ -501,18 +509,15 @@ export default async function (eleventyConfig) {
 	// HTML minification removed — Netlify's asset optimization and gzip
 	// handle compression; the regex-based transform saved <1s but added
 	// per-page overhead across 2,000+ pages.
-	eleventyConfig.addTransform("ensure-img-alt", function (content, outputPath) {
+	// Single HTML pass. Eleventy charges every addTransform a full string copy and
+	// an async boundary per page; at ~7,000 pages that overhead dwarfs the regex
+	// work these two do, so they share one transform. Order is unchanged:
+	// alt attributes first (its fallback reads the original first <h1>), then h1 demotion.
+	eleventyConfig.addTransform("jcrt-html", function (content, outputPath) {
 		if (!outputPath || !outputPath.endsWith(".html") || typeof content !== "string") {
 			return content;
 		}
-		return ensureImageAltAttributes(content, outputPath);
-	});
-
-	eleventyConfig.addTransform("demote-redundant-h1", function (content, outputPath) {
-		if (!outputPath || !outputPath.endsWith(".html") || typeof content !== "string") {
-			return content;
-		}
-		return demoteRedundantH1s(content);
+		return demoteRedundantH1s(ensureImageAltAttributes(content, outputPath));
 	});
 
 	// Citations and favicons are on files.jcrt.org — no eleventy.before work needed.

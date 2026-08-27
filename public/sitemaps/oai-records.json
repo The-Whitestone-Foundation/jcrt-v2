@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:26:06.113Z",
+  "generatedAt": "2026-08-25T17:40:16.249Z",
   "baseURL": "https://jcrt.org/sitemaps/oai_dc.xml",
   "metadataPrefix": "oai_dc",
   "repositoryName": "Victor Taylor",
@@ -34243,6 +34243,413 @@
       ],
       "relations": [
         "https://files.jcrt.org/archives/25.1/schwartzberg.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:alikhani",
+      "datestamp": "2026-08-24",
+      "title": "Bare Life and Divine Violence: Benjamin, Levinas, and Ethics of Interruption",
+      "creators": [
+        "Diako Alikhani"
+      ],
+      "subjects": [
+        "walter-benjamin",
+        "bare-life",
+        "divine-violence",
+        "mythic-violence",
+        "emmanuel-levinas",
+        "interruption",
+        "ethics",
+        "politics",
+        "critique-of-violence",
+        "political-theology",
+        "Benjamin, Walter, 1892-1940",
+        "Ethics",
+        "Lévinas, Emmanuel",
+        "Political theology"
+      ],
+      "description": "Diako Alikhani rereads Benjamin’s divine violence through Levinas, arguing that bare life is where mythic law and ethical interruption confront one another.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/alikhani.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 1-16"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/alikhani.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:cheung",
+      "datestamp": "2026-08-24",
+      "title": "Specters of Lost Causes: Caputo’s Theology through the Žižekian Lens of Fidelity and Haunting",
+      "creators": [
+        "Yiu Ming Cheung"
+      ],
+      "subjects": [
+        "slavoj-zizek",
+        "john-d-caputo",
+        "lost-causes",
+        "the-event",
+        "weak-theology",
+        "hauntology",
+        "fidelity",
+        "the-real",
+        "political-theology",
+        "spectral-hermeneutics",
+        "postsecularism",
+        "radical-theology",
+        "Caputo, John D.",
+        "Political theology",
+        "Postsecularism",
+        "Žižek, Slavoj"
+      ],
+      "description": "Yiu Ming Cheung brings Žižek’s lost causes together with Caputo’s event-theology to build a postsecular theology of insistence and interruption.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/cheung.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 17-34"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/cheung.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:gilbert",
+      "datestamp": "2026-08-24",
+      "title": "On the Interdependence of All Things",
+      "creators": [
+        "Bennett Gilbert"
+      ],
+      "subjects": [
+        "asante",
+        "community",
+        "ecology",
+        "ethics",
+        "historicity",
+        "identity",
+        "interdependence",
+        "moral-obligation",
+        "moral-philosophy",
+        "moral-responsibility",
+        "personhood",
+        "panpsychism",
+        "yanomami",
+        "Community",
+        "Ecology",
+        "Ethics",
+        "Identity (Philosophical concept)",
+        "Panpsychism",
+        "Responsibility"
+      ],
+      "description": "Bennett Gilbert asks how interdependence grounds moral obligation, testing panpsychism against the slow work of forming community with other forms of life.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/gilbert.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 35-48"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/gilbert.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:hall",
+      "datestamp": "2026-08-24",
+      "title": "Holding Green Commons: Vandana Shiva’s Spirit-Lanterned Guardians",
+      "creators": [
+        "Joshua M. Hall"
+      ],
+      "subjects": [
+        "ecofeminist-philosophy",
+        "vandana-shiva",
+        "dance",
+        "logic",
+        "transgender",
+        "val-plumwood",
+        "ariel-salleh",
+        "chipko-movement",
+        "green-commons",
+        "environmental-ethics",
+        "Chipko movement",
+        "Dance",
+        "Environmental ethics",
+        "Logic",
+        "Plumwood, Val",
+        "Shiva, Vandana"
+      ],
+      "description": "Joshua M. Hall develops a transgender ethics of holding green commons from Vandana Shiva, naming five spirit-lanterned guardians in the Global North.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/hall.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 49-70"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/hall.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:lockhart",
+      "datestamp": "2026-08-24",
+      "title": "Beyond the Material: Toward a Proper Understanding and Engagement with the Material in Christianity",
+      "creators": [
+        "Aaron T. Lockhart"
+      ],
+      "subjects": [
+        "materiality",
+        "veneration",
+        "iconoclasm",
+        "plato",
+        "aristotle",
+        "medieval-scholasticism",
+        "nominalism",
+        "william-of-ockham",
+        "metaphysical-realism",
+        "eastern-orthodoxy",
+        "catholicism",
+        "transcendence",
+        "Aristotle",
+        "Iconoclasm",
+        "John, of Damascus, Saint",
+        "Nominalism",
+        "Plato",
+        "William, of Ockham, approximately 1285-approximately 1349"
+      ],
+      "description": "Aaron T. Lockhart traces Plato through Ockham and iconoclasm to recover a proper Christian understanding of venerating material objects.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/lockhart.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 71-85"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/lockhart.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:raschke",
+      "datestamp": "2026-08-24",
+      "title": "Spooky Cognition: Quantum Entanglement, Ephaptic Coupling, and the Transcendental Frontiers of Consciousness Studies",
+      "creators": [
+        "Carl A. Raschke"
+      ],
+      "subjects": [
+        "quantum-entanglement",
+        "ephaptic-coupling",
+        "consciousness",
+        "neurotheology",
+        "david-chalmers",
+        "andrew-newberg",
+        "philosophy-of-religion",
+        "transcendental-semiotics",
+        "physicalism",
+        "mysticism",
+        "immanence-and-transcendence",
+        "Chalmers, David John, 1966-",
+        "Consciousness",
+        "Mysticism",
+        "Newberg, Andrew B., 1966-",
+        "Quantum entanglement"
+      ],
+      "description": "Carl A. Raschke links quantum entanglement and ephaptic coupling to consciousness studies, proposing a transcendental semiotics of religious experience.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/raschke.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 86-94"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/raschke.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:shane",
+      "datestamp": "2026-08-24",
+      "title": "From Deconstruction to Re-Enchantment: Postmodernism, Metamodernism, and the Re-Emergence of Wonder",
+      "creators": [
+        "D.A. Shane"
+      ],
+      "subjects": [
+        "metamodernism",
+        "postmodernism",
+        "re-enchantment",
+        "disenchantment",
+        "deconstruction",
+        "religion",
+        "epistemology",
+        "subject",
+        "hermeneutics",
+        "transcendence",
+        "mythology",
+        "Deconstruction",
+        "Derrida, Jacques",
+        "Foucault, Michel, 1926-1984",
+        "Hermeneutics",
+        "Knowledge, Theory of",
+        "Lyotard, Jean-François, 1924-1998",
+        "Mythology",
+        "Postmodernism",
+        "Religion",
+        "Rorty, Richard"
+      ],
+      "description": "D.A. Shane argues that postmodern deconstruction cleared the ground for a metamodern hermeneutic of credulity and the return of wonder.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/shane.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 95-112"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/shane.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:spencer",
+      "datestamp": "2026-08-24",
+      "title": "Caught in the Act: Voyeurism and Performance in Augustine’s *Confessions*",
+      "creators": [
+        "Paige Spencer"
+      ],
+      "subjects": [
+        "augustine",
+        "confessions",
+        "voyeurism",
+        "performativity",
+        "performance-studies",
+        "theater",
+        "prayer",
+        "suffering",
+        "curiosity",
+        "humility",
+        "patristics",
+        "Augustine, of Hippo, Saint, 354-430",
+        "Curiosity",
+        "Fathers of the church",
+        "Humility",
+        "Prayer",
+        "Suffering",
+        "Theater",
+        "Voyeurism"
+      ],
+      "description": "Paige Spencer reads Augustine’s Confessions through performance theory, exposing the unresolved voyeurism at the heart of its performativity.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/spencer.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 113-127"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/spencer.pdf"
+      ],
+      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:archives:25.2:valentini",
+      "datestamp": "2026-08-24",
+      "title": "Ibn ʿArabī’s Role in Ibrahim Niasse’s Thinking: From the Unity of Being to Muḥammad’s Names-of-the-Father",
+      "creators": [
+        "Philipp Valentini"
+      ],
+      "subjects": [
+        "ibn-arabi",
+        "ibrahim-niasse",
+        "tijaniyya",
+        "sufism",
+        "wahdat-al-wujud",
+        "west-african-islam",
+        "tafsir",
+        "emanation",
+        "spiritual-paternity",
+        "senegal",
+        "islamic-metaphysics",
+        "Ibn al-ʻArabī, 1165-1240",
+        "Lacan, Jacques, 1901-1981",
+        "Senegal",
+        "Sufism",
+        "Tijānīyah"
+      ],
+      "description": "Philipp Valentini examines Ibn ʿArabī’s several roles in Ibrāhīm Niasse’s metaphysics, from waḥdat al-wujūd to Muḥammadan paternity.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-08-24",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/archives/25.2/valentini.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228",
+        "Vol. 25, No. 2, pp. 128-146"
+      ],
+      "relations": [
+        "https://files.jcrt.org/archives/25.2/valentini.pdf"
       ],
       "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
     },

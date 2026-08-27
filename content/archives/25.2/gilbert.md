@@ -5,7 +5,7 @@ layout: archives.njk
 article_number: '03'
 volume: '25'
 issue: '2'
-pages: 35-48
+pages: 188-201
 title: "On the Interdependence of All Things"
 author: 'Bennett Gilbert'
 affiliation: 'Portland State University'
