@@ -18,11 +18,12 @@ bio: Adam D. J. Brett is Visiting Professor for Digital Humanities and
   McIntosh."  Professionally Adam has worked as a web developer for over a
   decade. He enjoys projects that allow him to integrate the academic study of
   religion with contemporary issues and web development.
+orcid: https://orcid.org/0009-0004-6725-8425
 social:
   - title: website
     url: https://adamdjbrett.com
     icon: fa-solid fa-link
-  - title: ORCID
-    url: https://orcid.org/0009-0004-6725-8425
-    icon: fa-brands fa-orcid
+  - title: email
+    url: mailto:adam.brett@jcrt.org
+    icon: fa-solid fa-envelope
 ---
