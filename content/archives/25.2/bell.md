@@ -1,15 +1,15 @@
 ---
 nanoid: "3kVX6M"
-doi:
+doi: "10.17613/2rm1h-9gg34"
 layout: archives.njk
 article_number: '10'
 volume: '25'
 issue: '2'
 pages: 300-311
 title: "Artfully Dodging a Presidential Endorsement: How Joel Osteen Uses Rhetoric to Build an Audience for Political Gain"
-author: 'Reginald Bell, Jr.'
+author: 'Reginald Bell Jr.'
 affiliation: 'Central Georgia Technical College'
-description: "Reginald Bell, Jr. reads Joel Osteen’s refusal to endorse Donald Trump through Edwin Black’s second persona, naming the ideal audience his rhetoric builds and the third persona it silences."
+description: "Reginald Bell Jr. reads Joel Osteen’s refusal to endorse Donald Trump through Edwin Black’s second persona, naming the ideal audience his rhetoric builds and the third persona it silences."
 pdf: 'bell.pdf'
 date: 2026-08-26
 keywords:
