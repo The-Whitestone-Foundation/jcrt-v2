@@ -4,19 +4,17 @@ title: Editors
 description: 'Meet the JCRT editorial team: senior, executive, special projects, and assistant editors, plus consulting editors guiding the journal’s vision overall'
 permalink: /editors/
 ---
+You can reach us by email at <editor@jcrt.org>
 
-## Editors
-
-- *Senior Editor:* [**Carl Raschke**](mailto:carlraschke@gmail.com), University of Denver \| [articles by Raschke](/authors/carl-a-raschke/)
-- *Executive Editor:* [**Victor Taylor**](mailto:taylorve@gmail.com), Independent Scholar \|[articles by Taylor](/authors/victor-taylor/)
-- *Associate Editor* [**Adam DJ Brett**](mailto:info@adamdjbrett.com), \|[articles by Brett](/authors/adam-dj-brett/)
+## Editorsfix
+- *Senior Editor:* [**Carl Raschke**](/authors/carl-a-raschke/), University of Denver 
+- *Executive Editor:* [**Victor Taylor**](/authors/victor-taylor/), Independent Scholar 
+- *Associate Editor* [**Adam DJ Brett**](/authors/adam-dj-brett)
 
 ## Assistant Editors
-- [**Robert Spinelli**](mailto:rspinelli@ncis.org), Independent Scholar.
-- [**Kev Grane**](mailto:kev.grane@du.edu), University of Denver \| [Articlces by Grane](/authors/kev-grane/)
-- [**J.C. Smith**](mailto:mailto:jc.smith@du.edu), University of Denver
-
-## 
+- [**Robert Spinelli**](/authors/robert-spinelli), Independent Scholar
+- [**Kev Grane**](/authors/kev-grane/), University of Denver
+- [**J.C. Smith**](/authors/jc-smith/), University of Denver
 
 ## In Memoriam
 

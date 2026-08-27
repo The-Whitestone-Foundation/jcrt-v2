@@ -24,6 +24,6 @@ social:
     url: https://adamdjbrett.com
     icon: fa-solid fa-link
   - title: email
-    url: mailto:adam.brett@jcrt.org
+    url: "mailto:adam.brett@jcrt.org"
     icon: fa-solid fa-envelope
 ---

@@ -9,6 +9,6 @@ social:
     url: "https://carlraschke.com/"
     icon: fa-solid fa-link
   - title: "email"
-    url: "carl.raschke@jcrt.org"
-    icon: fa-solid fa-email  
+    url: "mailto:carl.raschke@jcrt.org"
+    icon: fa-solid fa-envelope
 ---

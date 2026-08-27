@@ -6,6 +6,6 @@ affiliation: "Independent Scholar"
 bio: "Executive Editor"
 social:
   - title: "email"
-    url: "victor.taylor@jcrt.org"
-    icon: fa-solid fa-email
+    url: "mailto:victor.taylor@jcrt.org"
+    icon: fa-solid fa-envelope
 ---
