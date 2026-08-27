@@ -1,7 +1,7 @@
 ---
 nanoid: "XfokQZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3nv4xn2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztko6sed2g'
 title: "Beyond Ecological Democracy: Black Feminist Thought and the End of Man."
 author: "Eric Daryl Meyer"
 affilation:

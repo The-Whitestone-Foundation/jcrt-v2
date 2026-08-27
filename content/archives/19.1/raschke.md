@@ -1,7 +1,7 @@
 ---
 nanoid: "pycYpQ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3gj66n2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkglx7p2e'
 title: "Altizer’s Theology in Context"
 author: "Carl A. Raschke"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "Et3RlK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3nkg5n2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztknuq5425'
 title: "The End of Theology and the Event of Truth: an Introduction"
 author: "Carl A. Raschke"
 affilation:

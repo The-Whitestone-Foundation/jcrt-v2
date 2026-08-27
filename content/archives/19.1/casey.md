@@ -1,7 +1,7 @@
 ---
 nanoid: "_Pzg5Z"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3gswk72g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkgutz72f'
 title: "Altizer: Presence in Absence."
 author: "Edward S. Casey"
 affilation:

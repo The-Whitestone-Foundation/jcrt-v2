@@ -1,7 +1,7 @@
 ---
 nanoid: "pCCcMW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3vn54n25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkvg6rg2s'
 title: "The Radical Evil of Deconstruction: a Reply to John D. Caputo"
 author: "Martin Hägglund"
 affilation:

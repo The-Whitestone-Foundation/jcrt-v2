@@ -1,6 +1,6 @@
 ---
 nanoid: "iLP9HZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4l5f3p2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlizxm42n'
 name: J.C. Smith
 affiliation: "University of Denver"
 bio: "Book Review Editor"

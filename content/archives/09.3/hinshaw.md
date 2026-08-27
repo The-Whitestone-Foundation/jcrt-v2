@@ -1,7 +1,7 @@
 ---
 nanoid: "_2pODg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3yf4kf25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkxywcr2p'
 title: "Darwin’s Cathedral: Evolution, Religion, and the Nature of Society"
 author: "John Hinshaw"
 affilation:

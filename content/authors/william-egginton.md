@@ -1,6 +1,6 @@
 ---
 nanoid: "zvAx7D"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa47dfzv2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl64dzl2g'
 name: William Egginton
 affiliation: "University at Buffalo"
 bio:

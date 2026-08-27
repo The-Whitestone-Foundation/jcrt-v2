@@ -1,7 +1,7 @@
 ---
 nanoid: "NZ2GPj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa45o6vv2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl4xqj623'
 title: "Augustine and Modernity"
 author: "Todd Ream"
 affilation:

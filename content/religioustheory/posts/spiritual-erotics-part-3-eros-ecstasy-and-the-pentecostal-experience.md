@@ -1,7 +1,7 @@
 ---
 nanoid: "5gJmM6"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3pybaf2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkq5an32h'
 title: 'Spiritual Erotics, Part 3 – Eros, Ecstasy, and the Pentecostal Experience'
 description: "In the first installment of this three-part book preview of my forthcoming work on machismo in Latino culture I explored the role of the new, and “hot”"
 date: '2016-04-13T01:12:35.000Z'

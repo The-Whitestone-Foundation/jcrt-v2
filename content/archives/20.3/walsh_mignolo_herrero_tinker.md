@@ -1,7 +1,7 @@
 ---
 nanoid: "JgQxu5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3dvsbn2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztke7bug2s'
 title: "What Do We Mean By"
 author: "Catherine Walsh; Walter Mignolo; Fernando Herrero; Tink Tinker"
 affilation:

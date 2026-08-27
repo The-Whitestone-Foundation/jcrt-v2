@@ -1,6 +1,6 @@
 ---
 nanoid: "NN6h9D"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4fzzdv2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlecytg23'
 name: Matthew S Linck
 affiliation: "Purchase College "
 bio:

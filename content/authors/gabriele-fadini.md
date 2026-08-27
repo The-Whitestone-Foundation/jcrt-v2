@@ -1,6 +1,6 @@
 ---
 nanoid: "smgyan"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4mbqap23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztljyamh2e'
 name: Gabriele Fadini
 affiliation:
 bio:

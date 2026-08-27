@@ -1,7 +1,7 @@
 ---
 nanoid: "Bsi6Yz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3t6ab72q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkt36e72u'
 title: "From Colonialism to Neo-Liberal Capitalism: Latino/a Immigrants in the U.S. and the New Biopolitics."
 author: "Manuel A. Vásquez"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "RSc0Nx"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4btvmx23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlagr7x2e'
 name: Ryne Beddard
 affiliation: "University of North Carolina Chapel Hill, University of Denver"
 bio:

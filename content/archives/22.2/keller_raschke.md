@@ -1,7 +1,7 @@
 ---
 nanoid: "IJczqZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3a6mvp2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkaucxm2z'
 title: "The Religious Roots of Environmental Justice"
 author: "Catherine Keller; Carl A. Raschke"
 affilation:

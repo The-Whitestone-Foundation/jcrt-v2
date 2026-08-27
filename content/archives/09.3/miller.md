@@ -1,7 +1,7 @@
 ---
 nanoid: "kt9Ntg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3y7bbz2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkxteio2s'
 title: "Theology, Psychoanalysis, and Trauma"
 author: "Adam S Miller"
 affilation:

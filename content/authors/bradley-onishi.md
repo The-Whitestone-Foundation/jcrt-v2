@@ -1,6 +1,6 @@
 ---
 nanoid: "iSXDPK"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4qfgsv2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlnokip2u'
 name: Bradley Onishi
 affiliation: "Skidmore College"
 

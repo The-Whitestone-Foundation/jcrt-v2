@@ -1,7 +1,7 @@
 ---
 nanoid: "0-eX-2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa44ikzv2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl3qyvd2g'
 title: "Multitude: War and Democracy in the Age of Empire"
 author: "Jared Woodard"
 affilation:

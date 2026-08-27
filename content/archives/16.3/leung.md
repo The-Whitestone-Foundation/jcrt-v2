@@ -1,7 +1,7 @@
 ---
 nanoid: "pByok2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3nn7vr2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztknxmbh2q'
 title: "Univocity for Militants: Set-Theoretical Ontology and the Death of the One."
 author: "King-Ho Leung"
 affilation:

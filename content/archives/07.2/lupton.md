@@ -1,7 +1,7 @@
 ---
 nanoid: "wadM3E"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa42uhtp2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl2f7n62s'
 title: "Hannah Arendt’s Renaissance: Remarks on Natality"
 author: "Julia Reinhard Lupton"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "iiECo7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4i6pin2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlgcgpx2f'
 name: Ken Lokensgard
 affiliation:
 bio:

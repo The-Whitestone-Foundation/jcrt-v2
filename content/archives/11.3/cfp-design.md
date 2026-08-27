@@ -1,7 +1,7 @@
 ---
 nanoid: "VjcXJJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3vdmqy2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkv4zu62h'
 title: "Call for Papers - Design, Mediation, and the Posthuman - An edited anthology exploring the disciplinary intersections of technological mediation, design, and the posthuman."
 author:
 affilation:

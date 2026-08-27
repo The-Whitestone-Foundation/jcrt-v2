@@ -1,6 +1,6 @@
 ---
 nanoid: "lGoUqE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4m26o52u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztljroi62h'
 name: Geoffrey Holsclaw
 affiliation: "Marquette University"
 bio:

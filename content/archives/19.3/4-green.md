@@ -1,7 +1,7 @@
 ---
 nanoid: "L8FgNp"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3frym525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkfz5k32h'
 title: "Benjamin, Method, and Weak Messianism"
 author: "Roger K Green"
 affilation:

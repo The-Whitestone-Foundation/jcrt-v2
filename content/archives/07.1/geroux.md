@@ -1,7 +1,7 @@
 ---
 nanoid: "15b8Bq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa43gqsn2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl2udch2q'
 title: "Pain and the Problems of the Body: ‘Ontological Frailty’ and a Political Reconsideration of the Corporeal Turn in Theology"
 author: "Robert Geroux"
 affilation:

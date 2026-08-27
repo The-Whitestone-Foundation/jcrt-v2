@@ -1,7 +1,7 @@
 ---
 nanoid: "zo0QS2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3e3qi52f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkeesnt2p'
 title: "The Spirituality of Psychonautics: How Alice in Wonderland, the Matrix and Other Modern Myths Serve as Models for New Age Seekership and Identity Formation."
 author: "John Cuda"
 affilation:

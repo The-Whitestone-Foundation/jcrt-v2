@@ -1,6 +1,6 @@
 ---
 nanoid: "5svRg3"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4ezaff2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztldf2nr2p'
 name: N. N. Trakakis
 affiliation: "AUSTRALIAN CATHOLIC UNIVERSITY"
 bio:

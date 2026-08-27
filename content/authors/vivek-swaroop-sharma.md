@@ -1,6 +1,6 @@
 ---
 nanoid: "ZWb77A"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa47mk6v2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl6ekr425'
 name: Vivek Swaroop Sharma
 affiliation: "Pomona College"
 bio:

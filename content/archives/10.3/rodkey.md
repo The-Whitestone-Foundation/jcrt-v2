@@ -1,7 +1,7 @@
 ---
 nanoid: "cSaLjs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3w72lv2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkvw3li2q'
 title: "Globochrist: the Great Commission Takes a Postmodern Turn"
 author: "Christopher D Rodkey"
 affilation:

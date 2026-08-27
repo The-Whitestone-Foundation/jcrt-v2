@@ -1,7 +1,7 @@
 ---
 nanoid: "bgvDxw"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3wb3272g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkvxrd62h'
 title: "Following the Words: Heidegger’s Account of Religion as Nachfolge"
 author: "Robert D Metcalf"
 affilation:

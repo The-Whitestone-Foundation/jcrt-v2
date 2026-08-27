@@ -1,7 +1,7 @@
 ---
 nanoid: "b7aPxs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa374mrk2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk7uaup2e'
 title: "Tsimtsum in Life of Pi."
 author: "Daniel Reiser"
 affilation:

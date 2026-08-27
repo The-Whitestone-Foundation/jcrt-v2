@@ -1,7 +1,7 @@
 ---
 nanoid: "5ZagoQ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa3x4owj2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkwr5qp2u'
 title: "Praise of the Secular"
 author: "David LeRoy Miller"
 affilation:

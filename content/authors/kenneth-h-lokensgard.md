@@ -1,6 +1,6 @@
 ---
 nanoid: "EwujiK"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4i5w462n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlgbklo2h'
 name: Kenneth H Lokensgard
 affiliation: "Gettysburg College,College of Charleston "
 bio:
