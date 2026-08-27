@@ -27,6 +27,7 @@ volume: 24
 issue: 1
 season: summer
 year: 2024
+date: 2024-01-01
 pages: 156-186
 subjects:
   - label: 'Bioethics'

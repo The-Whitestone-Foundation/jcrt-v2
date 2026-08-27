@@ -26,6 +26,7 @@ volume: 23
 issue: 1
 season: spring
 year: 2024
+date: 2024-01-01
 pages: 99-107
 subjects:
   - label: "African Americans"

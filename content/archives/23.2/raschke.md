@@ -24,6 +24,7 @@ volume: 23
 issue: 2
 season: winter
 year: 2025
+date: 2025-01-01
 pages: 175-195
 subjects:
   - label: 'Dialogue'
