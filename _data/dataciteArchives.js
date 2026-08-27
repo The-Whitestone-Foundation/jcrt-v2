@@ -144,10 +144,9 @@ export default function dataciteArchives() {
 
 		const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 		if (!data || typeof data !== "object") continue;
-		if (data.published === false) continue;
+		if (data.published === false || data.draft) continue;
 
-		const pdfFile = String(data.pdf || "").trim();
-		if (!pdfFile) continue;
+		const pdfFile = typeof data.pdf === "string" ? data.pdf.trim() : "";
 
 		const issueData = readIssueMetadata(issueSlug, issueCache);
 		const dateIssued = normalizeDate(data.date) || normalizeDate(issueData.date);
@@ -162,8 +161,13 @@ export default function dataciteArchives() {
 		const subjects = controlledSubjects(data.subjects);
 		const description = String(data.description || data.abstract || "").trim();
 		const pageUrl = `${baseUrl}/archives/${issueSlug}/${slug}/`;
-		const pdfUrl = `${filesUrl}/archives/${issueSlug}/${pdfFile}`;
+		const pdfUrl = pdfFile ? `${filesUrl}/archives/${issueSlug}/${pdfFile}` : "";
+		const doi = String(data.doi || "")
+			.trim()
+			.replace(/^https?:\/\/(?:dx\.)?doi\.org\//i, "")
+			.replace(/^doi:\s*/i, "");
 		const issueNumbers = parseIssueNumber(issueSlug);
+		const identifier = doi || pageUrl;
 
 		records.push({
 			slug,
@@ -176,10 +180,17 @@ export default function dataciteArchives() {
 			publicationYear: publicationYear || "1999",
 			resourceType: "JournalArticle",
 			resourceTypeGeneral: "Text",
-			identifier: pdfUrl,
-			identifierType: "URL",
+			identifier,
+			identifierType: doi ? "DOI" : "URL",
+			doi,
+			affiliation: String(data.affiliation || "").trim(),
+			volume: String(data.volume || issueData.volume || issueNumbers.major || "").trim(),
+			issue: String(data.issue || issueData.issue || issueNumbers.minor || "").trim(),
+			pages: String(data.pages || "").trim(),
+			articleNumber: String(data.article_number || "").trim(),
 			pageUrl,
 			pdfUrl,
+			jatsPath: `/sitemaps/archive/${issueSlug}/${slug}.xml`,
 			dateIssued,
 			description,
 			keywords,

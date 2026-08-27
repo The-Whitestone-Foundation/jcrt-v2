@@ -1,0 +1,14 @@
+---
+permalink: "/sitemaps/jats-sitemap.xml"
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Archive-only discovery index for JATS metadata records. These records are not PMC full-text deposits. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for rec in dataciteArchives %}{% if rec.section == "archives" %}
+  <url>
+    <loc>{{ (metadata.url ~ rec.jatsPath) | xmlEscape | safe }}</loc>{% if rec.dateIssued %}
+    <lastmod>{{ rec.dateIssued }}</lastmod>{% endif %}
+  </url>
+{% endif %}{% endfor %}
+</urlset>

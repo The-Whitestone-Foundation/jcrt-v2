@@ -10,7 +10,7 @@ layout: false
   xsi:schemaLocation="
     https://jcrt.org/schema/datacite-feed https://jcrt.org/sitemaps/datacite-feed.xsd
     http://datacite.org/schema/kernel-4 https://jcrt.org/sitemaps/metadata.xsd">
-{% for rec in dataciteArchives %}
+{% for rec in dataciteArchives %}{% if rec.section == "archives" %}
   <resource>
     <identifier identifierType="{{ rec.identifierType }}">{{ rec.identifier | escape }}</identifier>
     <creators>
@@ -37,8 +37,13 @@ layout: false
     </subjects>
 {% endif %}
     <relatedIdentifiers>
-      <relatedIdentifier relatedIdentifierType="URL" relationType="IsIdenticalTo">{{ rec.identifier | escape }}</relatedIdentifier>
-      <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">{{ rec.pageUrl | escape }}</relatedIdentifier>
+{% if rec.identifierType == "DOI" %}
+      <relatedIdentifier relatedIdentifierType="URL" relationType="IsIdenticalTo">{{ rec.pageUrl | escape }}</relatedIdentifier>
+{% endif %}
+{% if rec.pdfUrl %}
+      <relatedIdentifier relatedIdentifierType="URL" relationType="IsIdenticalTo">{{ rec.pdfUrl | escape }}</relatedIdentifier>
+{% endif %}
+      <relatedIdentifier relatedIdentifierType="ISSN" relationType="IsPartOf">1530-5228</relatedIdentifier>
     </relatedIdentifiers>
 {% if rec.dateIssued %}
     <dates>
@@ -52,5 +57,5 @@ layout: false
     </descriptions>
 {% endif %}
   </resource>
-{% endfor %}
+{% endif %}{% endfor %}
 </df:resources>

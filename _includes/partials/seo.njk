@@ -33,6 +33,7 @@
 {% set canonicalUrl = canonicalPath if "http" in canonicalPath else metadata.url + canonicalPath %}
 {% set fairPageUrl = metadata.url ~ pageUrl %}
 {% set fairMetadataUrl = metadata.files_url ~ "/metadata" ~ pageUrl ~ "metadata.json" %}
+{% set jatsMetadataUrl = metadata.url ~ "/sitemaps/archive/" ~ pageParts[2] ~ "/" ~ pageParts[3] ~ ".xml" if isArchivesArticlePage else "" %}
 {% set publishedDateRaw = date or page.date or post.date %}
 {% if (not publishedDateRaw) and year %}
   {% set publishedDateRaw = year ~ "-01-01" %}
@@ -120,6 +121,9 @@
 {% if isAcademic and pdfUrl %}
 <link rel="alternate" type="application/pdf" title="{{ pageTitle }} (PDF)" href="{{ pdfUrl }}" />
 {% endif %}
+{% if isAcademic %}
+<link rel="alternate" type="application/xml" title="{{ pageTitle }} (JATS 1.4 metadata; not PMC full text)" href="{{ jatsMetadataUrl }}" />
+{% endif %}
 <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="{{ metadata.url }}/feed/feed.xml" />
 <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }}" href="{{ metadata.url }}/feed/feed.rss" />
 <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} PhilPapers RSS" href="{{ metadata.url }}/feed/philpapers.xml" />
@@ -127,6 +131,7 @@
 <link rel="alternate" type="application/xml" title="{{ metadata.title }} DOAJ Archives XML" href="{{ metadata.url }}/sitemaps/doaj-archives.xml" />
 <link rel="alternate" type="application/xml" title="{{ metadata.title }} OAI-DC XML" href="{{ metadata.url }}/sitemaps/oai_dc.xml" />
 <link rel="alternate" type="application/xml" title="{{ metadata.title }} DataCite XML" href="{{ metadata.url }}/sitemaps/datacite.xml" />
+<link rel="alternate" type="application/xml" title="{{ metadata.title }} JATS Metadata Sitemap" href="{{ metadata.url }}/sitemaps/jats-sitemap.xml" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta property="og:locale" content="{{ metadata.locale }}" />
@@ -361,7 +366,26 @@
       ]{% endif %}{% if volume %},
       "volumeNumber": {{ volume | dump | safe }}{% endif %}{% if issue %},
       "issueNumber": {{ issue | dump | safe }}{% endif %}{% if doi %},
-      "identifier": {{ doi | dump | safe }}{% endif %}{% if pdfUrl %},
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": {{ doi | dump | safe }},
+        "url": {{ ("https://doi.org/" ~ doi) | dump | safe }}
+      },
+      "sameAs": {{ ("https://doi.org/" ~ doi) | dump | safe }}{% endif %}{% if isAcademic %},
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "name": "JATS 1.4 metadata (not PMC full text)",
+          "encodingFormat": "application/xml",
+          "contentUrl": {{ jatsMetadataUrl | dump | safe }}
+        }{% if pdfUrl %},
+        {
+          "@type": "MediaObject",
+          "encodingFormat": "application/pdf",
+          "contentUrl": {{ pdfUrl | dump | safe }}
+        }{% endif %}
+      ]{% elif pdfUrl %},
       "encoding": {
         "@type": "MediaObject",
         "encodingFormat": "application/pdf",

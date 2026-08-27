@@ -14,6 +14,7 @@ const REQUIRED_LOCAL_PATHS = [
 	"/sitemaps/oai-records.json",
 	"/sitemaps/doaj-archives.xml",
 	"/sitemaps/datacite.xml",
+	"/sitemaps/jats-sitemap.xml",
 ];
 
 function getLocs(xml) {
@@ -21,7 +22,13 @@ function getLocs(xml) {
 	const re = /<loc>([^<]+)<\/loc>/g;
 	let m;
 	while ((m = re.exec(xml)) !== null) {
-		const value = String(m[1] || "").trim();
+		const value = String(m[1] || "")
+			.replace(/&amp;/g, "&")
+			.replace(/&lt;/g, "<")
+			.replace(/&gt;/g, ">")
+			.replace(/&quot;/g, '"')
+			.replace(/&apos;/g, "'")
+			.trim();
 		if (value) out.push(value);
 	}
 	return out;
@@ -73,6 +80,20 @@ function verifyFilesystem(siteUrl) {
 				loc: `${siteUrl}${requiredPath}`,
 				outputFile,
 			});
+		}
+	}
+
+	const jatsSitemap = path.join(SITE_DIR, "sitemaps", "jats-sitemap.xml");
+	if (fs.existsSync(jatsSitemap)) {
+		const jatsLocs = getLocs(fs.readFileSync(jatsSitemap, "utf8"));
+		if (jatsLocs.length === 0) {
+			throw new Error("JATS metadata sitemap is empty.");
+		}
+		for (const loc of jatsLocs) {
+			const localPath = toLocalPath(loc, siteUrl);
+			if (!localPath) continue;
+			const outputFile = resolveOutputFile(localPath);
+			if (!fs.existsSync(outputFile)) missing.push({ loc, outputFile });
 		}
 	}
 
