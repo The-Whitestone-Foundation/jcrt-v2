@@ -1,6 +1,7 @@
 ---
 nanoid: "3kVX6M"
 doi:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk42ry62h'
 layout: archives.njk
 article_number: '10'
 volume: '25'

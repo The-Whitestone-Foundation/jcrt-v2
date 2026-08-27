@@ -1,6 +1,6 @@
 ---
 nanoid: "_xxpPp"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4mkl5c2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlkagdh2e'
 name: Florian Klug
 affiliation: "University of Würzburg"
 bio:

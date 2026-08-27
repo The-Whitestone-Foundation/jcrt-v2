@@ -1,6 +1,6 @@
 ---
 nanoid: "roSgQF"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtwa4ofd3v2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztllta4a2q'
 name: Darshan Datar
 affiliation: "European University Institute"
 bio:
