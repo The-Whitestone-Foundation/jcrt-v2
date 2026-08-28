@@ -124,6 +124,12 @@ function runProtocolChecks({ baseURL, records, identify }) {
 			contains: ['<error code="badVerb">'],
 		},
 		{
+			name: "Repeated Argument",
+			params: new URLSearchParams("verb=Identify&verb=Identify"),
+			contains: [`<request>${baseURL}</request>`, '<error code="badArgument">'],
+			notContains: ['<request verb='],
+		},
+		{
 			name: "Unsupported Metadata Prefix",
 			params: { verb: "ListRecords", metadataPrefix: "mods" },
 			contains: ['<error code="cannotDisseminateFormat">'],
@@ -152,6 +158,12 @@ function runProtocolChecks({ baseURL, records, identify }) {
 			assert(
 				String(result.xml || "").includes(expected),
 				`Protocol check failed: ${testCase.name} missing '${expected}'`,
+			);
+		}
+		for (const unexpected of testCase.notContains || []) {
+			assert(
+				!String(result.xml || "").includes(unexpected),
+				`Protocol check failed: ${testCase.name} unexpectedly contains '${unexpected}'`,
 			);
 		}
 		outputs.push({ name: testCase.name, xml: result.xml });

@@ -8,14 +8,6 @@ const OAI_PATHS = new Set([
 ]);
 const OAI_RECORDS_PATH = "/sitemaps/oai-records.json";
 
-function toPlainParams(searchParams) {
-	const out = {};
-	for (const [key, value] of searchParams.entries()) {
-		if (!(key in out)) out[key] = value;
-	}
-	return out;
-}
-
 async function loadOaiIndex(origin) {
 	const indexUrl = new URL(OAI_RECORDS_PATH, origin).toString();
 	const response = await fetch(indexUrl, {
@@ -34,11 +26,11 @@ export default async (request, context) => {
 	if (!OAI_PATHS.has(url.pathname)) return context.next();
 
 	const method = String(request.method || "GET").toUpperCase();
-	if (method !== "GET" && method !== "HEAD") {
+	if (method !== "GET" && method !== "POST" && method !== "HEAD") {
 		return new Response("Method Not Allowed", {
 			status: 405,
 			headers: {
-				allow: "GET, HEAD",
+				allow: "GET, HEAD, POST",
 			},
 		});
 	}
@@ -47,13 +39,17 @@ export default async (request, context) => {
 	const baseURL = `${url.origin}${CANONICAL_OAI_PATH}`;
 	try {
 		const index = await loadOaiIndex(url.origin);
-		if (!url.searchParams.has("verb")) {
+		const params = new URLSearchParams(url.searchParams);
+		if (method === "POST") {
+			for (const [key, value] of new URLSearchParams(await request.text())) params.append(key, value);
+		}
+		if (url.pathname !== CANONICAL_OAI_PATH && !params.has("verb")) {
 			const xml = renderStaticListRecordsResponse({
 				baseURL,
 				records: index?.records || [],
 			});
 			const headers = new Headers({
-				"content-type": "application/xml; charset=UTF-8",
+				"content-type": "text/xml; charset=UTF-8",
 				"cache-control": "public,max-age=0,must-revalidate",
 			});
 			if (method === "HEAD") {
@@ -70,7 +66,7 @@ export default async (request, context) => {
 
 		const result = handleOaiRequest({
 			baseURL,
-			params: toPlainParams(url.searchParams),
+			params,
 			records: index?.records || [],
 			identify: {
 				repositoryName: index?.repositoryName,
@@ -85,7 +81,7 @@ export default async (request, context) => {
 		});
 
 		const headers = new Headers(result?.headers || {});
-		headers.set("content-type", "application/xml; charset=UTF-8");
+		headers.set("content-type", "text/xml; charset=UTF-8");
 		headers.set("cache-control", "public,max-age=0,must-revalidate");
 
 		if (method === "HEAD") {
@@ -104,7 +100,7 @@ export default async (request, context) => {
 		return new Response(body, {
 			status: 500,
 			headers: {
-				"content-type": "application/xml; charset=UTF-8",
+				"content-type": "text/xml; charset=UTF-8",
 				"cache-control": "no-store",
 			},
 		});

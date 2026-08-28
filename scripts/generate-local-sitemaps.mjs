@@ -339,7 +339,7 @@ function generateOai(entries) {
       );
     });
 
-  const baseURL = `${BASE_URL}/sitemaps/oai_dc.xml`;
+  const baseURL = `${BASE_URL}/oai`;
   const earliestDatestamp =
     records
       .map((record) => String(record.datestamp || ""))

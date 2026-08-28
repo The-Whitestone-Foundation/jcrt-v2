@@ -52,7 +52,7 @@ function parseRequestDateArg(value, granularity = "YYYY-MM-DD") {
 
 function hasOnlyAllowedArgs(params, allowedKeys) {
 	for (const key of Object.keys(params)) {
-		if (!allowedKeys.has(key) && isNonEmpty(params[key])) return false;
+		if (!allowedKeys.has(key)) return false;
 	}
 	return true;
 }
@@ -76,15 +76,15 @@ function escapeXml(value) {
 function normalizeParams(input) {
 	if (input instanceof URLSearchParams) {
 		const out = {};
-		for (const key of input.keys()) {
-			out[key] = input.get(key) ?? "";
+		for (const [key, value] of input.entries()) {
+			out[key] = key in out ? [out[key], value] : value;
 		}
 		return out;
 	}
 	if (!input || typeof input !== "object") return {};
 	const out = {};
 	for (const [key, value] of Object.entries(input)) {
-		out[key] = Array.isArray(value) ? String(value[0] ?? "") : String(value ?? "");
+		out[key] = Array.isArray(value) ? value.map((entry) => String(entry ?? "")) : String(value ?? "");
 	}
 	return out;
 }
@@ -372,18 +372,24 @@ export function handleOaiRequest({
 	responseDate = new Date().toISOString(),
 }) {
 	const normalizedParams = normalizeParams(params);
+	const hasRepeatedArgs = Object.values(normalizedParams).some(Array.isArray);
 	const verb = cleanValue(normalizedParams.verb);
 	const sortedRecords = sortRecords(asArray(records).filter((record) => record && typeof record === "object"));
 	const identifyConfig = buildIdentifyDefaults(sortedRecords, identify);
 	const recordIds = new Set(sortedRecords.map((record) => cleanValue(record.identifier)));
 
 	const errorResponse = (code, message, requestAttrs = buildRequestAttrs(normalizedParams)) => {
+		const safeRequestAttrs = code === "badArgument" || code === "badVerb" ? {} : requestAttrs;
 		return {
 			status: 200,
-			headers: { "content-type": "application/xml; charset=UTF-8" },
-			xml: renderEnvelope(baseURL, requestAttrs, renderError(code, message), responseDate),
+			headers: { "content-type": "text/xml; charset=UTF-8" },
+			xml: renderEnvelope(baseURL, safeRequestAttrs, renderError(code, message), responseDate),
 		};
 	};
+
+	if (hasRepeatedArgs) {
+		return errorResponse("badArgument", "The request includes a repeated argument.");
+	}
 
 	if (!verb || !SUPPORTED_VERBS.has(verb)) {
 		return errorResponse("badVerb", "The request includes an illegal verb or is missing the verb argument.", {});
@@ -398,7 +404,7 @@ export function handleOaiRequest({
 			const body = renderIdentify(baseURL, identifyConfig);
 			return {
 				status: 200,
-				headers: { "content-type": "application/xml; charset=UTF-8" },
+				headers: { "content-type": "text/xml; charset=UTF-8" },
 				xml: renderEnvelope(baseURL, { verb }, body, responseDate),
 			};
 		}
@@ -414,7 +420,7 @@ export function handleOaiRequest({
 			}
 			return {
 				status: 200,
-				headers: { "content-type": "application/xml; charset=UTF-8" },
+				headers: { "content-type": "text/xml; charset=UTF-8" },
 				xml: renderEnvelope(baseURL, buildRequestAttrs(normalizedParams, allowed), renderMetadataFormatBlock(), responseDate),
 			};
 		}
@@ -450,7 +456,7 @@ export function handleOaiRequest({
 			const body = renderGetRecord(record);
 			return {
 				status: 200,
-				headers: { "content-type": "application/xml; charset=UTF-8" },
+				headers: { "content-type": "text/xml; charset=UTF-8" },
 				xml: renderEnvelope(baseURL, buildRequestAttrs(normalizedParams, allowed), body, responseDate),
 			};
 		}
@@ -546,7 +552,7 @@ export function handleOaiRequest({
 				: renderListRecords(page.page, resumptionTokenXml);
 			return {
 				status: 200,
-				headers: { "content-type": "application/xml; charset=UTF-8" },
+				headers: { "content-type": "text/xml; charset=UTF-8" },
 				xml: renderEnvelope(baseURL, requestAttrs, body, responseDate),
 			};
 		}
