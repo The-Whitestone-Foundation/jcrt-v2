@@ -4,6 +4,7 @@ export const DC_NS = "http://purl.org/dc/elements/1.1/";
 export const OAI_SCHEMA_URL = "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd";
 export const OAI_DC_SCHEMA_URL = "http://www.openarchives.org/OAI/2.0/oai_dc.xsd";
 export const OAI_METADATA_PREFIX = "oai_dc";
+export const OAI_PHILOSOPHY_SET = "philosophy";
 
 const SUPPORTED_VERBS = new Set([
 	"Identify",
@@ -144,6 +145,17 @@ function renderMetadataFormatBlock() {
 		`    <metadataNamespace>${OAI_DC_NS}</metadataNamespace>`,
 		`  </metadataFormat>`,
 		`</ListMetadataFormats>`,
+	].join("\n");
+}
+
+function renderListSets() {
+	return [
+		`<ListSets>`,
+		`  <set>`,
+		`    <setSpec>${OAI_PHILOSOPHY_SET}</setSpec>`,
+		`    <setName>Philosophy</setName>`,
+		`  </set>`,
+		`</ListSets>`,
 	].join("\n");
 }
 
@@ -317,12 +329,13 @@ function paginate(records, offset = 0, batchSize = LIST_BATCH_SIZE) {
 	};
 }
 
-function encodeResumptionToken({ verb, metadataPrefix, from = "", until = "", offset = 0 }) {
+function encodeResumptionToken({ verb, metadataPrefix, from = "", until = "", set = "", offset = 0 }) {
 	return [
 		`v=${encodeURIComponent(cleanValue(verb))}`,
 		`m=${encodeURIComponent(cleanValue(metadataPrefix))}`,
 		`f=${encodeURIComponent(cleanValue(from))}`,
 		`u=${encodeURIComponent(cleanValue(until))}`,
+		`s=${encodeURIComponent(cleanValue(set))}`,
 		`o=${encodeURIComponent(String(offset))}`,
 	].join("|");
 }
@@ -346,9 +359,10 @@ function decodeResumptionToken(token) {
 	const metadataPrefix = cleanValue(out.m);
 	const from = cleanValue(out.f);
 	const until = cleanValue(out.u);
+	const set = cleanValue(out.s);
 	const offset = Number.parseInt(cleanValue(out.o), 10);
 	if (!verb || !metadataPrefix || !Number.isInteger(offset) || offset < 0) return null;
-	return { verb, metadataPrefix, from, until, offset };
+	return { verb, metadataPrefix, from, until, set, offset };
 }
 
 export function renderStaticListRecordsResponse({
@@ -433,7 +447,11 @@ export function handleOaiRequest({
 			if (isNonEmpty(normalizedParams.resumptionToken)) {
 				return errorResponse("badResumptionToken", "The value of the resumptionToken argument is invalid or expired.");
 			}
-			return errorResponse("noSetHierarchy", "This repository does not support sets.", { verb });
+			return {
+				status: 200,
+				headers: { "content-type": "text/xml; charset=UTF-8" },
+				xml: renderEnvelope(baseURL, { verb }, renderListSets(), responseDate),
+			};
 		}
 
 		case "GetRecord": {
@@ -472,6 +490,7 @@ export function handleOaiRequest({
 			const tokenRaw = cleanValue(normalizedParams.resumptionToken);
 			let from = null;
 			let until = null;
+			let set = "";
 			let requestAttrs = {};
 			let offset = 0;
 			let metadataPrefix = cleanValue(normalizedParams.metadataPrefix);
@@ -486,6 +505,7 @@ export function handleOaiRequest({
 				}
 				offset = token.offset;
 				metadataPrefix = token.metadataPrefix;
+				set = token.set;
 				if (token.from) {
 					from = parseRequestDateArg(token.from, granularity);
 					if (!from) return errorResponse("badResumptionToken", "The value of the resumptionToken argument is invalid or expired.");
@@ -502,9 +522,7 @@ export function handleOaiRequest({
 				if (!metadataPrefix) {
 					return errorResponse("badArgument", "The request is missing required arguments.");
 				}
-				if (isNonEmpty(normalizedParams.set)) {
-					return errorResponse("noSetHierarchy", "This repository does not support sets.");
-				}
+				set = cleanValue(normalizedParams.set);
 				from = isNonEmpty(normalizedParams.from)
 					? parseRequestDateArg(normalizedParams.from, granularity)
 					: null;
@@ -527,7 +545,8 @@ export function handleOaiRequest({
 				return errorResponse("cannotDisseminateFormat", "The requested metadataPrefix is not supported by this repository.");
 			}
 
-			const filtered = filterByDateRange(sortedRecords, from, until);
+			const filtered = filterByDateRange(sortedRecords, from, until)
+				.filter((record) => !set || asArray(record.setSpecs).includes(set));
 			if (filtered.length === 0) {
 				return errorResponse("noRecordsMatch", "The combination of the supplied values results in an empty list.");
 			}
@@ -543,6 +562,7 @@ export function handleOaiRequest({
 					metadataPrefix,
 					from: from || "",
 					until: until || "",
+					set,
 					offset: page.nextOffset,
 				});
 			const resumptionTokenXml = renderResumptionTokenElement(nextToken, page.cursor, page.completeListSize);
@@ -580,10 +600,12 @@ export function buildOaiRecord(entry, {
 
 	const relations = [];
 	if (isNonEmpty(entry?.pdfUrl)) relations.push(String(entry.pdfUrl));
+	const setSpecs = asArray(entry?.setSpecs).filter((value) => isNonEmpty(value));
 
 	return {
 		identifier: cleanValue(entry?.identifier),
 		datestamp: dateOnly || "1999-01-01",
+		...(setSpecs.length ? { setSpecs } : {}),
 		title: cleanValue(entry?.title),
 		creators: asArray(entry?.creators || entry?.authors).filter((value) => isNonEmpty(value)),
 		subjects: asArray(entry?.subjects || entry?.keywords).filter((value) => isNonEmpty(value)),

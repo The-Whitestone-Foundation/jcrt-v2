@@ -5,6 +5,7 @@ import { subjectLabels } from "../_config/subjects.js";
 import {
   buildOaiRecord,
   OAI_METADATA_PREFIX,
+  OAI_PHILOSOPHY_SET,
   renderStaticListRecordsResponse,
 } from "./lib/oai-pmh.mjs";
 
@@ -25,6 +26,19 @@ const RIGHTS_TEXT =
   "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/";
 const DOAJ_SKIP_SLUGS = new Set(["index", "author-bios", "table-of-contents", "abstracts", "bios"]);
 const OAI_SKIP_SLUGS = new Set(["author-bios", "abstracts"]);
+// ponytail: metadata heuristic; set `philpapers: true` or `false` in front matter for edge cases.
+const PHILOSOPHY_METADATA = /\b(?:philosoph\w*|metaphys\w*|ontolog\w*|epistemolog\w*|phenomenolog\w*|hermeneut\w*|deconstruct\w*|ethics?|aesthetics?|derrida|caputo|[zž][\s-]*i[\s-]*[zž][\s-]*ek\w*|deleuze|hegel|kant|nietzsche|levinas|marion|badiou|agamben|foucault|lacan|kierkegaard|heidegger|husserl|schelling|spinoza|benjamin|ricoeur|vattimo|ranciere|aristotle|plato|descartes|leibniz|whitehead|guattari)\b/i;
+
+function isPhilosophyEntry(entry) {
+  if (typeof entry.philpapers === "boolean") return entry.philpapers;
+  return PHILOSOPHY_METADATA.test(
+    [entry.title, entry.description, ...entry.authors, ...entry.keywords, ...entry.subjects]
+      .join(" ")
+      .normalize("NFKD")
+      .replace(/\p{Diacritic}/gu, "")
+      .replace(/[Žž]/g, "z"),
+  );
+}
 
 function parseFrontMatter(content) {
   if (!content.startsWith("---")) return {};
@@ -199,6 +213,7 @@ function readArchiveEntries() {
       published,
       sitemapIgnore,
       section: "archives",
+      philpapers: data.philpapers,
     });
   }
 
@@ -240,6 +255,7 @@ function readTheoryEntries() {
       published: data.published !== false && !data.draft,
       sitemapIgnore: !!data.sitemapIgnore,
       section: "religioustheory",
+      philpapers: data.philpapers,
     }];
   });
 }
@@ -329,6 +345,7 @@ function generateOai(entries) {
           pdfUrl: e.pdfUrl,
           format: e.canonicalFormat,
           citation,
+          setSpecs: isPhilosophyEntry(e) ? [OAI_PHILOSOPHY_SET] : [],
         },
         {
           issn: ISSN_DASH,

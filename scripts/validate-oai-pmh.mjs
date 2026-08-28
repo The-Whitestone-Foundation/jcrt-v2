@@ -99,9 +99,9 @@ function runProtocolChecks({ baseURL, records, identify }) {
 			contains: ["<ListMetadataFormats>", `<metadataPrefix>${OAI_METADATA_PREFIX}</metadataPrefix>`],
 		},
 		{
-			name: "ListSets noSetHierarchy",
+			name: "ListSets",
 			params: { verb: "ListSets" },
-			contains: ['<error code="noSetHierarchy">'],
+			contains: ["<ListSets>", "<setSpec>philosophy</setSpec>"],
 		},
 		{
 			name: "ListIdentifiers",
@@ -112,6 +112,11 @@ function runProtocolChecks({ baseURL, records, identify }) {
 			name: "ListRecords",
 			params: { verb: "ListRecords", metadataPrefix: OAI_METADATA_PREFIX },
 			contains: ["<ListRecords>", "<oai_dc:dc"],
+		},
+		{
+			name: "Philosophy Set",
+			params: { verb: "ListRecords", metadataPrefix: OAI_METADATA_PREFIX, set: "philosophy" },
+			contains: ["<ListRecords>", "<setSpec>philosophy</setSpec>"],
 		},
 		{
 			name: "GetRecord",
@@ -142,6 +147,11 @@ function runProtocolChecks({ baseURL, records, identify }) {
 		{
 			name: "No Records Match",
 			params: { verb: "ListRecords", metadataPrefix: OAI_METADATA_PREFIX, from: "2100-01-01" },
+			contains: ['<error code="noRecordsMatch">'],
+		},
+		{
+			name: "Unknown Set",
+			params: { verb: "ListRecords", metadataPrefix: OAI_METADATA_PREFIX, set: "not-a-set" },
 			contains: ['<error code="noRecordsMatch">'],
 		},
 	];
@@ -192,23 +202,26 @@ function assertIncrementalDayGranularity({ baseURL, records, identify }) {
 
 function assertResumptionFlow({ baseURL, records, identify }) {
 	if (!Array.isArray(records) || records.length <= 120) return;
-	const first = handleOaiRequest({
-		baseURL,
-		params: { verb: "ListRecords", metadataPrefix: OAI_METADATA_PREFIX },
-		records,
-		identify,
-	});
-	const tokenMatch = String(first?.xml || "").match(/<resumptionToken[^>]*>([^<]+)<\/resumptionToken>/);
-	const token = String(tokenMatch?.[1] || "").trim();
-	assert(token, "Expected resumptionToken in first ListRecords response but none was found.");
-	const second = handleOaiRequest({
-		baseURL,
-		params: { verb: "ListRecords", resumptionToken: token },
-		records,
-		identify,
-	});
-	assert(!String(second?.xml || "").includes('code="badResumptionToken"'), "Resumption token follow-up returned badResumptionToken.");
-	assert(String(second?.xml || "").includes("<ListRecords>"), "Resumption token follow-up did not return ListRecords.");
+	for (const set of ["", "philosophy"]) {
+		const first = handleOaiRequest({
+			baseURL,
+			params: { verb: "ListRecords", metadataPrefix: OAI_METADATA_PREFIX, ...(set ? { set } : {}) },
+			records,
+			identify,
+		});
+		const tokenMatch = String(first?.xml || "").match(/<resumptionToken[^>]*>([^<]+)<\/resumptionToken>/);
+		const token = String(tokenMatch?.[1] || "").trim();
+		assert(token, `Expected resumptionToken in ${set || "complete"} ListRecords response but none was found.`);
+		const second = handleOaiRequest({
+			baseURL,
+			params: { verb: "ListRecords", resumptionToken: token },
+			records,
+			identify,
+		});
+		assert(!String(second?.xml || "").includes('code="badResumptionToken"'), "Resumption token follow-up returned badResumptionToken.");
+		assert(String(second?.xml || "").includes("<ListRecords>"), "Resumption token follow-up did not return ListRecords.");
+		if (set) assert(String(second?.xml || "").includes(`<setSpec>${set}</setSpec>`), `Resumption token lost the ${set} set.`);
+	}
 }
 
 function runQuickChecks({ baseURL, records, identify }) {
