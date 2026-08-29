@@ -1,6 +1,6 @@
 ---
 nanoid: "NhSiuT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztljmtfo23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7eynsl2h'
 name: Gerrit W Neven
 affiliation: "Theological University Kampen"
 bio:

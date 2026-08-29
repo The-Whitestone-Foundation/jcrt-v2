@@ -1,7 +1,7 @@
 ---
 nanoid: "qlV-9R"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl3ilh72u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6vk4qi2q'
 title: "Redeeming the Icons"
 author: "Timothy (Timothy W) Stanley"
 affilation:

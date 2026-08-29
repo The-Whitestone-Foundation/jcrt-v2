@@ -1,6 +1,6 @@
 ---
 nanoid: "07TSNa"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl5olxg23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6yesq62h'
 name: Zane Johnson
 affiliation: "University of Denver/Iliff School of Theology"
 bio:

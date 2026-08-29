@@ -1,6 +1,6 @@
 ---
 nanoid: "-3dm95"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkwuw5p2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6qpzm22s'
 title: "Originary Grammar, Part 3"
 description: "Adam Katz extends originary grammar through Eric Gans, metaphysics, imperatives, global law, and the need for signs capable of deferring political violence."
 date: '2009-08-01'

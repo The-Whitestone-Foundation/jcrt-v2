@@ -1,7 +1,7 @@
 ---
 nanoid: "8nKz61"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkzqrei2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6tm53y23'
 title: "Neither/Nor: the Mutual Negation of S ØRen Kierkegaard’s Early Pseudonymous Voices"
 author: "Jochen Schmidt"
 affilation:

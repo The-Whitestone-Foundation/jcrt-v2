@@ -1,6 +1,6 @@
 ---
 nanoid: "9FLs5K"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztljeliy2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7epikv2p'
 name: Hollis Phelps
 affiliation: "Mercer University, Claremont Graduate University "
 bio:

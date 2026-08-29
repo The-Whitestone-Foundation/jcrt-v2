@@ -1,7 +1,7 @@
 ---
 nanoid: "oI5DUK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkl5idd2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6emp322s'
 title: "Channeling Hate: Belief System Facilitation of Egodefense Mechanisms in the 1935 Rise of Social Credit in Alberta."
 author: "Derek Cook"
 affilation:

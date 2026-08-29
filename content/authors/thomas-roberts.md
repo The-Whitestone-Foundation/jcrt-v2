@@ -1,6 +1,6 @@
 ---
 nanoid: "mBFJ2N"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl6yz632p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6zqf5c2s'
 name: Thomas Roberts
 affiliation: "San Diego State University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "hAnouV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl7j2rp2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav727ubr2n'
 name: Steven A. Benko
 affiliation: "Meredith College "
 bio:

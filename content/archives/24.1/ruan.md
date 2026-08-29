@@ -1,7 +1,7 @@
 ---
 nanoid: "Fs-YT2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk6ginh2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav5y6rnh2u'
 title: "The Violence of Classification and Ethics of Suicide: a Reflection on Qiu Jin’s Death"
 author: "Genn Ruan; Xiaoqian Zhang"
 affilation:

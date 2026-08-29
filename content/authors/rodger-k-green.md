@@ -1,6 +1,6 @@
 ---
 nanoid: "Dj6lKh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlap4gx2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav73kqkq23'
 name: Rodger K. Green
 affiliation:
 bio:

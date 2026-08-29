@@ -1,7 +1,7 @@
 ---
 nanoid: "tvHrLq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl42dua2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6w6wcj2n'
 title: "Derrida, Jacques, 1930-2004"
 author: "John D. Caputo"
 affilation:

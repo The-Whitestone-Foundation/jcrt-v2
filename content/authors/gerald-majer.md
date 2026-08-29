@@ -1,6 +1,6 @@
 ---
 nanoid: "4sUx4d"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztljnpge2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7ezn6q2q'
 name: Gerald Majer
 affiliation: "Villa Julie College"
 bio:

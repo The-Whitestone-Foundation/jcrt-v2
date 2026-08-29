@@ -1,6 +1,6 @@
 ---
 nanoid: "Ckjzsr"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlft5id2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7b4fvj2n'
 name: Laura E. Alexander
 affiliation: "University of Virginia"
 bio:

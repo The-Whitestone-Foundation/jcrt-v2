@@ -1,7 +1,7 @@
 ---
 nanoid: "G5X7b0"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkcifyw2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav647e3z2i'
 title: "Response"
 author: "Arthur Bradley"
 affilation:

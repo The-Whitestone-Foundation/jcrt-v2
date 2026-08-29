@@ -1,7 +1,7 @@
 ---
 nanoid: "k7SnFD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkil5pp2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6bugxw2h'
 title: "Religion and Mental Health : the Therapeutic Value of the Teachings of Jesus."
 author: "Thomas Roberts; Delbert Hayden"
 affilation:

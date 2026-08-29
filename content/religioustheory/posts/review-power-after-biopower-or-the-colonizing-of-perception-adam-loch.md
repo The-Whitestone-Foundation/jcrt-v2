@@ -1,7 +1,7 @@
 ---
 nanoid: "TE21C-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkmf4p425'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6fts2e25'
 title: 'Review – Power After Biopower, Or The Colonizing Of Perception (Adam Loch)'
 description: "*Massumi, Brian. Ontopower: War, Powers, and the State of Perception. Durham NC: Duke University Press, 2015. Hardcover, Paperback, E-book, ix + 320 pages.* A"
 date: '2017-11-28T14:09:56.000Z'

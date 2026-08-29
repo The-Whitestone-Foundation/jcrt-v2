@@ -1,6 +1,6 @@
 ---
 nanoid: "UNuy0A"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlnej7h2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7irybm25'
 name: Carissa Devine
 affiliation:
 bio:

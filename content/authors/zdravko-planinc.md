@@ -1,6 +1,6 @@
 ---
 nanoid: "wH4EpC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl5nogq2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ydrlb2i'
 name: Zdravko Planinc
 affiliation: "McMaster University"
 bio:

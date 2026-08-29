@@ -1,7 +1,7 @@
 ---
 nanoid: "hWqeiL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkkbve42z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6dpqcs2s'
 title: >-
   Announcing “The New Polis” – An E-Publication On Critical Theory, Cultural
   Analysis, And Political Thought

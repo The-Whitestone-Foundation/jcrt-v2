@@ -1,6 +1,6 @@
 ---
 nanoid: "n_ZBfG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk5pehu25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav5xgpaf2p'
 title: John Doe
 name: John Doe
 description: "Professor of Political Science"

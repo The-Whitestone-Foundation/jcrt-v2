@@ -1,7 +1,7 @@
 ---
 nanoid: "z5s-Sz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkcomio23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav64g3v52e'
 title: "Caveat Lector: Introduction."
 author: "Arthur Bradley"
 affilation:

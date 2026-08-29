@@ -1,7 +1,7 @@
 ---
 nanoid: "7UnWwo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkwrwgo23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6qmw5z2i'
 title: "Messianic Media: Benjamin’s Cinema, Badiou’s Matheme, Negri’s Multitude"
 author: "Rocco Gangle"
 affilation:

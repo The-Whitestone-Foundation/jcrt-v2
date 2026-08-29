@@ -1,7 +1,7 @@
 ---
 nanoid: "wclGoo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk5ap272e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav5wxujp2u'
 layout: archives.njk
 article_number: '02'
 volume: '24'

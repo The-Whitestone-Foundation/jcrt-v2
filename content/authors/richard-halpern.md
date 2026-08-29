@@ -1,6 +1,6 @@
 ---
 nanoid: "kPaLEh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlbaqzo2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav746oyx2z'
 name: Richard Halpern
 affiliation: "University of California at Berkeley"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "aaX2bo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl6no4h2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6zfnhn2p'
 name: Trevor Pederson
 affiliation:
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "V6aruD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkdzmcj2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav65scs72z'
 title: 'Modern Theology And The Dialectic Of God, Part 4 (Kelly Maeshiro)'
 description: "The following is the last of a four-part series. The first can be found here, the second here, the third here. Barth’s theology is in many ways contiguous with"
 date: '2021-03-01T17:18:02.000Z'

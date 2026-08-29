@@ -1,6 +1,6 @@
 ---
 nanoid: "OQUYGC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlbi3c32g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav74ghwe2q'
 name: Rebecca Sanchez
 affiliation: "Fordham University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "9jxemN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztllmv6p2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7h4jky23'
 name: David Kim
 affiliation:
 bio:

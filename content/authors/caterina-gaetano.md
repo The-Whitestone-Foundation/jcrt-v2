@@ -1,6 +1,6 @@
 ---
 nanoid: "enYd0y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlnbayg23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7iob7f2p'
 name: Caterina Gaetano
 affiliation:
 bio:

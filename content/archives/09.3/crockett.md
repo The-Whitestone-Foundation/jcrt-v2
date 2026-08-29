@@ -1,7 +1,7 @@
 ---
 nanoid: "hqLiUE"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztky4pl623'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6rxdr32h'
 title: "The Theology of Money"
 author: "Clayton Crockett"
 affilation:

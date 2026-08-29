@@ -1,7 +1,7 @@
 ---
 nanoid: "e7iRpD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkf4hil2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav66ypgv2e'
 title: >-
   “Progressive Neoliberalism” – Symbolic Capitalism And The Global Reproduction
   Of The “Precariat” (Interview With Carl Raschke)
