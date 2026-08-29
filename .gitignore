@@ -10,6 +10,7 @@ RAW/
 _logs/
 public/citations/
 .sequoia/content/
+.social-publish-state.json
 
 # Binary assets now served from files.jcrt.org
 public/images/**/*.webp

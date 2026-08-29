@@ -64,7 +64,7 @@ export default {
   title: "Journal for Cultural and Religious Theory",
   layout: "archive-post.njk",
   eleventyComputed: {
-    canonical_url: (data) => archivePdfUrl(data) || data?.page?.url || null,
+    canonical_url: (data) => data?.html_canonical ? data?.page?.url : archivePdfUrl(data) || data?.page?.url || null,
     date: (data) => {
       if (data?.date) return data.date;
       const directYear = Number.parseInt(data?.year, 10);
