@@ -617,19 +617,6 @@ export default async function (eleventyConfig) {
 
 	eleventyConfig.addWatchTarget("css/**/*.css");
 
-	if (!isFastBuild) {
-		eleventyConfig.addBundle("css", {
-			toFileDirectory: "dist",
-		});
-		eleventyConfig.addBundle("js", {
-			toFileDirectory: "dist",
-		});
-	} else {
-		// Templates reference `{% getBundle "css" %}` / `{% getBundle "js" %}`.
-		// In fast builds we skip bundling entirely for speed, so provide a no-op.
-		eleventyConfig.addShortcode("getBundle", () => "");
-	}
-
 	eleventyConfig.addShortcode("button", (label, href, variant = "primary") => {
 		const safeLabel = escapeHtmlAttr(label);
 		const safeHref = escapeHtmlAttr(href);
@@ -891,13 +878,6 @@ export default async function (eleventyConfig) {
 		authorLookupCache.set(authorsCollection, lookup);
 		return lookup;
 	}
-	
-	eleventyConfig.addFilter("iconId", function (faClass) {
-    if (!faClass) return "";
-    const parts = (faClass || "").trim().split(/\s+/);
-    return parts.find(p => p.startsWith("fa-") && !["fa-solid","fa-brands","fa-regular","fa-light","fa-thin","fa-duotone"].includes(p)) || parts[parts.length - 1] || "";
-});
-
 	eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
 		if (!authorKey || !authorsCollection) return null;
 		const lookup = getAuthorLookupMap(authorsCollection);
@@ -1152,8 +1132,6 @@ export default async function (eleventyConfig) {
 }
 
 export const config = {
-	templateFormats: ["md", "njk", "html", "liquid", "css", "11ty.js"],
-
 	markdownTemplateEngine: "njk",
 
 	htmlTemplateEngine: "njk",
@@ -1162,6 +1140,5 @@ export const config = {
 		input: "content", // default: "."
 		includes: "../_includes", // default: "_includes" (`input` relative)
 		data: "../_data", // default: "_data" (`input` relative)
-		output: "_site",
 	},
 };

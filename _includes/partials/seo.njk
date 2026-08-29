@@ -159,7 +159,6 @@
   <link href="/css/index.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
   <link href="/css/font.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
 </noscript>
-<style>{% getBundle "css" %}</style>
 
 {% set pageSchemaType = "ScholarlyArticle" if isArchivesArticlePage else ("Blog" if isBlogHome else ("BlogPosting" if isBlogPost else "WebPage")) %}
 {% set schemaAuthors = authorName | splitAuthors %}

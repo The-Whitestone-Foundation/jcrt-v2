@@ -12,17 +12,6 @@
 [build.processing]
   skip_processing = true
 
-[build.processing.html]
-  pretty_urls = true
-
-[build.processing.css]
-  bundle = true
-  minify = true
-
-[build.processing.js]
-  bundle = true
-  minify = true
-
 [[redirects]]
   from = "http://jcrt.org/oai"
   to = "https://jcrt.org/oai"

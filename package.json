@@ -1,6 +1,7 @@
 {
   "name": "jcrt",
   "version": "0.0.1",
+  "private": true,
   "description": "Journal for Cultural and Religious Theory: A Whitestone Foundation Publication",
   "type": "module",
   "scripts": {
@@ -9,7 +10,7 @@
     "dev": "cross-env QUICK_DEV=1 NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --incremental --port=4000",
     "clear": "rm -rf _site .cache",
     "build": "npm run build:netlify",
-    "build:netlify": "npm run nanoids:check && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && npm run sitemaps:check && npm run oai:validate:quick && npm run css:purge && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
+    "build:netlify": "npm run nanoids:check && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && npm run sitemaps:check && npm run oai:validate:quick && npm run css:purge && npm run css:optimize && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
     "nanoids:generate": "node scripts/generate-nanoids.mjs",
     "nanoids:check": "node scripts/generate-nanoids.mjs --check",
     "sitemaps:generate": "node scripts/generate-local-sitemaps.mjs",
@@ -17,6 +18,8 @@
     "standard:check": "node scripts/check-standard-site.mjs",
     "oai:validate:quick": "cross-env OAI_VALIDATE_LEVEL=quick node scripts/validate-oai-pmh.mjs",
     "css:purge": "purgecss --css _site/css/bs.css --content \"_site/**/*.html\" --output _site/css/ --safelist show showing collapsing collapse modal-backdrop fade offcanvas-backdrop",
+    "css:optimize": "node scripts/optimize-css.mjs",
+    "css:test": "node --test scripts/optimize-css.test.mjs",
     "standard:audit": "node scripts/audit-standard-site-atproto.mjs",
     "sequoia:stage": "node scripts/build-sequoia-content.mjs",
     "sequoia:publication": "node scripts/publish-standard-publication.mjs",
@@ -25,7 +28,7 @@
     "sequoia:records": "node scripts/apply-sequoia-records.mjs",
     "atproto:frontmatter": "node scripts/apply-atproto-frontmatter.mjs",
     "indexnow:submit": "node scripts/indexnow-submit.mjs",
-    "perf:benchmark": "cross-env DEBUG=Eleventy:*Benchmark* ELEVENTY_RUN_MODE=build eleventy"
+    "perf:benchmark": "cross-env SKIP_IMAGE_PROCESSING=1 DEBUG=Eleventy:*Benchmark* ELEVENTY_RUN_MODE=build eleventy"
   },
   "repository": {
     "type": "git",
@@ -52,15 +55,15 @@
     "@11ty/eleventy-img": "7.0.0",
     "@11ty/eleventy-plugin-rss": "3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.2",
+    "css-dedup": "1.13.0",
     "cross-env": "10.1.0",
+    "lightningcss": "1.33.0",
     "luxon": "^3.6.1",
     "markdown-it": "15.0.0",
     "netlify-plugin-cache": "1.0.3",
-    "netlify-redirector": "^0.5.0",
     "purgecss": "8.0.0"
   },
   "dependencies": {
-    "@awesome.me/buildawesome": "0.0.1",
     "eleventy-plugin-toc": "^1.1.5",
     "js-yaml": "5.2.3",
     "markdown-it-anchor": "9.2.1",
