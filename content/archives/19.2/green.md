@@ -1,7 +1,7 @@
 ---
 nanoid: "Ifm0AM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkgg6hd2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6acgfn2e'
 title: "Fetishism and the Erasure of Indigeneity."
 author: "Roger K. Green"
 affilation:

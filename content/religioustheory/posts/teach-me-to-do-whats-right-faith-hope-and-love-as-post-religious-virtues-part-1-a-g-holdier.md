@@ -1,7 +1,7 @@
 ---
 nanoid: "lArTfo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkdercr2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav655axm25'
 title: >-
   “Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious
   Virtues, Part 1 (A.G. Holdier)

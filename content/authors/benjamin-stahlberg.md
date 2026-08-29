@@ -1,6 +1,6 @@
 ---
 nanoid: "ub40Xa"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlnxkup2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7jfued2h'
 name: Benjamin Stahlberg
 affiliation: "Syracuse University"
 bio:

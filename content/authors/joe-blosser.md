@@ -1,6 +1,6 @@
 ---
 nanoid: "r2jh18"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlhrfod2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7d2pf32h'
 name: Joe Blosser
 affiliation: "High Point University"
 bio:

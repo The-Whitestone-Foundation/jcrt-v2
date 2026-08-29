@@ -1,7 +1,7 @@
 ---
 nanoid: "YeYtmE"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkcymjm2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav64qpta23'
 title: "The Broken Middle: Gillian Rose and Paul Against the Empty Sacrifices of Modernity."
 author: "Michael C. Raubach"
 affilation:

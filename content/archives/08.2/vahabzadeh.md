@@ -1,7 +1,7 @@
 ---
 nanoid: "eV3QQp"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkyqdiw23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6sm6fu25'
 title: "Measure and Democracy in the Age of Politics of Fright"
 author: "Peyman Vahabzadeh"
 affilation:

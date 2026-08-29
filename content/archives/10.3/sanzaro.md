@@ -1,7 +1,7 @@
 ---
 nanoid: "lbCK2n"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkvvh632h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ppwak2p'
 title: "God in the Gallery: a Christian Embrace of Modern Art"
 author: "Francis Sanzaro"
 affilation:

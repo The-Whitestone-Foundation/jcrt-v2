@@ -1,7 +1,7 @@
 ---
 nanoid: "U6KRNp"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkgh3qi2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ademf2p'
 title: "Apotheosis of the Nothing in Altizer’s Kenotic Atheology."
 author: "Elliot R. Wolfson"
 affilation:

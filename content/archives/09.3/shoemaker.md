@@ -1,7 +1,7 @@
 ---
 nanoid: "GxWYe-"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkxnvkp2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6riazb2n'
 title: "The Fire Spreads: Holiness and Pentecostalism in the American South"
 author: "Stephen P Shoemaker"
 affilation:

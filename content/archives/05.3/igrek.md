@@ -1,7 +1,7 @@
 ---
 nanoid: "kKgREe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl4l2w425'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6wm74b2n'
 title: "Impossible God: Derrida’s Theology"
 author: "Apple Zefelius Igrek"
 affilation:

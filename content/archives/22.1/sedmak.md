@@ -1,7 +1,7 @@
 ---
 nanoid: "VnVgRe"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkb2xxg2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav62jxvs2p'
 title: "Trauma in Emmanuel Levinas’ Writing Body"
 article_number:
 author: "Magdalena Sedmak"

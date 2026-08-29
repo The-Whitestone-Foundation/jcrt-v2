@@ -1,6 +1,6 @@
 ---
 nanoid: "B7smix"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlkfz2w23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7fsudc2s'
 name: Erin M McNellis
 affiliation: "University of California, Irvine"
 bio:

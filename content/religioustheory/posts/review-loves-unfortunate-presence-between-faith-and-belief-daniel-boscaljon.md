@@ -1,7 +1,7 @@
 ---
 nanoid: "23BGhs"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkp7dja2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6isw2v2p'
 title: >-
   Review – Love’s Unfortunate Presence between Faith and Belief (Daniel
   Boscaljon)

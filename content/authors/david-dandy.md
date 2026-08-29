@@ -1,6 +1,6 @@
 ---
 nanoid: "mFJjw9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztllopot2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7h6kyq23'
 name: David Dandy
 affiliation:
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "qkyAG1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl5uzsd2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ylhob2i'
 name: Xhercis Méndez
 affiliation: "SUNY, Oneonta"
 bio:

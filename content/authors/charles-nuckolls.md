@@ -1,6 +1,6 @@
 ---
 nanoid: "yyGyh_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztln3fix2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7iib3t2h'
 name: Charles Nuckolls
 affiliation: "Brigham Young University"
 bio:

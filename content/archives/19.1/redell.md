@@ -1,7 +1,7 @@
 ---
 nanoid: "ZqVEZZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkgkyu32i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ah4mx2u'
 title: "Altizer and Deleuze: Material Metaphysics for Disastrous Times."
 author: "Petra Carlsson Redell"
 affilation:

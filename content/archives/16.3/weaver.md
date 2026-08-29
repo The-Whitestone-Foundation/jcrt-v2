@@ -1,7 +1,7 @@
 ---
 nanoid: "ij9t6N"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztknttzl2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6hdv4z2n'
 title: "Badiou and Pauline Theology: Detecting a Theology of Death."
 author: "Taylor Weaver"
 affilation:

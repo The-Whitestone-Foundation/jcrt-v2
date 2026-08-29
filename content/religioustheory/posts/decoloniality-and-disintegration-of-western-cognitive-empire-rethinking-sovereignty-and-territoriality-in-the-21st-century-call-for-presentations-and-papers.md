@@ -1,7 +1,7 @@
 ---
 nanoid: "6rSNiV"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztke6dpd2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav65xlsn2p'
 title: >-
   Call For Presentations And Proposals – Decoloniality And Disintegration Of
   Western Cognitive Empire, Or Rethinking Sovereignty And Territoriality In The

@@ -1,6 +1,6 @@
 ---
 nanoid: "OKcOQv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlk4uxl2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7fjv7s2s'
 name: Fraser Macdonald
 affiliation: "University of Waikato"
 bio:

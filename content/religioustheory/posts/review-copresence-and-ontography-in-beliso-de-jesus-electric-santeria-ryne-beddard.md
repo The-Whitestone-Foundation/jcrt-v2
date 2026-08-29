@@ -1,7 +1,7 @@
 ---
 nanoid: "NYDcGF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztknerii2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6gvj5m25'
 title: >-
   Review – The Metaphysics of Copresence in Beliso-De Jesùs’ Electric Santeria
   (Ryne Beddard)

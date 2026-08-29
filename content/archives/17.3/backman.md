@@ -1,7 +1,7 @@
 ---
 nanoid: "6eO2hw"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztklltdl2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6f2v5h2f'
 title: "The One Is Not - on the Fate of Unity in Post-Metaphysical Philosophy."
 author: "Jussi Backman"
 affilation:

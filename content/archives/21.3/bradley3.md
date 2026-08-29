@@ -1,7 +1,7 @@
 ---
 nanoid: "s-VeFa"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkcjd6t2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav64ae5x2z'
 title: "Parenthesis"
 author: "Arthur Bradley"
 affilation:

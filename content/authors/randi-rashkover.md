@@ -1,6 +1,6 @@
 ---
 nanoid: "dNZZ_8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlbjx7w23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav74igkb2n'
 name: Randi Rashkover
 affiliation: "York College of Pennsylvania"
 bio:

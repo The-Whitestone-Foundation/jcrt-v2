@@ -1,7 +1,7 @@
 ---
 nanoid: "ue41sn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkjwfag2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ddycp2u'
 title: >-
   The Critique Of Theism – Kant, Hegel, Feuerbach, Nietzsche, Lecture 2
   (Johannes Zachhuber)

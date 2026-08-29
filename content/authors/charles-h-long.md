@@ -1,6 +1,6 @@
 ---
 nanoid: "NzOlGj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztln4cfp2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7ij6xd2g'
 name: Charles H Long
 affiliation: "University of North Carolina"
 bio:

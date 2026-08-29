@@ -1,7 +1,7 @@
 ---
 nanoid: "4WLZML"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk6hezm25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav5y7ttk2p'
 title: "Constructing Mystical Experiences: a Critique of the Mystical Paradigm in Psychedelic Research"
 author: "Hollis Phelps"
 affilation: Mercer University

@@ -1,6 +1,6 @@
 ---
 nanoid: "7Bc7DP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlkje6u2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7fwmet2g'
 name: Eric Trozzo
 affiliation: "Sabah Theological Seminary"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "r6IZvh"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztkiytxl2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6cf6ia2q'
 title: "How to Avoid the God Who Chooses: Denials."
 author: "Michael Oliver"
 affilation:

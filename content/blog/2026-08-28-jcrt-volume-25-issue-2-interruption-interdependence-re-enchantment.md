@@ -1,5 +1,6 @@
 ---
 nanoid: "XHISXK"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav5vtt7h2f'
 title: "JCRT Announces Volume 25, Issue 2: Interruption, Interdependence, and Re-Enchantment"
 description: "JCRT Volume 25, Issue 2 brings ten essays into conversation around political theology, materiality, ecology, consciousness, performance, Sufism, and re-enchantment."
 image: /images/25.2-cover-bhautik-patel.webp

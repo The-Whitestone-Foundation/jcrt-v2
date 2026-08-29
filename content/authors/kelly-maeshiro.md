@@ -1,6 +1,6 @@
 ---
 nanoid: "V2-Sb8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztlgdd6g2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7bn72n2p'
 name: Kelly Maeshiro
 affiliation: "Union Theological Seminary"
 bio:

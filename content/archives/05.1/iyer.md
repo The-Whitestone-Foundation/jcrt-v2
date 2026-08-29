@@ -1,7 +1,7 @@
 ---
 nanoid: "XhUftc"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztl5jycg2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6y7sln2e'
 title: "‘Write, Write’: Testimony, Judaism and the Infinite in Blanchot, Kofman and Levinas"
 author: "Lars Iyer"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "XIYEo5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztli6ybu25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7dj43w2h'
 name: Jeffrey F Keuss
 affiliation: "University of Glasgow"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "m08Zb1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mtztk5rb2x2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav5xirk72u'
 title: "Healing as Multimedia Practice: Contemporary Spirituality in Turkey"
 author: "Duygu Sendag"
 affilation:
