@@ -1,6 +1,6 @@
 ---
 nanoid: "FC6mCm"
-doi:
+doi: "10.17613/w11tp-4ds66"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxacftoq2p'
 title: "Three Philosophical Filmmakers: Hitchcock, Welles, Renoir"
 author: "Donna Bowman"

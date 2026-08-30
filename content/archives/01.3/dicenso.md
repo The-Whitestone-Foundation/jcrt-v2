@@ -1,6 +1,6 @@
 ---
 nanoid: "OnGARJ"
-doi:
+doi: "10.17613/gn1j8-mng50"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbpzzn22'
 article_number:
 volume: 1

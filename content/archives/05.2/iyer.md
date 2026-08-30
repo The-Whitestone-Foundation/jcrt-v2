@@ -1,6 +1,6 @@
 ---
 nanoid: "c19GsB"
-doi:
+doi: "10.17613/hxqgg-zwz11"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxafdukq2h'
 title: "Capitalism and Religion: the Price of Piety"
 author: "Lars Iyer"

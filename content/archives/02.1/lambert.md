@@ -1,6 +1,6 @@
 ---
 nanoid: "LL4gCb"
-doi:
+doi: "10.17613/b33b8-77r90"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbbwt226'
 article_number:
 volume: 2

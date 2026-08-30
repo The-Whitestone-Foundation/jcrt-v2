@@ -1,6 +1,6 @@
 ---
 nanoid: "4MUccs"
-doi:
+doi: "10.17613/retsx-mkv93"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbkn7o2w'
 article_number:
 volume: 1

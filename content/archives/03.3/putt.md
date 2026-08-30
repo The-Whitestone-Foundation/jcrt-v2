@@ -1,6 +1,6 @@
 ---
 nanoid: "ehFOUK"
-doi:
+doi: "10.17613/3abx9-9gz30"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6rqio2x'
 article_number:
 volume: 3

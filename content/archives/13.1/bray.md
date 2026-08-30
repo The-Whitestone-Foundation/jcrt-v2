@@ -1,6 +1,6 @@
 ---
 nanoid: "4hVqH4"
-doi:
+doi: "10.17613/e5vgb-0dg13"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa3nroo2n'
 title: "Exploring the Decolonial Imaginary: Four Transnational Lives."
 author: "Karen Bray"

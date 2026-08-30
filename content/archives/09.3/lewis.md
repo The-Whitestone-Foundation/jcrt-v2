@@ -1,6 +1,6 @@
 ---
 nanoid: "Gx3o4v"
-doi:
+doi: "10.17613/sn98d-w3840"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaa6pbv25'
 title: "Holy Superheroes!: Exploring the Sacred in Comics, Graphic Novels, and Film"
 author: "A Davis Lewis"

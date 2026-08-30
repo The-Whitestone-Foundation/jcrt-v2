@@ -1,6 +1,6 @@
 ---
 nanoid: "NeXbNk"
-doi:
+doi: "10.17613/r7m84-eys16"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7if4k25'
 article_number:
 volume: 3

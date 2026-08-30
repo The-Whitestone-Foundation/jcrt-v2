@@ -1,6 +1,6 @@
 ---
 nanoid: "fqpD6r"
-doi:
+doi: "10.17613/cxehe-h8g19"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccc53p2b'
 article_number:
 volume: 1

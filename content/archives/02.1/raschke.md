@@ -1,6 +1,6 @@
 ---
 nanoid: "S6oydM"
-doi:
+doi: "10.17613/yayh5-hmx40"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb4ov72l'
 article_number:
 volume: 2

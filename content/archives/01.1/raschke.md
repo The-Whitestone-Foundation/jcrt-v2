@@ -1,6 +1,6 @@
 ---
 nanoid: "vker-4"
-doi:
+doi: "10.17613/wqdn1-9t268"
 atproto:
 article_number: 01
 volume: 1

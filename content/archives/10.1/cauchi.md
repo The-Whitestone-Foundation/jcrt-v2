@@ -1,6 +1,6 @@
 ---
 nanoid: "HW-ecQ"
-doi:
+doi: "10.17613/jsppy-78096"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa72oab23'
 title: "The Secular to Come: Interrogating the Derridean ‘Secular’"
 author: "Mark Cauchi"

@@ -1,6 +1,6 @@
 ---
 nanoid: "eWWTN4"
-doi:
+doi: "10.17613/t48nq-ksx78"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa5gfhd2h'
 title: "Rethinking Fundamentalism: Ruhollah Knomeini, Mawlana Mawdudi, and the Fundamentalist Model"
 author: "Simon A Wood"

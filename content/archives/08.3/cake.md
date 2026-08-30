@@ -1,6 +1,6 @@
 ---
 nanoid: "EzjQKd"
-doi:
+doi: "10.17613/gn84j-3hn30"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxabt23o2z'
 title: "The Shadow of the Anti-Christ: Nietzsche’s Critique of Christianity"
 author: "A D C Cake"

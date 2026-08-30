@@ -1,6 +1,6 @@
 ---
 nanoid: "JDhNKe"
-doi:
+doi: "10.17613/1r4d2-zdx26"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6c7ie2e'
 article_number:
 volume: 4

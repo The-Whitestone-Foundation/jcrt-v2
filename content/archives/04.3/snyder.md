@@ -1,6 +1,6 @@
 ---
 nanoid: "WNRVjv"
-doi:
+doi: "10.17613/z1h1j-zv090"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c4ps7e2e'
 article_number:
 volume: 4

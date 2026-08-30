@@ -1,6 +1,6 @@
 ---
 nanoid: "ucBdeF"
-doi:
+doi: "10.17613/tj0j5-4wh98"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7wdjq2r'
 article_number:
 volume: 3

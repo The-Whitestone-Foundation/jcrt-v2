@@ -1,6 +1,6 @@
 ---
 nanoid: "o6QFsx"
-doi:
+doi: "10.17613/m1ccm-ej218"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxadqzms2e'
 title: "Death of a Discipline"
 author: "Matthew Waggoner"

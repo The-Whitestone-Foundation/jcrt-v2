@@ -1,6 +1,6 @@
 ---
 nanoid: "gtVAnh"
-doi:
+doi: "10.17613/q1pqj-5cs90"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5cycx2b'
 article_number:
 volume: 4

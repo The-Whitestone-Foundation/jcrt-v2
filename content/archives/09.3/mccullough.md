@@ -1,6 +1,6 @@
 ---
 nanoid: "KaidK0"
-doi:
+doi: "10.17613/edw9z-1kg83"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaa4pyf2i'
 title: "After God"
 author: "Lissa McCullough"

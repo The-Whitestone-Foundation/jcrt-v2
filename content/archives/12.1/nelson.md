@@ -1,6 +1,6 @@
 ---
 nanoid: "a8LO8T"
-doi:
+doi: "10.17613/2y346-tzy80"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa4vsto2z'
 title: "The Flesh Might Look Funny – If You Look at It"
 author: "Jennifer (Art Nelson"

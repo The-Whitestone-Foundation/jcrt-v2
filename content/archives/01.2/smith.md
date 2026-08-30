@@ -1,6 +1,6 @@
 ---
 nanoid: "hFghCo"
-doi:
+doi: "10.17613/8f8c3-kcb40"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc35gz27'
 article_number:
 volume: 1

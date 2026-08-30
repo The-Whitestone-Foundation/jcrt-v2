@@ -1,6 +1,6 @@
 ---
 nanoid: "Qiek-r"
-doi:
+doi: "10.17613/cstrd-7p049"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c75pb522'
 article_number:
 volume: 3

@@ -1,6 +1,6 @@
 ---
 nanoid: "2D7cN-"
-doi:
+doi: "10.17613/hnebc-tv943"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cazblb2c'
 article_number:
 volume: 2

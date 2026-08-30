@@ -1,6 +1,6 @@
 ---
 nanoid: "R_q3JK"
-doi:
+doi: "10.17613/nm6he-mqy64"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca7cid22'
 article_number:
 volume: 2

@@ -15,6 +15,18 @@ Developed by Adam DJ Brett
 ## Next Steps
 5. idea: use RT for book reviews
 6. add pagination to 24.2 and 25.1 pdfs
+7. **Apply the ORCID iDs.** Review `output/orcid-candidates.yaml`, set `confirm: true` on
+   accepted rows, run `node scripts/orcid-lookup.mjs --apply`. Suggested order: the 29 rows
+   whose reason says `ORCID record lists a JCRT work` (near-certain), then the rest of the
+   `high` rows, then the 17 `medium` by hand. Known-soft: `andrew-w-metcalfe`,
+   `james-c-james-craig-livingston`, `mark-murphy` are probably **wrong**; `simon-clark`
+   is borderline (shares only "london").
+8. **Sweep author affiliations for typos.** Auditing 109 rows found three. Where a `high`
+   ORCID match's institution disagrees with ours, one of the two is wrong.
+9. **Look for more duplicate author files.** The four found were surfaced by accident (two
+   slugs sharing one ORCID iD). A deliberate pass would likely find others.
+10. **Clean up orphaned AT Protocol records** for the four deleted author pages — local keys
+    are gone so the build passes, but nothing removed them from the PDS.
 
 ## EBSCO
 contact ebsco have link to pages or pdfs
@@ -23,6 +35,41 @@ contact ebsco have link to pages or pdfs
 
 ## CHANGELOG
 ~~1. check author pages especially mine prove they are working~~
+
+### 2026-08-30 — ORCID tooling, author dedup, OAI-PMH fix
+Full notes: `~/github/personal/jcrt-author-merge-and-orcid-notes.md`
+
+**Added `scripts/orcid-lookup.mjs`** — finds ORCID iDs for the 638 authors with no `orcid:`
+in front matter. Writes a reviewable report to `output/orcid-candidates.yaml`; it never
+edits content unless you pass `--apply`. Full pass: 105 high, 17 medium, 319 low, 197 none.
+
+```bash
+node scripts/orcid-lookup.mjs --deep     # regenerate the report (instant when cached)
+node scripts/orcid-lookup.mjs --apply    # write rows you marked `confirm: true`
+```
+
+**Fixed `/oai` identifying the journal as a person.** `repositoryName` was `"Victor Taylor"`,
+a hardcoded fallback in `scripts/generate-local-sitemaps.mjs` and `scripts/lib/oai-pmh.mjs`
+with `OAI_REPOSITORY_NAME` never set anywhere. Now `"Journal for Cultural and Religious
+Theory"`. The rest of the endpoint (all six verbs, resumption tokens across 1194 records)
+was checked and is healthy — `/oai` with no verb returning `badVerb` is correct behavior,
+not a bug. **Needs a deploy to reach the live endpoint.**
+
+**Merged four duplicate author records** onto the byline with the middle initial:
+`roger-green` + `rodger-k-green` → `roger-k-green` (16 items now on one page),
+`jason-alvis` → `jason-w-alvis`, `christopher-demuth-rodkey` → `christopher-d-rodkey`.
+Also: 20 bylines normalized, 4 dead `/authors/` links in issue bios repaired, 16 redirects
+added, affiliation typos fixed (`Lindenwood Uniiversity`, a stray leading `:`,
+`Udger Hagedorn`, and Richard Kearney who is at Boston College, not Boston University).
+
+> **Author slugs:** `_config/authorSlug.js` now has a `CANONICAL_SLUGS` map (the old
+> one-off `victor-e-taylor` case, generalized). Author pages are keyed by `authorSlug()` of
+> the **article byline**, not by the author file — see `_data/tagIndex.js:127`. If you
+> delete or rename an author file, add its old slug to that map or existing bylines will
+> link to a page that no longer builds.
+
+> **Deleting any content file:** remove its key from `_data/standardSiteRecords.yaml` too,
+> or `npm run standard:check` fails and `build:netlify` aborts.
 
 ## Needs
 ~~1. netlify integration~~

@@ -1,6 +1,6 @@
 ---
 nanoid: "R1IAlh"
-doi:
+doi: "10.17613/ezsgv-wap39"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c547qi2r'
 article_number:
 volume: 4

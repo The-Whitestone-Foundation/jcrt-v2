@@ -1,6 +1,6 @@
 ---
 nanoid: "tXINkd"
-doi:
+doi: "10.17613/az8yy-q0w12"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7casdrr27'
 article_number:
 volume: 2

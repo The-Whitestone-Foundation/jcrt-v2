@@ -1,6 +1,6 @@
 ---
 nanoid: "vJHshV"
-doi:
+doi: "10.17613/yakvx-e6c61"
 atproto:
 article_number: 08
 volume: 1

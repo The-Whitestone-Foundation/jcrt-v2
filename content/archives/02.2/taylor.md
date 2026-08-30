@@ -1,6 +1,6 @@
 ---
 nanoid: "3tu5L4"
-doi:
+doi: "10.17613/pge5s-hkc44"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cajqis25'
 article_number:
 volume: 2

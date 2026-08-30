@@ -1,6 +1,6 @@
 ---
 nanoid: "GIa3LQ"
-doi:
+doi: "10.17613/3dkc5-37m91"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaai23x2s'
 title: "Chosen"
 author: "Christopher D Rodkey"

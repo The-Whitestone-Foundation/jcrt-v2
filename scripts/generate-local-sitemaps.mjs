@@ -363,7 +363,9 @@ function generateOai(entries) {
       .filter(Boolean)
       .sort()[0] || today;
   const identify = {
-    repositoryName: String(process.env.OAI_REPOSITORY_NAME || "Victor Taylor").trim(),
+    repositoryName: String(
+      process.env.OAI_REPOSITORY_NAME || "Journal for Cultural and Religious Theory"
+    ).trim(),
     adminEmails: [String(process.env.OAI_ADMIN_EMAIL || "carl.raschke@jcrt.org").trim()],
     earliestDatestamp,
     deletedRecord: "no",

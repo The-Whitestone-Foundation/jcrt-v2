@@ -1,6 +1,6 @@
 ---
 nanoid: "jN40op"
-doi:
+doi: "10.17613/c71x5-2c116"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccfngn22'
 article_number:
 volume: 1

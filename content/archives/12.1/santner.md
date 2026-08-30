@@ -1,6 +1,6 @@
 ---
 nanoid: "SkWyOn"
-doi:
+doi: "10.17613/snpjs-fyp58"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa4tql22e'
 title: "Response"
 author: "Eric L Santner"

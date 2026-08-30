@@ -1,6 +1,6 @@
 ---
 nanoid: "MHvbii"
-doi:
+doi: "10.17613/6nqwb-bb360"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxadk5uy2h'
 title: "Encyclopedias and Other Things: Some Recent Theology"
 author: "Kevin Hart"

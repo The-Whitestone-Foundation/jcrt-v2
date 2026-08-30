@@ -1,6 +1,6 @@
 ---
 nanoid: "PfVORQ"
-doi:
+doi: "10.17613/aqe9f-w6658"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbvb2d22'
 article_number:
 volume: 1

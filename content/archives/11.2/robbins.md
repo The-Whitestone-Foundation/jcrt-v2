@@ -1,6 +1,6 @@
 ---
 nanoid: "LXB9uT"
-doi:
+doi: "10.17613/8fn1h-n6d57"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa5jat42q'
 title: "Operation Neptune Spear"
 author: "Jeffrey W Robbins"

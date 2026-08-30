@@ -1,6 +1,6 @@
 ---
 nanoid: "vWNXfT"
-doi:
+doi: "10.17613/acsf9-m1z57"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa7xvza2q'
 title: "Liberal Theology: a Radical Vision"
 author: "Jeffrey W Robbins"

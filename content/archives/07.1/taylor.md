@@ -1,6 +1,6 @@
 ---
 nanoid: "NFDMGH"
-doi:
+doi: "10.17613/mmer2-ktd06"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxactxy52i'
 title: "A Conversation with Slavoj ŽIŽEk"
 author: "Victor Taylor; Slavoj Žižek"

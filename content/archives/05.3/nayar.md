@@ -1,6 +1,6 @@
 ---
 nanoid: "NpaX8w"
-doi:
+doi: "10.17613/gp129-z4c58"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaeqn652u'
 title: "Me++: the Cyborg Self and the Networked City"
 author: "Pramod K Nayar"

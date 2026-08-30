@@ -1,6 +1,6 @@
 ---
 nanoid: "fRp0uk"
-doi:
+doi: "10.17613/ey2tb-q6n56"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa4fkam2q'
 title: "Spheres, Volume One: Bubbles."
 author: "Benjamin Fong"

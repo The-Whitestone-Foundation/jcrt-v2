@@ -1,6 +1,6 @@
 ---
 nanoid: "bg2gvt"
-doi:
+doi: "10.17613/fkp5v-4fc28"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c4t5pa2r'
 article_number:
 volume: 4

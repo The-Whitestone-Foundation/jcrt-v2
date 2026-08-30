@@ -1,6 +1,6 @@
 ---
 nanoid: "H74jbH"
-doi:
+doi: "10.17613/2nw77-1mc73"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaathgw2n'
 title: "Sovereignty: That Divine Ministry of the Affairs of Earthly Life"
 author: "Antonio Negri; Gabriele Fadini; Robert Valgenti"

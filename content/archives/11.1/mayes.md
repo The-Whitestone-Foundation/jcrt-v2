@@ -1,6 +1,6 @@
 ---
 nanoid: "3sUw03"
-doi:
+doi: "10.17613/yjgnd-as459"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa5vkxq2q'
 title: "The Violence of Care: an Analysis of Foucault’s Pastor"
 author: "Christopher Mayes"

@@ -1,6 +1,6 @@
 ---
 nanoid: "F3-Js5"
-doi:
+doi: "10.17613/yvc7j-m2h21"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxacux3i2p'
 title: "Another Investigation of Postcolonial Failure"
 author: "Bhrigupati Singh"

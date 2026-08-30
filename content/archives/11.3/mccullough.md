@@ -1,6 +1,6 @@
 ---
 nanoid: "YyS0mZ"
-doi:
+doi: "10.17613/2vbeq-d4p65"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa5aucv2u'
 title: "Strange Animal"
 author: "Lissa McCullough"

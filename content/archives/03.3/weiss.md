@@ -1,6 +1,6 @@
 ---
 nanoid: "5z4-n9"
-doi:
+doi: "10.17613/g3xfy-hsv13"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6j32j27'
 article_number:
 volume: 3

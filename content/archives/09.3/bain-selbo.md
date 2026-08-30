@@ -1,6 +1,6 @@
 ---
 nanoid: "rJe-kP"
-doi:
+doi: "10.17613/f3ssv-3c786"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaah3xi2h'
 title: "Two Reviews: Macintyre’s the Tasks of Philosophy and Ethics and Politics"
 author: "Eric Bain-Selbo"

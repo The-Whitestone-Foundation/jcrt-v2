@@ -284,7 +284,7 @@ function buildIdentifyDefaults(records, identify = {}) {
 	const sorted = sortRecords(records);
 	const earliest = identify.earliestDatestamp || normalizeDateOnly(sorted[0]?.datestamp) || "1999-01-01";
 	return {
-		repositoryName: identify.repositoryName || "Victor Taylor",
+		repositoryName: identify.repositoryName || "Journal for Cultural and Religious Theory",
 		adminEmails: asArray(identify.adminEmails).filter((value) => isNonEmpty(value)).length
 			? asArray(identify.adminEmails)
 			: ["carl.raschke@jcrt.org"],

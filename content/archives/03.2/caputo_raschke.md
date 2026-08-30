@@ -1,6 +1,6 @@
 ---
 nanoid: "HOIpb-"
-doi:
+doi: "10.17613/9bnts-46b27"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7k3wi2r'
 article_number:
 volume: 3

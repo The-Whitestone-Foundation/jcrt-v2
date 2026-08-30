@@ -1,6 +1,6 @@
 ---
 nanoid: "rdTpAM"
-doi:
+doi: "10.17613/khwpq-x7894"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbfg7w2w'
 article_number:
 volume: 1
