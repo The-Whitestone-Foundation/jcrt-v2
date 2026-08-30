@@ -1,6 +1,6 @@
 ---
 nanoid: "ZOWHLQ"
-doi:
+doi: "10.17613/91z8q-ptn16"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbesgpp2p'
 layout: archives.njk
 article_number: '15'

@@ -1,6 +1,6 @@
 ---
 nanoid: "wclGoo"
-doi:
+doi: "10.17613/d5pb0-by251"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbe5xg52z'
 layout: archives.njk
 article_number: '02'
