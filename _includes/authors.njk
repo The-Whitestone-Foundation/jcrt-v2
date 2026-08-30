@@ -35,8 +35,10 @@ layout: base.njk
               </a>
             </div>
           {% endif %}
-            <p>
-  {{ postsByAuthor.length }} Posts |
+            {# div, not <p>: browsers auto-close a <p> at <details> (flow content),
+               which forced the post count and the links dropdown onto separate lines. #}
+            <div class="d-flex align-items-baseline flex-wrap column-gap-2 mb-3">
+  <span>{{ postsByAuthor.length }} Posts |</span>
 
   {% if social %}
     {% if social.length > 1 %}
@@ -76,7 +78,7 @@ layout: base.njk
       {% endfor %}
     {% endif %}
   {% endif %}
-</p>
+</div>
 
             <p>
               {% if button %}
