@@ -1,7 +1,7 @@
 ---
 nanoid: "z7nyMq"
 doi: "10.17613/j7bpq-mcw24"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7gsam32h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbaa2c32q'
 title: "The Image of God and Our Vocation of the Soil"
 author: "Mick Pope"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "EUZbbu"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxawcnps2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf5bxeu2p'
 name: Brian Buchanan
 affiliation: "DePaul University "
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "ZxadyM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaqzaro2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucceotdqb2e'
 name: Jason Bivins
 affiliation: "North Carolina State University"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "yb1W_9"
 doi: "10.17613/npgn2-n3p18"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxab7g342q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccde7wq62p'
 title: "The Return of the Sacred Man: Politics, Fundamentalism and Fright"
 author: "William Little"
 affilation:

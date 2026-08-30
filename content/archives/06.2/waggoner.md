@@ -1,7 +1,7 @@
 ---
 nanoid: "o6QFsx"
 doi: "10.17613/m1ccm-ej218"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxadqzms2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdkzzao2p'
 title: "Death of a Discipline"
 author: "Matthew Waggoner"
 affiliation: Albertus Magnus College

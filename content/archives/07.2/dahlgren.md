@@ -1,7 +1,7 @@
 ---
 nanoid: "13FTUJ"
 doi: "10.17613/artv5-by993"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxacr3yh2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdielsu25'
 title: "Reflections on a Small Island: Hannah Arendt, Shakespeare’s the Tempest, and the Politics of Childhood"
 author: "Paul Dahlgren"
 affilation:

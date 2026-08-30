@@ -1,7 +1,7 @@
 ---
 nanoid: "JTtPL2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7y2ea525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccclfjpe2q'
 title: >-
   Review – Donovan Schaefer’s Call For a Materialist Turn In Religious Theory
   (Jonathan Russell)

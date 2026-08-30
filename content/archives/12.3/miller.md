@@ -1,7 +1,7 @@
 ---
 nanoid: "CL2oL0"
 doi: "10.17613/tdefx-b0w56"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa3w7cf2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccvvjsu2p'
 title: "Continental Divide: Heidegger, Cassirer, Davos."
 author: "Leslie C. Miller"
 affilation:

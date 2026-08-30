@@ -1,6 +1,6 @@
 ---
 nanoid: "BDBvIy"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaw4keg2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf4qfrp2f'
 name: Camelia Elias
 affiliation: "University of Southern Denmark—Odense"
 bio:

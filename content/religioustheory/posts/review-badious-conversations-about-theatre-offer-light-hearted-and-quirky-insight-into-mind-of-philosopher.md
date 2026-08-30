@@ -1,7 +1,7 @@
 ---
 nanoid: "QWnVMJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7xycuc2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccclae4j2h'
 title: >-
   Review – Badiou’s Conversations About Theatre Offer Light-Hearted And Quirky
   Insight Into Mind Of Philosopher (Ryne Beddard)

@@ -1,6 +1,6 @@
 ---
 nanoid: "VW7SLJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaqhuwn2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccen6l4n2z'
 name: Jochen Schmidt
 affiliation: "University of Paderborn, University of Bonn "
 bio:

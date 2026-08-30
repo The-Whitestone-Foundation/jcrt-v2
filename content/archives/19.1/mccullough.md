@@ -1,7 +1,7 @@
 ---
 nanoid: "uT9gbR"
 doi: "10.17613/kejea-prr03"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7os3r525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbtmr6m2h'
 title: "Apocalypticism as Political Theology."
 author: "Lissa McCullough"
 affilation:

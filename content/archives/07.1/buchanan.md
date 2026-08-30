@@ -1,7 +1,7 @@
 ---
 nanoid: "Vee9LY"
 doi: "10.17613/69z6c-kpe40"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxad6lrs2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdjkc7b2h'
 title: "Deleuze and Geophilosophy: a Guide and Glossary"
 author: "Brian Buchanan"
 affilation:

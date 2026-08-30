@@ -1,7 +1,7 @@
 ---
 nanoid: "y3TbZF"
 doi: "10.17613/57zr9-g0d89"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7tjnfq2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccatid42q'
 title: "Phenomenology, Hermeneutics and Scripture: Marion, Henry, and Falque on the Person of Christ."
 author: "Christina Gschwandtner"
 affilation:

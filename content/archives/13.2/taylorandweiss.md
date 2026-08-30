@@ -1,7 +1,7 @@
 ---
 nanoid: "b8j1kU"
 doi: "10.17613/qpbyj-hhg78"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa2t5ki2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccsuy6i23'
 title: The Cultural Un/life of Zombies
 author: Victor Taylor; Dennis M. Weiss
 affilation:

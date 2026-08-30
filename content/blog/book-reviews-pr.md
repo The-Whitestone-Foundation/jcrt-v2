@@ -1,7 +1,7 @@
 ---
 nanoid: "H4IAAV"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7esk6g2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccb2wmux2f'
 title: "Book Review Section Relaunched"
 description: "JCRT Relaunches Its Book Review Section, Inviting Graduate Students, Independent Scholars, and Faculty to Contribute"
 image: /images/jcrt-open-graph.webp

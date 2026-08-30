@@ -1,7 +1,7 @@
 ---
 nanoid: "irAeNv"
 doi: "10.17613/v9xd3-zrg04"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa3kypw2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccuwz4n2g'
 title: "Rewriting Exodus: American Futures from Du Bois to Obama."
 author: "Bo Eberle"
 affilation:

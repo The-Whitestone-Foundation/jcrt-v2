@@ -1,6 +1,6 @@
 ---
 nanoid: "jZ2Zmo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxawyjro2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf77d4f2g'
 name: Arthur Horowitz
 affiliation: "Pomona College"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "7b6UcE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxavpm7g2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf3nllu2p'
 name: Charles Taylor
 affiliation:
 bio:

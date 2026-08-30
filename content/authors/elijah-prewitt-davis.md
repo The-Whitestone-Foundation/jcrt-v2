@@ -1,6 +1,6 @@
 ---
 nanoid: "dt3oJ4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxatgsfj23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccevihyx2n'
 name: Elijah Prewitt-Davis
 affiliation: "Mount St. Joseph University, Drew University"
 bio:

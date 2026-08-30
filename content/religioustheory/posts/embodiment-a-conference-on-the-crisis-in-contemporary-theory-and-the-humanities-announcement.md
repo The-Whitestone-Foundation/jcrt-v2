@@ -1,7 +1,7 @@
 ---
 nanoid: "uChzaq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7jhaii2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbfsxut2q'
 title: >-
   Embodiment – A Conference On The Crisis In Contemporary Theory And The
   Humanities (Announcement)

@@ -1,7 +1,7 @@
 ---
 nanoid: "urxF6L"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7ubf5525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccccuyyu2q'
 title: 'Review – The Evangelicals: The Struggle to Shape America (Rebekah Gordon)'
 description: "*Fitzgerald, Francis. The Evangelicals: The Struggle to Shape America. New York City, New York: Simon & Schuster, 2017. ISBN-10: 1439131333. Hardcover"
 date: '2017-10-13T17:07:50.000Z'

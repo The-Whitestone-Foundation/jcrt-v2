@@ -1,6 +1,6 @@
 ---
 nanoid: "4S8_h7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxau2pwy2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccex6dn72n'
 name: Derek Cook
 affiliation: "Thompson Rivers University"
 bio:

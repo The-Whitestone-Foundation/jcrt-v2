@@ -1,6 +1,6 @@
 ---
 nanoid: "awCAFv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaw65yf2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf4vgz72n'
 name: Bryan S Rennie
 affiliation: "Wes tminster College"
 bio:

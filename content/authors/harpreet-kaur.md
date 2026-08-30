@@ -1,6 +1,6 @@
 ---
 nanoid: "JsZiOX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxas2svo2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccerstcg2p'
 name: Harpreet Kaur
 affiliation: "University of Maryland"
 bio:

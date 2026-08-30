@@ -1,7 +1,7 @@
 ---
 nanoid: "eALEaC"
 doi: "10.17613/ah9v6-dq531"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa5mu452u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccd2l4we2p'
 title: "Christ in Circulation: the Eucharistic Exchange and Money"
 author: "Geoffrey Holsclaw"
 affilation:

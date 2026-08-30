@@ -1,6 +1,6 @@
 ---
 nanoid: "9AM85r"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxanaraq2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccef47jx2f'
 name: Mark C Taylor
 affiliation: "Columbia University, Williams College"
 bio:

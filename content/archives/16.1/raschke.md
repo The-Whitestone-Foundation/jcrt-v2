@@ -1,7 +1,7 @@
 ---
 nanoid: "c7Gzw_"
 doi: "10.17613/wer9k-sb388"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7yvlgy2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccnn6oe2q'
 title: "The Civic Humanities and the Crisis of Neoliberalism."
 author: "Carl A. Raschke"
 affilation:

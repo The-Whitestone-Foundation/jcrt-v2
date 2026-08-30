@@ -1,6 +1,6 @@
 ---
 nanoid: "OW12vV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxalbsiw2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucce7tkll2q'
 name: Nick Sousanis
 affiliation:
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "uZHjkf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxax2gd62z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf7eean2g'
 name: Arne De Boever
 affiliation: "California Institute of the Arts"
 bio:

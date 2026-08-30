@@ -1,7 +1,7 @@
 ---
 nanoid: "m7BKxa"
 doi: "10.17613/2t0z6-gwk70"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxad2vi525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdjabk72f'
 title: "Bodies: the Exhibition"
 author: "Bruce Janz"
 affilation:

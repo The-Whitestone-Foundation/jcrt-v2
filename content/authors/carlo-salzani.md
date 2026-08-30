@@ -1,6 +1,6 @@
 ---
 nanoid: "TFU-qf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxavyu4525'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf4gie62u'
 name: Carlo Salzani
 affiliation: "Messerli Research Institute"
 bio:

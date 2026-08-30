@@ -1,7 +1,7 @@
 ---
 nanoid: "SNjjPw"
 doi: "10.17613/5rxg6-z2d22"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxabpbwn2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdfklxo2p'
 title: "Nihilism, and Emancipation: Ethics, Politics, Law"
 author: "Gavin Hyman"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "zsaF1W"
 doi: "10.17613/vs2wg-d9378"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaanro52u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdcqbfh2n'
 title: "An Extrinsic Eagleton?"
 author: "Roland Boer"
 affilation:

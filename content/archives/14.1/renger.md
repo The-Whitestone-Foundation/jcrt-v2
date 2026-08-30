@@ -1,7 +1,7 @@
 ---
 nanoid: "Zt1LVj"
 doi: "10.17613/q5mxb-stz26"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa2kvfy2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccs63hx2f'
 title: "Between History and Reason: Giambattista Vico and the Promise of Classical Myth."
 author: "Almut-Barbara Renger"
 affilation:

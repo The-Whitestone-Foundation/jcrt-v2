@@ -1,6 +1,6 @@
 ---
 nanoid: "Hkwg1y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxasp5a62g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccetk4ru2s'
 name: Frederick J Ruf
 affiliation: "Georgetown University"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "Tw1uQP"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7ht65n2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbcyj6j2h'
 title: >-
   Body Erotic –  John Boswell’s History Of Eurochristian Sexuality And The Case
   For Transcendental Somatics, Part 1 (Kieryn Wurts)

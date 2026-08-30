@@ -1,6 +1,6 @@
 ---
 nanoid: "2Yq4Ox"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxalsrnq2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccebdsym2s'
 name: Mick Pope
 affiliation: "Whitley College"
 bio:

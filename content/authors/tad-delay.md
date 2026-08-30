@@ -1,6 +1,6 @@
 ---
 nanoid: "UCB-eQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxahjcai2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdvumci23'
 name: Tad Delay
 affiliation: "Metropolitan State University of Denver"
 bio:

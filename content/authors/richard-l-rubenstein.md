@@ -1,6 +1,6 @@
 ---
 nanoid: "okY-3Q"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxajijko2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucce2yhhq23'
 name: Richard L. Rubenstein
 affiliation: "University of Bridgeport"
 bio:

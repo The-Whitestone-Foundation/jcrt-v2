@@ -1,7 +1,7 @@
 ---
 nanoid: "JUZbrp"
 doi: "10.17613/rk1kr-6xa63"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7kjvgc2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbikyt42p'
 title: "Book Forum: The Poetics of Disappearance"
 author: "Arthur Bradley"
 affilation:

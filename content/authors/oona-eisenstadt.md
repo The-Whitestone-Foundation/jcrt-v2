@@ -1,6 +1,6 @@
 ---
 nanoid: "XPDWQ6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaktshk2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucce6nr6x2n'
 name: Oona Eisenstadt
 affiliation: "Pomona College"
 bio:

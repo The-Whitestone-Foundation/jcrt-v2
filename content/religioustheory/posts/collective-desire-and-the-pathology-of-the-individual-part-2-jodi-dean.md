@@ -1,7 +1,7 @@
 ---
 nanoid: "fOPQ3f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7wf2cs2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccinhen2g'
 title: 'Collective Desire and the Pathology of the Individual, Part 2 (Jodi Dean)'
 description: "The following is the second installment of a two-part series. The first installment was published on October 10 and can be accessed here It highlights"
 date: '2016-10-19T02:40:47.000Z'

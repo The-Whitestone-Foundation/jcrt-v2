@@ -1,6 +1,6 @@
 ---
 nanoid: "eXcDic"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxav443v2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccf23dhr2h'
 name: Cyril Hovorun
 affiliation: "Loyola Marymount University"
 bio:

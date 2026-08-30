@@ -1,7 +1,7 @@
 ---
 nanoid: "7s0GwF"
 doi: "10.17613/38gka-tww87"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa27gdc2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccr6jru2p'
 title: "Humanizing Philosophy of Religion: on Language in Levinas and Sellars."
 author: "Martin Kavka"
 affilation:

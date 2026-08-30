@@ -1,6 +1,6 @@
 ---
 nanoid: "Qx7eXf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxascl4v2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccesh23j2h'
 name: George Quasha
 affiliation: "Barrytown, New York"
 bio:
