@@ -1,6 +1,6 @@
 ---
 nanoid: "l-YkT7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdan6522u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa7pzhu2q'
 title: "The Hinge of History, or Žižek’s “New Politics”"
 description: "Carl A. Raschke asks whether the 2008 financial crash marks a hinge of history, testing Žižek's call for a new politics against consumer capitalism today."
 date: '2008-10-17'

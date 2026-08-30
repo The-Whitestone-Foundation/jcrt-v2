@@ -1,7 +1,7 @@
 ---
 nanoid: "yv2kZI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbtsns42q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7mmxsn2u'
 title: 'Tsimtsum In Life Of Pi, Part 3 (Daniel Reiser)'
 description: "The following is the third of a four-part series. The first can be found here, the second here. Beyond the question of metaphor and reality, the greatest"
 date: '2020-12-15T05:31:14.000Z'
