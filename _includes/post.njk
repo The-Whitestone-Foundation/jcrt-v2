@@ -94,7 +94,7 @@ layout: base.njk
           {% if currentAuthor %}
             <article class="jcrt-author-card-mini h-card">
               <a href="{{ currentAuthor.url }}" class="jcrt-author-card-mini__media">
-                {% set currentAuthorImage = (currentAuthor.data.image | ensureImage('/images/jcrt.svg')) if currentAuthor.data.image else (metadata.files_url + '/images/jcrt.svg') %}
+                {% set currentAuthorImage = (currentAuthor.data.image | ensureImage('/images/jcrt.svg')) if currentAuthor.data.image else ('/images/jcrt.svg') %}
                 <img src="{{ currentAuthorImage | preferWebp }}"
                      data-fallback-src="{{ currentAuthorImage }}"
                      class="jcrt-author-card-mini__image u-photo"
@@ -102,7 +102,7 @@ layout: base.njk
                      {% imageAttrs currentAuthorImage, 300, 300 %}
                      loading="lazy"
                      decoding="async"
-                     onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt.svg';}"/>
+                     onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt.svg';}"/>
               </a>
               <div class="jcrt-author-card-mini__body">
                 <p class="jcrt-card-kicker">Author</p>

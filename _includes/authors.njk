@@ -14,9 +14,9 @@ layout: base.njk
 
         {% if postsByAuthor.length %}
           <div class="text-center text-secondary mb-5">
-            {% set authorProfileImage = (image | ensureImage('/images/jcrt.svg')) if image else (metadata.files_url + '/images/jcrt.svg') %}
+            {% set authorProfileImage = (image | ensureImage('/images/jcrt.svg')) if image else ('/images/jcrt.svg') %}
             <img class="img-thumb rounded-circle mb-3 reading-author-image" alt="{{ title }}" width="150" height="150"
-                 src="{{ authorProfileImage | preferWebp }}" data-fallback-src="{{ authorProfileImage }}" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt.svg';}"/>
+                 src="{{ authorProfileImage | preferWebp }}" data-fallback-src="{{ authorProfileImage }}" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt.svg';}"/>
             {% set authorMeta = affiliation or description %}
             {% if authorMeta %}
               <h2 class="h5 text-primary text-uppercase mb-3">{{ authorMeta }}</h2>

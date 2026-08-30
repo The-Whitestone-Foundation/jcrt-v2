@@ -14,7 +14,7 @@
 <div class="home-banner-frame">
 {% set heroImage = image | ensureImage('/images/jcrt.svg') %}
 {% set heroImagePreferred = heroImage | preferWebp %}
-<img class="img-fluid w-100 h-100" alt="{{title}}" src="{{heroImagePreferred}}" data-fallback-src="{{heroImage}}" {% imageAttrs heroImage, 1200, 1200 %} loading="eager" fetchpriority="high" decoding="async" style="object-fit: cover;" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt.svg';}"/>
+<img class="img-fluid w-100 h-100" alt="{{title}}" src="{{heroImagePreferred}}" data-fallback-src="{{heroImage}}" {% imageAttrs heroImage, 1200, 1200 %} loading="eager" fetchpriority="high" decoding="async" style="object-fit: cover;" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt.svg';}"/>
 </div>
 </div>
 {% endif %}

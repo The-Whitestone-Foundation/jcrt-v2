@@ -11,7 +11,7 @@ layout: base.njk
     <div class="jcrt-card-grid jcrt-card-grid--authors">
       {% for a in collections.authors %}
         {% set authorName = a.data.name or a.data.title %}
-        {% set authorThumb = (a.data.image | ensureImage('/images/jcrt.svg')) if a.data.image else (metadata.files_url + '/images/jcrt.svg') %}
+        {% set authorThumb = (a.data.image | ensureImage('/images/jcrt.svg')) if a.data.image else ('/images/jcrt.svg') %}
         <article class="jcrt-card jcrt-author-card h-card">
           <a class="jcrt-card-media p-url" href="{{ a.url }}" title="{{ authorName }}">
             <img class="jcrt-card-image u-photo"
@@ -21,7 +21,7 @@ layout: base.njk
                  {% imageAttrs authorThumb, 300, 300 %}
                  loading="lazy"
                  decoding="async"
-                 onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt.svg';}"/>
+                 onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt.svg';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt.svg';}"/>
           </a>
           <div class="jcrt-card-body">
             <h2 class="jcrt-card-title">

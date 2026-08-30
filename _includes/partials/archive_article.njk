@@ -40,7 +40,7 @@
         <h1 class="jcrt-article-title p-name">{{ (jsonEntry.title or title) | mdInline | safe }}</h1>
 
         {% if isIssueIndex %}
-          {% set issueImage = (image | ensureImage('/images/jcrt-open-graph.webp')) if image else (metadata.files_url + '/images/logos/JCRT.svg') %}
+          {% set issueImage = (image | ensureImage('/images/jcrt-open-graph.webp')) if image else ('/images/logos/jcrt.svg') %}
           {% set issueImageWidth = issue_image_width %}
           {% set issueImageHeight = issue_image_height %}
           <figure class="jcrt-article-media">
