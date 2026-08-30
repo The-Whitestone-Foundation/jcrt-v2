@@ -1,7 +1,7 @@
 ---
 nanoid: "OoxBck"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hdo56t2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboclcyez2i'
 title: 'The Hollow Christians Of End Times Fiction, Part 2 (Paul Maltby)'
 description: "The following is the second of a three-part series. The first can be found here. End Times fiction’s unrelenting focus on human sinfulness and unworthiness, a"
 date: '2020-02-25T00:35:12.000Z'

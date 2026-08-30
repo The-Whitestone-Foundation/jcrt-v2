@@ -1,7 +1,7 @@
 ---
 nanoid: "uV9CVg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hnttwg25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodbzoze2g'
 title: 'Biopolitics and Vajrayana Buddhism, Part 3 (Padraic Fitzgerald)'
 description: "The following is the third and final installment in a three-part series. The first installment was published on May 27, 2016 and can be found here It highlights"
 date: '2016-06-21T21:55:17.000Z'

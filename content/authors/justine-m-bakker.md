@@ -1,6 +1,6 @@
 ---
 nanoid: "3-yNM7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5iepuvl2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboezzd2e2g'
 name: Justine M. Bakker
 affiliation: "Radboud University Nijmegen"
 bio:

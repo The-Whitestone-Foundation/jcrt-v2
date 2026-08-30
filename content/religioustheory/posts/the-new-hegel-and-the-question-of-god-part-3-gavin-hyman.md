@@ -1,7 +1,7 @@
 ---
 nanoid: "lTao9S"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hfaob625'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocp5jyq2q'
 title: 'The “New Hegel” And The Question Of God, Part 3 (Gavin Hyman)'
 description: "The following is the last installment of a three-part series. The first one can be found here. The second one can be found here. As Thomas A As Thomas A."
 date: '2019-06-08T21:04:09.000Z'

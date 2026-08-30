@@ -1,6 +1,6 @@
 ---
 nanoid: "lUk7ra"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hvrsuw25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodvmc2b2i'
 title: "The JCRT Now Has a Blog"
 description: "JCRT announces JCRT Live, a blog for editors, contributors, and invited participants to discuss current questions in cultural and religious theory online."
 date: '2008-08-21'

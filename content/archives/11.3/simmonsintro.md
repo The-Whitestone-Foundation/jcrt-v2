@@ -1,7 +1,7 @@
 ---
 nanoid: "tKZIr5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5ht4lfq2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodp3z3u23'
 title: "Reading With Drew M. Dalton: A Constructive Review - Symposium on Longing for the Other: Levinas and Metaphysical Desire"
 author: "J. Aaron Simmons"
 affilation:

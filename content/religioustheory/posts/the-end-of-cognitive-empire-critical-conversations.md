@@ -1,7 +1,7 @@
 ---
 nanoid: "ps0j18"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hcxy6u2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocjo73l2h'
 title: “The End Of Cognitive Empire” (Critical Conversations)
 description: "The following is the video and transcript of the first of “Critical Conversations”, a monthly Zoom seminar with advance registration sponsored by The New Polis"
 date: '2020-09-09T04:32:47.000Z'
