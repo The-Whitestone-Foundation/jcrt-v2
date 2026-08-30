@@ -1,6 +1,6 @@
 ---
 nanoid: "ghKv-n"
-doi:
+doi: "10.17613/d1yx5-1zw44"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbh7pjf2i'
 title: "Faith and Transitions: Religious Notions of Accountability and Gender Affirming Care for Youth"
 author: "Kev Grane"

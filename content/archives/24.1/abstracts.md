@@ -1,6 +1,6 @@
 ---
 nanoid: "8IRX45"
-doi:
+doi: "10.17613/fqbat-bdr93"
 title: Abstracts
 author: editors
 affilation:

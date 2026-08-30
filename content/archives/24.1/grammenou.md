@@ -1,6 +1,6 @@
 ---
 nanoid: "LLSXSw"
-doi:
+doi: "10.17613/xt4dw-k6106"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbhbxlb2f'
 title: "Suffering and Dying in Modern Pandemics: a Parallel Reading of Ivan Illich, Giorgio Agamben and Byung-Chul Han"
 author: "Iria Grammenou"
