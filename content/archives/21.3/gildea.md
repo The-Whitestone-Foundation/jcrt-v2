@@ -1,7 +1,7 @@
 ---
 nanoid: "--HFC4"
-doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbohiau2q'
+doi: "10.17613/tdka8-pdz77"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7kcbkt2h'
 title: "Parenthesis"
 author: "Niall Gildea"
 affilation:

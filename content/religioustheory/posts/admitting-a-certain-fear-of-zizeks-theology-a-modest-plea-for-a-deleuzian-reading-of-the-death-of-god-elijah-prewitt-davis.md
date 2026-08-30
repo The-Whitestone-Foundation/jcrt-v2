@@ -1,7 +1,7 @@
 ---
 nanoid: "8rchaD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtc7q6ts2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7rq5if2u'
 title: >-
   Admitting A Certain Fear of Zizek’s Theology – A Modest Plea For A Deleuzian
   Reading Of The Death Of God (Elijah Prewitt-Davis)

@@ -1,6 +1,6 @@
 ---
 nanoid: "0BQ7r9"
-doi:
+doi: "10.17613/m721s-j5t69"
 author: editors
 title: Author bios
 affilation:

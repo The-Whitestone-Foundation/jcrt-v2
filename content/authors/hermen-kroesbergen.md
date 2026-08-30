@@ -1,6 +1,6 @@
 ---
 nanoid: "n7jYCY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubten2pk62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxarxjgo2f'
 name: Hermen Kroesbergen
 affiliation: "Theological Academic Institute of the Protestant Church in the Netherlands"
 bio:

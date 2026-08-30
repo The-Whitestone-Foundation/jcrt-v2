@@ -1,6 +1,6 @@
 ---
 nanoid: "uhmwBw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtevuxmr2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxavlgdf2q'
 name: Christina M. Gschwandtner
 affiliation:
 bio:

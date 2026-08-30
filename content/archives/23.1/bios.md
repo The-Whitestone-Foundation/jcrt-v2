@@ -1,6 +1,6 @@
 ---
 nanoid: "JkLUvq"
-doi:
+doi: "10.17613/rbgd7-g8v92"
 author: editors
 title: Author Bios
 affilation:

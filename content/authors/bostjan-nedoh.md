@@ -1,6 +1,6 @@
 ---
 nanoid: "-nn5FP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubteyf7yb2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxawifca2h'
 name: Boštjan Nedoh
 affiliation: "Slovenian Academy of Sciences and Arts"
 bio:

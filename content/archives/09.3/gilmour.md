@@ -1,7 +1,7 @@
 ---
 nanoid: "LLtKJn"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdbzsyo2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaadkio2g'
 title: "The Parables of Dr. Seuss"
 author: "Michael J Gilmour"
 affilation:

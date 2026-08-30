@@ -1,7 +1,7 @@
 ---
 nanoid: "5nbuSW"
-doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbpbtes23'
+doi: "10.17613/2hqpp-2xc50"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7kmpbc2p'
 title: "A Response to Niall Gildea."
 author: "Arthur Bradley"
 affilation:

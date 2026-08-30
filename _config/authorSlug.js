@@ -33,6 +33,21 @@ export function splitAuthors(authorField) {
 		.filter(Boolean);
 }
 
+/**
+ * Several contributors are bylined more than one way across the archive
+ * ("Jason Alvis" and "Jason W. Alvis" are the same person). Left alone, each
+ * spelling builds its own author page holding a fraction of their work, so we
+ * fold every variant onto one canonical slug -- the form with the middle
+ * initial. Article front matter keeps whatever byline the issue printed; only
+ * the slug is normalized.
+ */
+const CANONICAL_SLUGS = new Map([
+	["victor-e-taylor", "victor-taylor"],
+	["christopher-demuth-rodkey", "christopher-d-rodkey"],
+	["jason-alvis", "jason-w-alvis"],
+	["roger-green", "roger-k-green"],
+]);
+
 export function authorSlug(name) {
 	if (!name) return "";
 	let value = String(name).trim();
@@ -63,5 +78,5 @@ export function authorSlug(name) {
 	// Only keep the 26 english letters; everything else becomes a hyphen.
 	value = value.replace(/[^a-z]+/g, "-");
 	value = value.replace(/-+/g, "-").replace(/^-|-$/g, "");
-	return value === "victor-e-taylor" ? "victor-taylor" : value;
+	return CANONICAL_SLUGS.get(value) || value;
 }

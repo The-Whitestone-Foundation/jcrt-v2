@@ -1,6 +1,6 @@
 ---
 nanoid: "HelK6o"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtecx2bk23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxanxxfo2z'
 name: Lora Stone
 affiliation: "University of New Mexico"
 bio:

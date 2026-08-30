@@ -1,6 +1,6 @@
 ---
 nanoid: "MjqLgF"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtexfkb42q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaw3l2i2p'
 name: Camille Grace Leon Angelo
 affiliation:
 bio:

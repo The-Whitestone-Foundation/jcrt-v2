@@ -1,7 +1,7 @@
 ---
 nanoid: "OqDwON"
-doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtblrt6n2p'
+doi: "10.17613/vsppw-rbc20"
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7j47k62n'
 title: "The Sacred as Bordering Practice"
 author: "Anna-Maria Edlinger"
 affilation:

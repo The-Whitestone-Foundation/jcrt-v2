@@ -1,8 +1,8 @@
 ---
 nanoid: "OC2-j2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdwoaz72h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxaivo2525'
 name: Roger K Green
-affiliation: "Metropolitan State University"
+affiliation: "Metropolitan State University, University of Denver"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 nanoid: "XMZxvE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubteutbhn2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxav52gx2s'
 name: Curtis L Thompson
 affiliation: "Thi el College"
 bio:

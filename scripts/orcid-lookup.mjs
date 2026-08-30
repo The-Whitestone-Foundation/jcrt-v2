@@ -111,14 +111,43 @@ function orgTokens(text) {
 	);
 }
 
+/**
+ * Token overlap alone is not enough: "University of New South Wales" and "All
+ * Wales Higher Surgical Training Programme" share a token but are not the same
+ * place. So we also require the two names to be substantially the SAME name --
+ * measured as shared/union over distinctive tokens. A single incidental token
+ * inside two otherwise-different names scores as weak, not as a match.
+ *
+ * The JCRT `affiliation` field is often a comma-separated list of several
+ * institutions, so each segment is compared separately and the best wins.
+ */
 function institutionOverlap(affiliation, institutionNames) {
-	const want = orgTokens(affiliation);
-	let best = { score: 0, matched: null };
-	if (want.size === 0) return best;
+	const segments = String(affiliation || "")
+		.split(",")
+		.map((seg) => orgTokens(seg))
+		.filter((set) => set.size > 0);
+	const whole = orgTokens(affiliation);
+	if (whole.size) segments.push(whole);
+
+	let best = { score: 0, matched: null, shared: [], ratio: 0, strong: false };
 	for (const inst of institutionNames || []) {
 		const have = orgTokens(inst);
-		const hits = [...want].filter((t) => have.has(t));
-		if (hits.length > best.score) best = { score: hits.length, matched: inst };
+		if (!have.size) continue;
+		for (const want of segments) {
+			const shared = [...want].filter((t) => have.has(t));
+			if (!shared.length) continue;
+			const union = new Set([...want, ...have]).size;
+			const ratio = shared.length / union;
+			if (ratio > best.ratio || (ratio === best.ratio && shared.length > best.score)) {
+				best = {
+					score: shared.length,
+					matched: inst,
+					shared,
+					ratio,
+					strong: ratio >= 0.5 || shared.length >= 2,
+				};
+			}
+		}
 	}
 	return best;
 }
@@ -213,9 +242,15 @@ function scoreCandidate(author, parsed, result) {
 	}
 
 	const inst = institutionOverlap(author.affiliation, institutions);
-	if (inst.score > 0) {
+	if (inst.strong) {
 		score += 3 + Math.min(inst.score - 1, 2);
 		reasons.push(`affiliation matches "${inst.matched}"`);
+	} else if (inst.score > 0) {
+		score += 1;
+		reasons.push(
+			`affiliation only loosely matches "${inst.matched}" ` +
+				`(shares just ${inst.shared.map((t) => `"${t}"`).join(", ")}) — verify by hand`
+		);
 	} else if (author.affiliation && institutions.length) {
 		reasons.push("no affiliation overlap");
 	} else if (!institutions.length) {

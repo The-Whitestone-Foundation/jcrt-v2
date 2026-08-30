@@ -1,6 +1,6 @@
 ---
 nanoid: "7hRvgj"
-doi:
+doi: "10.17613/42knj-bas57"
 author: editors
 title: Author Bios
 affilation:

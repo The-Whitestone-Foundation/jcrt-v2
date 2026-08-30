@@ -1,6 +1,6 @@
 ---
 nanoid: "kzJlHY"
-doi:
+doi: "10.17613/tskns-wvv21"
 author: editors
 title: Author Bios
 affilation:

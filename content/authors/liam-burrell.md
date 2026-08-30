@@ -1,6 +1,6 @@
 ---
 nanoid: "oXvMs-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtedesgw2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxao5tyq2h'
 name: Liam Burrell
 affiliation: ""
 bio:

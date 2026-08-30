@@ -1,6 +1,6 @@
 ---
 nanoid: "SimlJd"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtevat4p25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxavdcpk2p'
 name: Clayton Crockett
 affiliation: "University of Central Arkansas, Wesley College, College of William and Mary"
 bio:

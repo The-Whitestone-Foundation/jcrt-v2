@@ -1,7 +1,7 @@
 ---
 nanoid: "xZ2b2J"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdh2phf2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxacgtfq2q'
 title: "America and the Challenges of Religious Diversity"
 author: "Robert E Alvis"
 affilation:

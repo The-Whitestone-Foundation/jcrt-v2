@@ -1,7 +1,7 @@
 ---
 nanoid: "uWAqux"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtctjqe52p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa2eeqd2h'
 title: "God and Argument."
 author: "Scott F. Aikin"
 affilation:

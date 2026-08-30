@@ -1,6 +1,6 @@
 ---
 nanoid: "tCe0Vj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubte7uzmx2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxamoaew2g'
 name: Matthew Chrulew
 affiliation: "Macquarie University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "0K6XVQ"
-doi:
+doi: "10.17613/xgf70-pdf10"
 author: editors
 title: Author Bios
 affilation:
