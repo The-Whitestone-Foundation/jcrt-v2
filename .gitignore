@@ -14,7 +14,6 @@ public/citations/
 
 # Binary assets now served from files.jcrt.org
 public/images/**/*.webp
-!public/images/logos/standard-site-icon.webp
 public/images/**/*.jpg
 public/images/**/*.jpeg
 public/images/**/*.png
@@ -22,6 +21,13 @@ public/images/**/*.gif
 public/images/**/*.tif
 public/images/**/*.tiff
 public/images/**/*.ico
+
+# ...except brand and fallback assets, which must survive a files.jcrt.org outage.
+# These are the icons and the placeholder that the image-fallback chain in
+# _includes/base.njk terminates on — hosting them on the CDN they are meant to
+# back up meant the fallback failed with the primary. Total ~110 KB.
+!public/images/logos/**
+!public/images/**/jcrt*
 content/archives/**/*.pdf
 content/archives/**/*.jpg
 content/archives/**/*.jpeg
