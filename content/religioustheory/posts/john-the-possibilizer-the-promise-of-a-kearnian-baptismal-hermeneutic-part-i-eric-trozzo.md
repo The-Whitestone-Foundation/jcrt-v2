@@ -9,7 +9,7 @@ description: "The wild hair, the scratchy clothing, the grit and body odor, and 
 date: '2018-01-21T21:20:32.000Z'
 author: Eric Trozzo
 image: >-
-  /images/2018/01/style-head_of_saint_john_the_baptist_by_an_anonymous_spanish_painter_c-_1600-1650_cleveland_museum_of_art-ballpoint-0-4mp.webp
+  /images/2018/01/style-head-of-saint-john-the-baptist-by-an-anonymous-spanish-painter-c-1600-1650-cleveland-museum-of-art-ballpoint-0-4mp.webp
 categories:
   - Philosophy of Religion
   - Religious Studies
