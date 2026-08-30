@@ -64,7 +64,10 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23bf232e' d='M0 0h256v256H0zm256 256h256v256H256z'/%3E%3Cpath d='M256 0h256v256H256zM0 256h256v256H0z'/%3E%3C/svg%3E" sizes="any" />
 <link rel="icon" type="image/webp" href="{{ metadata.files_url }}/images/logos/favicon-96x96.webp" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="{{ metadata.files_url }}/images/logos/favicon.svg" />
+{# Served from this origin, not files.jcrt.org: public/images/logos/favicon.svg is
+   git-tracked and ships in the deploy, so the primary favicon survives a CDN outage.
+   The 96x96 and apple-touch variants stay on the CDN — no tracked local copy exists. #}
+<link rel="icon" type="image/svg+xml" href="/images/logos/favicon.svg" />
 <link rel="apple-touch-icon" sizes="180x180" href="{{ metadata.files_url }}/images/logos/apple-touch-icon.webp" />
 <meta name="apple-mobile-web-app-title" content="{{ metadata.title }}" />
 <script>
@@ -151,6 +154,10 @@
   .btn-primary { background: #b42318; color: #fff; border: 1px solid #b42318; }
   img { max-width: 100%; height: auto; }
 </style>
+{# Every content image, favicon, og:image and the homepage LCP hero are served from
+   files.jcrt.org, so warm the connection before the first image request. #}
+<link rel="preconnect" href="{{ metadata.files_url }}" crossorigin>
+<link rel="dns-prefetch" href="{{ metadata.files_url }}">
 {% set versionedAssetSuffix = "?v=" ~ assetVersion %}
 <link href="/css/bs.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
 <link rel="preload" href="/css/index.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">

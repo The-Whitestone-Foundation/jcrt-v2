@@ -99,11 +99,21 @@ export default function sitemapIndex() {
 		});
 	}
 
-	// Always include the external search sitemap
+	// Always include the external search sitemap.
+	// Its lastmod comes from the sibling `jcrt-files` checkout, which exists on a
+	// maintainer's workstation but never on CI — there the value silently degrades to
+	// "today". Say so once per build rather than emitting a wrong date quietly.
+	const searchSitemapFile = path.join(JCRT_FILES_METADATA, "search-sitemap.xml");
+	const searchSitemapLastmod = getFileLastmodOrEmpty(searchSitemapFile);
+	if (!searchSitemapLastmod) {
+		console.warn(
+			`[sitemapIndex] ${searchSitemapFile} not found; using today's date as lastmod for ${EXTERNAL_SEARCH_SITEMAP_URL}`
+		);
+	}
 	entries.push({
 		loc: EXTERNAL_SEARCH_SITEMAP_URL,
 		path: EXTERNAL_SEARCH_SITEMAP_URL,
-		lastmod: getFileLastmodOrEmpty(path.join(JCRT_FILES_METADATA, "search-sitemap.xml")) || fallbackLastmod,
+		lastmod: searchSitemapLastmod || fallbackLastmod,
 	});
 
 	// Always include local metadata sitemaps

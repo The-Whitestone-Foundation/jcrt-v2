@@ -2314,3 +2314,21 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
         overflow-wrap: break-word;
     }
 }
+
+/* Duotrope badge: self-hosted, CSS-only hover swap. Replaces a cdn.duotrope.com <img>
+   that carried ~1.5 KB of inline onerror/onmouseover/onmouseout handlers on every page. */
+.duotrope-badge {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    background-image: url("/badges/duotrope-black.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.duotrope-badge:hover,
+.duotrope-badge:focus-visible {
+    background-image: url("/badges/duotrope-white.webp");
+}

@@ -38,6 +38,10 @@
 [[edge_functions]]
   function = "allow-indexing-bots"
   path = "/*"
+  # Static assets never need this function. Without the exclusion these three /*
+  # functions all execute on every CSS, JS, image and Pagefind request, stacking three
+  # edge invocations in front of files that could otherwise be served straight from CDN.
+  excludedPath = ["/css/*", "/js/*", "/fonts/*", "/badges/*", "/pagefind/*", "/images/*", "/favicon.ico"]
 
 [[edge_functions]]
   function = "oai-pmh"
@@ -54,6 +58,10 @@
 [[edge_functions]]
   function = "query-canonical-redirects"
   path = "/*"
+  # Static assets never need this function. Without the exclusion these three /*
+  # functions all execute on every CSS, JS, image and Pagefind request, stacking three
+  # edge invocations in front of files that could otherwise be served straight from CDN.
+  excludedPath = ["/css/*", "/js/*", "/fonts/*", "/badges/*", "/pagefind/*", "/images/*", "/favicon.ico"]
 
 [[edge_functions]]
   function = "archive-legacy-redirects"
@@ -76,41 +84,13 @@
   path = "/docs/*"
 
 [[edge_functions]]
-function = "markdown-for-agents"
-path = "/*"
+  function = "markdown-for-agents"
+  path = "/*"
+  # Static assets never need this function. Without the exclusion these three /*
+  # functions all execute on every CSS, JS, image and Pagefind request, stacking three
+  # edge invocations in front of files that could otherwise be served straight from CDN.
+  excludedPath = ["/css/*", "/js/*", "/fonts/*", "/badges/*", "/pagefind/*", "/images/*", "/favicon.ico"]
 
-# Cache headers for static assets
-[[headers]]
-  for = "/css/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "/js/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "/images/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-    Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS"
-    Access-Control-Allow-Headers = "Content-Type, Accept, Range"
-    Access-Control-Expose-Headers = "Content-Length, Content-Range, ETag"
-
-[[headers]]
-  for = "/fonts/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-    Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS"
-    Access-Control-Allow-Headers = "Content-Type, Accept, Range"
-    Access-Control-Expose-Headers = "Content-Length, Content-Range, ETag"
-
-[[headers]]
-  for = "/images/logos/site.webmanifest"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS"
-    Access-Control-Allow-Headers = "Content-Type, Accept, Range"
+# Cache-Control and CORS for static assets live in `public/_headers` (single source of
+# truth). Defining them here too produced two conflicting rules for /css/*, /js/* and
+# /images/* with undefined precedence.

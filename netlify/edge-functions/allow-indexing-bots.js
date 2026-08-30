@@ -92,10 +92,13 @@ const RANGE_SOURCES = [
   },
 ];
 
-// rangeMap is built once per isolate then reused
+// rangeMap is refreshed once per isolate then reused. `currentRangeMap` always holds a
+// usable map — it starts as the static fallback and is swapped in place when the network
+// refresh lands, so the request path never has to await it.
 let rangeMapPromise = null;
+let currentRangeMap = structuredClone(STATIC_RANGES);
 
-function buildRangeMap() {
+function refreshRangeMap() {
   if (rangeMapPromise) return rangeMapPromise;
 
   rangeMapPromise = (async () => {
@@ -112,10 +115,23 @@ function buildRangeMap() {
         }
       }),
     );
+    currentRangeMap = map;
     return map;
   })();
 
   return rangeMapPromise;
+}
+
+// Never awaited in the request path. Awaiting the two upstream fetches meant the first
+// bot request per isolate blocked on developers.google.com and openai.com before the
+// response could start — and isolates recycle, so that cost recurred indefinitely.
+// The first request now verifies against the static ranges and schedules the refresh.
+function getRangeMap(context) {
+  if (!rangeMapPromise) {
+    const pending = refreshRangeMap().catch(() => {});
+    context?.waitUntil?.(pending);
+  }
+  return currentRangeMap;
 }
 
 // ─── Bot registry ─────────────────────────────────────────────────────────────
@@ -146,7 +162,7 @@ export default async function allowIndexingBots(request, context) {
 
   if (!bot.uaOnly && ip) {
     try {
-      const rangeMap = await buildRangeMap();
+      const rangeMap = getRangeMap(context);
       const ranges   = bot.rangeKeys.flatMap(k => rangeMap[k] ?? []);
       verified = ranges.length > 0 && ranges.some(cidr => cidrContains(cidr, ip));
     } catch {

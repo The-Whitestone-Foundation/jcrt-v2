@@ -2,6 +2,12 @@
 layout: base.njk
 title: Tags & Categories Archive
 permalink: /religioustheory/taxonomy/index.html
+# This page renders every post under every category AND every tag, producing ~14.6 MB of
+# HTML. It is a navigation index whose targets are all individually indexed, so keeping it
+# out of the search index and out of crawlers avoids a 14.6 MB crawl and a large block of
+# duplicate Pagefind fragments. The URL and the page itself stay exactly as they were.
+searchIndex: false
+robots: "noindex, follow"
 ---
 
 <div class="collection-shell collection-shell--theory-taxonomy">

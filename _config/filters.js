@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import { DateTime } from "luxon";
 
 export default function(eleventyConfig) {
@@ -194,13 +196,37 @@ eleventyConfig.addFilter("unique", function(array) {
             return Array.isArray(tags) ? tags.includes(tag) : tags === tag;
         });
     });
-eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
-  const date = new Date(dateObj);
-  if (isNaN(date.getTime())) {
-    return new Date().toISOString();
+// Every caller in content/sitemaps/ passes `page.inputPath` / `entry.inputPath` — a path
+// string, not a date. `new Date("./content/...")` is NaN, so this used to fall through to
+// `new Date()` and stamp every sitemap <lastmod> with the build timestamp. Resolve a path
+// to its file mtime; only genuinely unresolvable input falls back to now.
+const fileMtimeCache = new Map();
+
+function statMtimeIso(candidate) {
+  if (typeof candidate !== "string" || candidate === "") return null;
+  if (fileMtimeCache.has(candidate)) return fileMtimeCache.get(candidate);
+
+  let result = null;
+  try {
+    const stat = fs.statSync(path.resolve(process.cwd(), candidate));
+    if (stat.isFile()) {
+      result = new Date(stat.mtimeMs).toISOString();
+    }
+  } catch {
+    result = null;
   }
 
-  return date.toISOString();
+  fileMtimeCache.set(candidate, result);
+  return result;
+}
+
+eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
+  const date = new Date(dateObj);
+  if (!isNaN(date.getTime())) {
+    return date.toISOString();
+  }
+
+  return statMtimeIso(dateObj) || new Date().toISOString();
 });
 
 eleventyConfig.addFilter("getAllTags", (collection) => {

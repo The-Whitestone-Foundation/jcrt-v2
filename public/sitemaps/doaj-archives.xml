@@ -23238,7 +23238,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>1</startPage>
@@ -23270,7 +23270,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>16</startPage>
@@ -23300,7 +23300,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>37</startPage>
@@ -23330,7 +23330,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>74</startPage>
@@ -23361,7 +23361,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>83</startPage>
@@ -23391,7 +23391,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>102</startPage>
@@ -23421,7 +23421,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>115</startPage>
@@ -23442,7 +23442,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>138</startPage>
@@ -23475,7 +23475,7 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
-    <publicationDate>2025-01-01</publicationDate>
+    <publicationDate>2024-01-01</publicationDate>
     <volume>24</volume>
     <issue>1</issue>
     <startPage>156</startPage>
@@ -24289,8 +24289,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>1</startPage>
-    <endPage>16</endPage>
+    <startPage>154</startPage>
+    <endPage>169</endPage>
     <publisherRecordId>alikhani</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Bare Life and Divine Violence: Benjamin, Levinas, and Ethics of Interruption</title>
@@ -24317,11 +24317,44 @@
     <publisher>Whitestone Publications</publisher>
     <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
     <issn>15305228</issn>
+    <publicationDate>2026-08-26</publicationDate>
+    <volume>25</volume>
+    <issue>2</issue>
+    <startPage>300</startPage>
+    <endPage>311</endPage>
+    <publisherRecordId>bell</publisherRecordId>
+    <documentType>article</documentType>
+    <title language="eng">Artfully Dodging a Presidential Endorsement: How Joel Osteen Uses Rhetoric to Build an Audience for Political Gain</title>
+    <authors>
+      <author><name>Reginald Bell Jr.</name></author>
+    </authors>
+    <abstract language="eng">Reginald Bell Jr. reads Joel Osteen’s refusal to endorse Donald Trump through Edwin Black’s second persona, naming the ideal audience his rhetoric builds and the third persona it silences.</abstract>
+    <fullTextUrl format="pdf">https://files.jcrt.org/archives/25.2/bell.pdf</fullTextUrl>
+    <keywords language="eng">
+      <keyword>joel-osteen</keyword>
+      <keyword>donald-trump</keyword>
+      <keyword>presidential-endorsement</keyword>
+      <keyword>second-persona</keyword>
+      <keyword>third-persona</keyword>
+      <keyword>edwin-black</keyword>
+      <keyword>rhetorical-criticism</keyword>
+      <keyword>televangelism</keyword>
+      <keyword>megachurch</keyword>
+      <keyword>evangelicalism</keyword>
+      <keyword>religion-and-politics</keyword>
+      <keyword>social-media</keyword>
+    </keywords>
+  </record>
+  <record>
+    <language>eng</language>
+    <publisher>Whitestone Publications</publisher>
+    <journalTitle>The Journal for Cultural and Religious Theory</journalTitle>
+    <issn>15305228</issn>
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>17</startPage>
-    <endPage>34</endPage>
+    <startPage>170</startPage>
+    <endPage>187</endPage>
     <publisherRecordId>cheung</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Specters of Lost Causes: Caputo’s Theology through the Žižekian Lens of Fidelity and Haunting</title>
@@ -24353,8 +24386,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>35</startPage>
-    <endPage>48</endPage>
+    <startPage>188</startPage>
+    <endPage>201</endPage>
     <publisherRecordId>gilbert</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">On the Interdependence of All Things</title>
@@ -24387,8 +24420,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>49</startPage>
-    <endPage>70</endPage>
+    <startPage>202</startPage>
+    <endPage>223</endPage>
     <publisherRecordId>hall</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Holding Green Commons: Vandana Shiva’s Spirit-Lanterned Guardians</title>
@@ -24418,8 +24451,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>71</startPage>
-    <endPage>85</endPage>
+    <startPage>224</startPage>
+    <endPage>238</endPage>
     <publisherRecordId>lockhart</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Beyond the Material: Toward a Proper Understanding and Engagement with the Material in Christianity</title>
@@ -24451,8 +24484,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>86</startPage>
-    <endPage>94</endPage>
+    <startPage>239</startPage>
+    <endPage>247</endPage>
     <publisherRecordId>raschke</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Spooky Cognition: Quantum Entanglement, Ephaptic Coupling, and the Transcendental Frontiers of Consciousness Studies</title>
@@ -24483,8 +24516,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>95</startPage>
-    <endPage>112</endPage>
+    <startPage>248</startPage>
+    <endPage>265</endPage>
     <publisherRecordId>shane</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">From Deconstruction to Re-Enchantment: Postmodernism, Metamodernism, and the Re-Emergence of Wonder</title>
@@ -24515,8 +24548,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>113</startPage>
-    <endPage>127</endPage>
+    <startPage>266</startPage>
+    <endPage>280</endPage>
     <publisherRecordId>spencer</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Caught in the Act: Voyeurism and Performance in Augustine’s *Confessions*</title>
@@ -24547,8 +24580,8 @@
     <publicationDate>2026-08-24</publicationDate>
     <volume>25</volume>
     <issue>2</issue>
-    <startPage>128</startPage>
-    <endPage>146</endPage>
+    <startPage>281</startPage>
+    <endPage>299</endPage>
     <publisherRecordId>valentini</publisherRecordId>
     <documentType>article</documentType>
     <title language="eng">Ibn ʿArabī’s Role in Ibrahim Niasse’s Thinking: From the Unity of Being to Muḥammad’s Names-of-the-Father</title>
