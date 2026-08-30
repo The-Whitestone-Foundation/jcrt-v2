@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.03.89] — 2026-08-30
+fixing author names
+- Notes: fixing author names.
+
 ## [00.03.88] — 2026-08-30
 chore: sync Standard.site ATProto records
 - Notes: chore: sync Standard.site ATProto records.
