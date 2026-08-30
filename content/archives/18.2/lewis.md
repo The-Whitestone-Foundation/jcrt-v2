@@ -1,6 +1,6 @@
 ---
 nanoid: "vkVG9T"
-doi:
+doi: "10.17613/qhb15-tyy70"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7qkmp32h'
 title: "Mischief, Idolatry, and the Demonic: Toward a Hermeneutic of Play."
 author: "Kevin Lewis"

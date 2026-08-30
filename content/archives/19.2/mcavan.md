@@ -1,6 +1,6 @@
 ---
 nanoid: "TE9sKj"
-doi:
+doi: "10.17613/rc5b3-cxk52"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7oetwo2z'
 title: "The Reluctant Fundamentalist“ and the Inhospitable State - Abrahamic Hospitality and the Limits of Multiculturalism"
 author: "Emily McAvan"

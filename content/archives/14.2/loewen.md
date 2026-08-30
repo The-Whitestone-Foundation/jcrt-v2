@@ -1,6 +1,6 @@
 ---
 nanoid: "j1a4Kp"
-doi:
+doi: "10.17613/34rwj-2wd78"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa24kfg2f'
 title: "Prolegomena to Any Future Mashups with the Philosophy of Religion."
 author: "Nathan R. B. Loewen"

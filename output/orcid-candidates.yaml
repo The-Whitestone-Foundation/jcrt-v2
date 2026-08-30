@@ -2083,29 +2083,6 @@ authors:
     candidates: []
   - slug: christopher-d-rodkey
     name: Christopher D Rodkey
-    affiliation: null
-    confidence: high
-    confirm: false
-    candidates:
-      - orcid: 0009-0004-2741-0197
-        name: Christopher Rodkey
-        institutions:
-          - Central Dauphin School District
-          - Drew University
-          - Lexington Theological Seminary
-          - Methodist History
-          - North American Paul Tillich Society
-          - Penn Central Conference, United Church of Christ
-          - Penn State York
-          - Pennsylvania State University
-          - Saint Vincent College
-          - University of Chicago
-        score: 9
-        why: >-
-          given name matches; ORCID record lists a JCRT work (journal: "Journal of Cultural and
-          Religious Theory")
-  - slug: christopher-demuth-rodkey
-    name: Christopher Demuth Rodkey
     affiliation: Lebanon Valley College, Drew University
     confidence: high
     confirm: false
@@ -4806,19 +4783,6 @@ authors:
     note: >-
       "Woodard" matches 230 ORCID records; only the narrow (given-name / affiliation) queries were
       used, so "none" here means "not found by those", not "not registered".
-  - slug: jason-alvis
-    name: Jason Alvis
-    affiliation: University of Vienna, Univeristy of Denver
-    confidence: high
-    confirm: false
-    candidates:
-      - orcid: 0000-0003-4664-1885
-        name: jason alvis
-        institutions:
-          - University of Denver
-          - University of Vienna
-        score: 6
-        why: given name matches; affiliation matches "University of Vienna"
   - slug: jason-bivins
     name: Jason Bivins
     affiliation: North Carolina State University
@@ -4883,7 +4847,7 @@ authors:
     candidates: []
   - slug: jason-w-alvis
     name: Jason W. Alvis
-    affiliation: Stanford University, University of Vienna
+    affiliation: Stanford University, University of Vienna, University of Denver
     confidence: high
     confirm: false
     candidates:
@@ -4893,7 +4857,7 @@ authors:
           - University of Denver
           - University of Vienna
         score: 6
-        why: given name matches; affiliation matches "University of Vienna"
+        why: given name matches; affiliation matches "University of Denver"
   - slug: jean-luc-marion
     name: Jean-Luc Marion
     affiliation: University of Chicago
@@ -8845,7 +8809,7 @@ authors:
     candidates: []
   - slug: paul-a-kottman
     name: Paul A Kottman
-    affiliation: New School University
+    affiliation: The New School
     confidence: high
     confirm: false
     candidates:
@@ -9395,16 +9359,21 @@ authors:
       used, so "none" here means "not found by those", not "not registered".
   - slug: richard-kearney
     name: Richard Kearney
-    affiliation: Boston University
-    confidence: high
+    affiliation: Charles Seelig Professor in Philosophy at Boston College
+    confidence: medium
     confirm: false
     candidates:
       - orcid: 0000-0002-8426-0568
         name: Richard Kearney
         institutions:
           - Boston College
-        score: 6
-        why: given name matches; affiliation matches "Boston College"
+        score: 4
+        why: >-
+          given name matches; affiliation only loosely matches "Boston College" (shares just
+          "boston") — verify by hand
+    note: >-
+      "Kearney" matches 449 ORCID records; only the narrow (given-name / affiliation) queries were
+      used, so "none" here means "not found by those", not "not registered".
   - slug: richard-l-rubenstein
     name: Richard L. Rubenstein
     affiliation: University of Bridgeport
@@ -9564,7 +9533,7 @@ authors:
       used, so "none" here means "not found by those", not "not registered".
   - slug: robert-e-alvis
     name: Robert E Alvis
-    affiliation: :Saint Meinrad School of Theology
+    affiliation: Saint Meinrad School of Theology
     confidence: high
     confirm: false
     candidates:
@@ -9739,17 +9708,8 @@ authors:
           - Virginia Theological Seminary
         score: 7
         why: given name matches; affiliation matches "Virginia Theological Seminary"
-  - slug: rodger-k-green
-    name: Rodger K. Green
-    affiliation: null
-    confidence: none
-    confirm: false
-    candidates: []
-    note: >-
-      "Green" matches 4715 ORCID records; only the narrow (given-name / affiliation) queries were
-      used, so "none" here means "not found by those", not "not registered".
-  - slug: roger-green
-    name: Roger Green
+  - slug: roger-k-green
+    name: Roger K Green
     affiliation: Metropolitan State University, University of Denver
     confidence: high
     confirm: false
@@ -9759,39 +9719,6 @@ authors:
         institutions:
           - Metropolitan State University of Denver
         score: 7
-        why: given name matches; affiliation matches "Metropolitan State University of Denver"
-      - orcid: 0000-0002-1881-5545
-        name: Roger Green
-        institutions: []
-        score: 3
-        why: given name matches; record lists no institution
-      - orcid: 0000-0002-9132-8604
-        name: Roger Green
-        institutions: []
-        score: 3
-        why: given name matches; record lists no institution
-      - orcid: 0000-0003-2497-825X
-        name: Roger Green
-        institutions: []
-        score: 3
-        why: given name matches; record lists no institution
-      - orcid: 0009-0009-4482-139X
-        name: Roger Green
-        institutions:
-          - Waste Management (United States)
-        score: 3
-        why: given name matches; no affiliation overlap
-  - slug: roger-k-green
-    name: Roger K Green
-    affiliation: Metropolitan State University
-    confidence: high
-    confirm: false
-    candidates:
-      - orcid: 0000-0002-3038-3503
-        name: Roger Green
-        institutions:
-          - Metropolitan State University of Denver
-        score: 6
         why: given name matches; affiliation matches "Metropolitan State University of Denver"
       - orcid: 0000-0002-1881-5545
         name: Roger Green
@@ -11207,7 +11134,7 @@ authors:
       used, so "none" here means "not found by those", not "not registered".
   - slug: w-travis-mcmaken
     name: W. Travis Mcmaken
-    affiliation: Lindenwood Uniiversity
+    affiliation: Lindenwood University
     confidence: high
     confirm: false
     candidates:

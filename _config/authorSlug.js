@@ -46,6 +46,7 @@ const CANONICAL_SLUGS = new Map([
 	["christopher-demuth-rodkey", "christopher-d-rodkey"],
 	["jason-alvis", "jason-w-alvis"],
 	["roger-green", "roger-k-green"],
+	["rodger-k-green", "roger-k-green"],
 ]);
 
 export function authorSlug(name) {

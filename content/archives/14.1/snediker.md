@@ -1,6 +1,6 @@
 ---
 nanoid: "T5RT7k"
-doi:
+doi: "10.17613/d8vsj-xtn49"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa2i7ew2g'
 title: "The Autonomy of the Now: Christianity, Secularism, Subjectivity."
 author: "Timothy Snediker"

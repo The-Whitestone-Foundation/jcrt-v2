@@ -1,6 +1,6 @@
 ---
 nanoid: "qkwrYv"
-doi:
+doi: "10.17613/qtbfj-pa735"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7sdomo2n'
 title: "Slow Journalism? Ethnography as a Means of Understanding Religious Social Activism."
 author: "James V. Spickard"

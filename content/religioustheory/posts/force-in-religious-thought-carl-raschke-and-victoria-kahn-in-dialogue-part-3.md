@@ -7,7 +7,7 @@ title: >-
   3 (Roger Green)
 description: "The following is the last of a three-part series. The first part was published on May 31, 2016. The second part was published on June 17 It highlights"
 date: '2016-06-26T19:30:03.000Z'
-author: Roger Green
+author: Roger K Green
 image: /images/2016/06/nasa-space-colony-11.webp
 categories:
   - Political Theology

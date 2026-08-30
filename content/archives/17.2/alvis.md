@@ -1,9 +1,9 @@
 ---
 nanoid: "cj_Zmj"
-doi:
+doi: "10.17613/8e2r7-4c432"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7to6uw2z'
 title: "The Political as Saturated Phenomenon: Marion’s Givenness and the Irreconcilability of Politics and Love."
-author: "Jason Alvis"
+author: "Jason W. Alvis"
 affilation:
 abstract: "Liebe deinen Nächsten. Love your neighbor. The 2013 FPÖ candidate for chancellor of Austria, H.C. Strache, was sharply criticized for the politicization of the command of love in the service of a political agenda that insinuated the governmental"
 keywords:

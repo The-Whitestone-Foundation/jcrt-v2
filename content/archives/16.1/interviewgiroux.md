@@ -1,6 +1,6 @@
 ---
 nanoid: "OHjUqu"
-doi:
+doi: "10.17613/1hyrk-vgk45"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7z2rmb23'
 title: "An Interview with Henry Giroux"
 author: "Victor Taylor"

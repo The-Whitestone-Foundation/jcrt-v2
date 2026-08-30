@@ -1,6 +1,6 @@
 ---
 nanoid: "UEFJvv"
-doi:
+doi: "10.17613/ag132-hrn88"
 author: editors
 title: Author Bios
 affilation:

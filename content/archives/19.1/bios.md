@@ -1,6 +1,6 @@
 ---
 nanoid: "zbHeW7"
-doi:
+doi: "10.17613/5v1s2-m5d91"
 author: editors
 title: Author Bios
 affilation:

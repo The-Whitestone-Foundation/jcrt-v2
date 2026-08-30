@@ -7,7 +7,7 @@ title: >-
   (Roger Green)
 description: "* Osto, Douglas. Altered States: Buddhism and Psychedelic Spirituality in America. New York: Columbia University Press, 2016 It highlights key arguments"
 date: '2016-07-28T08:00:53.000Z'
-author: Roger Green
+author: Roger K Green
 image: /images/2016/07/psychedelic-therapy.webp
 categories:
   - Reviews

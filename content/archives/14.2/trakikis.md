@@ -1,6 +1,6 @@
 ---
 nanoid: "N4mivg"
-doi:
+doi: "10.17613/by649-r5460"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7zv4yu2q'
 title: Philiosophy Mashed Up and In Crisis
 author: "N.N. Trakikis"

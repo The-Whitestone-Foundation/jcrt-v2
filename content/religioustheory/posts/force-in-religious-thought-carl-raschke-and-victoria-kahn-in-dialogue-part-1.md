@@ -7,7 +7,7 @@ title: >-
   1 (Roger Green)
 description: "The term “political theology” is currently used in a variety of ways in current debate over the place of liberalism amid world crises in politics and It"
 date: '2016-05-31T08:42:03.000Z'
-author: Roger Green
+author: Roger K Green
 image: /images/2016/05/2-5.webp
 categories:
   - Political Theology

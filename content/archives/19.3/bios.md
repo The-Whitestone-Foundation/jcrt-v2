@@ -69,7 +69,7 @@ subjects:
 
 [**Brian Britt**](/authors/brian-britt/) is a professor of religion and cultural theory in the Department of Religion and Culture at Virginia Tech. His books include Walter Benjamin and the Bible (Continuum, 1996), Biblical Curses and the Displacement of Tradition (Sheffield Phoenix, 2011), Postsecular Benjamin: Agency and Tradition (Northwestern University Press, 2016), and Religion Around Walter Benjamin (in process).
 
-[**Roger Green**](/authors/roger-green/) is a senior lecturer in English at Metropolitan State University in Denver. He is the general editor of The New Polis and author of A Transatlantic Political Theology of Psychedelic Esthetics (Palgrave Macmillan, 2019).
+[**Roger Green**](/authors/roger-k-green/) is a senior lecturer in English at Metropolitan State University in Denver. He is the general editor of The New Polis and author of A Transatlantic Political Theology of Psychedelic Esthetics (Palgrave Macmillan, 2019).
 
 [**Nitzan Lebovic**](/authors/nitzan-lebovic/) is a professor of history and the Apter Chair of Holocaust Studies and Ethical Values at Lehigh University. He is the author of The Philosophy of Life and Death: Ludwig Klages and the Rise of Nazi Biopolitics (2013), and Zionism and Melancholy: The Short Life of Israel Zarchi (2019). He is the co-editor of The Politics of Nihilism (2014) and of Catastrophes: A History and Theory of an Operative Concept (2014), and editor of special issues of Rethinking History, The New German Critique, Comparative Literature and Culture, and Political Theology.
 

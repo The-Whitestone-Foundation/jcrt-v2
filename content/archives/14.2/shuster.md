@@ -1,6 +1,6 @@
 ---
 nanoid: "AsQzW4"
-doi:
+doi: "10.17613/x0cep-qt303"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7zxswu2q'
 title: "On the Ethical Basis of Language: Some Themes in Davidson, Cavell, and Levinas."
 author: "Martin Shuster"

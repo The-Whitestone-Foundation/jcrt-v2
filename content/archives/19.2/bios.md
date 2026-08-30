@@ -1,6 +1,6 @@
 ---
 nanoid: "1swm-9"
-doi:
+doi: "10.17613/360y7-8ng58"
 author: editors
 title: Author Bios
 affilation:
@@ -65,9 +65,9 @@ subjects:
 ---
 ## Author Bios
 
-[**Jason Alvis**](/authors/jason-alvis/) is on the Faculty of Philosophy at the University of Vienna. He is the author of Marion and Derrida on The Gift and Desire: Debating the Generosity of Things (Springer 2016) and The Inconspicuous God: Heidegger, French Phenomenology and Theology" (Indiana University Press 2017).
+[**Jason Alvis**](/authors/jason-w-alvis/) is on the Faculty of Philosophy at the University of Vienna. He is the author of Marion and Derrida on The Gift and Desire: Debating the Generosity of Things (Springer 2016) and The Inconspicuous God: Heidegger, French Phenomenology and Theology" (Indiana University Press 2017).
 
-[**Roger Green**](/authors/roger-green/) is general editor of The New Polis and a Senior Lecturer in the English Department at Metropolitan State University of Denver. His work brings political theology into conversation with psychedelics and aesthetics. He is the author of A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens (Palgrave Macmillan, 2019).
+[**Roger Green**](/authors/roger-k-green/) is general editor of The New Polis and a Senior Lecturer in the English Department at Metropolitan State University of Denver. His work brings political theology into conversation with psychedelics and aesthetics. He is the author of A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens (Palgrave Macmillan, 2019).
 
 [**J. Edward Hackett**](/authors/j-edward-hackett/) is an Instructor at Savannah State University. Specializing in ethical theory and phenomenology. He is the author of Persons and Value in Pragmatic Phenomenology (Vernon 2018), a work explicating the metaphysics of value in Scheler. Additionally, he is the co-editor of Phenomenology for the Twenty-First Century (Palgrave Macmillan 2016) and editor of House of Cards and Philosophy, and has published on pragmatism and Scheler’s phenomenology in such journals as Comparative and Continental Philosophy, Appraisal, Contemporary Pragmatism, Eidos, William James Studies, Phenomenology and Mind, Journal of Applied Hermeneutics, Process Studies, and Forum Philosophicum.
 

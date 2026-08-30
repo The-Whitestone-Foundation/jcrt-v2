@@ -1,6 +1,6 @@
 ---
 nanoid: "BRNCtU"
-doi:
+doi: "10.17613/qwrfm-8s096"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7z4rs62z'
 title: "Introduction to the Journal of Cultural and Religious Theory Special Issue On"
 author: "Sergio C. Figueiredo"

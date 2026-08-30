@@ -1,6 +1,6 @@
 ---
 nanoid: "9run8c"
-doi:
+doi: "10.17613/ep9vg-v6c36"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7t6sov25'
 title: "Rethinking Anselm’s Atonement Theory - “Unmaking” the Indebted Man"
 author: "Ryne Beddard"

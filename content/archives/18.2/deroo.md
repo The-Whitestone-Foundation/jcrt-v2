@@ -1,6 +1,6 @@
 ---
 nanoid: "Enoh-P"
-doi:
+doi: "10.17613/gvgfn-9ky03"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7qtgnc2p'
 title: "The Dangers of Dealing with Derrida: Revisiting the Caputo-HÄGglund Debate on The"
 author: "Neal Deroo"

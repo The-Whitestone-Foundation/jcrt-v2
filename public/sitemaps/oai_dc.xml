@@ -2,7 +2,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-08-30T07:49:24.461Z</responseDate>
+  <responseDate>2026-08-30T10:26:59.412Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -8921,7 +8921,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Thinking Through the Death of God: a Critical Companion to Thomas J. J. Altizer</dc:title>
-          <dc:creator>Christopher Demuth Rodkey</dc:creator>
+          <dc:creator>Christopher D Rodkey</dc:creator>
           <dc:subject>thomas-jj-altizer</dc:subject>
           <dc:subject>death-of-god-theology</dc:subject>
           <dc:subject>radical-theology</dc:subject>
@@ -19835,8 +19835,8 @@
                    xmlns:dc="http://purl.org/dc/elements/1.1/"
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:title>Jesus Beyond Christ: Erri De Luca and The</dc:title>
-          <dc:creator>Elise Mon℡-Hurlin</dc:creator>
+          <dc:title>Jesus Beyond Christ: Erri De Luca and the ‘Self as Stumbling Block’</dc:title>
+          <dc:creator>Elise Montel-Hurlin</dc:creator>
           <dc:subject>poetics</dc:subject>
           <dc:subject>philosophy</dc:subject>
           <dc:subject>old-testament</dc:subject>
@@ -20315,7 +20315,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Indiscrete Image: Infinitude and Creation of the Human.</dc:title>
-          <dc:creator>Jason Alvis</dc:creator>
+          <dc:creator>Jason W. Alvis</dc:creator>
           <dc:subject>human-beings</dc:subject>
           <dc:subject>nonfiction</dc:subject>
           <dc:subject>thomas</dc:subject>
@@ -21810,7 +21810,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Subject and Time: Jean-Luc Marion’s Alteration of Kantian Subjectivity.</dc:title>
-          <dc:creator>Jason Alvis</dc:creator>
+          <dc:creator>Jason W. Alvis</dc:creator>
           <dc:subject>1724-1804</dc:subject>
           <dc:subject>1946</dc:subject>
           <dc:subject>immanuel</dc:subject>
@@ -23120,7 +23120,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Violence And The Gift: Challenging Continental Philosophy Of Religion</dc:title>
-          <dc:creator>Udger Hagedorn</dc:creator>
+          <dc:creator>Ludger Hagedorn</dc:creator>
           <dc:creator>Michael Staudigl</dc:creator>
           <dc:creator>Jason W. Alvis</dc:creator>
           <dc:subject>violence</dc:subject>
@@ -25054,7 +25054,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 1 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>World Religions</dc:subject>
           <dc:subject>political</dc:subject>
@@ -25194,7 +25194,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 2 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>kant</dc:subject>
           <dc:subject>political</dc:subject>
@@ -25265,7 +25265,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part 3 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>Religion and Economics</dc:subject>
           <dc:subject>Critical Conversations</dc:subject>
@@ -25562,7 +25562,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Review – Altered States: Buddhism and Psychedelic Spirituality in America (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>psychedelic</dc:subject>
           <dc:subject>buddhism</dc:subject>
@@ -26338,7 +26338,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time” (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Psychology of Religion</dc:subject>
           <dc:subject>Psychoanalysis</dc:subject>
           <dc:subject>Sexuality and Religion</dc:subject>
@@ -26734,7 +26734,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 1 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Reviews</dc:subject>
           <dc:subject>Theology</dc:subject>
@@ -26772,7 +26772,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 2 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Philosophy</dc:subject>
           <dc:subject>Philosophy of Religion</dc:subject>
           <dc:subject>Higher Education</dc:subject>
@@ -29505,7 +29505,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Political as Saturated Phenomenon: Marion’s Givenness and the Irreconcilability of Politics and Love.</dc:title>
-          <dc:creator>Jason Alvis</dc:creator>
+          <dc:creator>Jason W. Alvis</dc:creator>
           <dc:subject>love</dc:subject>
           <dc:subject>practical-politics</dc:subject>
           <dc:subject>economic-status</dc:subject>
@@ -29639,7 +29639,7 @@
                    xmlns:dc="http://purl.org/dc/elements/1.1/"
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:title>Religious Life After Religion: Jan PatoČKa’s Care for the Soul and Its Relation to Religion.</dc:title>
+          <dc:title>Religious Life After Religion: Jan Patočka’s Care for the Soul and Its Relation to Religion.</dc:title>
           <dc:creator>Eddo Evink</dc:creator>
           <dc:subject>1907-1977</dc:subject>
           <dc:subject>jan</dc:subject>
@@ -30157,7 +30157,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes.</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>semiotics</dc:subject>
           <dc:subject>1925-1995</dc:subject>
           <dc:subject>anti-oedipus-book</dc:subject>
@@ -30604,7 +30604,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Non-Ordinary States, Entheogens, and the Unconscious.</dc:title>
-          <dc:creator>Rodger K. Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>religiousness</dc:subject>
           <dc:subject>offices-of-physicians</dc:subject>
           <dc:subject>all-other-outpatient-care-centers</dc:subject>
@@ -32954,7 +32954,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Fetish and the Erasure of Indigeneity</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>fetish</dc:subject>
           <dc:subject>indigeneity</dc:subject>
           <dc:subject>settler-colonialism</dc:subject>
@@ -34564,7 +34564,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Fetishism And The Erasure Of Identity, Part 1 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>indigenous</dc:subject>
@@ -34600,7 +34600,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Fetishism And The Erasure Of Identity, Part 2 (Roger Green)</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Anthropology of Religion</dc:subject>
           <dc:subject>Art Theory</dc:subject>
           <dc:subject>religion</dc:subject>
@@ -35313,7 +35313,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Kenotic Theology, Buddhism, and Time.</dc:title>
-          <dc:creator>Brian ShŪDŌ Schroeder</dc:creator>
+          <dc:creator>Brian Shūdō Schroeder</dc:creator>
           <dc:subject>theology</dc:subject>
           <dc:subject>1927-2018</dc:subject>
           <dc:subject>altizer</dc:subject>
@@ -35474,7 +35474,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Fetishism and the Erasure of Indigeneity.</dc:title>
-          <dc:creator>Roger K. Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>essentialism-philosophy</dc:subject>
           <dc:subject>fetishism-religion</dc:subject>
           <dc:subject>indigenous-ethnic-identity</dc:subject>
@@ -40838,7 +40838,7 @@
           <dc:title>A Critical Conversation on “Political Erasure”</dc:title>
           <dc:creator>Arthur Bradley</dc:creator>
           <dc:creator>Carl A. Raschke</dc:creator>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>arthur</dc:subject>
           <dc:subject>bradley</dc:subject>
           <dc:subject>1978</dc:subject>
@@ -41210,7 +41210,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical Conversation” With Roger Green</dc:title>
-          <dc:creator>Roger Green</dc:creator>
+          <dc:creator>Roger K Green</dc:creator>
           <dc:subject>Critical Conversations</dc:subject>
           <dc:subject>Political Theology</dc:subject>
           <dc:subject>political</dc:subject>
@@ -44545,7 +44545,7 @@
                    xmlns:dc="http://purl.org/dc/elements/1.1/"
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:title>The Sacred End: Exploring the Ethical Practice of SallekhanĀ in Jaina Tradition</dc:title>
+          <dc:title>The Sacred End: Exploring the Ethical Practice of Sallekhanā in Jaina Tradition</dc:title>
           <dc:creator>Nisha Daga</dc:creator>
           <dc:creator>George Kodimattam Joseph</dc:creator>
           <dc:subject>sallekhana</dc:subject>

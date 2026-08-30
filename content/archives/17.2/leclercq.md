@@ -1,6 +1,6 @@
 ---
 nanoid: "4hTktV"
-doi:
+doi: "10.17613/qhqx7-cg926"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7tfurq2q'
 title: "How to do things with words (of God)? Michel Henry’s Phenomenology of Religion"
 author: "Jean Leclerq"

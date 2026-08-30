@@ -7,7 +7,7 @@ title: >-
   (Roger Green)
 description: "The following is the second of a two-part series. The first installment, published on Dec. 19, 2016, can be found here. In Writing Degree Zero, Barthes suggests"
 date: '2016-12-26T20:34:30.000Z'
-author: Roger Green
+author: Roger K Green
 image: /images/2016/12/selfport.webp
 categories:
   - Philosophy

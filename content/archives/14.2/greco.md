@@ -1,6 +1,6 @@
 ---
 nanoid: "CdY-N7"
-doi:
+doi: "10.17613/xcbs3-s3y67"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubxa2cezy2h'
 title: "Dispositions, Habits and Virtues: Comments on Mulder and Kelly."
 author: "John Greco"

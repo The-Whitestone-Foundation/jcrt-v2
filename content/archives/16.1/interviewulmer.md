@@ -1,6 +1,6 @@
 ---
 nanoid: "s4ITYQ"
-doi:
+doi: "10.17613/a48q3-8k297"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7yzeev2u'
 title: "Theopraxesis and the Future of H’mmm in the University: an Interview with Gregory L. Ulmer"
 author: "Sergio C.figueiredo"

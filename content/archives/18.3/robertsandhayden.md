@@ -1,6 +1,6 @@
 ---
 nanoid: "F2byCP"
-doi:
+doi: "10.17613/m3rrn-94726"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7pyn5w2f'
 title:
 author:

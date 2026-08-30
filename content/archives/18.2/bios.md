@@ -1,6 +1,6 @@
 ---
 nanoid: "T6x2f-"
-doi:
+doi: "10.17613/sgngt-ghg92"
 author: editors
 title: Author Bios
 affilation:
@@ -63,7 +63,7 @@ subjects:
 
 [**Ashley (Gay) Graham**](/authors/ashley-graham/) is Project Manager at Simpli.fi in Fort Worth, Texas. She received her Ph.D. in Religion from Emory University and her Master’s in Theological Research from Andover Newton Theological School. Graham’s manuscript, “God’s Absence is Not Nothing: Thinking the Absolute Otherwise,” pursues the perennial question of God’s alterity as it pertains to the limits of thought and the corruptibility of institutions.
 
-[**Roger Green**](/authors/roger-green/) is general editor of The New Polis and a Senior Lecturer in the English Department at Metropolitan State University of Denver. His work brings political theology into conversation with psychedelics and aesthetics. He is the author of A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens.
+[**Roger Green**](/authors/roger-k-green/) is general editor of The New Polis and a Senior Lecturer in the English Department at Metropolitan State University of Denver. His work brings political theology into conversation with psychedelics and aesthetics. He is the author of *A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens*.
 
 [**Silas Guerriero**](/authors/silas-guerriero/) is an anthropologist and Associate Professor of the Science of Religion Department and of the Post-Graduate Program of Religious Studies of the Pontifical Catholic University of São Paulo, PUC-SP. He acts works in the area search of the Anthropology of Religion, especially new religious movements and religion in modernity.
 

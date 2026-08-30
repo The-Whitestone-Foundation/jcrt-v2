@@ -1,6 +1,6 @@
 ---
 nanoid: "hPsi22"
-doi:
+doi: "10.17613/1hb36-1dx03"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubx7sudq62f'
 title: "Hanging Garlands of Flowers on the Chains That Bind: the Soft Totalitarianism of Technological Rationality and the Possibilities for Emancipatory Praxis."
 author: "Jeff Appel"

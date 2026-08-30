@@ -7,7 +7,7 @@ title: >-
   (Roger Green)
 description: "There is no reason why therapy rooms for psychedelic sessions must be adorned with the default Buddha icons, fractal posters, and Indian drapes It highlights"
 date: '2016-10-24T06:12:04.000Z'
-author: Roger Green
+author: Roger K Green
 image: /images/2016/10/sorrowing-old-man-psilocybin-depression.webp
 categories:
   - Psychology of Religion

@@ -7,7 +7,7 @@ title: >-
   (Roger Green)
 description: "In his preface to Deleuze and Guattari’s Anti-Oedipus, Michel Foucault asks the authors’ forgiveness for describing their book as the first book of ethics"
 date: '2016-12-19T11:35:39.000Z'
-author: Roger Green
+author: Roger K Green
 image: /images/2016/12/jnnocence1094.webp
 categories:
   - Philosophy
