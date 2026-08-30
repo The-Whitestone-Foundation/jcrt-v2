@@ -1,6 +1,6 @@
 ---
 nanoid: "2WOjeO"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7hjzv32g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5ikfvvh2f'
 name: Daniel Rhodes
 affiliation: "Loyola University of Chicago"
 bio:

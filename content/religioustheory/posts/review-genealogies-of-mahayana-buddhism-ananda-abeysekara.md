@@ -1,7 +1,7 @@
 ---
 nanoid: "Izrxzp"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6atl3s2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hexv6l2i'
 title: "Review – Genealogies Of Mahayana Buddhism (Ananda Abeysekara)"
 description: "Joseph Walser, Genealogies of Mahāyāna Buddhism: Emptiness, Power, and the Question of Origin. Oxford and New York: Routledge, 2018. 288 pages. IBSN: 978-1-13-895556-1."
 date: '2019-10-23T02:34:24.000Z'

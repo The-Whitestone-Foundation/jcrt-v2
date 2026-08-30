@@ -1,7 +1,7 @@
 ---
 nanoid: "AUxvuS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6d277d2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hh2wyf2q'
 title: Review – Neurotheological Nuances (Joshua Canzona)
 description: "Neurotheology: How Science Can Enlighten Us About Spirituality. Newberg, Andrew. New York: Columbia University Press, 2018. ISBN 9780231179041. Hardback"
 date: '2018-08-22T23:42:26.000Z'

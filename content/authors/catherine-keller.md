@@ -1,6 +1,6 @@
 ---
 nanoid: "jQbquB"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7incth2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5illxst2h'
 name: Catherine Keller
 affiliation: "Drew University"
 bio:

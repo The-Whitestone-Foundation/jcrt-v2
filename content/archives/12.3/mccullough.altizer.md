@@ -1,7 +1,7 @@
 ---
 nanoid: "xWw0XU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6ngtfe25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hrwdsm2n'
 title: "Interview with Thomas J. J. Altizer."
 author: "Lissa McCullough"
 affilation:

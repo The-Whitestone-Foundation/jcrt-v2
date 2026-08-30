@@ -1,6 +1,6 @@
 ---
 nanoid: "U1uCx1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav76ch252p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5ibgois2p'
 name: Nathaniel J Morehouse
 affiliation: "University of Manitoba"
 bio:

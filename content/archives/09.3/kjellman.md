@@ -1,7 +1,7 @@
 ---
 nanoid: "GuQAFX"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav6rsyqm25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hw55462g'
 title: "Against War: Views from the Underside of Modernity"
 author: "Mark Kjellman"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "nw0ayE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav7ic7qd2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5il75oj2e'
 name: Christopher Demuth Rodkey
 affiliation: "Lebanon Valley College, Drew University "
 bio: 

@@ -1,7 +1,7 @@
 ---
 nanoid: "4hLCYy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muav64rnyv2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mub5hb4nyi2h'
 title: "Thomas Aquinas's Body-Soul Dualism and the Hierarchy of Human Dignity in Brazil: The Theological Origins of a Nation's Hierarchical Self-Understanding"
 author: "Vinicius Marinho"
 affilation:
