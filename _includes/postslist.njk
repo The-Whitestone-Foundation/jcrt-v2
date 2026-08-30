@@ -3,7 +3,7 @@
 <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
     <div class="img-zoom-container rounded-4 shadow-sm mb-3 collection-card-media">
         <a href="{{ post.url }}" title="{{ post.data.title }}">
-            {% set currentImg = (post.data.image | ensureImage('/images/jcrt-open-graph.webp')) if post.data.image else (metadata.files_url + '/images/jcrt-open-graph.webp') %}
+            {% set currentImg = (post.data.image | ensureImage('/images/jcrt-open-graph.webp')) if post.data.image else ('/images/jcrt-open-graph.webp') %}
             <img class="img-post img-fluid collection-card-img"
                  alt="{{ post.data.title }}"
                  src="{{ currentImg | preferWebp }}"
@@ -11,7 +11,7 @@
                  {% imageAttrs currentImg, 640, 360 %}
                  loading="lazy"
                  decoding="async"
-                 onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}">
+                 onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}">
         </a>
     </div>
 

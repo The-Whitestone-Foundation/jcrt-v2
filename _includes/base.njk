@@ -46,7 +46,7 @@
 <script type="module" src="/pagefind/v/{{ pagefindVersion }}/pagefind-component-ui.js"></script>
 <script>
   (function () {
-    const fallback = "{{ metadata.files_url }}/images/jcrt-open-graph.webp";
+    const fallback = "/images/jcrt-open-graph.webp";
     const cdnBase = "{{ metadata.files_url }}";
     const hasInlineFallback = (img) => img.hasAttribute("onerror");
     const absolutize = (src) => {

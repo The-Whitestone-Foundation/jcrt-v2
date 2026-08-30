@@ -29,7 +29,7 @@ layout: base.njk
 
       {% if image %}
         {% set archiveIndexImage = image | ensureImage('/images/jcrt-open-graph.webp') %}
-        <img class="img-post mb-5 rounded" alt="{{ title }}" src="{{ archiveIndexImage | preferWebp }}" data-fallback-src="{{ archiveIndexImage }}" {% imageAttrs archiveIndexImage, 1200, 675 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/>
+        <img class="img-post mb-5 rounded" alt="{{ title }}" src="{{ archiveIndexImage | preferWebp }}" data-fallback-src="{{ archiveIndexImage }}" {% imageAttrs archiveIndexImage, 1200, 675 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"/>
       {% endif %}
 
 	      <article class="reading-body serif e-content">

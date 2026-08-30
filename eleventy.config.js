@@ -775,7 +775,11 @@ export default async function (eleventyConfig) {
 		return webpPathname + suffix;
 	});
 	eleventyConfig.addFilter("ensureImage", function (value, fallback = "/images/jcrt-open-graph.webp") {
-		const defaultImage = `${siteFilesUrl}${String(fallback || "/images/jcrt-open-graph.webp")}`;
+		// Resolve the fallback the same way as any other image: serve it from this origin
+		// when a local copy exists, and only fall back to the CDN when it does not. This
+		// used to hardcode the CDN, which meant the placeholder shown when an image fails
+		// was itself hosted on the host whose outage caused the failure.
+		const defaultImage = resolveServedImageUrl(fallback, "/images/jcrt-open-graph.webp");
 		if (!value) return defaultImage;
 
 		const src = String(value).trim();

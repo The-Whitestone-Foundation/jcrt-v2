@@ -59,13 +59,13 @@
               loading="eager"
               fetchpriority="high"
               decoding="async"
-              onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"
+              onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"
             >
           </figure>
         {% endif %}
 
         {% if not isIssueIndex and image %}
-          {% set defaultPostImage = metadata.files_url + "/images/jcrt-open-graph.webp" %}
+          {% set defaultPostImage = "/images/jcrt-open-graph.webp" %}
           {% set postImage = (image | ensureImage(defaultPostImage)) %}
           {% set postImagePreferred = (postImage | preferWebp) %}
           <figure class="jcrt-article-media">
@@ -78,7 +78,7 @@
               loading="eager"
               fetchpriority="high"
               decoding="async"
-              onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"
+              onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"
             >
           </figure>
         {% endif %}

@@ -55,11 +55,11 @@ layout: base.njk
       {% set postImage = image | ensureImage('/images/jcrt-open-graph.webp') %}
       {% if page.url and page.url.startsWith('/archives/') %}
         <figure class="jcrt-article-media jcrt-article-media--portrait">
-          <img class="jcrt-article-image" alt="{{ title }}" width="250" height="250" src="{{ postImage | preferWebp }}" data-fallback-src="{{ postImage }}" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/>
+          <img class="jcrt-article-image" alt="{{ title }}" width="250" height="250" src="{{ postImage | preferWebp }}" data-fallback-src="{{ postImage }}" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"/>
         </figure>
       {% else %}
         <figure class="jcrt-article-media">
-          <img class="jcrt-article-image" alt="{{ title }}" src="{{ postImage | preferWebp }}" data-fallback-src="{{ postImage }}" {% imageAttrs postImage, 1200, 675 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/>
+          <img class="jcrt-article-image" alt="{{ title }}" src="{{ postImage | preferWebp }}" data-fallback-src="{{ postImage }}" {% imageAttrs postImage, 1200, 675 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"/>
         </figure>
       {% endif %}
     {% endif %}

@@ -27,8 +27,8 @@
         <article class="col-md-4 mb-4 home-archive-card">
           <div class="img-zoom-container mb-3 shadow-sm rounded collection-card-media">
             <a href="{{ post.url }}">
-              {% set archiveThumb = (post.data.image | ensureImage('/images/jcrt-open-graph.webp')) if post.data.image and post.data.image != 'null' else (metadata.files_url + '/images/jcrt-open-graph.webp') %}
-              {% responsiveThumb archiveThumb, ((post.data.title or "Untitled Document") | stripMd), "img-fluid w-100 h-100", "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw", "320,480,640", "lazy", "low", (metadata.files_url + "/images/jcrt-open-graph.webp"), "object-fit: cover;" %}
+              {% set archiveThumb = (post.data.image | ensureImage('/images/jcrt-open-graph.webp')) if post.data.image and post.data.image != 'null' else ('/images/jcrt-open-graph.webp') %}
+              {% responsiveThumb archiveThumb, ((post.data.title or "Untitled Document") | stripMd), "img-fluid w-100 h-100", "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw", "320,480,640", "lazy", "low", ("/images/jcrt-open-graph.webp"), "object-fit: cover;" %}
             </a>
           </div>
           

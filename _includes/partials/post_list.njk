@@ -9,9 +9,9 @@
 <div class="img-zoom-container">
 <a href="{{b.url}}" title="{{b.data.title}}">
     {% set postListSource = b.data.thumbnail or b.data.image %}
-    {% set postListImage = (postListSource | ensureImage('/images/jcrt-open-graph.webp')) if postListSource else (metadata.files_url + '/images/jcrt-open-graph.webp') %}
+    {% set postListImage = (postListSource | ensureImage('/images/jcrt-open-graph.webp')) if postListSource else ('/images/jcrt-open-graph.webp') %}
     {% set postListImagePreferred = postListImage | preferWebp %}
-    <img class="img-post" alt="{{b.data.title}}" src="{{postListImagePreferred}}" data-fallback-src="{{postListImage}}" {% imageAttrs postListImage, 640, 360 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/></a>
+    <img class="img-post" alt="{{b.data.title}}" src="{{postListImagePreferred}}" data-fallback-src="{{postListImage}}" {% imageAttrs postListImage, 640, 360 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"/></a>
 </div>
 <h3>{{b.data.title}}</h3>
 <p>

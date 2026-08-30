@@ -11,9 +11,9 @@ layout: base.njk
 <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
 <div class="img-zoom-container">
 {% set blogCardSource = b.data.thumbnail or b.data.image %}
-{% set blogCardImage = (blogCardSource | ensureImage('/images/jcrt-open-graph.webp')) if blogCardSource else (metadata.files_url + '/images/jcrt-open-graph.webp') %}
+{% set blogCardImage = (blogCardSource | ensureImage('/images/jcrt-open-graph.webp')) if blogCardSource else ('/images/jcrt-open-graph.webp') %}
 {% set blogCardImagePreferred = blogCardImage | preferWebp %}
-<a href="{{b.url}}" title="{{b.data.title}}"><img class="img-post rounded" alt="{{b.data.title}}" src="{{blogCardImagePreferred}}" data-fallback-src="{{blogCardImage}}" {% imageAttrs blogCardImage, 640, 360 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='{{ metadata.files_url }}/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'{{ metadata.files_url }}/images/jcrt-open-graph.webp';}"/></a>
+<a href="{{b.url}}" title="{{b.data.title}}"><img class="img-post rounded" alt="{{b.data.title}}" src="{{blogCardImagePreferred}}" data-fallback-src="{{blogCardImage}}" {% imageAttrs blogCardImage, 640, 360 %} loading="lazy" decoding="async" onerror="if(this.dataset.fallbackAttempted){this.onerror=null;this.src='/images/jcrt-open-graph.webp';}else{this.dataset.fallbackAttempted='1';this.src=this.dataset.fallbackSrc||'/images/jcrt-open-graph.webp';}"/></a>
 </div>
 <h3>{{b.data.title}}</h3>
 <p>
