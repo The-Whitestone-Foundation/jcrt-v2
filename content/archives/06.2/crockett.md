@@ -1,7 +1,7 @@
 ---
 nanoid: "2aXcKU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboe7pwes2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdkxlez2f'
 title: "St. Paul and the Event"
 author: "Clayton Crockett"
 affilation:

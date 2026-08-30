@@ -1,7 +1,7 @@
 ---
 nanoid: "-r5Zpy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubod3miqk2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtcglx2j2f'
 title: Review – Bahai Religion And Religious Cycles (Rebekah Gordon)
 description: "Sergeev, Mikhail. Theory of Religious Cycles: Tradition, Modernity, and the Baha’i Faith. Amsterdam: Brill Rodopi, 2015. ISBN-10:9004300031. Paperback"
 date: '2017-06-07T05:18:55.000Z'

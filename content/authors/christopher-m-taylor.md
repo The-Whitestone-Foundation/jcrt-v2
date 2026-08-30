@@ -1,6 +1,6 @@
 ---
 nanoid: "hQa7zb"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubofkca6j2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtevjvnx2q'
 name: Christopher M Taylor
 affiliation:
 bio:

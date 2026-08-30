@@ -1,7 +1,7 @@
 ---
 nanoid: "wFEv7G"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboe66jb72p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdjgcgv2i'
 title: "William James and the Science of Religions: Reexperiencing the Varieties of Religious Experience"
 author: "Oz Lorentzen"
 affilation:

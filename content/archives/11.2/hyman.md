@@ -1,7 +1,7 @@
 ---
 nanoid: "RdHUB3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodq5r3j2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtd3jbkh2q'
 title: "Homosexuality and the Crisis of Anglicanism"
 author: "Gavin Hyman"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "Acw7Yb"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboexovbi2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubted3kux2h'
 name: Lissa McCullough
 affiliation: "California State University at Dominguez Hills, Los Angeles, Hanover College"
 bio:

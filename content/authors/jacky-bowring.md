@@ -1,6 +1,6 @@
 ---
 nanoid: "rmmufi"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubof7vljx2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtelryso2h'
 name: Jacky Bowring
 affiliation: "Lincoln University"
 bio:

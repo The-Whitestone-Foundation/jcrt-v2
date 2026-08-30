@@ -1,6 +1,6 @@
 ---
 nanoid: "wERQLp"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeqcqy32h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubte3qote2q'
 name: Ole Jakob Løland
 affiliation: "niversity of Oslo"
 bio:

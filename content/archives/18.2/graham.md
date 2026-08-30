@@ -1,7 +1,7 @@
 ---
 nanoid: "QsZYV6"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocsginr2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtc5ggtx2h'
 title: "Prayer After the Death of God."
 author: "Ashley Graham"
 affilation:

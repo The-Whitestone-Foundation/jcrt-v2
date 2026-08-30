@@ -1,6 +1,6 @@
 ---
 nanoid: "X_4UTq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeooxjc2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubte24osz2f'
 name: Peter Goodwin Heltzel
 affiliation: "New York Theological Seminary"
 bio:

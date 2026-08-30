@@ -1,7 +1,7 @@
 ---
 nanoid: "aZ2lnT"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodcjnth2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtcnmgon2z'
 title: Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)
 description: "Today the question of debt forgiveness has become an eminently practical, not to mention political, question. From sovereign debt crises in Greece, Spain"
 date: '2016-05-18T20:23:24.000Z'

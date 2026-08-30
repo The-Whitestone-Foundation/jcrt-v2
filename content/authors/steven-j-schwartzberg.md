@@ -1,6 +1,6 @@
 ---
 nanoid: "c-CVL9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboei73ar2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdtiivv2n'
 name: "Steven J. Schwartzberg"
 affiliation: "DePaul University"
 bio: "Steve Schwartzberg is a scholar, teacher, and activist whose politics are rooted in the conviction that genuine self-government flows from love, belonging, and a deep knowledge of, and respect for, the sacredness of all life."

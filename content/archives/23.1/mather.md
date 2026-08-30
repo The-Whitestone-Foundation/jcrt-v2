@@ -1,7 +1,7 @@
 ---
 nanoid: "7fr9Eq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboc4qxax2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbhubnf2n'
 title: "Greening America’s Virtues"
 author: "Nicholas Mather"
 affilation:

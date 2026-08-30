@@ -1,7 +1,7 @@
 ---
 nanoid: "9yXNx1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocpj4cc2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtc2j43u2q'
 title: Call For Papers – Special Issue On Walter Benjamin And Religion
 description: "What does Walter Benjamin’s work suggest about religion and the methods of studying it? This special issue of The Journal for Cultural and Religious Studies"
 date: '2019-04-30T17:00:54.000Z'

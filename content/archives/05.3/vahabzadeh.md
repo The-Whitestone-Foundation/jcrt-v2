@@ -1,7 +1,7 @@
 ---
 nanoid: "qTvoEj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeaugke23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdm3rxh2h'
 title: "Broken Hegemonies"
 author: "Peyman Vahabzadeh"
 affilation:

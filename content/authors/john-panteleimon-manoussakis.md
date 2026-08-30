@@ -1,6 +1,6 @@
 ---
 nanoid: "uph37m"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubof4537x2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtehjsb22u'
 name: John Panteleimon Manoussakis
 affiliation:
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "fncgps"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeg7qtp2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdrilu22u'
 name: Tyler Tritten
 affiliation: "Alberts-Ludwigs-Universität Freiburg"
 bio:

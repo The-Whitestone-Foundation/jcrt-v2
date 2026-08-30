@@ -1,6 +1,6 @@
 ---
 nanoid: "ijulzN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboew2dpc2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtebhcpv2p'
 name: Marika Rose
 affiliation: "Winchester University"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "T09Oxt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboc2s3vn2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbg4u252g'
 title: Sikh Environmental Ethics-Theory and Praxis Part 1 (Harpreet Kaur)
 description: "Eco-philosophy, or ecosophy, offers insight into the relationship of living beings with their environment. The intersection of faith and eco-philosophy is known"
 date: '2024-08-07T00:43:28.000Z'

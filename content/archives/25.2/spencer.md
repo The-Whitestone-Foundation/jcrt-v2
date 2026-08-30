@@ -1,7 +1,7 @@
 ---
 nanoid: "SHfcT3"
 doi: "10.17613/44dg3-c1k17"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubobwsczv2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbc7wxv2g'
 layout: archives.njk
 article_number: '08'
 volume: '25'

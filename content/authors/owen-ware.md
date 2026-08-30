@@ -1,6 +1,6 @@
 ---
 nanoid: "6_N-Yy"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboept7iu2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubte3au472p'
 name: Owen Ware
 affiliation: "University of Victoria"
 bio:

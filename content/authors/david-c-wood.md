@@ -1,6 +1,6 @@
 ---
 nanoid: "9EZO76"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubofhqfxk2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtesxt6w2z'
 name: David C Wood
 affiliation:
 bio:

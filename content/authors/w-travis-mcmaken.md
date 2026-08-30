@@ -1,6 +1,6 @@
 ---
 nanoid: "8fHxLp"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboefjex22p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdqrudk2s'
 name: W. Travis Mcmaken
 affiliation: "Lindenwood Uniiversity"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "0l7R2p"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboejzfbi2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdvenkf2g'
 name: Scott F. Aikin
 affiliation: "VANDERBILT UNIVERSITY"
 bio:

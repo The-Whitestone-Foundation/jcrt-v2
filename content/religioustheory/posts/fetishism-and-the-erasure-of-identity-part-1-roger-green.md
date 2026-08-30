@@ -1,7 +1,7 @@
 ---
 nanoid: "Cc79cv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocowllz2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbzwijv2p'
 title: 'Fetishism And The Erasure Of Identity, Part 1 (Roger Green)'
 description: "The following is the first of a two-part series. The second installment can be found here. The concept of fetishism has a special place within the long history"
 date: '2019-07-08T13:03:16.000Z'

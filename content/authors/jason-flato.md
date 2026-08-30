@@ -1,6 +1,6 @@
 ---
 nanoid: "c71_Aq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubof6i2n72e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtejulre2q'
 name: Jason Flato
 affiliation: "University of Denver"
 bio:

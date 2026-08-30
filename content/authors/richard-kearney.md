@@ -1,6 +1,6 @@
 ---
 nanoid: "GEiha_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboemrppu23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdy6sko2i'
 name: Richard Kearney
 affiliation: "Boston University "
 bio:

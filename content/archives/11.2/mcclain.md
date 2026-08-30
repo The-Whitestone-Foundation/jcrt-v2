@@ -1,7 +1,7 @@
 ---
 nanoid: "lqlC8m"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodq3mnz2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtd3gwz52i'
 title: "Sacramental Poetics at the Dawn of Secularism: When God Left the World"
 author: "Daniel J McClain"
 affilation:

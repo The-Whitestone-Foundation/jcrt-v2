@@ -1,7 +1,7 @@
 ---
 nanoid: "_Lwoep"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboe6zndq2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdkavr52g'
 title: "Giving Up the Good: Adorno, Kierkegaard, and the Critique of Political Culture"
 author: "Matthew Waggoner"
 affilation:

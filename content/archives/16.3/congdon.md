@@ -1,7 +1,7 @@
 ---
 nanoid: "jVE6dx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubod6624k2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtcj6ayg2h'
 title: "“See What Is Coming to Pass and Not Only What Is”: Alain Badiou and the Possibility of a Postmetaphysical Theology."
 author: "David W. Congdon"
 affilation:

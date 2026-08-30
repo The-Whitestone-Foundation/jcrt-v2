@@ -1,6 +1,6 @@
 ---
 nanoid: "st79ZL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeqx2zx2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubte4ewj52e'
 name: Nikolas Lambrianou
 affiliation: "Birkbeck, University of London"
 bio:

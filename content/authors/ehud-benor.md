@@ -1,6 +1,6 @@
 ---
 nanoid: "c_Prp2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubofewzmc2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubteqrt4w2i'
 name: Ehud Benor
 affiliation:
 bio:

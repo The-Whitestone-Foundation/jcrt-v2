@@ -1,7 +1,7 @@
 ---
 nanoid: "CbM7Af"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocs3bz42g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtc535cv2e'
 title: "Speaking God’s Presence and Absence as Non-Contrastive Transcendent Distinction"
 author: "Joyce Ann Konigsburg"
 affilation: "DePaul University"

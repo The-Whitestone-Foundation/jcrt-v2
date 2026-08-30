@@ -1,6 +1,6 @@
 ---
 nanoid: "x2kvSn"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboey4hru2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtedjf3w2i'
 name: Lauri Siisiäinen
 affiliation: "University of Jyväskylä"
 bio:

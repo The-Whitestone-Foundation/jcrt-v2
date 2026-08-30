@@ -1,6 +1,6 @@
 ---
 nanoid: "uAArTT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboetjxi22n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubte6xox52e'
 name: "Michael Grimshaw"
 affiliation: "University of Canterbury"
 bio:

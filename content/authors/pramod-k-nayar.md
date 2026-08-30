@@ -1,6 +1,6 @@
 ---
 nanoid: "-EPrFk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboenvuqk2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdzde7u2q'
 name: Pramod K Nayar
 affiliation: "University of Hyderabad, India"
 bio:

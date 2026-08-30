@@ -1,6 +1,6 @@
 ---
 nanoid: "m-Tau3"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubof6b44e23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtejnp522s'
 name: Jean-Luc Marion
 affiliation: "University of Chicago"
 bio:

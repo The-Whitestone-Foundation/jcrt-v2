@@ -1,7 +1,7 @@
 ---
 nanoid: "t6j0u6"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocixfa52f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbtxdf52n'
 title: 'Tsimtsum In Life Of Pi, Part 1 (Daniel Reiser)'
 description: "Yann Martel’s 2001 bestselling novel Life of Pi, later released in 2012 as a prize-winning box office hit, addresses themes such as religion, faith It"
 date: '2020-11-25T05:41:59.000Z'

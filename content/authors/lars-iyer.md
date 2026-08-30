@@ -1,6 +1,6 @@
 ---
 nanoid: "wq7yjr"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeyaykr2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtednwk62h'
 name: Lars Iyer
 affiliation: "University of Newcastle upon Tyne"
 bio:

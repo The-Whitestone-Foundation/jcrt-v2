@@ -1,7 +1,7 @@
 ---
 nanoid: "QPPsqg"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodbqm6r2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtcmt5652p'
 title: What Is A Dispositif? – Part 1 (Gregg Lambert)
 description: "The following article by internationally known theory scholar Gregg Lambert is the first of a two-part series. The concept of “dispositif” is best known as a"
 date: '2016-07-11T03:35:20.000Z'

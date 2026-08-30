@@ -1,6 +1,6 @@
 ---
 nanoid: "hymJTP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubofd6c2e2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubteoyzoo2h'
 name: Francis Sanzaro
 affiliation: "Syracuse University"
 bio:

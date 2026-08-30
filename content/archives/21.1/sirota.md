@@ -1,7 +1,7 @@
 ---
 nanoid: "yrWby1"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocf24m72e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbq2px22u'
 title: "Geschlecht III: Authentic Faith, Religion, and Politics in Derrida’s Reading of Heidegger’s Geist"
 author: "Jake S Sirota"
 affilation:

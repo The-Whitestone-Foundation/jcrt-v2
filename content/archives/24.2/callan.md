@@ -1,7 +1,7 @@
 ---
 nanoid: "gzlGeC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubobzina72z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbeur6c23'
 layout: archives.njk
 article_number: '07'
 volume: '24'

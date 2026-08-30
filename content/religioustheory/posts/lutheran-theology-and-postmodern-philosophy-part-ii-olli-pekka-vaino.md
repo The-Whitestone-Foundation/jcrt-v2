@@ -1,7 +1,7 @@
 ---
 nanoid: "Y4FXCq"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubocuhdsp2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtc7h3y52e'
 title: 'Lutheran Theology and Postmodern Philosophy, Part II (Olli-Pekka Vaino)'
 description: "The following is the second part in a two-part installment. The first part can be found here. Postmodern thinking is generally suspicious against It highlights"
 date: '2018-05-09T07:22:26.000Z'

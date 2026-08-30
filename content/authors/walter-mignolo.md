@@ -1,6 +1,6 @@
 ---
 nanoid: "rsxk2X"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboefh5q72e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdqpmb62i'
 name: Walter Mignolo
 affiliation:
 bio:

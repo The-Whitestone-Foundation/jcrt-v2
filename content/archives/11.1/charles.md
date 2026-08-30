@@ -1,7 +1,7 @@
 ---
 nanoid: "mIjUwJ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubodr6cvp2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtd4j7gm2q'
 title: "The Report of 1 Corinthians 5 in Critical Dialogue with Foucault"
 author: "Ronald Charles"
 affilation:

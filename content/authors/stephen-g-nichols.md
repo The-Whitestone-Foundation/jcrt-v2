@@ -1,6 +1,6 @@
 ---
 nanoid: "_HOO2N"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboeimexr2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdtw77v2g'
 name: Stephen G Nichols
 affiliation: "Villanova University"
 bio:

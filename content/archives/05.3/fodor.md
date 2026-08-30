@@ -1,7 +1,7 @@
 ---
 nanoid: "k0caXb"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muboebpv5v2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtdmwh2v2g'
 title: "Religious Experience and the End of Metaphysics"
 author: "Luke Fodor"
 affilation:
