@@ -32,7 +32,7 @@ Together, these essays resist the idea that matter is passive or spiritually emp
 
 ## Consciousness, performance, and mediation
 
-Several contributions examine the forms through which experience and authority are produced. [Carl A. Raschke](/authors/carl-a-raschke/) connects quantum entanglement, ephaptic coupling, neurotheology, and transcendental semiotics to reopen the study of consciousness and spiritual experience beyond reductive physicalism. [Paige Spencer](/authors/paige-spencer/) reads Augustine's *Confessions* through voyeurism and performance, pressing the text's prayerful form against its own critique of spectatorship and pleasure in suffering. [Reginald Bell Jr.](/authors/reginald-bell/) uses Edwin Black's second and third personas to analyze how Joel Osteen's refusal of a formal presidential endorsement nevertheless constructs a politically legible ideal audience while leaving others unheard.
+Several contributions examine the forms through which experience and authority are produced. [Carl A. Raschke](/authors/carl-raschke/) connects quantum entanglement, ephaptic coupling, neurotheology, and transcendental semiotics to reopen the study of consciousness and spiritual experience beyond reductive physicalism. [Paige Spencer](/authors/paige-spencer/) reads Augustine's *Confessions* through voyeurism and performance, pressing the text's prayerful form against its own critique of spectatorship and pleasure in suffering. [Reginald Bell Jr.](/authors/reginald-bell-jr/) uses Edwin Black's second and third personas to analyze how Joel Osteen's refusal of a formal presidential endorsement nevertheless constructs a politically legible ideal audience while leaving others unheard.
 
 In each case, mediation is active rather than neutral. Brains, texts, performances, interviews, and audiences shape what can appear, who can speak, and how religious meaning enters public life.
 
@@ -49,11 +49,11 @@ These essays do not propose a simple return to inherited certainties. They ask h
 - [Bennett Gilbert](/authors/bennett-gilbert/), [“On the Interdependence of All Things”](/archives/25.2/gilbert/)
 - [Joshua M. Hall](/authors/joshua-m-hall/), [“Holding Green Commons: Vandana Shiva's Spirit-Lanterned Guardians”](/archives/25.2/hall/)
 - [Aaron T. Lockhart](/authors/aaron-t-lockhart/), [“Beyond the Material: Toward a Proper Understanding and Engagement with the Material in Christianity”](/archives/25.2/lockhart/)
-- [Carl A. Raschke](/authors/carl-a-raschke/), [“Spooky Cognition: Quantum Entanglement, Ephaptic Coupling, and the Transcendental Frontiers of Consciousness Studies”](/archives/25.2/raschke/)
+- [Carl A. Raschke](/authors/carl-raschke/), [“Spooky Cognition: Quantum Entanglement, Ephaptic Coupling, and the Transcendental Frontiers of Consciousness Studies”](/archives/25.2/raschke/)
 - [D.A. Shane](/authors/d-a-shane/), [“From Deconstruction to Re-Enchantment: Postmodernism, Metamodernism, and the Re-Emergence of Wonder”](/archives/25.2/shane/)
 - [Paige Spencer](/authors/paige-spencer/), [“Caught in the Act: Voyeurism and Performance in Augustine's *Confessions*”](/archives/25.2/spencer/)
 - [Philipp Valentini](/authors/philipp-valentini/), [“Ibn ʿArabī's Role in Ibrahim Niasse's Thinking: From the Unity of Being to Muḥammad's Names-of-the-Father”](/archives/25.2/valentini/)
-- [Reginald Bell Jr.](/authors/reginald-bell/), [“Artfully Dodging a Presidential Endorsement: How Joel Osteen Uses Rhetoric to Build an Audience for Political Gain”](/archives/25.2/bell/)
+- [Reginald Bell Jr.](/authors/reginald-bell-jr/), [“Artfully Dodging a Presidential Endorsement: How Joel Osteen Uses Rhetoric to Build an Audience for Political Gain”](/archives/25.2/bell/)
 
 [Read JCRT Volume 25, Issue 2.](/archives/25.2/)
 

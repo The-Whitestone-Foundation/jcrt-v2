@@ -6,7 +6,11 @@ import { authorSlug, splitAuthors } from "../_config/authorSlug.js";
 const CACHE_PATH = path.join(process.cwd(), ".cache", "tag-index-cache.json");
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 const LEAN_BUILD = Boolean(process.env.LEAN_BUILD);
-const CACHE_VERSION = 5;
+// Bump when anything that changes a CACHED value changes -- notably authorSlug():
+// the cache stores each file's computed author slugs, so editing the slug function
+// alone leaves untouched files serving their old slugs. Netlify persists .cache
+// between builds (netlify-plugin-cache), so a stale cache survives deploys too.
+const CACHE_VERSION = 6;
 
 const GLOBAL_TAG_EXCLUDED = new Set(["all", "posts", "authors", "nav", "theoryposts", "archives"]);
 const THEORY_TAG_EXCLUDED = new Set(["all", "posts", "theoryposts", "archives", "nav"]);

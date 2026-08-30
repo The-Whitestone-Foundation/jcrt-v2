@@ -187,10 +187,6 @@ function readArchiveEntries() {
     const pdfUrl = pdfFile ? `${FILES_URL}/archives/${issueSlug}/${pdfFile}` : "";
     const canonicalUrl = pdfUrl || pageUrl;
     const canonicalFormat = pdfUrl ? "application/pdf" : "text/html";
-    const stem = pdfFile.toLowerCase().endsWith(".pdf")
-      ? pdfFile.slice(0, -4)
-      : slug;
-
     entries.push({
       issue: issueSlug,
       slug,
@@ -205,7 +201,7 @@ function readArchiveEntries() {
       ep,
       dateStr,
       pdfFile,
-      citationStem: stem,
+      citationStem: slug,
       pageUrl,
       pdfUrl,
       canonicalUrl,

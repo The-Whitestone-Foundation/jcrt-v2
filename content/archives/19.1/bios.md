@@ -70,7 +70,7 @@ subjects:
 
 [**George Quasha**](/authors/george-quasha/) is an American artist and poet who works across media, exploring language, sculpture, drawing, video art, sound and music, installation, and performance. He lives and works in Barrytown, New York, where he is co-founder and director of Station Hill Press.
 
-[**Carl A. Raschke**](/authors/carl-a-raschke/) is Professor of Religious Studies at the University of Denver. He is the author of many books, the most recent is Neoliberalism and Political Theology: From Kant to Identity Politics. He is Senior Editor of the Journal for Cultural and Religious Theory.
+[**Carl A. Raschke**](/authors/carl-raschke/) is Professor of Religious Studies at the University of Denver. He is the author of many books, the most recent is Neoliberalism and Political Theology: From Kant to Identity Politics. He is Senior Editor of the Journal for Cultural and Religious Theory.
 
 [**Petra Carlsson Redell**](/authors/petra-carlsson-redell/) is associate professor of systematic theology, Stockholm School of Theology, Sweden. She is author of Mysticism as Revolt: Foucault, Deleuze and Theology Beyond Representation (2014) and Foucault, Art, and Radical Theology: The Mystery of Things (2019).
 

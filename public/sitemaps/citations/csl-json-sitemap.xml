@@ -237,6 +237,7 @@
   <url><loc>https://files.jcrt.org/citations/archives/08.1/costoya.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/kotsko.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/kroesbergen.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.1/mejido.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/miller.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/nayar.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/nichols.csl.json</loc></url>
@@ -264,31 +265,31 @@
   <url><loc>https://files.jcrt.org/citations/archives/08.2/smith.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.2/stahlberg.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.2/vahabzadeh.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Ables.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Cake.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Eisenstadt.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Eisenstadt2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Horowitz.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Hyman.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Jackson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Keller.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Kottman.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Kunin.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Lupton.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Planinc.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Ramey.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.3/Simmons.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Celermajer.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Grieve-Carlson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Hyman.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Igrek.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Large.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Malabou.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Negri.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Pound.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Raschke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Rubenstein.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/09.1/Smaw.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/ables.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/cake.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/eisenstadt.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/eisenstadt2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/horowitz.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/hyman.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/jackson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/keller.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/kottman.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/kunin.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/lupton.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/planinc.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/ramey.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/08.3/simmons.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/celermajer.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/grieve-carlson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/hyman.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/igrek.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/large.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/malabou.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/negri.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/pound.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/rubenstein.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/09.1/smaw.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/09.2/bielik-robson.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/09.2/boer.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/09.2/crockett.csl.json</loc></url>
@@ -317,18 +318,20 @@
   <url><loc>https://files.jcrt.org/citations/archives/09.3/seitz.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/09.3/shoemaker.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/09.3/smith.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Cauchi.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Gangle.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Miller.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Mooney.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Robert.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Rodkey.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Simmons.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/10.1/Steinmetz-Jenkins.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/cauchi.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/gangle.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/miller.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/mooney.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/robert.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/rodkey.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/simmons.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.1/steinmetz-jenkins.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/bibb.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/borsuk.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/cole.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/duncan-transcription.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.2/duncan.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/10.2/evans.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/mcnellis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/mcrae.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/10.2/reid.csl.json</loc></url>
@@ -402,14 +405,20 @@
   <url><loc>https://files.jcrt.org/citations/archives/12.2/coakley.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/cochrane.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/crockett.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/12.2/crockett_2.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/dickinson-intro.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/dickinson.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/fong.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/12.2/fong_2.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/goodchild.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/heo.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/12.2/heo_2.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/hurlin.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/mackendrick.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/12.2/mackendrick_2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/12.2/montel_hurlin.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/peters.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/12.2/peters_2.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/robert.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/taylor-kosky.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.3/alexander.csl.json</loc></url>
@@ -437,8 +446,10 @@
   <url><loc>https://files.jcrt.org/citations/archives/13.1/schmidt.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/taylor.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/tlostanova.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/13.1/v_squez.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/vasquez.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/woessner.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/13.2/carsey.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/cisney.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/clark.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/coggan.csl.json</loc></url>
@@ -454,10 +465,11 @@
   <url><loc>https://files.jcrt.org/citations/archives/13.2/shaver.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/shillock.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/taylorandweiss.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/13.2/weiss_taylor.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/winters.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.1/alvis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.1/fagenblat.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/14.1/featherstone.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/14.1/featherston.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.1/green.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.1/lauri.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.1/raschke.csl.json</loc></url>
@@ -483,12 +495,14 @@
   <url><loc>https://files.jcrt.org/citations/archives/14.2/schilbrack.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.2/shuster.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.2/simmons-intro.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/14.2/trakakis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.2/trakikis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.2/weidler.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/14.2/wolterstorff-preface.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.1/alvis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.1/cohen.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.1/hagedorn.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/15.1/hagedorn_staudigl_alvis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.1/intro.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.1/raschke.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.1/schuback.csl.json</loc></url>
@@ -504,258 +518,279 @@
   <url><loc>https://files.jcrt.org/citations/archives/15.2/siebers.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.2/valente.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.2/valente2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/Carson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/Ferguson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/InterviewGaia.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/InterviewGiroux.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/InterviewSousanis.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/InterviewUlmer.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/IntroFigueiredo.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/Li.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/Obrien.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/Raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/carson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/clay_robinson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/ferguson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/figueiredo.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/figueiredo_2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewgaia.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewgiroux.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewsousanis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewulmer.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/introfigueiredo.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/li.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/obrien.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/raschke.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/reviewbutler.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Armstrong.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Bray.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Dubilet.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Intro-Marovich.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Marovich.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Meyer.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Moody.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.2/Rose.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Beddard.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Congdon.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Davis.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Introduction.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Karlsen.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Leung.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Osserman.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Phelps.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.3/Weaver.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/stowe_sousanis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/taylor_giroux.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.1/waggoner.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/armstrong.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/bray.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/dubilet.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/intro-marovich.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/marovich.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/meyer.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/moody.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.2/rose.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/beddard.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/congdon.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/davis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.3/introduction.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Beiner.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Bielik.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Caputo.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Dean.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Fitzgerald.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Keller.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Muraca.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Ogunnaike.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Raschke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Richard.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.1/Taylor.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Alvis.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Bornemark.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/DeWarren.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Dodd.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Evink.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Gschwandtner.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Hagedorn-and-Staudigl.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Hart.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Klun.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Marion.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Mensch.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/OMurchadha.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Prole.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.2/Rivera.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/karlsen.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/leung.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/osserman.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/phelps.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/16.3/weaver.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/beiner.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/bielik.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/caputo.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/dean.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/fitzgerald.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/keller.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/muraca.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/ogunnaike.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/richard.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.1/taylor.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/Omurchadha.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/alvis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/bornemark.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/dewarren.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/dodd.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/evink.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/gschwandtner.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/hagedorn_staudigl.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/hart.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/klun.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/17.2/leclercq.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Backman.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Beddard.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Datar.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Davis.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Green.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Kavoulakos.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Lawrence.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Rhodes.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Schmidt.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Soni.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Tutt.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/17.3/Yonker.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Appel.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Burke2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Cook1.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Delay.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Green.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Komkov2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Koser.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Loland1.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/McAndrew.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Pederson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Ramos1.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Richard.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Sharma2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/Spickard2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/DeRoo.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Fishley.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Giardino.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Graham.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Green.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Guerriero.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Harrison.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Hovorun.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/marion.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/mensch.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/prole.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.2/rivera.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/backman.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/beddard.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/datar.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/davis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/green.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/kavoulakos.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/lawrence.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/rhodes.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/schmidt.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/soni.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/tutt.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/17.3/yonker.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/appel.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/bios.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/burke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/burke2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/cook.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/delay.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/green.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/komkov.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/komkov2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/koser.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/l_land.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/loland1.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/mcandrew.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/pederson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/ramos.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/ramos1.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/richard.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/sharma.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/sharma2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/spickard.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.1/spickard2.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.2/Konigsburg.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Lewis.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/McAvan.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Oliver.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Pessin.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Prewitt-Davis.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Samuel.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Stanton.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Trozzo.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.2/Vaino.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Burley.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Cisney.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Deibl.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Goggin.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Haynes.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Jones.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/McCracken.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Murphy.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Onishi.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Roberts.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Rubenstein.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Ruetenik.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.3/Tarleton.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/bios.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/deroo.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/fishley.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/giardino.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/graham.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/green.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/guerriero.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/harrison.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/hovorun.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/lewis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/mcavan.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/oliver.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/pessin.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/prewitt-davis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/samuel.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/stanton.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/trozzo.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.2/vaino.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.3/bios.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/burley.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/cisney.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/deibl.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/goggin.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/haynes.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/jones.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/mccracken.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/murphy.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/onishi.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/roberts.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/roberts_hayden.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.3/robertsandhayden.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Casey.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Cobb.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Dise.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Feld.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Franke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Hart.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Hass.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Jennings.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/McCullough.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Quasha.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Raschke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Redell.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Rubenstein.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Schroeder.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Taylor.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.1/Wolfson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/rubenstein.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/ruetenik.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/18.3/tarleton.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/19.1/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Green.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Hackett.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Hurley.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Hyman.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Maltby.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Marion.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/McAvan.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Molla.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Murphy.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Rosen.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.2/Tinker.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/casey.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/cobb.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/dise.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/feld.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/franke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/hart.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/hass.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/jennings.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/mccullough.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/quasha.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/redell.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/rubenstein.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/schroeder.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/taylor.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.1/wolfson.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/19.2/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/1-Britt.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/2-Almog.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/3-Britt.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/4-Green.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/5-Leibovic.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/6-Rotlevy.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/7-Salzani.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/8-Weidner.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/green.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/hackett.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/hurley.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/hyman.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/maltby.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/marion.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/mcavan.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/molla.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/murphy.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/rosen.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.2/tinker.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/1-britt.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/2-almog.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/3-britt.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/4-green.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/5-leibovic.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/6-rotlevy.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/7-salzani.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/8-weidner.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/19.3/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Ball.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Bedford.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Conroy.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Lacey.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Maeshiro.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/McMaken.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Reiser.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Urquidez.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.1/Willis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/19.3/lebovic.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/ball.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/bedford.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/20.1/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.2/Praise.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/conroy.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/lacey.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/maeshiro.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/mcmaken.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/reiser.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/urquidez.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.1/willis.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/20.2/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Boulting.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Cuda.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Decoloniality.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Felese.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Holdier.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Kline.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/20.3/Klug.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.2/praise.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/20.3/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Bakker.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Boulting.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Burkette.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Marinho.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Raubach.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Sirota.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.1/Skof.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/boulting.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/cuda.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/decoloniality.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/felese.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/holdier.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/kline.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/klug.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/20.3/walsh_mignolo_herrero_tinker.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/bakker.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.1/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Afridi.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Arnold.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Macdonald.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Molla.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Taylor.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Walker.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.2/Wood.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/boulting.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/burkette.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/marinho.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/raubach.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/sirota.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.1/skof.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/afridi.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/arnold.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.2/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley0.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley1.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley2.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley3.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley4.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley5.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley6.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley7.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Bradley8.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Johnston.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Meganck.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Raschke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/Simon.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/macdonald.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/molla.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/taylor.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/walker.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.2/wood.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bielik_robson.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Auer.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Degaetano.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Edlinger.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Grane.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Hujing.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Magnasco.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Patry.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Quell.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Sedmak.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Westin.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.1/Wurts.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Byng.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Dubus.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Hall.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Howes.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Keller.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Raschke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/22.2/Singh.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley0.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley1.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley3.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley4.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley5.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley6.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley7.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley8.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley_2.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley_3.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/gildea.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/johnston.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/meganck.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/nedoh.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/21.3/simon.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/auer.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/edlinger.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/gaetano.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/grane.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/hujing.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/magnasco.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/patry.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/quell.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/sedmak.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/westin_sedmak.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.1/wurts.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/22.2/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Durante.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Grane.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Hujing.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Johnson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Kaur.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Massaro.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Mather.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/McKanan.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Monson.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Pope.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.1/Prewitt-Davis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/byng.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/dubus.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/hall.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/howes.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/keller_raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/22.2/singh.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/23.1/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.2/Arnold.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.2/Marks.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.2/Porter.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.2/Raschke.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/23.2/Sendag.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/durante.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/grane.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/hujing.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/johnson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/kaur.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/massaro.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/mather.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/mckanan.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/monson.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/pope.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.1/prewitt_davis.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.2/arnold.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/23.2/bios.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Daga.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Durante.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Godazgar.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Grammenou.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Grane.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Harwood.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Phelps.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Ruan.csl.json</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/24.1/Silverstein.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.2/marks.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.2/porter.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.2/raschke.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/23.2/sendag.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/24.1/abstracts.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/24.1/bios.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/daga.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/durante.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/godazgar.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/grammenou.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/grane.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/harwood.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/phelps.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/ruan.csl.json</loc></url>
+  <url><loc>https://files.jcrt.org/citations/archives/24.1/silverstein.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/24.2/alencar.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/24.2/author-bios.csl.json</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/24.2/barry.csl.json</loc></url>

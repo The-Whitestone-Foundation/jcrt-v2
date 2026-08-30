@@ -20,7 +20,7 @@ keywords:
   - nirvana
   - religions-comparative-studies
   - tipit-aka
-pdf: d'amato.pdf
+pdf: damato.pdf
 sort_id: 01
 volume: 9
 issue: 2

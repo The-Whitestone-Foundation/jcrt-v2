@@ -71,6 +71,37 @@ added, affiliation typos fixed (`Lindenwood Uniiversity`, a stray leading `:`,
 > **Deleting any content file:** remove its key from `_data/standardSiteRecords.yaml` too,
 > or `npm run standard:check` fails and `build:netlify` aborts.
 
+### 2026-08-30 (later) — author page/byline reconciliation
+Applied **28 ORCID iDs** — every one corroborated by a JCRT publication already on that
+person's own ORCID record. 77 `high` and 17 `medium` rows still await review in
+`output/orcid-candidates.yaml`.
+
+Swept every published byline against the author files and closed **17 orphan bylines** —
+articles whose byline linked to an author page that did not exist, which also left the
+author's own page empty (and `_includes/authors.njk` hides bio, affiliation and ORCID on an
+article-less page, so those were invisible too).
+
+- **Renamed to canonical slugs:** `reginald-bell` → `reginald-bell-jr`,
+  `carl-a-raschke` → `carl-raschke`, `senart-skof` → `lenart-skof` (slug typo).
+- **Carl A. Raschke normalized** — one page at `/authors/carl-raschke/` now holding **49
+  items**; all bylines and bio links show "Carl A. Raschke".
+- **Removed 4 dead author pages:** `michael-grimshaw`, `mike-sugimotor`, `dashan-datar`
+  (duplicates of pages that had the articles) and `john_dhoe` (placeholder).
+- **Created 7 author files** that never existed: CJ Gordon, Jean Leclercq, Joyce Ann
+  Konigsburg, Manuel Mejido Costoya, Manuel Vasquez, N.N. Trakikis, Nicholas Wolterstorff.
+- **7 aliases** for bylines that belong to an existing page (S.J. Cowan, Ben Stahlberg,
+  Charles Winquist, Hent de Vries, Jonathan Scott Lee, Peter Heltzel, Carl A. Raschke).
+- **Byline typos fixed:** "Stephen Benko" → "Steven A. Benko" (the Buffy article is the
+  Meredith College Benko), "Jean Leclerq" → "Jean Leclercq" (matches `leclercq.md`).
+- 24 redirects added; 8 files relinked off dead `/authors/` URLs.
+
+> **`_data/tagIndex.js` caches each file's computed author slugs, and `CACHE_VERSION` must
+> be bumped whenever `authorSlug()` changes.** Otherwise files whose *content* did not change
+> keep serving their old slugs — and because `netlify-plugin-cache` persists `.cache` across
+> deploys, a stale cache survives into production. This silently swallowed the Raschke merge
+> (his page built with 2 articles instead of 49) until the version was bumped to 6.
+
+
 ## Needs
 ~~1. netlify integration~~
 - after the domain name is activated impliement a DAM for pdfs and citations

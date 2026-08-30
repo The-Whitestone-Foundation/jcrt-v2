@@ -47,6 +47,19 @@ const CANONICAL_SLUGS = new Map([
 	["jason-alvis", "jason-w-alvis"],
 	["roger-green", "roger-k-green"],
 	["rodger-k-green", "roger-k-green"],
+	// Bylines whose slug does not match the author file they belong to. Without
+	// these the byline links to a page that does not exist, and the author's own
+	// page shows none of their work (which also hides their bio and ORCID).
+	["s-j-cowan", "sj-cowan"],
+	["ben-stahlberg", "benjamin-stahlberg"],
+	["charles-winquist", "charles-e-winquist"],
+	["hent-de-vries", "hent-vries"],
+	["jonathan-scott-lee", "jonathan-lee"],
+	["peter-heltzel", "peter-goodwin-heltzel"],
+	["carl-a-raschke", "carl-raschke"],
+	["n-n-trakakis", "nn-trakakis"],
+	["n-n-trakikis", "nn-trakakis"],
+	["nick-trakakis", "nn-trakakis"],
 ]);
 
 export function authorSlug(name) {

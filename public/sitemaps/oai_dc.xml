@@ -2,7 +2,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-08-30T10:38:34.871Z</responseDate>
+  <responseDate>2026-08-30T21:14:52.925Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -8392,7 +8392,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Televised Morality: the Case of Buffy the Vampire Slayer</dc:title>
-          <dc:creator>Stephen Benko</dc:creator>
+          <dc:creator>Steven A. Benko</dc:creator>
           <dc:subject>buffy-the-vampire-slayer</dc:subject>
           <dc:subject>television-morality</dc:subject>
           <dc:subject>popular-culture</dc:subject>
@@ -13124,11 +13124,11 @@
           <dc:type>article</dc:type>
           <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://files.jcrt.org/archives/09.2/d&apos;amato.pdf</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/09.2/damato.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 9, No. 2</dc:source>
           <dc:language>en</dc:language>
-          <dc:relation>https://files.jcrt.org/archives/09.2/d&apos;amato.pdf</dc:relation>
+          <dc:relation>https://files.jcrt.org/archives/09.2/damato.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -21984,7 +21984,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Not Your Grandmother’s Theory of Religion: an Interview with Carl Raschke.</dc:title>
-          <dc:creator>Carl Raschke</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:creator>David Hale</dc:creator>
           <dc:subject>religious-studies</dc:subject>
           <dc:subject>carl</dc:subject>
@@ -22863,7 +22863,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>Philiosophy Mashed Up and In Crisis</dc:title>
-          <dc:creator>N.N. Trakikis</dc:creator>
+          <dc:creator>N. N. Trakakis</dc:creator>
           <dc:subject>mashup-philosophy-of-religion</dc:subject>
           <dc:subject>analytic-philosophy</dc:subject>
           <dc:subject>continental-philosophy</dc:subject>
@@ -27195,7 +27195,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>The End of Theology and The Event of Truth</dc:title>
-          <dc:creator>Carl Raschke</dc:creator>
+          <dc:creator>Carl A. Raschke</dc:creator>
           <dc:subject>end-of-theology</dc:subject>
           <dc:subject>event-of-truth</dc:subject>
           <dc:subject>carl-raschke</dc:subject>
@@ -29812,7 +29812,7 @@
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
           <dc:title>How to do things with words (of God)? Michel Henry’s Phenomenology of Religion</dc:title>
-          <dc:creator>Jean Leclerq</dc:creator>
+          <dc:creator>Jean Leclercq</dc:creator>
           <dc:subject>michel-henry</dc:subject>
           <dc:subject>phenomenology-of-religion</dc:subject>
           <dc:subject>philosophy-of-language</dc:subject>

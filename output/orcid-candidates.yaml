@@ -541,7 +541,7 @@ authors:
     name: Amaryah Armstrong
     affiliation: Vanderbilt Graduate Department of Religion
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-1097-9799
         name: Amaryah Armstrong
@@ -1076,7 +1076,7 @@ authors:
     name: April O'brien
     affiliation: Clemson University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0001-9756-5478
         name: April O'Brien
@@ -1114,7 +1114,7 @@ authors:
     name: Arthur Bradley
     affiliation: Lancaster University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0003-1017-1076
         name: Arthur Humphrey Bradley
@@ -2085,7 +2085,7 @@ authors:
     name: Christopher D Rodkey
     affiliation: Lebanon Valley College, Drew University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0009-0004-2741-0197
         name: Christopher Rodkey
@@ -2135,7 +2135,7 @@ authors:
     name: Christopher Mayes
     affiliation: Centre for Values, Ethics and the Law in Medicine, University of Sydney
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0003-2674-6225
         name: Christopher Mayes
@@ -2740,7 +2740,7 @@ authors:
     name: Darshan Datar
     affiliation: European University Institute
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-0132-3587
         name: Darshan Datar
@@ -3284,7 +3284,7 @@ authors:
     name: Eddo Evink
     affiliation: null
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0003-4301-4392
         name: Eddo Evink
@@ -3568,7 +3568,7 @@ authors:
     name: Felix Ó Murchadha
     affiliation: null
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-7764-3552
         name: Felix Ó Murchadha
@@ -3633,7 +3633,7 @@ authors:
     name: Florian Klug
     affiliation: University of Würzburg
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-4458-3450
         name: Florian Klug
@@ -3672,7 +3672,7 @@ authors:
     name: Forrest Clingerman
     affiliation: University of Iowa
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-5668-8436
         name: Forrest Clingerman
@@ -3853,7 +3853,7 @@ authors:
     name: Gavin Hyman
     affiliation: University of Lancaster, UK
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-2227-6855
         name: Gavin Hyman
@@ -3867,7 +3867,7 @@ authors:
     name: Genn Ruan
     affiliation: University of California, Riverside
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-3928-9361
         name: Genn Ruan
@@ -4081,7 +4081,7 @@ authors:
     name: Hemopereki Simon
     affiliation: University of Kent
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0003-3764-0995
         name: Hemopereki Simon
@@ -4468,7 +4468,7 @@ authors:
     name: Jacky Bowring
     affiliation: Lincoln University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0003-4979-2734
         name: Jacqueline Bowring
@@ -4491,7 +4491,7 @@ authors:
     name: Jakob Deibl
     affiliation: University of Vienna
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-7820-0569
         name: Jakob Helmut Deibl
@@ -5658,7 +5658,7 @@ authors:
     name: Jordan Osserman
     affiliation: University College London
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-9858-8265
         name: Jordan Osserman
@@ -6081,7 +6081,7 @@ authors:
     name: Jussi Backman
     affiliation: University of Jyväskylä
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-5243-6004
         name: Jussi Backman
@@ -6460,7 +6460,7 @@ authors:
     name: King-Ho Leung
     affiliation: University of Nottingham
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0001-5551-7865
         name: King-Ho Leung
@@ -7167,7 +7167,7 @@ authors:
     name: Marika Rose
     affiliation: Winchester University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0001-8595-7482
         name: Marika Rose
@@ -8023,7 +8023,7 @@ authors:
     name: Michael Oliver
     affiliation: University of Oxford
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-8800-7076
         name: Michael Oliver
@@ -8253,7 +8253,7 @@ authors:
     name: Mikel Burley
     affiliation: University of Leeds
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-7446-3564
         name: Mikel Burley
@@ -8376,7 +8376,7 @@ authors:
     name: Niall Gildea
     affiliation: Lancaster University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-6138-332X
         name: Niall Gildea
@@ -8476,7 +8476,7 @@ authors:
     name: Nikolay Karkov
     affiliation: null
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0001-5324-180X
         name: Nikolay Karkov
@@ -9840,7 +9840,7 @@ authors:
     name: Ruud Welten
     affiliation: Erasmus University and Tilburg University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-8069-1782
         name: Ruud Welten
@@ -10349,7 +10349,7 @@ authors:
     name: Sophie Fuggle
     affiliation: King's College, London
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0001-9688-9593
         name: Sophie Fuggle
@@ -10759,7 +10759,7 @@ authors:
     name: Timothy (Timothy W) Stanley
     affiliation: University of Manchester
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0003-0553-8240
         name: Timothy Stanley
@@ -10809,7 +10809,7 @@ authors:
     name: Todd A Gooch
     affiliation: Eastern Kentucky University
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0009-0001-2570-1618
         name: Todd Andrew Gooch
@@ -11107,7 +11107,7 @@ authors:
     name: Vivek Swaroop Sharma
     affiliation: Pomona College
     confidence: high
-    confirm: false
+    confirm: true
     candidates:
       - orcid: 0000-0002-8718-8549
         name: Vivek Sharma

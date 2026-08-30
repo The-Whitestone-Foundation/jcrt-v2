@@ -67,4 +67,4 @@ subjects:
 
 [**Jake Sirota**](/authors/jake-s-sirota/) is a master’s student at the University of Chicago, specializing in Divinity and Philosophy of Religion. He specializes in continental philosophy of religion, deconstruction and religion, religion and naturalism, phenomenology, modernity and dis/re-enchantment, queer issues, postcoloniality, and religion in the public sphere.
 
-[**Lenart Škof**](/authors/senart-skof/) is Head of the Institute for Philosophical Studies at the Science and Research Centre (Koper, Slovenia) and Dean of Institutum Studiorum Humanitatis (Ljubljana, Slovenia). He recently published Antigone’s Sisters: On the Matrix of Love (SUNY Press, 2021) and coedited Atmospheres of Breathing (with Petri Berndtson; SUNY Press, 2018).
+[**Lenart Škof**](/authors/lenart-skof/) is Head of the Institute for Philosophical Studies at the Science and Research Centre (Koper, Slovenia) and Dean of Institutum Studiorum Humanitatis (Ljubljana, Slovenia). He recently published Antigone’s Sisters: On the Matrix of Love (SUNY Press, 2021) and coedited Atmospheres of Breathing (with Petri Berndtson; SUNY Press, 2018).
