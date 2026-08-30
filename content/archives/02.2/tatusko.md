@@ -10,7 +10,7 @@ title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 author: "Andrew Tatusko"
 affiliation:
 description:
-pdf: false
+pdf: 'tatusko.pdf'
 date:
 keywords:
   - cyberspace

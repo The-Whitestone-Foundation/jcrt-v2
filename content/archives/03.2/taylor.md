@@ -10,7 +10,7 @@ title: "Desire and Mourning: Theology and the Literary Imagination"
 author: "Victor Taylor"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor.pdf'
 date:
 keywords:
   - theology

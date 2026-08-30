@@ -10,7 +10,7 @@ title: "Creation: Lacan in Kansas"
 author: "Richard Halpern"
 affiliation:
 description:
-pdf: false
+pdf: 'halpern.pdf'
 date:
 keywords:
   - jacques-lacan

@@ -10,7 +10,7 @@ title: "Aristotle and Religious Theory"
 author: "Alan J Richard"
 affiliation:
 description:
-pdf: false
+pdf: 'richard.pdf'
 date:
 keywords:
   - aristotle

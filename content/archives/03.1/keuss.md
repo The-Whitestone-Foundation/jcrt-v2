@@ -10,7 +10,7 @@ title: "DiffÉRance That Comes as One Unknown: Christology After Derrida’s ‘
 author: "Jeffrey F Keuss"
 affiliation:
 description:
-pdf: false
+pdf: 'keuss.pdf'
 date:
 keywords:
   - christology

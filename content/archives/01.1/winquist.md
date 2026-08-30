@@ -10,7 +10,7 @@ title: "The Ambiguous Gift of Desire"
 author: "Charles Winquist"
 affiliation: Syracuse University
 description:
-pdf: false
+pdf: 'winquist.pdf'
 date:
 keywords:
   - desire

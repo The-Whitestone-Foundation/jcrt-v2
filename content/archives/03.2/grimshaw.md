@@ -10,7 +10,7 @@ title: "Preacher"
 author: "Mike Grimshaw"
 affiliation:
 description:
-pdf: false
+pdf: 'grimshaw.pdf'
 date:
 keywords:
   - death-of-god

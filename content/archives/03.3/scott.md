@@ -10,7 +10,7 @@ title: "Why God Won’t Go Away: Brain Science and the Biology of Belief"
 author: "Noel Dane Scott"
 affiliation:
 description:
-pdf: false
+pdf: 'scott.pdf'
 date:
 keywords:
   - neuroscience-of-religion

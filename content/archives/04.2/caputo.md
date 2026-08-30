@@ -10,7 +10,7 @@ title: "After Jacques Derrida Comes the Future"
 author: "John D. Caputo"
 affiliation:
 description:
-pdf: false
+pdf: 'caputo.pdf'
 date:
 keywords:
   - deconstruction

@@ -10,7 +10,7 @@ title: "Mircea Eliade and the Imagination of Matter"
 author: "Charles H Long"
 affiliation:
 description:
-pdf: false
+pdf: 'long.pdf'
 date:
 keywords:
   - mircea-eliade

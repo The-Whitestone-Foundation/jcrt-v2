@@ -10,7 +10,7 @@ title: "The Matter of Responsibility: Derrida and Gifting Across Cultures"
 author: "Ken Lokensgard"
 affiliation:
 description:
-pdf: false
+pdf: 'lokensgard.pdf'
 date:
 keywords:
   - gift

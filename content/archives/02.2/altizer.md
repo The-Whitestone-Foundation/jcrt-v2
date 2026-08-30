@@ -10,7 +10,7 @@ title: "Absolute Nothingness and Taylor’s Imagology"
 author: "Thomas J J Altizer"
 affiliation:
 description:
-pdf: false
+pdf: 'altizer.pdf'
 date:
 keywords:
   - death-of-god

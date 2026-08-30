@@ -10,7 +10,7 @@ title: "Religion and Modernity in Current Debate"
 author: "Vincent P Pecora"
 affiliation:
 description:
-pdf: false
+pdf: 'pecora.pdf'
 date:
 keywords:
   - religion

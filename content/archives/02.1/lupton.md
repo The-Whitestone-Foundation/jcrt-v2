@@ -10,7 +10,7 @@ title: "Religion and Psychoanalysis: Three Fundamental Concepts"
 author: "Julia Reinhard Lupton"
 affiliation:
 description:
-pdf: false
+pdf: 'lupton.pdf'
 date:
 keywords:
   - god-and-human-beings

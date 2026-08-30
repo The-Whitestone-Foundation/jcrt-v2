@@ -10,7 +10,7 @@ title: "Taking Shape: on the Current Constellation of (Religious) Thought"
 author: "Clayton Crockett"
 affiliation:
 description:
-pdf: false
+pdf: 'crockett.pdf'
 date:
 keywords:
   - religious-thought

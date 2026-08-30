@@ -2,8 +2,8 @@
 nanoid: "eO7nnD"
 doi:
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtcybdtb2f'
-title: "Jesus Beyond Christ: Erri De Luca and The"
-author: "Elise Mon℡-Hurlin"
+title: "Jesus Beyond Christ: Erri De Luca and the ‘Self as Stumbling Block’"
+author: "Elise Montel-Hurlin"
 affilation:
 abstract: "The author highlights how the act of translating the Bible has allowed Italian left-wing activist Erri de Luca to come into contact with an"
 keywords:

@@ -10,7 +10,7 @@ title: "‘Misrecognition of the Limits’: Bourdieu’s Religious Capital and S
 author: "Lora Stone"
 affiliation:
 description:
-pdf: false
+pdf: 'stone.pdf'
 date:
 keywords:
   - pierre-bourdieu

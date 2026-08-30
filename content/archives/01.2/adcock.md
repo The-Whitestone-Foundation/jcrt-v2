@@ -10,7 +10,7 @@ title: "Xena Warrior Princess and the Texture of the Religious: Re-Imagining the
 author: "David A Adcock"
 affiliation:
 description:
-pdf: false
+pdf: 'adcock.pdf'
 date:
 keywords:
   - popular-culture

@@ -10,7 +10,7 @@ title: "Diversity in the History of Religions"
 author: "Philip P Arnold"
 affiliation:
 description:
-pdf: false
+pdf: 'arnold.pdf'
 date:
 keywords:
   - history-of-religions

@@ -10,7 +10,7 @@ title: "Contemporary Encounters with Apophatic Theology: the Case of Emmanuel Le
 author: "Jeffrey L Kosky"
 affiliation:
 description:
-pdf: false
+pdf: 'kosky.pdf'
 date:
 keywords:
   - apophatic-theology

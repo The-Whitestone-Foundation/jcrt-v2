@@ -10,7 +10,7 @@ title: "Quoting Mieke Bal’s Navel: Contemporary Theory, Preposterous Religion"
 author: "Benjamin Bennett-Carpenter"
 affiliation:
 description:
-pdf: false
+pdf: 'bennett-carpenter.pdf'
 date:
 keywords:
   - mieke-bal

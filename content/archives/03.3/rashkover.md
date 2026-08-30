@@ -10,7 +10,7 @@ title: "The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Rela
 author: "Randi Rashkover"
 affiliation:
 description:
-pdf: false
+pdf: 'rashkover.pdf'
 date:
 keywords:
   - radical-orthodoxy

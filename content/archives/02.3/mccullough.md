@@ -10,7 +10,7 @@ title: "Jean Baudrillard and the Death of God"
 author: "Lissa McCullough"
 affiliation:
 description:
-pdf: false
+pdf: 'mccullough.pdf'
 date:
 keywords:
   - jean-baudrillard

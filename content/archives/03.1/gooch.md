@@ -10,7 +10,7 @@ title: "The Epistemic Status of Value-Cognition in Max Scheler’s Philosophy of
 author: "Todd A Gooch"
 affiliation:
 description:
-pdf: false
+pdf: 'gooch.pdf'
 date:
 keywords:
   - max-scheler

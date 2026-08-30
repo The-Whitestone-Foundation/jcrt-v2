@@ -10,7 +10,7 @@ title: "Of Spectacularization: Writing New Media Theory"
 author: "Craig J Saper"
 affiliation:
 description:
-pdf: false
+pdf: 'saper.pdf'
 date:
 keywords:
   - spectacle

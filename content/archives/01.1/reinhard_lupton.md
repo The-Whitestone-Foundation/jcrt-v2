@@ -10,7 +10,7 @@ title: "Jewish Studies and the Secular University: Religion Between Culture and 
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affiliation:
 description:
-pdf: false
+pdf: 'reinhard_lupton.pdf'
 date:
 keywords:
   - jewish-studies

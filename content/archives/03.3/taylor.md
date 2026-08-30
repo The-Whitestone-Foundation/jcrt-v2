@@ -10,7 +10,7 @@ title: "The City of K: Franz Kafka and Prague"
 author: "Victor Taylor"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor.pdf'
 date:
 keywords:
   - franz-kafka

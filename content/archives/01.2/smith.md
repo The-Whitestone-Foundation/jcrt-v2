@@ -10,7 +10,7 @@ title: "An Ethics of Remembering: History, Heterology, and the Nameless Others"
 author: "Steven G Smith"
 affiliation:
 description:
-pdf: false
+pdf: 'smith.pdf'
 date:
 keywords:
   - heterology

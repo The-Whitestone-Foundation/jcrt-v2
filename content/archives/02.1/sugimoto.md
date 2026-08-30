@@ -10,7 +10,7 @@ title: "The Scandal of the Evangelical Mind"
 author: "Michael Tadashi Sugimoto"
 affiliation:
 description:
-pdf: false
+pdf: 'sugimoto.pdf'
 date:
 keywords:
   - evangelicalism

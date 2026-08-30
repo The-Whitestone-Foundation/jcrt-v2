@@ -10,7 +10,7 @@ title: "Deconstructing the Great Chain of Being"
 author: "Jonathan Scott Lee"
 affiliation:
 description:
-pdf: false
+pdf: 'lee.pdf'
 date:
 keywords:
   - mysticism

@@ -10,7 +10,7 @@ title: "The Critique of Theological Reason"
 author: "David Hale"
 affiliation:
 description:
-pdf: false
+pdf: 'hale.pdf'
 date:
 keywords:
   - postmodernism

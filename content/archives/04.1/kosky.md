@@ -10,7 +10,7 @@ title: "Iconic Revisions of the Modern World Picture"
 author: "Jeffrey L Kosky"
 affiliation:
 description:
-pdf: false
+pdf: 'kosky.pdf'
 date:
 keywords:
   - icon

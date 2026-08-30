@@ -10,7 +10,7 @@ title: "Wonder, Creativity and Knowledge"
 author: "Andrew W Metcalfe"
 affiliation:
 description:
-pdf: false
+pdf: 'metcalfe.pdf'
 date:
 keywords:
   - wonder

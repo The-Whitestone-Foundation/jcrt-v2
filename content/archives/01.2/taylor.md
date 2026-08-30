@@ -10,7 +10,7 @@ title: "The Division of Religion with Signs Following"
 author: "Victor Taylor"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor.pdf'
 date:
 keywords:
   - religious-theory

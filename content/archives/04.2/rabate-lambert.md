@@ -10,7 +10,7 @@ title: "A Conversation on the Future of Theory"
 author: "Jean-Michel Rabaté; Gregg Lambert"
 affiliation:
 description:
-pdf: false
+pdf: 'rabate-lambert.pdf'
 date:
 keywords:
   - future-of-theory

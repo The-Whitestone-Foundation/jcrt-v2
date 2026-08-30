@@ -10,7 +10,7 @@ title: "The New Ricoeur Scholarship"
 author: "Boyd Blundell"
 affiliation:
 description:
-pdf: false
+pdf: 'blundell.pdf'
 date:
 keywords:
   - paul-ricoeur

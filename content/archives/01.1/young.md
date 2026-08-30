@@ -10,7 +10,7 @@ title: "Politics of Friendship"
 author: "William W Young"
 affiliation:
 description:
-pdf: false
+pdf: 'young.pdf'
 date:
 keywords:
   - friendship

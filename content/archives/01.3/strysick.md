@@ -10,7 +10,7 @@ title: "Culture Wars, Religion, and the Postmodern Sacred"
 author: "Michael Strysick"
 affiliation:
 description:
-pdf: false
+pdf: 'strysick.pdf'
 date:
 keywords:
   - culture-wars

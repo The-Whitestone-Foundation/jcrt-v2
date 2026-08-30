@@ -10,7 +10,7 @@ title: "Redemption: Lacan Avec Marx"
 author: "Gregg Lambert"
 affiliation:
 description:
-pdf: false
+pdf: 'lambert.pdf'
 date:
 keywords:
   - jacques-lacan

@@ -10,7 +10,7 @@ title: "Dead Man"
 author: "C Jason Lee"
 affiliation:
 description:
-pdf: false
+pdf: 'lee.pdf'
 date:
 keywords:
   - death

@@ -10,7 +10,7 @@ title: "The Future of Theory"
 author: "Victor Taylor; Gregg Lambert"
 affiliation:
 description:
-pdf: false
+pdf: 'lambert-taylor.intro.pdf'
 date:
 keywords:
   - future-of-theory

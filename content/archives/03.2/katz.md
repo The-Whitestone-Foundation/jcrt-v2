@@ -10,7 +10,7 @@ title: "Left Traumatized: Zizek’s Lenin and Politics After 9/11"
 author: "Adam Katz"
 affiliation:
 description:
-pdf: false
+pdf: 'katz.pdf'
 date:
 keywords:
   - slavoj-zizek

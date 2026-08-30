@@ -10,7 +10,7 @@ title: "A. I: Artificial Intelligence"
 author: "Dennis M Weiss"
 affiliation:
 description:
-pdf: false
+pdf: 'weiss.pdf'
 date:
 keywords:
   - artificial-intelligence

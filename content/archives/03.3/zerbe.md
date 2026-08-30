@@ -10,7 +10,7 @@ title: "Anaximander and the Architects: the Contributions of Egyptian and Greek 
 author: "Michael J Zerbe"
 affiliation:
 description:
-pdf: false
+pdf: 'zerbe.pdf'
 date:
 keywords:
   - anaximander

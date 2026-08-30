@@ -10,7 +10,7 @@ title: "In Memoriam: Dr. Charles E. Winquist - JCRT 3.2"
 author:
 affiliation:
 description:
-pdf: false
+pdf: 'winquist.pdf'
 date:
 keywords:
   - charles-winquist

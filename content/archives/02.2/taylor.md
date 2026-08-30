@@ -10,7 +10,7 @@ title: "The Metaphysics of Indeterminacy: Postmodern Religious Theory and the Ru
 author: "Victor Taylor"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor.pdf'
 date:
 keywords:
   - gilles-deleuze

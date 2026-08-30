@@ -10,7 +10,7 @@ title: "Ekphrastic Plastic Fragments: Mark C. Taylor in and Out of Context"
 author: "Camelia Elias"
 affiliation:
 description:
-pdf: false
+pdf: 'elias.pdf'
 date:
 keywords:
   - ekphrasis

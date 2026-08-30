@@ -10,7 +10,7 @@ title: "Muslims: Their Religious Beliefs and Practices"
 author: "Liyakatali Takim"
 affiliation:
 description:
-pdf: false
+pdf: 'takim.pdf'
 date:
 keywords:
   - islam

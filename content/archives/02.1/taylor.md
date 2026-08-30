@@ -10,7 +10,7 @@ title: "Artist’s Statement"
 author: "Christopher M Taylor; Christopher M Taylor"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor.pdf'
 date:
 keywords:
   - medium-specificity

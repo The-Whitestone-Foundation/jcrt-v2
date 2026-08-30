@@ -10,7 +10,7 @@ title: "Across the Boundaries of Belief: Contemporary Issues in the Anthropology
 author: "Carol S Anderson"
 affiliation:
 description:
-pdf: false
+pdf: 'anderson.pdf'
 date:
 keywords:
   - anthropology-of-religion

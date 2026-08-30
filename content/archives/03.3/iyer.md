@@ -10,7 +10,7 @@ title: "The City and the Stars: Politics and Alterity in Heidegger, Levinas and 
 author: "Lars Iyer"
 affiliation:
 description:
-pdf: false
+pdf: 'iyer.pdf'
 date:
 keywords:
   - martin-heidegger

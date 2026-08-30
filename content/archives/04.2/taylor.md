@@ -10,7 +10,7 @@ title: "Refusing Theory: Avital Ronell and the Structure of Stupidity"
 author: "Victor Taylor"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor.pdf'
 date:
 keywords:
   - stupidity

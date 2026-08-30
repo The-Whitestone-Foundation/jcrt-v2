@@ -10,7 +10,7 @@ title: "The Deposition of the Sign: Postmodernism and the Crisis of Religious St
 author: "Carl A. Raschke"
 affiliation:
 description:
-pdf: false
+pdf: 'raschke.pdf'
 date:
 keywords:
   - postmodernism

@@ -10,7 +10,7 @@ title: "The Word of Freud: Our God Is Logos"
 author: "Robert Metcalf"
 affiliation:
 description:
-pdf: false
+pdf: 'metcalf.pdf'
 date:
 keywords:
   - sigmund-freud

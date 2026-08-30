@@ -10,7 +10,7 @@ title: "Revelation: Lacan and the Ten Commandments"
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affiliation:
 description:
-pdf: false
+pdf: 'reinhard_lupton.pdf'
 date:
 keywords:
   - jacques-lacan

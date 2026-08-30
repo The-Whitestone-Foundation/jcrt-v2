@@ -10,7 +10,7 @@ title: "Heidegger, Religion, and the Transience of Digital Memory"
 author: "Neal Magee"
 affiliation:
 description:
-pdf: false
+pdf: 'magee.pdf'
 date:
 keywords:
   - martin-heidegger

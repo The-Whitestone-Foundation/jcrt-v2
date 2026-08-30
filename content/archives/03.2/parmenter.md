@@ -10,7 +10,7 @@ title: "The Book of the Heart"
 author: "Dorina Miller Parmenter"
 affiliation:
 description:
-pdf: false
+pdf: 'parmenter.pdf'
 date:
 keywords:
   - book-of-the-heart

@@ -10,7 +10,7 @@ title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
 author:
 affiliation:
 description:
-pdf: false
+pdf: 'index2.pdf'
 date:
 keywords:
   - cultural-religious-theory

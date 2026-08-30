@@ -10,7 +10,7 @@ title: "Theory Change"
 author: "Jeffrey J. Williams"
 affiliation:
 description:
-pdf: false
+pdf: 'williams.pdf'
 date:
 keywords:
   - literary-criticism

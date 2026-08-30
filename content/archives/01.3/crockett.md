@@ -10,7 +10,7 @@ title: "Economies of Studying Religion"
 author: "Clayton Crockett"
 affiliation:
 description:
-pdf: false
+pdf: 'crockett.pdf'
 date:
 keywords:
   - religious-studies

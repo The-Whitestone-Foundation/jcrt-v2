@@ -10,7 +10,7 @@ title: "Contributions to Philosophy (from Enowning)"
 author: "Clayton Crockett"
 affiliation:
 description:
-pdf: false
+pdf: 'crockett.pdf'
 date:
 keywords:
   - martin-heidegger

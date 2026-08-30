@@ -10,7 +10,7 @@ title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
 author: "Carl A. Raschke"
 affiliation:
 description:
-pdf: false
+pdf: 'raschke.pdf'
 date:
 keywords:
   - emmanuel-levinas

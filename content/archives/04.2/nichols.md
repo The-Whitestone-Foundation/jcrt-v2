@@ -10,7 +10,7 @@ title: "Laughter as Gesture: Hilarity and the Anti-Sublime"
 author: "Stephen G Nichols"
 affiliation:
 description:
-pdf: false
+pdf: 'nichols.pdf'
 date:
 keywords:
   - laughter

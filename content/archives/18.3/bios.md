@@ -6,7 +6,7 @@ article_number: 00
 affilation:
 abstract:
 keywords: []
-pdf: false
+pdf: 'bios.pdf'
 html_canonical: true
 sort_id: 01
 year: 2019

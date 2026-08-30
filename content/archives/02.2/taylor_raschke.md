@@ -10,7 +10,7 @@ title: "About About Religion: a Conversation with Mark C. Taylor"
 author: "Mark C Taylor; Carl A. Raschke"
 affiliation:
 description:
-pdf: false
+pdf: 'taylor_raschke.pdf'
 date:
 keywords:
   - mark-c-taylor

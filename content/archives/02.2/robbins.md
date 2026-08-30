@@ -10,7 +10,7 @@ title: "God, the Gift, and Postmodernism"
 author: "Jeffrey W Robbins"
 affiliation:
 description:
-pdf: false
+pdf: 'robbins.pdf'
 date:
 keywords:
   - negative-theology

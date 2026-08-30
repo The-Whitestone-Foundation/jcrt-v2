@@ -10,7 +10,7 @@ title: "The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and 
 author: "William D Dean"
 affiliation:
 description:
-pdf: false
+pdf: 'dean.pdf'
 date:
 keywords:
   - american-philosophy

@@ -10,7 +10,7 @@ title: "Difference and Repetition"
 author: "Oz Lorentzen"
 affiliation:
 description:
-pdf: false
+pdf: 'lorentzen.pdf'
 date:
 keywords:
   - gilles-deleuze

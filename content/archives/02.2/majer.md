@@ -10,7 +10,7 @@ title: "On Contagions: Leviticus and the Fascination of the Abomination"
 author: "Gerald Majer"
 affiliation:
 description:
-pdf: false
+pdf: 'majer.pdf'
 date:
 keywords:
   - contagion

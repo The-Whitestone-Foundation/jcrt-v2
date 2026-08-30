@@ -10,7 +10,7 @@ title: "Sacred Pain: Hurting the Body for the Sake of the Soul"
 author: "Perri Druen"
 affiliation:
 description:
-pdf: false
+pdf: 'druen.pdf'
 date:
 keywords:
   - sacred-pain

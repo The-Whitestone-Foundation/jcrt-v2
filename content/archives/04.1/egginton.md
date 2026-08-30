@@ -10,7 +10,7 @@ title: "The Christianization of Deconstruction"
 author: "William Egginton"
 affiliation:
 description:
-pdf: false
+pdf: 'egginton.pdf'
 date:
 keywords:
   - deconstruction

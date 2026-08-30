@@ -10,7 +10,7 @@ title: "Phänomenologie des religiösen Lebens"
 author: "Sean J McGrath"
 affiliation:
 description:
-pdf: false
+pdf: 'mcgrath.pdf'
 date:
 keywords:
   - martin-heidegger

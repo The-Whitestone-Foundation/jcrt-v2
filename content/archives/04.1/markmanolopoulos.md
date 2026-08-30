@@ -10,7 +10,7 @@ title: "When Marion’s Theology Seeks Certainty"
 author:
 affiliation:
 description:
-pdf: false
+pdf: 'markmanolopoulos.pdf'
 date:
 keywords:
   - jean-luc-marion

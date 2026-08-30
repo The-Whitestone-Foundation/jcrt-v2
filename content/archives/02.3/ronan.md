@@ -10,7 +10,7 @@ title: "Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology After Vat
 author: "Marian Ronan"
 affiliation:
 description:
-pdf: false
+pdf: 'ronan.pdf'
 date:
 keywords:
   - roman-catholicism

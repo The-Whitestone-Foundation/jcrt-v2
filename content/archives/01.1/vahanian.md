@@ -10,7 +10,7 @@ title: "The Otherness of Time: Secularisation as Worlding of the Word and the Ha
 author: "Gabriel Vahanian; Warren Clarnette"
 affiliation:
 description:
-pdf: false
+pdf: 'vahanian.pdf'
 date:
 keywords:
   - temporality

@@ -10,7 +10,7 @@ title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and 
 author: "Dennis M Weiss"
 affiliation:
 description:
-pdf: false
+pdf: 'weiss.pdf'
 date:
 keywords:
   - posthuman

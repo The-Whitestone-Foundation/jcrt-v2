@@ -10,7 +10,7 @@ title: "Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi Nis
 author: "Peter Canning"
 affiliation:
 description:
-pdf: false
+pdf: 'canning.pdf'
 date:
 keywords:
   - fabulation

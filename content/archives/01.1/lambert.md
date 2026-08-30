@@ -10,7 +10,7 @@ title: "The Work of Art in the Age of Alien Reproduction"
 author: "Gregg Lambert; Jorge Sicre"
 affiliation: 
 description:
-pdf: false
+pdf: 'lambert.pdf'
 date:
 keywords:
   - aesthetics

@@ -10,7 +10,7 @@ title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsid
 author: "Peter Ochs"
 affiliation:
 description:
-pdf: false
+pdf: 'ochs.pdf'
 date:
 keywords:
   - franz-rosenzweig

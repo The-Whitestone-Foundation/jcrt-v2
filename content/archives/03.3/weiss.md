@@ -10,7 +10,7 @@ title: "In Our Image: Artificial Intelligence and the Human Spirit"
 author: "Dennis M Weiss"
 affiliation:
 description:
-pdf: false
+pdf: 'weiss.pdf'
 date:
 keywords:
   - artificial-intelligence

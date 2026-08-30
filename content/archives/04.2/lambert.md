@@ -10,7 +10,7 @@ title: "‘Create, She Said’: Deleuze and Feminism (on Dorothea Olkowski’s G
 author: "Gregg Lambert"
 affiliation: Syracuse University
 description:
-pdf: false
+pdf: 'lambert.pdf'
 date:
 keywords:
   - gilles-deleuze

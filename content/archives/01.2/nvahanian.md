@@ -10,7 +10,7 @@ title: "Rebellious No"
 author: "Noëlle Vahanian"
 affiliation: "Le Moyne College"
 description:
-pdf: false
+pdf: 'nvahanian.pdf'
 date:
 keywords:
   - language-and-religion

@@ -10,7 +10,7 @@ title: "The Prayers and Tears of Jacques Derrida: Religion without Religion"
 author: "Martin Kavka"
 affiliation:
 description:
-pdf: false
+pdf: 'kavka.pdf'
 date:
 keywords:
   - deconstruction

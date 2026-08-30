@@ -10,7 +10,7 @@ title: "Language, Conceptualization and Awakening: on the Paradox of Discourse i
 author: "John Y Cha"
 affiliation:
 description:
-pdf: false
+pdf: 'cha.pdf'
 date:
 keywords:
   - yogacara

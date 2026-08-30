@@ -10,7 +10,7 @@ title: "Christianity in Jewish Terms"
 author: "Jason M Flato"
 affiliation:
 description:
-pdf: false
+pdf: 'flato.pdf'
 date:
 keywords:
   - jewish-christian-relations

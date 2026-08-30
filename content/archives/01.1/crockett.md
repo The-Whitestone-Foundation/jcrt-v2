@@ -10,7 +10,7 @@ title: "Anxiety and the S(Ub)Lime Body of God"
 author: "Clayton Crockett"
 affiliation:
 description:
-pdf: false
+pdf: 'crockett.pdf'
 date:
 keywords:
   - science-fiction

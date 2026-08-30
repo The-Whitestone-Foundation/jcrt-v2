@@ -10,7 +10,7 @@ title: "Loosening Philosophy’s Tongue: a Conversation with Jack Caputo"
 author: "John D. Caputo; Carl A. Raschke"
 affiliation:
 description:
-pdf: false
+pdf: 'caputo_raschke.pdf'
 date:
 keywords:
   - deconstruction

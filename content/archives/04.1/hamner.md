@@ -10,7 +10,7 @@ title: "A Private Happiness for All, Or, How to Cure National Depression, Hold D
 author: "M. Gail Hamner"
 affiliation: Syracuse University
 description:
-pdf: false
+pdf: 'hamner.pdf'
 date:
 keywords:
   - julia-kristeva

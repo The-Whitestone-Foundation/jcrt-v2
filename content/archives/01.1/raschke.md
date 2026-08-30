@@ -10,7 +10,7 @@ title: "Theorizing Religion at the Turn of the Millennium: from the Sacred to th
 author: "Carl A. Raschke"
 affiliation: University of Denver
 description:
-pdf: false
+pdf: 'raschke.pdf'
 date:
 keywords:
   - semiotics

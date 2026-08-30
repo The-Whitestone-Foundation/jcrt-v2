@@ -10,7 +10,7 @@ title: "The Ride of Passage: the Pursuit of Danger, Trance, and Failure in Mark 
 author: "Frederick J Ruf"
 affiliation:
 description:
-pdf: false
+pdf: 'ruf.pdf'
 date:
 keywords:
   - travel

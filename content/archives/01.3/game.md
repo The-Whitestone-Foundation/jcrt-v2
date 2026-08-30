@@ -10,7 +10,7 @@ title: "Falling"
 author: "Ann Game"
 affiliation:
 description:
-pdf: false
+pdf: 'game.pdf'
 date:
 keywords:
   - falling

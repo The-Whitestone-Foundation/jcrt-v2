@@ -10,7 +10,7 @@ title: "The Benefit of the Doubt: Merold Westphal’s Prophetic Philosophy of Re
 author: "B Keith Putt"
 affiliation:
 description:
-pdf: false
+pdf: 'putt.pdf'
 date:
 keywords:
   - merold-westphal

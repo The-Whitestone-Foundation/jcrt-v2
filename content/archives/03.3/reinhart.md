@@ -10,7 +10,7 @@ title: "On Cosmopolitanism and Forgiveness"
 author: "David Reinhart"
 affiliation:
 description:
-pdf: false
+pdf: 'reinhart.pdf'
 date:
 keywords:
   - jacques-derrida

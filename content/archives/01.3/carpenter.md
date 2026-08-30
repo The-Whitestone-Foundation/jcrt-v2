@@ -10,7 +10,7 @@ title: "The Religious Art of Andy Warhol"
 author: "Benjamin Bennett-Carpenter"
 affiliation:
 description:
-pdf: false
+pdf: 'carpenter.pdf'
 date:
 keywords:
   - andy-warhol

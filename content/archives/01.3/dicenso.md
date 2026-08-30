@@ -10,7 +10,7 @@ title: "Splitting Religion: Heteronomy, Autonomy, and Reflection"
 author: "James J DiCenso"
 affiliation:
 description:
-pdf: false
+pdf: 'dicenso.pdf'
 date:
 keywords:
   - cornelius-castoriadis

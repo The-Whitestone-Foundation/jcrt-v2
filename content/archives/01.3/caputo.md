@@ -10,7 +10,7 @@ title: "For Love of the Things Themselves: Derrida’s Hyper-Realism"
 author: "John D. Caputo"
 affiliation:
 description:
-pdf: false
+pdf: 'caputo.pdf'
 date:
 keywords:
   - deconstruction

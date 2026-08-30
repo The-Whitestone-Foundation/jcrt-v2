@@ -10,7 +10,7 @@ title: "Past Imperfect, Future Unknown: the Discourse of Theory"
 author: "Gregory Flaxman"
 affiliation:
 description:
-pdf: false
+pdf: 'flaxman.pdf'
 date:
 keywords:
   - literary-theory

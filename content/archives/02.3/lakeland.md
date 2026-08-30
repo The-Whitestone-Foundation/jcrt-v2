@@ -10,7 +10,7 @@ title: "Beyond Foundationalism: Shaping Theology in a Postmodern Context"
 author: "Paul Lakeland"
 affiliation:
 description:
-pdf: false
+pdf: 'lakeland.pdf'
 date:
 keywords:
   - foundationalism

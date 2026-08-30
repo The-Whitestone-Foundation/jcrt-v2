@@ -10,7 +10,7 @@ title: "Heterological History: a Conversation"
 author: "Edith Wyschogrod; Carl A. Raschke"
 affiliation:
 description:
-pdf: false
+pdf: 'wyschogrod_raschke.pdf'
 date:
 keywords:
   - heterology

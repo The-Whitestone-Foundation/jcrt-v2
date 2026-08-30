@@ -10,7 +10,7 @@ title: "Terror and the Sacred"
 author: "David Hale"
 affiliation:
 description:
-pdf: false
+pdf: 'hale.pdf'
 date:
 keywords:
   - religious-violence

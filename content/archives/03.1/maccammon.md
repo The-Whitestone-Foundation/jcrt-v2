@@ -10,7 +10,7 @@ title: "The Just"
 author: "Linda M MacCammon"
 affiliation:
 description:
-pdf: false
+pdf: 'maccammon.pdf'
 date:
 keywords:
   - paul-ricoeur

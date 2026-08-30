@@ -10,7 +10,7 @@ title: "Radical Orthodoxy, Ethics and Ambivalence"
 author: "Gavin Hyman"
 affiliation:
 description:
-pdf: false
+pdf: 'hyman.pdf'
 date:
 keywords:
   - radical-orthodoxy

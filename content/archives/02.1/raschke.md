@@ -10,7 +10,7 @@ title: "Para/Theology: the Study of Religion and the Science of the Negative"
 author: "Carl A. Raschke"
 affiliation:
 description:
-pdf: false
+pdf: 'raschke.pdf'
 date:
 keywords:
   - jacques-derrida

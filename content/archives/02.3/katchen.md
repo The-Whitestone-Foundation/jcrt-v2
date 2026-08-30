@@ -10,7 +10,7 @@ title: "Bluebird: Deliberate Creation of Multiple Personality by Psychiatrists"
 author: "Martin H Katchen"
 affiliation:
 description:
-pdf: false
+pdf: 'katchen.pdf'
 date:
 keywords:
   - mind-control
