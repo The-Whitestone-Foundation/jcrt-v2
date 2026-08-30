@@ -1,6 +1,6 @@
 ---
 nanoid: "gzlGeC"
-doi: "10.17613/0sns6-jd831"
+doi: "10.17613/s6j1w-s6z25"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccb53zui23'
 layout: archives.njk
 article_number: '07'
@@ -9,7 +9,7 @@ issue: '2'
 pages: 260-273
 title: 'The Medieval Origins of Religious White Supremacy: English Imperialism, Crusade Defeats, and the Doctrine of Discovery'
 author: 'Maeve Callan'
-affiliation: ''
+affiliation: 'Simpson College'
 description: "Callan traces how medieval English myths, crusade defeat, and Irish colonization shaped Christian white supremacy and fed the global Doctrine of Discovery."
 keywords: 
 - christianity
