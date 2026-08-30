@@ -1,4 +1,5 @@
-export const OAI_NS = "http://www.openarchives.org/OAI/2.0/";
+export const OAI_STYLESHEET_HREF = "/sitemaps/oai-style.xsl";
+const OAI_NS = "http://www.openarchives.org/OAI/2.0/";
 export const OAI_DC_NS = "http://www.openarchives.org/OAI/2.0/oai_dc/";
 export const DC_NS = "http://purl.org/dc/elements/1.1/";
 export const OAI_SCHEMA_URL = "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd";
@@ -121,6 +122,11 @@ function renderRequestElement(baseURL, attrs = {}) {
 function renderEnvelope(baseURL, requestAttrs, bodyXml, responseDate = new Date().toISOString()) {
 	const lines = [
 		`<?xml version="1.0" encoding="UTF-8"?>`,
+		// Browsers render the response through this stylesheet; harvesters ignore
+		// the instruction and read the XML underneath. Without it a person opening
+		// /oai sees raw XML and a bare `badVerb`, which reads as a broken page even
+		// though that error is exactly what the protocol requires.
+		`<?xml-stylesheet type="text/xsl" href="${OAI_STYLESHEET_HREF}"?>`,
 		`<OAI-PMH xmlns="${OAI_NS}"`,
 		`         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"`,
 		`         xsi:schemaLocation="${OAI_NS} ${OAI_SCHEMA_URL}">`,
