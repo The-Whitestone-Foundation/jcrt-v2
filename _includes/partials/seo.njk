@@ -153,6 +153,20 @@
   .hero-title { margin: 0 0 .4rem; line-height: 1.2; }
   .btn-primary { background: #b42318; color: #fff; border: 1px solid #b42318; }
   img { max-width: 100%; height: auto; }
+
+  /* Sidebar closed state: index.css is async, so without this the menu paints in flow then snaps away. */
+  :root { --sidebar-width: 26em; }
+  @media (max-width: 800px) { :root { --sidebar-width: 280px; } }
+  #sidebar-container {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: calc(var(--sidebar-width) * -1);
+    width: var(--sidebar-width);
+    height: 100vh;
+    z-index: 1020;
+  }
+  .menu-toggle-editorial { background: #000; color: #fff; border: none; padding: 0; display: flex; align-items: center; justify-content: center; }
 </style>
 {# Every content image, favicon, og:image and the homepage LCP hero are served from
    files.jcrt.org, so warm the connection before the first image request. #}

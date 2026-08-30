@@ -108,13 +108,16 @@
           {% if displayDate %}
             <span class="dt-published"><i class="bi bi-calendar3"></i> {{ displayDate | postDate }}</span>
           {% endif %}
+          {# pdfLabel is set by content/religioustheory/posts/posts.11tydata.js so a book
+             review does not advertise itself as an article. Archives leave it unset. #}
+          {% set downloadLabel = pdfLabel | default("Article", true) %}
           {% if not isIssueIndex and pdfUrl %}
-            <a href="{{ pdfUrl }}" title="Download Article as a PDF" class="btn btn-primary px-3 shadow-sm" target="_blank">
-              <i class="bi bi-file-earmark-pdf"></i> Download Article
+            <a href="{{ pdfUrl }}" title="Download {{ downloadLabel }} as a PDF" class="btn btn-primary px-3 shadow-sm" target="_blank" rel="noopener">
+              <i class="bi bi-file-earmark-pdf"></i> Download {{ downloadLabel }}
             </a>
           {% elif not isIssueIndex and doiUrl %}
-            <a href="{{ doiUrl }}" title="Download Article via DOI" class="btn btn-primary px-3 shadow-sm" target="_blank" rel="noopener">
-              <i class="bi bi-file-earmark-pdf"></i> Download Article
+            <a href="{{ doiUrl }}" title="Download {{ downloadLabel }} via DOI" class="btn btn-primary px-3 shadow-sm" target="_blank" rel="noopener">
+              <i class="bi bi-file-earmark-pdf"></i> Download {{ downloadLabel }}
             </a>
           {% endif %}
           {% if not isIssueIndex and risCitationUrl %}

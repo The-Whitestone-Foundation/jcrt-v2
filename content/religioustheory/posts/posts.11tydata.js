@@ -4,6 +4,22 @@ export default {
 	],
 	"layout": "archive-post.njk",
 	eleventyComputed: {
+		// Set `pdf: <filename>.pdf` in a post's front matter to surface a download button.
+		// Unlike archives — which derive the folder from filePathStem — theory PDFs live in
+		// a flat /religioustheory/ directory on files.jcrt.org, not under /posts/.
+		pdfUrl: (data) => {
+			const rawPdf = data?.pdf;
+			if (typeof rawPdf !== "string") return null;
+			const fileName = rawPdf.trim();
+			if (!fileName) return null;
+			return `https://files.jcrt.org/religioustheory/${fileName}`;
+		},
+		// Book reviews get an accurate button label; everything else keeps "Article".
+		pdfLabel: (data) => {
+			const categories = Array.isArray(data?.categories) ? data.categories : [];
+			const isBookReview = categories.some((c) => /book[\s._-]*review/i.test(String(c)));
+			return isBookReview ? "Book Review" : "Article";
+		},
 		doiUrl: (data) => {
 			const doi = String(data?.doi ?? "").trim();
 			if (!doi) return null;

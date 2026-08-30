@@ -2356,3 +2356,22 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
     letter-spacing: 0.08em;
     font-size: 0.75rem;
 }
+
+/* ── Mobile header: full-bleed row, and air above the menu button ──────────────
+   The header previously reserved calc(var(--btn-width) + var(--jcrt-menu-gap)) of
+   left padding to clear the hamburger. But the hamburger is position:fixed and sits
+   ABOVE this row, not beside it, so that padding only pushed the title, social icons
+   and rule inward while the body content below stayed at the page gutter — a visible
+   misalignment. Dropping it lets all three span the full content width.
+   These live at the end of the file so they win over the max-width:1195px block. */
+@media (max-width: 800px) {
+    .jcrt-mobile-header.mobile {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    /* Was var(--btn-margin-top) (10px); 6px higher opens up the gap to the title row. */
+    #menu-toggle-btn {
+        top: 4px !important;
+    }
+}
