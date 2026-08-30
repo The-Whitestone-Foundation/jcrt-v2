@@ -220,6 +220,23 @@ function statMtimeIso(candidate) {
   return result;
 }
 
+// Reduce a URL to its registrable domain for display: subdomains, paths and query
+// dropped — "https://profile.hcommons.org/members/kevg020/" renders as "hcommons.org".
+// Non-http schemes (mailto:) return "" so templates can fall back to the item title.
+const SECOND_LEVEL_TLDS = new Set(["co.uk", "ac.uk", "org.uk", "com.au", "co.jp", "co.nz", "com.br"]);
+eleventyConfig.addFilter("mainDomain", (value) => {
+  try {
+    const url = new URL(String(value || ""));
+    if (url.protocol !== "http:" && url.protocol !== "https:") return "";
+    const labels = url.hostname.replace(/^www\./, "").split(".");
+    if (labels.length <= 2) return labels.join(".");
+    const lastTwo = labels.slice(-2).join(".");
+    return SECOND_LEVEL_TLDS.has(lastTwo) ? labels.slice(-3).join(".") : lastTwo;
+  } catch {
+    return "";
+  }
+});
+
 eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
   const date = new Date(dateObj);
   if (!isNaN(date.getTime())) {

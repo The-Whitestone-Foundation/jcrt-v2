@@ -2375,3 +2375,23 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
         top: 4px !important;
     }
 }
+
+/* Author social dropdown (authors.njk). Rendered when a contributor lists more than
+   one link; single links stay inline. */
+.author-social summary {
+    cursor: pointer;
+    list-style: none;
+}
+
+.author-social summary::-webkit-details-marker {
+    display: none;
+}
+
+.author-social summary::after {
+    content: " ▾";
+    font-size: 0.75em;
+}
+
+.author-social[open] summary::after {
+    content: " ▴";
+}

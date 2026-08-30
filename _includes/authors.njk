@@ -39,27 +39,42 @@ layout: base.njk
   {{ postsByAuthor.length }} Posts |
 
   {% if social %}
-    {% for s in social %}
-      <a href="{{ s.url | default('#') }}" 
-         title="{{ s.title }}" 
-         target="_blank" 
-         rel="noopener" 
-         class="text-decoration-none text-dark me-3"
-         aria-label="{{ s.title }} of {{ title }}">
-        
-        <i class="{{ s.icon }}" aria-hidden="true"></i>
-
-        {% if s.title == "website" %}
-          <span class="small ms-1">
-            {% if s.url %}
-              {{ s.url | replace("https://", "") | replace("http://", "") | replace("www.", "") | replace("/", "") }}
-            {% else %}
-              Website
-            {% endif %}
-          </span>
-        {% endif %}
-      </a>
-    {% endfor %}
+    {% if social.length > 1 %}
+      {# Multiple links: collapse into a dropdown instead of a run of raw URLs. #}
+      <details class="author-social d-inline-block align-middle">
+        <summary class="text-decoration-none text-dark small" role="button">
+          <svg class="icon-svg" aria-hidden="true"><use href="#fa-link"/></svg>
+          Links ({{ social.length }})
+        </summary>
+        <ul class="list-unstyled mb-0 mt-2 ms-1">
+          {% for s in social %}
+            <li class="mb-1">
+              <a href="{{ s.url | default('#') }}"
+                 title="{{ s.title }}"
+                 target="_blank"
+                 rel="noopener"
+                 class="text-decoration-none text-dark small"
+                 aria-label="{{ s.title }} of {{ title }}">
+                <svg class="icon-svg me-1" aria-hidden="true"><use href="#{{ s.icon | iconId }}"/></svg>
+                {{ (s.url | mainDomain) or s.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    {% else %}
+      {% for s in social %}
+        <a href="{{ s.url | default('#') }}"
+           title="{{ s.title }}"
+           target="_blank"
+           rel="noopener"
+           class="text-decoration-none text-dark me-3"
+           aria-label="{{ s.title }} of {{ title }}">
+          <svg class="icon-svg" aria-hidden="true"><use href="#{{ s.icon | iconId }}"/></svg>
+          <span class="small ms-1">{{ (s.url | mainDomain) or s.title }}</span>
+        </a>
+      {% endfor %}
+    {% endif %}
   {% endif %}
 </p>
 
