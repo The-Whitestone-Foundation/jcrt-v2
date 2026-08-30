@@ -1,6 +1,6 @@
 ---
 nanoid: "ftCESu"
-doi:
+doi: "10.17613/415tz-4hb24"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mubtbdepxv2i'
 layout: archives.njk
 article_number: '05'
