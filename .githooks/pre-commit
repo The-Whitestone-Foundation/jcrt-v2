@@ -24,3 +24,16 @@ if [ -z "$NODE_BIN" ]; then
 fi
 
 "$NODE_BIN" scripts/generate-nanoids.mjs --staged || exit 1
+
+# Log every commit that exists so far into CHANGELOG.md and stage it, so the
+# changelog rides along with this commit instead of needing one of its own.
+#
+# It must be pre-commit: `git add` from prepare-commit-msg does NOT reach the
+# commit — the file just sits staged afterwards, which is exactly the wasted
+# commit this is meant to prevent. Verified, do not move it.
+#
+# Consequence: the entry for the commit you are making now lands with your NEXT
+# commit, because a commit's subject is not knowable before it exists. One entry
+# behind, never an extra commit. Amends add nothing (the count is unchanged).
+"$NODE_BIN" scripts/update-changelog.mjs >/dev/null 2>&1 && git add CHANGELOG.md 2>/dev/null
+exit 0

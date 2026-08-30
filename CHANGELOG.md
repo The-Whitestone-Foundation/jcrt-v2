@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.03.90] — 2026-08-30
+fixing oai
+- Notes: fixing oai.
+
 ## [00.03.89] — 2026-08-30
 fixing author names
 - Notes: fixing author names.

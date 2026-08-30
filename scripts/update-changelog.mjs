@@ -11,17 +11,16 @@
  * "fix" it by removing the filter.
  *
  * The companion rule lives in the tooling that calls this: never create a
- * commit whose only content is the changelog. The prepare-commit-msg hook puts
- * each entry inside the commit it describes, and CI only commits the changelog
- * alongside something else.
+ * commit whose only content is the changelog. The pre-commit hook stages the
+ * changelog alongside whatever you are already committing, and CI only commits
+ * it alongside something else. An entry therefore lands one commit after the
+ * commit it describes — a commit's subject is not knowable before it exists.
  *
  * Append-only: existing entries and any hand-written notes under them are never
  * touched; new commits get a mechanical note from the subject line.
  *
- * Usage: node scripts/update-changelog.mjs [--check] [--pending "<subject>"]
- *   --check    exit non-zero if entries are missing (CI guard)
- *   --pending  also write an entry for a commit being made right now, using
- *              this subject; used by the prepare-commit-msg hook
+ * Usage: node scripts/update-changelog.mjs [--check]
+ *   --check  exit non-zero if entries are missing (CI guard)
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -33,8 +32,6 @@ const REPO_ROOT = path.resolve(
 );
 const CHANGELOG = path.join(REPO_ROOT, "CHANGELOG.md");
 const CHECK_MODE = process.argv.includes("--check");
-const pendingIdx = process.argv.indexOf("--pending");
-const PENDING = pendingIdx === -1 ? null : process.argv[pendingIdx + 1];
 
 const RS = "\x1e"; // record separator; safe inside a git pretty format
 
@@ -81,9 +78,7 @@ function main() {
 		process.exit(1);
 	}
 
-	const missing = commits.slice(existing);
-	const pending = PENDING ? [{ date: new Date().toISOString().slice(0, 10), subject: PENDING }] : [];
-	const toWrite = [...missing, ...pending];
+	const toWrite = commits.slice(existing);
 
 	if (toWrite.length === 0) {
 		if (!CHECK_MODE) console.log(`[changelog] current (${existing} entries).`);
