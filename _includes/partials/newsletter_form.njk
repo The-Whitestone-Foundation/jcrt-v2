@@ -1,0 +1,66 @@
+{# Newsletter signup, posting to Formspree.
+
+   NOTE: Formspree delivers submissions as email. It does not add anyone to a mailing
+   list, so subscribers collected here must be added to the list manually, and the
+   double opt-in / unsubscribe handling that a list provider gives you is not present.
+   This replaced a Buttondown embed at the maintainer's explicit request. #}
+{% set formspreeNewsletterId = formspree_newsletter_id or metadata.formspree.newsletter_id %}
+
+<section class="col-md-10 mx-auto py-4">
+  <div class="row justify-content-center">
+    <div class="col-lg-9">
+      <div class="card border-0 shadow-sm overflow-hidden">
+        <div class="card-body p-4 p-md-5">
+          <div class="mb-4">
+            <p class="text-uppercase small fw-bold text-primary mb-2" style="letter-spacing: 0.08em;">Newsletter Signup</p>
+            <h2 class="serif fw-bold mb-2">Subscribe to JCRT Updates</h2>
+            <p class="text-secondary mb-0">Receive calls for papers, publication notices, and new issue announcements.</p>
+          </div>
+
+          <form
+            name="newsletter"
+            method="POST"
+            action="https://formspree.io/f/{{ formspreeNewsletterId }}"
+            class="row g-3"
+          >
+            <input type="hidden" name="_subject" value="JCRT newsletter signup">
+            {# Formspree's honeypot: bots fill it, humans never see it. #}
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+
+            <div class="col-md-6">
+              <label for="nl-name" class="form-label fw-semibold">Name</label>
+              <input type="text" id="nl-name" name="name" class="form-control form-control-lg" autocomplete="name" required>
+            </div>
+
+            <div class="col-md-6">
+              <label for="nl-email" class="form-label fw-semibold">Email</label>
+              <input type="email" id="nl-email" name="email" class="form-control form-control-lg" autocomplete="email" required>
+            </div>
+
+            <div class="col-12">
+              <label for="nl-affiliation" class="form-label fw-semibold">Affiliation <span class="text-secondary fw-normal">(optional)</span></label>
+              <input type="text" id="nl-affiliation" name="affiliation" class="form-control form-control-lg" autocomplete="organization">
+            </div>
+
+            <div class="col-12">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="yes" id="nl-consent" name="consent" required>
+                <label class="form-check-label small" for="nl-consent">
+                  I consent to receiving email updates from JCRT. You can ask to be removed at any time by emailing
+                  <strong>editors at jcrt dot org</strong>.
+                </label>
+              </div>
+            </div>
+
+            <div class="col-12 d-flex flex-wrap align-items-center gap-3 pt-2">
+              <button type="submit" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="letter-spacing: 0.06em;">
+                Subscribe
+              </button>
+              <span class="small text-secondary">We only email about the journal.</span>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

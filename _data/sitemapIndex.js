@@ -101,19 +101,21 @@ export default function sitemapIndex() {
 
 	// Always include the external search sitemap.
 	// Its lastmod comes from the sibling `jcrt-files` checkout, which exists on a
-	// maintainer's workstation but never on CI — there the value silently degrades to
-	// "today". Say so once per build rather than emitting a wrong date quietly.
+	// maintainer's workstation but never on CI. Rather than assert today's date there —
+	// which tells crawlers this sitemap changes every single day and wastes crawl budget —
+	// omit <lastmod> entirely. It is an optional element, and the sitemaps.xml.njk
+	// template already skips it when empty. An absent date is honest; a wrong one is not.
 	const searchSitemapFile = path.join(JCRT_FILES_METADATA, "search-sitemap.xml");
 	const searchSitemapLastmod = getFileLastmodOrEmpty(searchSitemapFile);
 	if (!searchSitemapLastmod) {
 		console.warn(
-			`[sitemapIndex] ${searchSitemapFile} not found; using today's date as lastmod for ${EXTERNAL_SEARCH_SITEMAP_URL}`
+			`[sitemapIndex] ${searchSitemapFile} not found (expected on CI); omitting lastmod for ${EXTERNAL_SEARCH_SITEMAP_URL}`
 		);
 	}
 	entries.push({
 		loc: EXTERNAL_SEARCH_SITEMAP_URL,
 		path: EXTERNAL_SEARCH_SITEMAP_URL,
-		lastmod: searchSitemapLastmod || fallbackLastmod,
+		lastmod: searchSitemapLastmod,
 	});
 
 	// Always include local metadata sitemaps

@@ -1,0 +1,153 @@
+{# Article submission form, posting to Formspree.
+
+   File uploads require a paid Formspree plan (Gold or above). On the free tier the
+   submission still arrives but the attachment is dropped, so the mailto fallback below
+   the form is deliberate, not decorative — it is the recovery path if uploads are off.
+
+   Formspree requires enctype="multipart/form-data" for any form carrying a file input. #}
+{% set formspreeSubmissionsId = formspree_submissions_id or metadata.formspree.submissions_id %}
+
+<div class="p-4 p-md-5 shadow-sm jcrt-contact-card my-4">
+  <p class="text-uppercase fw-bold text-primary mb-2 jcrt-contact-meta">Submit Your Work</p>
+  <h2 class="serif fw-bold mb-3">Article Submission</h2>
+  <p class="text-secondary mb-4">
+    Send a 500-word abstract and your curriculum vitae. Please read the Submission Checklist below
+    before submitting. You may also email <a href="mailto:carl.raschke@jcrt.org?subject=JCRT%20Submission">carl.raschke@jcrt.org</a> directly.
+  </p>
+
+  <form
+    name="submissions"
+    method="POST"
+    action="https://formspree.io/f/{{ formspreeSubmissionsId }}"
+    enctype="multipart/form-data"
+    class="row g-3"
+  >
+    <input type="hidden" name="_subject" value="JCRT article submission">
+    {# Formspree's honeypot: bots fill it, humans never see it. #}
+    <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+
+    <div class="col-md-6">
+      <label for="sub-name" class="form-label fw-semibold">Name</label>
+      <input type="text" id="sub-name" name="name" class="form-control form-control-lg" autocomplete="name" required>
+    </div>
+
+    <div class="col-md-6">
+      <label for="sub-email" class="form-label fw-semibold">Email</label>
+      <input type="email" id="sub-email" name="email" class="form-control form-control-lg" autocomplete="email" required>
+    </div>
+
+    <div class="col-12">
+      <label for="sub-affiliation" class="form-label fw-semibold">Institutional affiliation <span class="text-secondary fw-normal">(optional)</span></label>
+      <input type="text" id="sub-affiliation" name="affiliation" class="form-control form-control-lg" autocomplete="organization">
+    </div>
+
+    <div class="col-12">
+      <label for="sub-title" class="form-label fw-semibold">Article title</label>
+      <input type="text" id="sub-title" name="article_title" class="form-control form-control-lg" maxlength="300" required>
+    </div>
+
+    <div class="col-12">
+      <label for="sub-type" class="form-label fw-semibold">Submission type</label>
+      <select id="sub-type" name="submission_type" class="form-select form-select-lg" required>
+        <option value="Article">Article</option>
+        <option value="Book review">Book review (solicited)</option>
+        <option value="Special issue proposal">Special issue proposal</option>
+      </select>
+    </div>
+
+    <div class="col-12">
+      <label for="sub-abstract" class="form-label fw-semibold">Abstract</label>
+      <textarea id="sub-abstract" name="abstract" rows="10" class="form-control" required></textarea>
+      <div class="form-text">Approximately 500 words. Plain text.</div>
+    </div>
+
+    <div class="col-12">
+      <label for="sub-cv" class="form-label fw-semibold">Curriculum vitae</label>
+      <input type="file" id="sub-cv" name="cv" class="form-control" accept=".pdf,.doc,.docx,.rtf" required>
+      <div class="form-text">PDF, Word, or RTF.</div>
+    </div>
+
+    <div class="col-12">
+      <label for="sub-manuscript" class="form-label fw-semibold">Manuscript <span class="text-secondary fw-normal">(optional)</span></label>
+      <input type="file" id="sub-manuscript" name="manuscript" class="form-control" accept=".pdf,.doc,.docx,.rtf">
+      <div class="form-text">
+        PDF, Word, or RTF, named &ldquo;[LastName]_[FirstName]_[ManuscriptTitle]&rdquo;.
+      </div>
+    </div>
+
+    <div class="col-12">
+      <p class="small text-secondary mb-0">
+        Attachments must total less than 30&nbsp;MB. For anything larger, email
+        <a href="mailto:carl.raschke@jcrt.org?subject=JCRT%20Submission">carl.raschke@jcrt.org</a> with a file-sharing link.
+      </p>
+      <div id="sub-upload-error" class="alert alert-danger mt-3 d-none" role="alert" aria-live="polite"></div>
+    </div>
+
+    <div class="col-12">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="yes" id="sub-confirm" name="confirms_scope" required>
+        <label class="form-check-label small" for="sub-confirm">
+          I confirm this submission fits the mission of JCRT and is not a term paper, religious
+          advocacy piece, unsolicited book review, or opinion piece.
+        </label>
+      </div>
+    </div>
+
+    <div class="col-12 d-flex flex-wrap align-items-center gap-3 pt-2">
+      <button type="submit" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="letter-spacing: 0.06em;">
+        Submit
+      </button>
+      <span class="small text-secondary">The editors review submissions on a rolling basis.</span>
+    </div>
+  </form>
+</div>
+
+<script>
+  (function () {
+    // Client-side size guard. Formspree enforces its own plan limit server-side; this
+    // exists so an oversized upload fails immediately with a readable message instead of
+    // after a long upload that ends in an opaque rejection.
+    var MAX_TOTAL_BYTES = 30 * 1024 * 1024;
+    var form = document.querySelector('form[name="submissions"]');
+    if (!form) return;
+    var errorBox = document.getElementById("sub-upload-error");
+    var fileInputs = form.querySelectorAll('input[type="file"]');
+
+    function totalBytes() {
+      var total = 0;
+      fileInputs.forEach(function (input) {
+        for (var i = 0; i < input.files.length; i++) total += input.files[i].size;
+      });
+      return total;
+    }
+
+    function formatMb(bytes) {
+      return (bytes / (1024 * 1024)).toFixed(1) + " MB";
+    }
+
+    function validate() {
+      var total = totalBytes();
+      if (total <= MAX_TOTAL_BYTES) {
+        errorBox.classList.add("d-none");
+        errorBox.textContent = "";
+        return true;
+      }
+      errorBox.textContent =
+        "Your attachments total " + formatMb(total) +
+        ", over the 30 MB limit. Please attach smaller files, or email the editors with a file-sharing link.";
+      errorBox.classList.remove("d-none");
+      return false;
+    }
+
+    fileInputs.forEach(function (input) {
+      input.addEventListener("change", validate);
+    });
+
+    form.addEventListener("submit", function (event) {
+      if (!validate()) {
+        event.preventDefault();
+        errorBox.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    });
+  })();
+</script>

@@ -4,7 +4,7 @@ title: Submissions
 description: "Submit to JCRT: guidelines for abstracts, scope, and details for peer-reviewed work in religion, culture, critical theory, media studies, and methods."
 permalink: /submissions/
 ---
-**[Submit your article here.](mailto:carl.raschke@jcrt.org?subject=JCRT%20Submission)**
+{% include "partials/submissions_form.njk" %}
 
 The Journal for Cultural and Religious Theory (JCRT) is a peer-reviewed journal devoted to both disciplinary and interdisciplinary scholarship of a cutting-edge nature that deals broadly with the phenomenon of religious and cultural theory.  Subfields include, but are not limited to, philosophical and cultural theory, theological studies, postcolonial and globalization theory, religious studies, literary theory, cultural studies, ethnic, area, and gender studies, communications, semiotics, and linguistics. 
 

@@ -2332,3 +2332,27 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
 .duotrope-badge:focus-visible {
     background-image: url("/badges/duotrope-white.webp");
 }
+
+/* Form card, shared by /contact/ and /submissions/. Previously inlined in a <style>
+   block on the contact page only, so the submissions form had no styling to inherit. */
+.jcrt-contact-card {
+    border: 1px solid #dcdcdc;
+    border-radius: 14px;
+    background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+}
+
+.jcrt-contact-card .form-control,
+.jcrt-contact-card .form-select {
+    border-color: #cfcfcf;
+}
+
+.jcrt-contact-card .form-control:focus,
+.jcrt-contact-card .form-select:focus {
+    border-color: #e83e8c;
+    box-shadow: 0 0 0 0.2rem rgba(232, 62, 140, 0.15);
+}
+
+.jcrt-contact-meta {
+    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+}

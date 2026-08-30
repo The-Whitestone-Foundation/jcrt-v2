@@ -3,24 +3,6 @@ title: Contact Us
 description: Contact JCRT for inquiries, support, or feedback. We're here to help and look forward to hearing from you!
 permalink: /contact/
 ---
-<style>
-.jcrt-contact-card {
-  border: 1px solid #dcdcdc;
-  border-radius: 14px;
-  background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-}
-.jcrt-contact-card .form-control {
-  border-color: #cfcfcf;
-}
-.jcrt-contact-card .form-control:focus {
-  border-color: #e83e8c;
-  box-shadow: 0 0 0 0.2rem rgba(232, 62, 140, 0.15);
-}
-.jcrt-contact-meta {
-  letter-spacing: 0.08em;
-  font-size: 0.75rem;
-}
-</style>
 
 <section class="row justify-content-center my-4">
   <div class="col-lg-10">
@@ -35,7 +17,7 @@ permalink: /contact/
       <form
         name="contact"
         method="POST"
-        action="https://formspree.io/f/xqerkjjg"
+        action="https://formspree.io/f/{{ metadata.formspree.contact_id }}"
         class="row g-3"
       >
         <div class="col-md-6">

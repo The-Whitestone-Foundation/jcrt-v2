@@ -9,6 +9,12 @@ favicon: "/images/logos/favicon.svg"
 #url: https://jcrt.netlify.app #development
 url: https://jcrt.org #live
 files_url: https://files.jcrt.org
+# Formspree form ids — one dedicated form per purpose, so submissions, general contact,
+# and newsletter signups stay in separate inboxes.
+formspree:
+  submissions_id: "xqerkjjg"
+  contact_id: "mrpgbrjj"
+  newsletter_id: "mnpqnlwy"
 standard_site:
   enabled: true
   handle: "jcrt.org"
