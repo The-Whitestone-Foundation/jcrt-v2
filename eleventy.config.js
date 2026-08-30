@@ -741,12 +741,18 @@ export default async function (eleventyConfig) {
 	});
 
 	// Prefix local asset paths with files_url for CDN-direct serving
+	// Absolutize an asset path for contexts that require a full URL (og:image,
+	// twitter:image, JSON-LD logos). Assets with a local copy under public/ are served
+	// from this origin, so they must be absolutized against the site URL — pointing them
+	// at the CDN would advertise a host that no longer holds the canonical copy.
 	eleventyConfig.addFilter("assetUrl", function (value) {
 		if (!value) return value;
 		const src = String(value).trim();
 		if (!src || src === "null" || src === "undefined") return src;
 		if (/^(https?:)?\/\//i.test(src) || src.startsWith("data:")) return src;
-		return `${siteFilesUrl}${src.startsWith("/") ? "" : "/"}${src}`;
+		const withLeadingSlash = src.startsWith("/") ? src : `/${src}`;
+		const base = resolveImagePath(src) ? siteBaseUrl : siteFilesUrl;
+		return `${base}${withLeadingSlash}`;
 	});
 
 	eleventyConfig.addFilter("xmlEscape", function (value) {

@@ -307,7 +307,7 @@
       "description": {{ metadata.description | dump | safe }},
       "logo": {
         "@type": "ImageObject",
-        "url": {{ (metadata.files_url ~ metadata.favicon) | dump | safe }},
+        "url": {{ (metadata.favicon | assetUrl) | dump | safe }},
         "width": 512,
         "height": 512
       },
