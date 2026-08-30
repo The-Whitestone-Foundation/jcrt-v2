@@ -1,7 +1,7 @@
 ---
 nanoid: "kZbHR_"
 doi: "10.17613/v2d24-dk029"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbdpoxn2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjo2hyp2h'
 title: "The Use and Abuse of the Expression “Christian Nationalism”"
 author: "Carl A. Raschke"
 affilation:

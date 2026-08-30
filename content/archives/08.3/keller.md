@@ -1,7 +1,7 @@
 ---
 nanoid: "-Y-VxD"
 doi: "10.17613/dx7yr-v7295"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdffnsx2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkllo2qe23'
 title: "The Dare of Democracy: Fear, Faith and Freedom"
 author: "Catherine Keller"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "3lsqBa"
 doi: "10.17613/bxa44-f2k62"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdomfe72f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkluaerz2z'
 title: "Science and Wisdom"
 author: "Eric Weislogel"
 affilation:

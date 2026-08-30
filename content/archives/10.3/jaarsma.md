@@ -1,7 +1,7 @@
 ---
 nanoid: "CKNOzs"
 doi: "10.17613/m3sjb-3n998"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccd4c2nu2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkld5c5b2i'
 title: "Queering Kierkegaard: Sin, Sex, and Critical Theory"
 author: "Ada S Jaarsma"
 affilation:

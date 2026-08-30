@@ -1,7 +1,7 @@
 ---
 nanoid: "_XFaRF"
 doi: "10.17613/73503-bs213"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbhmihq23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjrnelr2i'
 title: "A Critical Conversation on “Political Erasure”"
 author: "Arthur Bradley; Carl A. Raschke; Roger K Green"
 affilation:

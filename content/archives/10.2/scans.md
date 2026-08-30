@@ -1,7 +1,7 @@
 ---
 nanoid: "Au9amu"
 doi: "10.17613/npk66-94y18"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccd55sjx2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkldwuc72q'
 title: "Robert Duncan Notebook Scans"
 article_number:
 author: "Robert Duncan"

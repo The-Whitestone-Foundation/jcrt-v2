@@ -1,7 +1,7 @@
 ---
 nanoid: "P_PmsI"
 doi: "10.17613/y16jg-g4f96"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccc7bhxj2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkhjpjq2f'
 title: "Traversing W.H. Auden’s Religious and Aesthetic States."
 author: "Raji Singh Soni"
 affilation:

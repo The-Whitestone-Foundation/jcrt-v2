@@ -1,6 +1,6 @@
 ---
 nanoid: "dY0L1f"
-atproto:
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkn5qomx2q'
 name: CJ Gordon
 affiliation:
 bio:

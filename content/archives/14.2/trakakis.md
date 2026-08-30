@@ -1,7 +1,7 @@
 ---
 nanoid: "yNTCF-"
 doi: "10.17613/h3g5t-4tf38"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mucccqfdfz2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkxkdww2p'
 title: "Philosophy Mashed-up and in Crisis."
 author: "N. N. Trakakis"
 affilation:

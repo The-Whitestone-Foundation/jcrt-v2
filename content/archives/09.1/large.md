@@ -1,7 +1,7 @@
 ---
 nanoid: "g6xmaO"
 doi: "10.17613/qae3v-b6y71"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccdde73p2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkljqrjg2s'
 title: "Time and Money: Philosophy of Religion and the Critique of Capital"
 author: "William Large"
 affilation:
