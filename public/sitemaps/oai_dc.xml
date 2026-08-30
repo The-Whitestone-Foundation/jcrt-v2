@@ -2,7 +2,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-08-30T07:17:57.037Z</responseDate>
+  <responseDate>2026-08-30T07:49:24.461Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -47,12 +47,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/crockett/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -90,12 +91,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/kavka/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/kavka.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/kavka.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -134,12 +136,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/lambert/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -179,12 +182,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/lee/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/lee.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/lee.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -221,12 +225,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -267,12 +272,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/reinhard_lupton/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/reinhard_lupton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/reinhard_lupton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -311,12 +317,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/vahanian/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/vahanian.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/vahanian.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -357,12 +364,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/winquist/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/winquist.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/winquist.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -399,12 +407,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>1999-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.1/young/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.1/young.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.1/young.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -441,12 +450,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/adcock/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/adcock.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/adcock.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -489,12 +499,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/canning/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/canning.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/canning.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -530,12 +541,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/long/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/long.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/long.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -570,12 +582,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/lorentzen/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/lorentzen.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/lorentzen.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -608,12 +621,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/nvahanian/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/nvahanian.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/nvahanian.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -651,12 +665,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/ruf/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/ruf.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/ruf.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -693,12 +708,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/smith/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/smith.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/smith.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -736,12 +752,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/taylor/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -780,12 +797,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.2/wyschogrod_raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.2/wyschogrod_raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.2/wyschogrod_raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -823,12 +841,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/caputo/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/caputo.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/caputo.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -868,12 +887,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/carpenter/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/carpenter.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/carpenter.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -914,12 +934,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/crockett/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -959,12 +980,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/dicenso/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/dicenso.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/dicenso.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1005,12 +1027,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/game/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/game.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/game.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1049,12 +1072,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/kosky/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/kosky.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/kosky.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1097,12 +1121,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/metcalfe/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/metcalfe.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/metcalfe.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1140,12 +1165,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/richard/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/richard.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/richard.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1184,12 +1210,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/strysick/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/strysick.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/strysick.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1231,12 +1258,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/01.3/weiss/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/01.3/weiss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 1, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/01.3/weiss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1275,12 +1303,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/halpern/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/halpern.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/halpern.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1323,12 +1352,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/lambert/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1366,12 +1396,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/lupton/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/lupton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/lupton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1412,12 +1443,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/ochs/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/ochs.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/ochs.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1454,12 +1486,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1499,12 +1532,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/reinhard_lupton/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/reinhard_lupton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/reinhard_lupton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1546,12 +1580,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/sugimoto/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/sugimoto.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/sugimoto.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1588,12 +1623,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2000-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.1/taylor/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.1/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.1/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1634,12 +1670,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/altizer/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/altizer.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/altizer.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1675,12 +1712,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/arnold/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/arnold.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/arnold.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1721,12 +1759,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/elias/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/elias.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/elias.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1766,12 +1805,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/majer/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/majer.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/majer.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1808,12 +1848,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/robbins/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/robbins.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/robbins.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1853,12 +1894,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/tatusko/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/tatusko.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/tatusko.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1895,12 +1937,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/taylor/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1939,12 +1982,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.2/taylor_raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.2/taylor_raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.2/taylor_raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -1984,12 +2028,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/cha/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/cha.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/cha.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2030,12 +2075,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/crockett/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2073,12 +2119,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/hale/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/hale.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/hale.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2119,12 +2166,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/katchen/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/katchen.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/katchen.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2161,12 +2209,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/lakeland/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/lakeland.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/lakeland.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2208,12 +2257,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/magee/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/magee.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/magee.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2254,12 +2304,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/mccullough/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/mccullough.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/mccullough.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2302,12 +2353,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/ronan/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/ronan.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/ronan.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2351,12 +2403,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/takim/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/takim.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/takim.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2395,12 +2448,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/02.3/weiss/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/02.3/weiss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 2, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/02.3/weiss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2439,12 +2493,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/anderson/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/anderson.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/anderson.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2483,12 +2538,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/dean/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/dean.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/dean.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2529,12 +2585,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/gooch/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/gooch.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/gooch.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2575,12 +2632,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/keuss/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/keuss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/keuss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2623,12 +2681,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/maccammon/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/maccammon.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/maccammon.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2668,12 +2727,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2711,12 +2771,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2001-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.1/stone/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.1/stone.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.1/stone.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2759,12 +2820,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/caputo_raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/caputo_raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/caputo_raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2806,12 +2868,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/grimshaw/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/grimshaw.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/grimshaw.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2850,12 +2913,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/hale/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/hale.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/hale.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2897,12 +2961,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/hyman/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/hyman.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/hyman.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2943,12 +3008,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/katz/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/katz.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/katz.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -2988,12 +3054,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/lee/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/lee.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/lee.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3035,12 +3102,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/metcalf/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/metcalf.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/metcalf.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3077,12 +3145,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/parmenter/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/parmenter.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/parmenter.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3123,12 +3192,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.2/taylor/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3167,12 +3237,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/crockett/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3213,12 +3284,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/druen/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/druen.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/druen.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3257,12 +3329,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/flato/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/flato.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/flato.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3301,12 +3374,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/iyer/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/iyer.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/iyer.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3344,12 +3418,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/putt/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/putt.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/putt.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3388,12 +3463,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/rashkover/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/rashkover.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/rashkover.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3434,12 +3510,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/reinhart/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/reinhart.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/reinhart.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3475,12 +3552,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/scott/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/scott.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/scott.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3519,12 +3597,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/taylor/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3562,12 +3641,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/weiss/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/weiss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/weiss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3606,12 +3686,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/03.3/zerbe/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.3/zerbe.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 3, No. 3</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.3/zerbe.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3651,12 +3732,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/bennett-carpenter/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/bennett-carpenter.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/bennett-carpenter.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3691,12 +3773,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/blundell/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/blundell.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/blundell.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3741,12 +3824,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/egginton/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/egginton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/egginton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3783,12 +3867,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/hamner/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/hamner.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/hamner.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3830,12 +3915,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/kosky/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/kosky.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/kosky.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3875,12 +3961,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/lokensgard/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/lokensgard.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/lokensgard.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3919,12 +4006,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/mcgrath/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/mcgrath.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/mcgrath.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3967,12 +4055,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2002-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.1/raschke/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 1</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4010,12 +4099,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/caputo/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/caputo.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/caputo.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4054,12 +4144,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/flaxman/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/flaxman.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/flaxman.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4098,12 +4189,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/lambert/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4138,12 +4230,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/lambert-taylor.intro/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/lambert-taylor.intro.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/lambert-taylor.intro.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4179,12 +4272,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/nichols/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/nichols.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/nichols.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4226,12 +4320,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/pecora/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/pecora.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/pecora.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4269,12 +4364,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/rabate-lambert/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/rabate-lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/rabate-lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4311,12 +4407,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/saper/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/saper.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/saper.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4353,12 +4450,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/taylor/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4395,12 +4493,13 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2003-01-01</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/archives/04.2/williams/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.2/williams.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:source>Vol. 4, No. 2</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.2/williams.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -33542,6 +33641,51 @@
           <dc:source>Vol. 18, No. 3, pp. 429-525</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/18.3/McCracken.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:archives:18.3:murphy</identifier>
+        <datestamp>2019-01-01</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Lacan as “Spiritual Director” – On the Relationship Between Psychoanalysis and Christian Mysticism</dc:title>
+          <dc:creator>Mark Murphy</dc:creator>
+          <dc:subject>jacques-lacan</dc:subject>
+          <dc:subject>psychoanalysis</dc:subject>
+          <dc:subject>christian-mysticism</dc:subject>
+          <dc:subject>spiritual-direction</dc:subject>
+          <dc:subject>mystical-theology</dc:subject>
+          <dc:subject>john-of-the-cross</dc:subject>
+          <dc:subject>jouissance</dc:subject>
+          <dc:subject>desire</dc:subject>
+          <dc:subject>carl-jung</dc:subject>
+          <dc:subject>dark-night-of-the-soul</dc:subject>
+          <dc:subject>sigmund-freud</dc:subject>
+          <dc:subject>william-james</dc:subject>
+          <dc:subject>spirituality</dc:subject>
+          <dc:subject>Desire</dc:subject>
+          <dc:subject>Mysticism</dc:subject>
+          <dc:subject>Psychoanalysis</dc:subject>
+          <dc:subject>Spiritual direction</dc:subject>
+          <dc:subject>Spirituality</dc:subject>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2019-01-01</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/18.3/Murphy.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:source>Vol. 18, No. 3</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/18.3/Murphy.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>

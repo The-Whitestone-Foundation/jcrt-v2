@@ -37,7 +37,7 @@ layout: base.njk
           {% endif %}
             {# div, not <p>: browsers auto-close a <p> at <details> (flow content),
                which forced the post count and the links dropdown onto separate lines. #}
-            <div class="d-flex align-items-baseline flex-wrap column-gap-2 mb-3">
+            <div class="d-flex align-items-baseline flex-wrap column-gap-2 mb-3 justify-content-center">
   <span>{{ postsByAuthor.length }} Posts |</span>
 
   {% if social %}
