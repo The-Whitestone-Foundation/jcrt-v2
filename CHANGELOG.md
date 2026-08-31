@@ -8,6 +8,22 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.03.96] — 2026-08-31
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
+## [00.03.95] — 2026-08-31
+Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2
+- Notes: Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2.
+
+## [00.03.94] — 2026-08-31
+doi annoucement
+- Notes: doi annoucement.
+
+## [00.03.93] — 2026-08-30
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
 ## [00.03.92] — 2026-08-30
 adding dois and patching pdfs
 - Notes: adding dois and patching pdfs.
