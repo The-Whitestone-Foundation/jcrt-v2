@@ -1,7 +1,7 @@
 ---
 nanoid: "FG5QbC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbkbfdb2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjum6kx2q'
 title: 'The Futurity Of God, Part 1 (Lenart Škof)'
 description: "God, if we hold to this word, is the future itself, or rather the eternal reservoir beyond time and creating time, who constantly projects himself or pours"
 date: '2021-12-02T21:22:23.000Z'

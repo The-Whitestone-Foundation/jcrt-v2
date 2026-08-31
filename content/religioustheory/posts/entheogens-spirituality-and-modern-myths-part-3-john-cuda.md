@@ -1,7 +1,7 @@
 ---
 nanoid: "65tO8v"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbkj73h2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjutg7r2i'
 title: 'Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)'
 description: "Part 3 links entheogen practice and dreamwork, arguing that altered states function as a training ground for agency, myth-making, and transformed lived reality."
 date: '2021-10-21T22:02:12.000Z'

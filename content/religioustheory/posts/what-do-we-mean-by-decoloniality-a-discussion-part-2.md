@@ -1,7 +1,7 @@
 ---
 nanoid: "yPQW3T"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muccbm3r462u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjwbawv2h'
 title: 'What Do We Mean By “Decoloniality”? A Discussion, Part 2'
 description: "Part 2 continues the keynote discussion on decoloniality, elaborating disagreements over praxis, universality, and strategy while clarifying points of shared"
 date: '2021-05-03T17:11:59.000Z'
