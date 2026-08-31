@@ -1,7 +1,7 @@
 ---
 nanoid: "QmFZGV"
 doi: "10.17613/qbk9r-wf472"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mlu22u25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvynftdj2f'
 title: "Transcription Notes"
 author: "Amy Evans"
 affilation:

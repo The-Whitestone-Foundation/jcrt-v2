@@ -1,7 +1,7 @@
 ---
 nanoid: "pIRz31"
 doi: "10.17613/ec3fx-mzj42"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mlejxh2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvymwfb22p'
 title: "Transcription Notes"
 author: "Robert Duncan; Amy Evans"
 affilation:

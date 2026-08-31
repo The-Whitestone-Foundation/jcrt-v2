@@ -1,6 +1,6 @@
 ---
 nanoid: "E9QQCA"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nwbrct2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzy5d562z'
 name: Kurt Appel
 affiliation: "Institute for Systematic Theology and Ethics of Catholic Theology at the University of Vienna"
 bio: "Professor of Fundamental Theology at the Institute for Systematic Theology and Ethics of Catholic Theology at the University of Vienna"

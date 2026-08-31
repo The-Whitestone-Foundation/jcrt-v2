@@ -1,6 +1,6 @@
 ---
 nanoid: "q-xeMd"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nlufl62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzntrag2z'
 name: Paul Dahlgren
 affiliation: "University of California, Irvine"
 bio:

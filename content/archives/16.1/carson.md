@@ -1,7 +1,7 @@
 ---
 nanoid: "aqSFjx"
 doi: "10.17613/fanys-58s50"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7m46gb72h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy6fig62h'
 title: "Owning My Masters: an Artist’s Introduction."
 author: "A. D. Carson"
 affilation:

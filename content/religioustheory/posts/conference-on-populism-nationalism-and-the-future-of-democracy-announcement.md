@@ -1,7 +1,7 @@
 ---
 nanoid: "EJz9Bd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kkxrn325'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwnhijk2q'
 title: >-
   Conference on Populism, Nationalism, and the Future of Democracy
   (Announcement)

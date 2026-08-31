@@ -1,6 +1,6 @@
 ---
 nanoid: "eFMMTs"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7njf64w2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzlgz6g2q'
 name: "Reginald Bell, Jr."
 affiliation: "Central Georgia Technical College"
 bio: 

@@ -1,6 +1,6 @@
 ---
 nanoid: "JXR2lu"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oacuph2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2bjud62z'
 name: Ignas Kalpokas
 affiliation: ""
 bio:

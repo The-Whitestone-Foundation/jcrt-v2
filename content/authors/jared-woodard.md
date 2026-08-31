@@ -1,6 +1,6 @@
 ---
 nanoid: "JNrD_N"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o67bru23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw27hu662i'
 name: Jared Woodard
 affiliation: "Fordham University, University of Edinburgh"
 bio:

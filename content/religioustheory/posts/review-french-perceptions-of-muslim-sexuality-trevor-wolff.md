@@ -1,7 +1,7 @@
 ---
 nanoid: "Woq-6u"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lkm4dr2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxn3atn2u'
 title: Review – French Perceptions of Muslim Sexuality (Trevor Wolff)
 description: "Mack, Mehammed Amadeus. Sexagon: Muslims, France, and the Sexualization of National Culture. New York City NY: Fordham University Press, 2017 It highlights"
 date: '2018-01-05T02:34:24.000Z'

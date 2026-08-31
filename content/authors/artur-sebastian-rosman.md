@@ -1,6 +1,6 @@
 ---
 nanoid: "kYU8Ap"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oou66k2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2pyk2o2g'
 name: Artur Sebastian Rosman
 affiliation: University of Washington
 bio: At the time of original publication, Artur Sebastian Rosman was a doctoral student in comparative literature at the University of Washington.

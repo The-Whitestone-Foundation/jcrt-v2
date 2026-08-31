@@ -1,6 +1,6 @@
 ---
 nanoid: "OfOp4Q"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oiepkr2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2jistl23'
 name: Daniel Weidner
 affiliation: "University of Halle"
 bio:

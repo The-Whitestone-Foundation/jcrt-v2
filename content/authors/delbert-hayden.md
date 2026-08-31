@@ -1,6 +1,6 @@
 ---
 nanoid: "wijyNy"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ogvykx2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2i3awp2h'
 name: Delbert Hayden
 affiliation: "Western Kentucky University"
 bio:

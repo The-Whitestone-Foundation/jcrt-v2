@@ -1,6 +1,6 @@
 ---
 nanoid: "sjeBYE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nz56u72u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw22f7yt2p'
 name: Josiah Solis
 affiliation:
 bio:

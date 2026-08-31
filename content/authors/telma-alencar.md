@@ -1,6 +1,6 @@
 ---
 nanoid: "85UvqW"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ndeg3z2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzfihgv2u'
 name: Telma Alencar
 affiliation: "independant scholar"
 bio: |-

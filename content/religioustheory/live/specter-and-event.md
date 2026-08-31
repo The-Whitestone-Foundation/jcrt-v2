@@ -1,6 +1,6 @@
 ---
 nanoid: "khlyeU"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mnejlj2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyow4e42s'
 title: "Specter and Event"
 description: "Carl A. Raschke reflects on 2009 as a year of spectral eventfulness, reading Derrida and Nietzsche against political repetition, nihilism, and false dawns."
 date: '2009-05-16'

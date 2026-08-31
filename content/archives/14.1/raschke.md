@@ -1,7 +1,7 @@
 ---
 nanoid: "j5ntaD"
 doi: "10.17613/sy7jn-k2094"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7maiatb2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyc2hgw2z'
 title: "Not Your Grandmother’s Theory of Religion: an Interview with Carl Raschke."
 author: "Carl A. Raschke; David Hale"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "6YCvoR"
 doi: "10.17613/gf4fp-6s106"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kvqyer2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwxzhcv2u'
 title: "Undead"
 author: "Arthur Bradley"
 affilation:

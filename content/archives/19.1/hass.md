@@ -1,7 +1,7 @@
 ---
 nanoid: "VOQzkm"
 doi: "10.17613/9bp4f-yaq10"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lbmc6t2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxdnzgk2n'
 title: "The Yes of Nietzsche and Hegel in Altizer"
 author: "Andrew W. Hass"
 affilation:

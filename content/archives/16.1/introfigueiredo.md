@@ -1,7 +1,7 @@
 ---
 nanoid: "rDU_hk"
 doi: "10.17613/8fpg8-47646"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7m3gqeb2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy5ofdd23'
 title: "Introduction To The Journal Of Cultural And Religious Theory Special Issue On 'Civic Humanities'"
 author: Sergio C. Figueiredo
 affilation:

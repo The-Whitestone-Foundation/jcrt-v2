@@ -1,6 +1,6 @@
 ---
 nanoid: "QI4ai_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7on6hm72n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2ocifv2u'
 name: Branko Klun
 affiliation:
 bio:

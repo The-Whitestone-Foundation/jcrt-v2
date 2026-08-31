@@ -1,7 +1,7 @@
 ---
 nanoid: "OdlmCU"
 doi: "10.17613/yekkx-9jr13"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mqwuyd2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyshwuo2z'
 title: "Buddhism, Apophasis, Truth"
 author: "Mario D'Amato"
 affilation:

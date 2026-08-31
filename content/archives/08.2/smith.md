@@ -1,7 +1,7 @@
 ---
 nanoid: "9DdsH1"
 doi: "10.17613/479kh-dr995"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7msbsrh2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvytszov2u'
 title: "Theology and the Political: the New Debate"
 author: "Anthony Paul Smith"
 affilation:

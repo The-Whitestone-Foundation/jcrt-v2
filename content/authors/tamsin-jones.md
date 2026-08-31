@@ -1,6 +1,6 @@
 ---
 nanoid: "1S3kJ7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ndjp632i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzfndwk2n'
 name: Tamsin Jones
 affiliation: "Trinity College, University of Victoria"
 bio: 

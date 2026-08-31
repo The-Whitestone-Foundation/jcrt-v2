@@ -1,7 +1,7 @@
 ---
 nanoid: "Qt4KT5"
 doi: "10.17613/vz5ys-d7250"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mjzgae23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvylkgwz2f'
 title: "Bio-Paulitics"
 author: "Arne De Boever"
 affilation:

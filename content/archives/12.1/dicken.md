@@ -1,7 +1,7 @@
 ---
 nanoid: "nLLOjr"
 doi: "10.17613/znrhk-vp695"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mhhwo425'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyiyaoc2q'
 title: "Graffiti Theology: Criteria and an Agenda"
 author: "Thomas M Dicken"
 affilation:

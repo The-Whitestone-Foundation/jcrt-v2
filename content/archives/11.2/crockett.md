@@ -1,7 +1,7 @@
 ---
 nanoid: "0FtNoX"
 doi: "10.17613/5h8yh-c7h25"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mj5v6p2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyknr3g2g'
 title: "The Monstrosity of the Other"
 author: "Clayton Crockett"
 affilation:

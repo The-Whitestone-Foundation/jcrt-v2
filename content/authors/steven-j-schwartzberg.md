@@ -1,6 +1,6 @@
 ---
 nanoid: "c-CVL9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ndza7h2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzg4r5b25'
 name: "Steven J. Schwartzberg"
 affiliation: "DePaul University"
 orcid: https://orcid.org/0000-0003-0845-013X

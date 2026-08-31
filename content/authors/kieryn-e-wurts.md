@@ -1,6 +1,6 @@
 ---
 nanoid: "3BuU3a"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nwlwfb2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzyhk752u'
 name: Kieryn E. Wurts
 affiliation:
 bio:

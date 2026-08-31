@@ -1,6 +1,6 @@
 ---
 nanoid: "Q8r7cX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kidq572h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwjrpq323'
 title: "Registration Now Open: Religion, Politics, and Cognitive Warfare"
 description: "Registration is now open for the online JCRT conference Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality, taking place October 1-3, 2026."
 image: https://files.jcrt.org/images/header.webp

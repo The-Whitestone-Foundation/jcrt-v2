@@ -1,7 +1,7 @@
 ---
 nanoid: "x21d8X"
 doi: "10.17613/b9dc3-62s04"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lpavup2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxrm3ts2n'
 title: "Collective Desire and the Pathology of the Individual."
 author: "Jodi Dean"
 affilation:

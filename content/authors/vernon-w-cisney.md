@@ -1,6 +1,6 @@
 ---
 nanoid: "rOxhJ6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nbl73c2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzdqaz323'
 name: Vernon W. Cisney
 affiliation: "Gettysburg College"
 bio: 

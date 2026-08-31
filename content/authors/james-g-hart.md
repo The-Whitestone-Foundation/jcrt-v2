@@ -1,6 +1,6 @@
 ---
 nanoid: "DMRFbn"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o6uk5z2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2a44ic2p'
 name: James G. Hart
 affiliation:
 bio:

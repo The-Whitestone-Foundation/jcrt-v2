@@ -1,7 +1,7 @@
 ---
 nanoid: "nZXrQz"
 doi: "10.17613/6ejkw-7tp81"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mhphmp2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyj7olz25'
 title: "In Whom, Then, Do We Put Trust?"
 author: "J Aaron Simmons"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "rxbmmZ"
 doi: "10.17613/m93sn-dwg92"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lgirr72u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxj2cx62z'
 title: "Beyond Religious Ideas: the Legacy of Max Weber in Critical Theory and Critical Religion."
 author: "Joel Harrison"
 affilation:

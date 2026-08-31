@@ -1,7 +1,7 @@
 ---
 nanoid: "oUW-Dv"
 doi: "10.17613/xtemg-c2b04"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mzc3rd2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz2ribx2e'
 title: "Prosthetic Gods"
 author: "Jacky Bowring"
 affilation:

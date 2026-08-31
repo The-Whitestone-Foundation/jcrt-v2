@@ -1,6 +1,6 @@
 ---
 nanoid: "_xxpPp"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ode2sx2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2ekznz2f'
 name: Florian Klug
 affiliation: "University of Würzburg"
 orcid: https://orcid.org/0000-0002-4458-3450

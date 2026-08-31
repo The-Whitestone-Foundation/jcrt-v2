@@ -1,7 +1,7 @@
 ---
 nanoid: "BTKw4A"
 doi: "10.17613/z2cx0-dj713"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lmxztl2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxpf2lx2e'
 title: "Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and Andrew Feenberg on Lukacs‘ Theory of Reification."
 author: "Konstantinos Kavoulakos"
 affilation:

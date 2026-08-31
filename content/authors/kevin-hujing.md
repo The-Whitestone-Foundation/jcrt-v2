@@ -1,6 +1,6 @@
 ---
 nanoid: "y5jOxM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nwtkzr2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzyp5r323'
 name: Kevin Hujing
 affiliation: "Metropolitan State University of Denver"
 bio:

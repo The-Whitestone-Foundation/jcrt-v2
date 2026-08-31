@@ -1,6 +1,6 @@
 ---
 nanoid: "26CS5-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oakoum23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2brmrx2h'
 name: Ian Almond
 affiliation: " Georgetown University in Qatar"
 bio:

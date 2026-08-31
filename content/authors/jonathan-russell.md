@@ -1,6 +1,6 @@
 ---
 nanoid: "-4a0c7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o2suzu23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw242haj25'
 name: Jonathan Russell
 affiliation:
 bio:

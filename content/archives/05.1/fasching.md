@@ -1,7 +1,7 @@
 ---
 nanoid: "hPJbzI"
 doi: "10.17613/fecaj-c4x81"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7n6x26r2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzb2udw2g'
 title: "Anonymous God"
 author: "Darrell J Fasching"
 affilation:

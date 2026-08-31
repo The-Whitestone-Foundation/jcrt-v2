@@ -1,7 +1,7 @@
 ---
 nanoid: "nOWtVl"
 doi: "10.17613/8s4t1-0xh94"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ltw6au25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxw6j7b2f'
 title: "The Truth of Paul According to Alain Badiou."
 author: "Mads Peter Karlsen"
 affilation:
