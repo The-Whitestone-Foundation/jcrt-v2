@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import handleOaiRequest from "./oai-pmh.js";
+import handleOaiRequest from "../netlify/edge-functions/oai-pmh.js";
 
 test("keeps the three OAI URLs distinct and canonical", async () => {
 	const context = { next: () => assert.fail("unexpected context.next()") };
