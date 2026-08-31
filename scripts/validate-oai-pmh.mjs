@@ -2,7 +2,11 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
-import { handleOaiRequest, OAI_METADATA_PREFIX } from "./lib/oai-pmh.mjs";
+import {
+	handleOaiRequest,
+	OAI_METADATA_PREFIX,
+	renderPrimoListRecordsResponse,
+} from "./lib/oai-pmh.mjs";
 
 const ROOT = process.cwd();
 const SITE_DIR = path.join(ROOT, "_site");
@@ -229,6 +233,10 @@ function runQuickChecks({ baseURL, records, identify }) {
 	assert(staticXml.includes("<OAI-PMH"), "Static OAI XML is missing OAI-PMH root.");
 	assert(staticXml.includes("<ListRecords>"), "Static OAI XML is missing ListRecords.");
 	assert(staticXml.includes("<oai_dc:dc"), "Static OAI XML is missing oai_dc metadata.");
+	const primoXml = renderPrimoListRecordsResponse({ records });
+	assert(primoXml.includes("<ListRecords>"), "Primo VE XML is missing ListRecords root.");
+	assert(!primoXml.includes("<OAI-PMH"), "Primo VE XML must not include an OAI-PMH envelope.");
+	assert(primoXml.includes("<oai_dc:dc"), "Primo VE XML is missing oai_dc metadata.");
 	runProtocolChecks({ baseURL, records, identify });
 	assertIncrementalDayGranularity({ baseURL, records, identify });
 	assertResumptionFlow({ baseURL, records, identify });
@@ -286,6 +294,7 @@ function run() {
 		const staticXml = fs.readFileSync(OAI_XML_PATH, "utf8");
 		validateAgainstOaiSchema(tempDir, "static-listrecords", staticXml);
 		validateOaiDcBlocks(tempDir, "static-listrecords", staticXml);
+		validateOaiDcBlocks(tempDir, "primo-listrecords", renderPrimoListRecordsResponse({ records }));
 
 		const protocolOutputs = runProtocolChecks({ baseURL, records, identify });
 		for (const output of protocolOutputs) {

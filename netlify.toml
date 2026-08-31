@@ -56,6 +56,10 @@
   path = "/oai"
 
 [[edge_functions]]
+  function = "oai-pmh"
+  path = "/oai/*"
+
+[[edge_functions]]
   function = "query-canonical-redirects"
   path = "/*"
   # Static assets never need this function. Without the exclusion these three /*

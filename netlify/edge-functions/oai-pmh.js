@@ -1,12 +1,23 @@
-import { handleOaiRequest, renderStaticListRecordsResponse } from "../../scripts/lib/oai-pmh.mjs";
+import {
+	handleOaiRequest,
+	renderPrimoListRecordsResponse,
+	renderStaticListRecordsResponse,
+} from "../../scripts/lib/oai-pmh.mjs";
 
 const CANONICAL_OAI_PATH = "/oai";
+const OAI_FEED_PATH = "/sitemaps/oai_dc.xml";
+const PRIMO_OAI_PATH = "/sitemap/oai_dc.xml";
 const OAI_PATHS = new Set([
 	CANONICAL_OAI_PATH,
-	"/sitemap/oai_dc.xml",
-	"/sitemaps/oai_dc.xml",
+	OAI_FEED_PATH,
+	PRIMO_OAI_PATH,
 ]);
 const OAI_RECORDS_PATH = "/sitemaps/oai-records.json";
+
+function redirectPath(url, pathname) {
+	url.pathname = pathname;
+	return Response.redirect(url, 308);
+}
 
 async function loadOaiIndex(origin) {
 	const indexUrl = new URL(OAI_RECORDS_PATH, origin).toString();
@@ -23,6 +34,7 @@ async function loadOaiIndex(origin) {
 
 export default async (request, context) => {
 	const url = new URL(request.url);
+	if (url.pathname === `${CANONICAL_OAI_PATH}/`) return redirectPath(url, CANONICAL_OAI_PATH);
 	if (!OAI_PATHS.has(url.pathname)) return context.next();
 
 	const method = String(request.method || "GET").toUpperCase();
@@ -35,10 +47,20 @@ export default async (request, context) => {
 		});
 	}
 
-	// Keep one canonical base URL for all aliases so responses are identical.
+	// Protocol responses always advertise the one canonical OAI-PMH base URL.
 	const baseURL = `${url.origin}${CANONICAL_OAI_PATH}`;
 	try {
 		const index = await loadOaiIndex(url.origin);
+		if (url.pathname === PRIMO_OAI_PATH) {
+			const xml = renderPrimoListRecordsResponse({ records: index?.records || [] });
+			return new Response(method === "HEAD" ? null : xml, {
+				status: 200,
+				headers: {
+					"content-type": "application/xml; charset=UTF-8",
+					"cache-control": "public,max-age=0,must-revalidate",
+				},
+			});
+		}
 		const params = new URLSearchParams(url.searchParams);
 		if (method === "POST") {
 			for (const [key, value] of new URLSearchParams(await request.text())) params.append(key, value);

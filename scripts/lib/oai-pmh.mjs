@@ -384,6 +384,10 @@ export function renderStaticListRecordsResponse({
 	return renderEnvelope(baseURL, requestAttrs, body, responseDate);
 }
 
+export function renderPrimoListRecordsResponse({ records }) {
+	return `<?xml version="1.0" encoding="UTF-8"?>\n${renderListRecords(sortRecords(records))}\n`;
+}
+
 export function handleOaiRequest({
 	baseURL,
 	params,

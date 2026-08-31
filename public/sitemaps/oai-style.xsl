@@ -27,6 +27,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="noindex, follow" />
+        <link rel="alternate" type="text/xml" title="JCRT OAI-PMH" href="https://jcrt.org/oai" />
         <title>OAI-PMH — jcrt.org</title>
         <style>
           html {
@@ -147,10 +148,19 @@
       <body>
         <h1>OAI-PMH</h1>
         <p class="meta">
-          Metadata harvesting endpoint for
+          OAI-PMH 2.0 conformant metadata repository for
           <a href="https://jcrt.org/">jcrt.org</a> ·
           responded <span class="mono"><xsl:value-of select="oai:OAI-PMH/oai:responseDate" /></span>
         </p>
+
+        <h2>Conformance</h2>
+        <dl>
+          <dt>Standard</dt><dd>Open Archives Initiative Protocol for Metadata Harvesting 2.0</dd>
+          <dt>Base URL</dt><dd><a href="https://jcrt.org/oai?verb=Identify">https://jcrt.org/oai</a></dd>
+          <dt>Methods</dt><dd>GET and POST</dd>
+          <dt>Metadata</dt><dd><span class="mono">oai_dc</span> (unqualified Dublin Core)</dd>
+          <dt>Validation</dt><dd>OAI-PMH 2.0 and OAI Dublin Core XML schemas</dd>
+        </dl>
 
         <xsl:apply-templates select="oai:OAI-PMH/oai:error" />
         <xsl:apply-templates select="oai:OAI-PMH/oai:Identify" />
@@ -300,6 +310,7 @@
       <li><a href="?verb=ListSets">ListSets</a><span class="rec-meta">subject sets you can filter by</span></li>
       <li><a href="?verb=ListIdentifiers&amp;metadataPrefix=oai_dc">ListIdentifiers</a><span class="rec-meta">record ids only</span></li>
       <li><a href="?verb=ListRecords&amp;metadataPrefix=oai_dc">ListRecords</a><span class="rec-meta">full Dublin Core records</span></li>
+      <li><span class="mono">GetRecord</span><span class="rec-meta">one record by identifier</span></li>
     </ol>
     <p class="note">
       Harvesting the whole archive means following <code>resumptionToken</code> through
