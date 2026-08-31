@@ -1,7 +1,7 @@
 ---
 nanoid: "t6prql"
 doi: "10.17613/awwst-jt253"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ug5oxw2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7m52xkz2e'
 title: "Heidegger, Machination, and the Jewish Question: the Problem of the Gift."
 author: "Anthony J. Steinbock"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "7H6vzi"
 doi: "10.17613/53weh-nzp79"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ur5n7x2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mztyfz2q'
 title: "The Politics of Paul"
 author: "Jeffrey W Robbins"
 affilation:

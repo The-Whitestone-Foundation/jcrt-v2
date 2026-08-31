@@ -1,6 +1,6 @@
 ---
 nanoid: "Y7QHLj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6um6vbz2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mnbzih2u'
 title: "Obama’s Cairo Speech: “New Beginning,” New Enlightenment, or Old Aporia?"
 description: "Carl A. Raschke analyzes Obama's Cairo speech as a bid for renewed relations between Islam and the West, testing its promise against Enlightenment aporias."
 date: '2009-06-05'

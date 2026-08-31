@@ -1,7 +1,7 @@
 ---
 nanoid: "ssIEUV"
 doi: "10.17613/ssytk-x7897"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ugrfgf2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7m7bq6u23'
 title: "Is Mashup the Right Metaphor?"
 author: "Timothy D. Knepper"
 affilation:

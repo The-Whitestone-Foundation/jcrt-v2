@@ -1,6 +1,6 @@
 ---
 nanoid: "kHHyxL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vffdwy25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7onntr72h'
 name: Bhrigupati Singh
 affiliation: "Johns Hopkins University "
 bio:

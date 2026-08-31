@@ -1,6 +1,6 @@
 ---
 nanoid: "lqcLpC"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vdxzya2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ojymyz2e'
 name: Craig (Craig Edward) Martin
 affiliation: "St. Thomas Aquinas College"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "bhvFwv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tzeulq2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7l5nr6s2q'
 title: >-
   Religious Studies – The Final Colonization Of American Indians, Part 1 (Tink
   Tinker, wazhazhe udsethe)

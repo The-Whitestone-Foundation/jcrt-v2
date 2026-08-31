@@ -1,7 +1,7 @@
 ---
 nanoid: "_CPCEk"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ucfy2u2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lv5eux2u'
 title: >-
   The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 1
   (Roger Green)

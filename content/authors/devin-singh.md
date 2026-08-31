@@ -1,6 +1,6 @@
 ---
 nanoid: "gbiRhY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vcnfei2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oglsak2z'
 name: Devin Singh
 affiliation:
 bio:

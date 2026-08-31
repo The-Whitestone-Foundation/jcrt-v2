@@ -1,7 +1,7 @@
 ---
 nanoid: "sm6-FG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ucxou72u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lwmj3u23'
 title: >-
   From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of
   Religion on the Rise of Modern Racism, Part 2 (Oludamini Ogunnaike)

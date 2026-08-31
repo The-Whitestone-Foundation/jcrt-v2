@@ -1,7 +1,7 @@
 ---
 nanoid: "scPBfs"
 doi: "10.17613/ywqfn-a5322"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tqn3ra2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kk2lzp2n'
 layout: archives.njk
 article_number: '05'
 volume: '24'

@@ -1,7 +1,7 @@
 ---
 nanoid: "0VTG2k"
 doi: "10.17613/znwfw-rc456"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u2p42p2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lawhrk2q'
 title: "Altizer and Derrida: Apocalyptic Spectralities"
 author: "Victor Taylor"
 affilation:

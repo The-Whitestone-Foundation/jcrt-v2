@@ -1,6 +1,6 @@
 ---
 nanoid: "AFA4Q9"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v3lqrj2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nu274s2z'
 name: Manuel Jesús Mejido
 affiliation: "University of Geneva"
 bio:

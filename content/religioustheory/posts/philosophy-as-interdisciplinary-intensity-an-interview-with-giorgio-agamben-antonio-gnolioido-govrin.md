@@ -1,7 +1,7 @@
 ---
 nanoid: "2KmVIB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ublezr2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lsxc4m23'
 title: >-
   Philosophy As Interdisciplinary Intensity – An Interview With Giorgio Agamben
   (Antonio Gnolio/Ido Govrin)

@@ -1,7 +1,7 @@
 ---
 nanoid: "o3OjBt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u5hxxq25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lica4o2h'
 title: >-
   Negative Theology And Its Problems: Barth And Marion, Lecture 3 (Johannes
   Zachhuber)

@@ -1,7 +1,7 @@
 ---
 nanoid: "V_egmB"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u3s6er2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ldvpyj2e'
 title: >-
   “Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human
   Skin, Part 3 (Tink Tinker, wazhazhe udsethe)

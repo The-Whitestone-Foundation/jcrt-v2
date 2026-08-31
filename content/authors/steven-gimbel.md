@@ -1,6 +1,6 @@
 ---
 nanoid: "_Lhm6E"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uva5h62h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ne3u7x2n'
 name: Steven Gimbel
 affiliation: "Gettysburg College, Millsaps College"
 bio:

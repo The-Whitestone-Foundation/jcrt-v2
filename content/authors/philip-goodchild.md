@@ -1,6 +1,6 @@
 ---
 nanoid: "WaDzHw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uxuvyi2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nkt4cb2q'
 name: Philip Goodchild
 affiliation: "University of Nottingham"
 bio:

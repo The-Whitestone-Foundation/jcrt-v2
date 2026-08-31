@@ -1,7 +1,7 @@
 ---
 nanoid: "V6aI3o"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uf2dpa2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7m25d5z2s'
 title: >-
   Spiritual Erotics, Part 1 – Affect Theory and the Transformation of Machismo
   Among Latino Pentecostal Men

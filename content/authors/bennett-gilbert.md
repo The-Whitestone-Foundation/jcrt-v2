@@ -1,6 +1,6 @@
 ---
 nanoid: "01alPv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vfidjn2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7onvoqh2h'
 name: "Bennett Gilbert"
 affiliation: "Portland State University"
 bio:

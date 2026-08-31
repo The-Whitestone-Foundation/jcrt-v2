@@ -1,7 +1,7 @@
 ---
 nanoid: "djRLCR"
 doi: "10.17613/prx6g-21w38"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ujgk6d2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mgbhzs2z'
 title: "Psalm Recitation and Post-Secular Time: Augustine, the Ipod, and Psalm 90."
 author: "Brian Britt"
 affilation:

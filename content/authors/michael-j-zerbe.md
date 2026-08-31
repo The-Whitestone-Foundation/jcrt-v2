@@ -1,6 +1,6 @@
 ---
 nanoid: "6bRWng"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v23soz2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nq7rcl2i'
 name: Michael J Zerbe
 affiliation: "York College of Pennsylvania"
 bio:

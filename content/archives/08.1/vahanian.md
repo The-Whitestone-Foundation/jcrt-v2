@@ -1,7 +1,7 @@
 ---
 nanoid: "HxGKPv"
 doi: "10.17613/yrwh1-x9438"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6up37dq2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mulhgh2h'
 title: "ThÉOrie-RÉBellion: UN Ultimatum"
 author: "Nöelle Vahanian"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "R5-cIF"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uaxvay2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lrembb2q'
 title: >-
   Review – Ontic Flows: From Digital Humanities to Posthumanities (Dean
   Dettloff)

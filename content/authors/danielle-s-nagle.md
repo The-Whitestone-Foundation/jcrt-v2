@@ -1,6 +1,6 @@
 ---
 nanoid: "wlNW4Q"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vdavff2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oi7nfk2q'
 name: Danielle S. Nagle
 affiliation: "independant scholar"
 bio: |-

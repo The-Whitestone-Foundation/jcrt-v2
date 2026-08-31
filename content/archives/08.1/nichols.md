@@ -1,7 +1,7 @@
 ---
 nanoid: "UYzGt5"
 doi: "10.17613/xeqyq-pbd21"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6upcfvd2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mv554g2h'
 title: "The Man Behind the Iron Mask: Marx and St. John on Repetition, Revelation and Revolution"
 author: "Joshua Nichols"
 affilation:

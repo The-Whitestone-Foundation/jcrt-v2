@@ -1,7 +1,7 @@
 ---
 nanoid: "yo4Fuu"
 doi: "10.17613/54eqv-5nw25"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u4wz3j2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lgvnyj2p'
 title: "God’s Absence as Textual Presence: the Radical (Literary) Theology of Northrop Frye."
 author: "Daniel Fishley"
 affilation:

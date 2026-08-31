@@ -1,7 +1,7 @@
 ---
 nanoid: "fUWpYv"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tqzkaw2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kl2eiz2p'
 title: >-
   Conference on Populism, Nationalism, and the Future of Democracy – Call for
   Papers and Presentations (Conferences)

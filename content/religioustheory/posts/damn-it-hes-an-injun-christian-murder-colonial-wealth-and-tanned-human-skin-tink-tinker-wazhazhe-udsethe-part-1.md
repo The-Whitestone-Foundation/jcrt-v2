@@ -1,7 +1,7 @@
 ---
 nanoid: "DGJIVG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u3u6zo2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7le2lwj2p'
 title: >-
   “Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human
   Skin (Tink Tinker, wazhazhe udsethe), Part 1

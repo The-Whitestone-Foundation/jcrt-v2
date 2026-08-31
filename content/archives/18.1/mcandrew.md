@@ -1,7 +1,7 @@
 ---
 nanoid: "JYdzzb"
 doi: "10.17613/62rnh-vam44"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u6oyxz2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7llidgx2h'
 title: "Psychoanalysis, Veterans, and the Problem of the Real: or, on War and Enunciation."
 author: "Michael McAndrew"
 affilation:

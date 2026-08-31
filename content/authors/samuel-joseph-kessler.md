@@ -1,6 +1,6 @@
 ---
 nanoid: "ociNnh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uwamax2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ngntgm23'
 name: Samuel Joseph Kessler
 affiliation:
 bio:

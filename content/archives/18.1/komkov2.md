@@ -1,7 +1,7 @@
 ---
 nanoid: "O-8ms7"
 doi: "10.17613/q0f0h-b2h34"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u6soed23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7llt2fu23'
 title: "The Vertical Form - the Iconological Dimension on 2oth Century Russian Religious Aesthetics and Literary Criticism."
 author: "Oleg Komkov"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "jjI4CB"
 doi: "10.17613/dpb50-s8588"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tup6ki2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kru5fd25'
 title: "Embodied Trauma and Healing"
 author: "Anna Westin; Magdalena Sedmak"
 affilation:

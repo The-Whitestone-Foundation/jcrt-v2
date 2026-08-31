@@ -1,7 +1,7 @@
 ---
 nanoid: "X4iIIM"
 doi: "10.17613/5ej65-9ze06"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uonfco2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mthumc2q'
 title: "Reading the Merchant of Venice Through Adorno"
 author: "Zdravko Planinc"
 affilation:

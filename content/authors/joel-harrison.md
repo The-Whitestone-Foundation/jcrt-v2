@@ -1,6 +1,6 @@
 ---
 nanoid: "y8PjV7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v6ljah2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o3zih62h'
 name: Joel Harrison
 affiliation: "Northwestern University"
 bio:

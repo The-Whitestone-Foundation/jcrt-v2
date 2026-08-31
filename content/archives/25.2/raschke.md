@@ -1,7 +1,7 @@
 ---
 nanoid: "r-kaRt"
 doi: "10.17613/snmtg-sq183"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tppip42q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7khrcac2g'
 layout: archives.njk
 article_number: '06'
 volume: '25'

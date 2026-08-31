@@ -1,6 +1,6 @@
 ---
 nanoid: "_kNTa5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vece2q2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7okumpb2q'
 name: Christopher D Rodkey
 affiliation: "Lebanon Valley College, Drew University"
 orcid: https://orcid.org/0009-0004-2741-0197

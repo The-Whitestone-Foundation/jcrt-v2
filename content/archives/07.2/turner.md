@@ -1,7 +1,7 @@
 ---
 nanoid: "f3dZHS"
 doi: "10.17613/arkb7-1ms69"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6upmoxy25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mvzbzr2f'
 title: "Derrida’s Bible: Reading a Page of Scripture with a Little Help from Derrida"
 author: "Donald L Turner"
 affilation:

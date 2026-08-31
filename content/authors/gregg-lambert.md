@@ -1,6 +1,6 @@
 ---
 nanoid: "KwcXpv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vamn452f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7obgtbz2e'
 name: Gregg Lambert
 affiliation: "Syracuse University"
 bio:

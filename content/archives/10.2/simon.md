@@ -1,7 +1,7 @@
 ---
 nanoid: "6559cW"
 doi: "10.17613/kgrep-xt787"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulh7ii25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mlh55r2e'
 title: "The Anthropologic Eye: H.D.‘S Call for a New Poetics"
 author: "Lisa Simon"
 affilation:

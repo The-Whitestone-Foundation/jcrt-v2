@@ -1,7 +1,7 @@
 ---
 nanoid: "lS0yR5"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tr2j7b2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kl4xjb2s'
 title: Special Issue On Religion and Bioethics (Call for Papers)
 description: "The Journal for Cultural and Religious Theory (JCRT) invites submissions for a special issue dedicated to the intersection of religion and bioethics It"
 date: '2025-01-23T04:03:41.000Z'

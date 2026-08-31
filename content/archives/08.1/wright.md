@@ -1,7 +1,7 @@
 ---
 nanoid: "7XzjIn"
 doi: "10.17613/r0j01-6dn30"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uozfsl2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mughag2p'
 title: "Does Human Rights Need God?"
 author: "David B Dillard-Wright"
 affilation:

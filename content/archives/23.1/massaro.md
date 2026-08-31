@@ -1,7 +1,7 @@
 ---
 nanoid: "tAdYbo"
 doi: "10.17613/n91b4-c0114"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ts7sr323'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ko3hbb2e'
 title: "The Environmental Ethics of Pope Francis: Parsing Key Terms and Claims in Laudato Si"
 author: "Thomas Massaro"
 affilation:

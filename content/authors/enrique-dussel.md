@@ -1,6 +1,6 @@
 ---
 nanoid: "OiOjwJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vbugix2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oelwog2h'
 name: Enrique Dussel
 affiliation: "Department of Philosophy (UAM-Iztapalapa, Mexico)"
 bio:

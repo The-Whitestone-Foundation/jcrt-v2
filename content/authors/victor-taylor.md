@@ -1,6 +1,6 @@
 ---
 nanoid: "UCaxNQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uuadhn2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7nbineg2h'
 name: Victor Taylor
 affiliation: "Independent Scholar"
 bio: "Executive Editor"

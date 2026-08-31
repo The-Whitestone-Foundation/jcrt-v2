@@ -1,7 +1,7 @@
 ---
 nanoid: "O5Bf_w"
 doi: "10.17613/kw5mq-jea07"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6unh2ih2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mqhlq32i'
 title: "Lacan and the Limits of Language"
 author: "Melissa Conroy"
 affilation:

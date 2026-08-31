@@ -1,7 +1,7 @@
 ---
 nanoid: "Z1yCQ4"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ub5six2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lrtt5x2h'
 title: >-
   Hegemony And Techno-Rationality – Toward An Aesthetic Soteriology (Mason
   Davis)

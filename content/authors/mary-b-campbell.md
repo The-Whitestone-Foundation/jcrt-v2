@@ -1,6 +1,6 @@
 ---
 nanoid: "YkB2Ll"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v2tiga25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ns4y2h2u'
 name: Mary B Campbell
 affiliation: "Brandeis University"
 bio:

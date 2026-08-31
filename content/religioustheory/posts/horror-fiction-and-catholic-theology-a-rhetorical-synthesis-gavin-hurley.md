@@ -1,7 +1,7 @@
 ---
 nanoid: "Sk66OD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u35l3d2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lc6gbu25'
 title: >-
   Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 (Gavin
   Hurley)

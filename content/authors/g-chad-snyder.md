@@ -1,6 +1,6 @@
 ---
 nanoid: "63AQbE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vb6ik62p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ocuvng2p'
 name: G Chad Snyder
 affiliation: "Elon University"
 bio:

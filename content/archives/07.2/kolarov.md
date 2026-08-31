@@ -1,7 +1,7 @@
 ---
 nanoid: "Vo2uHS"
 doi: "10.17613/ms9c5-9aa17"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6upvihi2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mwnwft2i'
 title: "Gems for Creatures: Care and Natality Between Hannah Arendt and Shakespeare"
 author: "Viola Kolarov"
 affilation:

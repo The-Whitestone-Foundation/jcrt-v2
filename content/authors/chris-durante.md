@@ -1,6 +1,6 @@
 ---
 nanoid: "GyWtDa"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6veg5rn2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7ol6nmu25'
 name: Chris Durante
 affiliation: "Saint Peter’s University"
 bio:

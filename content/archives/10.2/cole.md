@@ -1,7 +1,7 @@
 ---
 nanoid: "GWKdcE"
 doi: "10.17613/30e5r-7qa55"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulpree2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mm3owz2f'
 title: "Symptom or Inspiration?: H.D., Freud and, the Question of Vision"
 author: "Merrill Cole"
 affilation:

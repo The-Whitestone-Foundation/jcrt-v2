@@ -1,7 +1,7 @@
 ---
 nanoid: "d2tyTe"
 doi: "10.17613/bpqzq-gba83"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uqxg5x2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mzeopo2p'
 title: "Televised Morality: the Case of Buffy the Vampire Slayer"
 author: "Steven A. Benko"
 affilation:

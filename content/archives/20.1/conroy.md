@@ -1,7 +1,7 @@
 ---
 nanoid: "oeaRDV"
 doi: "10.17613/j629v-nxt89"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tslphp2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kp2xud2i'
 title: "Sexual Difference and the Vatican: a Lacanian Response."
 author: "Melissa Conroy"
 affilation:

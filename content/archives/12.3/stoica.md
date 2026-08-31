@@ -1,7 +1,7 @@
 ---
 nanoid: "VnhNVw"
 doi: "10.17613/f6dn6-1rc43"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uihe472g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mdphw72u'
 title: "Reading Gayatri Chakravorty Spivak in Rural QuÉBec, or Saving"
 author: "Dragos Stoica"
 affilation:

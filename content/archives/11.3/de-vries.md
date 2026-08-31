@@ -1,7 +1,7 @@
 ---
 nanoid: "pGN6PZ"
 doi: "10.17613/e9x9g-8a132"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uk56yq2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mhzotk2q'
 title: "Minimal Difference with Maximal Import: ‘Deep Pragmatism’ and Global Religion: an Interview with Hent De Vries"
 author: "Victor Taylor; Hent de Vries"
 affilation:

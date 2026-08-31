@@ -1,7 +1,7 @@
 ---
 nanoid: "ObKaOo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ueyajr2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lzy6al2i'
 title: >-
   Spiritual Erotics, Part 2 – The Nature and History of Machismo and Its
   Feminine Counterpart As “Marianismo”

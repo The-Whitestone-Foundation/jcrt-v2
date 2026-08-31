@@ -1,6 +1,6 @@
 ---
 nanoid: "lai5eN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uzrhry2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7npl4ys2z'
 name: Michael Strysick
 affiliation: "Wake Forest University"
 bio:

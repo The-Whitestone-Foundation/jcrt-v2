@@ -1,6 +1,6 @@
 ---
 nanoid: "u391Yq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v7w7ht2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o7lrf62p'
 name: J. L. Schellenberg
 affiliation: "MOUNT SAINT VINCENT UNIVERSITY"
 bio:

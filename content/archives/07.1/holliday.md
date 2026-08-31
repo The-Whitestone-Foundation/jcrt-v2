@@ -1,7 +1,7 @@
 ---
 nanoid: "qH0oO2"
 doi: "10.17613/g44df-dkx14"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uqe7yj2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mxrf6h2n'
 title: "What Is Gnosticism?"
 author: "Lisa R Holliday"
 affilation:

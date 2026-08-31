@@ -1,6 +1,6 @@
 ---
 nanoid: "Rthoft"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v7kcmp2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o6m6ib2f'
 name: James Mensch
 affiliation:
 bio:

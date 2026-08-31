@@ -1,7 +1,7 @@
 ---
 nanoid: "kPgK5G"
 doi: "10.17613/8wzee-wgf20"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uk67sp2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mi45zk2g'
 title: "The Vaccination of the Infinite: Levinas‘ Metaphysical Desire and the Call of the Other"
 author: "Drew M Dalton"
 affilation:

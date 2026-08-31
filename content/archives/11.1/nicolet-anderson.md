@@ -1,7 +1,7 @@
 ---
 nanoid: "pworVL"
 doi: "10.17613/5vdq8-zar71"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ukprei2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mjkbo72h'
 title: "Becoming a Subject: the Case of Michel Foucault and Paul"
 author: "Valérie Nicolet Anderson"
 affilation:

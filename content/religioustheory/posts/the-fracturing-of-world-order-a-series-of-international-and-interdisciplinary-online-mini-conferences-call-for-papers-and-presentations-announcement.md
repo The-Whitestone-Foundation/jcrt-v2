@@ -1,7 +1,7 @@
 ---
 nanoid: "plYDeU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tvpsql23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7kujdvx2h'
 title: >-
   The Fracturing Of World Order – A Series of International and
   Interdisciplinary Online Mini-Conferences, Call For Papers And Presentations

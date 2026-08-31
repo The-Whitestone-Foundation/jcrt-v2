@@ -1,7 +1,7 @@
 ---
 nanoid: "9UIB19"
 doi: "10.17613/x35yg-0h838"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulqrgw2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mm6e222g'
 title: "‘There Have Been Pictures Here’: Spirit Photography and Projective Mediumship in Tribute to Freud"
 author: "Amaranth Borsuk"
 affilation:

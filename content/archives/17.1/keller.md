@@ -1,7 +1,7 @@
 ---
 nanoid: "98i6_k"
 doi: "10.17613/q1197-n7010"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ua3lro2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lp3pmh2u'
 title: "Keller, Response to Caputo and Muraca Cosmopoetic Entanglements."
 author: "Catherine Keller"
 affilation:

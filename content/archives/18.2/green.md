@@ -1,7 +1,7 @@
 ---
 nanoid: "SJ8tzR"
 doi: "10.17613/vbj73-d2d35"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u4tzca25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7lgnsvz2f'
 title: Fetish and the Erasure of Indigeneity
 author: Roger K Green
 affilation:

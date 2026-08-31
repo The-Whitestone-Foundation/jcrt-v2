@@ -1,7 +1,7 @@
 ---
 nanoid: "mNRplk"
 doi: "10.17613/d949f-n1e66"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uhmvgi25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mbjhsj2s'
 title: "Religion, Politics, and the Earth: the New Materialism."
 author: "Anindya Sekhar Purakayastha"
 affilation:

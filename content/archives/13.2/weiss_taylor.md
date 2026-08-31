@@ -1,7 +1,7 @@
 ---
 nanoid: "dlSK6S"
 doi: "10.17613/r3fhw-4w105"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uhh53q2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7mb26jc2z'
 title: "The Cultural UN/Life of Zombies."
 author: "DENNIS M. WEISS; Victor Taylor"
 affilation:

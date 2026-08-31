@@ -1,6 +1,6 @@
 ---
 nanoid: "gZ2MS6"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v72eo72u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7o5a3fk2q'
 name: Jeffrey Hanson
 affiliation: "Boston College"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "KveuVh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vaa3ua25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7oafhhx2u'
 name: Ido Govrin
 affiliation:
 bio:
