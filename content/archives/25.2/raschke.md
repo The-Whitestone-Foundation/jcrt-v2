@@ -1,6 +1,6 @@
 ---
 nanoid: "r-kaRt"
-doi: "10.17613/snmtg-sq183"
+doi: "10.17613/t4vek-kgq14"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muf7khrcac2g'
 layout: archives.njk
 article_number: '06'
@@ -13,6 +13,7 @@ affiliation: 'University of Denver'
 description: "Carl A. Raschke links quantum entanglement and ephaptic coupling to consciousness studies, proposing a transcendental semiotics of religious experience."
 pdf: 'raschke.pdf'
 date: 2026-08-24
+modified: 2026-08-31
 keywords:
   - quantum-entanglement
   - ephaptic-coupling
