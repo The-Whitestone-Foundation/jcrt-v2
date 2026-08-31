@@ -1,6 +1,6 @@
 ---
 nanoid: "XKFi0t"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmywcfr2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vcbaoy2q'
 name: Eddo Evink
 affiliation:
 orcid: https://orcid.org/0000-0003-4301-4392

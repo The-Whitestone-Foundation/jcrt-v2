@@ -1,7 +1,7 @@
 ---
 nanoid: "O2hvhO"
 doi: "10.17613/5gt68-aff31"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkwhdqt25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ug2q2b2i'
 title: "Crip/Tography: Disability Theology in the Ruins of God."
 author: "Sharon V. Betcher"
 affilation:

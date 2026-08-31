@@ -1,7 +1,7 @@
 ---
 nanoid: "ZHdrrM"
 doi: "10.17613/r8fap-zz085"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkldgitc2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulbh7g2h'
 title: "Spooky Noises: Ghosts in the Music Machine of Paul D. Miller (Aka Dj Spooky)"
 author: "Joshua Delpech-Ramey; DJ Spooky That Subliminal Kid"
 affilation:

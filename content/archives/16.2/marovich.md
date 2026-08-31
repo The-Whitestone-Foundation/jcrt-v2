@@ -1,7 +1,7 @@
 ---
 nanoid: "jlic7f"
 doi: "10.17613/hyz4a-yqj48"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkoviha2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uc73yj2i'
 title: "Religion, Secularity, Gender, Violence, & Death."
 author: "Beatrice Marovich"
 affilation:

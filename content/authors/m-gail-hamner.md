@@ -1,6 +1,6 @@
 ---
 nanoid: "lcxN4d"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmjxyvp2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v3uump2u'
 name: M Gail Hamner
 affiliation: "Syracuse University"
 bio:

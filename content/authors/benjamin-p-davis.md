@@ -1,6 +1,6 @@
 ---
 nanoid: "ikuicX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudknbb5bg2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vfkvnl2p'
 name: Benjamin P. Davis
 affiliation: "Emory University"
 bio:

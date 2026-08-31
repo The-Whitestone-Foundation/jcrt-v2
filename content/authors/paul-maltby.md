@@ -1,6 +1,6 @@
 ---
 nanoid: "4M6nwG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmbgfpd25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uy622a25'
 name: Paul Maltby
 affiliation: "West Chester University"
 bio:

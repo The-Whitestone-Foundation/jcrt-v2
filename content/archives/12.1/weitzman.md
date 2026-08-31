@@ -1,7 +1,7 @@
 ---
 nanoid: "nVSANL"
 doi: "10.17613/q5456-j3x45"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkl6qvva2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ujjo742q'
 title: "Odradek’s Laughter"
 author: "Erica Weitzman"
 affilation:

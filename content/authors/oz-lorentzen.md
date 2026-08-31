@@ -1,6 +1,6 @@
 ---
 nanoid: "G6lhiT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmc65ht25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uyhomr2s'
 name: Oz Lorentzen
 affiliation: "Prairie College, St. John Fisher College "
 bio:

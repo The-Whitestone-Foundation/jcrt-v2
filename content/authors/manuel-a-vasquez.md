@@ -1,6 +1,6 @@
 ---
 nanoid: "TLJ9V4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmjf2f42e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v3mqva2q'
 name: Manuel A. Vásquez
 affiliation: "University of Florida"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "ZBmWVs"
 doi: "10.17613/856pe-4e308"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkl72boy2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ujnqhp2u'
 title: "Political Theology: Sacred Flesh and Social Form"
 author: "Jennifer R Rust"
 affilation:

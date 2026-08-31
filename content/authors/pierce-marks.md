@@ -1,6 +1,6 @@
 ---
 nanoid: "JVn8CM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmad7pe2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uxouwi2e'
 name: Pierce Marks
 affiliation: "Southern New Hampshire University"
 bio:

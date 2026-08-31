@@ -1,7 +1,7 @@
 ---
 nanoid: "X_Oy28"
 doi: "10.17613/3s02a-b6y46"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkx2bc62p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ugcxj52f'
 title: "René Girard’s Theory of Sacrifice, or: What Is the Gift of Death?"
 author: "Ludger Hagedorn"
 affilation:

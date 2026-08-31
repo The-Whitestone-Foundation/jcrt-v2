@@ -1,7 +1,7 @@
 ---
 nanoid: "pmUQFk"
 doi: "10.17613/5p3w7-zpm95"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkldebkx2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulagox2g'
 title: "The Last Professors: the Corporate University and the Fate of the Humanities"
 author: "Gary Grieve-Carlson"
 affilation:

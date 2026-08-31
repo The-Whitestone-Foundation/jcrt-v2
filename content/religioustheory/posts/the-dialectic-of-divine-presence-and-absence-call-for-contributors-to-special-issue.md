@@ -1,7 +1,7 @@
 ---
 nanoid: "XOBqRR"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkfabwu2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u66hjx2u'
 title: Call for Contributors – The Dialectic of Divine Presence and Absence
 description: "Since the philosopher Nietzsche announced the “death of God” over a century ago, the specter of divine absence has hovered over Western civilization It"
 date: '2018-02-14T04:19:46.000Z'

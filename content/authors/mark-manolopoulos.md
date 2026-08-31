@@ -1,6 +1,6 @@
 ---
 nanoid: "iCUxJV"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmi5tb325'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v34dhp2u'
 name: Mark Manolopoulos
 affiliation: "Monash University"
 bio:

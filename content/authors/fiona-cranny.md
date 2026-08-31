@@ -1,6 +1,6 @@
 ---
 nanoid: "bajUn2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmwwgsi2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vbfj5p2h'
 name: Fiona Cranny
 affiliation:
 bio:

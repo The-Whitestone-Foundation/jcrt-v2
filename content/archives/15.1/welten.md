@@ -1,7 +1,7 @@
 ---
 nanoid: "yMfkP7"
 doi: "10.17613/hcc33-edd73"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkwm33a2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ug4pgp2g'
 title: "Jean-Paul Sartre, Notebooks for an Ethics: the Ontology of the Gift."
 author: "Ruud Welten"
 affilation:

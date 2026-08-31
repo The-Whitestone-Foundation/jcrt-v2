@@ -1,7 +1,7 @@
 ---
 nanoid: "PJ4TGD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkkmkve23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uafj5w2p'
 title: >-
   The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict,
   Part 1 (Brigid Burke)

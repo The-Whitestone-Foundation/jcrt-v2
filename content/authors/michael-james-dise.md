@@ -1,6 +1,6 @@
 ---
 nanoid: "TwZQFc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmfmknm2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v22w652f'
 name: Michael James Dise
 affiliation: "Free University of Amsterdam"
 bio:

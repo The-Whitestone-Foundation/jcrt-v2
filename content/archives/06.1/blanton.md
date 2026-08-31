@@ -1,7 +1,7 @@
 ---
 nanoid: "214Hsh"
 doi: "10.17613/hn6hw-y6n46"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklsqtij2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6urtasl2n'
 title: "Apocalyptic Materiality: Return(S) of Early Christian Motifs in Slavoj ŽIŽEk’s Depiction of the Materialist Subject"
 author: "Ward Blanton"
 affilation:

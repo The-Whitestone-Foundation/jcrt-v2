@@ -1,6 +1,6 @@
 ---
 nanoid: "nkfztK"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkm5zs3a2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uwq4dx2h'
 name: Robert Spinelli
 affiliation: "Independent Scholar"
 bio: "Associate Editor"

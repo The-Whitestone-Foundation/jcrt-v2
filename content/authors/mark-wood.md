@@ -1,6 +1,6 @@
 ---
 nanoid: "ga1OOX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmhyq4w2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v32b6t2p'
 name: Mark Wood
 affiliation: "irginia Commonwealth University"
 bio:

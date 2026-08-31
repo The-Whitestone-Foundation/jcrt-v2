@@ -1,7 +1,7 @@
 ---
 nanoid: "Be0DMn"
 doi: "10.17613/8b6gs-kfc85"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkiejwi2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u7hv3323'
 title: "The Theological Turn of Phenomenology as Return: Hedwig Conrad-Martius and Max Scheler Versus the Husserlian Secular Breakthrough."
 author: "Dragan Prole"
 affilation:

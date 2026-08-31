@@ -1,6 +1,6 @@
 ---
 nanoid: "S9wxNY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkn7e5an2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vesavo2h'
 name: Carol S Anderson
 affiliation: "Kalamazoo College"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "8D1MEv"
 doi: "10.17613/dh0c0-c9k31"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkltufxo2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6usd2nh2g'
 title: "On Translation"
 author: "Jason Flato"
 affilation:

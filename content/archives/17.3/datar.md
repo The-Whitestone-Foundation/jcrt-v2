@@ -1,7 +1,7 @@
 ---
 nanoid: "QrOZ7t"
 doi: "10.17613/jmvcf-kvw19"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkki2zeq2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u7cwob2s'
 title: "Religious Autonomy as Secularism’s Silent Partner."
 author: "Darshan Datar"
 affilation:

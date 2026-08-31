@@ -1,6 +1,6 @@
 ---
 nanoid: "iPEUkv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklwe3ri2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6utfcel2n'
 name: Yaron Silverstein
 affiliation: "Hemdat Academic College"
 bio:

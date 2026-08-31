@@ -1,6 +1,6 @@
 ---
 nanoid: "RQ42zk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmxt37s2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vbsebw2p'
 name: Eric D Smaw
 affiliation:
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "u-npko"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmceyc62p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uykr4h2u'
 name: Ori Rotlevy
 affiliation: "Tel Aviv University"
 bio:

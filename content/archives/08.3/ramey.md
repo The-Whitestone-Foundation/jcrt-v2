@@ -1,7 +1,7 @@
 ---
 nanoid: "PmJF8b"
 doi: "10.17613/w5r7g-n8a22"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkllbpwg2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uome2i2e'
 title: "Out of This World: Deleuze and the Philosophy of Creation"
 author: "Joshua Delpech-Ramey"
 affilation:

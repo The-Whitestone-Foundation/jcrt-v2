@@ -1,7 +1,7 @@
 ---
 nanoid: "pChT7U"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjjn7oa2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6trmz7323'
 title: >-
   Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kev
   Grane)

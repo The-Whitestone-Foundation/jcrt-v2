@@ -1,6 +1,6 @@
 ---
 nanoid: "aRTq0F"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmwyviq2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vbgjdj2s'
 name: Filippo Pietrogrande
 affiliation: ""
 bio:

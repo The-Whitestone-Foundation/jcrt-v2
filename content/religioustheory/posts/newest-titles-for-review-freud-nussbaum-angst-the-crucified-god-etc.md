@@ -1,7 +1,7 @@
 ---
 nanoid: "p1iNhu"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkknkx3k2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ubneqy2e'
 title: 'Newest Titles For Review – Freud, Nussbaum, Angst, The Crucified God, Etc.'
 description: "Religious Theory has just added new titles for which we are looking for reviewers (listed below). If you would like to review one of them, please send an email"
 date: '2017-01-27T22:22:57.000Z'

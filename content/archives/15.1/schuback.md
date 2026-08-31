@@ -1,7 +1,7 @@
 ---
 nanoid: "WvcTS1"
 doi: "10.17613/3v2pr-g7e77"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkwt7lh2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ug7nga2e'
 title: "Negative Responsibility."
 author: "Marcia SÁ Cavalcante Schuback"
 affilation:

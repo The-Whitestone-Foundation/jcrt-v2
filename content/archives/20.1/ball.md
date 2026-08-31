@@ -1,7 +1,7 @@
 ---
 nanoid: "MbvvZt"
 doi: "10.17613/qea4m-s7k28"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjm4m5g2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tsnnsq2q'
 title: "Revolutionary Love: Kierkegaard’s Gift Economy as a Religious Corrective to the Leveling of the Public Sphere."
 author: "Andrew J. Ball"
 affilation:

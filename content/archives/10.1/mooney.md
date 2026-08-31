@@ -1,7 +1,7 @@
 ---
 nanoid: "J_kkld"
 doi: "10.17613/9tyr5-fgp15"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklexkal25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulwqnj2i'
 title: "Meditations on Death and the Sublime: Henry Bugbee’s in Demonstration of Spirit"
 author: "Edward F Mooney"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "3YOik0"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmqkktj2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v6rkly25'
 name: Jeremy Biles
 affiliation: "Chicago, Illinois"
 bio:

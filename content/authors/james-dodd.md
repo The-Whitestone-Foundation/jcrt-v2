@@ -1,6 +1,6 @@
 ---
 nanoid: "qZg7hh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmstbxw2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v7p6wj2i'
 name: James Dodd
 affiliation:
 bio:

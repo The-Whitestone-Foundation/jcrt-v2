@@ -1,7 +1,7 @@
 ---
 nanoid: "HLY3aj"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkewndj2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u62ftp2h'
 title: >-
   New Religions in Brazil – A Game Between Relativism and Fundamentalism (Silas
   Guerriero)

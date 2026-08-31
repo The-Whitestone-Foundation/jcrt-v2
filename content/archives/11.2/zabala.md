@@ -1,7 +1,7 @@
 ---
 nanoid: "IZ8A0e"
 doi: "10.17613/4j6t1-zw448"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklaxgrz2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uka5lb2i'
 title: "The Death of God: an Investigation into the History of the Western Concept of God"
 author: "Santiago Zabala"
 affilation:

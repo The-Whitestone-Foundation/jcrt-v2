@@ -1,6 +1,6 @@
 ---
 nanoid: "kzsyuH"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmplrr42e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v6eihx2u'
 name: John Hinshaw
 affiliation: "Lebanon Valley College"
 bio:

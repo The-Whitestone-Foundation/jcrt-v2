@@ -1,6 +1,6 @@
 ---
 nanoid: "6fAcU8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmj5yse2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v3jpet2n'
 name: Manuel Vasquez
 affiliation:
 bio:

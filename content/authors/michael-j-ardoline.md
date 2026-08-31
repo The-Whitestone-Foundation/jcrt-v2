@@ -1,6 +1,6 @@
 ---
 nanoid: "0upla8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmfw3bs2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v26tby25'
 name: Michael J Ardoline
 affiliation: "West Chester University"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "Z6JnCz"
 doi: "10.17613/vqz9r-t1768"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkko5mt325'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ubvbgd2p'
 title: "“Real Circumcision Is a Matter of the Heart”: on Badiou’s Paul and Boyarin’s Jewish Question."
 author: "Jordan Osserman"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "FGDJPK"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmtn3he2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v7zxkj2s'
 name: J Aaron Simmons
 affiliation: "FURMAN UNIVERSITY, Hendrix College, Vanderbilt University"
 bio:

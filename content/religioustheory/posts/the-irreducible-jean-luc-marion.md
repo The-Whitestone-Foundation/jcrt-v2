@@ -1,7 +1,7 @@
 ---
 nanoid: "XWdD4f"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkk6brsr2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u3btsd2p'
 title: The Irreducible (Jean-Luc Marion)
 description: "Of that which we cannot speak, must we remain silent? Probably—especially if we understand why we cannot say anything about it, and have good reason for not"
 date: '2019-08-06T02:16:13.000Z'

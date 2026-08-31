@@ -1,7 +1,7 @@
 ---
 nanoid: "vD56FR"
 doi: "10.17613/j8hdj-stw27"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkxb6ah2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ugfws42q'
 title: "The Dark Side of God: a Case for Inconspicuous Givenness."
 author: "Jason W. Alvis"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "sk8RZb"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklwli4m2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6utjehq2e'
 name: Xiaoqian Zhang
 affiliation:
 bio:

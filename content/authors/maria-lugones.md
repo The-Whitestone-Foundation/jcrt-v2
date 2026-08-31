@@ -1,6 +1,6 @@
 ---
 nanoid: "80Jb7E"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmisyx62s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v3fnix2h'
 name: Maria Lugones
 affiliation: "Binghamton University"
 bio:

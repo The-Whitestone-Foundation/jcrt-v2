@@ -1,7 +1,7 @@
 ---
 nanoid: "f69ida"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkktqmed25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uex7ah2g'
 title: Renegade Hinduism Scholar Featured In Norton’s Anthology of World Religions
 description: "The just-released, multi-volume Norton Anthology of World Religions is a major project of substance undertaken by a group of world-renowned scholars in"
 date: '2016-04-08T20:15:31.000Z'

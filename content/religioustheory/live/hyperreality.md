@@ -1,6 +1,6 @@
 ---
 nanoid: "COYnP5"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklgzy6r2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6umt4s72h'
 title: "Hyperreality"
 description: "Carl A. Raschke reads the 2008 financial crisis through Baudrillard, Mark C. Taylor, and Derrida, asking what hyperreality means for faith and democracy."
 date: '2008-09-20'

@@ -1,6 +1,6 @@
 ---
 nanoid: "n2oHGk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmqrmp42e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v6uo7h2g'
 name: Jenifer Whiting
 affiliation: "Drew University"
 bio:

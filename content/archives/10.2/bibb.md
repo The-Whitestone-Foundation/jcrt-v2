@@ -1,7 +1,7 @@
 ---
 nanoid: "VtDP7C"
 doi: "10.17613/fk93g-79391"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklelqff2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ulrrej2s'
 title: "Vision, Paranoia, and the Creative Power of Obsessive Interpretation"
 author: "Aaron Bibb"
 affilation:

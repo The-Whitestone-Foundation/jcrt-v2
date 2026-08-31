@@ -1,6 +1,6 @@
 ---
 nanoid: "GEiha_"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkm72c4g2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ux63gh2u'
 name: Richard Kearney
 affiliation: "Charles Seelig Professor in Philosophy at Boston College"
 bio:

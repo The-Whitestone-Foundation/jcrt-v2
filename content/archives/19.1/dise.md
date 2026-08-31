@@ -1,7 +1,7 @@
 ---
 nanoid: "DuhebG"
 doi: "10.17613/adefj-kbz65"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkk5qwu62p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6u32tzx2u'
 title: "Altizer and Incarnation."
 author: "Michael James Dise"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "LPyVpU"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkjqdw7y2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6tvha4l2p'
 title: >-
   Rapture Music – Intensity And Eschatology Within Christian Revival Movements,
   Part 1 (Fraser Macdonald)

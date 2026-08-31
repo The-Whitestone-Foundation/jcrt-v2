@@ -1,6 +1,6 @@
 ---
 nanoid: "H5Otx4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmnczia2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6v5cwfj2s'
 name: Joyce Konigsburg
 affiliation:
 bio:

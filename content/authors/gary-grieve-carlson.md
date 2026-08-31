@@ -1,6 +1,6 @@
 ---
 nanoid: "Lu5xCv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmvxk2o2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vaylz32p'
 name: Gary Grieve-Carlson
 affiliation: "Lebanon Valley College"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "K6UTSt"
 doi: "10.17613/7sh7f-nst35"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklnriny2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6upnqed23'
 title: "A Conversation with Jean-Luc Marion"
 author: "Victor Taylor; Jean-Luc Marion"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "qNnwgP"
 doi: "10.17613/qmhch-4b887"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkl5eju42g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uiww3q2z'
 title: "Jesus Beyond Christ: Erri De Luca and the ‘Self as Stumbling Block’"
 author: "Elise Montel-Hurlin"
 affilation:

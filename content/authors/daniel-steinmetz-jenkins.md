@@ -1,6 +1,6 @@
 ---
 nanoid: "nA7ckn"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkn457672q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vdewg72g'
 name: Daniel Steinmetz-Jenkins
 affiliation:
 bio:

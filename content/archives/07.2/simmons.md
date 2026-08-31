@@ -1,7 +1,7 @@
 ---
 nanoid: "YRQnf0"
 doi: "10.17613/wmfny-tat71"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudklntuxf2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uppewl2n'
 title: "Giving an Account of Oneself"
 author: "J Aaron Simmons"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "j_DyTt"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkkqsogc2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ucys6a25'
 title: Review – Aaron Hughes’ ‘Islam and the Tyranny of Authenticity’ (Daniel Tutt)
 description: "*Hughes, Aaron. Islam and the Tyranny of Authenticity: An Inquiry into Disciplinary Apologetics and Self-Deception. London: Equinox Publishing, 2016 It"
 date: '2016-09-22T08:00:31.000Z'

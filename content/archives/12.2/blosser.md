@@ -1,7 +1,7 @@
 ---
 nanoid: "6jG-ba"
 doi: "10.17613/t364v-f9h94"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkl6mbcw2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6ujhjll23'
 title: "Beyond Moral Development: Re-Theorizing Ethical Practices in Service Learning."
 author: "Joe Blosser"
 affilation:

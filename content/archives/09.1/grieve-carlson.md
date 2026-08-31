@@ -1,7 +1,7 @@
 ---
 nanoid: "J4jzGb"
 doi: "10.17613/1zj5d-ajv76"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkljxkdb2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uo2r5x2u'
 title: "Reclaiming the Enlightenment: Toward a Politics of Radical Engagement"
 author: "Gary Grieve-Carlson"
 affilation:

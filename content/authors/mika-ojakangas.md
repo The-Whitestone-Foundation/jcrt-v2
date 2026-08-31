@@ -1,6 +1,6 @@
 ---
 nanoid: "FXntN1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmeur2a2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6uzoisd2p'
 name: Mika Ojakangas
 affiliation: "University of Jyvaskyla"
 bio:

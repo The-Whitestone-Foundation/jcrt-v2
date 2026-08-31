@@ -1,6 +1,6 @@
 ---
 nanoid: "et5O9S"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmx3dmq2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vbhknb2i'
 name: Fernando Herrero
 affiliation:
 bio:

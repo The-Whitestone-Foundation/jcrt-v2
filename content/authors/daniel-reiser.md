@@ -1,6 +1,6 @@
 ---
 nanoid: "xOIm8h"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkn4bwnw2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vdgxcm2q'
 name: Daniel Reiser
 affiliation: "Herzog College"
 bio:

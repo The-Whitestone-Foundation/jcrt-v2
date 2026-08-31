@@ -1,6 +1,6 @@
 ---
 nanoid: "YdljtB"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mudkmzgito2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mue6vcidej2s'
 name: Donna Bowman
 affiliation: "University of Central Arkansas"
 bio:
