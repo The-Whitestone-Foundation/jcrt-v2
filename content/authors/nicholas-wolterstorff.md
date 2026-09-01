@@ -1,6 +1,6 @@
 ---
 nanoid: "o5U3-z"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzq5ntp2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxk7im352i'
 name: Nicholas Wolterstorff
 affiliation:
 bio:

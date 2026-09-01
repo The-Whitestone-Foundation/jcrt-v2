@@ -1,7 +1,7 @@
 ---
 nanoid: "r42QNG"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxb3z652u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhdiqvv2u'
 title: >-
   To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 2 (Matt
   Rosen)

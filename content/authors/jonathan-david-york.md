@@ -1,6 +1,6 @@
 ---
 nanoid: "IXttrs"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw247iid23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxknrqvf2p'
 name: Jonathan David York
 affiliation: " South Dakota State University, American University in Bulgaria"
 bio:

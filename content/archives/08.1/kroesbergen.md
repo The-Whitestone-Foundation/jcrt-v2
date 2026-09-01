@@ -1,7 +1,7 @@
 ---
 nanoid: "TTGcVO"
 doi: "10.17613/gd9ma-cq465"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvywxufm2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjbw6w52i'
 title: "The Problem of Evil and the Problem of God"
 author: "Hermen Kroesbergen"
 affilation:

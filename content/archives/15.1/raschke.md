@@ -1,7 +1,7 @@
 ---
 nanoid: "yfRWFa"
 doi: "10.17613/p80rm-6cc72"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy7jepo2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxihhutr2n'
 title: "What Gives? Force, Gift, and the Ongoing"
 author: "Carl A. Raschke"
 affilation:

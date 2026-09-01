@@ -1,7 +1,7 @@
 ---
 nanoid: "wodqXz"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxy4fu42i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxi6rlmf2i'
 title: >-
   Hanging Garlands Of Flowers On The Chains That Bind – Soft Totalitarianism and
   Techno-Rationality (Jeff Appel)

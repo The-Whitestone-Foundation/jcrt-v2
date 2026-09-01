@@ -1,6 +1,6 @@
 ---
 nanoid: "TswsbK"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2pgj6p2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxleamtt2c'
 name: Benjamin Bennett-Carpenter
 affiliation: "Catholic University of America"
 bio:

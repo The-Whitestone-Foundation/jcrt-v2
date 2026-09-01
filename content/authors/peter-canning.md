@@ -1,6 +1,6 @@
 ---
 nanoid: "O2spwz"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzneyrr25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxk3lxpm2x'
 name: Peter Canning
 affiliation:
 bio:

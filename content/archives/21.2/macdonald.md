@@ -1,7 +1,7 @@
 ---
 nanoid: "wiCEq2"
 doi: "10.17613/63km2-1vd75"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwzc3ec2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxh2aali2x'
 title: "Rapture Music: Intensity and Eschatology Within Christian Revival Movements."
 author: "Fraser Macdonald"
 affilation:

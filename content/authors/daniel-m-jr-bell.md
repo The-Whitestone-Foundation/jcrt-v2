@@ -1,6 +1,6 @@
 ---
 nanoid: "enUetP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2jy3qr2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxl67cd52u'
 name: Daniel M Jr Bell
 affiliation: "Lutheran Theological Southern Seminary"
 bio:

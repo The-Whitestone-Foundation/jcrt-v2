@@ -1,6 +1,6 @@
 ---
 nanoid: "wOUjNB"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2f4lcl2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkxvgei2g'
 name: Erik Meganck
 affiliation: "FVG Antwerp"
 bio:

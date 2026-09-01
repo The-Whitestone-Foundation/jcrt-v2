@@ -1,6 +1,6 @@
 ---
 nanoid: "0XaZba"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw27mv6k2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkrnul52p'
 name: Jared Lacey
 affiliation: "University of Denver"
 bio:

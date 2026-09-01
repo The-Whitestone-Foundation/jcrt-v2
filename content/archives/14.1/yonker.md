@@ -1,7 +1,7 @@
 ---
 nanoid: "Cy5IPE"
 doi: "10.17613/40w38-egn13"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvybiu5z25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxijqlx52p'
 title: "Sylvia Plath, Simone De Beauvoir, and the Visual Representation of Feminist Discourse."
 author: "Madeline Yonker"
 affilation:

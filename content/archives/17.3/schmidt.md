@@ -1,7 +1,7 @@
 ---
 nanoid: "94tZ3-"
 doi: "10.17613/3p543-e3k85"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxp56md23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhsuhad2v'
 title: "Life as Art: Aesthetic Virtue and Moral Obligation."
 author: "Jochen Schmidt"
 affilation:

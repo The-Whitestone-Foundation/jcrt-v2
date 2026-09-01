@@ -1,7 +1,7 @@
 ---
 nanoid: "zANNt0"
 doi: "10.17613/b71g0-wmw27"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxnzui42s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhrqppx2z'
 title: "The Modern Philosophers‘ Paul: Reclaiming Pauline Introspection and Reviving Legacies of Anti-Judaism."
 author: "Ole Jakob LØLand"
 affilation:

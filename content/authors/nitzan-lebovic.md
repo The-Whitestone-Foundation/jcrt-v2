@@ -1,6 +1,6 @@
 ---
 nanoid: "VrNsSc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzped3w2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxk6ovpv2p'
 name: Nitzan Lebovic
 affiliation: "Lehigh University"
 bio:

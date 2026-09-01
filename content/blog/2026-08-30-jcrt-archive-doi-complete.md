@@ -1,7 +1,7 @@
 ---
 nanoid: "BCyJEX"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwime6t2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgcclm52p'
 title: "Every Article in the JCRT Archive Now Has a DOI"
 description: "All 829 articles in the numbered JCRT archive, from volume 1 in 1999 through volume 25 in 2026, now carry a Digital Object Identifier and are deposited in Knowledge Commons Works as 67 public issue collections."
 image: /images/jcrt-open-graph.webp

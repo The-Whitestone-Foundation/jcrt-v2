@@ -1,6 +1,6 @@
 ---
 nanoid: "otPWUP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzyzcsc2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkkjlxv2i'
 name: Kenneth S Jackson
 affiliation: "Wayne State University"
 bio:

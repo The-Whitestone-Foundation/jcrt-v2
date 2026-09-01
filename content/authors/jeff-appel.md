@@ -1,6 +1,6 @@
 ---
 nanoid: "qP68HY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw26qqtt2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkqrcj52p'
 name: Jeff Appel
 affiliation: "University of Denver"
 bio:

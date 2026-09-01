@@ -1,7 +1,7 @@
 ---
 nanoid: "dwZ0Vs"
 doi: "10.17613/gq36y-4aa84"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz2eygv2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjffqbi22'
 title: "The Value of Solitude: the Ethics and Spirituality of Aloneness in Autobiography"
 author: "Aaron Klink"
 affilation:

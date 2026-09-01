@@ -1,6 +1,6 @@
 ---
 nanoid: "JzOVh-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2hbrgp2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxl25xov2i'
 name: Donnie Featherston
 affiliation: "University of Denver"
 bio:

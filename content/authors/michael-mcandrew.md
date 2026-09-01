@@ -1,6 +1,6 @@
 ---
 nanoid: "ls8bPR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzrxyyl23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkcyacd2c'
 name: MICHAEL McANDREW
 affiliation:
 bio:

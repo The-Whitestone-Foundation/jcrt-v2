@@ -1,6 +1,6 @@
 ---
 nanoid: "GmHrej"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzbeynk2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjnit6q2u'
 name: Zachary Thomas Settle
 affiliation: "University of Denver"
 bio:

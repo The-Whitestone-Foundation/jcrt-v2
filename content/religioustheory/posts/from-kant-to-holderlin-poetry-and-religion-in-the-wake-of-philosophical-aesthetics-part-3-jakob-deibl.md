@@ -1,7 +1,7 @@
 ---
 nanoid: "AuYlNK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxfeb272h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhjjspa22'
 title: >-
   From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosophical
   Aesthetics, Part 2 (Jakob Deibl)

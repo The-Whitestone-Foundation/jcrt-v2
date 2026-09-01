@@ -1,7 +1,7 @@
 ---
 nanoid: "w26878"
 doi: "10.17613/1w170-4mc67"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz3un3g2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjgu6iq2x'
 title: "In the Beginning Was the Murder: Destruction of Nature and Interhuman Violence in Adorno’s Critique of Culture"
 author: "Karsten Fischer"
 affilation:

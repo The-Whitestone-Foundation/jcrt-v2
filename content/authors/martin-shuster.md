@@ -1,6 +1,6 @@
 ---
 nanoid: "3vrl_1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzu6s7v2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkfacy52i'
 name: Martin Shuster
 affiliation: "AVILA UNIVERSITY"
 bio:

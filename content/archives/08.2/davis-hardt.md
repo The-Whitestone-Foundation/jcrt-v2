@@ -1,7 +1,7 @@
 ---
 nanoid: "c2ZFXh"
 doi: "10.17613/ah4fm-gq114"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyuex6c2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxj6xz5v2z'
 title: "A Conversation with Michael Hardt"
 author: "Michael Hardt; Creston Davis; Christopher W Haley; Jason Craig"
 affilation:

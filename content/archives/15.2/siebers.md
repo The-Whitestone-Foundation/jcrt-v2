@@ -1,7 +1,7 @@
 ---
 nanoid: "Sg3JkW"
 doi: "10.17613/2m8jw-bde34"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy6n7vk2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxiglybb2n'
 title: "The Mad Women Project: Disability and the Aesthetics of Human Disqualification."
 author: "Tobin Siebers"
 affilation:

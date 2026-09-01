@@ -1,7 +1,7 @@
 ---
 nanoid: "S8Zwdx"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwwj2q22n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgxdooa2x'
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 3 (Rode Molla)

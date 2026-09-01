@@ -1,7 +1,7 @@
 ---
 nanoid: "9nhmsK"
 doi: "10.17613/kknk4-54d36"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwutgtl2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgvkrex2u'
 title: "The Imagination in Spinoza: the Moral Good Between Prophecy and the Amor Dei Intellectualis"
 author: "Caterina Gaetano"
 affilation:

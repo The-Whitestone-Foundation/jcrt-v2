@@ -1,6 +1,6 @@
 ---
 nanoid: "9ZvlxY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2alhp22p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxksm7bu2x'
 name: Jake S Sirota
 affiliation: "University of Chicago"
 bio:

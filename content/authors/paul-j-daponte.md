@@ -1,6 +1,6 @@
 ---
 nanoid: "Scny65"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvznr7fr25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxk3ylyv2p'
 name: Paul J DaPonte
 affiliation: "Boston College"
 bio:

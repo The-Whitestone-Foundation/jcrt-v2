@@ -1,6 +1,6 @@
 ---
 nanoid: "NQ3vYv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw25pkhj25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkp7pn72z'
 name: Jerry Burkette
 affiliation: "Virginia Tech University"
 bio:

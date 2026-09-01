@@ -1,7 +1,7 @@
 ---
 nanoid: "-y05ms"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvx2da3x2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxh3ct4y22'
 title: >-
   The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian
   Rose And Paul, Part 1 (Michael C. Raubach)

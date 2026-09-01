@@ -1,6 +1,6 @@
 ---
 nanoid: "J9cVE-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2dz7g22p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkws5ja22'
 name: Gabriel Thomas Gustav Byng
 affiliation: "University of Vienna"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "5fIqFY"
 doi: "10.17613/96rz6-wkk84"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyblf7r25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxijt43a2g'
 title: "Theodor Adorno and the Unhopeless Work of the Negative."
 author: "Joseph Winters"
 affilation:

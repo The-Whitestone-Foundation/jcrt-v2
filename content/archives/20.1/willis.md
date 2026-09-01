@@ -1,7 +1,7 @@
 ---
 nanoid: "dUpPvS"
 doi: "10.17613/rt4tg-3nm54"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwr3nqg2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgpjksh2z'
 title: "“Naming the Darkness,” Spiritual Violence, and Radical Incompleteness: Resituating a Political Theology"
 author: "James E. Willis III"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "XkvL5s"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2poaxg2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxlei45b2e'
 name: Barbara Alice Mann
 affiliation:
 bio:

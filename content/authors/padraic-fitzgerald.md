@@ -1,6 +1,6 @@
 ---
 nanoid: "eHQKQn"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzoafos2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxk4hwam2x'
 name: Padraic Fitzgerald
 affiliation: "University of Denver"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "XvkLzK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy4snfg2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxiepsgy2u'
 title: >-
   The Secularizing Ethos and the End of Biblical Authority – How Today’s
   Evangelicals Abandoned Evangelicalism

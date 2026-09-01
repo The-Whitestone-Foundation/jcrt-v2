@@ -1,7 +1,7 @@
 ---
 nanoid: "IK9VuM"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwtdbcs2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgtfhmf22'
 title: >-
   Evangelicalism, Pentecostalism, And The Quotidian Academic Terror Of
   “Christian Nationalism”

@@ -1,7 +1,7 @@
 ---
 nanoid: "G3IUaD"
 doi: "10.17613/90pm3-avt16"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxhpgwu2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhlegml2c'
 title: "Is Academic Theology an Answer to the Problem of Philosophy of Religion?"
 author: "Tamsin Jones"
 affilation:

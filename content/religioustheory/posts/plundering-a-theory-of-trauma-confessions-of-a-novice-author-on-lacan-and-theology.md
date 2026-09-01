@@ -1,7 +1,7 @@
 ---
 nanoid: "smkO_2"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy4i7jz25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxiefjgf2i'
 title: >-
   Plundering A Theory of Trauma – Confessions of A Novice Author on Lacan and
   Theology

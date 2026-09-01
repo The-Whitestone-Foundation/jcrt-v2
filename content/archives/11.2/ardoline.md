@@ -1,7 +1,7 @@
 ---
 nanoid: "w5-fIy"
 doi: "10.17613/ps5nr-3c763"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyksonp2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxitpzpn2i'
 title: "Deleuze and New Technology"
 author: "Michael J Ardoline"
 affilation:

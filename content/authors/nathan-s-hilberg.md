@@ -1,6 +1,6 @@
 ---
 nanoid: "rPBnHv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzqp64g2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxka2k7i2x'
 name: Nathan S Hilberg
 affiliation: "University of Pittsburgh"
 bio:

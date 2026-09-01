@@ -1,6 +1,6 @@
 ---
 nanoid: "qCLWjL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzkszx72h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjxlmdm2b'
 name: Richard Rorty
 affiliation:
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "_TLLUo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzwanst2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkhd7l42b'
 name: Mads Peter Karlsen
 affiliation: "Copenhagen Business School"
 bio:

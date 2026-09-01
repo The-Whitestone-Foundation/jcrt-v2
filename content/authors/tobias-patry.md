@@ -1,6 +1,6 @@
 ---
 nanoid: "R9vsev"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzeju6s2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjqnjtn2p'
 name: Tobias Patry
 affiliation:
 bio:

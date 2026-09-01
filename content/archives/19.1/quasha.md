@@ -1,7 +1,7 @@
 ---
 nanoid: "WW7URA"
 doi: "10.17613/f7b9e-cej31"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxdgnwg2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhgdwuy2g'
 title: "Divine Revelation in the Literal Expression."
 author: "George Quasha"
 affilation:

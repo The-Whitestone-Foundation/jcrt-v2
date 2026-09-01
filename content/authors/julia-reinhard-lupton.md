@@ -1,6 +1,6 @@
 ---
 nanoid: "hYeytP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw225mqw2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxklnghf2i'
 name: Julia Reinhard Lupton
 affiliation: "University of California, Irvine, UC Irvine"
 bio:

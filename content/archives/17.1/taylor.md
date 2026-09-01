@@ -1,7 +1,7 @@
 ---
 nanoid: "hinOIs"
 doi: "10.17613/gzyzw-snf49"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxr26jt2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhx4dun2p'
 title: "Jesus‘ Spectral Intervention: Derrida, Christianity, And"
 author: "Victor Taylor"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "IiU9B-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvypcjqw2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxiypqxf2z'
 title: "Labels Without Scars: Mystifying Amnesia in Today’s Presidential Politics"
 description: "Wendy Felese examines the rhetoric surrounding Barack Obama's presidency, asking whether hopeful political labels conceal historical scars and uncertainty."
 date: '2009-01-27'

@@ -1,6 +1,6 @@
 ---
 nanoid: "PjPSPy"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2gf5xn2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkzbsbr2n'
 name: Eglutė Trinkauskaitė
 affiliation: "Maryland Institute College of Art"
 bio: |-

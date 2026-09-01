@@ -1,6 +1,6 @@
 ---
 nanoid: "PU9-oZ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2f75bs2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxky3oje2x'
 name: Erica Weitzman
 affiliation:
 bio:

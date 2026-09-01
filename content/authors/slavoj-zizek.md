@@ -1,6 +1,6 @@
 ---
 nanoid: "2bBB0x"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzgzo2l23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjtmso32v'
 name: Slavoj Žižek
 affiliation:
 bio:

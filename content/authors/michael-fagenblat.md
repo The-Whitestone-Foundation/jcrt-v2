@@ -1,6 +1,6 @@
 ---
 nanoid: "jOzlad"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzsm3b62z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkdmshh2z'
 name: Michael Fagenblat
 affiliation: "Shalem College"
 bio:

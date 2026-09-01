@@ -1,6 +1,6 @@
 ---
 nanoid: "vnt0HU"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzusswo2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkfut5n22'
 name: Mark Lewis Taylor
 affiliation: "Princeton Theological Seminary"
 bio:

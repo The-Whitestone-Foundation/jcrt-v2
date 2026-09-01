@@ -1,6 +1,6 @@
 ---
 nanoid: "GtGkoS"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzdxwyj25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjq3tie2b'
 name: Trevor Wolff
 affiliation: ""
 bio:

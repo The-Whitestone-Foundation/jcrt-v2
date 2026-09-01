@@ -1,7 +1,7 @@
 ---
 nanoid: "vWNXfT"
 doi: "10.17613/x8qpe-s4f65"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyqsyx72h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxj2brmr2e'
 title: "Liberal Theology: a Radical Vision"
 author: "Jeffrey W Robbins"
 affilation:

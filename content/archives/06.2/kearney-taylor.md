@@ -1,7 +1,7 @@
 ---
 nanoid: "aQ5ZbX"
 doi: "10.17613/wjy7j-n6x81"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz3pkyc2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjgoyif22'
 title: "A Conversation with Richard Kearney"
 author: "Victor Taylor; Richard Kearney"
 affilation:

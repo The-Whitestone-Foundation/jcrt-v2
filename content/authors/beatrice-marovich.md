@@ -1,6 +1,6 @@
 ---
 nanoid: "k1uZSp"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2pj3vu2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxled4xn2i'
 name: Beatrice Marovich
 affiliation: "Hanover College"
 bio:

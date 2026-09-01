@@ -1,7 +1,7 @@
 ---
 nanoid: "8Dd1pG"
 doi: "10.17613/q91tz-23z85"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwri6622p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgpwmq32v'
 title: "Longing for an Impossible Past: DiffÉRance, Distance, and the Coronavirus as the Inauguration of an Age of Writing."
 author: "Jared Lacey"
 affilation:

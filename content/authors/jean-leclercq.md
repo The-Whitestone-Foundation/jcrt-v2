@@ -1,6 +1,6 @@
 ---
 nanoid: "txdGmB"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw26yfx62g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkqzbfd2v'
 name: Jean Leclercq
 affiliation:
 bio:

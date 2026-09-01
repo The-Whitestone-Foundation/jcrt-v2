@@ -1,6 +1,6 @@
 ---
 nanoid: "pQfrBL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzsgwc62g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkdhng52p'
 name: Michael Hoelzl
 affiliation: "University of Manchester"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "BKjKil"
 doi: "10.17613/wkh4h-g2e76"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyr2lq22p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxj2jojf2u'
 title: "Thumpin‘ It: the Use and Abuse of the Bible in Today’s Presidential Politics"
 author: "Nathaniel J Morehouse"
 affilation:

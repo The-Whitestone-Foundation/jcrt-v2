@@ -1,6 +1,6 @@
 ---
 nanoid: "6npju-"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw2iwuml23'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxl4yk3q2g'
 name: David B Dillard-Wright
 affiliation: "Drew University"
 bio:

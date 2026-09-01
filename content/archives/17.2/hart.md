@@ -1,7 +1,7 @@
 ---
 nanoid: "RyKvvB"
 doi: "10.17613/qsq81-nm868"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxqgat62g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhwhxjn2z'
 title: "Trans-Sortal Knowing in the Cloud of Unknowing and Book of Privy Counselling: Some Phenomenological Considerations."
 author: "James G. Hart"
 affilation:

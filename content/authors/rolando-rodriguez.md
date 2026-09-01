@@ -1,6 +1,6 @@
 ---
 nanoid: "JF7vDO"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzjeu2m2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjw55z42b'
 name: Rolando Rodriguez
 affiliation: ""
 bio:

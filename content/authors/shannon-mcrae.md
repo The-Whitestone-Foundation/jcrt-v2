@@ -1,6 +1,6 @@
 ---
 nanoid: "ioz3DP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzht3552u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjujlky2u'
 name: Shannon McRae
 affiliation: "SUNY, Fredonia"
 bio:

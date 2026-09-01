@@ -1,7 +1,7 @@
 ---
 nanoid: "FZ4rGi"
 doi: "10.17613/vjwks-s4y30"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyu2prv2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxj6np4t2c'
 title: "Religion, Politics, and the Christian Right: Post-9/11 Powers and American Empire"
 author: "Hollis Phelps"
 affilation:

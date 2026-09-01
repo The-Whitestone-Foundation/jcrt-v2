@@ -1,6 +1,6 @@
 ---
 nanoid: "mIwkBH"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzmjmzh2h'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjzvhnj2e'
 name: Philipp Valentini
 affiliation: "Independent Scholar"
 bio:

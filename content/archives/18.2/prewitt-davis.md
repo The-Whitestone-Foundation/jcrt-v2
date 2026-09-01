@@ -1,7 +1,7 @@
 ---
 nanoid: "fBZDIX"
 doi: "10.17613/mn08d-3n324"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxiipk62g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhm5uzl2v'
 title: "Admitting a Certain Fear of ŽIŽEk’s Theology: a Modest Plea for a Deleuzian Reading of the Death of God."
 author: "Elijah Prewitt-Davis"
 affilation:

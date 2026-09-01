@@ -1,6 +1,6 @@
 ---
 nanoid: "aGzetG"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvztmwwn2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkeofox2z'
 name: Matthew Abrahams
 affiliation: "DePaul University"
 bio:

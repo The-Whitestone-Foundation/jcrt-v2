@@ -1,6 +1,6 @@
 ---
 nanoid: "pkMsUv"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzp4lxl2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxk6hanu2b'
 name: Noel Dane Scott
 affiliation: "Western Carolina University"
 bio:

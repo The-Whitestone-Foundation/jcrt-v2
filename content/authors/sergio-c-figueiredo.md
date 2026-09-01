@@ -1,6 +1,6 @@
 ---
 nanoid: "sNwHgW"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzhvlir25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjum4mn2z'
 name: Sergio C. Figueiredo
 affiliation: "Kennesaw State University"
 bio:

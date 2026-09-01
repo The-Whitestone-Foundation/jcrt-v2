@@ -1,6 +1,6 @@
 ---
 nanoid: "nh2LaY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyp7yp62z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxiyn4xy2x'
 title: "“Post-America”: An Exchange"
 description: "David Hale and Carl A. Raschke exchange views on American decline, debt, empire, irony, and the uncertain line between the audacity and arrogance of hope."
 date: '2009-02-10'

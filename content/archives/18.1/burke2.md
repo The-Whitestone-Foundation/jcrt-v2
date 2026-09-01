@@ -1,7 +1,7 @@
 ---
 nanoid: "4DtBc_"
 doi: "10.17613/qfqrm-ty632"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxoo3zm2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhsf44f2i'
 title: "The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict."
 author: "Brigid Burke"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "mrEzJn"
 doi: "10.17613/zhhad-v7a30"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwy6mgw2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgz325q2x'
 title: "Against Thanatopolitics: A Marrano Intervention"
 author: "Arthur Bradley"
 affilation:

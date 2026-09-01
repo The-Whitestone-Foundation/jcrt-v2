@@ -1,7 +1,7 @@
 ---
 nanoid: "A5zdcO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxlhlkz2f'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhp4u6f2i'
 title: >-
   Thinking About God In A Pluralistic World – The Challenge of Modern Theology,
   Lecture 1 (Johannes Zachhuber)

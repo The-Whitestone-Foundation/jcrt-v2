@@ -1,6 +1,6 @@
 ---
 nanoid: "R6D2z2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvzfputg2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjryopa2x'
 name: Tamas Nagypal
 affiliation: "York University, Toronto"
 bio:

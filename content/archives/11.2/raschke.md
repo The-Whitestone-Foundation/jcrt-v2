@@ -1,7 +1,7 @@
 ---
 nanoid: "s8K9tB"
 doi: "10.17613/dzpny-jq207"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyk6cwm2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxit3jia22'
 title: "The Monstrosity of ŽIŽEk’s Christianity"
 author: "Carl A. Raschke"
 affilation:

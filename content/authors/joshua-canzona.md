@@ -1,6 +1,6 @@
 ---
 nanoid: "s6JNDE"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufw22zl752u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkmjyjy22'
 name: Joshua Canzona
 affiliation: ""
 bio:

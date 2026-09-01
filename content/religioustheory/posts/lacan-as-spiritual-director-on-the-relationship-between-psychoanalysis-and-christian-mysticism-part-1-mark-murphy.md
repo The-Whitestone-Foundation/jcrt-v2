@@ -1,7 +1,7 @@
 ---
 nanoid: "MZmgPo"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxkq7qz25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhofdaj2e'
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 1  (Mark Murphy)

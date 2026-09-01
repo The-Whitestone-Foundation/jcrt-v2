@@ -1,7 +1,7 @@
 ---
 nanoid: "2SryJK"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxt2xzx2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhz6d7e2x'
 title: >-
   Traversing W.H. Auden’s Religious And Aesthetic States, Part 1 (Raji Singh
   Soni)

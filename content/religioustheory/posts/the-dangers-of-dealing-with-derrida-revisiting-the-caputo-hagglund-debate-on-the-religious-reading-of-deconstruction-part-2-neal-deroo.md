@@ -1,7 +1,7 @@
 ---
 nanoid: "Ry1RuS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxkxvpw2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhon37f2z'
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 2 (Neal DeRoo)

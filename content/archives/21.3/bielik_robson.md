@@ -1,7 +1,7 @@
 ---
 nanoid: "ftMEy8"
 doi: "10.17613/ff6dh-qm002"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwyvd5m2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgzswsh2u'
 title: "Against Thanatopolitics: a Marrano Intervention"
 article_number:
 author: "Agata Bielik-Robson"

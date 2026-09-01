@@ -1,7 +1,7 @@
 ---
 nanoid: "mOEMGS"
 doi: "10.17613/yb7he-g1616"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwujdo22n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgumphq2x'
 title: "Thinking – Life - Organic."
 author: "Tobias Patry"
 affilation:
