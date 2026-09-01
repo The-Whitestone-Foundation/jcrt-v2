@@ -1,7 +1,7 @@
 ---
 nanoid: "wNN7bc"
 doi: "10.17613/dcwzy-rg286"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhdvwqn22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2yxkpzf2z'
 title: "False Religions and True Politics: Countering Capitalism as Religion"
 author: "Carlo Salzani"
 affilation:

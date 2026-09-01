@@ -1,7 +1,7 @@
 ---
 nanoid: "cU9MT6"
 doi: "10.17613/t5hhc-ybw46"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjfqktv2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zoshue2z'
 title: "Counterpath: Travelling with Jacques Derrida"
 author: "Mark Cauchi"
 affilation:

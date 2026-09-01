@@ -1,7 +1,7 @@
 ---
 nanoid: "JMjcwG"
 doi: "10.17613/nn2n1-9vq04"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxhxbe3e2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2z5tlqv2z'
 title: "A Preface to the Genealogy of Neoliberalism."
 author: "Carl A. Raschke"
 affilation:

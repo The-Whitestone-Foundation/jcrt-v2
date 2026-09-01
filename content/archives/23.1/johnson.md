@@ -1,7 +1,7 @@
 ---
 nanoid: "mz05HB"
 doi: "10.17613/pnzr2-xs918"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgp74ta2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2yq6fjg2u'
 title: "Metaphysical Protestantism: a Comparative Literary Ecology"
 author: "Zane Johnson"
 affilation:

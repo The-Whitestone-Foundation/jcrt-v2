@@ -1,7 +1,7 @@
 ---
 nanoid: "n2pvDO"
 doi: "10.17613/2n339-9vc75"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjlmuai2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zqiobr2i'
 title: "The Return of the Prophet: a Dialogue"
 author: "Richard Crudhington; Fiona Cranny; Sandra Burnup; Tom Eagle; David Dandy; Charlotte Merriman; Michael Cocksworth; Philip Goodchild"
 affilation:

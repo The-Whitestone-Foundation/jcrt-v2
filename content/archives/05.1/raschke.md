@@ -1,7 +1,7 @@
 ---
 nanoid: "MbgZIQ"
 doi: "10.17613/m4b6j-1kn19"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjm4r332c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zqomoj2x'
 title: "Bataille’s Gift"
 author: "Carl A. Raschke"
 affilation:

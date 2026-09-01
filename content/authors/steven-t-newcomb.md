@@ -1,6 +1,6 @@
 ---
 nanoid: "31n0fR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxjsd3qt2c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zsvafi2x'
 name: "Steven T. Newcomb"
 affiliation: "Indigenous Law Institute"
 bio: "Steven T. Newcomb (Shawnee/Lenape) is dedicated to supporting Indigenous nations and peoples to protect their sacred ancestral homelands, to restore and revitalize their linguistic, cultural, and spiritual traditions, and to heal from the trauma of colonization and the patterns of domination."

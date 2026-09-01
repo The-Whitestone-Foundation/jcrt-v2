@@ -1,7 +1,7 @@
 ---
 nanoid: "zlnx0k"
 doi: "10.17613/k8cad-jbd08"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxil2qlf2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zgbsdd2g'
 title: "The Walking Flesh:Zombies, Narrative Desire, and the Apostle Paul’s Anxious Account of Embodiment."
 author: "Larry T. Shillock"
 affilation:

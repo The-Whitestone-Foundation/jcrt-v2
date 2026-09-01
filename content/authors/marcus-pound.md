@@ -1,6 +1,6 @@
 ---
 nanoid: "k79Q9g"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkgoqaq2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zyldle2n'
 name: Marcus Pound
 affiliation:
 bio:

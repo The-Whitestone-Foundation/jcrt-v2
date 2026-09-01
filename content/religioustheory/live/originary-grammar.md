@@ -1,6 +1,6 @@
 ---
 nanoid: "PZATFI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxiyuwzi2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zktfhe2z'
 title: "Originary Grammar"
 description: "Adam Katz introduces originary grammar through Eric Gans, René Girard, language, mimetic crisis, and the emergence of signs that defer collective violence."
 date: '2009-01-05'

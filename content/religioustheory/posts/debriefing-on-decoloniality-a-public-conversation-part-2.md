@@ -1,7 +1,7 @@
 ---
 nanoid: "d0L_AR"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxh4hkvb2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2yvd22y2p'
 title: 'Debriefing On Decoloniality – A Public Conversation, Part 2'
 description: "Part 2 continues the debrief transcript, sharpening arguments about decoloniality, epistemic rupture, and institutional practice across regional and The"
 date: '2021-06-22T04:47:14.000Z'

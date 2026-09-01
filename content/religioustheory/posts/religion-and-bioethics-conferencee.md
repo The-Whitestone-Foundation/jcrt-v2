@@ -1,7 +1,7 @@
 ---
 nanoid: "YWGewI"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgjqczj2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2yp7rzn2z'
 title: Religion and Bioethics (Conferencee)
 description: "Sponsored by the The Whitestone Foundation dba The Journal for Cultural and Religious Theory in collaboration with the University of Denver It highlights"
 date: '2024-12-18T18:23:13.000Z'

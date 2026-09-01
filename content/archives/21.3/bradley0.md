@@ -1,7 +1,7 @@
 ---
 nanoid: "8C_Skb"
 doi: "10.17613/qgy4y-ks082"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxgzhzad2c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2yu7met2g'
 title: "A Critical Conversation on “Political Erasure”"
 author: "Arthur Bradley"
 affilation:

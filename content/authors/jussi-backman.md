@@ -1,6 +1,6 @@
 ---
 nanoid: "Oyf3qP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxklktef2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh3227rbo2u'
 name: Jussi Backman
 affiliation: "University of Jyväskylä"
 orcid: https://orcid.org/0000-0002-5243-6004

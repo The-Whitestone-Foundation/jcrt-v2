@@ -1,6 +1,6 @@
 ---
 nanoid: "HiqJnz"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxkgwhd42x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zyout52z'
 name: Manuel Mejido Costoya
 affiliation:
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "Ea1eOM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mugxl5a3ay2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh327wtpr2c'
 name: Darrell J Fasching
 affiliation: "University of South Florida, Tampa"
 bio:
