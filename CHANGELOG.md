@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.03] — 2026-09-01
+feat: use stable parent DOIs in article flyleafs
+- Notes: feat: use stable parent DOIs in article flyleafs.
+
 ## [00.04.02] — 2026-08-31
 fix: exclude OAI test from edge functions
 - Notes: fix: exclude OAI test from edge functions.

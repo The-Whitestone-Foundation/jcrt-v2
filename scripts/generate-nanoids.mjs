@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 //
-// generate-nanoids.mjs — ensure every content page carries a stable 6-char
-// nanoid on line 2 of its front matter.
+// generate-nanoids.mjs — ensure every content page carries a stable nanoid on
+// line 2 of its front matter. New ids use the configured default length.
 //
 //   node scripts/generate-nanoids.mjs            bulk: fill every content/**/*.md
 //                                                that is missing an id
@@ -159,7 +159,7 @@ function main() {
 			);
 			process.exit(1);
 		}
-		console.log(`[nanoids] check passed: all content pages have a unique ${NANOID_SIZE}-char id.`);
+		console.log(`[nanoids] check passed: all content pages have a unique id (new ids use ${NANOID_SIZE} characters).`);
 		return;
 	}
 
