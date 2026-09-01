@@ -8,6 +8,14 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.05] — 2026-09-01
+fix: extend Alencar nanoid
+- Notes: fix: extend Alencar nanoid.
+
+## [00.04.04] — 2026-09-01
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
 ## [00.04.03] — 2026-09-01
 feat: use stable parent DOIs in article flyleafs
 - Notes: feat: use stable parent DOIs in article flyleafs.
