@@ -1,6 +1,6 @@
 ---
 nanoid: "Z4TVwc"
-doi: "10.17613/x6wxf-kc567"
+doi: "10.17613/q2byn-8pj88"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy6cthg2h'
 title: "Street Art and Civic Dialogue: an Interview with Gaia."
 author: "Shelly Clay-Robinson"
@@ -10,7 +10,7 @@ keywords:
   - graffiti
   - mural-art
   - street-artists
-pdf: InterviewGaia.pdf
+pdf: clay_robinson.pdf
 sort_id:
 volume: 16
 issue: 1

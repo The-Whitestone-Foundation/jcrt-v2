@@ -1,6 +1,6 @@
 ---
 nanoid: "ftMEy8"
-doi: "10.17613/tmnwn-6a031"
+doi: "10.17613/ff6dh-qm002"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwyvd5m2i'
 title: "Against Thanatopolitics: a Marrano Intervention"
 article_number:
@@ -20,7 +20,7 @@ keywords:
   - arthur-bradley
   - unbearable-life
   - life-and-death
-pdf: Bradley5.pdf
+pdf: bielik_robson.pdf
 year: 2022
 subjects:
   - label: 'Biopolitics'

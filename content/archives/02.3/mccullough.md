@@ -1,6 +1,6 @@
 ---
 nanoid: "LsShyG"
-doi: "10.17613/z1xwv-bmb64"
+doi: "10.17613/q233h-1vf03"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca5hwc25'
 article_number:
 volume: 2

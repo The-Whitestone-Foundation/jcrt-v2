@@ -1,6 +1,6 @@
 ---
 nanoid: "BRNCtU"
-doi: "10.17613/qwrfm-8s096"
+doi: "10.17613/mhvcc-z0855"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy637er25'
 title: "Introduction to the Journal of Cultural and Religious Theory Special Issue On"
 author: "Sergio C. Figueiredo"
@@ -12,7 +12,7 @@ keywords:
   - gregory-l
   - ulmer
   - victor
-pdf: IntroFigueiredo.pdf
+pdf: figueiredo.pdf
 sort_id:
 volume: 16
 issue: 1

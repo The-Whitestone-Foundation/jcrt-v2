@@ -1,6 +1,6 @@
 ---
 nanoid: "vxdU4I"
-doi: "10.17613/nz2hk-nae64"
+doi: "10.17613/cgjga-a2t96"
 atproto:
 article_number: 07
 volume: 1

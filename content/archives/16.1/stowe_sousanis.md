@@ -1,6 +1,6 @@
 ---
 nanoid: "8t_U_0"
-doi: "10.17613/7xh48-95v72"
+doi: "10.17613/w4xwj-5bw94"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy5bru22n'
 title: "An Interview with Nick Sousanis"
 author: "S. Andrew Stowe; Nick Sousanis"
@@ -16,7 +16,7 @@ keywords:
   - periodical-publishers
   - sousanis
   - strips
-pdf: InterviewSousanis.pdf
+pdf: stowe_sousanis.pdf
 sort_id:
 volume: 16
 issue: 1

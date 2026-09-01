@@ -1,6 +1,6 @@
 ---
 nanoid: "T6x2f-"
-doi: "10.17613/sgngt-ghg92"
+doi: "10.17613/0phdh-c3936"
 author: editors
 title: Author Bios
 affilation:

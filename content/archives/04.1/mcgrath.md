@@ -1,6 +1,6 @@
 ---
 nanoid: "R8Gpgr"
-doi: "10.17613/r8000-f6n36"
+doi: "10.17613/q3qbs-0ve89"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5xue322'
 article_number:
 volume: 4

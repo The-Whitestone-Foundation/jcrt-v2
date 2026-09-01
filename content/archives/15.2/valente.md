@@ -1,6 +1,6 @@
 ---
 nanoid: "IIYuAy"
-doi: "10.17613/gjjmm-wqh55"
+doi: "10.17613/6w7r7-4j665"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy6kots2q'
 title: "Is the Au in Autism the Au in Autonomy?"
 author: "Joseph Valente"

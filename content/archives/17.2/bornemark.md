@@ -1,6 +1,6 @@
 ---
 nanoid: "AKkNXc"
-doi: "10.17613/379xk-0yz96"
+doi: "10.17613/4q634-rpe63"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxqv4nl23'
 title: "Phenomenology of Secular Society and Its Scientism."
 author: "Jonna Bornemark"

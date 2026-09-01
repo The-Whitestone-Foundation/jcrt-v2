@@ -1,6 +1,6 @@
 ---
 nanoid: "_eBZ2y"
-doi: "10.17613/grcdq-yn893"
+doi: "10.17613/zwweq-byt05"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwynpy62h'
 title: "The Beautiful Marrano: a Response to Agata Bielik-Robson"
 author: "Arthur Bradley"
@@ -20,7 +20,7 @@ keywords:
   - agata
   - bielik-robson
   - violence-philosophy
-pdf: Bradley6.pdf
+pdf: bradley.pdf
 sort_id:
 volume: 21
 issue: 3

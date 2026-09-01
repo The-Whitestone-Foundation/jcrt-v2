@@ -1,6 +1,6 @@
 ---
 nanoid: "AqoNaX"
-doi: "10.17613/ragt1-v0c22"
+doi: "10.17613/jrynv-m6p59"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cahyrp2l'
 article_number:
 volume: 2

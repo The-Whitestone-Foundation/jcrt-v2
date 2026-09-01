@@ -1,6 +1,6 @@
 ---
 nanoid: "XQmHwn"
-doi: "10.17613/2m5md-fhw36"
+doi: "10.17613/yhhwz-2zv12"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwu4pmx2h'
 title: "Eckhart and the Ek-Sistence of God: a Mystical Quarter Turn in the Theology of the Real"
 article_number:

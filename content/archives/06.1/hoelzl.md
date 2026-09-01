@@ -1,6 +1,6 @@
 ---
 nanoid: "ikxoGW"
-doi: "10.17613/hs763-4dc34"
+doi: "10.17613/ma2zn-fhz81"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz4nxn62i'
 title: "Recognizing the Sacrificial Victim: the Problem of Solidarity for Critical Social Theory"
 author: "Michael Hoelzl"

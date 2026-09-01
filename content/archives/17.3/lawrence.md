@@ -1,6 +1,6 @@
 ---
 nanoid: "U7-w_c"
-doi: "10.17613/rj83r-zrp87"
+doi: "10.17613/bwaek-3gc54"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxpcjqs2q'
 title: "Lacan, Levinas, and the Politics of the Subject."
 author: "Joshua Lawrence"

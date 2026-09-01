@@ -1,6 +1,6 @@
 ---
 nanoid: "I_CzAk"
-doi: "10.17613/9fe98-3me17"
+doi: "10.17613/e7nyx-xxj79"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c4rhta2w'
 article_number:
 volume: 4

@@ -1,6 +1,6 @@
 ---
 nanoid: "iFCMKU"
-doi: "10.17613/zr9jr-qaw45"
+doi: "10.17613/f1sss-48225"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6agp72b'
 article_number:
 volume: 4

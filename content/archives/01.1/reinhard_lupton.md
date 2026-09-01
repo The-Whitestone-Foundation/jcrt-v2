@@ -1,6 +1,6 @@
 ---
 nanoid: "ZoyijV"
-doi: "10.17613/wz9hy-z8515"
+doi: "10.17613/xkth5-aec77"
 atproto:
 article_number: 06
 volume: 1

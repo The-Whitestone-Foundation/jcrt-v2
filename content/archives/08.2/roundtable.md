@@ -1,6 +1,6 @@
 ---
 nanoid: "K7wNUS"
-doi: "10.17613/c72cx-t2d18"
+doi: "10.17613/w0den-2cy28"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvytvmss2p'
 title: "A Roundtable on Globalization"
 author: "Gianni Vattimo; Charles Taylor; Richard Rorty"

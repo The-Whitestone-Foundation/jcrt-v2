@@ -1,6 +1,6 @@
 ---
 nanoid: "6Lx93L"
-doi: "10.17613/dthgc-d2m34"
+doi: "10.17613/4n7vb-gxr31"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbdnpy2r'
 article_number:
 volume: 2

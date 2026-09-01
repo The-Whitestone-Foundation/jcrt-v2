@@ -1,6 +1,6 @@
 ---
 nanoid: "JyyeXM"
-doi: "10.17613/h3wqq-erb51"
+doi: "10.17613/9nwe2-snr59"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb6gjc26'
 article_number:
 volume: 2

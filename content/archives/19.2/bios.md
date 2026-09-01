@@ -1,6 +1,6 @@
 ---
 nanoid: "1swm-9"
-doi: "10.17613/360y7-8ng58"
+doi: "10.17613/wgzv7-cm308"
 author: editors
 title: Author Bios
 affilation:

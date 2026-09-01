@@ -1,6 +1,6 @@
 ---
 nanoid: "093GsM"
-doi: "10.17613/e213c-wxw57"
+doi: "10.17613/z9xzp-se878"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccdvso2w'
 article_number:
 volume: 1

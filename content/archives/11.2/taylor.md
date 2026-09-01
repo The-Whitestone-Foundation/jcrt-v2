@@ -1,6 +1,6 @@
 ---
 nanoid: "QWtquc"
-doi: "10.17613/y3sd3-1sc17"
+doi: "10.17613/3h2m3-nz583"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyjwouo2h'
 title: "Absolute Christ or ‘Wdcd?’: the Question of Christian Materiality in the Monstrosity of Christ: Paradox or Dialectic"
 author: "Victor Taylor"

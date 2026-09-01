@@ -1,6 +1,6 @@
 ---
 nanoid: "fhAjp7"
-doi: "10.17613/ynthn-yjc62"
+doi: "10.17613/xstpw-kf960"
 layout: archives.njk
 article_number: '01'
 volume: '24'

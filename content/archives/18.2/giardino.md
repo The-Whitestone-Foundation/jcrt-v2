@@ -1,6 +1,6 @@
 ---
 nanoid: "oWVe8j"
-doi: "10.17613/6n1zp-59m29"
+doi: "10.17613/6qq5k-j4j07"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxjehcu2i'
 title: "Divine Absence as Divine Presence."
 author: "Joshua Giardino"

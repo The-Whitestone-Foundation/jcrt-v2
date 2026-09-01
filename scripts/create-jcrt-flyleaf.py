@@ -119,6 +119,7 @@ def build(args, assets: tuple[Path, Path] | None = None) -> None:
         y = labeled(pdf, "Source", "Journal for Cultural and Religious Theory (JCRT)", y)
         y = labeled(pdf, "Published by", "Whitestone Publications", y)
         y = labeled(pdf, "Stable URL", args.stable_url, y, args.stable_url)
+        y = labeled(pdf, "DOI (newest version)", args.doi, y, f"https://doi.org/{args.doi}")
 
         pdf.setStrokeColor(black)
         pdf.setLineWidth(0.9)
@@ -179,6 +180,7 @@ def parse_args():
     parser.add_argument("--title", default="[Title]")
     parser.add_argument("--author", action="append", default=None, help="Repeat for multiple authors")
     parser.add_argument("--stable-url", default="https://jcrt.org/[permalink-or-doi]")
+    parser.add_argument("--doi", default="10.17613/[newest-version-doi]")
     parser.add_argument("--page-width", type=float, default=PAGE[0])
     parser.add_argument("--page-height", type=float, default=PAGE[1])
     parser.add_argument("--output", default=str(ROOT / "output/pdf/jcrt-flyleaf-template.pdf"))

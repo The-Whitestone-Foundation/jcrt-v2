@@ -1,6 +1,6 @@
 ---
 nanoid: "yNTCF-"
-doi: "10.17613/h3g5t-4tf38"
+doi: "10.17613/ha4zd-fx443"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyaa5l72e'
 title: "Philosophy Mashed-up and in Crisis."
 author: "N. N. Trakakis"
@@ -13,7 +13,7 @@ keywords:
   - mashups-musical-form
   - auditing
   - higher-education
-pdf: trakikis.pdf
+pdf: trakakis.pdf
 sort_id: 08
 volume: 14
 issue: 2

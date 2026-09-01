@@ -1,6 +1,6 @@
 ---
 nanoid: "7u01M5"
-doi: "10.17613/7d1j6-xw877"
+doi: "10.17613/kgf8w-fsw50"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxbdueo2h'
 title: "Benjamin: to the Rhythm of Theological Concepts"
 author: "Nitzan Lebovic"
@@ -17,7 +17,7 @@ keywords:
   - 1892-1940
   - benjamin
   - walter
-pdf: 5-Leibovic.pdf
+pdf: lebovic.pdf
 sort_id:
 volume: 19
 issue: 3

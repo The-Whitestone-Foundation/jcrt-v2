@@ -1,6 +1,6 @@
 ---
 nanoid: "z6mMuC"
-doi: "10.17613/02f6p-d4423"
+doi: "10.17613/zh4xb-57j35"
 title: Author Bios
 article_number: 00
 affilation:

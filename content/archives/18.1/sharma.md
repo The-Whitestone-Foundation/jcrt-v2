@@ -1,6 +1,6 @@
 ---
 nanoid: "kQ8mML"
-doi: "10.17613/xh7bk-mn515"
+doi: "10.17613/80yv8-q8359"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxnkm3z2f'
 title: "Framing Religious Conflict and Violence - Insights from Historical Institutionalism."
 author: "Vivek Swaroop Sharma"
@@ -10,7 +10,7 @@ keywords:
   - institutionalism-religion
   - sectarian-conflict
   - bharatiya-janata-party
-pdf: Sharma2.pdf
+pdf: sharma.pdf
 sort_id:
 volume: 18
 issue: 1

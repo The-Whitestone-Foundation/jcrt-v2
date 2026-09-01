@@ -1,6 +1,6 @@
 ---
 nanoid: "PHXWTu"
-doi: "10.17613/krjq8-pat81"
+doi: "10.17613/bk0qp-3sv73"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyi42rs2p'
 title: "From Human Being to Being Human: an Impossible Short-Cut. a Review Essay on Elisabeth Roudinesco, Retour Sur La Question Juive"
 author: "Gabriel Vahanian"

@@ -1,6 +1,6 @@
 ---
 nanoid: "RxcUd4"
-doi: "10.17613/sxkmb-vns83"
+doi: "10.17613/yxxce-c6q28"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwl2nxo2z'
 layout: archives.njk
 article_number: '14'

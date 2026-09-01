@@ -8,6 +8,14 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.02] — 2026-08-31
+fix: exclude OAI test from edge functions
+- Notes: fix: exclude OAI test from edge functions.
+
+## [00.04.01] — 2026-08-31
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
 ## [00.04.00] — 2026-08-31
 fix: update Raschke article metadata
 - Notes: fix: update Raschke article metadata.

@@ -1,6 +1,6 @@
 ---
 nanoid: "Ve0o_Z"
-doi: "10.17613/cez4j-exy96"
+doi: "10.17613/g4p86-zr394"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyb6rbk2q'
 title: "Faith: Belief or Practice?"
 author: "Christina M. Gschwandtner"

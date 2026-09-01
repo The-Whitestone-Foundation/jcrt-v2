@@ -1,6 +1,6 @@
 ---
 nanoid: "00Aj9y"
-doi: "10.17613/7qt9k-9gz59"
+doi: "10.17613/d90ma-74238"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxdvfot2p'
 title: "Thinking the Absolute Edge Between Altizer and Leahy."
 author: "Alina N. Feld"

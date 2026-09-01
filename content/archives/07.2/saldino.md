@@ -1,6 +1,6 @@
 ---
 nanoid: "ILPSkm"
-doi: "10.17613/1cwf9-vrs43"
+doi: "10.17613/ge66h-1gc98"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyxtx4p2e'
 title: "Wittgenstein and Judaism: a Triumph of Concealment"
 author: "Andrew Saldino"

@@ -1,6 +1,6 @@
 ---
 nanoid: "XVvPlQ"
-doi: "10.17613/x456y-jk080"
+doi: "10.17613/zwdwj-xb707"
 author: editors
 title: Author Bios
 affilation:

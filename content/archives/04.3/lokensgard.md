@@ -1,6 +1,6 @@
 ---
 nanoid: "lYKsvT"
-doi: "10.17613/jq7e2-q7e81"
+doi: "10.17613/cm66s-nr003"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c52jsb27'
 article_number:
 volume: 4

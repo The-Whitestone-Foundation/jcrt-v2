@@ -1,6 +1,6 @@
 ---
 nanoid: "jUZhG0"
-doi: "10.17613/sdb3k-yef51"
+doi: "10.17613/x4qbk-phz22"
 title: Author Bios
 author: editors
 affilation:

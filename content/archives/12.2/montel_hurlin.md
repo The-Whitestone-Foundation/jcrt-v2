@@ -1,6 +1,6 @@
 ---
 nanoid: "qNnwgP"
-doi: "10.17613/qmhch-4b887"
+doi: "10.17613/y5t9z-95129"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvygilij25'
 title: "Jesus Beyond Christ: Erri De Luca and the ‘Self as Stumbling Block’"
 author: "Elise Montel-Hurlin"
@@ -20,7 +20,7 @@ keywords:
   - hebrew
   - jesus-christ-in-literature
   - self-religion
-pdf: hurlin.pdf
+pdf: montel_hurlin.pdf
 sort_id:
 volume: 12
 issue: 2

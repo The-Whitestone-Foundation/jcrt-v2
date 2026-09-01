@@ -1,6 +1,6 @@
 ---
 nanoid: "G6fcJ-"
-doi: "10.17613/sy3ss-0ra29"
+doi: "10.17613/19gsg-k4r96"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyivq6w2i'
 title: "The Sacredness of ‘Secular’ Literature: a Case Study in Walter Benjamin"
 author: "Samuel Joseph Kessler"

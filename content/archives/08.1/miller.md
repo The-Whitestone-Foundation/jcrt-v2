@@ -1,6 +1,6 @@
 ---
 nanoid: "OpYbPa"
-doi: "10.17613/9wg67-3zd17"
+doi: "10.17613/rywg8-3v586"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvywtbv22p'
 title: "Being and Event"
 author: "Adam S Miller"

@@ -1,6 +1,6 @@
 ---
 nanoid: "ob0XK9"
-doi: "10.17613/pbrq6-yce40"
+doi: "10.17613/ccy9r-51c66"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvysrukt23'
 title: "Human Rights as Politics and Idolatry"
 author: "Eric D Smaw"

@@ -1,6 +1,6 @@
 ---
 nanoid: "bk6swb"
-doi: "10.17613/53nnt-6qc36"
+doi: "10.17613/taqc6-nz527"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvye7bvl23'
 title: "On Lost Crisitunities, Vanishing Postsoviet and Decolonization of Thinking, Being and Perception."
 author: "Madina Tlostanova"

@@ -1,6 +1,6 @@
 ---
 nanoid: "-FZmh6"
-doi: "10.17613/e7yd7-6fk50"
+doi: "10.17613/61cgt-9hh87"
 atproto:
 article_number:
 volume: 1

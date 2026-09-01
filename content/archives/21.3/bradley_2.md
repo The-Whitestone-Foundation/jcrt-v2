@@ -1,6 +1,6 @@
 ---
 nanoid: "z5s-Sz"
-doi: "10.17613/ft9e0-a8n26"
+doi: "10.17613/377jw-yx559"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwystdp2h'
 title: "Caveat Lector: Introduction."
 author: "Arthur Bradley"
@@ -10,7 +10,7 @@ keywords:
   - political-theology
   - arthur
   - bradley
-pdf: Bradley2.pdf
+pdf: bradley_2.pdf
 sort_id:
 volume: 21
 issue: 3

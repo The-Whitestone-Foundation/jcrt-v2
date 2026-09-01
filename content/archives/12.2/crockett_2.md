@@ -1,6 +1,6 @@
 ---
 nanoid: "g6aPJH"
-doi: "10.17613/ceac4-jgm88"
+doi: "10.17613/dwggf-nv333"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyhhmup2h'
 title: "Pedagogy and Radical Equality: RanciÈRe’s Ignorant Schoolmaster"
 author: "Clayton Crockett"
@@ -29,7 +29,7 @@ keywords:
   - political-science-history
   - education-methods
   - education-philosophy
-pdf: crockett.pdf
+pdf: crockett_2.pdf
 sort_id:
 volume: 12
 issue: 2

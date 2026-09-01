@@ -1,6 +1,6 @@
 ---
 nanoid: "A7HSP3"
-doi: "10.17613/6e2ed-y4z49"
+doi: "10.17613/jtrzg-b2862"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwzjjko2g'
 title: "The Futurity of God"
 author: "Lenart Škof"

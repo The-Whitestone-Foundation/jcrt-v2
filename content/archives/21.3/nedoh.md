@@ -1,6 +1,6 @@
 ---
 nanoid: "KRCoS1"
-doi: "10.17613/ps5eh-m5h27"
+doi: "10.17613/akdqv-jgk10"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwxn6sw2q'
 title: "Undead"
 author: "Boštjan Nedoh"
@@ -19,7 +19,7 @@ keywords:
   - memory-philosophy
   - nothing-philosophy
   - walter
-pdf: Bradley7.pdf
+pdf: nedoh.pdf
 sort_id:
 volume: 21
 issue: 3

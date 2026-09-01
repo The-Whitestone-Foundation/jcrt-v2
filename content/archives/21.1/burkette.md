@@ -1,6 +1,6 @@
 ---
 nanoid: "zOSB_H"
-doi: "10.17613/skjqc-dyv40"
+doi: "10.17613/40kv6-nm292"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwztq372h'
 title: "The Function of Faith: Theological Constituents in Processual Utopian Methodology."
 author: "Jerry Burkette"

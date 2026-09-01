@@ -1,6 +1,6 @@
 ---
 nanoid: "DvsF3O"
-doi: "10.17613/wssyw-fg068"
+doi: "10.17613/gyazr-jw804"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxgfk762h'
 title: "Spaced and Placed: Hetero-‘Topic’ Interpretations of the Warsaw Ghetto."
 author: "Madison Tarleton"

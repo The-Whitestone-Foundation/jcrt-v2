@@ -1,6 +1,6 @@
 ---
 nanoid: "DgAJMs"
-doi: "10.17613/nesv9-h1y10"
+doi: "10.17613/xtjst-3fc06"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyqqfij2f'
 title: "Secularisms"
 author: "Jonathan A Seitz"

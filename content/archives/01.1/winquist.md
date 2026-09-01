@@ -1,6 +1,6 @@
 ---
 nanoid: "Ur-3d_"
-doi: "10.17613/s5wxy-yxb31"
+doi: "10.17613/ezhpc-k5h56"
 atproto:
 article_number: 02
 volume: 1

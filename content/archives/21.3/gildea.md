@@ -1,6 +1,6 @@
 ---
 nanoid: "--HFC4"
-doi: "10.17613/tdka8-pdz77"
+doi: "10.17613/tbw39-7dw38"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwxufbw2q'
 title: "Parenthesis"
 author: "Niall Gildea"
@@ -19,7 +19,7 @@ keywords:
   - derrida
   - michel
   - biopolitics-sociobiology
-pdf: Bradley3.pdf
+pdf: gildea.pdf
 sort_id:
 volume: 21
 issue: 3

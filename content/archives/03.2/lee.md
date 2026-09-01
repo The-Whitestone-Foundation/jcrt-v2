@@ -1,6 +1,6 @@
 ---
 nanoid: "txpvEu"
-doi: "10.17613/h1tz3-m1282"
+doi: "10.17613/2yz0y-2qg09"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7b3tq2r'
 article_number:
 volume: 3

@@ -1,6 +1,6 @@
 ---
 nanoid: "PU6k1A"
-doi: "10.17613/v2qx0-bds18"
+doi: "10.17613/jcz4d-8x120"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyuuf5w2z'
 title: "God, Truth, and Witness: Engaging Stanley Hauerwas"
 author: "J Aaron Simmons"

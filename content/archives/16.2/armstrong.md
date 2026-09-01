@@ -1,6 +1,6 @@
 ---
 nanoid: "EbjxZH"
-doi: "10.17613/j229z-e5434"
+doi: "10.17613/f73j1-43e28"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxx56og2q'
 title: "Of Flesh and Spirit: Race, Reproduction, and Sexual Difference in the Turn to Paul."
 author: "Amaryah Armstrong"

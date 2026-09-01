@@ -1,6 +1,6 @@
 ---
 nanoid: "x8juwY"
-doi: "10.17613/trsms-tka56"
+doi: "10.17613/krn6h-f0638"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvywvk4o2z'
 title: "A Reconstruction of the Theologies of Liberation: the Lacanian Correction to the Ellacurian Synthesis"
 author: "Manuel Jesús Mejido"
@@ -20,7 +20,7 @@ keywords:
   - history-religious-aspects-christianity
   - history-in-religion
   - ignacio
-pdf: costoya.pdf
+pdf: mejido.pdf
 sort_id:
 volume: 8
 issue: 1

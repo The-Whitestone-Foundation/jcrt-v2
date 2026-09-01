@@ -1,6 +1,6 @@
 ---
 nanoid: "Bsi6Yz"
-doi: "10.17613/dj9vm-51t58"
+doi: "10.17613/yxzmm-gk430"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvye4oin2u'
 title: "From Colonialism to Neo-Liberal Capitalism: Latino/a Immigrants in the U.S. and the New Biopolitics."
 author: "Manuel A. Vásquez"
@@ -13,7 +13,7 @@ keywords:
   - agamben
   - giorgio
   - immigrants
-pdf: vasquez.pdf
+pdf: v_squez.pdf
 sort_id:
 volume: 13
 issue: 1

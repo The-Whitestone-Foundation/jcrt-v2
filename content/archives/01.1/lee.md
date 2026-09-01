@@ -1,6 +1,6 @@
 ---
 nanoid: "hSSNhS"
-doi: "10.17613/ab5p9-yx739"
+doi: "10.17613/mj987-tfn48"
 atproto:
 article_number: 09
 volume: 1

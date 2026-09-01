@@ -1,6 +1,6 @@
 ---
 nanoid: "IfEhnn"
-doi: "10.17613/a9h3h-kzt94"
+doi: "10.17613/2bk3q-1bh78"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwjceac2p'
 layout: archives.njk
 article_number: '05'

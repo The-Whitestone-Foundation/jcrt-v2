@@ -1,6 +1,6 @@
 ---
 nanoid: "GYHD1P"
-doi: "10.17613/380n9-ydq29"
+doi: "10.17613/96d3y-9sa79"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz7lxir25'
 title: "Religion and Media"
 author: "Melissa Conroy"

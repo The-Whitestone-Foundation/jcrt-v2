@@ -1,6 +1,6 @@
 ---
 nanoid: "hlTG1B"
-doi: "10.17613/q3ngv-0hq58"
+doi: "10.17613/vd20c-e1714"
 author: editors
 title: Author Bios
 affilation:

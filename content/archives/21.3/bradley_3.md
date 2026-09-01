@@ -1,6 +1,6 @@
 ---
 nanoid: "5nbuSW"
-doi: "10.17613/2hqpp-2xc50"
+doi: "10.17613/we9qm-kk110"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwyqa2u2i'
 title: "A Response to Niall Gildea."
 author: "Arthur Bradley"
@@ -10,7 +10,7 @@ keywords:
   - gildea
   - history-of-philosophy
   - niall
-pdf: Bradley3.pdf
+pdf: bradley_3.pdf
 sort_id:
 volume: 21
 issue: 3

@@ -1,6 +1,6 @@
 ---
 nanoid: "JgQxu5"
-doi: "10.17613/nxfc8-8bd06"
+doi: "10.17613/ye52k-4vm41"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvx4x7ao2q'
 title: "What Do We Mean By"
 author: "Catherine Walsh; Walter Mignolo; Fernando Herrero; Tink Tinker"
@@ -13,7 +13,7 @@ keywords:
   - herrero
   - tinker
   - webinars
-pdf: Decoloniality.pdf
+pdf: walsh_mignolo_herrero_tinker.pdf
 sort_id: 08
 volume: 20
 issue: 3

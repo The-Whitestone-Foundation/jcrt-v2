@@ -1,6 +1,6 @@
 ---
 nanoid: "btRCGj"
-doi: "10.17613/hj7rk-par58"
+doi: "10.17613/t7p78-m9574"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyego4j25'
 title: "Decoloniality and Crisis Introduction"
 author: "Nikolay Karkov; Jeffrey W. Robbins"

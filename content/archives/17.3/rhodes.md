@@ -1,6 +1,6 @@
 ---
 nanoid: "etI4Nj"
-doi: "10.17613/97xj2-ay495"
+doi: "10.17613/4cd3v-0aq77"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxp7yhd23'
 title: "Time Emptied and Time Renewed: the Dominion of Capital and a Theo-Politics of Contretemps."
 author: "Daniel Rhodes"

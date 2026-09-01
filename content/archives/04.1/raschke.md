@@ -1,6 +1,6 @@
 ---
 nanoid: "AcOIl3"
-doi: "10.17613/7s15h-k6b45"
+doi: "10.17613/tbncp-vka72"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5w3u62g'
 article_number:
 volume: 4

@@ -1,6 +1,6 @@
 ---
 nanoid: "MOPYr0"
-doi: "10.17613/kgtt0-hmm12"
+doi: "10.17613/w4a5v-fse92"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxilcoj25'
 title: "Kenosis, Emancipation, Pastness: Reflections from a Jew."
 author: "Sarah Pessin"

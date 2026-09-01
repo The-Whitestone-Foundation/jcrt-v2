@@ -1,6 +1,6 @@
 ---
 nanoid: "GFMXWU"
-doi: "10.17613/cpa77-rzf61"
+doi: "10.17613/9gvg0-7t487"
 author: editors
 title: Author Bios
 affilation:

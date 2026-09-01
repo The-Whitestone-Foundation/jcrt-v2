@@ -1,6 +1,6 @@
 ---
 nanoid: "OHcVAK"
-doi: "10.17613/9n0yr-v8j84"
+doi: "10.17613/dgkx6-qm973"
 author: editors
 title: Author Bios
 affilation:

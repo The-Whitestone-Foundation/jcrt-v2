@@ -1,6 +1,6 @@
 ---
 nanoid: "J6NG1x"
-doi: "10.17613/dstdj-8bg38"
+doi: "10.17613/hnp11-8fq17"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvygvucb25'
 title: "Three Classic Readings of ‘Ethnographic Practice’ in Religious Studies‘"
 author: "Angie Heo"
@@ -16,7 +16,7 @@ keywords:
   - material-culture
   - phenomenology
   - education-methods
-pdf: heo.pdf
+pdf: heo_2.pdf
 sort_id:
 volume: 12
 issue: 2

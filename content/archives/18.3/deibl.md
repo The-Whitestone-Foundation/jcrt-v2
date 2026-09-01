@@ -1,6 +1,6 @@
 ---
 nanoid: "jSelBP"
-doi: "10.17613/vvxcz-zry98"
+doi: "10.17613/sm55p-jdz82"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxhx2e323'
 title: "From Kant to HÖLderlin: Poetry and Religion in the Wake of Philosophical Aesthetics."
 author: "Jakob Deibl"

@@ -1,6 +1,6 @@
 ---
 nanoid: "F2byCP"
-doi: "10.17613/m3rrn-94726"
+doi: "10.17613/vcb6w-v7z12"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxgn2m323'
 title:
 author:
@@ -19,7 +19,7 @@ keywords:
   - myth
   - otherness
   - deconstruction
-pdf: Roberts.pdf
+pdf: robertsandhayden.pdf
 sort_id: 13
 volume: 18
 issue: 3

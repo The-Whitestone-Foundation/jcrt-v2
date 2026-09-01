@@ -1,6 +1,6 @@
 ---
 nanoid: "n266v1"
-doi: "10.17613/8r076-xdg47"
+doi: "10.17613/40wq5-p8772"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxi6od62h'
 title: "Lutheran Theology and Postmodern Philosophy."
 author: "Olli-Pekka Vaino"

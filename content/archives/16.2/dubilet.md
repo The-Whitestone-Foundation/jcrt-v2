@@ -1,6 +1,6 @@
 ---
 nanoid: "dwNcHr"
-doi: "10.17613/pbds1-yer28"
+doi: "10.17613/qkezb-tqe06"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxwxt4l23'
 title: "The Catastrophic Joy of Abandoning Salvation: Thinking the Postsecular with Georges Bataille."
 author: "Alex Dubilet"

@@ -1,6 +1,6 @@
 ---
 nanoid: "JLBPa-"
-doi: "10.17613/x7exa-er936"
+doi: "10.17613/jzpzk-dyc88"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvynifpl23'
 title: "Robert Duncan Notebook Scans: Scan 1"
 author: "Robert Duncan"
@@ -11,7 +11,7 @@ keywords:
   - 1886-1961
   - h-d-hilda-doolittle
   - literature-and-society
-pdf: scans.pdf
+pdf: duncan.pdf
 sort_id:
 volume: 10
 issue: 2

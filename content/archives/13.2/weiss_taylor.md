@@ -1,6 +1,6 @@
 ---
 nanoid: "dlSK6S"
-doi: "10.17613/r3fhw-4w105"
+doi: "10.17613/0snbq-gq104"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvycm6vt2p'
 title: "The Cultural UN/Life of Zombies."
 author: "DENNIS M. WEISS; Victor Taylor"
@@ -10,7 +10,7 @@ keywords:
   - zombie-films
   - dawn-of-the-dead-film
   - zombies-in-popular-culture
-pdf: taylorandweiss.pdf
+pdf: weiss_taylor.pdf
 sort_id:
 volume: 13
 issue: 2

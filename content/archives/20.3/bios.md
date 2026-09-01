@@ -1,6 +1,6 @@
 ---
 nanoid: "vDbhWS"
-doi: "10.17613/mhdch-5fj73"
+doi: "10.17613/rzswg-89e09"
 author: editors
 title: Author Bios
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "1nSHS6"
-doi: "10.17613/b3awa-kg205"
+doi: "10.17613/qa3h7-0by72"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvx5bdgr2f'
 title: "Reorientation in the Field: Why Religion Matters."
 author: "Wendy Felese"

@@ -1,6 +1,6 @@
 ---
 nanoid: "HiJKhL"
-doi: "10.17613/5greh-ajr46"
+doi: "10.17613/5y3nb-jbz58"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc6mt522'
 article_number:
 volume: 1

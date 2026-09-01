@@ -1,6 +1,6 @@
 ---
 nanoid: "ETvZ_a"
-doi: "10.17613/zjrkf-xbr42"
+doi: "10.17613/ft2ff-cdg84"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ob4p2l'
 article_number:
 volume: 3

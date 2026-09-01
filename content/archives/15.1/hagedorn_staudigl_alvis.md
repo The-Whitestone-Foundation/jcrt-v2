@@ -1,6 +1,6 @@
 ---
 nanoid: "uEegTG"
-doi: "10.17613/k9vyt-mx656"
+doi: "10.17613/y0wh0-7e994"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy7r4tg2g'
 title: "Violence and the Gift: Challenging Continental Philosophy of Religion."
 author: "Ludger Hagedorn; Michael Staudigl; Jason W. Alvis"
@@ -11,7 +11,7 @@ keywords:
   - austria
   - conferences-conventions
   - convention-and-trade-show-organizers
-pdf: intro.pdf
+pdf: hagedorn_staudigl_alvis.pdf
 sort_id:
 volume: 15
 issue: 1

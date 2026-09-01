@@ -1,6 +1,6 @@
 ---
 nanoid: "xFua_n"
-doi: "10.17613/f4at0-4gc91"
+doi: "10.17613/c1ekk-pdn71"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7pdnz27'
 article_number:
 volume: 3

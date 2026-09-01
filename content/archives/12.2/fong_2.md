@@ -1,6 +1,6 @@
 ---
 nanoid: "qdU9hY"
-doi: "10.17613/t1ym2-et289"
+doi: "10.17613/a8fwf-ssy88"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvyh5ice2s'
 title: "A Review of Peter Sloterdijk, Spheres, Volume One: Bubbles"
 author: "Benjamin Fong"
@@ -19,7 +19,7 @@ keywords:
   - object-relations-psychoanalysis
   - space-and-time
   - spatial-behavior
-pdf: fong.pdf
+pdf: fong_2.pdf
 sort_id:
 volume: 12
 issue: 2

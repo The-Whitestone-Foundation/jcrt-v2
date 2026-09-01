@@ -1,6 +1,6 @@
 ---
 nanoid: "f_zhdj"
-doi: "10.17613/mrtn5-t0k78"
+doi: "10.17613/dtrpd-s4x90"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy577nw2q'
 title: "An Interview with Henry Giroux"
 author: "VICTOR TAYLOR; Henry Giroux"
@@ -13,7 +13,7 @@ keywords:
   - henry-a
   - municipal-art
   - social-criticism
-pdf: InterviewGiroux.pdf
+pdf: taylor_giroux.pdf
 sort_id:
 volume: 16
 issue: 1

@@ -1,6 +1,6 @@
 ---
 nanoid: "DNCMs3"
-doi: "10.17613/g8m70-vqq64"
+doi: "10.17613/fvzb0-jmk96"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc4v4p2b'
 article_number:
 volume: 1

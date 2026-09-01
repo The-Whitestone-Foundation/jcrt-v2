@@ -1,6 +1,6 @@
 ---
 nanoid: "9O0AgR"
-doi: "10.17613/5svvj-bpw84"
+doi: "10.17613/yes4s-x1216"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz2cljg2h'
 title: "Already Not Yet"
 author: "Adam Kotsko"

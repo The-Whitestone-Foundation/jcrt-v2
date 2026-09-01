@@ -1,6 +1,6 @@
 ---
 nanoid: "ikYesu"
-doi: "10.17613/x8zed-k1w66"
+doi: "10.17613/r3cdf-c2n12"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy54np42s'
 title: "Judith Butler’s Senses of the Subject."
 author: "Matt Waggoner"
@@ -13,7 +13,7 @@ keywords:
   - conception
   - judith
   - senses-of-the-subject-book
-pdf: reviewbutler.pdf
+pdf: waggoner.pdf
 sort_id:
 volume: 16
 issue: 1

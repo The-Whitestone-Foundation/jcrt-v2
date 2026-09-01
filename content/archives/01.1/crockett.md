@@ -1,6 +1,6 @@
 ---
 nanoid: "lSgffu"
-doi: "10.17613/20gbx-k8r38"
+doi: "10.17613/0bkat-x3c78"
 atproto:
 article_number:
 volume: 1

@@ -1,6 +1,6 @@
 ---
 nanoid: "Rt2KVM"
-doi: "10.17613/vbtdd-08435"
+doi: "10.17613/0nr9h-j8085"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvygg2s22q'
 title: "Teaching for Social Justice: Creating a Context for Education"
 author: "Rebecca Todd Peters"
@@ -20,7 +20,7 @@ keywords:
   - education-philosophy
   - education-experimental-methods
   - educational-sociology
-pdf: peters.pdf
+pdf: peters_2.pdf
 sort_id:
 volume: 12
 issue: 2

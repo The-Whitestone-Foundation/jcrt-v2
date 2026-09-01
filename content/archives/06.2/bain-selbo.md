@@ -1,6 +1,6 @@
 ---
 nanoid: "94FeVd"
-doi: "10.17613/j606w-rkb25"
+doi: "10.17613/vhmmp-wd581"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz3znzz2f'
 title: "Double Exposure: Cutting Across Buddhist and Western Discourses"
 author: "Eric Bain-Selbo"

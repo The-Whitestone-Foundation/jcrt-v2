@@ -1,6 +1,6 @@
 ---
 nanoid: "9PTTA3"
-doi: "10.17613/k2m2w-zbz26"
+doi: "10.17613/4p1vn-46h50"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbysch2l'
 article_number:
 volume: 1

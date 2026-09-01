@@ -1,6 +1,6 @@
 ---
 nanoid: "3Joyst"
-doi: "10.17613/t8722-vmk38"
+doi: "10.17613/y25pd-pzt40"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6pxw42e'
 article_number:
 volume: 3

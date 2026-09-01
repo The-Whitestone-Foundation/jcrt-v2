@@ -1,6 +1,6 @@
 ---
 nanoid: "EZdRys"
-doi: "10.17613/7vrm0-x2b83"
+doi: "10.17613/8mmn7-5bd89"
 atproto:
 article_number: 04
 volume: 1

@@ -1,6 +1,6 @@
 ---
 nanoid: "Et3RlK"
-doi: "10.17613/fbct4-n1191"
+doi: "10.17613/233zg-z0q47"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxvuczr2f'
 title: "The End of Theology and the Event of Truth: an Introduction"
 author: "Carl A. Raschke"
@@ -10,7 +10,7 @@ keywords:
   - genealogy
   - salvation-in-christianity
   - all-other-personal-services
-pdf: introduction.pdf
+pdf: raschke.pdf
 sort_id:
 volume: 16
 issue: 3

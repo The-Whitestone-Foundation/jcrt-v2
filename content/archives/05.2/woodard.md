@@ -1,6 +1,6 @@
 ---
 nanoid: "po-azv"
-doi: "10.17613/w5bvs-2gc46"
+doi: "10.17613/5ydrk-t2351"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvz6l2y72h'
 title: "The Puppet and the Dwarf: the Perverse Core of Christianity"
 author: "Jared Woodard"

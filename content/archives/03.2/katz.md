@@ -1,6 +1,6 @@
 ---
 nanoid: "3c9WIf"
-doi: "10.17613/atq45-2z225"
+doi: "10.17613/mvskz-57x35"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7cscs26'
 article_number:
 volume: 3

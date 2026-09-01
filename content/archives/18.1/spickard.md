@@ -1,6 +1,6 @@
 ---
 nanoid: "qkwrYv"
-doi: "10.17613/qtbfj-pa735"
+doi: "10.17613/2832x-bcj66"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvxnfi422p'
 title: "Slow Journalism? Ethnography as a Means of Understanding Religious Social Activism."
 author: "James V. Spickard"
@@ -13,7 +13,7 @@ keywords:
   - other-social-advocacy-organizations
   - social-advocacy
   - social-advocacy-organizations
-pdf: Spickard2.pdf
+pdf: spickard.pdf
 sort_id:
 volume: 18
 issue: 1

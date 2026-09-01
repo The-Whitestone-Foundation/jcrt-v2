@@ -1,6 +1,6 @@
 ---
 nanoid: "3rBZGP"
-doi: "10.17613/drm3t-j3e61"
+doi: "10.17613/nr314-2ss03"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwqp5vs2q'
 title: "Sikh Environmental Ethics: Theory and Praxis"
 author: "Harpreet Kaur"

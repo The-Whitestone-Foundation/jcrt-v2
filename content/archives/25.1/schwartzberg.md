@@ -1,6 +1,6 @@
 ---
 nanoid: "J1rTNl"
-doi: "10.17613/ba4bv-y1067"
+doi: "10.17613/x2hqd-57z60"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvwk42is2p'
 layout: archives.njk
 article_number: '07'

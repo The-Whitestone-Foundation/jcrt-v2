@@ -1,6 +1,6 @@
 ---
 nanoid: "Ph2RDi"
-doi: "10.17613/3qf0h-88x75"
+doi: "10.17613/51dt5-dxh50"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ej632k'
 article_number:
 volume: 3

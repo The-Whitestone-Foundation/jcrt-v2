@@ -1,6 +1,6 @@
 ---
 nanoid: "4Mrisx"
-doi: "10.17613/dce3r-tp258"
+doi: "10.17613/34mx1-zvf39"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvy5eezd23'
 title: "Review of Judith Butler’s Senses of the Subject"
 author: "Matt Waggoner"

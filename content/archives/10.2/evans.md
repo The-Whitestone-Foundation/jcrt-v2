@@ -1,6 +1,6 @@
 ---
 nanoid: "QmFZGV"
-doi: "10.17613/qbk9r-wf472"
+doi: "10.17613/q9dp0-24p38"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mufvynftdj2f'
 title: "Transcription Notes"
 author: "Amy Evans"
@@ -14,7 +14,7 @@ keywords:
   - 1919-1988
   - duncan
   - h-d-hilda-doolittle
-pdf: duncan-transcription.pdf
+pdf: evans.pdf
 sort_id:
 volume: 10
 issue: 2
