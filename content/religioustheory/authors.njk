@@ -7,6 +7,11 @@ pagination:
 permalink: "/religioustheory/authors/{{ authorSlugKey }}/index.html"
 eleventyComputed:
   title: "Author: {{ tagIndex.authors.theory.names[authorSlugKey] or authorSlugKey }}"
+# Eleventy adds only the FIRST page of a paginated template to collections.all, so a
+# sweep advertises one arbitrary page and misses the rest. Dedicated sitemaps cover
+# these URLs completely.
+# Source: tagIndex.authors.theory.list (152 pages)
+sitemapIgnore: true
 ---
 {% set authorName = tagIndex.authors.theory.names[authorSlugKey] or authorSlugKey %}
 {% set theoryPosts = tagIndex.authors.theory.map[authorSlugKey] or [] %}

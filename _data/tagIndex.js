@@ -165,25 +165,66 @@ function sortEntriesDesc(entries) {
 
 const MAX_TAG_PAGES = Number.parseInt(process.env.MAX_TAG_PAGES || "9999", 10);
 
+// Alphanumeric bucket for the /religioustheory/taxonomy/<letter>/ pages: uppercase
+// initial, digits collapse to "0-9", anything else to "#".
+function bucketKey(term) {
+	const first = String(term || "").trim().charAt(0).toUpperCase();
+	if (first >= "A" && first <= "Z") return first;
+	if (first >= "0" && first <= "9") return "0-9";
+	return "#";
+}
+
+function letterBuckets(list) {
+	const byLetter = {};
+	for (const term of list) {
+		const key = bucketKey(term);
+		if (!byLetter[key]) byLetter[key] = [];
+		byLetter[key].push(term);
+	}
+	return { byLetter, letters: Object.keys(byLetter).sort((a, b) => a.localeCompare(b)) };
+}
+
+// Fields derived from list/counts/map. Recomputed on both the full-build and the
+// cache-hit path, and removed again by stripDerived() before the cache is written --
+// persisting them would bloat .cache/tag-index-cache.json for no gain and would let a
+// stale copy outlive the list it was derived from.
+function withDerived(domain) {
+	const { list, affected, map, counts } = domain;
+	// Limit pagination to top N tags by post count to reduce page output
+	const topN = list
+		.map((key) => ({ key, count: counts[key] ?? (map[key] || []).length }))
+		.sort((a, b) => b.count - a.count)
+		.slice(0, MAX_TAG_PAGES)
+		.map((x) => x.key)
+		.sort((a, b) => a.localeCompare(b));
+	return {
+		...domain,
+		paginationList: LEAN_BUILD ? affected : topN,
+		...letterBuckets(list),
+	};
+}
+
 function finalizeDomain(map, affectedSet) {
 	const list = Object.keys(map).sort((a, b) => a.localeCompare(b));
 	for (const key of list) {
 		sortEntriesDesc(map[key]);
 	}
 	const affected = [...affectedSet].filter((t) => map[t]).sort((a, b) => a.localeCompare(b));
-	// Limit pagination to top N tags by post count to reduce page output
-	const topN = list
-		.map((key) => ({ key, count: map[key].length }))
-		.sort((a, b) => b.count - a.count)
-		.slice(0, MAX_TAG_PAGES)
-		.map((x) => x.key)
-		.sort((a, b) => a.localeCompare(b));
-	return {
+	return withDerived({
 		list,
 		affected,
-		paginationList: LEAN_BUILD ? affected : topN,
 		map,
 		counts: Object.fromEntries(list.map((key) => [key, map[key].length])),
+	});
+}
+
+// The taxonomy letter pages carry categories and tags side by side, so they paginate over
+// the union of both domains' buckets.
+function theoryDomain(categories, tags) {
+	return {
+		categories,
+		tags,
+		taxonomyLetters: [...new Set([...categories.letters, ...tags.letters])].sort((a, b) => a.localeCompare(b)),
 	};
 }
 
@@ -248,28 +289,17 @@ function buildAuthorMaps(nextFiles) {
 
 function withPagination(domain) {
 	if (!domain || typeof domain !== "object") return finalizeDomain({}, new Set());
-	const list = Array.isArray(domain.list) ? domain.list : [];
-	const affected = Array.isArray(domain.affected) ? domain.affected : [];
-	const map = domain.map && typeof domain.map === "object" ? domain.map : {};
-	const counts = domain.counts && typeof domain.counts === "object" ? domain.counts : {};
-	const topN = list
-		.map((key) => ({ key, count: counts[key] || (map[key] || []).length }))
-		.sort((a, b) => b.count - a.count)
-		.slice(0, MAX_TAG_PAGES)
-		.map((x) => x.key)
-		.sort((a, b) => a.localeCompare(b));
-	return {
-		list,
-		affected,
-		paginationList: LEAN_BUILD ? affected : topN,
-		map,
-		counts,
-	};
+	return withDerived({
+		list: Array.isArray(domain.list) ? domain.list : [],
+		affected: Array.isArray(domain.affected) ? domain.affected : [],
+		map: domain.map && typeof domain.map === "object" ? domain.map : {},
+		counts: domain.counts && typeof domain.counts === "object" ? domain.counts : {},
+	});
 }
 
-function stripPagination(domain) {
+function stripDerived(domain) {
 	if (!domain || typeof domain !== "object") return domain;
-	const { paginationList, ...rest } = domain;
+	const { paginationList, byLetter, letters, ...rest } = domain;
 	return rest;
 }
 
@@ -356,10 +386,10 @@ async function buildTagIndex() {
 			},
 			globalTags: withPagination(prev.domains.globalTags),
 			archiveKeywords: withPagination(prev.domains.archiveKeywords),
-			theory: {
-				tags: withPagination(prev.domains.theory.tags),
-				categories: withPagination(prev.domains.theory.categories),
-			},
+			theory: theoryDomain(
+				withPagination(prev.domains.theory.categories),
+				withPagination(prev.domains.theory.tags),
+			),
 			authors: prev.domains.authors,
 		};
 		inProcessMemo = { key: signatureKey, value: result };
@@ -429,10 +459,10 @@ async function buildTagIndex() {
 		},
 		globalTags: finalizeDomain(globalMap, affectedGlobal),
 		archiveKeywords: finalizeDomain(archiveKeywordMap, affectedArchiveKeywords),
-		theory: {
-			tags: finalizeDomain(theoryTagMap, affectedTheoryTags),
-			categories: finalizeDomain(theoryCategoryMap, affectedTheoryCategories),
-		},
+		theory: theoryDomain(
+			finalizeDomain(theoryCategoryMap, affectedTheoryCategories),
+			finalizeDomain(theoryTagMap, affectedTheoryTags),
+		),
 		authors,
 	};
 
@@ -441,11 +471,11 @@ async function buildTagIndex() {
 		generatedAt: result.generatedAt,
 		files: nextFiles,
 		domains: {
-			globalTags: stripPagination(result.globalTags),
-			archiveKeywords: stripPagination(result.archiveKeywords),
+			globalTags: stripDerived(result.globalTags),
+			archiveKeywords: stripDerived(result.archiveKeywords),
 			theory: {
-				tags: stripPagination(result.theory.tags),
-				categories: stripPagination(result.theory.categories),
+				tags: stripDerived(result.theory.tags),
+				categories: stripDerived(result.theory.categories),
 			},
 			authors,
 		},

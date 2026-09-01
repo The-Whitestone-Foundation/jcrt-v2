@@ -1,0 +1,53 @@
+---js
+{
+  layout: "base.njk",
+  pagination: {
+    data: "tagIndex.archiveKeywords.letters",
+    size: 1,
+    alias: "letter"
+  },
+  permalink: "/archives/keywords/{{ letter | lower }}/index.html",
+  eleventyExcludeFromCollections: true,
+  searchIndex: false,
+  // Eleventy adds only the FIRST page of a paginated template to collections.all, so a
+  // sitemap that sweeps that collection would advertise one arbitrary letter and none of
+  // the others. Keep this out of the sweep entirely -- the hub links every letter.
+  sitemapIgnore: true,
+  eleventyComputed: {
+    title: "Archive Keywords: {{ letter }}"
+  }
+}
+---
+<div class="collection-shell collection-shell--archive-keywords">
+  {% include "partials/nav_desktop.njk" %}
+
+  <h1 class="display-5 fw-bold mb-3 border-bottom pb-3">
+    <span class="border-bottom border-4 border-primary pb-2">Archive Keywords &mdash; {{ letter }}</span>
+  </h1>
+
+  <p class="mb-5">
+    <a class="text-primary fw-bold text-decoration-none text-uppercase collection-back-link"
+       href="/archives/keywords/">&larr; All letters</a>
+  </p>
+
+  <div class="row p-3">
+    {%- for keyword in tagIndex.archiveKeywords.byLetter[letter] or [] %}
+      <div class="col-md-4 col-6 p-1">
+        {%- if isLeanBuild and (keyword not in tagIndex.archiveKeywords.affected) %}
+        <span class="btn btn-outline-primary p-2 w-100 disabled">{{ keyword }}</span>
+        {%- else %}
+        <a class="btn btn-outline-primary p-2 w-100" href="/archives/keywords/{{ keyword | slugify }}/">{{ keyword }}</a>
+        {%- endif %}
+      </div>
+    {%- endfor %}
+  </div>
+
+  <nav class="d-flex justify-content-between border-top pt-3">
+    {%- if pagination.href.previous %}
+    <a class="text-decoration-none" href="{{ pagination.href.previous }}">&larr; {{ tagIndex.archiveKeywords.letters[pagination.pageNumber - 1] }}</a>
+    {%- else %}<span></span>{% endif -%}
+    {%- if pagination.href.next %}
+    <a class="text-decoration-none" href="{{ pagination.href.next }}">{{ tagIndex.archiveKeywords.letters[pagination.pageNumber + 1] }} &rarr;</a>
+    {%- else %}<span></span>{% endif -%}
+  </nav>
+</div>

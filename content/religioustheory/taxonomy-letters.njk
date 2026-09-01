@@ -1,0 +1,83 @@
+---js
+{
+  layout: "base.njk",
+  pagination: {
+    data: "tagIndex.theory.taxonomyLetters",
+    size: 1,
+    alias: "letter"
+  },
+  permalink: "/religioustheory/taxonomy/{{ letter | lower }}/index.html",
+  // Same rationale as the taxonomy hub: every term links out to an individually indexed
+  // page, so this tree is navigation only.
+  searchIndex: false,
+  robots: "noindex, follow",
+  // Eleventy only adds the first page of a paginated template to collections.all, so
+  // without this the religioustheory sitemap would advertise /taxonomy/0-9/ alone. The
+  // hub links to every letter, which is all the crawl discovery this tree needs.
+  sitemapIgnore: true,
+  eleventyComputed: {
+    title: "Tags & Categories: {{ letter }}"
+  }
+}
+---
+{#- Whitespace control is load-bearing throughout this file. The previous single-page
+    version nested a full collection scan inside each term and emitted 968,765 lines to
+    render 2,838 links -- 93% of a 14.6 MB file was blank lines. Counts now come from
+    tagIndex.*.counts and post lists from tagIndex.*.map, so nothing is rescanned. -#}
+{%- macro termList(domain, hrefBase, prefix) -%}
+  {%- set terms = domain.byLetter[letter] or [] -%}
+  {%- if terms | length -%}
+    {%- for term in terms -%}
+      <details class="mb-3 border-bottom pb-2">
+        <summary class="d-flex justify-content-between align-items-center fw-bold cursor-pointer">
+          <span>{{ prefix }}{{ term }}</span>
+          <span class="badge bg-light text-muted border rounded-pill small">{{ domain.counts[term] or 0 }} Posts</span>
+        </summary>
+        <div class="mt-3 ps-3 border-start">
+          {%- if not (isLeanBuild and (term not in domain.affected)) %}
+          <p class="mb-2 small">
+            <a class="text-decoration-none fw-bold" href="{{ hrefBase }}{{ term | slugify }}/">View the {{ term }} page &rarr;</a>
+          </p>
+          {%- endif -%}
+          {%- for post in domain.map[term] or [] %}
+          <div class="mb-2"><a href="{{ post.url }}" class="text-decoration-none text-secondary small hover-primary">&bull; {{ post.title }}</a></div>
+          {%- endfor %}
+        </div>
+      </details>
+    {%- endfor -%}
+  {%- else -%}
+    <p class="text-muted small">None under {{ letter }}.</p>
+  {%- endif -%}
+{%- endmacro -%}
+
+<div class="collection-shell collection-shell--theory-taxonomy">
+  {% include "partials/nav_desktop.njk" %}
+
+  <h1 class="display-5 fw-bold mb-3 border-bottom pb-3">Digital Archive Index &mdash; {{ letter }}</h1>
+
+  <p class="mb-5">
+    <a class="text-primary fw-bold text-decoration-none text-uppercase collection-back-link"
+       href="/religioustheory/taxonomy/">&larr; All letters</a>
+  </p>
+
+  <div class="row">
+    <div class="col-md-12 mb-5">
+      <h2 class="h4 text-uppercase mb-4 fw-bold text-primary">Categories &mdash; {{ letter }}</h2>
+      {{ termList(tagIndex.theory.categories, "/religioustheory/categories/", "") }}
+    </div>
+
+    <div class="col-md-12 mb-5">
+      <h2 class="h4 text-uppercase mb-4 fw-bold text-primary">Tags &mdash; {{ letter }}</h2>
+      {{ termList(tagIndex.theory.tags, "/religioustheory/tags/", "#") }}
+    </div>
+  </div>
+
+  <nav class="d-flex justify-content-between border-top pt-3">
+    {%- if pagination.href.previous %}
+    <a class="text-decoration-none" href="{{ pagination.href.previous }}">&larr; {{ tagIndex.theory.taxonomyLetters[pagination.pageNumber - 1] }}</a>
+    {%- else %}<span></span>{% endif -%}
+    {%- if pagination.href.next %}
+    <a class="text-decoration-none" href="{{ pagination.href.next }}">{{ tagIndex.theory.taxonomyLetters[pagination.pageNumber + 1] }} &rarr;</a>
+    {%- else %}<span></span>{% endif -%}
+  </nav>
+</div>

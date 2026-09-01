@@ -35,6 +35,12 @@
   [plugins.inputs]
     paths = [".cache", ".npm-cache"]
 
+# Purges the Cloudflare edge cache once the production deploy is live. Needs
+# CLOUDFLARE_API_TOKEN and CLOUDFLARE_ZONE_ID; skips quietly without them, and skips
+# deploy previews and branch deploys. See jcrt-meta/docs/cloudflare-cache.md.
+[[plugins]]
+  package = "./plugins/cloudflare-purge"
+
 [[edge_functions]]
   function = "allow-indexing-bots"
   path = "/*"

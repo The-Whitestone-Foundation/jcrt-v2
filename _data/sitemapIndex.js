@@ -7,7 +7,6 @@ const EXTERNAL_SEARCH_SITEMAP_URL = "https://files.jcrt.org/metadata/search-site
 // Canonical index of every file the CDN serves (per-folder sitemaps under /sitemaps/).
 const EXTERNAL_CDN_SITEMAP_INDEX_URL = "https://files.jcrt.org/sitemap.xml";
 const PROTECTED_SITEMAPS = [
-	"/feed/philpapers.xml",
 	"/sitemaps/oai_dc.xml",
 	"/sitemaps/doaj-archives.xml"
 ];
@@ -21,10 +20,10 @@ const LOCAL_METADATA_SITEMAPS = [
 	{ path: "/sitemaps/citations/ris-sitemap.xml", file: path.join("public", "sitemaps", "citations", "ris-sitemap.xml") },
 	{ path: "/sitemaps/citations/csl-json-sitemap.xml", file: path.join("public", "sitemaps", "citations", "csl-json-sitemap.xml") },
 ];
-const ALWAYS_INCLUDE_FEEDS = [
-	"/feed/firehose.xml",
-	"/feed/twtxt.txt",
-];
+// Intentionally empty. A <sitemapindex> entry must resolve to a <urlset> or a nested
+// index; RSS feeds and /feed/twtxt.txt are neither, and listing them here made the root
+// sitemap.xml unparseable as an index. Feeds are advertised via <link rel="alternate">.
+const ALWAYS_INCLUDE_FEEDS = [];
 const JCRT_FILES_METADATA = path.resolve(process.cwd(), "..", "jcrt-files", "metadata");
 
 function walk(dir) {
@@ -136,11 +135,8 @@ export default function sitemapIndex() {
 		});
 	}
 
-	// Always include philpapers.xml (protected feed)
-	entries.push({
-		path: "/feed/philpapers.xml",
-		lastmod: getFallbackLastmod(), // fallback, as we don't have a file stat here
-	});
+	// philpapers.xml is an RSS feed, not a <urlset>, so it does not belong in a
+	// <sitemapindex> either. Left out for the same reason as ALWAYS_INCLUDE_FEEDS.
 
 	for (const feedPath of ALWAYS_INCLUDE_FEEDS) {
 		entries.push({

@@ -8,6 +8,14 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.07] — 2026-09-01
+fix: generate seven-character nanoids
+- Notes: fix: generate seven-character nanoids.
+
+## [00.04.06] — 2026-09-01
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
 ## [00.04.05] — 2026-09-01
 fix: extend Alencar nanoid
 - Notes: fix: extend Alencar nanoid.

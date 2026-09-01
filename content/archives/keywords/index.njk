@@ -11,21 +11,33 @@ subjects:
     uri: 'https://id.worldcat.org/fast/1093763'
     category: 'topical'
 ---
+{#- 3,626 keyword buttons on one page rendered a 720 KB entry point. The terms now live on
+    /archives/keywords/<letter>/ (see keyword-letters.njk); this stays as the A-Z hub so the
+    permalink and every inbound link keep working. -#}
 <div class="collection-shell collection-shell--archive-keywords">
   {% include "partials/nav_desktop.njk" %}
-  <h1 class="display-5 fw-bold mb-5 border-bottom pb-3">
+  <h1 class="display-5 fw-bold mb-3 border-bottom pb-3">
     <span class="border-bottom border-4 border-primary pb-2">Archive Keywords</span>
   </h1>
 
-  <div class="row p-3">
-    {% for keyword in tagIndex.archiveKeywords.list %}
-      <div class="col-md-4 col-6 p-1">
-        {% if isLeanBuild and (keyword not in tagIndex.archiveKeywords.affected) %}
-        <span class="btn btn-outline-primary p-2 w-100 disabled">{{ keyword }}</span>
-        {% else %}
-        <a class="btn btn-outline-primary p-2 w-100" href="/archives/keywords/{{ keyword | slugify }}/">{{ keyword }}</a>
-        {% endif %}
+  <p class="text-secondary mb-5">
+    {{ tagIndex.archiveKeywords.list | length }} keywords indexed across the archive,
+    grouped by first character.
+  </p>
+
+  <div class="row g-3 mb-5">
+    {%- for letter in tagIndex.archiveKeywords.letters %}
+      {%- set letterKeywords = tagIndex.archiveKeywords.byLetter[letter] or [] -%}
+      <div class="col-md-3 col-4">
+        <a href="/archives/keywords/{{ letter | lower }}/" class="text-decoration-none">
+          <div class="card h-100 shadow-sm border-0 bg-light transition-all hover-shadow">
+            <div class="card-body p-3 text-center">
+              <h2 class="h3 fw-bold mb-1 text-dark">{{ letter }}</h2>
+              <span class="text-muted small d-block">{{ letterKeywords | length }} keywords</span>
+            </div>
+          </div>
+        </a>
       </div>
-    {% endfor %}
+    {%- endfor %}
   </div>
 </div>

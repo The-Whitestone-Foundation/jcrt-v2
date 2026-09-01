@@ -45,13 +45,13 @@ subjects:
 
       <div class="row">
   
-  {% set issue_articles = collections.all | selectattr("inputPath", "assigned") %}
-  
-  {% for article in issue_articles | sort(false, false, 'data.articleNumber') %}
-    {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
-      {% set rel = article.inputPath | replace(issue_dir, '') %}
-      {% if rel.endsWith('.md') and rel != 'index.md' and '/' not in rel %}
-        
+  {#- collections.archiveArticlesByIssue is bucketed by issue directory, so this no longer
+      sorts and rescans all ~2,000 collections.all entries once per issue per page. The
+      bucket keeps collections.all order, so the same stable sort yields the same result. -#}
+  {%- set issue_bucket = collections.archiveArticlesByIssue[issue_dir] -%}
+  {%- set issue_articles = issue_bucket.articles if issue_bucket else [] -%}
+
+  {%- for article in issue_articles | sort(false, false, 'data.articleNumber') %}
         <div class="col-12 border-bottom pb-3 mb-3 article-item">
           <h3 class="h5 serif fw-bold mb-1">
             <a href="{{ article.url }}" class="text-decoration-none text-body-emphasis hover-primary">
@@ -59,31 +59,30 @@ subjects:
             </a>
           </h3>
 
-          {% if article.data.author %}
+          {%- if article.data.author %}
             <p class="small mb-0">
               <span class="text-muted">By</span>
-              {% set authorNames = article.data.author | splitAuthors %}
-              {% for aName in authorNames %}
-                {% set authorData = collections.authors | getAuthorObj(aName) %}
-                {% if authorData %}
+              {%- set authorNames = article.data.author | splitAuthors -%}
+              {%- for aName in authorNames %}
+                {%- set authorData = collections.authors | getAuthorObj(aName) -%}
+                {%- if authorData %}
                   <a href="{{ authorData.url }}" class="fw-bold text-primary text-decoration-none hover-primary">
                     {{ authorData.data.name or authorData.data.title or aName }}
                   </a>
-                  {% if authorData.data.affiliation %}
+                  {%- if authorData.data.affiliation %}
                     <span class="text-muted small"> ({{ authorData.data.affiliation }})</span>
-                  {% endif %}
-                {% else %}
+                  {%- endif %}
+                {%- else %}
                   <span class="fw-bold text-primary">{{ aName }}</span>
-                {% endif %}
-                {% if not loop.last %}; {% endif %}
-              {% endfor %}
+                {%- endif %}
+                {# Not trimmed on the left: the original emitted a space before the ";"
+                   separator, and collapsing it would change rendered typography. #}
+                {% if not loop.last %}; {% endif -%}
+              {%- endfor %}
             </p>
-          {% endif %}
+          {%- endif %}
         </div>
-
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {%- endfor %}
 </div>
     </section>
   {% endfor %}

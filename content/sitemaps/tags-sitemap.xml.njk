@@ -1,0 +1,33 @@
+---
+permalink: /tags-sitemap.xml
+layout: false
+eleventyExcludeFromCollections: true
+---
+{#- The 570 global tag pages at /tags/<slug>/ render `robots: index, follow` with a
+    self-referencing canonical, but appeared in no sitemap at all: content/tag-pages.njk
+    sets eleventyExcludeFromCollections, so every collections.all sweep misses them.
+    Built directly from tagIndex, the same way keywords/keywords-sitemap.xml.njk is. -#}
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
+	{# Tag index page #}
+	<url>
+		<loc>{{ (baseUrl ~ "/tags/") | xmlEscape | safe }}</loc>
+		{% set idxLm = page.inputPath | lastModifiedDate %}
+		{% if idxLm %}<lastmod>{{ idxLm | htmlDateString }}</lastmod>{% endif %}
+	</url>
+
+	{% if not isLeanBuild %}
+		{# One URL per global tag page #}
+		{%- for tag in (tagIndex.globalTags.list or []) %}
+			{%- set path = "/tags/" ~ (tag | slugify) ~ "/" -%}
+		<url>
+			<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
+			{%- set tagPosts = tagIndex.globalTags.map[tag] or [] -%}
+			{%- set newest = tagPosts[0].date if tagPosts and tagPosts[0] else null -%}
+			{% if newest %}<lastmod>{{ newest | htmlDateString }}</lastmod>{% endif %}
+		</url>
+		{%- endfor %}
+	{% endif %}
+</urlset>

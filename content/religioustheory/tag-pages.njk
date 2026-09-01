@@ -9,7 +9,12 @@
   permalink: "/religioustheory/tags/{{ tag | slugify }}/index.html",
   eleventyComputed: {
     title: "Tag: {{ tag }}"
-  }
+  },
+  // Eleventy adds only the FIRST page of a paginated template to collections.all, so a
+  // sweep advertises one arbitrary page and misses the rest. Dedicated sitemaps cover
+  // these URLs completely.
+  // Source: tagIndex.theory.tags.paginationList (557 pages)
+  sitemapIgnore: true
 }
 ---
 <article class="collection-shell collection-shell--theory-tag mt-5">
@@ -31,9 +36,9 @@
         <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
             <div class="img-zoom-container rounded-4 shadow-sm mb-3 collection-card-media">
                 <a href="{{ post.url }}">
-                    {% set defaultCardImage = '/images/jcrt-open-graph.webp' %}
-                    {% set tagCardImage = (post.image | ensureImage(defaultCardImage)) %}
-                    {% set tagCardImagePreferred = (tagCardImage | preferWebp) %}
+                    {%- set defaultCardImage = '/images/jcrt-open-graph.webp' -%}
+                    {%- set tagCardImage = (post.image | ensureImage(defaultCardImage)) -%}
+                    {%- set tagCardImagePreferred = (tagCardImage | preferWebp) -%}
                     <img class="img-post img-fluid collection-card-img"
                          alt="{{ post.title }}"
                          src="{{ tagCardImagePreferred }}"

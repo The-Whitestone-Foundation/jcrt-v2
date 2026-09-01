@@ -10,16 +10,15 @@ Tags
 </span></h1>
 
 <div class="row p-3">
-{% for tag in tagIndex.globalTags.list %}
-	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+{%- for tag in tagIndex.globalTags.list %}
+	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
 	<div class="col-md-4 col-4 p-1">
-		{% if isLeanBuild and (tag not in tagIndex.globalTags.affected) %}
+		{%- if isLeanBuild and (tag not in tagIndex.globalTags.affected) %}
 		<span class="btn btn-outline-primary p-2 disabled">{{ tag }}</span>
-		{% else %}
+		{%- else %}
 		<a class="btn btn-outline-primary p-2" href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
-		{% endif %}
+		{%- endif %}
 	</div>
-{% endfor %}
-</ul>
+{%- endfor %}
 
 </div>

@@ -11,12 +11,16 @@ eleventyExcludeFromCollections: true
 	{% set defaultLastmod = page.inputPath | lastModifiedDate %}
 
 	{# All non-religioustheory template URLs #}
+	{#- `seen` guards against the same URL being emitted twice: this sweep and the
+	    hardcoded core-URL list below overlap on all 12 core pages. -#}
+	{%- set seen = [] -%}
 	{% for entry in collections.all -%}
 		{%- if entry.url and not entry.url.startsWith("/religioustheory/") -%}
 			{%- if entry.data.sitemapIgnore !== true and not entry.data.draft and entry.data.eleventyExcludeFromCollections !== true -%}
 				{% set path = entry.url | url %}
 				{% set skip = (path == "/sitemap.xml" or path.startsWith("/sitemaps/") or path == "/404/" or path == "/404.html") %}
 				{%- if not skip -%}
+					{%- set _ = seen.push(path) -%}
 					<url>
 						<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
 						{% set lastmodSource = entry.data.dateUpdated or entry.date or entry.inputPath | lastModifiedDate %}
@@ -42,32 +46,28 @@ eleventyExcludeFromCollections: true
 		"/subscribe/",
 		"/tags/"
 	] -%}
+		{%- if path not in seen %}
 		<url>
 			<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
 			{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
 		</url>
+		{%- endif %}
 	{% endfor -%}
 
-	{# Feed endpoints #}
+	{# Feed endpoints. Sitemaps (/sitemaps/oai_dc.xml, /sitemaps/doaj-archives.xml,
+	   /sitemaps/keywords/keywords-sitemap.xml) and the XSL stylesheet used to be listed
+	   here too. A <urlset> enumerates pages; sitemaps belong in the <sitemapindex> at
+	   /sitemap.xml, which already carries all three. #}
 	{% for path in [
 		"/feed/feed.json",
 		"/feed/firehose.xml",
 		"/feed/twtxt.txt",
 		"/feed/religioustheory/feed.xml",
-		"/feed/philpapers.xml",
-		"/feed/pretty-atom-feed.xsl",
-		"/sitemaps/oai_dc.xml",
-		"/sitemaps/doaj-archives.xml"
+		"/feed/philpapers.xml"
 	] -%}
 		<url>
 			<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
 			{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
 		</url>
 	{% endfor -%}
-
-	{# Link keyword sitemap for discoverability #}
-	<url>
-		<loc>{{ (baseUrl ~ "/sitemaps/keywords/keywords-sitemap.xml") | xmlEscape | safe }}</loc>
-		{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
-	</url>
 </urlset>

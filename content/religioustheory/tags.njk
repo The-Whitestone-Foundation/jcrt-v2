@@ -20,11 +20,11 @@ searchIndex: false
       <ul class="list-unstyled row">
         {%- for tag in tagIndex.theory.tags.list %}
           <li class="mb-2 col-md-3 col-6">
-            {% if isLeanBuild and (tag not in tagIndex.theory.tags.affected) %}
+            {%- if isLeanBuild and (tag not in tagIndex.theory.tags.affected) %}
             <span>#{{ tag }}</span>
-            {% else %}
+            {%- else %}
             <a class="text-decoration-none" href="/religioustheory/tags/{{ tag | slugify }}/">#{{ tag }}</a>
-            {% endif %}
+            {%- endif %}
             <span class="text-muted small">({{ tagIndex.theory.tags.counts[tag] or 0 }})</span>
           </li>
         {%- endfor %}

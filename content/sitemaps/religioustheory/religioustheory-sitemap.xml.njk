@@ -10,11 +10,14 @@ eleventyExcludeFromCollections: true
 		{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
 		{% set defaultLastmod = page.inputPath | lastModifiedDate %}
 
-	{# Template-driven RT pages #}
+	{# Template-driven RT pages. `seen` guards against the same URL being emitted twice:
+	   the sweep below and the hardcoded canonical list further down overlap. #}
+	{%- set seen = [] -%}
 	{% for entry in collections.all -%}
 		{%- if entry.url and entry.url.startsWith("/religioustheory/") -%}
 			{%- if entry.data.sitemapIgnore !== true and not entry.data.draft -%}
 				{% set path = entry.url | url %}
+				{%- set _ = seen.push(path) -%}
 				<url>
 					<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
 					{% set lastmodSource = entry.data.dateUpdated or entry.date or defaultLastmod %}
@@ -24,7 +27,9 @@ eleventyExcludeFromCollections: true
 		{% endif -%}
 	{% endfor -%}
 
-		{# Canonical section index pages #}
+		{# Canonical section index pages.
+		   /religioustheory/taxonomy/ is deliberately absent: it renders
+		   robots: "noindex, follow", and a noindex page has no business in a sitemap. #}
 		{% for path in [
 			"/religioustheory/",
 			"/religioustheory/archive/",
@@ -35,12 +40,13 @@ eleventyExcludeFromCollections: true
 		"/religioustheory/pages/archive/",
 		"/religioustheory/pages/blog/",
 		"/religioustheory/posts/",
-		"/religioustheory/tags/",
-		"/religioustheory/taxonomy/"
+		"/religioustheory/tags/"
 	] -%}
+		{%- if path not in seen %}
 		<url>
 			<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
 			{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
 		</url>
+		{%- endif %}
 		{% endfor -%}
 	</urlset>

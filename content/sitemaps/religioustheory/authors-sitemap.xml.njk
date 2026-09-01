@@ -1,0 +1,33 @@
+---
+permalink: /religioustheory/authors-sitemap.xml
+layout: false
+eleventyExcludeFromCollections: true
+---
+{#- content/religioustheory/authors.njk paginates 152 author pages. Eleventy adds only the
+    FIRST page of a paginated template to collections.all, so the religioustheory sitemap's
+    sweep advertised exactly one arbitrary author and missed the other 151. Built directly
+    from tagIndex instead, the same way keywords/keywords-sitemap.xml.njk is. -#}
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
+	{# Author index page #}
+	<url>
+		<loc>{{ (baseUrl ~ "/religioustheory/authors/") | xmlEscape | safe }}</loc>
+		{% set idxLm = page.inputPath | lastModifiedDate %}
+		{% if idxLm %}<lastmod>{{ idxLm | htmlDateString }}</lastmod>{% endif %}
+	</url>
+
+	{% if not isLeanBuild %}
+		{# One URL per religioustheory author page #}
+		{%- for authorSlug in (tagIndex.authors.theory.list or []) %}
+			{%- set path = "/religioustheory/authors/" ~ authorSlug ~ "/" -%}
+		<url>
+			<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
+			{%- set authorPosts = tagIndex.authors.theory.map[authorSlug] or [] -%}
+			{%- set newest = authorPosts[0].date if authorPosts and authorPosts[0] else null -%}
+			{% if newest %}<lastmod>{{ newest | htmlDateString }}</lastmod>{% endif %}
+		</url>
+		{%- endfor %}
+	{% endif %}
+</urlset>

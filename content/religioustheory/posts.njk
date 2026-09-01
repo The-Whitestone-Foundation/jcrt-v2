@@ -15,13 +15,13 @@ permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page/{{ pag
 
       <div class="col-md-12 border-top mt-5">
         <div class="row">
-          {% for post in postlist %}
+          {%- for post in postlist %}
           <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
             <div class="img-zoom-container rounded-4 shadow-sm mb-3 collection-card-media">
               <a href="{{ post.url }}" title="{{ post.data.title }}">
-                {% set defaultCardImage = '/images/jcrt-open-graph.webp' %}
-                {% set currentImg = (post.data.image | ensureImage(defaultCardImage)) %}
-                {% set currentImgPreferred = (currentImg | preferWebp) %}
+                {%- set defaultCardImage = '/images/jcrt-open-graph.webp' -%}
+                {%- set currentImg = (post.data.image | ensureImage(defaultCardImage)) -%}
+                {%- set currentImgPreferred = (currentImg | preferWebp) -%}
                 <img class="img-post img-fluid collection-card-img"
                      alt="{{ post.data.title }}"
                      src="{{ currentImgPreferred }}"
@@ -40,14 +40,14 @@ permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page/{{ pag
             </h3>
             
             <div class="mb-2">
-              {% set postAuthorRaw = post.data.author or "Editors" %}
-              {% set postAuthorNames = postAuthorRaw | splitAuthors %}
+              {%- set postAuthorRaw = post.data.author or "Editors" -%}
+              {%- set postAuthorNames = postAuthorRaw | splitAuthors -%}
               <p class="text-muted x-small text-uppercase fw-bold mb-1 collection-card-meta">
                 {{ post.date | postDate if post.date else "Recently Published" }} 
                 — By 
                 <span class="text-primary">
                   {%- for aName in postAuthorNames -%}
-                    {% set authorObj = collections.authors | getAuthorObj(aName) %}
+                    {%- set authorObj = collections.authors | getAuthorObj(aName) -%}
                     {%- if (aName | lower) in ["editors", "editor"] -%}
                       <a href="/editors/" class="text-primary text-decoration-none hover-primary">{{ aName }}</a>
                     {%- elif authorObj and authorObj.url -%}
@@ -60,26 +60,26 @@ permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page/{{ pag
                 </span>
               </p>
 
-              {% if post.data.categories %}
+              {%- if post.data.categories %}
               <div class="d-flex flex-wrap gap-1 mb-2">
-                {% for cat in post.data.categories %}
-                {% if isLeanBuild %}
+                {%- for cat in post.data.categories %}
+                {%- if isLeanBuild %}
                 <span class="text-primary fw-bold x-small border-end pe-1 me-1 collection-card-meta">
                   {{ cat }}
                 </span>
-                {% else %}
+                {%- else %}
                 <a href="/religioustheory/categories/{{ cat | slugify }}/" 
                    class="text-primary fw-bold text-decoration-none x-small border-end pe-1 me-1 collection-card-meta">
                   {{ cat }}
                 </a>
-                {% endif %}
-                {% endfor %}
+                {%- endif -%}
+                {%- endfor -%}
               </div>
-              {% endif %}
+              {%- endif -%}
             </div>
 
             <p class="text-secondary small">
-              {% set postSummary = post.data.description or post.data.excerpt or post.data.abstract %}
+              {%- set postSummary = post.data.description or post.data.excerpt or post.data.abstract -%}
               {{ postSummary | truncate(160) if postSummary else "Explore this latest article from our religious theory archive..." }}
             </p>
 
@@ -89,39 +89,39 @@ permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page/{{ pag
               </a>
             </p>
           </div>
-          {% endfor %}
+          {%- endfor -%}
         </div>
 
-        {% set totalPages = pagination.pages.length %}
-        {% set currentPage = pagination.pageNumber + 1 %}
+        {%- set totalPages = pagination.pages.length -%}
+        {%- set currentPage = pagination.pageNumber + 1 -%}
 
-        {% if totalPages > 1 %}
+        {%- if totalPages > 1 %}
         <nav class="pagination-editorial border-top pt-5 mt-5 d-flex align-items-center justify-content-between px-md-5" role="navigation">
           <div class="d-flex align-items-center" style="flex: 1;">
-            {% if pagination.href.previous %}
+            {%- if pagination.href.previous %}
             <a href="{{ pagination.href.previous }}" class="btn-editorial-ghost me-3">← Newer</a>
-            {% else %}
+            {%- else %}
             <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
-            {% endif %}
+            {%- endif -%}
           </div>
 
           <div class="text-center d-none d-md-block" style="flex: 1;">
-            {% if pagination.href.previous and pagination.href.next %}
+            {%- if pagination.href.previous and pagination.href.next %}
             <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
-            {% endif %}
+            {%- endif -%}
           </div>
 
           <div class="text-end" style="flex: 1;">
-            {% if pagination.href.next %}
+            {%- if pagination.href.next %}
             <a href="{{ pagination.href.next }}" class="btn-editorial-ghost">Older →</a>
-            {% else %}
-            {% if pagination.href.previous %}
+            {%- else %}
+            {%- if pagination.href.previous %}
             <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
-            {% endif %}
-            {% endif %}
+            {%- endif -%}
+            {%- endif -%}
           </div>
         </nav>
-        {% endif %}
+        {%- endif -%}
       </div>
     </div>
   </div>

@@ -15,9 +15,9 @@ permalink: /religioustheory/authors/index.html
   </header>
 
   <div class="row g-4 mb-5">
-    {% for authorSlug in tagIndex.authors.theory.list %}
-      {% set authorName = tagIndex.authors.theory.names[authorSlug] or authorSlug %}
-      {% set postCount = tagIndex.authors.theory.counts[authorSlug] or 0 %}
+    {%- for authorSlug in tagIndex.authors.theory.list %}
+      {%- set authorName = tagIndex.authors.theory.names[authorSlug] or authorSlug -%}
+      {%- set postCount = tagIndex.authors.theory.counts[authorSlug] or 0 -%}
       <div class="col-md-4 col-6">
         <a href="/religioustheory/authors/{{ authorSlug }}/" class="text-decoration-none">
           <div class="card h-100 shadow-sm border-0 bg-light transition-all hover-shadow">
@@ -31,10 +31,10 @@ permalink: /religioustheory/authors/index.html
           </div>
         </a>
       </div>
-    {% else %}
+    {%- else %}
       <div class="col-12 text-center py-5">
         <p class="text-muted">No authors found.</p>
       </div>
-    {% endfor %}
+    {%- endfor %}
   </div>
 </article>

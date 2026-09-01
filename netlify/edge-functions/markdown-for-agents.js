@@ -101,6 +101,11 @@ function markdownResponseFrom(htmlResponse, markdown) {
 	headers.delete("accept-ranges");
 	headers.set("x-markdown-tokens", String(estimateTokens(markdown)));
 	appendVary(headers, "Accept");
+	// Cloudflare only varies its cache key on Accept-Encoding, so an HTML page and its
+	// Markdown twin share one key. `no-store` stops any shared cache keeping the Markdown
+	// variant and serving it to browsers. The `bypass-markdown-negotiation` Cache Rule in
+	// jcrt-meta/docs/cloudflare-cache.md is the primary guard; this is the origin-side backstop.
+	headers.set("cache-control", "private, no-store");
 	return new Response(markdown, { status: htmlResponse.status, headers });
 }
 

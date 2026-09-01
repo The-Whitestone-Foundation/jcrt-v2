@@ -10,7 +10,8 @@
     "dev": "cross-env QUICK_DEV=1 NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --incremental --port=4000",
     "clear": "rm -rf _site .cache",
     "build": "npm run build:netlify",
-    "build:netlify": "npm run nanoids:check && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && npm run sitemaps:check && npm run oai:validate:quick && npm run css:purge && npm run css:optimize && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
+    "build:netlify": "node scripts/build.mjs",
+    "build:serial": "npm run nanoids:check && npm run sitemaps:generate && npm run standard:check && rm -rf _site && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy --quiet && npm run sitemaps:check && npm run oai:validate:quick && npm run css:purge && npm run css:optimize && cross-env NODE_OPTIONS=--max-old-space-size=4096 node _config/run-pagefind.js",
     "changelog": "node scripts/update-changelog.mjs",
     "changelog:check": "node scripts/update-changelog.mjs --check",
     "nanoids:generate": "node scripts/generate-nanoids.mjs",
@@ -30,6 +31,7 @@
     "sequoia:records": "node scripts/apply-sequoia-records.mjs",
     "atproto:frontmatter": "node scripts/apply-atproto-frontmatter.mjs",
     "indexnow:submit": "node scripts/indexnow-submit.mjs",
+    "cf:purge": "node scripts/cloudflare-purge.mjs",
     "perf:benchmark": "cross-env SKIP_IMAGE_PROCESSING=1 DEBUG=Eleventy:*Benchmark* ELEVENTY_RUN_MODE=build eleventy"
   },
   "repository": {

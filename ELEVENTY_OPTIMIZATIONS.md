@@ -2,6 +2,98 @@
 
 Last verified: 2026-08-29 (against a real Netlify production deploy log)
 
+## 2026-09-01 pass
+
+`build:netlify` is now `node scripts/build.mjs` — one orchestrator instead of a serial `&&`
+chain of eight `npm run` spawns. Independent post-Eleventy steps overlap:
+
+```
+Phase A  nanoids:check ∥ standard:check  →  sitemaps:generate
+Phase B  eleventy
+Phase C  { css:purge → css:optimize } ∥ pagefind ∥ { sitemaps:check → oai:validate:quick }
+```
+
+Measured back-to-back on one workstation: **50.4s serial → 24.6s orchestrated**. The old
+chain is kept as `npm run build:serial` for comparison and fallback. Every step is still
+its own `npm run <name>`. Ordering constraints preserved: `sitemaps:generate` before
+Eleventy, `css:purge` before `css:optimize`, and `oai:validate:quick` alone in its group
+because `scripts/validate-oai-pmh.mjs` writes to the XML it validates.
+
+Two O(n·m) template scans removed, both now served by one `archiveArticlesByIssue`
+collection (`eleventy.config.js`, beside `archivesToc`):
+
+- `content/archives/index.njk` sorted all ~2,000 `collections.all` entries per issue per
+  page — 70 full sorts, ~1.8M operations — then filtered to ~12. The 14 listing pages
+  roughly halved (e.g. `/archives/7/` 191 KB → 98 KB).
+- `_includes/partials/archive_issue_toc.njk` scanned all 831 archive items on each of 68
+  issue pages (56,508 iterations for ~830 rows), rebuilding a twelve-statement sort key for
+  the ~820 it discarded. That key now lives in `archiveTocSortKey()` and runs once per
+  article. The 68 issue pages shed 421 KB.
+
+**This also fixed a real ordering bug.** `sort(…, 'data.articleNumber')` over
+`collections.all` compared ~1,967 entries that have no such property; `undefined` compares
+equal to every number, so the comparator was incoherent and V8 returned arbitrary order.
+Issue 25.2 listed article 05 first. All 67 issue blocks now sort correctly by
+`article_number`.
+
+`/archives/keywords/` split into A–Z letter pages (720 KB → 43 KB entry point) using
+`tagIndex.archiveKeywords.byLetter`, which already existed unused. `/authors/` was left as
+one page deliberately — it is a flat loop with no nested scan, and `collections.authors`
+carries `affiliation`/`organization` that `tagIndex.authors` does not.
+
+### Sitemap defects fixed in the same pass
+
+- `/sitemaps/sitemaps.xml` was a **completely empty sitemap index** that `robots.txt`
+  advertised to crawlers. `content/sitemaps/sitemaps.xml.njk:9` passed a *string* where a
+  regex literal belongs — `RegExp` built from `'/\/sitemaps\/…$/'` puts a literal `/` after
+  the `$` anchor and can never match — and its `<loc>` values were relative paths anyway.
+  Template and robots.txt line both removed; the working `/sitemap.xml` index remains.
+- **570 global tag pages appeared in no sitemap at all.** `content/tag-pages.njk` sets
+  `eleventyExcludeFromCollections`, so every `collections.all` sweep missed them. New
+  `content/sitemaps/tags-sitemap.xml.njk` builds from `tagIndex.globalTags.list`.
+- **151 of 152 religioustheory author pages were missing, and one arbitrary page leaked in.**
+  Eleventy adds only the *first* page of a paginated template to `collections.all`. New
+  `content/sitemaps/religioustheory/authors-sitemap.xml.njk`, and `sitemapIgnore: true` on
+  `authors.njk`, `category-pages.njk` and `tag-pages.njk` to stop the partial leak.
+- The root `<sitemapindex>` listed two RSS feeds and `/feed/twtxt.txt` as child sitemaps.
+  An index entry must resolve to a `<urlset>`; `ALWAYS_INCLUDE_FEEDS` and the hardcoded
+  philpapers entry are gone from `_data/sitemapIndex.js`.
+- `/folder-sitemap.xml` served **raw Nunjucks source** — front matter and `{% %}` tags as
+  XML. The source lacked a `.njk` extension so it was passthrough-copied verbatim, from two
+  places (`content/sitemaps/` and `public/`). Both deleted; nothing referenced it.
+- 22 duplicate `<loc>` values (12 in `/sitemaps/sitemap.xml`, 10 in
+  `/religioustheory/sitemap.xml`) — a `collections.all` sweep plus an unconditional
+  hardcoded canonical list. Both now carry a `seen` guard.
+- `/religioustheory/taxonomy/` renders `noindex` but was still listed. Removed.
+
+Verified after: **0 duplicate `<loc>` in any sitemap, 0 dead links across 7,757
+jcrt.org-hosted entries, 0 noindex pages advertised** (28 noindex pages exist; none is in a
+sitemap). Tag coverage 570/570, author coverage 152/152.
+
+One audit finding was **not** acted on. The `seen`-array dedup in
+`categories-tags-sitemap.xml.njk` was reported as provably dead because `tagIndex.*.list`
+is unique. It dedups on *slugified* URLs, though, and two distinct terms can slugify
+identically. No collisions exist today (checked all four domains), but it is a correctness
+guard costing ~193K trivial comparisons once per build. Kept.
+
+`scripts/check-sitemaps.mjs` still only validates the root index — 21 entries against
+~11,800 real `<loc>` values. It structurally could not have caught any defect above. Worth
+widening; not done here.
+
+### Forms detection: disabled 2026-09-01
+
+The 4m 08s Forms figure below was re-verified on 2026-09-01: **7,007 of 7,009** built pages
+contain a `<form>` (the `<noscript>` search form in `_includes/partials/sidebar.njk`), and
+**zero** carry `data-netlify`/`netlify-honeypot`.
+
+Form detection was switched off in the Netlify UI on 2026-09-01. The next production
+deploy log should show post-processing drop from ~4m 08s to near zero, taking total deploy
+time from ~5m 28s to roughly **1m 20s**. Confirm this on the next deploy — if the
+post-processing line is still minutes long, the setting did not take.
+
+Do not re-enable it. Nothing on this site is a Netlify form; the real forms post to
+Formspree.
+
 ## Read this first: the build was never the bottleneck
 
 Earlier revisions of this document optimized the Eleventy render. Measured against an actual

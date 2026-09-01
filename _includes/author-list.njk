@@ -9,9 +9,9 @@ layout: base.njk
     </header>
 
     <div class="jcrt-card-grid jcrt-card-grid--authors">
-      {% for a in collections.authors %}
-        {% set authorName = a.data.name or a.data.title %}
-        {% set authorThumb = (a.data.image | ensureImage('/images/jcrt.svg')) if a.data.image else ('/images/jcrt.svg') %}
+      {%- for a in collections.authors %}
+        {%- set authorName = a.data.name or a.data.title -%}
+        {%- set authorThumb = (a.data.image | ensureImage('/images/jcrt.svg')) if a.data.image else ('/images/jcrt.svg') -%}
         <article class="jcrt-card jcrt-author-card h-card">
           <a class="jcrt-card-media p-url" href="{{ a.url }}" title="{{ authorName }}">
             <img class="jcrt-card-image u-photo"
@@ -27,13 +27,13 @@ layout: base.njk
             <h2 class="jcrt-card-title">
               <a class="p-name p-url" href="{{ a.url }}">{{ authorName }}</a>
             </h2>
-            {% if a.data.affiliation or a.data.organization or a.data.description %}
+            {%- if a.data.affiliation or a.data.organization or a.data.description %}
               <p class="jcrt-card-excerpt">{{ a.data.affiliation or a.data.organization or a.data.description }}</p>
-            {% endif %}
+            {%- endif %}
             <a class="jcrt-card-action" href="{{ a.url }}">About {{ authorName }}</a>
           </div>
         </article>
-      {% endfor %}
+      {%- endfor %}
     </div>
   </section>
 </div>

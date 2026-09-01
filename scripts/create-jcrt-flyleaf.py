@@ -98,7 +98,9 @@ def build(args, assets: tuple[Path, Path] | None = None) -> None:
         pdf.setAuthor(", ".join(args.author))
         pdf.setSubject("Journal for Cultural and Religious Theory publication flyleaf")
 
+        pdf.addLiteral("/Artifact BMC")
         pdf.drawImage(ImageReader(jcrt_png), LEFT, top - 48, 48, 48, preserveAspectRatio=True, mask="auto")
+        pdf.addLiteral("EMC")
         pdf.setFont("JCRTSerif-Bold", 15)
         pdf.setFillColor(black)
         pdf.drawString(110, top - 30, "Journal for Cultural and Religious Theory")
@@ -145,9 +147,11 @@ def build(args, assets: tuple[Path, Path] | None = None) -> None:
 
         pdf.setStrokeColor(HexColor("#d2d2d2"))
         pdf.line(LEFT, 68, right, 68)
+        pdf.addLiteral("/Artifact BMC")
         pdf.drawImage(
             ImageReader(whitestone_png), LEFT, 20, 42, 42, preserveAspectRatio=True, anchor="c", mask="auto"
         )
+        pdf.addLiteral("EMC")
         pdf.setFillColor(black)
         pdf.setFont("JCRTSerif-Bold", 12)
         pdf.drawString(116, 50, "WHITESTONE PUBLICATIONS")

@@ -385,6 +385,26 @@ function archiveIssueSortKey(inputPath, url) {
 	return { major, minor, issue, url: url || "" };
 }
 
+// Table-of-contents sort key for one archive article. Ported verbatim from the twelve
+// `{% set %}` statements `_includes/partials/archive_issue_toc.njk` used to run on all 831
+// archive items for each of 68 issue pages. Behaviour must match exactly, including
+// `String.replace` with a string pattern replacing only the first occurrence.
+function archiveTocSortKey(data = {}) {
+	const volume = String(data.volume ?? "").trim();
+	const issue = String(data.issue ?? "").trim();
+	const article = String(data.article_number ?? "").trim();
+
+	const volumeKey = volume ? volume.padStart(2, "0") : "99";
+	const issueKey = issue ? issue.padStart(2, "0") : "99";
+	const articleKey = article ? article.padStart(2, "0") : "99";
+
+	const firstPage = String(data.pages ?? "").split("-")[0].trim();
+	const pagesNumber = firstPage.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim();
+	const fallbackKey = String(data.sort_id || pagesNumber || "999999").padStart(6, "0");
+
+	return volumeKey + issueKey + articleKey + fallbackKey;
+}
+
 // Favicons are served from files.jcrt.org — no local generation needed.
 
 function isPublishedItem(data = {}, runMode = process.env.ELEVENTY_RUN_MODE) {
@@ -971,6 +991,46 @@ export default async function (eleventyConfig) {
 		});
 
 		return items.map((x) => x.p);
+	});
+
+	// Articles bucketed by issue directory, so templates stop rescanning a whole collection
+	// once per issue. `content/archives/index.njk` used to sort all ~2,000 entries of
+	// collections.all per issue per page (~1.8M ops); `partials/archive_issue_toc.njk`
+	// scanned all 831 archive items on each of 68 issue pages, recomputing the sort key for
+	// the ~820 it then discarded.
+	//
+	// Keys match what both templates already derive: `./content/archives/<issue>/`.
+	// getFilteredByGlob preserves collections.all ordering, so a template that stable-sorts
+	// this bucket gets the same result as stable-sorting the full collection and filtering.
+	eleventyConfig.addCollection("archiveArticlesByIssue", function (collectionApi) {
+		const buckets = {};
+
+		for (const item of collectionApi.getFilteredByGlob("content/archives/**/*.md")) {
+			if (!isPublishedItem(item?.data)) continue;
+
+			const inputPath = String(item?.inputPath || "");
+			const lastSlash = inputPath.lastIndexOf("/");
+			if (lastSlash < 0) continue;
+			// Issue index pages are not articles; the templates excluded them inline.
+			if (inputPath.slice(lastSlash + 1) === "index.md") continue;
+
+			const dir = inputPath.slice(0, lastSlash + 1);
+			(buckets[dir] ||= { articles: [], toc: [] }).articles.push(item);
+		}
+
+		// Two orders, because the two callers sort differently and the rendered output must
+		// not shift. `articles` keeps collections.all order for `archives/index.njk`, which
+		// applies its own `sort(…, 'data.articleNumber')`. `toc` is pre-sorted by the key
+		// `archive_issue_toc.njk` used to rebuild per entry -- Nunjucks' sort compares with
+		// `<`/`>` and is stable, so this matches it exactly.
+		for (const bucket of Object.values(buckets)) {
+			bucket.toc = bucket.articles
+				.map((entry) => ({ entry, key: archiveTocSortKey(entry.data) }))
+				.sort((a, b) => (a.key < b.key ? -1 : a.key > b.key ? 1 : 0))
+				.map((x) => x.entry);
+		}
+
+		return buckets;
 	});
 
 	eleventyConfig.addCollection("blog", function (collectionApi) {
