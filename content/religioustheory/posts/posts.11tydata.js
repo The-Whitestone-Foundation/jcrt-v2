@@ -1,9 +1,12 @@
+import { isCcBy } from "../../../_config/license.js";
+
 export default {
 	tags: [
 		"theoryPosts"
 	],
 	"layout": "archive-post.njk",
 	eleventyComputed: {
+		ccBy: (data) => isCcBy(data, data.date),
 		// Set `pdf: <filename>.pdf` in a post's front matter to surface a download button.
 		// Unlike archives — which derive the folder from filePathStem — theory PDFs live in
 		// a flat /religioustheory/ directory on files.jcrt.org, not under /posts/.

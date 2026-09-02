@@ -2352,6 +2352,14 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
     box-shadow: 0 0 0 0.2rem rgba(232, 62, 140, 0.15);
 }
 
+/* Measure-limited variant used by the submissions form, which sits at the foot of a
+   long prose page. 70ch keeps the field labels on the same reading measure as the
+   copy above it; max-width stops it overflowing below ~640px. */
+.jcrt-contact-card--measure {
+    width: 70ch;
+    max-width: 100%;
+}
+
 .jcrt-contact-meta {
     letter-spacing: 0.08em;
     font-size: 0.75rem;

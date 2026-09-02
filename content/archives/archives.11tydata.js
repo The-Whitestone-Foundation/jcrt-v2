@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import * as yaml from "js-yaml";
+import { isCcBy } from "../../_config/license.js";
 
 const issueMetaCache = new Map();
 
@@ -97,6 +98,7 @@ export default {
     pdfUrl: (data) => {
       return archivePdfUrl(data);
     },
+    ccBy: (data) => data?.page?.fileSlug !== "index" && isCcBy(data, data.date),
     risCitationUrl: (data) => {
       const slug = data.page.fileSlug;
       if (!slug || slug === "index") return null;

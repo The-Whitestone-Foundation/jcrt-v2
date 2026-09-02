@@ -144,7 +144,13 @@
 <meta property="dc:publisher" content="Whitestone Publications" />
 <meta property="dc:language" content="en" />
 <meta property="dc:format" content="text/html" />
+{% if ccBy %}
+<meta property="dc:rights" content="© the author(s). Licensed under {{ metadata.license.long_name }} ({{ metadata.license.url }}). Authors retain copyright." />
+<meta property="dc:license" content="{{ metadata.license.url }}" />
+<link rel="license" href="{{ metadata.license.url }}" />
+{% else %}
 <meta property="dc:rights" content="Copyright © held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/" />
+{% endif %}
 <style>
   /* Critical-first paint styles for mobile hero/header before full CSS is loaded. */
   html, body { margin: 0; padding: 0; }

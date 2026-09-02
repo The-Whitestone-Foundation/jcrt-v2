@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import { isCcBy } from "../_config/license.js";
 import path from "node:path";
 import * as yaml from "js-yaml";
 import { controlledSubjects } from "../_config/subjects.js";
@@ -192,6 +193,7 @@ export default function dataciteArchives() {
 			pdfUrl,
 			jatsPath: `/sitemaps/archive/${issueSlug}/${slug}.xml`,
 			dateIssued,
+			ccBy: isCcBy(data, dateIssued),
 			description,
 			keywords,
 			subjects,
@@ -227,6 +229,7 @@ export default function dataciteArchives() {
 			pageUrl,
 			pdfUrl: "",
 			dateIssued,
+			ccBy: isCcBy(data, dateIssued),
 			description: String(data.description || data.abstract || "").trim(),
 			keywords: [...splitKeywords(data.categories), ...splitKeywords(data.tags)].filter((value) => value !== "theoryPosts"),
 			subjects: controlledSubjects(data.subjects),

@@ -108,6 +108,9 @@
           {% if displayDate %}
             <span class="dt-published"><i class="bi bi-calendar3"></i> {{ displayDate | postDate }}</span>
           {% endif %}
+          {# Optional front matter `submitted:` / `accepted:` (DOAJ best practice: show all three dates). #}
+          {% if submitted %}<span class="small text-secondary">Received {{ submitted | postDate }}</span>{% endif %}
+          {% if accepted %}<span class="small text-secondary">Accepted {{ accepted | postDate }}</span>{% endif %}
           {# pdfLabel is set by content/religioustheory/posts/posts.11tydata.js so a book
              review does not advertise itself as an article. Archives leave it unset. #}
           {% set downloadLabel = pdfLabel | default("Article", true) %}
@@ -132,6 +135,17 @@
           {% endif %}
         </div>
       </header>
+
+      {% if not isIssueIndex %}
+      <p class="jcrt-license small text-secondary">
+        {% if ccBy %}
+          <a href="{{ metadata.license.url }}" rel="license" target="_blank" title="{{ metadata.license.long_name }}"><img src="/images/cc-by.svg" alt="{{ metadata.license.name }}" width="88" height="31" loading="lazy" style="vertical-align:middle"></a>
+          © {% if displayDate %}{{ (displayDate | isoDate).slice(0, 4) }} {% endif %}the author(s). This work is licensed under a <a href="{{ metadata.license.url }}" rel="license">{{ metadata.license.long_name }}</a> license. Authors retain copyright.
+        {% else %}
+          © the author(s). Free to read; see the <a href="/copyright/">copyright notice</a> for reuse terms.
+        {% endif %}
+      </p>
+      {% endif %}
 
       {% if abstract %}
       <section class="jcrt-abstract">

@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import { isCcBy, rightsText } from "../_config/license.js";
 import path from "node:path";
 import * as yaml from "js-yaml";
 import { subjectLabels } from "../_config/subjects.js";
@@ -22,8 +23,6 @@ const PUBLISHER_DOAJ = "Whitestone Publications";
 const PUBLISHER_OAI = "Whitestone Publications";
 const JOURNAL_TITLE_DOAJ = "The Journal for Cultural and Religious Theory";
 const JOURNAL_TITLE_OAI = "Journal for Cultural & Religious Theory";
-const RIGHTS_TEXT =
-  "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/";
 const DOAJ_SKIP_SLUGS = new Set(["index", "author-bios", "table-of-contents", "abstracts", "bios"]);
 const OAI_SKIP_SLUGS = new Set(["author-bios", "abstracts"]);
 // ponytail: metadata heuristic; set `philpapers: true` or `false` in front matter for edge cases.
@@ -207,6 +206,7 @@ function readArchiveEntries() {
       canonicalUrl,
       canonicalFormat,
       published,
+      ccBy: isCcBy(data, dateStr),
       sitemapIgnore,
       section: "archives",
       philpapers: data.philpapers,
@@ -229,6 +229,8 @@ function readTheoryEntries() {
     const directory = path.basename(path.dirname(filePath));
     const pagePath = String(data.permalink || "").startsWith("/") ? data.permalink : `/religioustheory/${directory}/${slug}/`;
     const pageUrl = `${BASE_URL}${pagePath}`;
+    const pdfFile = String(data.pdf || "").trim();
+    const pdfUrl = pdfFile ? `${FILES_URL}/religioustheory/${pdfFile}` : "";
     return [{
       issue: "religioustheory",
       slug,
@@ -242,12 +244,13 @@ function readTheoryEntries() {
       sp: "",
       ep: "",
       dateStr,
-      pdfFile: "",
+      ccBy: isCcBy(data, dateStr),
+      pdfFile,
       citationStem: "",
       pageUrl,
-      pdfUrl: "",
-      canonicalUrl: pageUrl,
-      canonicalFormat: "text/html",
+      pdfUrl,
+      canonicalUrl: pdfUrl || pageUrl,
+      canonicalFormat: pdfUrl ? "application/pdf" : "text/html",
       published: data.published !== false && !data.draft,
       sitemapIgnore: !!data.sitemapIgnore,
       section: "religioustheory",
@@ -346,7 +349,7 @@ function generateOai(entries) {
         {
           issn: ISSN_DASH,
           publisher: PUBLISHER_OAI,
-          rights: RIGHTS_TEXT,
+          rights: rightsText(e.ccBy, (e.dateStr || "").slice(0, 4)),
           sourceTitle: `${JOURNAL_TITLE_OAI}, ISSN ${ISSN_DASH}`,
         }
       );

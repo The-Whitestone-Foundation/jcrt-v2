@@ -25,6 +25,18 @@ standard_site:
   url: "https://jcrt.org"
   description: "Journal for Cultural and Religious Theory (JCRT), a Whitestone Foundation publication"
 publisher: "Whitestone Publications"
+# Open license applied to archive articles dated on/after `since` (ISO date, compared as a
+# string against the article's date). Articles before it stay "free to read, © author(s)"
+# unless their front matter sets `license: cc-by`. `since_label` is the human-readable form.
+license:
+  name: "CC BY 4.0"
+  long_name: "Creative Commons Attribution 4.0 International"
+  url: "https://creativecommons.org/licenses/by/4.0/"
+  since: "2026-08-24"
+  since_label: "August 24, 2026"
+# Shown on /about/ under Ownership and management. Leave empty until the board confirms.
+publisher_address: ""
+contact_person: ""
 knowledge_graph:
   organization_id: "https://jcrt.org/#organization"
   website_id: "https://jcrt.org/#website"
@@ -78,7 +90,7 @@ sidebar:
         url: /about/
       - nav: Contact
         url: /contact/
-      - nav: Editors
+      - nav: Editorial Board
         url: /editors/
       - nav: Home
         url: /
@@ -86,6 +98,10 @@ sidebar:
         url: /archives/
       - nav: News
         url: /blog/
+      - nav: Open Access
+        url: /open-access/
+      - nav: Peer Review
+        url: /peer-review/
       - nav: Religious Theory
         url: /religioustheory/
       - nav: Search
@@ -122,7 +138,7 @@ sidebar_footer:
   text: "<a href='https://www.11ty.dev/' target='_blank'>Built with Eleventy</a> | Design: <a href='https://html5up.net/' target='_blank'>HTML5 UP</a> | Maintained by <a href='https://adamdjbrett.com' target='_blank'>Adam DJ Brett</a>"
 
 site_footer:
-  text: '<a href="https://jcrt.org" target="_blank">The Journal for Cultural and Religious Theory (JCRT)</a> is an online, peer-reviewed, academic publication published by <a href="http://thewhitestonefoundation.org/">The Whitestone Foundation</a>, a 501c3 corporation located in Boulder, Colorado. ISSN 1530-5228. Indexed by <a href="https://www.ebsco.com/">EBSCO</a>. Listed with <a href="https://duotrope.com/magazine/journal-cultural-religious-theory-20464?ref=lst-7vbKB-7r3u0g8&pc=L-7VBKB" target="_blank">Duotrope</a>. Copyright © The Whitestone Foundation dba The Journal for Cultural and Religious Theory'
+  text: '<a href="https://jcrt.org" target="_blank">The Journal for Cultural and Religious Theory (JCRT)</a> is an online, peer-reviewed, academic publication published by <a href="http://thewhitestonefoundation.org/">The Whitestone Foundation</a>, a 501c3 corporation located in Boulder, Colorado. ISSN 1530-5228. Articles are open access under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> license; authors retain copyright. Indexed by <a href="https://www.ebsco.com/">EBSCO</a>. Listed with <a href="https://duotrope.com/magazine/journal-cultural-religious-theory-20464?ref=lst-7vbKB-7r3u0g8&pc=L-7VBKB" target="_blank">Duotrope</a>. Website © The Whitestone Foundation dba The Journal for Cultural and Religious Theory'
   year_start: 1999
   link1: JCRT
   url1: https://jcrt.org/

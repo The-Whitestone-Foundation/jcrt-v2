@@ -65,10 +65,10 @@ function normalizeAssetUrl(raw, filesUrl) {
 	return `${filesUrl}${value}`;
 }
 
-function normalizePdfUrl(issueSlug, rawPdf, filesUrl) {
+function normalizePdfUrl(directory, rawPdf, filesUrl) {
 	const value = String(rawPdf || "").trim();
 	if (!value) return "";
-	return `${filesUrl}/archives/${issueSlug}/${value}`;
+	return `${filesUrl}/${directory}/${value}`;
 }
 
 export default function filesAssetIndex() {
@@ -102,11 +102,15 @@ export default function filesAssetIndex() {
 			imagesMap.set(imageUrl, { loc: imageUrl, lastmod });
 		}
 
-		const rel = path.relative(path.join(CONTENT_DIR, "archives"), filePath);
+		const rel = path.relative(CONTENT_DIR, filePath);
 		const relParts = rel.split(path.sep);
-		if (relParts.length >= 2 && relParts[0].includes(".")) {
-			const issueSlug = relParts[0];
-			const pdfUrl = normalizePdfUrl(issueSlug, data.pdf, filesUrl);
+		const pdfDirectory = relParts[0] === "archives" && relParts[1]?.includes(".")
+			? `archives/${relParts[1]}`
+			: relParts[0] === "religioustheory" && relParts[1] === "posts"
+				? "religioustheory"
+				: "";
+		if (pdfDirectory) {
+			const pdfUrl = normalizePdfUrl(pdfDirectory, data.pdf, filesUrl);
 			if (pdfUrl.toLowerCase().endsWith(".pdf")) {
 				pdfsMap.set(pdfUrl, { loc: pdfUrl, lastmod });
 			}

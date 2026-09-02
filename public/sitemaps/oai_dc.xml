@@ -3,7 +3,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-09-01T15:39:15.538Z</responseDate>
+  <responseDate>2026-09-02T18:18:57.014Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -46811,11 +46811,12 @@
           <dc:publisher>Whitestone Publications</dc:publisher>
           <dc:date>2026-08-18</dc:date>
           <dc:type>article</dc:type>
-          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
-          <dc:identifier>https://jcrt.org/religioustheory/posts/9780593493205/</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/religioustheory/9780593493205.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/religioustheory/9780593493205.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -46858,7 +46859,7 @@
           <dc:source>Vol. 25, No. 2, pp. 154-169</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/alikhani.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -46902,7 +46903,7 @@
           <dc:source>Vol. 25, No. 2, pp. 170-187</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/cheung.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -46949,7 +46950,7 @@
           <dc:source>Vol. 25, No. 2, pp. 188-201</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/gilbert.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -46993,7 +46994,7 @@
           <dc:source>Vol. 25, No. 2, pp. 202-223</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/hall.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -47039,7 +47040,7 @@
           <dc:source>Vol. 25, No. 2, pp. 224-238</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/lockhart.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -47083,7 +47084,7 @@
           <dc:source>Vol. 25, No. 2, pp. 239-247</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/raschke.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -47132,7 +47133,7 @@
           <dc:source>Vol. 25, No. 2, pp. 248-265</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/shane.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -47178,7 +47179,7 @@
           <dc:source>Vol. 25, No. 2, pp. 266-280</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/spencer.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -47222,7 +47223,7 @@
           <dc:source>Vol. 25, No. 2, pp. 281-299</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/valentini.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -47271,7 +47272,7 @@
           <dc:source>Vol. 25, No. 2, pp. 300-311</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/bell.pdf</dc:relation>
-          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>
     </record>

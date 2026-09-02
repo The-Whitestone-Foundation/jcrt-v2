@@ -82,7 +82,7 @@ ${publicationDate(record)}
       <volume>${xml(record.volume)}</volume>
       <issue>${xml(record.issue)}</issue>
 ${pageElements(record.pages)}
-      <permissions><copyright-statement>Copyright held by the author(s). All rights reserved.</copyright-statement></permissions>
+      <permissions><copyright-statement>Copyright held by the author(s).</copyright-statement>${record.ccBy ? `<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/"><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License.</license-p></license>` : ""}</permissions>
       <self-uri content-type="html" xlink:href="${xml(record.pageUrl)}"/>${pdfLink}${abstract}${keywordGroup}
       <custom-meta-group>
         <custom-meta><meta-name>PMC deposit status</meta-name><meta-value>Not deposit ready: metadata only; complete article text and submission assets are required.</meta-value></custom-meta>

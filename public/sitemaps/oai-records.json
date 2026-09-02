@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:39:15.561Z",
+  "generatedAt": "2026-09-02T18:18:57.039Z",
   "baseURL": "https://jcrt.org/oai",
   "metadataPrefix": "oai_dc",
   "repositoryName": "Journal for Cultural and Religious Theory",
@@ -36120,7 +36120,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/alikhani.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:bell",
@@ -36170,7 +36170,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/bell.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:cheung",
@@ -36217,7 +36217,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/cheung.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:gilbert",
@@ -36267,7 +36267,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/gilbert.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:hall",
@@ -36314,7 +36314,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/hall.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:lockhart",
@@ -36363,7 +36363,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/lockhart.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:raschke",
@@ -36410,7 +36410,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/raschke.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:shane",
@@ -36462,7 +36462,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/shane.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:spencer",
@@ -36509,7 +36509,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/spencer.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:archives:25.2:valentini",
@@ -36556,7 +36556,7 @@
       "relations": [
         "https://files.jcrt.org/archives/25.2/valentini.pdf"
       ],
-      "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:religioustheory:3288",
@@ -36695,16 +36695,18 @@
       "publisher": "Whitestone Publications",
       "date": "2026-08-18",
       "type": "article",
-      "format": "text/html",
+      "format": "application/pdf",
       "language": "en",
       "identifiers": [
         "1530-5228",
-        "https://jcrt.org/religioustheory/posts/9780593493205/"
+        "https://files.jcrt.org/religioustheory/9780593493205.pdf"
       ],
       "sources": [
         "Journal for Cultural & Religious Theory, ISSN 1530-5228"
       ],
-      "relations": [],
+      "relations": [
+        "https://files.jcrt.org/religioustheory/9780593493205.pdf"
+      ],
       "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
     },
     {

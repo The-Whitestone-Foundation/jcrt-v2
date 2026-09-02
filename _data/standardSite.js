@@ -226,7 +226,7 @@ function blogDocuments(publicationSite) {
 		.filter(Boolean);
 }
 
-function theoryDocuments(publicationSite) {
+function theoryDocuments(publicationSite, filesUrl) {
 	return ["posts", "live"].flatMap((directory) =>
 		walkMarkdown(path.join(CONTENT_DIR, "religioustheory", directory)).map((filePath) => {
 			const slug = path.basename(filePath, ".md");
@@ -242,6 +242,7 @@ function theoryDocuments(publicationSite) {
 				updatedAt: normalizeDate(data.updated || data.modified || data.lastmod),
 				tags: normalizeTags([...(normalizeTags(data.categories)), ...(normalizeTags(data.tags))]),
 				textContent: markdownToPlainText(body),
+				pdfUrl: String(data.pdf || "").trim() ? `${filesUrl}/religioustheory/${String(data.pdf).trim()}` : "",
 			});
 		}),
 	).filter(Boolean);
@@ -297,7 +298,7 @@ function buildStandardSite() {
 		...archiveDocuments(publicationSite, filesUrl),
 		...authorDocuments(publicationSite),
 		...blogDocuments(publicationSite),
-		...theoryDocuments(publicationSite),
+		...theoryDocuments(publicationSite, filesUrl),
 	]
 		.filter((record) => record.publishedAt)
 		.sort(byPathThenDate);

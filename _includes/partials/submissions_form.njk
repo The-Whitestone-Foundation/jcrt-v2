@@ -7,12 +7,12 @@
    Formspree requires enctype="multipart/form-data" for any form carrying a file input. #}
 {% set formspreeSubmissionsId = formspree_submissions_id or metadata.formspree.submissions_id %}
 
-<div class="p-4 p-md-5 shadow-sm jcrt-contact-card my-4">
+<div class="p-4 p-md-5 shadow-sm jcrt-contact-card jcrt-contact-card--measure my-4">
   <p class="text-uppercase fw-bold text-primary mb-2 jcrt-contact-meta">Submit Your Work</p>
   <h2 class="serif fw-bold mb-3">Article Submission</h2>
   <p class="text-secondary mb-4">
-    Send a 500-word abstract and your curriculum vitae. Please read the Submission Checklist below
-    before submitting. You may also email <a href="mailto:carl.raschke@jcrt.org?subject=JCRT%20Submission">carl.raschke@jcrt.org</a> directly.
+    Send a 500-word abstract and your curriculum vitae. Please read the Submission Checklist above
+    before submitting. You may also email <a href="mailto:editor@jcrt.org?subject=JCRT%20Submission">editor@jcrt.org</a> directly.
   </p>
 
   <form
@@ -78,7 +78,7 @@
     <div class="col-12">
       <p class="small text-secondary mb-0">
         Attachments must total less than 30&nbsp;MB. For anything larger, email
-        <a href="mailto:carl.raschke@jcrt.org?subject=JCRT%20Submission">carl.raschke@jcrt.org</a> with a file-sharing link.
+        <a href="mailto:editor@jcrt.org?subject=JCRT%20Submission">editor@jcrt.org</a> with a file-sharing link.
       </p>
       <div id="sub-upload-error" class="alert alert-danger mt-3 d-none" role="alert" aria-live="polite"></div>
     </div>
