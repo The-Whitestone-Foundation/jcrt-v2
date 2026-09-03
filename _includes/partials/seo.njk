@@ -181,16 +181,6 @@
 {% set versionedAssetSuffix = "?v=" ~ assetVersion %}
 <link href="/css/bs.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
 <style>
-  /* Type scale mirrored from public/css/font.css, which loads async just below.
-     Bootstrap sets `body { font-size: 1rem }` and `h1 { font-size: calc(1.375rem + 1.5vw) }`,
-     so without this the first paint uses Bootstrap's sizing and the entire page reflows the
-     moment font.css arrives — a visible flash on every navigation. font.css downloads no
-     webfonts; it defines the typography, which is why a 1.4 KB async file could move the
-     whole layout.
-
-     Two constraints: this block must stay AFTER the bs.css link to win the cascade (equal
-     specificity, later wins), and it must stay in sync with public/css/font.css. Rule order
-     mirrors font.css exactly, including `html, body, p` overriding the 22px above it. */
   body, input, select, textarea { font-size: 22px; line-height: 1.65; }
   h1, h2, h3, h4, h5, h6 { line-height: 1.5; margin: 0 0 1em 0; }
   h1 { font-size: 4em; line-height: 1.3; margin: 0 0 0.5em 0; }

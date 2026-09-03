@@ -353,8 +353,6 @@ h1.navbar-brand a:focus .text-secondary,
     margin-top: 1rem;
 }
 
-/* Sub-menu row for static pages — an action row fenced by rules above and
-   below, rendered from _data/submenu.yml by partials/submenu_row.njk. */
 .jcrt-submenu {
     margin-bottom: 1.5rem;
 }
@@ -369,9 +367,6 @@ h1.navbar-brand a:focus .text-secondary,
 }
 
 .jcrt-action-row--submenu {
-    /* Baseline, not center: the 0.75rem uppercase group label and the 0.95rem links have
-       different box heights, and centering them left the label floating off the line the
-       links sit on. Scoped to this row so the archive meta row's buttons keep centering. */
     align-items: baseline;
     margin: 0.6rem 0;
     row-gap: 0.35rem;
@@ -396,19 +391,14 @@ a.jcrt-submenu-link:focus-visible {
     border-bottom-color: currentColor;
 }
 
-/* Current page: black against the row's #4A4A4A grey. No bold and no accent colour —
-   a weight change reflows the line and made the item look lifted off the row. */
 .jcrt-submenu-link[aria-current="page"] {
     color: #000;
 }
 
-/* Other groups fold into native disclosures sitting in the same row. */
 .jcrt-submenu-details {
     position: relative;
 }
 
-/* Red marks the groups you are not in, so the row reads as: black = this page,
-   grey = its siblings, red = the other sections. */
 .jcrt-submenu-details > summary {
     cursor: pointer;
     list-style: none;
@@ -429,13 +419,11 @@ a.jcrt-submenu-link:focus-visible {
     content: "\25B4";
 }
 
-/* The summary is already red, so hover has to signal with something other than colour. */
 .jcrt-submenu-details > summary:hover,
 .jcrt-submenu-details > summary:focus-visible {
     text-decoration: underline;
 }
 
-/* Absolutely positioned so opening a group cannot reflow the row it sits in. */
 .jcrt-submenu-panel {
     position: absolute;
     top: calc(100% + 0.5rem);

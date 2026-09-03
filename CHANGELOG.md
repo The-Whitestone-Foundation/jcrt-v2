@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.14] — 2026-09-03
+edit: social posting upgrade
+- Notes: edit: social posting upgrade.
+
 ## [00.04.13] — 2026-09-03
 Update archive_article.njk
 - Notes: Update archive_article.njk.
