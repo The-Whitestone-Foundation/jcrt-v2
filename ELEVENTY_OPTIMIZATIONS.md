@@ -2,6 +2,63 @@
 
 Last verified: 2026-08-29 (against a real Netlify production deploy log)
 
+## 2026-09-03 pass — template size, and a negative result on render speed
+
+### The render is 8.5s, and the DEBUG benchmark numbers are not it
+
+`npm run perf:benchmark` reported a 16.65s render with `Render` at 4,252 ms / 26%. The same
+build without `DEBUG=Eleventy:*Benchmark*` takes **8.5s**. The instrumentation roughly
+doubles the render, and it inflates the render-tree lines specifically — so the profile
+points at exactly the thing the profiler is charging for. Use `perf:benchmark` to find
+*which* operations are hot relative to each other; never quote its totals as build time.
+
+Measured on one workstation, `SKIP_IMAGE_PROCESSING=1`, 7,889 files, minimum of 4 runs
+(the median is unusable — background load produced 30s outliers):
+
+| Variant | Render |
+| --- | ---: |
+| Baseline | 8.50s |
+| Static `<head>` extracted, memoized shortcode | 8.01s |
+| Static `<head>` extracted, plain `{% include %}` | 8.30s |
+
+That spread is ~5% at best and is not separable from noise on this machine. **Hoisting
+static markup out of a per-page partial does not measurably speed up Eleventy.** Nunjucks
+compiles literal text to string appends; the cost was never the markup.
+
+Two more structural measurements, both negative:
+
+- Deleting `content/archives/keywords/tag-pages.njk` drops 3,626 pages and takes the render
+  from 8.5s to **6.3s** — 0.63 ms per taxonomy page. The 4,759 `size: 1` taxonomy pages
+  cost ~3s combined. Roughly 5s of the render is fixed cost (filesystem walk, global data,
+  collections) that no template change touches.
+- Filters are ~800 ms in total across 250,000 calls. `postDate` (208 ms / 5,254 calls) is
+  the most expensive per call; nothing here is worth memoizing.
+
+Conclusion, consistent with the 2026-08-29 deploy-log finding: **the Eleventy render has no
+remaining lever worth pulling.** It is ~8.5s of a deploy that is dominated elsewhere. Do not
+optimize it further without a deploy log showing otherwise.
+
+### What was changed anyway (size, not speed)
+
+- Deleted three templates that nothing references: `_includes/archives-index.njk`,
+  `_includes/postslist.njk`, `_includes/partials/content.njk` (99 lines). The `postslist`
+  matches elsewhere are a local variable in `content/tag-pages.njk`, not the template.
+- `_includes/partials/seo.njk` 470 → 360 lines. The build-invariant part of the `<head>` —
+  verification and fediverse meta, `og:site_name`, the favicon set, the deferred-manifest
+  script, the site-wide `alternate`/`sitemap` links, `language`/`locale`/`generator`, the
+  Dublin Core base triple, both `<style>` blocks, the preconnect and the versioned CSS links
+  — moved to `_includes/partials/head_static.njk`, rendered once by the memoized `headStatic`
+  shortcode in `eleventy.config.js`. Same contract as the `sidebar` shortcode above it: if
+  you add a per-page variable to that partial, every page gets stale markup.
+
+  Verified safe: with the partial in place, all 7,889 output files are present and **7,046
+  of 7,046 differing HTML files have an identical multiset of lines** — the change is a pure
+  reordering of the `<head>`, with zero content difference.
+
+  The real win is browser-side, not build-side: `/css/bs.css` and the critical `<style>`
+  blocks now sit at the top of the `<head>` instead of ~6 KB in, so the preload scanner
+  finds them sooner.
+
 ## 2026-09-01 pass
 
 `build:netlify` is now `node scripts/build.mjs` — one orchestrator instead of a serial `&&`

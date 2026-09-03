@@ -3,7 +3,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-09-02T18:18:57.014Z</responseDate>
+  <responseDate>2026-09-03T17:43:56.303Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -47272,6 +47272,54 @@
           <dc:source>Vol. 25, No. 2, pp. 300-311</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/25.2/bell.pdf</dc:relation>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:religioustheory:9781481324250</identifier>
+        <datestamp>2026-09-03</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Book Review: American Empire, American Faith: Conquest, Christianity, and the Shaping of a Nation</dc:title>
+          <dc:creator>Kev Grane</dc:creator>
+          <dc:subject>Religious Studies</dc:subject>
+          <dc:subject>American Christian Nationalism</dc:subject>
+          <dc:subject>Manifest Destiny</dc:subject>
+          <dc:subject>American History</dc:subject>
+          <dc:subject>Book-Review</dc:subject>
+          <dc:subject>Reviews</dc:subject>
+          <dc:subject>American Religion</dc:subject>
+          <dc:subject>Political Theology</dc:subject>
+          <dc:subject>Postcolonial Theory</dc:subject>
+          <dc:subject>empire</dc:subject>
+          <dc:subject>christianity</dc:subject>
+          <dc:subject>settler-colonialism</dc:subject>
+          <dc:subject>nationalism</dc:subject>
+          <dc:subject>united-states</dc:subject>
+          <dc:subject>history</dc:subject>
+          <dc:subject>Book reviews</dc:subject>
+          <dc:subject>Christianity and politics</dc:subject>
+          <dc:subject>Colonization</dc:subject>
+          <dc:subject>Imperialism</dc:subject>
+          <dc:subject>Political theology</dc:subject>
+          <dc:subject>Religion and politics</dc:subject>
+          <dc:subject>United States</dc:subject>
+          <dc:description>Kev Grane reviews Philip Jenkins’s American Empire, American Faith, which reframes U.S. empire as a religious and moral order in which Christianity authorized, normalized, and contested imperial power.</dc:description>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2026-09-03</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/religioustheory/9781481324250.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/religioustheory/9781481324250.pdf</dc:relation>
           <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>

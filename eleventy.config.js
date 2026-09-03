@@ -654,6 +654,23 @@ export default async function (eleventyConfig) {
 		return memoizedSidebar;
 	});
 
+	// Same contract as `sidebar` above: `partials/head_static.njk` holds the part of the
+	// <head> that is constant for a whole build (favicons, site-wide alternate/sitemap
+	// links, the critical + typography <style> blocks and the versioned CSS links). It was
+	// ~105 of seo.njk's 470 lines, re-evaluated on all ~7,000 pages. If you add a per-page
+	// variable to that partial, this memoization will serve stale markup to every page.
+	let memoizedHeadStatic = null;
+	eleventyConfig.addShortcode("headStatic", function () {
+		if (memoizedHeadStatic !== null) return memoizedHeadStatic;
+		if (!this.env || typeof this.env.render !== "function") {
+			throw new Error(
+				"headStatic shortcode: Nunjucks environment unavailable; cannot render partials/head_static.njk"
+			);
+		}
+		memoizedHeadStatic = this.env.render("partials/head_static.njk", this.ctx);
+		return memoizedHeadStatic;
+	});
+
 	eleventyConfig.addShortcode("button", (label, href, variant = "primary") => {
 		const safeLabel = escapeHtmlAttr(label);
 		const safeHref = escapeHtmlAttr(href);

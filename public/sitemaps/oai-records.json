@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:18:57.039Z",
+  "generatedAt": "2026-09-03T17:43:56.327Z",
   "baseURL": "https://jcrt.org/oai",
   "metadataPrefix": "oai_dc",
   "repositoryName": "Journal for Cultural and Religious Theory",
@@ -36708,6 +36708,55 @@
         "https://files.jcrt.org/religioustheory/9780593493205.pdf"
       ],
       "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:religioustheory:9781481324250",
+      "datestamp": "2026-09-03",
+      "title": "Book Review: American Empire, American Faith: Conquest, Christianity, and the Shaping of a Nation",
+      "creators": [
+        "Kev Grane"
+      ],
+      "subjects": [
+        "Religious Studies",
+        "American Christian Nationalism",
+        "Manifest Destiny",
+        "American History",
+        "Book-Review",
+        "Reviews",
+        "American Religion",
+        "Political Theology",
+        "Postcolonial Theory",
+        "empire",
+        "christianity",
+        "settler-colonialism",
+        "nationalism",
+        "united-states",
+        "history",
+        "Book reviews",
+        "Christianity and politics",
+        "Colonization",
+        "Imperialism",
+        "Political theology",
+        "Religion and politics",
+        "United States"
+      ],
+      "description": "Kev Grane reviews Philip Jenkins’s American Empire, American Faith, which reframes U.S. empire as a religious and moral order in which Christianity authorized, normalized, and contested imperial power.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-09-03",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/religioustheory/9781481324250.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228"
+      ],
+      "relations": [
+        "https://files.jcrt.org/religioustheory/9781481324250.pdf"
+      ],
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:religioustheory:a-preface-to-the-genealogy-of-neoliberalism-part-1-carl-raschke",

@@ -4,7 +4,7 @@
  * Replaces the serial `&&` chain that `build:netlify` used to be. Two savings:
  * independent post-Eleventy steps now overlap, and ~8 `npm run` process spawns are gone.
  *
- *   Phase A   nanoids:check ∥ standard:check      (read-only validators)
+ *   Phase A   nanoids:check ∥ standard:check ∥ cms:check   (read-only validators)
  *             then sitemaps:generate              (must precede Eleventy: _data/sitemapIndex.js
  *                                                  and the public/ passthrough read its output)
  *   Phase B   eleventy
@@ -34,6 +34,7 @@ const ELEVENTY_ENV = {
 const STEPS = {
 	"nanoids:check": ["node", ["scripts/generate-nanoids.mjs", "--check"], {}],
 	"standard:check": ["node", ["scripts/check-standard-site.mjs"], {}],
+	"cms:check": ["node", ["scripts/check-cms-fields.mjs"], {}],
 	"sitemaps:generate": ["node", ["scripts/generate-local-sitemaps.mjs"], {}],
 	eleventy: [path.join(BIN, "eleventy"), ["--quiet"], ELEVENTY_ENV],
 	"sitemaps:check": ["node", ["scripts/check-sitemaps.mjs"], {}],
@@ -88,7 +89,7 @@ async function main() {
 	const wallStart = Date.now();
 
 	// Phase A -- validators are read-only and independent of each other.
-	await Promise.all([run("nanoids:check"), run("standard:check")]);
+	await Promise.all([run("nanoids:check"), run("standard:check"), run("cms:check")]);
 	// Ordering constraint: Eleventy reads what this writes.
 	await run("sitemaps:generate");
 

@@ -1,3 +1,17 @@
+# Decap CMS configuration for jcrt.org.
+#
+# IMPORTANT — Decap writes back ONLY the fields declared here. Any front matter key
+# that is missing from a collection's `fields` is silently DELETED the first time an
+# editor saves that entry. Every key that occurs anywhere in the corpus is therefore
+# declared below, even the ones nobody should hand-edit; those use `widget: hidden`,
+# which round-trips the existing value without showing it in the UI.
+#
+# Machine-owned fields kept as `hidden`:
+#   nanoid   — scripts/generate-nanoids.mjs (permanent once committed)
+#   atproto  — scripts/apply-atproto-frontmatter.mjs (Standard.site AT URIs)
+#   subjects — FAST / Homosaurus authority records, curated outside the CMS
+#   affilation — legacy misspelling still present in 674 archive files and still read
+#                by _includes/post.njk and partials/archive_article.njk
 backend:
   name: git-gateway
   repo: The-Whitestone-Foundation/jcrt-v2
@@ -19,6 +33,7 @@ collections:
         label: "Homepage Content"
         name: "homepage"
         fields:
+          - {label: "Nanoid", name: "nanoid", widget: "hidden"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "home.njk"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Description", name: "description", widget: "text" ,required: false}
@@ -50,6 +65,7 @@ collections:
                 fields:
                   - {label: "Text", name: "text", widget: "string"}
                   - {label: "URL", name: "url", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: "blogIndex"
     label: "Blog Index"
@@ -60,16 +76,20 @@ collections:
         label: "Blog Listing Page"
         name: "blog_index"
         fields:
+          - {label: "Nanoid", name: "nanoid", widget: "hidden"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "blog.njk"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Description", name: "description", widget: "text" , required: false  }
+          - {label: "Permalink", name: "permalink", widget: "hidden"}
+          - {label: "Test Data (unused)", name: "testdata", widget: "hidden"}
           - label: "Pagination Settings"
             name: "pagination"
             widget: "object"
             collapsed: true
             fields:
+              - {label: "Data Source", name: "data", widget: "string", default: "collections.blog", hint: "Eleventy collection name. Changing this changes what the blog index lists."}
               - {label: "Page Size", name: "size", widget: "number", value_type: "int", default: 6}
-              - {label: "Reverse Order", name: "reverse", widget: "boolean", default: true}
+              - {label: "Reverse Order", name: "reverse", widget: "boolean", required: false, default: true}
           - {label: "Body Content (Optional)", name: "body", widget: "markdown", required: false}
 
   - name: "authors_profile"
@@ -80,9 +100,15 @@ collections:
     editor:
       preview: false
     slug: "{{name}}"
+    summary: "{{name}} — {{affiliation}}"
+    sortable_fields: ["name", "affiliation"]
     fields:
+      - {label: "Nanoid", name: "nanoid", widget: "hidden"}
+      - {label: "AT Protocol URI", name: "atproto", widget: "hidden"}
       - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
+      - {label: "Key (slug override)", name: "key", widget: "string", hint: "Only set when the author URL must differ from the name slug.", required: false}
       - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation.",required: false}
+      - {label: "ORCID", name: "orcid", widget: "string", hint: "Full URL, e.g. https://orcid.org/0000-0002-1825-0097", required: false}
       - {label: "Biography", name: "bio", widget: "text", hint: "Bio." ,required: false}
       - label: "Social Links"
         name: "social"
@@ -93,6 +119,8 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fa-solid fa-envelope"}
           - {label: "URL", name: "url", widget: "string",required: false}
+      - {label: "Same As (authority URIs)", name: "sameAs", widget: "list", required: false, hint: "ISNI, VIAF, Wikidata… one URI per entry. Emitted into schema.org Person."}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: "posts"
     label: "Blog Posts"
@@ -101,14 +129,39 @@ collections:
     editor:
       preview: false
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["date", "title"]
     fields:
+      - {label: "Nanoid", name: "nanoid", widget: "hidden"}
+      - {label: "AT Protocol URI", name: "atproto", widget: "hidden"}
+      - {label: "Redirect From (legacy)", name: "redirect_from", widget: "hidden"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text", hint: "A short summary of the post.", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime",required: false}
-      - {label: "Tags", name: "tags", widget: "list", field: {label: "Tag", name: "tag", widget: "string"} , required: false}
       - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "DOI", name: "doi", widget: "string", required: false, hint: "Bare DOI, e.g. 10.17613/abcde-12345"}
+      - {label: "Featured Image", name: "image", widget: "string", required: false, hint: "Full files.jcrt.org URL or a /images/… path."}
+      - {label: "Thumbnail", name: "thumbnail", widget: "string", required: false, hint: "Full files.jcrt.org URL or a /images/… path."}
+      - {label: "Show Table of Contents", name: "toc", widget: "boolean", required: false, default: false}
+      - {label: "Published", name: "published", widget: "boolean", required: false, default: true, hint: "Uncheck to keep the post out of the build."}
+      - label: "Social Links"
+        name: "social"
+        widget: "list"
+        required: false
+        collapsed: true
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Icon (Font Awesome)", name: "icon", widget: "string"}
+          - {label: "URL", name: "url", widget: "string"}
+      - label: "Buttons"
+        name: "button"
+        widget: "list"
+        required: false
+        collapsed: true
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "url", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown",required: false}
-
 
   - name: "pages"
     label: "Static Pages"
@@ -118,10 +171,13 @@ collections:
       preview: false
     slug: "{{slug}}"
     fields:
+      - {label: "Nanoid", name: "nanoid", widget: "hidden"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text",required: false}
       - {label: "Permalink", name: "permalink", widget: "string", hint: "Example: /about/",required: false}
+      - {label: "Exclude from collections", name: "eleventyExcludeFromCollections", widget: "boolean", required: false, default: false, hint: "Keeps the page out of collections.all (used by 404.md)."}
       - {label: "Body", name: "body", widget: "markdown",required: false}
+
   - name: "archives"
     label: "Archives"
     folder: "content/archives"
@@ -140,23 +196,120 @@ collections:
         field: "volume"
       - label: "Issue"
         field: "issue"
-    sortable_fields: ["volume", "issue", "article_number"]
+    sortable_fields: ["volume", "issue", "article_number", "year", "title"]
     fields:
+      - {label: "Nanoid", name: "nanoid", widget: "hidden"}
+      - {label: "AT Protocol URI", name: "atproto", widget: "hidden"}
+      - {label: "Subjects (FAST / Homosaurus)", name: "subjects", widget: "hidden"}
+      - {label: "Affilation (legacy misspelling)", name: "affilation", widget: "hidden"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "archives.njk"}
       - {label: "Article Number", name: "article_number", widget: "string", hint: "Use 01, 02,"}
       - {label: "Volume", name: "volume", widget: "string", hint: "Eg: 24"}
       - {label: "Issue", name: "issue", widget: "string", hint: "Eg: 1"}
+      - {label: "Pages", name: "pages", widget: "string", required: false, hint: "Eg: 154-169. Drives citation_firstpage / prism.startingPage."}
+      - {label: "Year", name: "year", widget: "number", value_type: "int", required: false, hint: "Falls back to the issue index.njk when blank."}
+      - label: "Season"
+        name: "season"
+        widget: "select"
+        required: false
+        options: ["winter", "spring", "summer", "fall"]
+        hint: "Falls back to the issue index.njk when blank."
+      - {label: "Sort ID", name: "sort_id", widget: "number", value_type: "int", required: false, hint: "Tie-breaker for the issue table of contents."}
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        required: false
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
+      - label: "Last Modified"
+        name: "modified"
+        widget: "datetime"
+        required: false
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation" ,required: false}
+      - {label: "DOI", name: "doi", widget: "string", required: false, hint: "Bare DOI, e.g. 10.17613/0bkat-x3c78"}
+      - {label: "Description", name: "description", widget: "text", required: false, hint: "Used for meta description and listing cards."}
       - {label: "Abstract", name: "abstract", widget: "text", required: false}
-      - {label: "PDF File", name: "pdf", widget: "file", hint: "PDF file",required: false}
+      - {label: "Keywords", name: "keywords", widget: "list", required: false, hint: "Slug form, e.g. political-theology. Drives /archives/keywords/."}
+      - {label: "Tags", name: "tags", widget: "list", required: false, hint: "Eleventy collection tags. 'archives' is added automatically."}
+      - {label: "PDF File Name", name: "pdf", widget: "string", required: false, hint: "Bare file name only, e.g. crockett.pdf — resolved against files.jcrt.org/archives/<issue>/."}
+      - {label: "Canonical is the HTML page", name: "html_canonical", widget: "boolean", required: false, default: false, hint: "Leave off to canonicalise to the PDF."}
+      - {label: "Published", name: "published", widget: "boolean", required: false, default: true, hint: "Uncheck to keep the article out of the build."}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+
+  - name: "religioustheory_posts"
+    label: "Religious Theory — Posts"
+    folder: "content/religioustheory/posts"
+    create: true
+    editor:
+      preview: false
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - {label: "Nanoid", name: "nanoid", widget: "hidden"}
+      - {label: "AT Protocol URI", name: "atproto", widget: "hidden"}
+      - {label: "Subjects (FAST / Homosaurus)", name: "subjects", widget: "hidden"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Slug", name: "slug", widget: "string", required: false, hint: "Legacy WordPress id or slug. Leave alone on existing posts — URLs depend on it."}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Only set to override the default /religioustheory/posts/<slug>/."}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false, hint: "Keep 'theoryPosts' — the collection is built from it."}
+      - {label: "Keywords", name: "keywords", widget: "list", required: false}
+      - {label: "Featured Image", name: "image", widget: "string", required: false}
+      - {label: "DOI", name: "doi", widget: "string", required: false}
+      - {label: "PDF File Name", name: "pdf", widget: "string", required: false}
+      - {label: "Affiliation", name: "affiliation", widget: "string", required: false}
+      - {label: "Abstract", name: "abstract", widget: "text", required: false}
+      - {label: "Show Table of Contents", name: "toc", widget: "boolean", required: false, default: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+  - name: "religioustheory_live"
+    label: "Religious Theory — Live Archive"
+    folder: "content/religioustheory/live"
+    create: false
+    editor:
+      preview: false
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - {label: "Nanoid", name: "nanoid", widget: "hidden"}
+      - {label: "AT Protocol URI", name: "atproto", widget: "hidden"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        required: false
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Slug", name: "slug", widget: "string", required: false, hint: "URLs depend on it — do not change on existing entries."}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
   - name: "metadata"
     label: "Metadata"
     editor:
       preview: false
     files:
+      # NOTE: saving this file through the CMS rewrites _data/metadata.yaml and drops the
+      # explanatory comments that live in it. Every key is declared so no *data* is lost.
       - file: "_data/metadata.yaml"
         label: "Site Metadata"
         name: "site_metadata"
@@ -166,11 +319,66 @@ collections:
         - {label: "Image", name: "image", widget: "image"}
         - {label: "Language", name: "language", widget: "string"}
         - {label: "Locale", name: "locale", widget: "string"}
+        - {label: "Timezone", name: "timezone", widget: "string", hint: "IANA zone, e.g. America/New_York"}
         - {label: "Favicon", name: "favicon", widget: "image"}
         - {label: "URL", name: "url", widget: "string"}
+        - {label: "Files / CDN URL", name: "files_url", widget: "string", hint: "e.g. https://files.jcrt.org"}
+        - {label: "Publisher", name: "publisher", widget: "string"}
+        - {label: "Publisher Address", name: "publisher_address", widget: "string", required: false}
+        - {label: "Contact Person", name: "contact_person", widget: "string", required: false}
+        - label: "Formspree Form IDs"
+          name: "formspree"
+          widget: "object"
+          collapsed: true
+          fields:
+            - {label: "Submissions", name: "submissions_id", widget: "string"}
+            - {label: "Contact", name: "contact_id", widget: "string"}
+            - {label: "Newsletter", name: "newsletter_id", widget: "string"}
+        - label: "Standard.site"
+          name: "standard_site"
+          widget: "object"
+          collapsed: true
+          fields:
+            - {label: "Enabled", name: "enabled", widget: "boolean", default: true}
+            - {label: "Handle", name: "handle", widget: "string"}
+            - {label: "DID", name: "did", widget: "string"}
+            - {label: "Profile URL", name: "profile", widget: "string"}
+            - {label: "Publication AT URI", name: "publication_at_uri", widget: "string"}
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "URL", name: "url", widget: "string"}
+            - {label: "Description", name: "description", widget: "text"}
+        - label: "License"
+          name: "license"
+          widget: "object"
+          collapsed: true
+          fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Long Name", name: "long_name", widget: "string"}
+            - {label: "URL", name: "url", widget: "string"}
+            - {label: "Applies since (ISO date)", name: "since", widget: "string", hint: "Articles dated on/after this are CC BY."}
+            - {label: "Applies since (label)", name: "since_label", widget: "string"}
+        - label: "Knowledge Graph"
+          name: "knowledge_graph"
+          widget: "object"
+          collapsed: true
+          fields:
+            - {label: "Organization ID", name: "organization_id", widget: "string"}
+            - {label: "Website ID", name: "website_id", widget: "string"}
+            - {label: "Primary Type", name: "primary_type", widget: "string"}
+            - {label: "Publisher ID", name: "publisher_id", widget: "string"}
+            - {label: "Same As", name: "same_as", widget: "list"}
+        - label: "Homepage Archive Section"
+          name: "homepage_archive"
+          widget: "object"
+          collapsed: true
+          fields:
+            - {label: "Active Tag", name: "active_tag", widget: "string", hint: "Issue key, e.g. 24.1"}
+            - {label: "Section Title", name: "section_title", widget: "string"}
+            - {label: "Max Items", name: "max_items", widget: "number", value_type: "int"}
         - label: "Metasocial"
           name: "metasocial"
-          widget: "list"
+          widget: "object"
+          collapsed: true
           fields:
             - {label: "Facebook", name: "facebook", widget: "string", required: false}
             - {label: "Twitter User", name: "twitteruser", widget: "string", required: false}
@@ -178,6 +386,7 @@ collections:
         - label: "Navbar"
           name: "navbar"
           widget: "object"
+          collapsed: true
           fields:
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Sub Title", name: "sub_title", widget: "string"}
@@ -191,6 +400,7 @@ collections:
         - label: "Sidebar"
           name: "sidebar"
           widget: "object"
+          collapsed: true
           fields:
             - label: "Menu"
               name: "menu"
@@ -207,14 +417,20 @@ collections:
               name: "info"
               widget: "object"
               fields:
-                - {label: "Title", name: "title", widget: "string"}
-                - label: "List Items"
-                  name: "list"
+                - label: "Sections"
+                  name: "sections"
                   widget: "list"
+                  collapsed: true
+                  summary: "{{fields.title}}"
                   fields:
-                    - {label: "Image", name: "image", widget: "image"}
-                    - {label: "Text", name: "text", widget: "text"}
-                    - {label: "URL", name: "url", widget: "string"}
+                    - {label: "Title", name: "title", widget: "string"}
+                    - label: "List Items"
+                      name: "list"
+                      widget: "list"
+                      fields:
+                        - {label: "Image", name: "image", widget: "image"}
+                        - {label: "Text", name: "text", widget: "text"}
+                        - {label: "URL", name: "url", widget: "string"}
                 - label: "Button"
                   name: "button"
                   widget: "object"
@@ -234,20 +450,38 @@ collections:
                     - {label: "Title", name: "title", widget: "string"}
                     - {label: "Icon (Font Awesome)", name: "icon", widget: "string"}
                     - {label: "URL", name: "url", widget: "string"}
-        - label: "Footer"
-          name: "footer"
+        - label: "Sidebar Footer"
+          name: "sidebar_footer"
           widget: "object"
+          collapsed: true
           fields:
-            - {label: "Text", name: "text", widget: "string"}
-            
+            - {label: "Text (HTML allowed)", name: "text", widget: "text"}
+        - label: "Site Footer"
+          name: "site_footer"
+          widget: "object"
+          collapsed: true
+          fields:
+            - {label: "Text (HTML allowed)", name: "text", widget: "text"}
+            - {label: "Year Start", name: "year_start", widget: "number", value_type: "int"}
+            - {label: "Link 1 Label", name: "link1", widget: "string"}
+            - {label: "Link 1 URL", name: "url1", widget: "string"}
+            - {label: "Link 2 Label", name: "link2", widget: "string"}
+            - {label: "Link 2 URL", name: "url2", widget: "string"}
+            - {label: "Link 3 Label", name: "link3", widget: "string"}
+            - {label: "Link 3 URL", name: "url3", widget: "string"}
+            - {label: "Link 4 Label", name: "link4", widget: "string"}
+            - {label: "Link 4 URL", name: "url4", widget: "string"}
+            - {label: "Link 5 Label", name: "link5", widget: "string"}
+            - {label: "Link 5 URL", name: "url5", widget: "string"}
         - label: "Theory Dir"
           name: "site"
           widget: "object"
+          collapsed: true
           fields:
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Description", name: "description", widget: "text"}
             - {label: "URL", name: "url", widget: "string"}
-            - {label: "Authors", name: "authors", widget: "string"}
+            - {label: "Authors", name: "author", widget: "string"}
             - {label: "Alert", name: "alert", widget: "markdown"}
         - {label: "Github User API Religious Theory", name: "github_user", widget: "string"}
         - {label: "Github Repo API Religious Theory", name: "github_repo", widget: "string"}

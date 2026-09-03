@@ -19,6 +19,7 @@
     "sitemaps:generate": "node scripts/generate-local-sitemaps.mjs",
     "sitemaps:check": "node scripts/check-sitemaps.mjs",
     "standard:check": "node scripts/check-standard-site.mjs",
+    "cms:check": "node scripts/check-cms-fields.mjs",
     "oai:validate:quick": "cross-env OAI_VALIDATE_LEVEL=quick node scripts/validate-oai-pmh.mjs",
     "css:purge": "purgecss --css _site/css/bs.css --content \"_site/**/*.html\" --output _site/css/ --safelist show showing collapsing collapse modal-backdrop fade offcanvas-backdrop",
     "css:optimize": "node scripts/optimize-css.mjs",

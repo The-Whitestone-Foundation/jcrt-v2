@@ -43,13 +43,11 @@
 {% set modifiedDate = modifiedDateRaw | isoDate if modifiedDateRaw else publishedDate %}
 
 <title>{{ fullTitle }}</title>
-<meta name="google-site-verification" content="33E9a_M2MWSVam1d-zfE3tZccePntrgR1LKqc8Csoww" />
-<meta name="fediverse:creator" content="@jcrt@mastodon.social">
+{% headStatic %}
 <meta content="{{ fullTitle }}" property="og:title" />
 <meta content="{{ fullTitle }}" property="dc:title" />
 <meta content="{{ fullTitle }}" name="twitter:title" />
 <meta content="{{ fullTitle }}" name="title" />
-<meta content="{{ metadata.title }}" property="og:site_name" />
 <meta content="{{ pageDesc }}" name="description" />
 <meta content="{{ pageDesc }}" property="facebook:description" />
 <meta content="{{ pageDesc }}" property="og:description" />
@@ -60,38 +58,6 @@
 <meta content="{{ pageImage }}" property="og:image" />
 <meta content="{{ fullTitle }}" property="og:image:alt" />
 <meta content="{{ canonicalUrl }}" property="og:url" />
-<link rel="icon" type="image/x-icon" href="/favicon.ico" />
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23bf232e' d='M0 0h256v256H0zm256 256h256v256H256z'/%3E%3Cpath d='M256 0h256v256H256zM0 256h256v256H0z'/%3E%3C/svg%3E" sizes="any" />
-{# Icons are served from this origin, not files.jcrt.org. `public/images/logos/**` is
-   exempted from the binary-asset ignore rules in .gitignore precisely so these ship in
-   the deploy and survive a CDN outage. #}
-<link rel="icon" type="image/webp" href="/images/logos/favicon-96x96.webp" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/images/logos/favicon.svg" />
-<link rel="apple-touch-icon" sizes="180x180" href="/images/logos/apple-touch-icon.webp" />
-<meta name="apple-mobile-web-app-title" content="{{ metadata.title }}" />
-<script>
-(() => {
-  const addManifest = () => {
-    if (document.querySelector('link[rel="manifest"]')) return;
-    const link = document.createElement("link");
-    link.rel = "manifest";
-    link.href = "/images/logos/site.webmanifest";
-    document.head.appendChild(link);
-  };
-  const schedule = () => {
-    if ("requestIdleCallback" in window) {
-      window.requestIdleCallback(addManifest, { timeout: 3000 });
-    } else {
-      setTimeout(addManifest, 1500);
-    }
-  };
-  if (document.readyState === "complete") schedule();
-  else window.addEventListener("load", schedule, { once: true });
-})();
-</script>
-<meta content="{{ metadata.metasocial.facebook }}" property="facebook:author" />
-<meta content="{{ metadata.metasocial.twitteruser }}" property="twitter:author" />
 <meta property="dc:creator" content="{{ authorName }}" />
 {% for aName in (authorName | splitAuthors) %}
 <meta name="author" content="{{ aName }}" />
@@ -103,7 +69,6 @@
 <meta property="article:published_time" content="{{ publishedDate }}" />
 <meta property="article:modified_time" content="{{ modifiedDate }}" />
 {% endif %}
-<meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta property="og:type" content="{{ "article" if (isArchivesArticlePage or isBlogPost) else "website" }}" />
 <meta content="{{ robotsDirective }}" name="robots">
 <link rel="canonical" href="{{ canonicalUrl }}" />
@@ -127,23 +92,6 @@
 {% if isAcademic %}
 <link rel="alternate" type="application/xml" title="{{ pageTitle }} (JATS 1.4 metadata; not PMC full text)" href="{{ jatsMetadataUrl }}" />
 {% endif %}
-<link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="{{ metadata.url }}/feed/feed.xml" />
-<link rel="alternate" type="application/rss+xml" title="{{ metadata.title }}" href="{{ metadata.url }}/feed/feed.rss" />
-<link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} PhilPapers RSS" href="{{ metadata.url }}/feed/philpapers.xml" />
-<link rel="sitemap" type="application/xml" title="{{ metadata.title }} Sitemap" href="{{ metadata.url }}/sitemap.xml" />
-<link rel="alternate" type="application/xml" title="{{ metadata.title }} DOAJ Archives XML" href="{{ metadata.url }}/sitemaps/doaj-archives.xml" />
-<link rel="alternate" type="text/xml" title="{{ metadata.title }} OAI-PMH" href="{{ metadata.url }}/oai" />
-<link rel="alternate" type="application/xml" title="{{ metadata.title }} DataCite XML" href="{{ metadata.url }}/sitemaps/datacite.xml" />
-<link rel="alternate" type="application/xml" title="{{ metadata.title }} JATS Metadata Sitemap" href="{{ metadata.url }}/sitemaps/jats-sitemap.xml" />
-<meta name="language" content="{{ metadata.language }}" />
-<meta name="locale" content="{{ metadata.locale }}" />
-<meta property="og:locale" content="{{ metadata.locale }}" />
-<meta name="generator" content="{{ eleventy.generator }}" />
-<meta name="site-generator" content="{{ eleventy.generator }}" />
-{# ── Dublin Core base (all pages) ── #}
-<meta property="dc:publisher" content="Whitestone Publications" />
-<meta property="dc:language" content="en" />
-<meta property="dc:format" content="text/html" />
 {% if ccBy %}
 <meta property="dc:rights" content="© the author(s). Licensed under {{ metadata.license.long_name }} ({{ metadata.license.url }}). Authors retain copyright." />
 <meta property="dc:license" content="{{ metadata.license.url }}" />
@@ -151,64 +99,6 @@
 {% else %}
 <meta property="dc:rights" content="Copyright © held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/" />
 {% endif %}
-<style>
-  /* Critical-first paint styles for mobile hero/header before full CSS is loaded. */
-  html, body { margin: 0; padding: 0; }
-  body { font-family: var(--jcrt-slab-stack, Rockwell, "Roboto Slab", serif); color: #111; background: #fff; }
-  #content-wrapper { min-height: 100vh; }
-  .hero-title { margin: 0 0 .4rem; line-height: 1.2; }
-  .btn-primary { background: #b42318; color: #fff; border: 1px solid #b42318; }
-  img { max-width: 100%; height: auto; }
-
-  /* Sidebar closed state: index.css is async, so without this the menu paints in flow then snaps away. */
-  :root { --sidebar-width: 26em; }
-  @media (max-width: 800px) { :root { --sidebar-width: 280px; } }
-  #sidebar-container {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: calc(var(--sidebar-width) * -1);
-    width: var(--sidebar-width);
-    height: 100vh;
-    z-index: 1020;
-  }
-  .menu-toggle-editorial { background: #000; color: #fff; border: none; padding: 0; display: flex; align-items: center; justify-content: center; }
-</style>
-{# Every content image, favicon, og:image and the homepage LCP hero are served from
-   files.jcrt.org, so warm the connection before the first image request. #}
-<link rel="preconnect" href="{{ metadata.files_url }}" crossorigin>
-<link rel="dns-prefetch" href="{{ metadata.files_url }}">
-{% set versionedAssetSuffix = "?v=" ~ assetVersion %}
-<link href="/css/bs.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
-<style>
-  body, input, select, textarea { font-size: 22px; line-height: 1.65; }
-  h1, h2, h3, h4, h5, h6 { line-height: 1.5; margin: 0 0 1em 0; }
-  h1 { font-size: 4em; line-height: 1.3; margin: 0 0 0.5em 0; }
-  h2 { font-size: 1.85em; }
-  h3, .navbar-brand { font-size: 1.45em; }
-  h4 { font-size: 1.1em; }
-  h5 { font-size: 0.9em; }
-  h6 { font-size: 0.7em; }
-  h1.navbar-brand { margin: 0; line-height: inherit; }
-  header p { font-size: 1.3em; letter-spacing: 0.075em; margin-top: -0.5em; text-transform: uppercase; }
-  html, body, p { font-size: 18px; }
-  @media screen and (max-width: 1680px) {
-    body, input, select, textarea { font-size: 11pt; }
-    h1 { font-size: 3.5em; }
-  }
-  @media screen and (max-width: 1280px) { body, input, select, textarea { font-size: 10pt; } }
-  @media screen and (max-width: 736px) {
-    h1 { font-size: 2em; line-height: 1.4; }
-    h2 { font-size: 1.5em; }
-  }
-  @media screen and (max-width: 360px) { body, input, select, textarea { font-size: 9pt; } }
-</style>
-<link rel="preload" href="/css/index.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="preload" href="/css/font.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript>
-  <link href="/css/index.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
-  <link href="/css/font.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
-</noscript>
 
 {% set pageSchemaType = "ScholarlyArticle" if isArchivesArticlePage else ("Blog" if isBlogHome else ("BlogPosting" if isBlogPost else "WebPage")) %}
 {% set schemaAuthors = authorName | splitAuthors %}
