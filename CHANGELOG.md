@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.17] — 2026-09-03
+seo v2
+- Notes: seo v2.
+
 ## [00.04.16] — 2026-09-03
 opimization
 - Notes: opimization.
