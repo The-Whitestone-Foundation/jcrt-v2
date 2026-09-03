@@ -145,6 +145,32 @@ export default function(eleventyConfig) {
 
     eleventyConfig.addFilter("getKeys", target => (target ? Object.keys(target) : []));
 
+    // Resolves the _data/submenu.yml group for a page: the group whose `items`
+    // contains this page's URL, or `groupKey` when front matter forces one.
+    // Returns null when nothing matches, which is what keeps the sub-menu row
+    // off /archives/ articles and blog posts (they share the post.njk layout).
+    eleventyConfig.addFilter("submenuFor", (submenu, pageUrl, groupKey) => {
+        if (!submenu || typeof submenu !== "object") return null;
+        // Normalize so "/about" and "/about/" match the same item.
+        const norm = (u) => `/${String(u || "").replace(/^\/+|\/+$/g, "")}/`;
+        const here = norm(pageUrl);
+        const decorate = (key, group) => {
+            const items = (group?.items || []).filter((i) => i && i.url && i.title);
+            if (!items.length) return null;
+            return {
+                key,
+                label: group.label || "",
+                items: items.map((i) => ({ ...i, isCurrent: norm(i.url) === here })),
+            };
+        };
+        if (groupKey) return decorate(groupKey, submenu[groupKey]);
+        for (const [key, group] of Object.entries(submenu)) {
+            const resolved = decorate(key, group);
+            if (resolved && resolved.items.some((i) => i.isCurrent)) return resolved;
+        }
+        return null;
+    });
+
     const filterTagList = (tags) => {
         const excluded = new Set(["all", "posts", "authors", "nav", "theoryposts", "archives"]);
         const seen = new Set();

@@ -4,6 +4,7 @@ layout: base.njk
 <div class="jcrt-frame jcrt-frame--post">
   {% include "partials/nav_desktop.njk" %}
   <article class="jcrt-article jcrt-article--post">
+    {% include "partials/submenu_row.njk" %}
     <header class="jcrt-article-header">
       {% if date %}<p class="jcrt-article-meta dt-published">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
       <h1 class="jcrt-article-title p-name">{{ title }}</h1>

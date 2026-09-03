@@ -1,0 +1,32 @@
+# Sub-menu navigation for the static pages in content/pages/.
+#
+# Each top-level key is a group. A page renders the group whose `items` list
+# contains its own URL — no front matter needed. A page can force a specific
+# group with `submenu_key: <key>` in its front matter.
+#
+# URLs must match the page's `permalink:` exactly (trailing slash optional).
+# A page that appears in no group renders no row at all, which is what keeps
+# this off /archives/ articles and blog posts.
+
+about:
+  label: "About the Journal"
+  items:
+    - { title: "About", url: "/about/" }
+    - { title: "Editorial Board", url: "/editors/" }
+    - { title: "Peer Review", url: "/peer-review/" }
+    - { title: "Publishing Ethics", url: "/ethics/" }
+
+policies:
+  label: "Policies"
+  items:
+    - { title: "Open Access", url: "/open-access/" }
+    - { title: "Copyright & Licensing", url: "/copyright/" }
+    - { title: "Digital Archiving", url: "/archiving/" }
+    - { title: "Publication Fees", url: "/fees/" }
+
+participate:
+  label: "Participate"
+  items:
+    - { title: "Submissions", url: "/submissions/" }
+    - { title: "Contact", url: "/contact/" }
+    - { title: "Subscribe", url: "/subscribe/" }

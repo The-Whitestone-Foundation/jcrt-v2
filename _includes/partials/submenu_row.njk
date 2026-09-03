@@ -1,0 +1,20 @@
+{# Sub-menu navigation row for content/pages/, driven by _data/submenu.yml.
+   Renders nothing when the current page belongs to no group, so the shared
+   post.njk layout stays clean on /archives/ articles and blog posts. #}
+{% set submenuGroup = submenu | submenuFor(page.url, submenu_key) %}
+{% if submenuGroup %}
+  <nav class="jcrt-submenu" aria-label="{{ submenuGroup.label or 'Section navigation' }}" data-pagefind-ignore>
+    <hr />
+    <div class="jcrt-action-row jcrt-action-row--meta jcrt-action-row--submenu">
+      {% if submenuGroup.label %}<span class="jcrt-submenu-label">{{ submenuGroup.label }}</span>{% endif %}
+      {%- for item in submenuGroup.items %}
+        {% if item.isCurrent %}
+          <span class="jcrt-submenu-link" aria-current="page">{{ item.title }}</span>
+        {% else %}
+          <a class="jcrt-submenu-link" href="{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
+      {%- endfor %}
+    </div>
+    <hr />
+  </nav>
+{% endif %}

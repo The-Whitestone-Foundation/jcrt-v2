@@ -622,7 +622,7 @@ export default async function (eleventyConfig) {
 	}
 
 	// Pagefind runs once in `npm run build` (after `_site` is built).
-	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+	eleventyConfig.addDataExtension("yaml,yml", (contents) => yaml.load(contents));
 	// Assets (docs, PDFs, citations) are served via files.jcrt.org
 	// through Netlify 200-proxy rules in public/_redirects.
 	// Copy the entire public/ tree (including favicon.ico, .well-known, sitemaps, etc.)
@@ -958,6 +958,30 @@ export default async function (eleventyConfig) {
 	      return !isRootIndex && isFile && hasTag;
 	    });
 	});
+
+	// Homepage "Recent News" strip: blog posts and Religious Theory posts interleaved,
+	// newest first. Both are editorial short-form content, so the homepage treats them as
+	// one stream; /archives/ articles stay out (they have their own section above).
+	eleventyConfig.addCollection("homeNews", function (collectionApi) {
+		const getTime = (item) => {
+			const raw = item?.data?.date ?? item?.date;
+			if (!raw) return 0;
+			const d = raw instanceof Date ? raw : new Date(raw);
+			const ms = d.getTime();
+			return Number.isFinite(ms) ? ms : 0;
+		};
+
+		const blogPosts = collectionApi
+			.getFilteredByGlob("content/blog/*.md")
+			.filter((item) => isPublishedItem(item?.data));
+
+		const theoryPosts = collectionApi
+			.getFilteredByGlob("content/religioustheory/posts/*.md")
+			.filter((item) => isPublishedItem(item?.data));
+
+		return [...blogPosts, ...theoryPosts].sort((a, b) => getTime(b) - getTime(a));
+	});
+
 	// Archive PDFs, images, and binary assets are served from
 	// files.jcrt.org via Netlify 200-proxy rules — no passthrough copy needed.
 	eleventyConfig.addCollection("archives", function (collectionApi) {

@@ -4,7 +4,7 @@
 <h2>{{blog.title}}</h2>
 </header>
 <div class="row mt-3 mb-3 home-news-grid">
-{% for b in collections.posts | reverse | limit(6) %}
+{% for b in collections.homeNews | limit(6) %}
 <article class="col-md-6 col-lg-4 p-3 small p-md-5 home-news-card">
 <div class="img-zoom-container">
 <a href="{{b.url}}" title="{{b.data.title}}">

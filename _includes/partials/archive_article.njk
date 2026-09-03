@@ -136,17 +136,6 @@
         </div>
       </header>
 
-      {% if not isIssueIndex %}
-      <p class="jcrt-license small text-secondary">
-        {% if ccBy %}
-          <a href="{{ metadata.license.url }}" rel="license" target="_blank" title="{{ metadata.license.long_name }}"><img src="/images/cc-by.svg" alt="{{ metadata.license.name }}" width="88" height="31" loading="lazy" style="vertical-align:middle"></a>
-          © {% if displayDate %}{{ (displayDate | isoDate).slice(0, 4) }} {% endif %}the author(s). This work is licensed under a <a href="{{ metadata.license.url }}" rel="license">{{ metadata.license.long_name }}</a> license. Authors retain copyright.
-        {% else %}
-          © the author(s). Free to read; see the <a href="/copyright/">copyright notice</a> for reuse terms.
-        {% endif %}
-      </p>
-      {% endif %}
-
       {% if abstract %}
       <section class="jcrt-abstract">
         <h2>Abstract</h2>
@@ -156,7 +145,9 @@
 
       <div class="jcrt-article-content article-body serif archive-content">
         {% set finalHTML = jsonEntry.content | markdownify if jsonEntry.content else content %}
-        {% if not isIssueIndex %}
+        {# `toc: false` in front matter suppresses the auto-built contents list, matching the
+           flag post.njk already honors. Left unset, the script below builds it from h2/h3. #}
+        {% if not isIssueIndex and toc !== false %}
         <div id="custom-toc-container" class="jcrt-toc d-none">
           <h2>Table of Contents</h2>
           <ul id="toc-list" class="list-unstyled mb-0"></ul>
@@ -188,6 +179,19 @@
       {% set shareOpenlyHref = "https://shareopenly.org/share/?url=" + shareUrl + "&text=" + shareTitle %}
 
       <footer class="jcrt-article-footer">
+        {# Copyright/licensing sits at the foot of the article, under the footer's rule and
+           above the keyword and category rows. #}
+        {% if not isIssueIndex %}
+        <p class="jcrt-license small text-secondary">
+          {% if ccBy %}
+            <a href="{{ metadata.license.url }}" rel="license" target="_blank" title="{{ metadata.license.long_name }}"><img src="/images/cc-by.svg" alt="{{ metadata.license.name }}" width="88" height="31" loading="lazy" style="vertical-align:middle"></a>
+            © {% if displayDate %}{{ (displayDate | isoDate).slice(0, 4) }} {% endif %}the author(s). This work is licensed under a <a href="{{ metadata.license.url }}" rel="license">{{ metadata.license.long_name }}</a> license. Authors retain copyright.
+          {% else %}
+            © the author(s). Free to read; see the <a href="/copyright/">copyright notice</a> for reuse terms.
+          {% endif %}
+        </p>
+        {% endif %}
+
         {% if displayKeywords and displayKeywords.length > 0 %}
         <div class="jcrt-taxonomy-row">
           <span class="jcrt-footer-label">{% if isTheoryPost %}Tags{% else %}Keywords{% endif %}:</span>
@@ -264,7 +268,7 @@
     </article>
 </div>
 
-{% if not isIssueIndex %}
+{% if not isIssueIndex and toc !== false %}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const content = document.getElementById('article-content');
