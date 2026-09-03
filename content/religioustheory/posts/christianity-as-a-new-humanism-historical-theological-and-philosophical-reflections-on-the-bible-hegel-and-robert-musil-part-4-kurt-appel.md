@@ -1,7 +1,7 @@
 ---
 nanoid: "hTtiTN"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2yzbjwi2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbc3p7az2b'
 title: "Christianity As A New Humanism – Historical, Theological, And Philosophical Reflections On The Bible, Hegel, And Robert Musil, Part 4 (Kurt Appel)"
 description: ""
 date: '2019-09-13T17:00:54.000Z'

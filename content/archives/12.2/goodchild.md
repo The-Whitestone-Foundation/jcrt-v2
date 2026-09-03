@@ -1,7 +1,7 @@
 ---
 nanoid: "VOoZ8z"
 doi: "10.17613/ebd35-2pc09"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zhrllj2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbd5lnd42v'
 title: "Engaged Philosophy of Religion."
 author: "Philip Goodchild"
 affilation:

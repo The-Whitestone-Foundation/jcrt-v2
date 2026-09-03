@@ -1,7 +1,7 @@
 ---
 nanoid: "PU16fc"
 doi: "10.17613/4tcys-vwk52"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zphycp22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdtrr3c2x'
 title: "Playing Poker with Pascal: Theology in the American Casino"
 author: "Bradley A Johnson"
 affilation:

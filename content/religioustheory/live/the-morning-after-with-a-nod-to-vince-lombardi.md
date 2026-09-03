@@ -1,6 +1,6 @@
 ---
 nanoid: "4PZGsN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zkxwwb2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdgfc5c2x'
 title: "The Morning After—with a Nod to Vince Lombardi"
 description: "Carl A. Raschke reflects on Barack Obama's election, warning that political euphoria must give way to shared responsibility before the next global crisis."
 date: '2008-11-05'

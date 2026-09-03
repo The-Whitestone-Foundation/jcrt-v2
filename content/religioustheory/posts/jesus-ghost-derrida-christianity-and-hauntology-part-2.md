@@ -1,7 +1,7 @@
 ---
 nanoid: "e2KzIy"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zc2l572b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbcsalaj2b'
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 2'
 description: "The following is Part 2 of a 3-part series by Victor Taylor on how one might reflect theologically on Jesus and the Christian message from a Derridean"
 date: '2016-05-06T21:40:13.000Z'

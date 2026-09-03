@@ -1,7 +1,7 @@
 ---
 nanoid: "GwE-cG"
 doi: "10.17613/j69qg-b0e39"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2z5h6c62u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbcgqrmv2p'
 title: "The Irreducible."
 author: "Jean-Luc Marion"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "QZGsn8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zkx4ko2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdgcp4e2e'
 title: "A New Project for Correlational/Continental Theology (Again)"
 description: "Wilson Dickinson proposes a renewed correlational and Continental theology that can connect public events, experience, mysticism, and constructive thought."
 date: '2008-11-11'

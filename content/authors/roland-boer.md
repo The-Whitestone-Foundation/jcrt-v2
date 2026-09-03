@@ -1,6 +1,6 @@
 ---
 nanoid: "B4brSc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zu6tie2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbe7ub7u2e'
 name: Roland Boer
 affiliation:
 bio:

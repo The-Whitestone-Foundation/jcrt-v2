@@ -1,7 +1,7 @@
 ---
 nanoid: "MN-x_-"
 doi: "10.17613/wvsma-wm468"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zcqefe2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbcu3h4f2u'
 title: "The Ghosts of Pendleton: Artist’s Statement."
 author: "April O'Brien"
 affilation:

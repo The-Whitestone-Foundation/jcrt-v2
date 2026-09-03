@@ -1,7 +1,7 @@
 ---
 nanoid: "21AhyQ"
 doi: "10.17613/7amgp-74h51"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zndjvu2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdn4irs2z'
 title: "The Weakness of God...and of Theological Thought for That Matter: Acta Est Fabula Plaudite"
 author: "Carl A. Raschke"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "8py3O2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zspmqx2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbe42pjc2z'
 name: Taylor Weaver
 affiliation: "University of Kent"
 bio:

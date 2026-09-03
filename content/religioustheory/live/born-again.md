@@ -1,6 +1,6 @@
 ---
 nanoid: "8QGMcO"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zkon4p2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdfm2ja2c'
 title: "Born Again"
 description: "Colbey Emmerson Reid reads The Descent as a feminist resurrection narrative in which trauma, monstrosity, repetition, and rebirth unsettle Christian allegory."
 date: '2009-04-02'

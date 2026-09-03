@@ -1,7 +1,7 @@
 ---
 nanoid: "wl9GKO"
 doi: "10.17613/q4y6y-7tg27"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2zcr2sw2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbcu5y4s2x'
 title: "Civic Engagements Through a Transductive Discourse of Care."
 author: "Hui-Chun Li"
 affilation:

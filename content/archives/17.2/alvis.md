@@ -1,7 +1,7 @@
 ---
 nanoid: "cj_Zmj"
 doi: "10.17613/w41p5-b1q14"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2z5qoze2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbchkb5b2b'
 title: "The Political as Saturated Phenomenon: Marion’s Givenness and the Irreconcilability of Politics and Love."
 author: "Jason W. Alvis"
 affilation:

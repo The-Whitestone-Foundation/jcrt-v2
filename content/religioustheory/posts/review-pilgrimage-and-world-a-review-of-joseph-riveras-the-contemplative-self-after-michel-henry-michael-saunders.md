@@ -1,7 +1,7 @@
 ---
 nanoid: "d-xDbR"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2z6rvjp2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbck2brz22'
 title: Review – The Contemplative Self after Michel Henry (Michael Saunders)
 description: "*Rivera, Joseph. The Contemplative Self After Michel Henry: A Phenomenological Theology. Notre Dame: Notre Dame Press, 2015. ISBN-10: 0268040605. 408 pages"
 date: '2017-06-29T00:04:42.000Z'

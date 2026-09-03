@@ -1,7 +1,7 @@
 ---
 nanoid: "CoNmBs"
 doi: "10.17613/njxcj-tyg74"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3muh2z24uwb2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbc5wmes2z'
 title: "Towards a New Comparative Methodology in Religious Studies."
 author: "Kara Roberts"
 affilation:
