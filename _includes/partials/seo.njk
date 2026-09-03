@@ -72,6 +72,12 @@
 <meta property="og:type" content="{{ "article" if (isArchivesArticlePage or isBlogPost) else "website" }}" />
 <meta content="{{ robotsDirective }}" name="robots">
 <link rel="canonical" href="{{ canonicalUrl }}" />
+{% if pageUrl.startsWith("/") and pageUrl.endsWith("/") %}
+{# Markdown twin of this page, served by netlify/edge-functions/markdown-for-agents.js.
+   It has its own URL on purpose: content-negotiating on this one shared a Cloudflare
+   cache key with the HTML and poisoned it. #}
+<link rel="alternate" type="text/markdown" title="{{ pageTitle }} (Markdown)" href="{{ metadata.url }}{{ pageUrl }}index.md" />
+{% endif %}
 {% set standardSiteEnabled = metadata.standard_site and metadata.standard_site.enabled %}
 {% set standardSiteDocumentAtUri = "" %}
 {% if standardSiteEnabled and standardSiteRecords %}

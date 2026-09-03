@@ -1,7 +1,19 @@
-function wantsMarkdown(request) {
-	const accept = request.headers.get("accept") || "";
-	return /(?:^|,|\s)text\/markdown(?:\s*;|\s*(?:,|$))/i.test(accept);
-}
+// Markdown twin of every HTML page, served at `<path>index.md`.
+//
+// This used to content-negotiate on the page's own URL: `Accept: text/markdown` on
+// /archives/25.2/ returned Markdown with `Vary: Accept`. Cloudflare only varies its cache
+// key on Accept-Encoding, so the HTML page and its Markdown twin shared one cache key and
+// a single agent request could poison the entry for everyone -- which is exactly what
+// happened to /archives/25.2/, where browsers were served raw Markdown. The origin-side
+// `Cache-Control: private, no-store` backstop did not help: rule 4 of the Cloudflare Cache
+// Rules ("Ignore cache-control header and use this TTL") overrides it.
+//
+// Giving Markdown its own URL is the fix jcrt-meta/docs/cloudflare-cache.md prescribes for
+// this case. Two URLs cannot share a cache key, so no Cache Rule has to be load-bearing.
+// Discovery moves to the static `<link rel="alternate" type="text/markdown">` emitted by
+// _includes/partials/seo.njk.
+
+const MARKDOWN_SUFFIX = "index.md";
 
 function decodeEntities(value) {
 	return String(value || "")
@@ -77,19 +89,6 @@ function estimateTokens(markdown) {
 	return Math.max(1, Math.ceil(String(markdown || "").length / 4));
 }
 
-function appendVary(headers, value) {
-	const current = headers.get("vary");
-	if (!current) {
-		headers.set("vary", value);
-		return;
-	}
-	const values = current.toLowerCase().split(",").map((part) => part.trim());
-	if (values.includes(value.toLowerCase())) {
-		return;
-	}
-	headers.set("vary", `${current}, ${value}`);
-}
-
 function markdownResponseFrom(htmlResponse, markdown) {
 	const headers = new Headers(htmlResponse.headers);
 	headers.set("content-type", "text/markdown; charset=utf-8");
@@ -99,24 +98,25 @@ function markdownResponseFrom(htmlResponse, markdown) {
 	headers.delete("content-md5");
 	headers.delete("content-range");
 	headers.delete("accept-ranges");
+	headers.delete("vary");
 	headers.set("x-markdown-tokens", String(estimateTokens(markdown)));
-	appendVary(headers, "Accept");
-	// Cloudflare only varies its cache key on Accept-Encoding, so an HTML page and its
-	// Markdown twin share one key. `no-store` stops any shared cache keeping the Markdown
-	// variant and serving it to browsers. The `bypass-markdown-negotiation` Cache Rule in
-	// jcrt-meta/docs/cloudflare-cache.md is the primary guard; this is the origin-side backstop.
-	headers.set("cache-control", "private, no-store");
+	// Safe to cache now that this body has a URL of its own. Freshness comes from the
+	// deploy purge in plugins/cloudflare-purge/, the same as for the HTML page.
 	return new Response(markdown, { status: htmlResponse.status, headers });
 }
 
 export default async (request, context) => {
-	if (!wantsMarkdown(request)) {
+	const url = new URL(request.url);
+	if (!url.pathname.endsWith(`/${MARKDOWN_SUFFIX}`)) {
 		return context.next();
 	}
 
-	const response = await context.next();
+	const htmlUrl = new URL(url);
+	htmlUrl.pathname = url.pathname.slice(0, -MARKDOWN_SUFFIX.length);
+
+	const response = await context.rewrite(htmlUrl);
 	const contentType = response.headers.get("content-type") || "";
-	if (!/text\/html/i.test(contentType)) {
+	if (!response.ok || !/text\/html/i.test(contentType)) {
 		return response;
 	}
 
