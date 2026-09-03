@@ -184,7 +184,7 @@
         {% if not isIssueIndex %}
         <p class="jcrt-license small text-secondary">
           {% if ccBy %}
-            <a href="{{ metadata.license.url }}" rel="license" target="_blank" title="{{ metadata.license.long_name }}"><img src="/images/cc-by.svg" alt="{{ metadata.license.name }}" width="88" height="31" loading="lazy" style="vertical-align:middle"></a>
+            <a href="{{ metadata.license.url }}" rel="license" target="_blank" title="{{ metadata.license.long_name }}"><img src="https://files.jcrt.org/images/cc-by.svg" alt="{{ metadata.license.name }}" width="88" height="31" loading="lazy" style="vertical-align:middle"></a>
             © {% if displayDate %}{{ (displayDate | isoDate).slice(0, 4) }} {% endif %}the author(s). This work is licensed under a <a href="{{ metadata.license.url }}" rel="license">{{ metadata.license.long_name }}</a> license. Authors retain copyright.
           {% else %}
             © the author(s). Free to read; see the <a href="/copyright/">copyright notice</a> for reuse terms.
