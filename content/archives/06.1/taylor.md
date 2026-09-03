@@ -1,7 +1,7 @@
 ---
 nanoid: "95jCev"
 doi: "10.17613/h20af-v3b82"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdtk7tb2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqglnwyv2g'
 title: "Divisible Derridas"
 author: "Victor Taylor"
 affilation:

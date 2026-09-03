@@ -1,7 +1,7 @@
 ---
 nanoid: "EqP0bu"
 doi: "10.17613/jjmk6-2sa41"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbd3fyw22g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgcs2wm2u'
 title: "More Than Belief: a Materialist Theory of Religion."
 author: "Elijah Prewitt-Davis"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "xHyTjt"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdg5n2v2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqggo4qs2e'
 title: "Hot Abstinence"
 description: "Colbey Emmerson Reid reads Twilight as a Gothic theology of erotic abstinence, sacrifice, subjectivity, and the unexpectedly sensual force of Puritanism."
 date: '2008-12-20'

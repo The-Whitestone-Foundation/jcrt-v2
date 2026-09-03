@@ -1,6 +1,6 @@
 ---
 nanoid: "Z_uRuN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulber5fgs2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgwz3xe2p'
 name: Joshua Delpech-Ramey
 affiliation: "Rowan Universit, Villanova University"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "G7BPVt"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdgkf7u2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqggsr5a2x'
 title: "Catholics vs. the Catholic Hierarchy in the 2008 Election"
 description: "Victor Taylor examines Catholic voters in Pennsylvania, abortion politics, and the Church hierarchy's influence on conscience in the 2008 presidential election."
 date: '2008-10-26'

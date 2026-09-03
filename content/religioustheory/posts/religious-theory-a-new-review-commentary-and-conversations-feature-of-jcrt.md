@@ -1,7 +1,7 @@
 ---
 nanoid: "qmydSd"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbctmiiq2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqg7yau42p'
 title: 'Religious Theory – A New Review, Commentary, and Conversations Feature of JCRT'
 description: "Religious Theory is the new commentary, review, and conversation blog for The Journal for Cultural and Religious Theory It highlights key arguments and"
 date: '2016-02-24T00:08:00.000Z'

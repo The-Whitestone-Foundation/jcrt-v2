@@ -1,7 +1,7 @@
 ---
 nanoid: "h5fjdE"
 doi: "10.17613/fdzt3-1yz28"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdurll22z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgm4fsv2n'
 title: "A Post-National Theology of Empire"
 author: "Jeffrey W Robbins"
 affilation:

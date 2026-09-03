@@ -1,6 +1,6 @@
 ---
 nanoid: "TaPzkc"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbenyzj22g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgvtczy2z'
 name: "Lenart Škof"
 affiliation: "Science and Research Centre Koper"
 bio:

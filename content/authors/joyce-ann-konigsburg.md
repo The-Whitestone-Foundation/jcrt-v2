@@ -1,6 +1,6 @@
 ---
 nanoid: "Lj5SiT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbeqjdta2c'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgwrhwe2c'
 name: Joyce Ann Konigsburg
 affiliation:
 bio:

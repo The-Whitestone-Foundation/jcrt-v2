@@ -1,7 +1,7 @@
 ---
 nanoid: "Rw5IWP"
 doi: "10.17613/1gc4n-2ps80"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbbzrduj22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqfv2bss22'
 title: "The “New Hegel” and the Question of God"
 author: "Gavin Hyman"
 affilation:

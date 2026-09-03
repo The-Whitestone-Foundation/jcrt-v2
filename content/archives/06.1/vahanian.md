@@ -1,7 +1,7 @@
 ---
 nanoid: "8tiIW_"
 doi: "10.17613/tx9pb-fyn45"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdthh2r22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqglmzmv2n'
 title: "The Passion of the Christ"
 author: "Gabriel Vahanian"
 affilation:

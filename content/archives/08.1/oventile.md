@@ -1,7 +1,7 @@
 ---
 nanoid: "tG5HzS"
 doi: "10.17613/155a5-zd082"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbdna2yn2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgjo22j2x'
 title: "The Task of the Critic: Poetics, Philosophy, Religion"
 author: "Robert Savino Oventile"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "YtEAMQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulbewk2ss2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgz2mqa2x'
 name: Jakob Deibl
 affiliation: "University of Vienna"
 orcid: https://orcid.org/0000-0002-7820-0569
