@@ -1,6 +1,11 @@
 name: Publish Social Posts
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "content/religioustheory/posts/**.md"
+      - "content/religioustheory/live/**.md"
   workflow_dispatch:
   schedule:
     - cron: "17 8,14,20 * * *"
@@ -33,6 +38,18 @@ jobs:
           restore-keys: social-publish-
 
       - run: npm ci --no-audit --fund=false
+
+      # On push, restrict publishing to the posts this push added or edited; the
+      # schedule keeps working through the #ICYMI backlog one item at a time.
+      - name: Collect pushed posts
+        if: github.event_name == 'push'
+        run: |
+          {
+            echo "SOCIAL_PUBLISH_FILES<<EOF"
+            jq -r '[.commits[]? | (.added[]?, .modified[]?)] | unique | .[]' "$GITHUB_EVENT_PATH" \
+              | grep -E '^content/religioustheory/(posts|live)/.*\.md$' || true
+            echo "EOF"
+          } >> "$GITHUB_ENV"
 
       - name: Publish next item to Mastodon and Bluesky
         env:

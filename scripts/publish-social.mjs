@@ -1,6 +1,9 @@
 import assert from "node:assert/strict";
 import crypto from "node:crypto";
 import fs from "node:fs";
+import path from "node:path";
+
+import * as yaml from "js-yaml";
 
 import standardSite from "../_data/standardSite.js";
 
@@ -58,6 +61,35 @@ function facets(text, url) {
 	});
 }
 
+function normalizePath(value) {
+	const raw = String(value || "").split("?")[0].split("#")[0].trim();
+	if (!raw) return "";
+	const leading = raw.startsWith("/") ? raw : `/${raw}`;
+	return leading.endsWith("/") ? leading : `${leading}/`;
+}
+
+function frontMatter(source) {
+	const match = String(source).match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
+	if (!match) return {};
+	try {
+		return yaml.load(match[1]) || {};
+	} catch {
+		return {};
+	}
+}
+
+// Mirrors the path each content file becomes in _data/standardSite.js: the
+// directory below content/ is the URL prefix, unless front matter overrides it.
+function documentPathForFile(file) {
+	const relative = String(file).replace(/\\/g, "/").replace(/^\.?\//, "");
+	if (!relative.startsWith("content/") || !relative.endsWith(".md")) return "";
+	const prefix = `/${path.posix.dirname(relative.slice("content/".length))}`;
+	const slug = path.posix.basename(relative, ".md");
+	const data = fs.existsSync(relative) ? frontMatter(fs.readFileSync(relative, "utf8")) : {};
+	if (typeof data.permalink === "string" && data.permalink.startsWith("/")) return normalizePath(data.permalink);
+	return normalizePath(`${prefix}/${data.slug || slug}/`);
+}
+
 function candidates(now = new Date()) {
 	return standardSite().documents
 		.filter((document) => CONTENT_PREFIXES.some((prefix) => document.path.startsWith(prefix)))
@@ -67,6 +99,24 @@ function candidates(now = new Date()) {
 
 function nextDocument(published, now = new Date()) {
 	return candidates(now).find((document) => !published.has(`${SITE_URL}${document.path}`));
+}
+
+// Only the documents these files map to, so a push publishes the posts it added
+// rather than advancing the #ICYMI backlog.
+function freshDocuments(files, published, now = new Date()) {
+	const wanted = new Set(files.map((file) => documentPathForFile(file)).filter(Boolean));
+	return candidates(now).filter(
+		(document) => wanted.has(document.path) && !published.has(`${SITE_URL}${document.path}`),
+	);
+}
+
+function changedFiles() {
+	const index = process.argv.indexOf("--files");
+	const raw = index === -1 ? process.env.SOCIAL_PUBLISH_FILES || "" : process.argv.slice(index + 1).join("\n");
+	return raw
+		.split(/[\n,]/)
+		.map((file) => file.trim())
+		.filter(Boolean);
 }
 
 function readState() {
@@ -130,20 +180,25 @@ async function publishBluesky(post) {
 
 async function main() {
 	const state = readState();
+	const files = changedFiles();
+	const fresh = files.length > 0;
 	const errors = [];
 	for (const [name, publish] of [["mastodon", publishMastodon], ["bluesky", publishBluesky]]) {
-		const document = nextDocument(new Set(state[name]));
-		if (!document) {
+		const published = new Set(state[name]);
+		const documents = fresh ? freshDocuments(files, published) : [nextDocument(published)].filter(Boolean);
+		if (!documents.length) {
 			console.log(`[social] ${name}: nothing left to publish.`);
 			continue;
 		}
-		const post = formatPost(document);
-		try {
-			await publish(post);
-			state[name].push(post.url);
-			console.log(`[social] ${name}: ${post.text}`);
-		} catch (error) {
-			errors.push(new Error(`${name}: ${error.message}`));
+		for (const document of documents) {
+			const post = formatPost(document);
+			try {
+				await publish(post);
+				state[name].push(post.url);
+				console.log(`[social] ${name}: ${post.text}`);
+			} catch (error) {
+				errors.push(new Error(`${name}: ${error.message}`));
+			}
 		}
 	}
 	fs.writeFileSync(STATE_FILE, `${JSON.stringify(state, null, 2)}\n`);
@@ -163,6 +218,18 @@ function selfTest() {
 	const newest = nextDocument(new Set());
 	assert(newest && length(formatPost(newest).text) <= LIMIT);
 	console.log(`[social] next: ${formatPost(newest).text}`);
+
+	assert.equal(documentPathForFile("content/religioustheory/posts/hello.md"), "/religioustheory/posts/hello/");
+	assert.equal(documentPathForFile("content/religioustheory/live/hello.md"), "/religioustheory/live/hello/");
+	assert.equal(documentPathForFile("content/archives/25.2/valentini.md"), "/archives/25.2/valentini/");
+	assert.equal(documentPathForFile("content/religioustheory/posts/hello.njk"), "");
+	assert.equal(documentPathForFile("eleventy.config.js"), "");
+	const theory = candidates().find((document) => document.path.startsWith("/religioustheory/posts/"));
+	const theoryFile = `content${theory.path.replace(/\/$/, "")}.md`;
+	const matched = freshDocuments([theoryFile, "README.md"], new Set());
+	assert.deepEqual(matched.map((document) => document.path), [theory.path]);
+	assert.deepEqual(freshDocuments([theoryFile], new Set([`${SITE_URL}${theory.path}`])), []);
+	console.log(`[social] fresh match: ${formatPost(matched[0]).text}`);
 	console.log("Social publishing checks passed.");
 }
 

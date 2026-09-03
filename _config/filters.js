@@ -145,30 +145,32 @@ export default function(eleventyConfig) {
 
     eleventyConfig.addFilter("getKeys", target => (target ? Object.keys(target) : []));
 
-    // Resolves the _data/submenu.yml group for a page: the group whose `items`
-    // contains this page's URL, or `groupKey` when front matter forces one.
-    // Returns null when nothing matches, which is what keeps the sub-menu row
-    // off /archives/ articles and blog posts (they share the post.njk layout).
-    eleventyConfig.addFilter("submenuFor", (submenu, pageUrl, groupKey) => {
+    // Builds the _data/submenu.yml groups for a page, in declaration order. The group
+    // holding this page's URL (or `groupKey`, when front matter forces one) is flagged
+    // `isCurrent` and renders inline; the rest render as <details> disclosures.
+    // Returns null when the page belongs to no group, which is what keeps the sub-menu
+    // row off /archives/ articles and blog posts (they share the post.njk layout).
+    eleventyConfig.addFilter("submenuGroups", (submenu, pageUrl, groupKey) => {
         if (!submenu || typeof submenu !== "object") return null;
         // Normalize so "/about" and "/about/" match the same item.
         const norm = (u) => `/${String(u || "").replace(/^\/+|\/+$/g, "")}/`;
         const here = norm(pageUrl);
-        const decorate = (key, group) => {
-            const items = (group?.items || []).filter((i) => i && i.url && i.title);
-            if (!items.length) return null;
-            return {
-                key,
-                label: group.label || "",
-                items: items.map((i) => ({ ...i, isCurrent: norm(i.url) === here })),
-            };
-        };
-        if (groupKey) return decorate(groupKey, submenu[groupKey]);
+
+        const groups = [];
         for (const [key, group] of Object.entries(submenu)) {
-            const resolved = decorate(key, group);
-            if (resolved && resolved.items.some((i) => i.isCurrent)) return resolved;
+            const items = (group?.items || [])
+                .filter((i) => i && i.url && i.title)
+                .map((i) => ({ ...i, isCurrent: norm(i.url) === here }));
+            if (!items.length) continue;
+            groups.push({ key, label: group.label || key, items, isCurrent: false });
         }
-        return null;
+
+        // A page pinned with `submenu_key` opens that group even if it lists no matching
+        // URL; otherwise the first group containing this page wins.
+        const activeKey = groupKey || groups.find((g) => g.items.some((i) => i.isCurrent))?.key;
+        if (!activeKey || !groups.some((g) => g.key === activeKey)) return null;
+        for (const group of groups) group.isCurrent = group.key === activeKey;
+        return groups;
     });
 
     const filterTagList = (tags) => {

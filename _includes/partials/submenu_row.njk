@@ -1,18 +1,37 @@
 {# Sub-menu navigation row for content/pages/, driven by _data/submenu.yml.
-   Renders nothing when the current page belongs to no group, so the shared
-   post.njk layout stays clean on /archives/ articles and blog posts. #}
-{% set submenuGroup = submenu | submenuFor(page.url, submenu_key) %}
-{% if submenuGroup %}
-  <nav class="jcrt-submenu" aria-label="{{ submenuGroup.label or 'Section navigation' }}" data-pagefind-ignore>
+   The group holding this page renders inline; every other group renders as a
+   <details> disclosure in the same row, so each page reaches the whole set.
+   Renders nothing when the page belongs to no group, which keeps the shared
+   post.njk layout clean on /archives/ articles and blog posts. #}
+{% set submenuGroups = submenu | submenuGroups(page.url, submenu_key) %}
+{% if submenuGroups %}
+  <nav class="jcrt-submenu" aria-label="Section navigation" data-pagefind-ignore>
     <hr />
     <div class="jcrt-action-row jcrt-action-row--meta jcrt-action-row--submenu">
-      {% if submenuGroup.label %}<span class="jcrt-submenu-label">{{ submenuGroup.label }}</span>{% endif %}
-      {%- for item in submenuGroup.items %}
-        {% if item.isCurrent %}
-          <span class="jcrt-submenu-link" aria-current="page">{{ item.title }}</span>
-        {% else %}
-          <a class="jcrt-submenu-link" href="{{ item.url }}">{{ item.title }}</a>
-        {% endif %}
+      {%- for group in submenuGroups %}
+        {%- if group.isCurrent %}
+          <span class="jcrt-submenu-label">{{ group.label }}</span>
+          {%- for item in group.items %}
+            {% if item.isCurrent %}
+              <span class="jcrt-submenu-link" aria-current="page">{{ item.title }}</span>
+            {% else %}
+              <a class="jcrt-submenu-link" href="{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+          {%- endfor %}
+        {%- else %}
+          <details class="jcrt-submenu-details">
+            <summary class="jcrt-submenu-label">{{ group.label }}</summary>
+            <div class="jcrt-submenu-panel">
+              {%- for item in group.items %}
+                {% if item.isCurrent %}
+                  <span class="jcrt-submenu-link" aria-current="page">{{ item.title }}</span>
+                {% else %}
+                  <a class="jcrt-submenu-link" href="{{ item.url }}">{{ item.title }}</a>
+                {% endif %}
+              {%- endfor %}
+            </div>
+          </details>
+        {%- endif %}
       {%- endfor %}
     </div>
     <hr />

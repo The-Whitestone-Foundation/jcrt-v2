@@ -180,6 +180,39 @@
 <link rel="dns-prefetch" href="{{ metadata.files_url }}">
 {% set versionedAssetSuffix = "?v=" ~ assetVersion %}
 <link href="/css/bs.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
+<style>
+  /* Type scale mirrored from public/css/font.css, which loads async just below.
+     Bootstrap sets `body { font-size: 1rem }` and `h1 { font-size: calc(1.375rem + 1.5vw) }`,
+     so without this the first paint uses Bootstrap's sizing and the entire page reflows the
+     moment font.css arrives — a visible flash on every navigation. font.css downloads no
+     webfonts; it defines the typography, which is why a 1.4 KB async file could move the
+     whole layout.
+
+     Two constraints: this block must stay AFTER the bs.css link to win the cascade (equal
+     specificity, later wins), and it must stay in sync with public/css/font.css. Rule order
+     mirrors font.css exactly, including `html, body, p` overriding the 22px above it. */
+  body, input, select, textarea { font-size: 22px; line-height: 1.65; }
+  h1, h2, h3, h4, h5, h6 { line-height: 1.5; margin: 0 0 1em 0; }
+  h1 { font-size: 4em; line-height: 1.3; margin: 0 0 0.5em 0; }
+  h2 { font-size: 1.85em; }
+  h3, .navbar-brand { font-size: 1.45em; }
+  h4 { font-size: 1.1em; }
+  h5 { font-size: 0.9em; }
+  h6 { font-size: 0.7em; }
+  h1.navbar-brand { margin: 0; line-height: inherit; }
+  header p { font-size: 1.3em; letter-spacing: 0.075em; margin-top: -0.5em; text-transform: uppercase; }
+  html, body, p { font-size: 18px; }
+  @media screen and (max-width: 1680px) {
+    body, input, select, textarea { font-size: 11pt; }
+    h1 { font-size: 3.5em; }
+  }
+  @media screen and (max-width: 1280px) { body, input, select, textarea { font-size: 10pt; } }
+  @media screen and (max-width: 736px) {
+    h1 { font-size: 2em; line-height: 1.4; }
+    h2 { font-size: 1.5em; }
+  }
+  @media screen and (max-width: 360px) { body, input, select, textarea { font-size: 9pt; } }
+</style>
 <link rel="preload" href="/css/index.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="/css/font.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript>

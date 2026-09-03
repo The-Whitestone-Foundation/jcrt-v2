@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.13] — 2026-09-03
+Update archive_article.njk
+- Notes: Update archive_article.njk.
+
 ## [00.04.12] — 2026-09-03
 chore: sync Standard.site ATProto records
 - Notes: chore: sync Standard.site ATProto records.
