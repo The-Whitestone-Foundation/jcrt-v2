@@ -4,7 +4,7 @@ import { pathToFileURL } from "node:url";
 import { dedup } from "css-dedup";
 import { transform } from "lightningcss";
 
-const CSS_FILES = ["_site/css/bs.css", "_site/css/index.css", "_site/css/font.css"];
+const CSS_FILES = ["_site/css/bs.css", "_site/css/index.css", "_site/css/font.css", "_site/css/speedup.css"];
 
 export function optimizeCss(css, filename = "style.css") {
 	const deduped = dedup(css, {

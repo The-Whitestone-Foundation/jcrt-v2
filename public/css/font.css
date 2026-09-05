@@ -1,14 +1,24 @@
-/* Local slab-serif stack for improved performance and consistent rendering */
+/* System font stacks (Modern Font Stacks): no downloads, no layout shift, no FOUT.
+   Body copy is Old Style; headings, header, brand and buttons are Slab Serif.
+   Both rules live here (not in speedup.css) because this file and speedup.css load
+   async in parallel, and body text must not flip between two faces while they land. */
 :root {
   --jcrt-slab-stack: Rockwell, "Rockwell Nova", "Roboto Slab", "DejaVu Serif", "Sitka Small", serif;
+  --jcrt-body-stack: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif;
 }
 
 body, input, select, textarea {
   color: #000000;
-  font-family: var(--jcrt-slab-stack);
+  font-family: var(--jcrt-body-stack);
   font-size: 22px;
   font-weight: normal;
   line-height: 1.65;
+}
+
+.navbar-brand,
+.btn, button,
+input[type=submit], input[type=reset], input[type=button] {
+  font-family: var(--jcrt-slab-stack);
 }
 strong, b {
   color: #000000;

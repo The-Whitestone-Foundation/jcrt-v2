@@ -1,0 +1,20 @@
+/*
+  speedup.css — loaded after index.css and font.css (see partials/head_static.njk).
+  Additive only. Font stacks live in font.css so body text cannot flip between faces
+  while the two async stylesheets land in either order.
+*/
+
+/* Images given width/height attributes keep their ratio without stretching. */
+img[width][height] { height: auto; }
+
+/* The sidebar, content shell and toggle have no transitions at all (index.css). This
+   covers everything that still animates (image zoom, hover colours, Bootstrap collapse)
+   for users who asked their OS for less motion. */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

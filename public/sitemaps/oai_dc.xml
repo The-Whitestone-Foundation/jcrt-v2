@@ -3,7 +3,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-09-03T17:43:56.303Z</responseDate>
+  <responseDate>2026-09-05T19:53:43.780Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -47320,6 +47320,54 @@
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/religioustheory/9781481324250.pdf</dc:relation>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:religioustheory:9781350602502</identifier>
+        <datestamp>2026-09-07</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Book Review: Kant Machine: Critical Philosophy after AI</dc:title>
+          <dc:creator>David Roome</dc:creator>
+          <dc:subject>Artificial Intelligence</dc:subject>
+          <dc:subject>Immanuel Kant</dc:subject>
+          <dc:subject>Philosophy of Technology</dc:subject>
+          <dc:subject>Practical Theology</dc:subject>
+          <dc:subject>Book-Review</dc:subject>
+          <dc:subject>Reviews</dc:subject>
+          <dc:subject>Continental Philosophy</dc:subject>
+          <dc:subject>Theology of Technology</dc:subject>
+          <dc:subject>artificial-intelligence</dc:subject>
+          <dc:subject>kant</dc:subject>
+          <dc:subject>technology</dc:subject>
+          <dc:subject>ethics</dc:subject>
+          <dc:subject>yuk-hui</dc:subject>
+          <dc:subject>philosophy</dc:subject>
+          <dc:subject>Artificial intelligence</dc:subject>
+          <dc:subject>Artificial intelligence--Moral and ethical aspects</dc:subject>
+          <dc:subject>Book reviews</dc:subject>
+          <dc:subject>Ethics</dc:subject>
+          <dc:subject>Kant, Immanuel, 1724-1804</dc:subject>
+          <dc:subject>Philosophy</dc:subject>
+          <dc:subject>Technology--Philosophy</dc:subject>
+          <dc:description>David Roome reviews Yuk Hui’s Kant Machine, which recovers Kant’s critical philosophy as a diagnostic of what machine learning, artificial moral agency, and algorithmic governance can and cannot accomplish.</dc:description>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2026-09-07</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/religioustheory/9781350602502.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/religioustheory/9781350602502.pdf</dc:relation>
           <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>

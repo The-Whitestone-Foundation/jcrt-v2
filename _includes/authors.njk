@@ -30,7 +30,7 @@ layout: base.njk
           {% if orcid and orcid != "/" %}
             <div class="mb-3">
               <a href="{{ orcid }}" target="_blank" class="text-decoration-none text-dark small">
-                <img src="/images/external/orcid-org-orcid-logo-icon-30cf5199eb.webp" width="16" class="me-1" alt="ORCID">
+                <svg class="icon-svg me-1" style="color:#a6ce39" aria-hidden="true"><use href="#ai-orcid"/></svg><span class="visually-hidden">ORCID</span>
                 {{ orcid | replace("https://orcid.org/", "") }}
               </a>
             </div>

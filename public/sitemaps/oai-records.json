@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:43:56.327Z",
+  "generatedAt": "2026-09-05T19:53:43.803Z",
   "baseURL": "https://jcrt.org/oai",
   "metadataPrefix": "oai_dc",
   "repositoryName": "Journal for Cultural and Religious Theory",
@@ -36708,6 +36708,57 @@
         "https://files.jcrt.org/religioustheory/9780593493205.pdf"
       ],
       "rights": "Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/"
+    },
+    {
+      "identifier": "oai:jcrt.org:religioustheory:9781350602502",
+      "datestamp": "2026-09-07",
+      "setSpecs": [
+        "philosophy"
+      ],
+      "title": "Book Review: Kant Machine: Critical Philosophy after AI",
+      "creators": [
+        "David Roome"
+      ],
+      "subjects": [
+        "Artificial Intelligence",
+        "Immanuel Kant",
+        "Philosophy of Technology",
+        "Practical Theology",
+        "Book-Review",
+        "Reviews",
+        "Continental Philosophy",
+        "Theology of Technology",
+        "artificial-intelligence",
+        "kant",
+        "technology",
+        "ethics",
+        "yuk-hui",
+        "philosophy",
+        "Artificial intelligence",
+        "Artificial intelligence--Moral and ethical aspects",
+        "Book reviews",
+        "Ethics",
+        "Kant, Immanuel, 1724-1804",
+        "Philosophy",
+        "Technology--Philosophy"
+      ],
+      "description": "David Roome reviews Yuk Hui’s Kant Machine, which recovers Kant’s critical philosophy as a diagnostic of what machine learning, artificial moral agency, and algorithmic governance can and cannot accomplish.",
+      "publisher": "Whitestone Publications",
+      "date": "2026-09-07",
+      "type": "article",
+      "format": "application/pdf",
+      "language": "en",
+      "identifiers": [
+        "1530-5228",
+        "https://files.jcrt.org/religioustheory/9781350602502.pdf"
+      ],
+      "sources": [
+        "Journal for Cultural & Religious Theory, ISSN 1530-5228"
+      ],
+      "relations": [
+        "https://files.jcrt.org/religioustheory/9781350602502.pdf"
+      ],
+      "rights": "© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright."
     },
     {
       "identifier": "oai:jcrt.org:religioustheory:9781481324250",

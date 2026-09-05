@@ -71,7 +71,6 @@ h1.navbar-brand a:focus .text-secondary,
     width: var(--btn-width);
     height: var(--btn-width);
     z-index: 1030;
-    transition: left 0.3s ease;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -200,7 +199,6 @@ h1.navbar-brand a:focus .text-secondary,
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s ease;
 }
 
 .menu-toggle-editorial:hover {
@@ -211,7 +209,7 @@ h1.navbar-brand a:focus .text-secondary,
             left: calc(var(--sidebar-width) * -1);
             width: var(--sidebar-width); background-color: #f8f9fa;
             padding-top: var(--btn-margin-top); padding-left: var(--btn-margin-left); padding-right: var(--btn-margin-left);
-            overflow-y: auto; transition: left 0.3s ease; 
+            overflow-y: auto;
             z-index: 1020; 
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none;
@@ -225,8 +223,7 @@ h1.navbar-brand a:focus .text-secondary,
         #content-wrapper::before {
             content: ''; position: fixed; top: 0; right: 0; bottom: 0; left: 0;
             background: rgba(0, 0, 0, 0.5); visibility: hidden; opacity: 0;
-            transition: opacity 0.3s ease, visibility 0.3s ease;
-            z-index: 1010; 
+            z-index: 1010;
         }
         
         body.menu-open #content-wrapper::before {
@@ -1057,7 +1054,6 @@ a.btn-secondary {
         #content-wrapper > nav.mobile {
             position: relative;
             z-index: 1011;
-            transition: margin-left 0.3s ease;
         }
         }
         
@@ -1084,7 +1080,6 @@ object-fit:cover;
     bottom: 0;
     left: calc(var(--sidebar-width) * -1);
     width: var(--sidebar-width);
-    transition: left 0.3s ease;
     z-index: 1020;
     height: 100vh;
 }
@@ -1356,7 +1351,6 @@ blockquote{border-left:6px solid #ec5033;margin:1.5em 10px;padding:.5em 10px;quo
     width: var(--btn-width);
     height: var(--btn-width);
     z-index: 1030;
-    transition: all 0.3s ease;
     background-color: var(--primary-jcrt);
     color: white;
     border: none;
@@ -1394,9 +1388,6 @@ blockquote{border-left:6px solid #ec5033;margin:1.5em 10px;padding:.5em 10px;quo
         font-size: 1.2rem;
         padding-left: 5px;
     }
-#sidebar-container {
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
 }
 @media (max-width: 800px) {
     :root {
@@ -1407,7 +1398,6 @@ blockquote{border-left:6px solid #ec5033;margin:1.5em 10px;padding:.5em 10px;quo
         position: fixed;
         left: -280px;
         width: 280px !important;
-        transition: left 0.3s ease;
         z-index: 1040;
     }
 .desktop .nav.justify-content-end {
@@ -1424,7 +1414,6 @@ blockquote{border-left:6px solid #ec5033;margin:1.5em 10px;padding:.5em 10px;quo
         padding-top: 50px !important;
     }
     #content-wrapper {
-        transition: transform 0.3s ease;
         width: 100%;
     }
 
@@ -1654,7 +1643,6 @@ body.menu-open #menu-toggle-btn {
         width: 280px !important;
         height: 100vh !important;
         z-index: 1040 !important;
-        transition: left 0.3s ease !important;
     }
 
     #sidebar-container.active {
@@ -1786,7 +1774,6 @@ body.menu-open #menu-toggle-btn {
     padding-right: var(--jcrt-page-gutter) !important;
     padding-bottom: var(--jcrt-page-gutter) !important;
     padding-left: var(--jcrt-page-gutter) !important;
-    transition: margin-left 0.3s ease, padding-left 0.3s ease, padding-right 0.3s ease, transform 0.3s ease;
 }
 
 @media (min-width: 1196px) {

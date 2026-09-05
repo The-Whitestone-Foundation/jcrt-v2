@@ -58,15 +58,22 @@
 <style>
   /* Critical-first paint styles for mobile hero/header before full CSS is loaded. */
   html, body { margin: 0; padding: 0; }
-  body { font-family: var(--jcrt-slab-stack, Rockwell, "Roboto Slab", serif); color: #111; background: #fff; }
+  body { font-family: var(--jcrt-body-stack, "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif); color: #111; background: #fff; }
   #content-wrapper { min-height: 100vh; }
   .hero-title { margin: 0 0 .4rem; line-height: 1.2; }
   .btn-primary { background: #b42318; color: #fff; border: 1px solid #b42318; }
   img { max-width: 100%; height: auto; }
+  /* Sprite icons: size them before index.css lands so the hamburger/social row doesn't reflow. */
+  .icon-svg { display: inline-block; width: 1em; height: 1em; vertical-align: -0.125em; fill: currentColor; }
 
-  /* Sidebar closed state: index.css is async, so without this the menu paints in flow then snaps away. */
-  :root { --sidebar-width: 26em; }
+  /* Sidebar + toggle, both states, every width: index.css is async, so the first paint must
+     already be final or the menu paints in flow and the hamburger jumps to its fixed spot.
+     Values mirror index.css (sidebar width, page gutter, toggle geometry, open layout). */
+  :root { --sidebar-width: 26em; --jcrt-page-gutter: clamp(1rem, 4vw, 2.5rem); }
+  @media (max-width: 1680px) { :root { --sidebar-width: 24em; } }
+  @media (max-width: 1195px) { :root { --jcrt-page-gutter: clamp(0.75rem, 3vw, 1.25rem); } }
   @media (max-width: 800px) { :root { --sidebar-width: 280px; } }
+  @media (max-width: 736px) { :root { --sidebar-width: min(24em, calc(100vw - 4.5em)); --jcrt-page-gutter: 0.5rem; } }
   #sidebar-container {
     position: fixed;
     top: 0;
@@ -74,14 +81,32 @@
     left: calc(var(--sidebar-width) * -1);
     width: var(--sidebar-width);
     height: 100vh;
+    background: #f5f6f7;
     z-index: 1020;
   }
-  .menu-toggle-editorial { background: #000; color: #fff; border: none; padding: 0; display: flex; align-items: center; justify-content: center; }
+  #menu-toggle-btn {
+    position: fixed; top: 3rem; left: 30px; width: 50px; height: 50px; z-index: 1030;
+    background: #B42318; color: #fff; border: 0; padding: 0;
+    display: flex; align-items: center; justify-content: center;
+  }
+  @media (max-width: 1195px) { #menu-toggle-btn { top: 10px; left: var(--jcrt-page-gutter); width: 44px; height: 44px; z-index: 2000; } }
+  @media (max-width: 800px) { #menu-toggle-btn { top: 4px; } }
+  @media (min-width: 1196px) {
+    body.menu-open #sidebar-container { left: 0; }
+    body.menu-open #content-wrapper { margin-left: var(--sidebar-width); width: calc(100% - var(--sidebar-width)); }
+    body.menu-open #menu-toggle-btn { left: calc(var(--sidebar-width) + var(--jcrt-page-gutter)); }
+  }
 </style>
 {# Every content image, favicon, og:image and the homepage LCP hero are served from
    files.jcrt.org, so warm the connection before the first image request. #}
 <link rel="preconnect" href="{{ metadata.files_url }}" crossorigin>
 <link rel="dns-prefetch" href="{{ metadata.files_url }}">
+{# Prefetch same-origin pages on hover/touch-start so taps feel instant. href_matches is
+   same-origin only, so nothing on files.jcrt.org is ever prefetched; the .pdf clause guards
+   any same-origin PDF link. "moderate" keeps the 7,000-page site from being crawled. #}
+<script type="speculationrules">
+{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/*.pdf"}}]},"eagerness":"moderate"}]}
+</script>
 {% set versionedAssetSuffix = "?v=" ~ assetVersion %}
 <link href="/css/bs.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
 <style>
@@ -109,7 +134,9 @@
 </style>
 <link rel="preload" href="/css/index.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="/css/font.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="/css/speedup.css{{ versionedAssetSuffix }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript>
   <link href="/css/index.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
   <link href="/css/font.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
+  <link href="/css/speedup.css{{ versionedAssetSuffix }}" rel="stylesheet"/>
 </noscript>
