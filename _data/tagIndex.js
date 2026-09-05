@@ -1,7 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
 import { authorSlug, splitAuthors } from "../_config/authorSlug.js";
+import { parseFrontMatter } from "../scripts/lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "../scripts/lib/walk.mjs";
 
 const CACHE_PATH = path.join(process.cwd(), ".cache", "tag-index-cache.json");
 const CONTENT_ROOT = path.join(process.cwd(), "content");
@@ -47,33 +48,7 @@ function writeJson(filePath, value) {
 	fs.writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
 }
 
-function parseFrontMatter(raw) {
-	if (!raw.startsWith("---")) return {};
-	const match = raw.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return {};
-	try {
-		return yaml.load(match[1]) || {};
-	} catch {
-		return {};
-	}
-}
-
-function walkMarkdownFiles(dir) {
-	const files = [];
-	if (!fs.existsSync(dir)) return files;
-	for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-		if (entry.name.startsWith(".")) continue;
-		const fullPath = path.join(dir, entry.name);
-		if (entry.isDirectory()) {
-			files.push(...walkMarkdownFiles(fullPath));
-			continue;
-		}
-		if (entry.isFile() && entry.name.endsWith(".md")) {
-			files.push(fullPath);
-		}
-	}
-	return files;
-}
+const walkMarkdownFiles = (dir) => walkFiles(dir, { match: isMarkdown, skipDotfiles: true });
 
 function normalizeDate(data) {
 	const raw = data?.date || data?.year || null;
@@ -118,7 +93,7 @@ function inferSectionAndUrl(absPath, data) {
 
 function buildFileRecord(absPath) {
 	const raw = fs.readFileSync(absPath, "utf8");
-	const data = parseFrontMatter(raw);
+	const { data } = parseFrontMatter(raw);
 	const { section, url } = inferSectionAndUrl(absPath, data);
 	const tags = ensureArray(data?.tags);
 	const archiveKeywords = section === "archives" ? ensureArray(data?.keywords) : [];

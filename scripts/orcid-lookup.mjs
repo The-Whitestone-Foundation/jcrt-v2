@@ -15,6 +15,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import * as yaml from "js-yaml";
+import { parseFrontMatter } from "./lib/frontmatter.mjs";
 
 const ROOT = process.cwd();
 const AUTHORS_DIR = path.join(ROOT, "content", "authors");
@@ -36,18 +37,6 @@ const flagValue = (f) => {
 };
 
 /* ------------------------------------------------------------------ files */
-
-function parseFrontMatter(source) {
-	const match = source.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return null;
-	let data = {};
-	try {
-		data = yaml.load(match[1]) || {};
-	} catch {
-		return null;
-	}
-	return { block: match[1], bodyStart: match[0].length, data };
-}
 
 function readAuthors() {
 	return fs
@@ -386,7 +375,7 @@ function applyConfirmed() {
 		const file = path.join(AUTHORS_DIR, `${entry.slug}.md`);
 		const source = fs.readFileSync(file, "utf8");
 		const parsed = parseFrontMatter(source);
-		if (!parsed || parsed.data.orcid) continue;
+		if (!parsed.hasFrontMatter || parsed.data.orcid) continue;
 		const line = `orcid: https://orcid.org/${chosen}`;
 		// insert after affiliation:, else before the closing fence
 		const block = /^affiliation:.*$/m.test(parsed.block)

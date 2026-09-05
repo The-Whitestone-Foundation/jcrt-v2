@@ -19,8 +19,7 @@
  * Append-only: existing entries and any hand-written notes under them are never
  * touched; new commits get a mechanical note from the subject line.
  *
- * Usage: node scripts/update-changelog.mjs [--check]
- *   --check  exit non-zero if entries are missing (CI guard)
+ * Usage: node scripts/update-changelog.mjs   (run for you by .githooks/pre-commit)
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -31,7 +30,6 @@ const REPO_ROOT = path.resolve(
 	"..",
 );
 const CHANGELOG = path.join(REPO_ROOT, "CHANGELOG.md");
-const CHECK_MODE = process.argv.includes("--check");
 
 const RS = "\x1e"; // record separator; safe inside a git pretty format
 
@@ -81,12 +79,8 @@ function main() {
 	const toWrite = commits.slice(existing);
 
 	if (toWrite.length === 0) {
-		if (!CHECK_MODE) console.log(`[changelog] current (${existing} entries).`);
+		console.log(`[changelog] current (${existing} entries).`);
 		return;
-	}
-	if (CHECK_MODE) {
-		console.error(`[changelog] ${missing.length} commit(s) missing. Run: npm run changelog`);
-		process.exit(1);
 	}
 
 	const block = toWrite

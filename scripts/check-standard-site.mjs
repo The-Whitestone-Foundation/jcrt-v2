@@ -1,7 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
 import standardSite from "../_data/standardSite.js";
+import { parseFrontMatter, readYaml as loadYaml } from "./lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "./lib/walk.mjs";
+import { NON_ARTICLE_SLUGS, normalizeUrl } from "./lib/paths.mjs";
 
 const ROOT = process.cwd();
 const RECORDS_FILE = path.join(ROOT, "_data", "standardSiteRecords.yaml");
@@ -10,16 +12,12 @@ const PUBLICATION_SCRIPT_FILE = path.join(ROOT, "scripts", "publish-standard-pub
 const PUBLICATION_ICON_FILE = path.join(ROOT, "public", "images", "logos", "standard-site-icon.webp");
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
 const SEO_TEMPLATE_FILE = path.join(ROOT, "_includes", "partials", "seo.njk");
-const NON_ARTICLE_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
 const errors = [];
 
 function readYaml(filePath) {
-	try {
-		return yaml.load(fs.readFileSync(filePath, "utf8")) || {};
-	} catch (error) {
-		errors.push(`Unable to read ${path.relative(ROOT, filePath)}: ${error.message}`);
-		return {};
-	}
+	return loadYaml(filePath, {
+		onError: (error) => errors.push(`Unable to read ${path.relative(ROOT, filePath)}: ${error.message}`),
+	});
 }
 
 function assert(condition, message) {
@@ -36,45 +34,15 @@ function isAtUri(value) {
 	return typeof value === "string" && value.startsWith("at://");
 }
 
-function parseFrontMatter(source) {
-	if (!source.startsWith("---")) return {};
-	const match = source.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return {};
-	try {
-		return yaml.load(match[1]) || {};
-	} catch {
-		return {};
-	}
-}
-
-function walkMarkdown(dir) {
-	const files = [];
-	const stack = [dir];
-	while (stack.length) {
-		const current = stack.pop();
-		if (!current || !fs.existsSync(current)) continue;
-		for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-			const fullPath = path.join(current, entry.name);
-			if (entry.isDirectory()) stack.push(fullPath);
-			else if (entry.isFile() && entry.name.endsWith(".md")) files.push(fullPath);
-		}
-	}
-	return files.sort();
-}
-
-function normalizeUrl(value, fallback) {
-	return String(value || fallback || "").trim().replace(/\/+$/, "");
-}
-
 function expectedArchivePdfMap(filesUrl) {
 	const out = new Map();
-	for (const filePath of walkMarkdown(ARCHIVES_DIR)) {
+	for (const filePath of walkFiles(ARCHIVES_DIR, { match: isMarkdown })) {
 		const rel = path.relative(ARCHIVES_DIR, filePath);
 		const [issueSlug, fileName] = rel.split(path.sep);
 		const slug = path.basename(fileName || "", ".md");
 		if (!issueSlug?.includes(".") || NON_ARTICLE_SLUGS.has(slug.toLowerCase())) continue;
 
-		const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+		const { data } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 		if (data?.published === false || data?.draft === true) continue;
 
 		const pdf = String(data?.pdf || "").trim();

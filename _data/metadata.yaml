@@ -52,6 +52,7 @@ knowledge_graph:
     - "https://thenewpolis.com/"
     - "https://esthesis.org/"
     - "https://works.hcommons.org/collections/whitestone"
+    - "https://wildglobalization.com/"
 homepage_archive: 
   active_tag: 24.1
   section_title: From the Archive
@@ -86,28 +87,30 @@ sidebar:
   menu: 
     title: Menu
     list: 
-      - nav: About
-        url: /about/
-      - nav: Contact
-        url: /contact/
-      - nav: Editorial Board
-        url: /editors/
       - nav: Home
         url: /
+      - nav: About
+        url: /about/
+        children:
+          - nav: Contact
+            url: /contact/
+          - nav: Open Access
+            url: /open-access/
+          - nav: Peer Review
+            url: /peer-review/
+      - nav: Editorial Board
+        url: /editors/
       - nav: Journal Archive
         url: /archives/
       - nav: News
         url: /blog/
-      - nav: Open Access
-        url: /open-access/
-      - nav: Peer Review
-        url: /peer-review/
       - nav: Religious Theory
         url: /religioustheory/
       - nav: Search
         url: /search/
       - nav: Submissions
         url: /submissions/
+
   info: 
     sections:
       - title: The New Polis
@@ -135,7 +138,7 @@ sidebar:
 #       icon: fa-solid fa-home
 #       url: "https://maps.app.goo.gl/fcatehzDtdQMU3UF7"
 sidebar_footer:
-  text: "<a href='https://www.11ty.dev/' target='_blank'>Built with Eleventy</a> | Design: <a href='https://html5up.net/' target='_blank'>HTML5 UP</a> | Maintained by <a href='https://adamdjbrett.com' target='_blank'>Adam DJ Brett</a>"
+  text: "<a href='https://www.11ty.dev/' target='_blank'>Built with Eleventy</a> | Design: <a href='https://html5up.net/' target='_blank'>HTML5 UP</a> | Maintained by <a href='https://adamdjbrett.com' target='_blank'>Adam DJ Brett</a> | <a href='/credits/'>Credits</a>"
 
 site_footer:
   text: '<a href="https://jcrt.org" target="_blank">The Journal for Cultural and Religious Theory (JCRT)</a> is an online, peer-reviewed, academic publication published by <a href="http://thewhitestonefoundation.org/">The Whitestone Foundation</a>, a 501c3 corporation located in Boulder, Colorado. ISSN 1530-5228. Articles are open access under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> license; authors retain copyright. Indexed by <a href="https://www.ebsco.com/">EBSCO</a>. Listed with <a href="https://duotrope.com/magazine/journal-cultural-religious-theory-20464?ref=lst-7vbKB-7r3u0g8&pc=L-7VBKB" target="_blank">Duotrope</a>. Website © The Whitestone Foundation dba The Journal for Cultural and Religious Theory'
@@ -148,8 +151,10 @@ site_footer:
   url3: https://thenewpolis.com/
   link4: Esthesis
   url4: https://esthesis.org/
-  link5: The Whitestone Foundation
-  url5: https://thewhitestonefoundation.org/
+  link5: Wild Globalization
+  url5: https://wildglobalization.com/
+  link6: The Whitestone Foundation
+  url6: https://thewhitestonefoundation.org/
 
 site: 
   title: RELIGIOUS THEORY

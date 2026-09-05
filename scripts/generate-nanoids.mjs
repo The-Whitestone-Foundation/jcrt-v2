@@ -20,6 +20,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
 import { NANOID_SIZE, newNanoid } from "./lib/nanoid.mjs";
+import { walkFiles, isMarkdown } from "./lib/walk.mjs";
 
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CONTENT_DIR = path.join(REPO_ROOT, "content");
@@ -28,15 +29,7 @@ const flags = new Set(process.argv.slice(2));
 const CHECK = flags.has("--check");
 const STAGED = flags.has("--staged");
 
-function walk(dir) {
-	const out = [];
-	for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-		const full = path.join(dir, entry.name);
-		if (entry.isDirectory()) out.push(...walk(full));
-		else if (entry.isFile() && entry.name.endsWith(".md")) out.push(full);
-	}
-	return out;
-}
+const walk = (dir) => walkFiles(dir, { match: isMarkdown });
 
 // Inspect the front matter block for a nanoid key.
 //   hasFrontmatter — the file opens with a `---` fenced block

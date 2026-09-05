@@ -1,52 +1,15 @@
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
 
 import { stripMarkdown } from "../_config/markdownTitle.js";
+import { parseFrontMatter, readYaml as readYamlFile } from "../scripts/lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "../scripts/lib/walk.mjs";
+import { NON_ARTICLE_SLUGS, normalizePath, normalizeUrl } from "../scripts/lib/paths.mjs";
 const ROOT = process.cwd();
 const CONTENT_DIR = path.join(ROOT, "content");
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
-const NON_ARTICLE_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
 
-function readYamlFile(filePath) {
-	try {
-		return yaml.load(fs.readFileSync(filePath, "utf8")) || {};
-	} catch {
-		return {};
-	}
-}
-
-function parseFrontMatter(source) {
-	if (!source.startsWith("---")) return { data: {}, body: source };
-	const match = source.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)([\s\S]*)$/);
-	if (!match) return { data: {}, body: source };
-	try {
-		return {
-			data: yaml.load(match[1]) || {},
-			body: match[2] || "",
-		};
-	} catch {
-		return { data: {}, body: match[2] || "" };
-	}
-}
-
-function walkMarkdown(dir) {
-	const files = [];
-	const stack = [dir];
-	while (stack.length) {
-		const current = stack.pop();
-		if (!current || !fs.existsSync(current)) continue;
-		for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-			const fullPath = path.join(current, entry.name);
-			if (entry.isDirectory()) {
-				stack.push(fullPath);
-			} else if (entry.isFile() && entry.name.endsWith(".md")) {
-				files.push(fullPath);
-			}
-		}
-	}
-	return files.sort();
-}
+const walkMarkdown = (dir) => walkFiles(dir, { match: isMarkdown });
 
 function stripHtml(value) {
 	return String(value || "")
@@ -72,18 +35,6 @@ function markdownToPlainText(value) {
 		.replace(/[*_~]{1,3}/g, "")
 		.replace(/\s+/g, " ")
 		.trim();
-}
-
-function normalizeUrl(value, fallback = "https://jcrt.org") {
-	const raw = String(value || fallback).trim();
-	return (raw || fallback).replace(/\/+$/, "");
-}
-
-function normalizePath(value) {
-	const raw = String(value || "").split("?")[0].split("#")[0].trim();
-	if (!raw) return "";
-	const withLeadingSlash = raw.startsWith("/") ? raw : `/${raw}`;
-	return withLeadingSlash.endsWith("/") ? withLeadingSlash : `${withLeadingSlash}/`;
 }
 
 function contentPath(prefix, slug, data) {
@@ -121,7 +72,7 @@ function isPublished(data) {
 function readMetadata() {
 	const metadata = readYamlFile(METADATA_FILE);
 	const standardConfig = metadata.standard_site || {};
-	const siteUrl = normalizeUrl(standardConfig.url || metadata.url);
+	const siteUrl = normalizeUrl(standardConfig.url || metadata.url, "https://jcrt.org");
 	const filesUrl = normalizeUrl(metadata.files_url || "https://files.jcrt.org", "https://files.jcrt.org");
 	return {
 		metadata,

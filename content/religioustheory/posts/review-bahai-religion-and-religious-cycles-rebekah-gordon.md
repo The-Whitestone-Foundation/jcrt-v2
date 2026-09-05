@@ -83,4 +83,4 @@ Additionally, while the core concepts are good, when it comes to the particulars
 
 Overall, this is not a book I would recommend for serious use as a theoretical text,  but as a chronicle of the Baha’i faith it has decent potential.
 
-*Rebekah Gordon is a graduate in the Religious Studies department at the University of Denver. She is a poet and a musician in addition to an academic, and is an editor for the e-mag [Esthesis](http://www.esthesis.org/)* as well as an assistant editor for *[The Journal for Cultural and Religious Theory](https://jcrt.org). Her interests range from secular-sacred relations in America to religious fiction, semiotics, and redemption theology.*
+*Rebekah Gordon is a graduate student in the Religious Studies department at the University of Denver. She is a poet and a musician in addition to an academic, and is an editor for the e-mag [Esthesis](http://www.esthesis.org/)* as well as an assistant editor for *[The Journal for Cultural and Religious Theory](https://jcrt.org). Her interests range from secular-sacred relations in America to religious fiction, semiotics, and redemption theology.*

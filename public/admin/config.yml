@@ -270,6 +270,7 @@ collections:
       - {label: "DOI", name: "doi", widget: "string", required: false}
       - {label: "PDF File Name", name: "pdf", widget: "string", required: false}
       - {label: "Affiliation", name: "affiliation", widget: "string", required: false}
+      - {label: "ORCID", name: "orcid", widget: "string", required: false}
       - {label: "Abstract", name: "abstract", widget: "text", required: false}
       - {label: "Show Table of Contents", name: "toc", widget: "boolean", required: false, default: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
@@ -413,6 +414,14 @@ collections:
                   fields:
                     - {label: "Nav Text", name: "nav", widget: "string"}
                     - {label: "URL", name: "url", widget: "string"}
+                    - label: "Sub-pages"
+                      name: "children"
+                      widget: "list"
+                      required: false
+                      hint: "Shown under a chevron; the parent stays a link."
+                      fields:
+                        - {label: "Nav Text", name: "nav", widget: "string"}
+                        - {label: "URL", name: "url", widget: "string"}
             - label: "Info Section"
               name: "info"
               widget: "object"
@@ -473,6 +482,8 @@ collections:
             - {label: "Link 4 URL", name: "url4", widget: "string"}
             - {label: "Link 5 Label", name: "link5", widget: "string"}
             - {label: "Link 5 URL", name: "url5", widget: "string"}
+            - {label: "Link 6 Label", name: "link6", widget: "string", required: false}
+            - {label: "Link 6 URL", name: "url6", widget: "string", required: false}
         - label: "Theory Dir"
           name: "site"
           widget: "object"

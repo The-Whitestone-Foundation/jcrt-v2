@@ -70,11 +70,11 @@ Phase B  eleventy
 Phase C  { css:purge → css:optimize } ∥ pagefind ∥ { sitemaps:check → oai:validate:quick }
 ```
 
-Measured back-to-back on one workstation: **50.4s serial → 24.6s orchestrated**. The old
-chain is kept as `npm run build:serial` for comparison and fallback. Every step is still
-its own `npm run <name>`. Ordering constraints preserved: `sitemaps:generate` before
-Eleventy, `css:purge` before `css:optimize`, and `oai:validate:quick` alone in its group
-because `scripts/validate-oai-pmh.mjs` writes to the XML it validates.
+Measured back-to-back on one workstation: **50.4s serial → 24.6s orchestrated**. The same
+steps run one at a time with `node scripts/build.mjs --serial` (readable logs when
+debugging), and `--only <step>` runs a single step; `scripts/build.mjs` is the only place
+the steps are defined. Every step is still its own `npm run <name>`. Ordering constraints
+preserved: `sitemaps:generate` before Eleventy, `css:purge` before `css:optimize`.
 
 Two O(n·m) template scans removed, both now served by one `archiveArticlesByIssue`
 collection (`eleventy.config.js`, beside `archivesToc`):
@@ -237,8 +237,9 @@ the memoization will serve stale markup to every page.
 ```bash
 npm run build            # full production pipeline (alias of build:netlify)
 npm run build:netlify    # what Netlify runs
-npm run dev              # incremental dev server (QUICK_DEV=1)
-npm run start            # dev server with sitemaps regenerated first
+npm run dev              # incremental dev server on :8080 (QUICK_DEV=1)
+npm run dev:full         # full-site dev server on :8080
+npm test                 # script tests (also the first build step)
 npm run perf:benchmark   # Eleventy per-operation diagnostics
 ```
 

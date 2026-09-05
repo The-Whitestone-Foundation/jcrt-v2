@@ -56,4 +56,4 @@ Fitzgerald manages to compile and navigate the nebulous complexities of American
 
 This book is a boon to any individual seeking to better understand the religious underpinnings of the American political climate, be that for personal edification or teaching – secular or religious.
 
-*Rebekah Gordon is a graduate in the Religious Studies department at the University of Denver. She is an editor for the e-mag* [*Esthesis*](http://www.esthesis.org/) *as well book editor for* [*The Journal for Cultural and Religious Theory*](https://jcrt.org)*.*
+*Rebekah Gordon is a graduate student in the Religious Studies department at the University of Denver. She is an editor for the e-mag* [*Esthesis*](http://www.esthesis.org/) *as well book editor for* [*The Journal for Cultural and Religious Theory*](https://jcrt.org)*.*

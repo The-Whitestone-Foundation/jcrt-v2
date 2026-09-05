@@ -1,46 +1,17 @@
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
+import { readYaml } from "../scripts/lib/frontmatter.mjs";
+import { walkFiles } from "../scripts/lib/walk.mjs";
+import { normalizeUrl } from "../scripts/lib/paths.mjs";
 
 const ROOT = process.cwd();
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
 const LOCAL_METADATA_DIR = path.resolve(ROOT, "..", "jcrt-files", "metadata");
 const DEFAULT_FILES_URL = "https://files.jcrt.org";
 
-function readYaml(filePath) {
-	try {
-		return yaml.load(fs.readFileSync(filePath, "utf8")) || {};
-	} catch {
-		return {};
-	}
-}
-
-function normalizeFilesUrl(metadata) {
-	const url = String(metadata?.files_url || DEFAULT_FILES_URL).trim();
-	return url.replace(/\/+$/, "");
-}
-
 function toDateOnly(date) {
 	if (!(date instanceof Date) || Number.isNaN(date.getTime())) return "";
 	return date.toISOString().slice(0, 10);
-}
-
-function walkFiles(dirPath) {
-	const out = [];
-	const stack = [dirPath];
-	while (stack.length) {
-		const current = stack.pop();
-		if (!current || !fs.existsSync(current)) continue;
-		for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-			const fullPath = path.join(current, entry.name);
-			if (entry.isDirectory()) {
-				stack.push(fullPath);
-				continue;
-			}
-			if (entry.isFile()) out.push(fullPath);
-		}
-	}
-	return out;
 }
 
 const FALLBACK_PATHS = [
@@ -53,11 +24,12 @@ const FALLBACK_PATHS = [
 
 export default function filesMetadataEntries() {
 	const metadata = readYaml(METADATA_FILE);
-	const filesUrl = normalizeFilesUrl(metadata);
+	const filesUrl = normalizeUrl(metadata?.files_url, DEFAULT_FILES_URL);
 	const entries = [];
 
 	if (fs.existsSync(LOCAL_METADATA_DIR)) {
-		const files = walkFiles(LOCAL_METADATA_DIR);
+		// skipDotfiles: a stray .DS_Store used to ship as a <loc> in metadata-sitemap.xml.
+		const files = walkFiles(LOCAL_METADATA_DIR, { skipDotfiles: true });
 		for (const filePath of files) {
 			const rel = path.relative(LOCAL_METADATA_DIR, filePath).split(path.sep).join("/");
 			const loc = `${filesUrl}/metadata/${rel}`;

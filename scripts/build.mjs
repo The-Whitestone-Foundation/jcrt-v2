@@ -1,22 +1,21 @@
 /**
- * Production build orchestrator.
+ * Production build orchestrator, and the single registry of build steps.
  *
- * Replaces the serial `&&` chain that `build:netlify` used to be. Two savings:
- * independent post-Eleventy steps now overlap, and ~8 `npm run` process spawns are gone.
- *
- *   Phase A   nanoids:check ∥ standard:check ∥ cms:check   (read-only validators)
- *             then sitemaps:generate              (must precede Eleventy: _data/sitemapIndex.js
- *                                                  and the public/ passthrough read its output)
+ *   Phase A   test → nanoids:check → standard:check → cms:check   (read-only validators, ~1s
+ *             total; serial so a failure is the last thing on screen, not interleaved)
+ *             then sitemaps:generate                (must precede Eleventy: _data/sitemapIndex.js
+ *                                                    and the public/ passthrough read its output)
  *   Phase B   eleventy
- *   Phase C   { css:purge → css:optimize } ∥ run-pagefind ∥ { sitemaps:check → oai:validate }
+ *   Phase C   { css:purge → css:optimize } ∥ run-pagefind ∥ { sitemaps:check → oai:validate:quick }
  *
  * Phase C members are genuinely independent: pagefind reads _site HTML and never CSS; the
  * CSS chain rewrites only _site/css/*.css; the validators read public/sitemaps and _site XML.
- * oai:validate:quick is kept in its own serial group because scripts/validate-oai-pmh.mjs
- * writes (it patches the XML schemaLocation) and nothing else may touch that file concurrently.
  *
- * Every step remains available as its own `npm run <name>` for standalone debugging; the
- * definitions here mirror package.json.
+ * Flags:
+ *   --serial         run every step one after another in the canonical order (readable logs
+ *                    when debugging a failure)
+ *   --only <step>    run a single step from STEPS (this is how `npm run css:purge` works, so
+ *                    the purgecss arguments live in exactly one place)
  */
 
 import { spawn } from "node:child_process";
@@ -31,14 +30,14 @@ const ELEVENTY_ENV = {
 	ELEVENTY_RUN_MODE: "build",
 };
 
+// Insertion order is the canonical serial order.
 const STEPS = {
+	test: ["node", ["--test", "scripts/**/*.test.mjs"], {}],
 	"nanoids:check": ["node", ["scripts/generate-nanoids.mjs", "--check"], {}],
 	"standard:check": ["node", ["scripts/check-standard-site.mjs"], {}],
 	"cms:check": ["node", ["scripts/check-cms-fields.mjs"], {}],
 	"sitemaps:generate": ["node", ["scripts/generate-local-sitemaps.mjs"], {}],
 	eleventy: [path.join(BIN, "eleventy"), ["--quiet"], ELEVENTY_ENV],
-	"sitemaps:check": ["node", ["scripts/check-sitemaps.mjs"], {}],
-	"oai:validate:quick": ["node", ["scripts/validate-oai-pmh.mjs"], { OAI_VALIDATE_LEVEL: "quick" }],
 	"css:purge": [
 		path.join(BIN, "purgecss"),
 		[
@@ -51,8 +50,11 @@ const STEPS = {
 	],
 	"css:optimize": ["node", ["scripts/optimize-css.mjs"], {}],
 	pagefind: ["node", ["_config/run-pagefind.js"], { NODE_OPTIONS: "--max-old-space-size=4096" }],
+	"sitemaps:check": ["node", ["scripts/check-sitemaps.mjs"], {}],
+	"oai:validate:quick": ["node", ["scripts/validate-oai-pmh.mjs"], { OAI_VALIDATE_LEVEL: "quick" }],
 };
 
+const PHASE_A = ["test", "nanoids:check", "standard:check", "cms:check", "sitemaps:generate"];
 const timings = [];
 
 function run(name) {
@@ -80,29 +82,33 @@ function run(name) {
 	});
 }
 
-// Run steps one after another; used for the ordered groups inside a parallel phase.
 async function series(...names) {
 	for (const name of names) await run(name);
 }
 
 async function main() {
+	const argv = process.argv.slice(2);
+	const only = argv[argv.indexOf("--only") + 1];
+	if (argv.includes("--only")) {
+		await run(only);
+		return;
+	}
+
 	const wallStart = Date.now();
-
-	// Phase A -- validators are read-only and independent of each other.
-	await Promise.all([run("nanoids:check"), run("standard:check"), run("cms:check")]);
-	// Ordering constraint: Eleventy reads what this writes.
-	await run("sitemaps:generate");
-
-	// Phase B
-	await rm("_site", { recursive: true, force: true });
-	await run("eleventy");
-
-	// Phase C -- three independent chains.
-	await Promise.all([
-		series("css:purge", "css:optimize"),
-		run("pagefind"),
-		series("sitemaps:check", "oai:validate:quick"),
-	]);
+	if (argv.includes("--serial")) {
+		await series(...PHASE_A);
+		await rm("_site", { recursive: true, force: true });
+		await series(...Object.keys(STEPS).filter((name) => !PHASE_A.includes(name)));
+	} else {
+		await series(...PHASE_A);
+		await rm("_site", { recursive: true, force: true });
+		await run("eleventy");
+		await Promise.all([
+			series("css:purge", "css:optimize"),
+			run("pagefind"),
+			series("sitemaps:check", "oai:validate:quick"),
+		]);
+	}
 
 	const total = ((Date.now() - wallStart) / 1000).toFixed(1);
 	console.log(`\n[build] step times: ${timings.map((t) => `${t.name} ${t.seconds}s`).join(", ")}`);

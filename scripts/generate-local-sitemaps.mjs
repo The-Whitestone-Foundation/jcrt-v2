@@ -1,14 +1,16 @@
 import fs from "node:fs";
 import { isCcBy, rightsText } from "../_config/license.js";
 import path from "node:path";
-import * as yaml from "js-yaml";
 import { subjectLabels } from "../_config/subjects.js";
 import {
   buildOaiRecord,
+  escapeXml,
   OAI_METADATA_PREFIX,
   OAI_PHILOSOPHY_SET,
   renderStaticListRecordsResponse,
 } from "./lib/oai-pmh.mjs";
+import { parseFrontMatter } from "./lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "./lib/walk.mjs";
 
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
@@ -39,46 +41,7 @@ function isPhilosophyEntry(entry) {
   );
 }
 
-function parseFrontMatter(content) {
-  if (!content.startsWith("---")) return {};
-  const match = content.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-  if (!match) return {};
-  try {
-    return yaml.load(match[1]) || {};
-  } catch {
-    return {};
-  }
-}
-
-function escXml(str) {
-  return String(str || "")
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/\"/g, "&quot;")
-    .replace(/'/g, "&apos;");
-}
-
-function walkMarkdown(dir) {
-  const out = [];
-  const stack = [dir];
-  while (stack.length) {
-    const current = stack.pop();
-    if (!current || !fs.existsSync(current)) continue;
-    const items = fs.readdirSync(current, { withFileTypes: true });
-    for (const item of items) {
-      const full = path.join(current, item.name);
-      if (item.isDirectory()) {
-        stack.push(full);
-        continue;
-      }
-      if (item.isFile() && item.name.endsWith(".md")) {
-        out.push(full);
-      }
-    }
-  }
-  return out;
-}
+const walkMarkdown = (dir) => walkFiles(dir, { match: isMarkdown });
 
 function toDateOnly(value) {
   if (!value) return "";
@@ -137,7 +100,7 @@ function getIssueMeta(issueSlug, cache) {
   const issueIndex = path.join(ARCHIVES_DIR, issueSlug, "index.njk");
   let meta = {};
   try {
-    meta = parseFrontMatter(fs.readFileSync(issueIndex, "utf8"));
+    meta = parseFrontMatter(fs.readFileSync(issueIndex, "utf8")).data;
   } catch {
     meta = {};
   }
@@ -160,7 +123,7 @@ function readArchiveEntries() {
 
     const slug = path.basename(filePath, ".md");
     const content = fs.readFileSync(filePath, "utf8");
-    const data = parseFrontMatter(content);
+    const { data } = parseFrontMatter(content);
     if (!data || typeof data !== "object") continue;
 
     const issueMeta = getIssueMeta(issueSlug, cache);
@@ -219,7 +182,7 @@ function readArchiveEntries() {
 
 function readTheoryEntries() {
   return THEORY_DIRS.flatMap(walkMarkdown).flatMap((filePath) => {
-    const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+    const { data } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
     if (!data || typeof data !== "object") return [];
     const slug = String(data.slug || path.basename(filePath, ".md")).trim();
     const title = String(data.title || "").trim();
@@ -273,36 +236,36 @@ function generateDoaj(entries) {
   for (const e of filtered) {
     lines.push(`  <record>`);
     lines.push(`    <language>eng</language>`);
-    lines.push(`    <publisher>${escXml(PUBLISHER_DOAJ)}</publisher>`);
-    lines.push(`    <journalTitle>${escXml(JOURNAL_TITLE_DOAJ)}</journalTitle>`);
+    lines.push(`    <publisher>${escapeXml(PUBLISHER_DOAJ)}</publisher>`);
+    lines.push(`    <journalTitle>${escapeXml(JOURNAL_TITLE_DOAJ)}</journalTitle>`);
     lines.push(`    <issn>${ISSN_PLAIN}</issn>`);
-    lines.push(`    <publicationDate>${escXml(e.dateStr)}</publicationDate>`);
-    lines.push(`    <volume>${escXml(e.volume)}</volume>`);
-    lines.push(`    <issue>${escXml(e.issueNum)}</issue>`);
-    lines.push(`    <startPage>${escXml(e.sp)}</startPage>`);
-    lines.push(`    <endPage>${escXml(e.ep)}</endPage>`);
-    lines.push(`    <publisherRecordId>${escXml(e.slug)}</publisherRecordId>`);
+    lines.push(`    <publicationDate>${escapeXml(e.dateStr)}</publicationDate>`);
+    lines.push(`    <volume>${escapeXml(e.volume)}</volume>`);
+    lines.push(`    <issue>${escapeXml(e.issueNum)}</issue>`);
+    lines.push(`    <startPage>${escapeXml(e.sp)}</startPage>`);
+    lines.push(`    <endPage>${escapeXml(e.ep)}</endPage>`);
+    lines.push(`    <publisherRecordId>${escapeXml(e.slug)}</publisherRecordId>`);
     lines.push(`    <documentType>article</documentType>`);
-    lines.push(`    <title language="eng">${escXml(e.title)}</title>`);
+    lines.push(`    <title language="eng">${escapeXml(e.title)}</title>`);
 
     if (e.authors.length) {
       lines.push(`    <authors>`);
       for (const author of e.authors) {
-        lines.push(`      <author><name>${escXml(author)}</name></author>`);
+        lines.push(`      <author><name>${escapeXml(author)}</name></author>`);
       }
       lines.push(`    </authors>`);
     }
 
     if (e.description) {
-      lines.push(`    <abstract language="eng">${escXml(e.description)}</abstract>`);
+      lines.push(`    <abstract language="eng">${escapeXml(e.description)}</abstract>`);
     }
 
-    lines.push(`    <fullTextUrl format="${e.pdfUrl ? "pdf" : "html"}">${escXml(e.canonicalUrl)}</fullTextUrl>`);
+    lines.push(`    <fullTextUrl format="${e.pdfUrl ? "pdf" : "html"}">${escapeXml(e.canonicalUrl)}</fullTextUrl>`);
 
     if (e.keywords.length) {
       lines.push(`    <keywords language="eng">`);
       for (const kw of e.keywords) {
-        lines.push(`      <keyword>${escXml(kw)}</keyword>`);
+        lines.push(`      <keyword>${escapeXml(kw)}</keyword>`);
       }
       lines.push(`    </keywords>`);
     }
@@ -373,11 +336,20 @@ function generateOai(entries) {
     compressions: ["gzip"],
   };
 
+  // The static file is a build artefact, not a live response: the edge function re-renders
+  // responseDate per request. Stamp it with the newest record datestamp so the tracked file
+  // only changes when a record does (a wall-clock stamp dirtied git on every build).
+  const latestDatestamp =
+    records
+      .map((record) => String(record.datestamp || ""))
+      .filter(Boolean)
+      .sort()
+      .at(-1) || today;
+
   return {
-    xml: renderStaticListRecordsResponse({ baseURL, records }),
+    xml: renderStaticListRecordsResponse({ baseURL, records, responseDate: `${latestDatestamp}T00:00:00Z` }),
     count: records.length,
     index: {
-      generatedAt: new Date().toISOString(),
       baseURL,
       metadataPrefix: OAI_METADATA_PREFIX,
       ...identify,
@@ -401,17 +373,25 @@ function generateCitationSitemap(entries, extension) {
   ];
 
   for (const url of [...urls].sort()) {
-    lines.push(`  <url><loc>${escXml(url)}</loc></url>`);
+    lines.push(`  <url><loc>${escapeXml(url)}</loc></url>`);
   }
 
   lines.push(`</urlset>`);
   return { xml: `${lines.join("\n")}\n`, count: urls.size };
 }
 
+// Write only when the bytes differ: _data/sitemapIndex.js turns these files' mtimes into
+// <lastmod>, so an unconditional write would advertise a change on every build.
 function writeFile(relativePath, content) {
   const outputPath = path.join(OUT_DIR, relativePath);
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  fs.writeFileSync(outputPath, content, "utf8");
+  let existing = null;
+  try {
+    existing = fs.readFileSync(outputPath, "utf8");
+  } catch {
+    existing = null;
+  }
+  if (existing !== content) fs.writeFileSync(outputPath, content, "utf8");
   return outputPath;
 }
 

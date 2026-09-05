@@ -2,7 +2,15 @@ import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 
-const VERSIONED_FILES = ["css/bs.css", "public/css/index.css", "public/css/font.css"];
+// Every file served with the `?v=` token (head_static.njk, base.njk). Adding one here
+// changes the token once, which rewrites every HTML file for that deploy.
+const VERSIONED_FILES = [
+	"css/bs.css",
+	"public/css/index.css",
+	"public/css/font.css",
+	"public/css/speedup.css",
+	"public/js/menu.js",
+];
 
 function getAssetContentHash() {
 	const hash = crypto.createHash("sha256");

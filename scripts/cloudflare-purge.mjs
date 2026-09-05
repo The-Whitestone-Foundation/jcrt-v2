@@ -18,16 +18,13 @@
  */
 
 import { pathToFileURL } from "node:url";
+import { normalizeUrl } from "./lib/paths.mjs";
 
 const DEFAULT_SITE_URL = "https://jcrt.org";
 const API_ROOT = "https://api.cloudflare.com/client/v4";
 const MAX_URLS_PER_REQUEST = 30; // Free/Pro plan limit for purge-by-URL
 
-function normalizeSiteUrl(url) {
-	const trimmed = String(url || "").trim();
-	if (!trimmed) return DEFAULT_SITE_URL;
-	return trimmed.endsWith("/") ? trimmed.slice(0, -1) : trimmed;
-}
+const normalizeSiteUrl = (url) => normalizeUrl(url, DEFAULT_SITE_URL);
 
 function parseArgs(argv) {
 	const args = { dryRun: false, urls: [] };

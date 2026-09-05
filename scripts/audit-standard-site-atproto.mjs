@@ -1,7 +1,7 @@
-import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
 import standardSite from "../_data/standardSite.js";
+import { readYaml } from "./lib/frontmatter.mjs";
+import { walkFiles } from "./lib/walk.mjs";
 
 const ROOT = process.cwd();
 const RECORDS_FILE = path.join(ROOT, "_data", "standardSiteRecords.yaml");
@@ -9,28 +9,7 @@ const FILES_ROOT = path.resolve(ROOT, "..", "jcrt-files");
 const FILES_URL = "https://files.jcrt.org";
 const PRIORITY_PREFIXES = ["/blog/", "/religioustheory/", "/archives/", "/authors/"];
 
-function readYaml(filePath) {
-	try {
-		return yaml.load(fs.readFileSync(filePath, "utf8")) || {};
-	} catch {
-		return {};
-	}
-}
-
-function walkPdfs(dir) {
-	if (!fs.existsSync(dir)) return [];
-	const files = [];
-	const stack = [dir];
-	while (stack.length) {
-		const current = stack.pop();
-		for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-			const fullPath = path.join(current, entry.name);
-			if (entry.isDirectory()) stack.push(fullPath);
-			else if (entry.isFile() && entry.name.toLowerCase().endsWith(".pdf")) files.push(fullPath);
-		}
-	}
-	return files.sort();
-}
+const walkPdfs = (dir) => walkFiles(dir, { match: (name) => name.toLowerCase().endsWith(".pdf") });
 
 function bucketFor(documentPath) {
 	return PRIORITY_PREFIXES.find((prefix) => documentPath.startsWith(prefix)) || "(other)";

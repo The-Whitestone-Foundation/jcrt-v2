@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { normalizeUrl } from "./lib/paths.mjs";
 
 const SITE_DIR = path.resolve(process.cwd(), "_site");
 const CACHE_DIR = path.resolve(process.cwd(), ".cache");
@@ -8,11 +9,7 @@ const DEFAULT_SITE_URL = "https://jcrt.org";
 const DEFAULT_ENDPOINTS = ["https://api.indexnow.org/indexnow"];
 const MAX_URLS_PER_REQUEST = 10000;
 
-function normalizeSiteUrl(url) {
-	const trimmed = String(url || "").trim();
-	if (!trimmed) return DEFAULT_SITE_URL;
-	return trimmed.endsWith("/") ? trimmed.slice(0, -1) : trimmed;
-}
+const normalizeSiteUrl = (url) => normalizeUrl(url, DEFAULT_SITE_URL);
 
 function readUrlsFromSitemapXml(xml) {
 	const urls = [];

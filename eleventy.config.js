@@ -455,14 +455,11 @@ export default async function (eleventyConfig) {
 	});
 
 	eleventyConfig.addPlugin(pluginFilters);
-	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	const isLeanBuild = Boolean(process.env.LEAN_BUILD);
 	const isLocalBuild = process.env.LOCAL_BUILD === "1";
-	const isBuildMode = process.env.ELEVENTY_RUN_MODE === "build";
 	const isBenchMode = process.env.BENCH_11TY === "1";
 	const benchIssue = String(process.env.BENCH_ISSUE || "24.2").trim();
 	const siteBaseUrl = getSiteUrlFromMetadata();
-	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 	eleventyConfig.addGlobalData("isLeanBuild", isLeanBuild);
 	// Versioned pagefind bundle path so a pagefind upgrade changes asset URLs
 	// and bypasses stale CDN copies of pagefind.js (see public/_redirects).
@@ -681,14 +678,9 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
 		preAttributes: { tabindex: 0 },
 	});
-	// Font Awesome icons are now served via inline SVG sprite (icon-sprite.njk)
-	// instead of the @11ty/font-awesome PostHTML transform (was 57s / 82% of build)
-	// HTML transforms are expensive; CI sets `FAST_BUILD=1` to skip these.
-	// NOTE: HtmlBasePlugin and InputPathToUrlTransformPlugin are Eleventy 3.x features
-	// if (!isFastBuild) {
-	// 	eleventyConfig.addPlugin(HtmlBasePlugin);
-	// 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
-	// }
+	// Icons are an inline SVG sprite (partials/icon-sprite.njk); the old @11ty/font-awesome
+	// PostHTML transform was 57s / 82% of the build. HTML transforms stay expensive at this
+	// page count, so none of Eleventy's optional HTML plugins are enabled.
 	const md = new markdownIt({
 		html: true,
 		breaks: true,
@@ -756,16 +748,6 @@ export default async function (eleventyConfig) {
 		flat: true,
 		wrapper: "div",
 	});
-
-	// NOTE: IdAttributePlugin is an Eleventy 3.x feature
-	// if (!isFastBuild) {
-	// 	eleventyConfig.addPlugin(IdAttributePlugin, {
-	// 		slugify: (text) => {
-	// 			const slug = eleventyConfig.getFilter("slugify")(text);
-	// 			return `print-${slug}`;
-	// 		},
-	// 	});
-	// }
 
 	eleventyConfig.addFilter("authorSlug", authorSlug);
 	eleventyConfig.addFilter("splitAuthors", splitAuthors);
@@ -1253,10 +1235,6 @@ export default async function (eleventyConfig) {
 	eleventyConfig.ignores.add("_drafts/**");
 	eleventyConfig.ignores.add("submissions/**");
 	eleventyConfig.ignores.add("**/* copy.md");
-
-	eleventyConfig.addShortcode("currentBuildDate", () => {
-		return new Date().toISOString();
-	});
 }
 
 export const config = {

@@ -149,7 +149,7 @@ Foucault uses the history of the French prison system to assert the indivisibili
 
 > “But a punishment like forced labour or even imprisonment – mere loss of liberty – has never functioned without a certain additional element of punishment that certainly concerns the body itself: rationing of food, sexual deprivation, corporal punishment, solitary confinement … There remains, therefore, a trace of ‘torture’ in the modern mechanisms of criminal justice – a trace that has not been entirely overcome, but which is enveloped, increasingly, by the non-corporeal nature of the penal system.”[^30]
 
-*Rebekah Gordon is a graduate in the Religious Studies department at the University of Denver. She is a poet and a musician in addition to an academic, and is an editor for the e-mag [Esthesis](http://www.esthesis.org)* as well as an assistant editor for *[The Journal for Cultural and Religious Theory](https://jcrt.org). Her interests range from secular-sacred relations in America to religious fiction, semiotics, and redemption theology.* 
+*Rebekah Gordon is a graduate student in the Religious Studies department at the University of Denver. She is a poet and a musician in addition to an academic, and is an editor for the e-mag [Esthesis](http://www.esthesis.org)* as well as an assistant editor for *[The Journal for Cultural and Religious Theory](https://jcrt.org). Her interests range from secular-sacred relations in America to religious fiction, semiotics, and redemption theology.* 
 
 ***
 ## Footnotes

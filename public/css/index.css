@@ -1,5 +1,8 @@
 :root {
-    --sidebar-width: 26em;
+    /* px, not em: the value is read by the sidebar (body-size text), the content shell and the
+       toggle button (1.5rem text). In em it resolved differently on each, which parked the open
+       hamburger 340px too far right. These are the widths the em values actually rendered at. */
+    --sidebar-width: 468px;
     --btn-margin-top: 10px;
     --btn-width: 50px; 
     --default-padding: 50px;
@@ -1391,7 +1394,7 @@ blockquote{border-left:6px solid #ec5033;margin:1.5em 10px;padding:.5em 10px;quo
 }
 @media (max-width: 800px) {
     :root {
-        --sidebar-width: 280px; 
+        --sidebar-width: 320px;
     }
 
     #sidebar-container {
@@ -2197,7 +2200,7 @@ body.sidebar-open #menu-toggle-btn {
 
 @media (max-width: 1680px) {
     :root {
-        --sidebar-width: 24em;
+        --sidebar-width: 352px;
         --jcrt-inner-padding-x: 5em;
     }
 
@@ -2237,9 +2240,15 @@ body.sidebar-open #menu-toggle-btn {
     }
 }
 
+@media (max-width: 1280px) {
+    :root {
+        --sidebar-width: 320px;
+    }
+}
+
 @media (max-width: 736px) {
     :root {
-        --sidebar-width: min(24em, calc(100vw - 4.5em));
+        --sidebar-width: min(320px, calc(100vw - 60px));
         --jcrt-inner-padding-x: 2em;
     }
 
@@ -2476,4 +2485,55 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
 
 .author-social[open] summary::after {
     content: " ▴";
+}
+
+/* Narrowest phones: body text drops to 9pt in font.css, which is what the old
+   min(24em, 100vw - 4.5em) rendered as. Mirrored in partials/head_static.njk. */
+@media (max-width: 360px) {
+    :root {
+        --sidebar-width: min(288px, calc(100vw - 54px));
+    }
+}
+
+/* Sidebar submenus (metadata.sidebar.menu.list[].children). The parent stays a link; the
+   chevron is its own button so keyboard and screen-reader users get a real disclosure.
+   No transitions, matching the rest of the sidebar. */
+.nav-item-editorial .nav-row {
+    display: flex;
+    align-items: stretch;
+}
+.nav-item-editorial .nav-row > a {
+    flex: 1 1 auto;
+}
+.nav-opener {
+    flex: 0 0 44px;
+    border: 0;
+    border-left: 1px solid rgba(0, 0, 0, 0.08);
+    background: none;
+    color: #000;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+}
+.nav-opener:hover,
+.nav-opener:focus-visible {
+    color: var(--sidebar-accent, #ff1423);
+    background-color: var(--sidebar-accent-bg, rgba(255, 20, 35, 0.08));
+}
+.nav-opener[aria-expanded="true"] .icon-svg {
+    transform: rotate(180deg);
+}
+.nav-sub {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 1rem;
+}
+.nav-sub[hidden] {
+    display: none;
+}
+.nav-item-sub a {
+    font-size: 1rem;
+    font-weight: 600;
 }

@@ -3,9 +3,9 @@ import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 
-import * as yaml from "js-yaml";
-
 import standardSite from "../_data/standardSite.js";
+import { parseFrontMatter } from "./lib/frontmatter.mjs";
+import { normalizePath } from "./lib/paths.mjs";
 
 const LIMIT = 298;
 const SITE_URL = "https://jcrt.org";
@@ -61,23 +61,6 @@ function facets(text, url) {
 	});
 }
 
-function normalizePath(value) {
-	const raw = String(value || "").split("?")[0].split("#")[0].trim();
-	if (!raw) return "";
-	const leading = raw.startsWith("/") ? raw : `/${raw}`;
-	return leading.endsWith("/") ? leading : `${leading}/`;
-}
-
-function frontMatter(source) {
-	const match = String(source).match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return {};
-	try {
-		return yaml.load(match[1]) || {};
-	} catch {
-		return {};
-	}
-}
-
 // Mirrors the path each content file becomes in _data/standardSite.js: the
 // directory below content/ is the URL prefix, unless front matter overrides it.
 function documentPathForFile(file) {
@@ -85,7 +68,7 @@ function documentPathForFile(file) {
 	if (!relative.startsWith("content/") || !relative.endsWith(".md")) return "";
 	const prefix = `/${path.posix.dirname(relative.slice("content/".length))}`;
 	const slug = path.posix.basename(relative, ".md");
-	const data = fs.existsSync(relative) ? frontMatter(fs.readFileSync(relative, "utf8")) : {};
+	const data = fs.existsSync(relative) ? parseFrontMatter(fs.readFileSync(relative, "utf8")).data : {};
 	if (typeof data.permalink === "string" && data.permalink.startsWith("/")) return normalizePath(data.permalink);
 	return normalizePath(`${prefix}/${data.slug || slug}/`);
 }

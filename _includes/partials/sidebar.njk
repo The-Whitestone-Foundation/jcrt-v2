@@ -21,7 +21,23 @@
 <ul class="nav-editorial">
   {% for n in metadata.sidebar.menu.list %}
     <li class="nav-item-editorial">
+      {% if n.children and n.children.length %}
+      {# Parent stays a link; the chevron is a disclosure button (menu.js opens the one
+         holding the current page and keeps a single submenu open at a time). #}
+      <div class="nav-row">
+        <a href="{{n.url}}" class="border-bottom">{{n.nav}}</a>
+        <button type="button" class="nav-opener" aria-expanded="false" aria-controls="submenu-{{ loop.index }}" aria-label="Show {{n.nav}} pages">
+          <svg class="icon-svg" aria-hidden="true"><use href="#fa-caret-down"/></svg>
+        </button>
+      </div>
+      <ul class="nav-sub" id="submenu-{{ loop.index }}" hidden>
+        {% for c in n.children %}
+        <li class="nav-item-editorial nav-item-sub"><a href="{{c.url}}" class="border-bottom">{{c.nav}}</a></li>
+        {% endfor %}
+      </ul>
+      {% else %}
       <a href="{{n.url}}" class="border-bottom">{{n.nav}}</a>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>

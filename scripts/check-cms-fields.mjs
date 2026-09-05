@@ -13,6 +13,8 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import * as yaml from "js-yaml";
+import { parseFrontMatter } from "./lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "./lib/walk.mjs";
 
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CONFIG = path.join(REPO_ROOT, "public", "admin", "config.yml");
@@ -23,8 +25,7 @@ let failures = 0;
 function readData(file) {
   const text = fs.readFileSync(file, "utf8");
   if (file.endsWith(".yaml") || file.endsWith(".yml")) return yaml.load(text);
-  const match = /^---\r?\n([\s\S]*?)\r?\n---/.exec(text);
-  return match ? yaml.load(match[1]) : {};
+  return parseFrontMatter(text).data;
 }
 
 function check(file, data, fields, prefix = "") {
@@ -44,14 +45,6 @@ function check(file, data, fields, prefix = "") {
   }
 }
 
-function walkMarkdown(dir, out) {
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) walkMarkdown(full, out);
-    else if (entry.name.endsWith(".md")) out.push(full);
-  }
-}
-
 for (const collection of cfg.collections) {
   if (collection.folder) {
     const dir = path.join(REPO_ROOT, collection.folder);
@@ -60,8 +53,7 @@ for (const collection of cfg.collections) {
       failures++;
       continue;
     }
-    const files = [];
-    walkMarkdown(dir, files);
+    const files = walkFiles(dir, { match: isMarkdown });
     for (const file of files) {
       let data;
       try { data = readData(file); } catch { continue; }

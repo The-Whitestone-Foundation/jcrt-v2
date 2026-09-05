@@ -69,11 +69,12 @@
   /* Sidebar + toggle, both states, every width: index.css is async, so the first paint must
      already be final or the menu paints in flow and the hamburger jumps to its fixed spot.
      Values mirror index.css (sidebar width, page gutter, toggle geometry, open layout). */
-  :root { --sidebar-width: 26em; --jcrt-page-gutter: clamp(1rem, 4vw, 2.5rem); }
-  @media (max-width: 1680px) { :root { --sidebar-width: 24em; } }
+  :root { --sidebar-width: 468px; --jcrt-page-gutter: clamp(1rem, 4vw, 2.5rem); }
+  @media (max-width: 1680px) { :root { --sidebar-width: 352px; } }
+  @media (max-width: 1280px) { :root { --sidebar-width: 320px; } }
   @media (max-width: 1195px) { :root { --jcrt-page-gutter: clamp(0.75rem, 3vw, 1.25rem); } }
-  @media (max-width: 800px) { :root { --sidebar-width: 280px; } }
-  @media (max-width: 736px) { :root { --sidebar-width: min(24em, calc(100vw - 4.5em)); --jcrt-page-gutter: 0.5rem; } }
+  @media (max-width: 736px) { :root { --sidebar-width: min(320px, calc(100vw - 60px)); --jcrt-page-gutter: 0.5rem; } }
+  @media (max-width: 360px) { :root { --sidebar-width: min(288px, calc(100vw - 54px)); } }
   #sidebar-container {
     position: fixed;
     top: 0;

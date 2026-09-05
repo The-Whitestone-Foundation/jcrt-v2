@@ -1,22 +1,22 @@
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
+import { parseFrontMatter } from "../scripts/lib/frontmatter.mjs";
+import { walkFiles } from "../scripts/lib/walk.mjs";
 
 const ROOT = path.join(process.cwd(), "content", "sitemaps");
 const EXTERNAL_SEARCH_SITEMAP_URL = "https://files.jcrt.org/metadata/search-sitemap.xml";
 // Canonical index of every file the CDN serves (per-folder sitemaps under /sitemaps/).
 const EXTERNAL_CDN_SITEMAP_INDEX_URL = "https://files.jcrt.org/sitemap.xml";
-const PROTECTED_SITEMAPS = [
-	"/sitemaps/oai_dc.xml",
-	"/sitemaps/doaj-archives.xml"
-];
+// A <sitemapindex> child must be a <urlset>. oai_dc.xml, doaj-archives.xml and
+// datacite.xml are metadata payloads (<records>) with no <url> entries; Search Console
+// rejects them as index children. They stay discoverable through the <link rel="alternate">
+// tags in partials/head_static.njk and the /oai endpoint.
 const EXCLUDED_FROM_MAIN_INDEX = new Set([
 	"/sitemaps/sitemaps.xml",
 	"/media-sitemap.xml",
+	"/sitemaps/datacite.xml",
 ]);
 const LOCAL_METADATA_SITEMAPS = [
-	{ path: "/sitemaps/doaj-archives.xml", file: path.join("public", "sitemaps", "doaj-archives.xml") },
-	{ path: "/sitemaps/oai_dc.xml", file: path.join("public", "sitemaps", "oai_dc.xml") },
 	{ path: "/sitemaps/citations/ris-sitemap.xml", file: path.join("public", "sitemaps", "citations", "ris-sitemap.xml") },
 	{ path: "/sitemaps/citations/csl-json-sitemap.xml", file: path.join("public", "sitemaps", "citations", "csl-json-sitemap.xml") },
 ];
@@ -25,27 +25,6 @@ const LOCAL_METADATA_SITEMAPS = [
 // sitemap.xml unparseable as an index. Feeds are advertised via <link rel="alternate">.
 const ALWAYS_INCLUDE_FEEDS = [];
 const JCRT_FILES_METADATA = path.resolve(process.cwd(), "..", "jcrt-files", "metadata");
-
-function walk(dir) {
-	const out = [];
-	for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-		const full = path.join(dir, entry.name);
-		if (entry.isDirectory()) out.push(...walk(full));
-		else if (entry.isFile() && entry.name.endsWith(".xml.njk")) out.push(full);
-	}
-	return out;
-}
-
-function parseFrontMatter(content) {
-	if (!content.startsWith("---")) return {};
-	const match = content.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return {};
-	try {
-		return yaml.load(match[1]) || {};
-	} catch {
-		return {};
-	}
-}
 
 function toDateOnly(value) {
 	const d = new Date(value);
@@ -66,24 +45,15 @@ function getFileLastmodOrEmpty(filePath) {
 	}
 }
 
-/**
- * Build the sitemap index, ensuring all sitemaps/feeds are included with no duplicates,
- * except for protected sitemaps/feeds (philpapers.xml, oai_dc.xml, doaj-archives.xml),
- * which are always included even if they would otherwise be deduplicated.
- */
+/** Build the sitemap index: every content/sitemaps/*.xml.njk plus the CDN and citation sitemaps, deduplicated. */
 export default function sitemapIndex() {
-	let files = [];
-	try {
-		files = walk(ROOT);
-	} catch {
-		return [];
-	}
+	const files = walkFiles(ROOT, { match: (name) => name.endsWith(".xml.njk") });
 
 	const fallbackLastmod = getFallbackLastmod();
 	const entries = [];
 	for (const filePath of files) {
 		const raw = fs.readFileSync(filePath, "utf8");
-		const fm = parseFrontMatter(raw);
+		const fm = parseFrontMatter(raw).data;
 		const permalink = String(fm.permalink || "").trim();
 		if (!permalink || !permalink.endsWith(".xml")) continue;
 		if (EXCLUDED_FROM_MAIN_INDEX.has(permalink)) continue;
@@ -145,16 +115,10 @@ export default function sitemapIndex() {
 		});
 	}
 
-	// Deduplicate, but allow protected sitemaps/feeds to appear even if duplicated
 	const unique = new Map();
 	for (const item of entries) {
 		const key = item.loc || item.path;
-		if (PROTECTED_SITEMAPS.includes(key)) {
-			// Always allow protected sitemaps/feeds
-			unique.set(key + "#protected", item);
-		} else {
-			if (!unique.has(key)) unique.set(key, item);
-		}
+		if (!unique.has(key)) unique.set(key, item);
 	}
 	return [...unique.values()].sort((a, b) => (a.loc || a.path).localeCompare(b.loc || b.path));
 }

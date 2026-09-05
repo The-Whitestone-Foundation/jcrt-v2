@@ -47,4 +47,28 @@ document.addEventListener("DOMContentLoaded", () => {
 	desktop.addEventListener("change", (e) => {
 		if (!e.matches && isOpen()) setOpen(false);
 	});
+
+	// Submenus (Editorial's accordion): the chevron button discloses a nested list, one open
+	// at a time. The sidebar markup is identical on every page, so the current page is marked
+	// and its submenu opened here rather than at build time.
+	const here = location.pathname;
+	const openers = [...(sidebarMenu || document).querySelectorAll(".nav-opener")];
+	const submenuOf = (btn) => document.getElementById(btn.getAttribute("aria-controls"));
+	const setExpanded = (btn, open) => {
+		btn.setAttribute("aria-expanded", String(open));
+		const sub = submenuOf(btn);
+		if (sub) sub.hidden = !open;
+	};
+	for (const link of (sidebarMenu || document).querySelectorAll(".nav-editorial a")) {
+		if (link.getAttribute("href") === here) link.setAttribute("aria-current", "page");
+	}
+	for (const btn of openers) {
+		btn.addEventListener("click", (e) => {
+			e.stopPropagation();
+			const open = btn.getAttribute("aria-expanded") !== "true";
+			for (const other of openers) setExpanded(other, other === btn && open);
+		});
+		const item = btn.closest(".nav-item-editorial");
+		if (item && item.querySelector('a[aria-current="page"]')) setExpanded(btn, true);
+	}
 });

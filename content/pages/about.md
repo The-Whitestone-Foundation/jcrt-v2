@@ -26,7 +26,7 @@ In addition to articles, *Religious Theory* publishes reviews of current books a
 
 ## Ownership and management
 
-JCRT and *Religious Theory* are owned and published, under its Whitestone Publications imprint, by [The Whitestone Foundation](https://thewhitestonefoundation.org/), a 501(c)(3) non-profit corporation registered in and operating from the state of Colorado, United States. *The Journal for Cultural and Religious Theory* is a registered trade name of the Foundation. The journal is run by its [editorial board](/editors/); the Senior Editor is responsible for the content of the journal. Other Whitestone publications include [*The New Polis*](http://thenewpolis.com/), [*The New Polis* Journal](https://journal.thenewpolis.com), and [*Esthesis*](http://esthesis.org/).
+JCRT and *Religious Theory* are owned and published, under its Whitestone Publications imprint, by [The Whitestone Foundation](https://thewhitestonefoundation.org/), a 501(c)(3) non-profit corporation registered in and operating from the state of Colorado, United States. *The Journal for Cultural and Religious Theory* is a registered trade name of the Foundation. The journal is run by its [editorial board](/editors/); the Senior Editor is responsible for the content of the journal. Other Whitestone publications include [*The New Polis*](http://thenewpolis.com/), [*The New Polis* Journal](https://journal.thenewpolis.com), [*Esthesis*](http://esthesis.org/), and our newest member [Wild Globalization](https://wildglobalization.com).
 
 **Publisher:** The Whitestone Foundation{% if metadata.publisher_address %}, {{ metadata.publisher_address }}{% endif %}  
 **Contact:** {{ metadata.contact_person or "The Editors" }}, <editor@jcrt.org> or the [contact form](/contact/)  

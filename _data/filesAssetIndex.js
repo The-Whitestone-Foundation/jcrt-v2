@@ -1,60 +1,20 @@
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
+import { parseFrontMatter, readYaml } from "../scripts/lib/frontmatter.mjs";
+import { walkFiles } from "../scripts/lib/walk.mjs";
+import { normalizeUrl } from "../scripts/lib/paths.mjs";
 
 const ROOT = process.cwd();
 const CONTENT_DIR = path.join(ROOT, "content");
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
 const IMAGE_EXT_RE = /\.(png|jpe?g|gif|webp|svg)$/i;
 
-function parseFrontMatter(content) {
-	if (!content.startsWith("---")) return {};
-	const match = content.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return {};
-	try {
-		return yaml.load(match[1]) || {};
-	} catch {
-		return {};
-	}
-}
-
-function readYaml(filePath) {
-	try {
-		return yaml.load(fs.readFileSync(filePath, "utf8")) || {};
-	} catch {
-		return {};
-	}
-}
-
-function walkContentFiles(rootDir) {
-	const out = [];
-	const stack = [rootDir];
-	while (stack.length) {
-		const current = stack.pop();
-		if (!current || !fs.existsSync(current)) continue;
-		for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-			const fullPath = path.join(current, entry.name);
-			if (entry.isDirectory()) {
-				stack.push(fullPath);
-				continue;
-			}
-			if (!entry.isFile()) continue;
-			if (entry.name.endsWith(".md") || entry.name.endsWith(".njk")) {
-				out.push(fullPath);
-			}
-		}
-	}
-	return out;
-}
+const walkContentFiles = (rootDir) =>
+	walkFiles(rootDir, { match: (name) => name.endsWith(".md") || name.endsWith(".njk") });
 
 function toDateOnly(date) {
 	if (!(date instanceof Date) || Number.isNaN(date.getTime())) return "";
 	return date.toISOString().slice(0, 10);
-}
-
-function normalizeFilesUrl(metadata) {
-	const url = String(metadata?.files_url || "https://files.jcrt.org").trim();
-	return url.replace(/\/+$/, "");
 }
 
 function normalizeAssetUrl(raw, filesUrl) {
@@ -73,7 +33,7 @@ function normalizePdfUrl(directory, rawPdf, filesUrl) {
 
 export default function filesAssetIndex() {
 	const metadata = readYaml(METADATA_FILE);
-	const filesUrl = normalizeFilesUrl(metadata);
+	const filesUrl = normalizeUrl(metadata?.files_url, "https://files.jcrt.org");
 	const imagesMap = new Map();
 	const pdfsMap = new Map();
 
@@ -85,7 +45,7 @@ export default function filesAssetIndex() {
 	const files = walkContentFiles(CONTENT_DIR);
 	for (const filePath of files) {
 		const src = fs.readFileSync(filePath, "utf8");
-		const data = parseFrontMatter(src);
+		const { data } = parseFrontMatter(src);
 		if (!data || typeof data !== "object") continue;
 		if (data.published === false) continue;
 
@@ -97,10 +57,14 @@ export default function filesAssetIndex() {
 		}
 		const lastmod = stat ? toDateOnly(stat.mtime) : "";
 
+		// Several pages can share an asset; keep the newest page date so the value does not
+		// depend on walk order.
+		const keepNewest = (map, loc) => {
+			const existing = map.get(loc);
+			if (!existing || lastmod > existing.lastmod) map.set(loc, { loc, lastmod });
+		};
 		const imageUrl = normalizeAssetUrl(data.image, filesUrl);
-		if (imageUrl && IMAGE_EXT_RE.test(imageUrl)) {
-			imagesMap.set(imageUrl, { loc: imageUrl, lastmod });
-		}
+		if (imageUrl && IMAGE_EXT_RE.test(imageUrl)) keepNewest(imagesMap, imageUrl);
 
 		const rel = path.relative(CONTENT_DIR, filePath);
 		const relParts = rel.split(path.sep);
@@ -111,9 +75,7 @@ export default function filesAssetIndex() {
 				: "";
 		if (pdfDirectory) {
 			const pdfUrl = normalizePdfUrl(pdfDirectory, data.pdf, filesUrl);
-			if (pdfUrl.toLowerCase().endsWith(".pdf")) {
-				pdfsMap.set(pdfUrl, { loc: pdfUrl, lastmod });
-			}
+			if (pdfUrl.toLowerCase().endsWith(".pdf")) keepNewest(pdfsMap, pdfUrl);
 		}
 	}
 

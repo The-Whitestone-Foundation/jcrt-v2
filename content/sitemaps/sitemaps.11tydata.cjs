@@ -8,10 +8,7 @@ module.exports = {
 			const skipInServe =
 				process.env.ELEVENTY_RUN_MODE === "serve" &&
 				String(process.env.SKIP_SITEMAPS_IN_SERVE || "") === "1";
-			if (skipInServe || data.isFastBuild) {
-				return false;
-			}
-			return data.permalink;
+			return skipInServe ? false : data.permalink;
 		},
 	},
 };

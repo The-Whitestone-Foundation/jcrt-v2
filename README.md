@@ -1,16 +1,27 @@
 # [JCRT](https://jcrt.org)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/738f8dd4-3a98-4ce6-9857-537c268780a8/deploy-status)](https://app.netlify.com/projects/jcrt/deploys)[![Sync Assets To jcrt-files](https://github.com/The-Whitestone-Foundation/jcrt-v2/actions/workflows/sync-jcrt-files.yml/badge.svg)](https://github.com/The-Whitestone-Foundation/jcrt-v2/actions/workflows/sync-jcrt-files.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/738f8dd4-3a98-4ce6-9857-537c268780a8/deploy-status)](https://app.netlify.com/projects/jcrt/deploys)
 
 Developed by Adam DJ Brett
 
-## Sitemap + IndexNow
-- Runbook: `docs/sitemaps-and-indexnow-runbook.md`
-- Local sitemap-safe serve: `npm run start`
-- Build-time sitemap integrity check: `npm run sitemaps:check`
+## Working locally
+- `npm run dev` serves a quick build (5 items per collection) on http://localhost:8080; `npm run dev:full` serves everything.
+- `npm run build` is the production build (`scripts/build.mjs`); `node scripts/build.mjs --serial` runs the same steps one at a time for readable logs.
+- `npm test` runs the script tests; the build runs them too.
 
-## Acknowledgments
+## Sitemap + IndexNow
+- Regenerate the tracked OAI/DOAJ/citation sitemaps: `npm run sitemaps:generate` (deterministic; the tree stays clean when nothing changed)
+- Build-time sitemap integrity check: `npm run sitemaps:check`
+- Full OAI-PMH XSD validation (slow, manual): `npm run oai:validate`
+
+## Standard.site / AT Protocol
+- `npm run sequoia:publish` is what the workflow runs. `npm run sequoia:sync` is the repair path: it pulls AT-URIs back from the PDS into `_data/standardSiteRecords.yaml` and content front matter when the workflow's commit step failed.
+
+## Credits
+Full list with licenses in [CREDITS.md](CREDITS.md). In short:
+- Icons are inline SVG from [Phosphor Icons](https://phosphoricons.com/) (MIT) and, for the ORCID iD glyph, [Academicons](https://jpswalsh.github.io/academicons/) (SIL OFL 1.1). No icon font is loaded; Font Awesome has been retired.
+- Layout descends from HTML5 UP's [Editorial](https://html5up.net/editorial) (CC BY 3.0); system font stacks follow [Modern Font Stacks](https://modernfontstacks.com/).
 - Build performance optimization audit and recommendations by [Brennan Kenneth Brown](https://github.com/brennankbrown)
-- Credit to [11tybundle.dev](https://github.com/bobmonsour/11tybundle.dev) for the build-speed pattern that inspired the faster local JCRT workflow. Their latest-issue / cache-first approach helped reduce local iteration time by roughly 60-70% in practice, and the JCRT build now uses the same idea via the `build:latest` and `build:local:latest` fast paths.
+- Credit to [11tybundle.dev](https://github.com/bobmonsour/11tybundle.dev) for the build-speed pattern that inspired the faster local JCRT workflow. Their latest-issue / cache-first approach helped reduce local iteration time by roughly 60-70% in practice.
 
 ## Next Steps
 5. idea: use RT for book reviews

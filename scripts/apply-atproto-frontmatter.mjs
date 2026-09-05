@@ -1,75 +1,15 @@
+// Copies each document's AT-URI from _data/standardSiteRecords.yaml into its content
+// file as an `atproto:` front matter line. Pure string surgery on the raw block: no YAML
+// re-serialisation, so quotes, comments and key order in content/** are untouched.
 import fs from "node:fs";
 import path from "node:path";
-import * as yaml from "js-yaml";
+import { parseFrontMatter, readYaml } from "./lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "./lib/walk.mjs";
+import { documentPathFor } from "./lib/paths.mjs";
 
 const ROOT = process.cwd();
 const CONTENT_DIR = path.join(ROOT, "content");
 const RECORDS_FILE = path.join(ROOT, "_data", "standardSiteRecords.yaml");
-const INCLUDE_PREFIXES = [
-	"archives/",
-	"authors/",
-	"blog/",
-	"religioustheory/posts/",
-	"religioustheory/live/",
-];
-const EXCLUDED_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
-
-function walkMarkdown(dir) {
-	const files = [];
-	const stack = [dir];
-	while (stack.length) {
-		const current = stack.pop();
-		if (!current || !fs.existsSync(current)) continue;
-		for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-			const fullPath = path.join(current, entry.name);
-			if (entry.isDirectory()) stack.push(fullPath);
-			else if (entry.isFile() && entry.name.endsWith(".md")) files.push(fullPath);
-		}
-	}
-	return files.sort();
-}
-
-function parseFrontMatter(source) {
-	const match = source.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return null;
-	let data = {};
-	try {
-		data = yaml.load(match[1]) || {};
-	} catch {
-		data = yaml.load(match[1].replace(/^atproto:\s*.*(?:\n|$)/gm, "")) || {};
-	}
-	return {
-		block: match[1],
-		bodyStart: match[0].length,
-		data,
-	};
-}
-
-function normalizePath(value) {
-	const raw = String(value || "").split("?")[0].split("#")[0].trim();
-	if (!raw) return "";
-	const withLeadingSlash = raw.startsWith("/") ? raw : `/${raw}`;
-	return withLeadingSlash.endsWith("/") ? withLeadingSlash : `${withLeadingSlash}/`;
-}
-
-function documentPathFor(filePath, data) {
-	const rel = path.relative(CONTENT_DIR, filePath).split(path.sep).join("/");
-	if (!INCLUDE_PREFIXES.some((prefix) => rel.startsWith(prefix))) return "";
-	if (data?.draft === true || data?.published === false) return "";
-
-	const slug = path.basename(rel, ".md");
-	if (EXCLUDED_SLUGS.has(slug.toLowerCase())) return "";
-	if (typeof data.permalink === "string" && data.permalink.startsWith("/")) return normalizePath(data.permalink);
-	if (rel.startsWith("archives/")) {
-		const parts = rel.split("/");
-		if (parts.length >= 3 && parts[1].includes(".")) return normalizePath(`/archives/${parts[1]}/${slug}/`);
-	}
-	if (rel.startsWith("religioustheory/posts/")) return normalizePath(`/religioustheory/posts/${data.slug || slug}/`);
-	if (rel.startsWith("religioustheory/live/")) return normalizePath(`/religioustheory/live/${data.slug || slug}/`);
-	if (rel.startsWith("blog/")) return normalizePath(`/blog/${data.slug || slug}/`);
-	if (rel.startsWith("authors/")) return normalizePath(`/authors/${data.slug || slug}/`);
-	return "";
-}
 
 function quoteAtUri(value) {
 	return `'${String(value).replace(/'/g, "''")}'`;
@@ -87,19 +27,20 @@ function setAtproto(frontmatter, atUri) {
 	return `${line}\n${withoutAtproto}`;
 }
 
-const records = yaml.load(fs.readFileSync(RECORDS_FILE, "utf8")) || {};
+const records = readYaml(RECORDS_FILE);
 let scanned = 0;
 let matched = 0;
 let added = 0;
 let updated = 0;
 
-for (const filePath of walkMarkdown(CONTENT_DIR)) {
+for (const filePath of walkFiles(CONTENT_DIR, { match: isMarkdown })) {
 	const source = fs.readFileSync(filePath, "utf8");
-	const parsed = parseFrontMatter(source);
-	if (!parsed) continue;
+	// A previously written atproto: line is the one thing allowed to be malformed.
+	const parsed = parseFrontMatter(source, { repairKeys: ["atproto"] });
+	if (!parsed.hasFrontMatter) continue;
 	scanned += 1;
 
-	const documentPath = documentPathFor(filePath, parsed.data);
+	const documentPath = documentPathFor(path.relative(CONTENT_DIR, filePath), parsed.data);
 	const atUri = records[documentPath];
 	if (!atUri) continue;
 	matched += 1;
@@ -108,8 +49,7 @@ for (const filePath of walkMarkdown(CONTENT_DIR)) {
 	if (nextFrontmatter === parsed.block) continue;
 	if (/^atproto:\s*.*$/m.test(parsed.block)) updated += 1;
 	else added += 1;
-	const nextSource = `---\n${nextFrontmatter}\n---\n${source.slice(parsed.bodyStart)}`;
-	fs.writeFileSync(filePath, nextSource, "utf8");
+	fs.writeFileSync(filePath, `---\n${nextFrontmatter}\n---\n${source.slice(parsed.bodyStart)}`, "utf8");
 }
 
 console.log(`ATProto frontmatter sync: ${matched} matched records across ${scanned} files.`);

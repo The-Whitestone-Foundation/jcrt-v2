@@ -1,62 +1,26 @@
 import fs from "node:fs";
 import { isCcBy } from "../_config/license.js";
 import path from "node:path";
-import * as yaml from "js-yaml";
 import { controlledSubjects } from "../_config/subjects.js";
+import { parseFrontMatter, readYaml } from "../scripts/lib/frontmatter.mjs";
+import { walkFiles, isMarkdown } from "../scripts/lib/walk.mjs";
+import { NON_ARTICLE_SLUGS, normalizeUrl } from "../scripts/lib/paths.mjs";
 
 import { stripMarkdown } from "../_config/markdownTitle.js";
 const ROOT = process.cwd();
 const ARCHIVES_DIR = path.join(ROOT, "content", "archives");
 const THEORY_DIRS = ["posts", "live"].map((directory) => path.join(ROOT, "content", "religioustheory", directory));
 const METADATA_FILE = path.join(ROOT, "_data", "metadata.yaml");
-const NON_ARTICLE_SLUGS = new Set(["index", "bios", "author-bios", "table-of-contents", "abstracts"]);
-
-function parseFrontMatter(content) {
-	if (!content.startsWith("---")) return {};
-	const match = content.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
-	if (!match) return {};
-	try {
-		return yaml.load(match[1]) || {};
-	} catch {
-		return {};
-	}
-}
 
 function readMetadataUrls() {
-	try {
-		const raw = fs.readFileSync(METADATA_FILE, "utf8");
-		const parsed = yaml.load(raw) || {};
-		const url = String(parsed.url || "").trim();
-		const filesUrl = String(parsed.files_url || "").trim();
-		return {
-			baseUrl: url ? url.replace(/\/+$/, "") : "https://jcrt.org",
-			filesUrl: filesUrl ? filesUrl.replace(/\/+$/, "") : "https://files.jcrt.org",
-		};
-	} catch {
-		return { baseUrl: "https://jcrt.org", filesUrl: "https://files.jcrt.org" };
-	}
+	const parsed = readYaml(METADATA_FILE);
+	return {
+		baseUrl: normalizeUrl(parsed.url, "https://jcrt.org"),
+		filesUrl: normalizeUrl(parsed.files_url, "https://files.jcrt.org"),
+	};
 }
 
-function walkMarkdown(dir) {
-	const out = [];
-	const stack = [dir];
-	while (stack.length) {
-		const current = stack.pop();
-		if (!current || !fs.existsSync(current)) continue;
-		const items = fs.readdirSync(current, { withFileTypes: true });
-		for (const item of items) {
-			const full = path.join(current, item.name);
-			if (item.isDirectory()) {
-				stack.push(full);
-				continue;
-			}
-			if (item.isFile() && item.name.endsWith(".md")) {
-				out.push(full);
-			}
-		}
-	}
-	return out;
-}
+const walkMarkdown = (dir) => walkFiles(dir, { match: isMarkdown });
 
 function parseIssueNumber(issue) {
 	const [majorRaw = "0", minorRaw = "0"] = String(issue || "").split(".");
@@ -121,7 +85,7 @@ function readIssueMetadata(issueSlug, cache) {
 		cache.set(issueSlug, {});
 		return {};
 	}
-	const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+	const { data } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 	cache.set(issueSlug, data || {});
 	return cache.get(issueSlug);
 }
@@ -143,7 +107,7 @@ export default function dataciteArchives() {
 		const slug = path.basename(filePath, ".md");
 		if (NON_ARTICLE_SLUGS.has(slug.toLowerCase())) continue;
 
-		const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+		const { data } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 		if (!data || typeof data !== "object") continue;
 		if (data.published === false || data.draft) continue;
 
@@ -202,7 +166,7 @@ export default function dataciteArchives() {
 	}
 
 	for (const filePath of THEORY_DIRS.flatMap(walkMarkdown)) {
-		const data = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
+		const { data } = parseFrontMatter(fs.readFileSync(filePath, "utf8"));
 		if (!data || typeof data !== "object" || data.published === false || data.draft) continue;
 		const fileSlug = path.basename(filePath, ".md");
 		const slug = String(data.slug || fileSlug).trim();

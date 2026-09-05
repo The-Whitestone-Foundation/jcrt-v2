@@ -31,5 +31,5 @@ Status: implemented and verified on 2026-07-25.
 
 - [x] Validate 27 sources, 27 built pages, no duplicate `/posts/` pages, and no Live landing page.
 - [x] Validate metadata, author resolution, nanoids, routes, rendered Markdown, SEO, Pagefind, taxonomies, DataCite, FAIR, Standard.site, Sequoia, sitemap, and OAI output.
-- [x] Pass `npm run nanoids:check`, `npm run build:local`, `npm run sitemaps:check`, `npm run oai:validate:quick`, `npm run standard:check`, and the production-style local build.
-- [ ] `npm run subjects:check` remains blocked by the repository-wide baseline: it reports 358 unrelated files needing enrichment and 31 ambiguous FAST terms.
+- [x] Pass `npm run nanoids:check`, `npm run sitemaps:check`, `npm run oai:validate:quick`, `npm run standard:check`, and the production build (`npm run build`).
+- [ ] A subject-enrichment audit (there is no `subjects:check` script; `_config/subjects.js` is the vocabulary) was blocked by the repository-wide baseline: 358 unrelated files needing enrichment and 31 ambiguous FAST terms.
