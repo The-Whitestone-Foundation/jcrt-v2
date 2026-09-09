@@ -5,7 +5,8 @@ atproto:
 article_number: 04
 volume: 1
 issue: 1
-pages:
+pages: 2-15
+html_fulltext: true
 title: "The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time"
 author: "Gabriel Vahanian; Warren Clarnette"
 affiliation:

@@ -77,5 +77,16 @@ subjects:
     identifier: 'fst01075747'
     uri: 'https://id.worldcat.org/fast/1075747'
     category: 'topical'
+bibliographic_abstract: >-
+  Although he ultimately disputed the scope and semantics of it, televangelist Joel Osteen’s “endorsement” of
+  presidential candidate Donald Trump in a Fox News interview trended on social media for a few days in March
+  2016. The support sparked intense debate and prompted Osteen’s Houston-based mega-church to issue a
+  statement that categorically denied an official Trump endorsement. Osteen has been adamant that he has not
+  supplied an official endorsement for the subsequent elections (including 2020 and 2024). Using Edwin Black’s
+  second persona theory, this paper will explain why neither Osteen nor his ideal audience would ever
+  officially grant a public endorsement of a political candidate. The second persona analysis identifies the
+  characteristics of the “implied” audience in Osteen’s discourse and creates an opportunity for a third
+  persona analysis—those silenced or negated. In doing so, it will seek to identify the candidate Osteen’s
+  ideal audience member would most likely support and discuss the moral implications of that choice.
 ---
 Although he ultimately disputed the scope and semantics of it, televangelist Joel Osteen’s “endorsement” of presidential candidate Donald Trump in a Fox News interview trended on social media for a few days in March 2016. The support sparked intense debate and prompted Osteen’s Houston-based mega-church to issue a statement that categorically denied an official Trump endorsement. Osteen has been adamant that he has not supplied an official endorsement for the subsequent elections (including 2020 and 2024). Using Edwin Black’s second persona theory, this paper will explain why neither Osteen nor his ideal audience would ever officially grant a public endorsement of a political candidate. The second persona analysis identifies the characteristics of the “implied” audience in Osteen’s discourse and creates an opportunity for a third persona analysis—those silenced or negated. In doing so, it will seek to identify the candidate Osteen’s ideal audience member would most likely support and discuss the moral implications of that choice.

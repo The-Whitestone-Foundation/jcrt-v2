@@ -1,0 +1,53 @@
+<meta property="dc:type" content="{{ 'Text' if bib.article else 'Collection' }}" />
+<meta property="dc:identifier" content="{{ bib.url }}" />
+<meta property="dc:language" content="{{ bib.language }}" />
+<meta property="dc:publisher" content="{{ bib.publisher }}" />
+<meta property="dc:source" content="{{ bib.publication }}" />
+{% if bib.publicationDate %}<meta property="dc:date" content="{{ bib.publicationDate }}" />{% endif %}
+{% if bib.coverDate %}<meta property="dcterms:temporal" content="{{ bib.coverDate }}" />{% endif %}
+{% if bib.abstract %}<meta property="dcterms:abstract" content="{{ bib.abstract }}" />{% endif %}
+{% if bib.abstract or bib.description %}<meta property="dc:description" content="{{ bib.abstract or bib.description }}" />{% endif %}
+{% if bib.issn %}<meta property="dcterms:isPartOf" content="urn:issn:{{ bib.issn }}" />{% endif %}
+{% for keyword in bib.keywords %}<meta property="dc:subject" content="{{ keyword }}" />{% endfor %}
+{% for subject in (subjects or []) %}<meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-identifier="{{ subject.identifier }}" data-subject-uri="{{ subject.uri }}" data-subject-category="{{ subject.category }}" />{% endfor %}
+{% if bib.article %}
+<link rel="cite-as" href="{{ bib.url }}" />
+<meta property="zotero:itemType" content="{{ 'journalArticle' if bib.archive else 'blogPost' }}" />
+{% for creator in bib.creators %}
+<meta property="dc:creator" content="{{ creator.name }}" />
+<meta name="citation_author" content="{{ creator.citation }}" />
+{% if creator.affiliation %}<meta name="citation_author_institution" content="{{ creator.affiliation }}" />{% endif %}
+{% endfor %}
+<meta name="citation_title" content="{{ bib.title }}" />
+<meta name="citation_publisher" content="{{ bib.publisher }}" />
+<meta name="citation_language" content="{{ bib.language }}" />
+<meta name="citation_public_url" content="{{ bib.url }}" />
+<meta name="{{ 'citation_fulltext_html_url' if bib.fulltext else 'citation_abstract_html_url' }}" content="{{ bib.url }}" />
+{% if bib.archive %}<meta name="citation_journal_title" content="{{ bib.publication }}" />{% endif %}
+{% if bib.issn %}<meta name="citation_issn" content="{{ bib.issn }}" />{% endif %}
+{% if bib.volume %}<meta name="citation_volume" content="{{ bib.volume }}" />{% endif %}
+{% if bib.issue %}<meta name="citation_issue" content="{{ bib.issue }}" />{% endif %}
+{% if bib.publicationDate %}
+<meta name="citation_date" content="{{ bib.publicationDate }}" />
+<meta name="citation_publication_date" content="{{ bib.publicationDate }}" />
+{% endif %}
+{% if bib.coverDate %}<meta name="citation_cover_date" content="{{ bib.coverDate }}" />{% endif %}
+{% if bib.pages.start %}<meta name="citation_firstpage" content="{{ bib.pages.start }}" />{% endif %}
+{% if bib.pages.end %}<meta name="citation_lastpage" content="{{ bib.pages.end }}" />{% endif %}
+{% if bib.abstract %}<meta name="citation_abstract" content="{{ bib.abstract }}" />{% endif %}
+{% if bib.keywords.length %}<meta name="citation_keywords" content="{{ bib.keywords | join('; ') }}" />{% endif %}
+{% if bib.pdfUrl %}<meta name="citation_pdf_url" content="{{ bib.pdfUrl }}" />{% endif %}
+{% if bib.doi %}
+<meta name="citation_doi" content="{{ bib.doi }}" />
+<meta property="dc:identifier" content="doi:{{ bib.doi }}" />
+{% endif %}
+{% if bib.nanoid %}<meta property="dc:identifier" content="nanoid:{{ bib.nanoid }}" />{% endif %}
+{% endif %}
+<meta name="prism.publicationName" content="{{ bib.publication }}" />
+{% if bib.article and not bib.archive %}<meta name="prism.genre" content="blogentry" />{% endif %}
+{% if bib.issn %}<meta name="prism.issn" content="{{ bib.issn }}" />{% endif %}
+{% if bib.volume %}<meta name="prism.volume" content="{{ bib.volume }}" />{% endif %}
+{% if bib.issue %}<meta name="prism.number" content="{{ bib.issue }}" />{% endif %}
+{% if bib.publicationDate %}<meta name="prism.publicationDate" content="{{ bib.publicationDate }}" />{% endif %}
+{% if bib.article and bib.pages.start %}<meta name="prism.startingPage" content="{{ bib.pages.start }}" />{% endif %}
+{% if bib.article and bib.pages.end %}<meta name="prism.endingPage" content="{{ bib.pages.end }}" />{% endif %}

@@ -8,4 +8,6 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "Travis E (Travis Evan)"
+family_name: "Ables"
 ---

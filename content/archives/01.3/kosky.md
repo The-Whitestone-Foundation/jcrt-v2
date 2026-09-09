@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbmg
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-15
+html_fulltext: true
 title: "Contemporary Encounters with Apophatic Theology: the Case of Emmanuel Levinas"
 author: "Jeffrey L Kosky"
 affiliation:

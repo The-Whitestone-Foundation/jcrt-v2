@@ -8,4 +8,6 @@ social:
   - title: "email"
     url: "mailto:victor.taylor@jcrt.org"
     icon: fa-solid fa-envelope
+given_name: "Victor E."
+family_name: "Taylor"
 ---

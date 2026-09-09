@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca5h
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-8
+html_fulltext: true
 title: "Jean Baudrillard and the Death of God"
 author: "Lissa McCullough"
 affiliation:

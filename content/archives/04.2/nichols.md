@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5nb
 article_number:
 volume: 4
 issue: 2
-pages:
+pages: 2-10
+html_fulltext: true
 title: "Laughter as Gesture: Hilarity and the Anti-Sublime"
 author: "Stephen G Nichols"
 affiliation:

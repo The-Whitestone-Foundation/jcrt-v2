@@ -5,7 +5,12 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqglrn
 title: "Recognizing the Sacrificial Victim: the Problem of Solidarity for Critical Social Theory"
 author: "Michael Hoelzl"
 affilation:
-abstract:
+bibliographic_abstract: >-
+  In this essay I discuss the problems of the concept of solidarity for critical social theory. I argue that
+  the secular understanding of universal solidarity ignores its genuinely implied theological category of the
+  sacrificial victim. For this reason solidarity cannot be explained sufficiently by a social theory based on
+  the Hegelian assumption of reciprocity of recognition. It is the sacrificial victim who represents the most
+  intense case of asymmetrical acts of solidarity.
 keywords:
   - solidarity
   - critical-theory

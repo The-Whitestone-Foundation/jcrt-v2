@@ -73,5 +73,17 @@ subjects:
     identifier: "fst01748890"
     uri: "https://id.worldcat.org/fast/1748890"
     category: "topical"
+bibliographic_abstract: >-
+  This article examines the historical silence surrounding the Doctrine of Christian Discovery and its impact
+  on Brazilian society. It explores how papal bulls, known as the Doctrine of Discovery, have shaped power
+  dynamics, enabling certain narratives while silencing others. Drawing on Michel-Rolph Trouillot and Franz
+  Fanon, the study analyzes the construction of historical silence and its connection to violence against
+  Indigenous peoples. It argues that the Church's role in upholding elite dominance has contributed to the
+  narrative of the Doctrine’s irrelevance, paralleling the myth of racial democracy in Brazil. The silence
+  surrounding the Doctrine is linked to systemic racism, with Indigenous peoples experiencing unthinkable
+  violence during colonization. The article contends that addressing this colonial past, especially its ties
+  to the Church, is essential for disrupting neocolonial practices and Eurocentric narratives. It calls for
+  the Church to take active steps in dismantling the Doctrine, fulfilling commitments to Indigenous rights,
+  and contributing to global decolonization efforts.
 ---
 This article examines the historical silence surrounding the Doctrine of Christian Discovery and its impact on Brazilian society. It explores how papal bulls, known as the Doctrine of Discovery, have shaped power dynamics, enabling certain narratives while silencing others. Drawing on Michel-Rolph Trouillot and Franz Fanon, the study analyzes the construction of historical silence and its connection to violence against Indigenous peoples. It argues that the Church's role in upholding elite dominance has contributed to the narrative of the Doctrine’s irrelevance, paralleling the myth of racial democracy in Brazil. The silence surrounding the Doctrine is linked to systemic racism, with Indigenous peoples experiencing unthinkable violence during colonization. The article contends that addressing this colonial past, especially its ties to the Church, is essential for disrupting neocolonial practices and Eurocentric narratives. It calls for the Church to take active steps in dismantling the Doctrine, fulfilling commitments to Indigenous rights, and contributing to global decolonization efforts.

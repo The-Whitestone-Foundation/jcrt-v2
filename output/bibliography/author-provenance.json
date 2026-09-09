@@ -1,0 +1,203 @@
+[
+  {
+    "file": "content/authors/noelle-vahanian.md",
+    "fields": {
+      "given_name": "Noëlle",
+      "family_name": "Vahanian"
+    },
+    "source": "https://www.lvc.edu/profiles/dr-noelle-vahanian/",
+    "note": "Official Lebanon Valley College profile uses Noëlle Vahanian."
+  },
+  {
+    "file": "content/authors/victor-taylor.md",
+    "fields": {
+      "given_name": "Victor E.",
+      "family_name": "Taylor"
+    },
+    "source": "https://www.jcrt.org/archives/11.2/taylor.pdf",
+    "note": "JCRT article PDF identifies the editor as Victor E. Taylor; DataCite records omit the middle initial."
+  },
+  {
+    "file": "content/authors/dennis-m-weiss.md",
+    "fields": {
+      "given_name": "Dennis M.",
+      "family_name": "Weiss"
+    },
+    "source": "https://philpeople.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzRvQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--59bec68e8f3ff56484c66a1a02413ad294ad973a/weiss_cv_2017.pdf",
+    "note": "Author CV identifies Dennis M. Weiss; punctuation and case variants are equivalent."
+  },
+  {
+    "file": "content/authors/philip-p-arnold.md",
+    "fields": {
+      "given_name": "Philip P.",
+      "family_name": "Arnold"
+    },
+    "source": "https://artsandsciences.syracuse.edu/people/faculty/arnold-philip-p/",
+    "note": "Official Syracuse University profile uses Philip P. Arnold."
+  },
+  {
+    "file": "content/authors/jeffrey-w-robbins.md",
+    "fields": {
+      "given_name": "Jeffrey W.",
+      "family_name": "Robbins"
+    },
+    "source": "https://www.lvc.edu/profiles/dr-jeffrey-w-robbins/",
+    "note": "Official Lebanon Valley College profile uses Jeffrey W. Robbins."
+  },
+  {
+    "file": "content/authors/mark-c-taylor.md",
+    "fields": {
+      "given_name": "Mark C.",
+      "family_name": "Taylor"
+    },
+    "source": "https://religion.columbia.edu/sites/default/files/content/CVs/Taylor%20CV.pdf",
+    "note": "Official Columbia University CV uses Mark C. Taylor."
+  },
+  {
+    "file": "content/authors/colbey-emmerson-reid.md",
+    "fields": {
+      "given_name": "Colbey",
+      "family_name": "Emmerson-Reid"
+    },
+    "source": "https://www.colum.edu/academics/faculty/detail/colbey-emmerson-reid.html",
+    "note": "Official Columbia College Chicago profile confirms Colbey Emmerson Reid; the existing JCRT profile and majority DOI records preserve the hyphenated family name."
+  },
+  {
+    "file": "content/authors/j-aaron-simmons.md",
+    "fields": {
+      "given_name": "J. Aaron",
+      "family_name": "Simmons"
+    },
+    "source": "https://www.furman.edu/people/j-aaron-simmons/",
+    "note": "Official Furman University profile uses J. Aaron Simmons."
+  },
+  {
+    "file": "content/authors/t-wilson-dickinson.md",
+    "fields": {
+      "given_name": "T. Wilson",
+      "family_name": "Dickinson"
+    },
+    "source": "https://www.transy.edu/1780/2012/06/transylvania-university-names-dickinson-associate-dean-for-religious-life/",
+    "note": "Official Transylvania University announcement uses T. Wilson Dickinson."
+  },
+  {
+    "file": "content/authors/karmen-mackendrick.md",
+    "fields": {
+      "given_name": "Karmen",
+      "family_name": "MacKendrick"
+    },
+    "source": "https://www.lemoyne.edu/academics/faculty/karmen-mackendrick/",
+    "note": "Official Le Moyne College profile uses the capitalization MacKendrick."
+  },
+  {
+    "file": "content/authors/sergio-c-figueiredo.md",
+    "fields": {
+      "given_name": "Sergio C.",
+      "family_name": "Figueiredo"
+    },
+    "source": "https://jcrt.org/archives/16.1/",
+    "note": "JCRT issue contents use Sergio C. Figueiredo; the malformed C.figueiredo DOI creator is rejected."
+  },
+  {
+    "file": "content/authors/roger-k-green.md",
+    "fields": {
+      "given_name": "Roger K.",
+      "family_name": "Green"
+    },
+    "source": "https://api.datacite.org/dois/10.17613/ydp88-1c944",
+    "note": "The DOI records consistently identify Roger K. Green; the punctuation-only variant is normalized."
+  },
+  {
+    "file": "content/authors/joshua-m-hall.md",
+    "fields": {
+      "given_name": "Joshua M.",
+      "family_name": "Hall"
+    },
+    "source": "https://ua-birmingham.academia.edu/JoshuaHall/CurriculumVitae",
+    "note": "Author CV uses Joshua M. Hall."
+  },
+  {
+    "file": "content/archives/18.3/robertsandhayden.md",
+    "field": "author",
+    "value": "Thomas Roberts; Delbert Hayden",
+    "source": "https://files.jcrt.org/archives/18.3/robertsandhayden.pdf",
+    "note": "Page 1 byline identifies Thomas Roberts and Delbert Hayden; title/DOI mismatch remains unresolved in author-research.json."
+  },
+  {
+    "file": "content/archives/18.3/robertsandhayden.md",
+    "field": "title",
+    "value": "Religion and Mental Health: the Therapeutic Value of the Teachings of Jesus",
+    "source": "https://files.jcrt.org/archives/18.3/robertsandhayden.pdf",
+    "pdf_pages": [
+      1,
+      2
+    ],
+    "note": "CTO verified wrapper title and original article title. Existing DOI retained: it appears on this exact PDF wrapper, despite incomplete registry title."
+  },
+  {
+    "file": "content/authors/steven-a-benko.md",
+    "fields": {
+      "given_name": "Steven A.",
+      "family_name": "Benko"
+    },
+    "source": "https://www.meredith.edu/news/faculty-staff-accomplishments-news-briefs-9-23-20/",
+    "note": "Official institution profile/publication verifies author name; Leclercq is also listed in surname-first form."
+  },
+  {
+    "file": "content/authors/jean-leclercq.md",
+    "fields": {
+      "given_name": "Jean",
+      "family_name": "Leclercq"
+    },
+    "source": "https://www.uclouvain.be/fr/instituts-recherche/isp/personnes",
+    "note": "Official institution profile/publication verifies author name; Leclercq is also listed in surname-first form."
+  },
+  {
+    "file": "content/authors/johannes-zachhuber.md",
+    "fields": {
+      "given_name": "Johannes",
+      "family_name": "Zachhuber"
+    },
+    "source": "https://www.theology.ox.ac.uk/people/professor-johannes-zachhuber",
+    "note": "Official university researcher directory provides surname-first and full name forms."
+  },
+  {
+    "file": "content/authors/ignas-kalpokas.md",
+    "fields": {
+      "given_name": "Ignas",
+      "family_name": "Kalpokas"
+    },
+    "source": "https://www.vdu.lt/cris/entities/person/55b2d5e1-a8e3-4606-8cec-85230c2b4ad9",
+    "note": "Official university researcher directory provides surname-first and full name forms."
+  },
+  {
+    "file": "content/authors/jack-mulder-jr.md",
+    "fields": {
+      "given_name": "Jack",
+      "family_name": "Mulder",
+      "name_suffix": "Jr."
+    },
+    "source": "https://hope.edu/directory/people/mulder-jack/",
+    "note": "Separate documented suffix from given and family names; retain original article byline."
+  },
+  {
+    "file": "content/authors/john-b-cobb-jr.md",
+    "fields": {
+      "given_name": "John B.",
+      "family_name": "Cobb",
+      "name_suffix": "Jr."
+    },
+    "source": "https://ctr4process.org/about/",
+    "note": "Separate documented suffix from given and family names; retain original article byline."
+  },
+  {
+    "file": "content/authors/james-e-willis-iii.md",
+    "fields": {
+      "given_name": "James E.",
+      "family_name": "Willis",
+      "name_suffix": "III"
+    },
+    "source": "https://uindy.edu/registrar/academic-catalogs/c2021-2023/associate-adjunct-faculty",
+    "note": "Separate documented suffix from given and family names; retain original article byline."
+  }
+]

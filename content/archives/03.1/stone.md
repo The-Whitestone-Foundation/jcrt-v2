@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7lt
 article_number:
 volume: 3
 issue: 1
-pages:
+pages: 2-14
+html_fulltext: true
 title: "‘Misrecognition of the Limits’: Bourdieu’s Religious Capital and Social Transformation"
 author: "Lora Stone"
 affiliation:

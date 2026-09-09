@@ -27,4 +27,6 @@ social:
   - title: email
     url: "mailto:adam.brett@jcrt.org"
     icon: fa-solid fa-envelope
+given_name: "Adam DJ"
+family_name: "Brett"
 ---

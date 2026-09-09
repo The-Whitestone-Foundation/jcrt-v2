@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbo5
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-11
+html_fulltext: true
 title: "Falling"
 author: "Ann Game"
 affiliation:

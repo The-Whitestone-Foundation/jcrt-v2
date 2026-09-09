@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c652
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-18
+html_fulltext: true
 title: "Iconic Revisions of the Modern World Picture"
 author: "Jeffrey L Kosky"
 affiliation:

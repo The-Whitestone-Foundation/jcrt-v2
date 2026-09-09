@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7b3
 article_number:
 volume: 3
 issue: 2
-pages:
+pages: 2-17
+html_fulltext: true
 title: "Dead Man"
 author: "C Jason Lee"
 affiliation:

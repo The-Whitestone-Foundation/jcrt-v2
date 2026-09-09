@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7if
 article_number:
 volume: 3
 issue: 2
-pages:
+pages: 2-11
+html_fulltext: true
 title: "Preacher"
 author: "Mike Grimshaw"
 affiliation:

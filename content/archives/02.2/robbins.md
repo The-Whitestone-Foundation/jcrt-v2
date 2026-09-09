@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caow
 article_number:
 volume: 2
 issue: 2
-pages:
+pages: 2-7
+html_fulltext: true
 title: "God, the Gift, and Postmodernism"
 author: "Jeffrey W Robbins"
 affiliation:

@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7r2
 article_number:
 volume: 3
 issue: 1
-pages:
+pages: 2-13
+html_fulltext: true
 title: "DiffÉRance That Comes as One Unknown: Christology After Derrida’s ‘Structure, Sign, and Play in the Discourse of the Human Sciences’"
 author: "Jeffrey F Keuss"
 affiliation:

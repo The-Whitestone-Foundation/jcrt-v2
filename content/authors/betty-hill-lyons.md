@@ -9,4 +9,6 @@ social:
   - title: "website"
     url: "https://aila.ngo/staff-and-board/"
     icon: fa-solid fa-link
+given_name: "Betty Hill"
+family_name: "(Lyons)"
 ---

@@ -52,6 +52,21 @@ subjects:
     identifier: 'fst01895138'
     uri: 'https://id.worldcat.org/fast/1895138'
     category: 'topical'
+bibliographic_abstract: >-
+  This article explores the convergence of quantum physics, neuroscience, and philosophy of religion in
+  understanding consciousness and spiritual experience. Beginning with quantum entanglement and Einstein's
+  characterization of “spooky action at a distance”, the article traces an analogy to recent discoveries in
+  neuroscience, particularly ephaptic coupling—the non-synaptic, field-based communication between neurons.
+  Drawing on David Chalmers' 'hard problem' of consciousness and critiquing physicalist reductionism, the
+  article argues that contemporary neuroscience, when properly integrated with theoretical physics and
+  phenomenological philosophy, opens unprece- dented avenues for investigating transcendent experiences. The
+  work of Andrew Newberg in neurotheology serves as a bridge between empirical brain imaging and theological
+  inquiry, demon- strating how meditation, prayer, and mystical states correlate with specific patterns of
+  neural activity. By invoking Kant's transcendental philosophy and post-structural semiotics, the article
+  proposes a framework for 'transcendental semiotics' that moves beyond the immanence/tran- scendence
+  dichotomy, suggesting that quantum-level information processing and electromagnetic field effects in the
+  brain may provide a scientific basis for understanding religious and spiritual phenomena without resorting
+  to reductionism.
 ---
 This article explores the convergence of quantum physics, neuroscience, and philosophy of religion in understanding consciousness and spiritual experience. Beginning with quantum entanglement and Einstein's characterization of "spooky action at a distance," the article traces an analogy to recent discoveries in neuroscience, particularly ephaptic coupling&mdash;the non-synaptic, field-based communication between neurons.
 

@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbys
 article_number:
 volume: 1
 issue: 2
-pages:
+pages: 2-7
+html_fulltext: true
 title: "The Division of Religion with Signs Following"
 author: "Victor Taylor"
 affiliation:

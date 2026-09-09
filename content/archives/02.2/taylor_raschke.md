@@ -6,6 +6,7 @@ article_number:
 volume: 2
 issue: 2
 pages:
+html_fulltext: true
 title: "About About Religion: a Conversation with Mark C. Taylor"
 author: "Mark C Taylor; Carl A. Raschke"
 affiliation:

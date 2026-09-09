@@ -1,0 +1,2517 @@
+{
+  "method": "Backfilled only when the PDF printed a page footer on both the first and final article pages; PDF wrapper page 1 was excluded.",
+  "html_fulltext_records":  [
+    {
+      "file": "content/archives/01.1/crockett.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/crockett.pdf",
+      "body_words": 6384,
+      "pdf_words": 6614,
+      "nine_gram_overlap": 0.953,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/kavka.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/kavka.pdf",
+      "body_words": 5257,
+      "pdf_words": 5464,
+      "nine_gram_overlap": 0.974,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/lambert.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/lambert.pdf",
+      "body_words": 8259,
+      "pdf_words": 8370,
+      "nine_gram_overlap": 0.9,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/lee.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/lee.pdf",
+      "body_words": 3006,
+      "pdf_words": 3009,
+      "nine_gram_overlap": 0.893,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/raschke.pdf",
+      "body_words": 4674,
+      "pdf_words": 4892,
+      "nine_gram_overlap": 0.961,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/reinhard_lupton.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/reinhard_lupton.pdf",
+      "body_words": 3164,
+      "pdf_words": 3348,
+      "nine_gram_overlap": 0.993,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/winquist.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/winquist.pdf",
+      "body_words": 4382,
+      "pdf_words": 4581,
+      "nine_gram_overlap": 0.906,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.1/young.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/young.pdf",
+      "body_words": 5514,
+      "pdf_words": 5746,
+      "nine_gram_overlap": 0.933,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/adcock.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/adcock.pdf",
+      "body_words": 4777,
+      "pdf_words": 4983,
+      "nine_gram_overlap": 0.933,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/canning.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/canning.pdf",
+      "body_words": 11436,
+      "pdf_words": 11786,
+      "nine_gram_overlap": 0.956,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/long.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/long.pdf",
+      "body_words": 6094,
+      "pdf_words": 6344,
+      "nine_gram_overlap": 0.958,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/lorentzen.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/lorentzen.pdf",
+      "body_words": 4685,
+      "pdf_words": 4834,
+      "nine_gram_overlap": 0.887,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/nvahanian.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/nvahanian.pdf",
+      "body_words": 5199,
+      "pdf_words": 5448,
+      "nine_gram_overlap": 0.951,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/ruf.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/ruf.pdf",
+      "body_words": 8231,
+      "pdf_words": 8480,
+      "nine_gram_overlap": 0.969,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/smith.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/smith.pdf",
+      "body_words": 3083,
+      "pdf_words": 3289,
+      "nine_gram_overlap": 0.963,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/taylor.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/taylor.pdf",
+      "body_words": 3266,
+      "pdf_words": 3460,
+      "nine_gram_overlap": 0.944,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.2/wyschogrod_raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.2/wyschogrod_raschke.pdf",
+      "body_words": 5134,
+      "pdf_words": 5360,
+      "nine_gram_overlap": 0.973,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/caputo.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/caputo.pdf",
+      "body_words": 9022,
+      "pdf_words": 9300,
+      "nine_gram_overlap": 0.954,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/carpenter.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/carpenter.pdf",
+      "body_words": 9348,
+      "pdf_words": 9617,
+      "nine_gram_overlap": 0.919,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/crockett.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/crockett.pdf",
+      "body_words": 3311,
+      "pdf_words": 3257,
+      "nine_gram_overlap": 0.868,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/dicenso.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/dicenso.pdf",
+      "body_words": 8101,
+      "pdf_words": 8381,
+      "nine_gram_overlap": 0.96,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/game.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/game.pdf",
+      "body_words": 5918,
+      "pdf_words": 6151,
+      "nine_gram_overlap": 0.93,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/kosky.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/kosky.pdf",
+      "body_words": 8718,
+      "pdf_words": 8984,
+      "nine_gram_overlap": 0.955,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/metcalfe.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/metcalfe.pdf",
+      "body_words": 6963,
+      "pdf_words": 7217,
+      "nine_gram_overlap": 0.977,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/strysick.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/strysick.pdf",
+      "body_words": 3204,
+      "pdf_words": 3394,
+      "nine_gram_overlap": 0.978,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/01.3/weiss.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/weiss.pdf",
+      "body_words": 9526,
+      "pdf_words": 9763,
+      "nine_gram_overlap": 0.964,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/halpern.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/halpern.pdf",
+      "body_words": 3498,
+      "pdf_words": 3667,
+      "nine_gram_overlap": 0.941,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/lambert.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/lambert.pdf",
+      "body_words": 5578,
+      "pdf_words": 5777,
+      "nine_gram_overlap": 0.967,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/lupton.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/lupton.pdf",
+      "body_words": 1989,
+      "pdf_words": 2162,
+      "nine_gram_overlap": 0.92,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/ochs.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/ochs.pdf",
+      "body_words": 2573,
+      "pdf_words": 2730,
+      "nine_gram_overlap": 0.955,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/raschke.pdf",
+      "body_words": 5164,
+      "pdf_words": 5391,
+      "nine_gram_overlap": 0.947,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/reinhard_lupton.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/reinhard_lupton.pdf",
+      "body_words": 4936,
+      "pdf_words": 5162,
+      "nine_gram_overlap": 0.94,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/sugimoto.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/sugimoto.pdf",
+      "body_words": 4574,
+      "pdf_words": 4768,
+      "nine_gram_overlap": 0.96,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.1/taylor.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.1/taylor.pdf",
+      "body_words": 1065,
+      "pdf_words": 1209,
+      "nine_gram_overlap": 0.978,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/altizer.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/altizer.pdf",
+      "body_words": 5321,
+      "pdf_words": 5526,
+      "nine_gram_overlap": 0.983,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/arnold.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/arnold.pdf",
+      "body_words": 2966,
+      "pdf_words": 3134,
+      "nine_gram_overlap": 0.984,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/majer.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/majer.pdf",
+      "body_words": 8790,
+      "pdf_words": 9069,
+      "nine_gram_overlap": 0.955,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/robbins.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/robbins.pdf",
+      "body_words": 3702,
+      "pdf_words": 3877,
+      "nine_gram_overlap": 0.95,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/tatusko.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/tatusko.pdf",
+      "body_words": 11333,
+      "pdf_words": 11638,
+      "nine_gram_overlap": 0.966,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/taylor.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/taylor.pdf",
+      "body_words": 3389,
+      "pdf_words": 3267,
+      "nine_gram_overlap": 0.81,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.2/taylor_raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/taylor_raschke.pdf",
+      "body_words": 5547,
+      "pdf_words": 5766,
+      "nine_gram_overlap": 0.979,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/cha.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/cha.pdf",
+      "body_words": 6559,
+      "pdf_words": 6844,
+      "nine_gram_overlap": 0.951,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/crockett.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/crockett.pdf",
+      "body_words": 3023,
+      "pdf_words": 3190,
+      "nine_gram_overlap": 0.886,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/hale.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/hale.pdf",
+      "body_words": 1699,
+      "pdf_words": 1864,
+      "nine_gram_overlap": 0.959,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/katchen.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/katchen.pdf",
+      "body_words": 2661,
+      "pdf_words": 2842,
+      "nine_gram_overlap": 0.991,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/lakeland.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/lakeland.pdf",
+      "body_words": 1045,
+      "pdf_words": 1189,
+      "nine_gram_overlap": 0.957,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/mccullough.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/mccullough.pdf",
+      "body_words": 3712,
+      "pdf_words": 3907,
+      "nine_gram_overlap": 0.944,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/ronan.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/ronan.pdf",
+      "body_words": 4928,
+      "pdf_words": 5110,
+      "nine_gram_overlap": 0.939,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/takim.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/takim.pdf",
+      "body_words": 1667,
+      "pdf_words": 1821,
+      "nine_gram_overlap": 0.959,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/02.3/weiss.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/weiss.pdf",
+      "body_words": 3932,
+      "pdf_words": 4129,
+      "nine_gram_overlap": 0.988,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.1/anderson.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.1/anderson.pdf",
+      "body_words": 1426,
+      "pdf_words": 1587,
+      "nine_gram_overlap": 0.952,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.1/gooch.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.1/gooch.pdf",
+      "body_words": 15278,
+      "pdf_words": 15667,
+      "nine_gram_overlap": 0.965,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.1/maccammon.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.1/maccammon.pdf",
+      "body_words": 2862,
+      "pdf_words": 3032,
+      "nine_gram_overlap": 0.952,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.1/raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.1/raschke.pdf",
+      "body_words": 3681,
+      "pdf_words": 3881,
+      "nine_gram_overlap": 0.938,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.1/stone.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.1/stone.pdf",
+      "body_words": 7032,
+      "pdf_words": 7311,
+      "nine_gram_overlap": 0.961,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.2/caputo_raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/caputo_raschke.pdf",
+      "body_words": 7045,
+      "pdf_words": 7286,
+      "nine_gram_overlap": 0.987,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.2/grimshaw.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/grimshaw.pdf",
+      "body_words": 6418,
+      "pdf_words": 6627,
+      "nine_gram_overlap": 0.896,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.2/hyman.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/hyman.pdf",
+      "body_words": 9529,
+      "pdf_words": 9804,
+      "nine_gram_overlap": 0.957,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.2/lee.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/lee.pdf",
+      "body_words": 10687,
+      "pdf_words": 10962,
+      "nine_gram_overlap": 0.94,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.2/parmenter.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/parmenter.pdf",
+      "body_words": 1862,
+      "pdf_words": 2012,
+      "nine_gram_overlap": 0.951,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.2/taylor.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/taylor.pdf",
+      "body_words": 3819,
+      "pdf_words": 3985,
+      "nine_gram_overlap": 0.916,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/crockett.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/crockett.pdf",
+      "body_words": 4089,
+      "pdf_words": 4276,
+      "nine_gram_overlap": 0.938,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/druen.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/druen.pdf",
+      "body_words": 910,
+      "pdf_words": 1043,
+      "nine_gram_overlap": 0.925,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/flato.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/flato.pdf",
+      "body_words": 1037,
+      "pdf_words": 1165,
+      "nine_gram_overlap": 0.956,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/rashkover.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/rashkover.pdf",
+      "body_words": 5855,
+      "pdf_words": 6076,
+      "nine_gram_overlap": 0.886,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/reinhart.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/reinhart.pdf",
+      "body_words": 1242,
+      "pdf_words": 1380,
+      "nine_gram_overlap": 0.981,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/weiss.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/weiss.pdf",
+      "body_words": 4307,
+      "pdf_words": 4508,
+      "nine_gram_overlap": 0.973,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/03.3/zerbe.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/zerbe.pdf",
+      "body_words": 1354,
+      "pdf_words": 1503,
+      "nine_gram_overlap": 0.932,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/bennett-carpenter.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/bennett-carpenter.pdf",
+      "body_words": 8561,
+      "pdf_words": 8790,
+      "nine_gram_overlap": 0.941,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/blundell.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/blundell.pdf",
+      "body_words": 1770,
+      "pdf_words": 1917,
+      "nine_gram_overlap": 1,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/egginton.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/egginton.pdf",
+      "body_words": 9186,
+      "pdf_words": 9437,
+      "nine_gram_overlap": 0.945,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/hamner.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/hamner.pdf",
+      "body_words": 4349,
+      "pdf_words": 4559,
+      "nine_gram_overlap": 0.958,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/kosky.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/kosky.pdf",
+      "body_words": 11142,
+      "pdf_words": 12913,
+      "nine_gram_overlap": 0.955,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/lokensgard.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/lokensgard.pdf",
+      "body_words": 5869,
+      "pdf_words": 6106,
+      "nine_gram_overlap": 0.965,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/markmanolopoulos.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/markmanolopoulos.pdf",
+      "body_words": 6381,
+      "pdf_words": 6604,
+      "nine_gram_overlap": 0.935,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.1/raschke.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/raschke.pdf",
+      "body_words": 6447,
+      "pdf_words": 6691,
+      "nine_gram_overlap": 0.957,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/caputo.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/caputo.pdf",
+      "body_words": 3035,
+      "pdf_words": 3206,
+      "nine_gram_overlap": 0.985,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/flaxman.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/flaxman.pdf",
+      "body_words": 7348,
+      "pdf_words": 7608,
+      "nine_gram_overlap": 0.956,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/lambert-taylor.intro.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/lambert-taylor.intro.pdf",
+      "body_words": 1746,
+      "pdf_words": 1903,
+      "nine_gram_overlap": 0.961,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/pecora.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/pecora.pdf",
+      "body_words": 9165,
+      "pdf_words": 9454,
+      "nine_gram_overlap": 0.97,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/rabate-lambert.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/rabate-lambert.pdf",
+      "body_words": 7798,
+      "pdf_words": 8005,
+      "nine_gram_overlap": 0.962,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/taylor.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/taylor.pdf",
+      "body_words": 7205,
+      "pdf_words": 7471,
+      "nine_gram_overlap": 0.952,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    },
+    {
+      "file": "content/archives/04.2/williams.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/williams.pdf",
+      "body_words": 6174,
+      "pdf_words": 6407,
+      "nine_gram_overlap": 0.967,
+      "anchor_matches": 3,
+      "evidence": "Normalized nine-word sequence matches at opening, middle, and conclusion; sampled overlap meets threshold."
+    }
+  ],
+  "html_fulltext_additional_records":  [
+    {
+      "file": "content/archives/01.1/vahanian.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.1/vahanian.pdf",
+      "body_words": 9364,
+      "pdf_words": 9629,
+      "nine_gram_overlap": 0.897,
+      "opening_overlap": 0.936,
+      "conclusion_overlap": 0.713,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/01.3/richard.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/01.3/richard.pdf",
+      "body_words": 11827,
+      "pdf_words": 11799,
+      "nine_gram_overlap": 0.804,
+      "opening_overlap": 0.958,
+      "conclusion_overlap": 0.703,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/02.2/elias.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.2/elias.pdf",
+      "body_words": 5603,
+      "pdf_words": 5831,
+      "nine_gram_overlap": 0.959,
+      "opening_overlap": 0.982,
+      "conclusion_overlap": 1,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/02.3/magee.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/02.3/magee.pdf",
+      "body_words": 4953,
+      "pdf_words": 5079,
+      "nine_gram_overlap": 0.888,
+      "opening_overlap": 0.92,
+      "conclusion_overlap": 0.82,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/03.1/keuss.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.1/keuss.pdf",
+      "body_words": 7510,
+      "pdf_words": 7710,
+      "nine_gram_overlap": 0.832,
+      "opening_overlap": 0.893,
+      "conclusion_overlap": 0.76,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/03.2/hale.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/hale.pdf",
+      "body_words": 1429,
+      "pdf_words": 1554,
+      "nine_gram_overlap": 0.887,
+      "opening_overlap": 0.857,
+      "conclusion_overlap": 0.786,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/03.2/katz.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.2/katz.pdf",
+      "body_words": 8648,
+      "pdf_words": 8868,
+      "nine_gram_overlap": 0.941,
+      "opening_overlap": 0.943,
+      "conclusion_overlap": 0.92,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/03.3/scott.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/03.3/scott.pdf",
+      "body_words": 1775,
+      "pdf_words": 1922,
+      "nine_gram_overlap": 0.961,
+      "opening_overlap": 0.944,
+      "conclusion_overlap": 0.944,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/04.1/mcgrath.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.1/mcgrath.pdf",
+      "body_words": 4061,
+      "pdf_words": 4267,
+      "nine_gram_overlap": 0.881,
+      "opening_overlap": 0.976,
+      "conclusion_overlap": 0.854,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/04.2/lambert.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/lambert.pdf",
+      "body_words": 7449,
+      "pdf_words": 7656,
+      "nine_gram_overlap": 0.932,
+      "opening_overlap": 0.96,
+      "conclusion_overlap": 0.933,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/04.2/nichols.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/nichols.pdf",
+      "body_words": 5627,
+      "pdf_words": 5736,
+      "nine_gram_overlap": 0.918,
+      "opening_overlap": 0.911,
+      "conclusion_overlap": 0.857,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    },
+    {
+      "file": "content/archives/04.2/saper.md",
+      "field": "html_fulltext",
+      "value": true,
+      "source": "https://jcrt.org/archives/04.2/saper.pdf",
+      "body_words": 6161,
+      "pdf_words": 6402,
+      "nine_gram_overlap": 0.922,
+      "opening_overlap": 0.935,
+      "conclusion_overlap": 0.855,
+      "evidence": "Normalized nine-word sequence overlap independently verified across opening and conclusion sections."
+    }
+  ],
+  "additional_page_records": [
+    {
+      "file": "content/archives/05.1/siebers.md",
+      "field": "pages",
+      "value": "9-33",
+      "source": "https://jcrt.org/archives/05.1/siebers.pdf",
+      "pdf_pages": [2, 26],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    }
+  ],
+  "pdf_published_abstract_records":  [
+    {
+      "file": "content/archives/06.1/hoelzl.md",
+      "field": "bibliographic_abstract",
+      "value": "In this essay I discuss the problems of the concept of solidarity for critical social theory. I argue that the secular understanding of universal solidarity ignores its genuinely implied theological category of the sacrificial victim. For this reason solidarity cannot be explained sufficiently by a social theory based on the Hegelian assumption of reciprocity of recognition. It is the sacrificial victim who represents the most intense case of asymmetrical acts of solidarity.",
+      "source": "https://jcrt.org/archives/06.1/hoelzl.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": null,
+      "previous_value": null
+    },
+    {
+      "file": "content/archives/24.2/alencar.md",
+      "field": "bibliographic_abstract",
+      "value": "This article examines the historical silence surrounding the Doctrine of Christian Discovery and its impact on Brazilian society. It explores how papal bulls, known as the Doctrine of Discovery, have shaped power dynamics, enabling certain narratives while silencing others. Drawing on Michel-Rolph Trouillot and Franz Fanon, the study analyzes the construction of historical silence and its connection to violence against Indigenous peoples. It argues that the Church's role in upholding elite dominance has contributed to the narrative of the Doctrine’s irrelevance, paralleling the myth of racial democracy in Brazil. The silence surrounding the Doctrine is linked to systemic racism, with Indigenous peoples experiencing unthinkable violence during colonization. The article contends that addressing this colonial past, especially its ties to the Church, is essential for disrupting neocolonial practices and Eurocentric narratives. It calls for the Church to take active steps in dismantling the Doctrine, fulfilling commitments to Indigenous rights, and contributing to global decolonization efforts.",
+      "source": "https://jcrt.org/archives/24.2/alencar.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Alencar traces how the Doctrine of Discovery shaped Brazil through church-backed silence, racial myths, and colonial violence, urging decolonial accountability.\""
+    },
+    {
+      "file": "content/archives/24.2/barry.md",
+      "field": "bibliographic_abstract",
+      "value": "In its bicentennial year, the Erie Canal is widely celebrated as a triumph of American ingenuity, economic growth, and national identity. This essay interrogates how that identity is constructed, what it obscures, and what possibilities for repair might emerge through deconstruction. Drawing on my work as the 2021–2023 Erie Canal Research Fellow, I analyze heritage tourism sites, archival materials, historical narratives, and contemporary state and museum publications to examine how the Canal is represented in public memory. Writing as a European American settler living on unceded Onondaga land, I argue that dominant interpretations of the Erie Canal reproduce ideological structures rooted in settler colonialism, Christian dominance, patriarchy, and white supremacy. Through close readings of interpretive language and commemorative rituals—especially the Canal’s 1825 opening ceremony, the “Wedding of the Waters”—I show how metaphors of birth, marriage, civilization, and progress legitimize environmental harm and erase Indigenous sovereignty. The figure of DeWitt Clinton as the Canal’s “father,” for example, obscures the genocidal violence against the Haudenosaunee that preceded and enabled the Canal’s construction. The essay situates the Erie Canal within a longer genealogy of Christian European thought, tracing its ideological roots to the Doctrines of Discovery and their incorporation into U.S. law. It further examines how religious imaginaries of perfection and utopia shaped social movements along the Canal corridor, including the Oneida Community, revealing how reformist projects often reproduced older hierarchies of power. By integrating historical analysis with personal narrative, this essay emphasizes the ethical necessity of confronting complicity in systems of harm. It argues that contemporary efforts to “reimagine” the Erie Canal risk repeating historical patterns unless Indigenous leadership, ecological kinship, and erased histories are centered.",
+      "source": "https://jcrt.org/archives/24.2/barry.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"In this bicentennial reflection on the Erie Canal, Renee Barry examines how celebratory public histories mask the canal's foundation in settler colonial violence on unceded Haudenosaunee land. Drawing on archival research, heritage tourism analysis, and museum narratives, the essay deconstructs myths of progress, civilization, and national destiny embedded in iconic commemorations such as the Wedding of the Waters. Barry argues that these narratives normalize environmental damage, erase Indigenous sovereignty, and recast genocidal dispossession as American achievement. The article links canal ideology to Christian dominance, European expansion, and the legal legacy of the Doctrine of Discovery, while also tracing how revivalist and reform movements reproduced similar hierarchies. Blending critical history with self-reflection, Barry calls for a different future in which Erie Canal memory is reoriented around Indigenous leadership, sacred relationships to place, and accountable ecological repair rather than triumphalist nostalgia. She urges institutions, educators, and visitors to confront inherited narratives and support decolonial stewardship in practice.\""
+    },
+    {
+      "file": "content/archives/24.2/berlin.md",
+      "field": "bibliographic_abstract",
+      "value": "College educators have a duty to confront the lived realities of white supremacy and settler colonialism as they present themselves in the classroom, the historical record, and the academy at large. This response paper engages with the ideas and experiences presented by the fellow panel authors, and it contemplates the necessary steps needed to counteract the persistence of settler colonial and white supremacist ideologies in post-secondary education from the perspective of a junior historian. By devoting ourselves to the accessibility of educational materials, including diverse interpretations and accounts of the past in our courses, and not shying away from the discomfort that confronting these systems will cause, educators in college settings can work against white supremacy and settler colonialism.",
+      "source": "https://jcrt.org/archives/24.2/berlin.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Berlin urges teachers to confront settler colonialism and white supremacy by centering Indigenous history critical pedagogy, and accountability today.\""
+    },
+    {
+      "file": "content/archives/24.2/callan.md",
+      "field": "bibliographic_abstract",
+      "value": "English identity’s origin myth, Bede’s eighth-century Ecclesiastical History of the English People, laid the foundation for European whiteness, which was adopted by western European Christians more broadly in the thirteenth century, as they sought assurance of God’s preference for them over the darker-skinned Muslims who had defeated them in the crusades. Concurrent with their construction of whiteness, the English developed an imperialist Christian identity defined by the whims of power, not actual Christian belief or behavior, as most fully attested in the twelfth-century English invasion and subsequent colonization of Ireland. These developments gave rise in the fifteenth century to the papal letters commonly called the Doctrine of Discovery, which fueled European settler colonialism around the world. Once the English began colonizing lands beyond Europe, they also started to characterize the Irish—who largely share the same skin color as the English—as physically black. Understanding the origins of white supremacy and its fellow traveler, Christian supremacy, along with their false foundations and their history of dehumanizing an ever-rotating cast of targets to justify colonization, oppression, and enslavement, can better equip us to more effectively combat their contemporary manifestations and avoid their perpetuation, which threatens the entire planet.",
+      "source": "https://jcrt.org/archives/24.2/callan.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Callan traces how medieval English myths, crusade defeat, and Irish colonization shaped Christian white supremacy and fed the global Doctrine of Discovery.\""
+    },
+    {
+      "file": "content/archives/24.2/chaness.md",
+      "field": "bibliographic_abstract",
+      "value": "This article examines the tentacles between white supremacy, settler colonialism, and anti- Indian racism through the lens of “utopian ideologies” (Mohawk) and “cartographies of refusal” (Simpson). The paper is the result of the author's close collaboration with contemporary Haudenosaunee communities and living and working on the ancestral lands of the Onondaga Nation. Special attention is paid to how course design, visual art, and Indigenous values can help students understand how the legacies of white supremacy, settler colonialism, and anti-Indian racism continue to affect prevailing legal, political, religious, and media institutions in the United States of America.",
+      "source": "https://jcrt.org/archives/24.2/chaness.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Chaness links white supremacy, settler colonialism, and anti-Indian racism, showing how Indigenous values and pedagogy reshape critical classroom practice.\""
+    },
+    {
+      "file": "content/archives/24.2/felese.md",
+      "field": "bibliographic_abstract",
+      "value": "A powerful idealized cognitive metaphor related to conquest and dominance paired with ideological commitments to individual human rights frame the dominant way of assessing and valuing land in what is now the United States. By examining this correlation, it becomes possible to challenge hegemonic assumptions that have become so commonsensical they are rarely seen for what they are – imaginative constructs. By illuminating the connection, we can envision and mobilize traditional Indigenous ways-of-being that are life-affirming and offer an alternative to reckless acquisition and alienation from all our relatives.",
+      "source": "https://jcrt.org/archives/24.2/felese.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Felese challenges conquest-based land values and shows Indigenous relational worldviews offer life-affirming alternatives to extraction and alienation\""
+    },
+    {
+      "file": "content/archives/24.2/hurtado.md",
+      "field": "bibliographic_abstract",
+      "value": "This article offers a quasi-testimonio of my experiences with education and creating an introductory multiethnic literature college course. Engaging Critical Race Theory and Latina Feminisms, specifically scholars such as Kimberlé Crenshaw, Gloria Anzaldúa and Aurora Levins Morales, it argues that curriculum construction is never apolitical and therefore requires a demystification of historical contexts as well as challenges to settler colonial legacies. This article offers a case-study of how I design assignments, select readings, and work with students as they are introduced to different literatures and communities. It also offers models for self-reflection and ways to cultivate classes that engage the written word as holding the flesh of resistance.",
+      "source": "https://jcrt.org/archives/24.2/hurtado.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Hurtado uses Critical Race Theory and Latina feminisms to show how multiethnic curricula can confront colonial legacies and teach resistance in class.\""
+    },
+    {
+      "file": "content/archives/24.2/introduction.md",
+      "field": "bibliographic_abstract",
+      "value": "This introduction sets the stage for an edited volume arising from the December 2023 conference, “The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery,” held at Syracuse University. Anchored in the 200th anniversary of Johnson v. M’Intosh, the project critically interrogates the enduring influence of the Doctrine of Christian Discovery (DoCD) and its foundational role in shaping United States Indian Law, racism, land dispossession, and Christian imperialism. Through collaboration among scholars, activists, and Indigenous communities, the volume is organized around three core themes: religion, law, and pedagogy. Essays explore the DoCD’s theological and legal architecture, its entrenchment of white supremacy, and strategies for dismantling legal and educational systems of domination. With contributions from leading Indigenous and allied thinkers, the collection highlights transnational impacts—from North America to Brazil and India—while foregrounding Indigenous epistemologies, sovereignty, and calls for justice. This volume advances the global movement to repudiate the DoCD and reimagines justice through frameworks grounded in relationality, accountability, and decolonization. The introduction honors the memory of Sally Roesch Wagner and situates the collection within a growing intellectual and activist tradition.",
+      "source": "https://jcrt.org/archives/24.2/introduction.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Introduction to a global volume on Christian Discovery, linking law, religion, and pedagogy, with Indigenous sovereignty and decolonial justice today.\""
+    },
+    {
+      "file": "content/archives/24.2/jimenez.md",
+      "field": "bibliographic_abstract",
+      "value": "This article examines the ubiquity of white supremacy and its impact on educational environments. White supremacy is an imminent threat to education at all levels; it shapes curricula that further marginalize non-white perspectives and distort historical accuracy. The current paper details the importance of confronting white supremacy in criminal justice education, specifically, as the U.S. criminal legal system is built by and for white supremacy. Criminal justice coursework only benefits from conversations centering race, power, and oppression, as these are the foundations that continue to reverberate throughout law and policy. Through a personalized lens, the author addresses the power of identity and representation in their pedagogical contributions to the field.",
+      "source": "https://jcrt.org/archives/24.2/jimenez.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Jimenez shows criminal justice education must confront white supremacy by centering race, power and oppression to transform teaching and policies now.\""
+    },
+    {
+      "file": "content/archives/24.2/lakshmi.md",
+      "field": "bibliographic_abstract",
+      "value": "This paper is an attempt to bring together different values from different socio-cultural contexts together with an intention to weave a meaningful narrative. For this reason, this paper will focus on the ‘Indigenous Values’ as explained by Philip Arnold in his book The Urgency of Indigenous Values as a basic structural framework to think about the Dalit women of the Indian subcontinent in consonance with these values and urgency. Similar to the indigenous values are the values lived and experienced by these Dalit women who help us to explore the different frameworks of existing in this shared world. To be precise, this paper is an earnest attempt to talk about the other ways of being in the world through the urgency of Dalit values. It is in this sense that this paper attempts to bring forth a shared framework to work with. This is a secondary scholarship based on the ethnography of other renowned scholars like Philip P Arnold and Lucinda Ramberg.",
+      "source": "https://jcrt.org/archives/24.2/lakshmi.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Lakshmi frames Dalit feminist values alongside Indigenous frameworks to show alternative forms of dwelling, relation, and resistance beyond colonial modernity.\""
+    },
+    {
+      "file": "content/archives/24.2/modrow.md",
+      "field": "bibliographic_abstract",
+      "value": "The following chapter is intended to give an overview over the role and function of a particular set of papal bulls that together helped define the Doctrine of Christian Discovery, an ideology that, as a precursor of international law, helped define the rules of European colonial conquest. The chapter will explain the evolution of this Doctrine as a dialectical process between worldviews and positions of the papacy and the Iberian monarchies and the progressing results of the ‘discovery’ process, that is, the early process of European overseas expansion. Through selective close reading of the bulls’ texts, I will then focus on the bulls’ central contribution to the DoCD, which I see in the transformation of the crusade idea and the Church’s mission for the salvation of all souls into a global colonial strategy and, ‘en passant,’ the global dispossession of indigenous peoples. In synthesis, I will at the end present the Doctrine of Christian Discovery as a 3-step argument as I see it repeatedly being made, adapted, and refined in this set of papal bulls.",
+      "source": "https://jcrt.org/archives/24.2/modrow.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Modrow shows how papal bulls transformed crusade theology into global colonial strategy, legitimizing Indigenous dispossession and imperial expansion.\""
+    },
+    {
+      "file": "content/archives/24.2/nagle.md",
+      "field": "bibliographic_abstract",
+      "value": "The Erie Canal is widely regarded as an engineering marvel; it is a symbol of American ingenuity, progress, and power, and it helped establish the U.S. global empire. In light of the 2025 canal bicentennial, however, there is a need for more critically conscious truth–telling regarding the lesser-known and more complicated aspects of Erie Canal heritage. Most notably, this includes broken treaties with the Six Nations of the Haudenosaunee Confederacy and the illegal theft of lands from Haudenosaunee peoples by New York State as facilitated by the Doctrine of Christian Discovery. However, inaction among settlers complicit in these ongoing struggles cannot be addressed solely through intellectual means; it requires critical affective engagements with dominant Erie Canal heritage discourses. I analyze the affective politics of Erie Canal heritage in the current planning efforts of the Erie Canalway National Heritage Corridor and New York State Reimagine the Canals tourism and recreation marketing initiatives. I illustrate how the dominant narrative of the Erie Canal in heritage planning neuropolitically engineers feelings of marvel for the canal and perpetuates the discourse of discovery—the language of conquest, ownership, and profit foundational to the Doctrine of Christian Discovery. Consequently, many settlers remain unable to recognize the Erie Canal’s ongoing violence; resisting the affective politics of dominant Erie Canal heritage marketing in support of Haudenosaunee sovereignty, therefore, requires cultivating deeper embodied awareness to more holistically address complexities of (in)justice in everyday contestations over lands and bodies.",
+      "source": "https://jcrt.org/archives/24.2/nagle.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Nagle critiques Erie Canal heritage marketing, showing how engineered marvel obscures Haudenosaunee dispossession and calls settlers to affective resistance.\""
+    },
+    {
+      "file": "content/archives/24.2/nahar.md",
+      "field": "bibliographic_abstract",
+      "value": "The majority of the interactions, historic and contemporary, between Black people and Indigenous Peoples living in the so-called United States occur(red) in the bloody context of settler colonial imperialism. In response to lived conditions, feminisms developed in various Black and Indigenous communities as part of resisting settler-colonialism, racism, sexism, capitalism and classism, and other forms of oppression. Feminist movements in Black and Indigenous communities have been proximate, overlapping, and mutually reinforcing, but also in tension with one another; competing at times, collaborative at others. Though both expansive areas of collective work, Black feminisms and Indigenous feminisms tend to center different aspects of the struggle for liberation. Some strain between movements comes from the inadvertent solidification of the settler state that can happen as some Black feminists struggle for their freedom and self-determination within the settler state without explicitly articulating an analysis of settler colonialism. Other tensions come from some Indigenous feminists' refusal of participation in solidarity politics in a way that weakens 'BIPOC' coalitions facing repression, and various expressions of uninterrogated antiblackness. This paper posits that the Doctrine of Discovery (DoD), a 15th century set of religious and state decrees that facilitated Christian European global exploration and expropriation, is a ripe site to analyze together for both Indigenous and Black feminist organizers because it allows for the incorporation of an analysis of settler colonialism without de-centering issues that are essential to Black feminist theory and practice. As a Black feminist organizer with some experience organizing alongside Indigenous feminists, in this paper I examine my own radical tradition regarding the absence of an articulated settler colonial analysis at two moments in US Black feminism--the Combahee River Collective statement of 1977 and the Allied Media Conference AfroFeministFutures panel in 2022. Then I return to how bringing in an analysis of the DoD can assist in increasing opportunities for generations of Black and Indigenous feminist organizers to express solidarity with each other through shared language and conceptual frameworks, for the purpose of healing our lineages, and practicing the liberatory politics we aspire to.",
+      "source": "https://jcrt.org/archives/24.2/nahar.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Nahar argues Doctrine of Discovery can build shared language between Black and Indigenous feminisms, strengthening solidarity against settler colonial power.\""
+    },
+    {
+      "file": "content/archives/24.2/preface.md",
+      "field": "bibliographic_abstract",
+      "value": "This preface critically interrogates the theological and ritual justifications of domination embedded within eurochristian frameworks, as imposed through colonial encounters from 1492 onward. Centering the epistemological clash between eurochristian and Indigenous worldviews, it contrasts a distant, property-centered metaphysics with Haudenosaunee understandings of sacrality rooted in a reciprocal relationship to the land. Drawing on citations from Indigenous leaders and scholars, the text addresses the ongoing impacts of doctrines like the Doctrine of Discovery and legal decisions such as Johnson v. M’Intosh. It highlights healing movements such as #Landback and #Lakeback as ceremonial acts of restoring right relationship with land, sovereignty, and all living beings. Ultimately, the piece calls for a fundamental value change—one grounded in Indigenous knowledge—to dismantle systems of domination and promote planetary healing.",
+      "source": "https://jcrt.org/archives/24.2/preface.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Preface to a special issue examining Christian Discovery's role in white supremacy, law, and education, with decolonial paths grounded in Indigenous justice.\""
+    },
+    {
+      "file": "content/archives/24.2/radhakrishnan.md",
+      "field": "bibliographic_abstract",
+      "value": "This article examines the entrenchment White Supremacy in the American educational system, and the implications of these beliefs on teacher education and teacher preparation. Efforts at Diversity, Equity, Inclusion, and Social Justice have multiple barriers to pierce to create significant change. Schools are a reproduction of larger society and normalized White Supremacy. In this article, I offer a brief historical analysis of the underlying systems that shape the curriculum, standards, and instruction that reproduce White Supremacy in K-12 U.S. schools and offer opportunities for resistance, change, and...disruption.",
+      "source": "https://jcrt.org/archives/24.2/radhakrishnan.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Radhakrishnan examines how U.S. schooling reproduces white supremacy and identifies teacher education strategies to disrupt curriculum, instruction, and policy.\""
+    },
+    {
+      "file": "content/archives/24.2/somayajula.md",
+      "field": "bibliographic_abstract",
+      "value": "This paper, presented in December 2023 at the “Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery” conference at Syracuse University, analyzes the rise of Hindutva, or Hindu nationalism, through the framework of ‘political theology’ that was developed in the early 20th century by the German jurist Carl Schmitt. In the essay, I explore the ways that Hindutva ideology invokes political–theological concepts to construct a unitary ‘Hindu’ identity that is conceived not only in religious terms, but in racial and civilizational terms as well. I draw upon Schmitt’s conception of political theology, as well as the work of scholars such as Anustup Basu who have characterized Hindutva as a form of ‘political monotheism’ due to its central project of flattening and homogenizing the incredibly diverse array of practices and traditions that fall under the ‘Hindu’ umbrella in service of an exclusionary, ethnic and cultural nationalist political project. In order to resist this ‘political monotheism,’ the essay argues for a return to an expansive understanding of what ‘Hindu’ means, and for the decoupling of “Hindu–ness” from nationhood in favor of a more syncretic and inclusive conception of Indian national identity.",
+      "source": "https://jcrt.org/archives/24.2/somayajula.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Somayajula reads Hindutva as political theology, showing how Hindu nationalism flattens religious diversity and urging a more inclusive Hindu identity.\""
+    },
+    {
+      "file": "content/archives/24.2/trinkauskaite.md",
+      "field": "bibliographic_abstract",
+      "value": "In this chapter, I expand on the most vibrant traditional Baltic practices discussed in the Mapping the Doctrine of Discovery podcast and in my earlier work on edible mushroom gathering, sacred dimensions of wood, and the significance of beekeeping traditions (Trinkauskaitė 2008; 2019). Subjects include polyphonic songs called sutartinės, and traditional homesteads and their attendant deities. Baltic and Prussian domestic gods were believed to live with humans -- in cellars, granaries, and barns, lurking in corners or behind a stove. Relationships with spirits and divinities often define home. Ethnomusicologists emphasize the egalitarian nature of polyphonic singing. In their rhetorical and performative strategy, sutartinės are similar to the Haudenosaunee Thanksgiving Address. Their modern resurgence signals the urgent need for more collective consensus in a society that values individualism and hierarchical social structures.",
+      "source": "https://jcrt.org/archives/24.2/trinkauskaite.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Trinkauskaite explores Baltic sacred traditions and sutartinės, linking domestic deities and revivalist practice to collective ethics beyond hierarchy.\""
+    },
+    {
+      "file": "content/archives/24.2/wagner.md",
+      "field": "bibliographic_abstract",
+      "value": "This article explores the historical, religious, and legal foundations of Western domination over women, Indigenous peoples, and the Earth, tracing them to Christian creation myths, Papal authority, and colonial law. Genesis establishes a hierarchy: men are given authority over the Earth and all living beings, while women are subordinated as punishment for Eve’s quest for knowledge. These theological principles were enforced through papal bulls such as Summis desiderantes affectibus (1484) and Inter caetera (1493), sanctioning the persecution of women as witches, the appropriation of Indigenous lands, and male control over reproduction, labor, and spirituality. The Doctrine of Discovery codified these hierarchies into law, granting colonial and later national governments plenary authority over Indigenous Peoples and territories, as upheld in U.S. Supreme Court cases including Johnson v. McIntosh and City of Sherrill v. Oneida Nation. Indigenous knowledge systems offer a radically different perspective: Mother Earth and women are sacred creators of life, and humans are accountable participants in an interdependent web of beings. Revitalizing these relationships through Indigenous leadership, particularly Indigenous women, is central to the process of rematriation— restoring the sacred to the mother—and addressing the ecological, social, and spiritual crises wrought by centuries of patriarchal and colonial domination. This framework challenges Western assumptions, calling for a fundamental realignment of humanity’s relationship with the Earth, life, and one another.",
+      "source": "https://jcrt.org/archives/24.2/wagner.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Wagner links church patriarchy and the Doctrine of Discovery to colonial violence, calling for Indigenous rematriation to restore women and the Earth.\""
+    },
+    {
+      "file": "content/archives/25.1/conclusion.md",
+      "field": "bibliographic_abstract",
+      "value": "This conclusion reaffirms the central thesis of the volume: the Doctrine of Christian Discovery (DoCD) is a persistent and pervasive system of domination, shaping legal, theological, and cultural structures that perpetuate Indigenous dispossession and white supremacy. Drawing upon scholarship and activism presented at the 2023 Syracuse University conference, the essays reveal how the DoCD is embedded in law, education, tourism, and national identity, sustaining the authority of settler colonialism. The contributors emphasize that true change requires more than legal reform; it demands metaphysical and cultural disobedience to the ideologies underpinning Christian empire and racial capitalism. Enacting justice calls for decolonial approaches—centering Indigenous cosmologies, fostering relationality, and transforming educational and public discourses. Highlighting both harm and healing, the volume advances pedagogical strategies that challenge erasure and settler innocence, urging a return to Indigenous land and knowledge. Grounded in the Haudenosaunee “Two Row Wampum” method and inspired by global Indigenous resistance, the conclusion calls for a comprehensive reimagining of law, theology, and society. Decolonization, it asserts, is ongoing work: requiring the restoration of land, the honoring of Indigenous law, and the cultivation of right relations.",
+      "source": "https://jcrt.org/archives/25.1/conclusion.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"The conclusion calls for decolonization beyond legal reform, centering Indigenous law, land return, and right relations to resist Christian Discovery.\""
+    },
+    {
+      "file": "content/archives/25.1/derrico.md",
+      "field": "bibliographic_abstract",
+      "value": "The legal doctrine of “Christian Discovery” remains the foundation of United States federal anti-Indian law, yet it is rarely challenged directly in litigation. This essay argues that confronting the doctrine poses not merely a legal challenge but a metaphysical crisis for the United States itself. Through close analysis of the nineteenth-century “Marshall Trilogy”— Johnson v. McIntosh, Cherokee Nation v. Georgia, and Worcester v. Georgia—the essay demonstrates that federal Indian law is grounded in an explicit claim of Christian European land appropriation and a corresponding denial of Indigenous sovereignty. The essay critiques common misreadings of these cases that treat dicta about Native “occupancy,” “guardianship,” or “trust” as affirmations of Indigenous rights. Instead, it shows how such language functions rhetorically to obscure the doctrine’s central purpose: legitimizing U.S. ownership of Indigenous lands and plenary power over Indigenous peoples. Situating Christian Discovery within a broader jurisprudential framework, the essay argues that land appropriation is the primeval legal act from which U.S. property law, sovereignty, and territorial authority derive. By comparing Brown v. Board of Education with Tee-Hit-Ton v. United States, the essay highlights how the Court embraced racial equality while reaffirming colonial domination. It concludes by urging litigators to directly challenge Christian Discovery, arguing that avoidance perpetuates a system of domination sustained by legal formalism and reformist rhetoric.",
+      "source": "https://jcrt.org/archives/25.1/derrico.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Peter d'Errico argues that U.S. anti-Indian law rests on Christian Discovery, and that challenging it exposes a metaphysical crisis in U.S. law today.\""
+    },
+    {
+      "file": "content/archives/25.1/goudy.md",
+      "field": "bibliographic_abstract",
+      "value": "This personal memoir, Right & Respectful Relations, chronicles his journey as Chairman of the Yakama Nation Tribal Council and his involvement in the historic amicus brief challenging the Doctrine of Christian Discovery in Washington State v. Cougar Den. Drawing on his experience as Chief Operating Officer of King Mountain Tobacco, Goudy reflects on the complexities of asserting Yakama treaty rights under the 1855 Treaty, which guarantees the Nation “exclusive use and benefit” of its lands and unfettered access to public roadways, protected under the U.S. Constitution. The details of the interplay of federal, state, and tribal law, including the challenges posed by historical legal precedent tracing back to Johnson v. McIntosh. Through personal narrative, the authour illustrates the tension between Indigenous sovereignty and imposed legal structures, interweaving lessons from their grandfather about resilience, endurance, and spiritual reflection. The memoir provides an intimate account of the strategic development and filing of the Yakama amicus brief, the confrontation with non- Native legal systems, and the assertion of cultural identity—including ceremonial regalia— before the U.S. Supreme Court. This article situates these legal and political struggles within the broader context of a 500-year history of colonial domination, emphasizing the need to challenge foundational myths, such as the Doctrine of Christian Discovery. Beyond litigation, the memoir addresses integrity, leadership, and the pursuit of Right and Respectful Relations, illustrating the ongoing work required to achieve Native self-determination, cultural preservation, and equitable systems for future generations.",
+      "source": "https://jcrt.org/archives/25.1/goudy.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Jode Goudy recounts how the Yakama Nation built a historic amicus brief, connecting treaty rights, sovereignty, and opposition to Christian Discovery.\""
+    },
+    {
+      "file": "content/archives/25.1/heath.md",
+      "field": "bibliographic_abstract",
+      "value": "This article examines how the doctrine of Christian discovery and domination continues to serve as the foundational legal justification used by United States courts to deny treaty rights and dismiss Indigenous land rights claims, with particular focus on Haudenosaunee nations. Centering the Supreme Court’s decision in City of Sherrill v. Oneida Indian Nation (2005), the article critiques the Court’s revival of colonial doctrine through a fabricated “equitable” defense mislabeled as laches. It traces Sherrill’s jurisprudential roots to Johnson v. M’Intosh (1823), where Chief Justice John Marshall embedded Christian European claims of domination into United States law as a mechanism for Indigenous dispossession. The article analyzes how the Second Circuit quickly dismissed the Cayuga, Oneida, and Onondaga land rights actions, despite undisputed treaty violations, constitutional breaches, and illegal land takings by New York State. These decisions reveal the creation of a distinct and shifting set of equitable rules applied only to Indigenous land claims, consistently privileging settler expectations over Indigenous sovereignty and justice. Beyond domestic litigation, the article addresses the Onondaga Nation’s turn to international human rights forums, including its successful petition before the Inter-American Commission on Human Rights, and highlights the recent return of 1,000 acres of ancestral land as evidence that land justice is neither disruptive nor impractical. The article concludes by urging Indigenous law practitioners to directly confront and demand repudiation of the doctrine of Christian discovery, reaffirming treaty supremacy and international human rights as essential foundations for justice and healing.",
+      "source": "https://jcrt.org/archives/25.1/heath.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Joseph J. Heath shows how U.S. courts use Christian Discovery to deny Haudenosaunee treaty and land rights, and calls for its repudiation in U.S. law.\""
+    },
+    {
+      "file": "content/archives/25.1/miller.md",
+      "field": "bibliographic_abstract",
+      "value": "Six hundred years ago, the Church and Spain and Portugal began developing the international law of Christian European colonization. That law is better known today as the Doctrine of Discovery. Joined by England, France, Russia, and Holland, European countries used this law to claim and acquire the lands, assets, sovereign rights, and even the existence of Indigenous nations and peoples. When the United States was formed, it also adopted this colonizing legal regime. This international law still applies today and is very relevant to Indigenous nations and peoples and seriously impacts their rights and existence even now. This chapter lays out the ten elements, or factors, that comprise the Doctrine. These elements were clearly defined and applied by the United States Supreme Court in the landmark Indian law case of Johnson v. M’Intosh in 1823.",
+      "source": "https://jcrt.org/archives/25.1/miller.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Robert J. Miller traces how the Doctrine of Discovery became international law, enabling colonial claims over Indigenous land, rights and sovereignty.\""
+    },
+    {
+      "file": "content/archives/25.1/newcomb.md",
+      "field": "bibliographic_abstract",
+      "value": "The author Steven Newcomb (Shawnee/Lenape) reflects on his lifelong study of the Doctrine of Christian Discovery and Domination, tracing its origins, legal codifications, and enduring impact on Native nations. Motivated by reading Bury My Heart at Wounded Knee at age fifteen, Newcomb situates his inquiry within his family history, including Shawnee and Delaware ancestry and his grandparents' experiences in U.S. Indian boarding schools designed to eradicate Native languages and culture. Newcomb examines the 1493 papal bull Inter Caetera, which sanctioned European Christian domination over non-Christian peoples, and the 1823 U.S. Supreme Court ruling Johnson v. McIntosh, which codified the legal principle that “discovery” granted title and authority over Native lands. By exploring the etymology of key terms—dominion, conquest, civilization, ascendancy, and sovereignty—he demonstrates how language was weaponized to legitimize domination. Newcomb argues that federal Indian law and the U.S. property system are founded upon a claim of despotic dominion over Native nations and their lands, contrasting sharply with the original free and independent existence of Indigenous peoples. He emphasizes the importance of recovering Native languages, cultural traditions, and spiritual knowledge to challenge this imposed system. Drawing on decades of research, collaboration with Native scholars, and public advocacy, Newcomb calls for a reclamation of sovereignty grounded in reverence for life, and for a conscious movement away from the colonial mindset embedded in law, language, and governance.",
+      "source": "https://jcrt.org/archives/25.1/newcomb.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Steven Newcomb reflects on decades studying Christian Discovery, showing how law and language normalized domination over Native nations for centuries.\""
+    },
+    {
+      "file": "content/archives/25.1/rodgers-falk.md",
+      "field": "bibliographic_abstract",
+      "value": "This paper traces the historical and legal evolution of sovereignty in relation to Indigenous land rights, exploring how colonial legal systems have sustained race-based power structures through legal fictions such as terra nullius and res nullius. It argues that the colonial legal system has consistently framed Indigenous peoples as usufructuaries, entitled to the \"use\" of land but not ownership, while maintaining the ultimate sovereignty of the colonial state. The paper examines the conceptual parallels between Blackstone’s doctrine of occupancy, the U.S. Supreme Court’s decision in Johnson v. McIntosh (1823), and the modern recognition of native title, particularly in Australia’s landmark Mabo v. Queensland (1992) decision.Occupancy and native title, like Blackstone’s \"user\" rights, reflects a colonial framework that subordinates Indigenous land rights to the Crown’s absolute sovereignty, a sovereignty founded on the principles of the Doctrine of Discovery and the Act of Supremacy (1534). Through the lens of the authors two-chamber model of sovereignty, absolute sovereignty/imperium (Chamber 1) and proprietary rights/dominion (Chamber 2), the paper highlights how these legal fictions perpetuate a racialised hierarchy where Indigenous peoples are positioned as neither fully sovereign nor fully enslaved. The concept of native title is critiqued as a modern rebranding of Blackstone's ‘user rights,’ which continue to deny Indigenous peoples full ownership and control over their lands, positioning them within a colonial legal system that traps them in a perpetual state of legal subordination. In tracing the historical lineage of terra nullius and its evolution into native title, the paper reveals how colonial legal systems used race-based distinctions to justify the dispossession and marginalisation of Indigenous peoples. Despite its suggested advancement, the recognition of native title does not represent equality or true land restitution but rather reflects a continued denial of Indigenous sovereignty. The paper concludes with a call for a fundamental reassessment of the colonial legal structures that uphold absolute sovereigntyand their inherent ties to the racialised dispossession of Indigenous lands. The continued legitimacy of these doctrines, embodied in both legal and political systems, ensures that Indigenous peoples remain trapped within a system designed to perpetuate domination rather than justice.",
+      "source": "https://jcrt.org/archives/25.1/rodgers-falk.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Phillip Rodgers-Falk argues that native title and colonial sovereignty preserve Indigenous subordination through terra nullius and racial hierarchies.\""
+    },
+    {
+      "file": "content/archives/25.1/schwartzberg.md",
+      "field": "bibliographic_abstract",
+      "value": "The famous \"Marshall trilogy\" —Johnson v. Mclntosh, Cherokee Nation v. Georgia, and Worcester v. Georgia-is repugnant to the written Constitution of the United States as well as to the international laws and usages that have been a part of life on Turtle Island (this continent) since millennia before the first eurochristians invaded and which still constitute the true unwritten constitution of this land and the deepest legitimate source of \"the law.\" Rooted in that licentious hybrid of fifteenth century religious jurisprudence and ethnonationalism known as the doctrine of Christian discovery, the \"Marshall trilogy\" established a legal framework that has systematically denied to the peoples of the Native Nations their constitutional rights. In particular, it has denied them their right to have the obligations of the United States under their treaties adhered to as the \"supreme law of the land\" and also their right to enforce these legal obligations in the Supreme Court under its original jurisdiction in any case arising under a treaty in which a state is a party to the case. Without the legal structure established by the \"Marshall trilogy,\" including the \"right\" of the United States to enter Native Nations without their prior permission that was fabricated in Worcester so as not to interfere with the Trail of Tears, the land thefts and genocides of the 1830s, as well as those that followed in the so-called \"Indian Wars,\" could never have taken place. Nor could such subsequent horrors as the boarding \"schools\" and the exploitations and oppressions and treaty violations that continue to this day. The \"trust\" in any treaty relationship is the trust on both sides that the treaty will be adhered to. This is precisely what the \"trust relationship\" denies whenever the United States wishes to deny it on the basis of a claim that the Native Nations are, in the words of Cherokee Nation, \"completely under the sovereignty and dominion of the United States.\" This is a claim- like the analogous \"states' rights\" claim that these nations are subordinate to the individual states-that is repugnant to constitutional law (properly construed).",
+      "source": "https://jcrt.org/archives/25.1/schwartzberg.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Steven J. Schwartzberg urges Americans to overturn Federal Indian Law by confronting the colonial assumptions that still shape U.S. jurisprudence now.\""
+    },
+    {
+      "file": "content/archives/25.2/alikhani.md",
+      "field": "bibliographic_abstract",
+      "value": "This article rereads Walter Benjamin’s Toward the Critique of Violence through the category of “bare life,” placing Benjamin in conversation with Emmanuel Levinas’s ethics of responsibility for the Other. It argues that bare life is the site at which mythic and divine violence confront one another: mythic-legal violence founds law, produces guilt, and reduces persons to lives administered under threat, while divine violence interrupts this reduction without founding a new legal order that operates through violence. The issue, therefore, is not only the structure of law or political violence, but the production of subjectivity itself: whether the human person is reduced to bare survival or opened toward a fuller life beyond guilt, administration, and mere preservation. This article first reconstructs Benjamin’s distinction between law-making, law- preserving, mythic, and divine violence. It then examines the major interpretive divide between nonviolent readings, represented by Simon Critchley and Judith Butler, and more ruptural readings, represented by Slavoj Žižek and Alison Ross. Against both a pacifying domestication of divine violence and a romantic authorization of counterviolence, the article proposes Levinas’s face, the commandment “thou shall not kill,” and the third as an ethical optic for political judgement. Levinas does not remove the ambiguity of Benjamin’s divine violence, nor does he provide a formula for action; he keeps interruption answerable to the concrete Other whose life is at stake. The conclusion turns to the Iranian situation to show how Benjamin’s suspicion of law and Levinas’s ethics of responsibility together sharpen the question of how to resist tyranny without turning the oppressed into instruments of another power.",
+      "source": "https://jcrt.org/archives/25.2/alikhani.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Diako Alikhani rereads Benjamin's divine violence through Levinas, arguing that bare life is where mythic law and ethical interruption confront one another.\""
+    },
+    {
+      "file": "content/archives/25.2/bell.md",
+      "field": "bibliographic_abstract",
+      "value": "Although he ultimately disputed the scope and semantics of it, televangelist Joel Osteen’s “endorsement” of presidential candidate Donald Trump in a Fox News interview trended on social media for a few days in March 2016. The support sparked intense debate and prompted Osteen’s Houston-based mega-church to issue a statement that categorically denied an official Trump endorsement. Osteen has been adamant that he has not supplied an official endorsement for the subsequent elections (including 2020 and 2024). Using Edwin Black’s second persona theory, this paper will explain why neither Osteen nor his ideal audience would ever officially grant a public endorsement of a political candidate. The second persona analysis identifies the characteristics of the “implied” audience in Osteen’s discourse and creates an opportunity for a third persona analysis—those silenced or negated. In doing so, it will seek to identify the candidate Osteen’s ideal audience member would most likely support and discuss the moral implications of that choice.",
+      "source": "https://jcrt.org/archives/25.2/bell.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Although he ultimately disputed the scope and semantics of it, televangelist Joel Osteen's \\\"endorsement\\\" of presidential candidate Donald Trump in a Fox News interview trended on social media for a few days in March 2016. The support sparked intense debate and prompted Osteen's Houston-based mega-church to issue a statement that categorically denied an official Trump endorsement. Osteen has been adamant that he has not supplied an official endorsement for the subsequent elections (including 2020 and 2024). Using Edwin Black's second persona theory, this paper will explain why neither Osteen nor his ideal audience would ever officially grant a public endorsement of a political candidate. The second persona analysis identifies the characteristics of the \\\"implied\\\" audience in Osteen's discourse and creates an opportunity for a third persona analysis—those silenced or negated. In doing so, it will seek to identify the candidate Osteen's ideal audience member would most likely support and discuss the moral implications of that choice.\""
+    },
+    {
+      "file": "content/archives/25.2/cheung.md",
+      "field": "bibliographic_abstract",
+      "value": "This article argues that Slavoj Žižek’s notion of the “lost cause” and John D. Caputo’s theology of the event can be brought into a mutually illuminating dialogue that yields a distinctive “theology of insistence and interruption.” I reconstruct Žižek’s account of the lost cause as fidelity to a traumatic Real that exceeds empirical success or failure and propose three criteria, namely rupture, universality-claim, and spectral persistence, for identifying such causes. I then illustrate these criteria through brief readings of the Umbrella Movement and 2019 Hong Kong protests, Occupy Wall Street, and the 2011 mobilizations in Cairo’s Tahrir Square, showing how each functions as a “lost cause” whose truth remains unfinished. In the second part, I read Caputo’s event-theology as a hauntological thinking of divine insistence, in which “God” names an undeconstructible call that never becomes a metaphysical presence yet demands concrete, non-sovereign responses. Bringing Žižek and Caputo together, I argue that Žižek’s emphasis on trauma and fidelity sharpens the political edge of Caputo’s spectral hermeneutics, while Caputo’s insistence on weakness and hospitality constrains Žižek’s militant negativity. The result is a postsecular, theopolitical framework for thinking how faithfulness to “lost causes” can animate emancipatory projects without collapsing into nostalgic myth or quietist resignation.",
+      "source": "https://jcrt.org/archives/25.2/cheung.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Yiu Ming Cheung brings Žižek's lost causes together with Caputo's event-theology to build a postsecular theology of insistence and interruption.\""
+    },
+    {
+      "file": "content/archives/25.2/hall.md",
+      "field": "bibliographic_abstract",
+      "value": "Building on a recent article that identifies a “dancing ecofeminist logic” in Australian logician Val Plumwood and pairs it with Australian sociologist Ariel Salleh’s “ethics of holding,” the present article further elaborates this logical ethics into a transgender ethics of “holding green commons” in Indian philosopher of science and ecological activist Vandana Shiva’s Staying Alive: Women, Ecology, and Development (2016). I then bolster this ethics by partnering it with Spirit/Dance (a reconstruction of global spiritual practices of the poor) to highlight these spiritual practitioners as “spirit-lanterned guardians,” inspired by the heroic protestors of the Chipko land rights movement in India, who channeled Hindu spirits and carried lanterns in the daylight, to symbolize their silvicultural wisdom defending the forest. Finally, I identify five such guardians in the Global North today: three fictional “spirits” (Peter Pan, Green Lantern, and Robin Hood) and two present-day ecofeminist activists, namely martyred “Cop City” protestor and forest defender Tortuguita Terán and the interdisciplinary movement artist jill sigman/thinkdance.",
+      "source": "https://jcrt.org/archives/25.2/hall.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Joshua M. Hall develops a transgender ethics of holding green commons from Vandana Shiva, naming five spirit-lanterned guardians in the Global North.\""
+    },
+    {
+      "file": "content/archives/25.2/raschke.md",
+      "field": "bibliographic_abstract",
+      "value": "This article explores the convergence of quantum physics, neuroscience, and philosophy of religion in understanding consciousness and spiritual experience. Beginning with quantum entanglement and Einstein's characterization of “spooky action at a distance”, the article traces an analogy to recent discoveries in neuroscience, particularly ephaptic coupling—the non-synaptic, field-based communication between neurons. Drawing on David Chalmers' 'hard problem' of consciousness and critiquing physicalist reductionism, the article argues that contemporary neuroscience, when properly integrated with theoretical physics and phenomenological philosophy, opens unprece- dented avenues for investigating transcendent experiences. The work of Andrew Newberg in neurotheology serves as a bridge between empirical brain imaging and theological inquiry, demon- strating how meditation, prayer, and mystical states correlate with specific patterns of neural activity. By invoking Kant's transcendental philosophy and post-structural semiotics, the article proposes a framework for 'transcendental semiotics' that moves beyond the immanence/tran- scendence dichotomy, suggesting that quantum-level information processing and electromagnetic field effects in the brain may provide a scientific basis for understanding religious and spiritual phenomena without resorting to reductionism.",
+      "source": "https://jcrt.org/archives/25.2/raschke.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Carl A. Raschke links quantum entanglement and ephaptic coupling to consciousness studies, proposing a transcendental semiotics of religious experience.\""
+    },
+    {
+      "file": "content/archives/25.2/shane.md",
+      "field": "bibliographic_abstract",
+      "value": "This essay examines the relationship between postmodernism, metamodernism, and the contemporary re-emergence of openness to spiritual and enchanted understandings of reality. It argues that postmodernism, rather than merely producing relativism and nihilism, performed a necessary deconstructive work by exposing the unacknowledged metaphysical assumptions underlying the Enlightenment project of “instrumental reason.” Drawing particularly on Foucault, Derrida, Lyotard, and Rorty, the essay traces how this critique destabilized the autonomous, supposedly objective modern subject. It then considers metamodernism as an emerging reconstruction: an epistemological posture that accepts contingency, embeddedness, and the limits of human knowledge while nevertheless permitting provisional commitments to truth and meaning. This reconstructed subject, capable of holding multiple levels of reality in creative tension, reopens intellectual space for transcendence and the supernatural. The essay ultimately proposes a metamodern “hermeneutic of credulity”—a critical but receptive approach to premodern religious, mythological, and supernatural claims—as a possible path from postmodern deconstruction toward re-enchantment.",
+      "source": "https://jcrt.org/archives/25.2/shane.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"D.A. Shane argues that postmodern deconstruction cleared the ground for a metamodern hermeneutic of credulity and the return of wonder.\""
+    },
+    {
+      "file": "content/archives/25.2/spencer.md",
+      "field": "bibliographic_abstract",
+      "value": "Through theories of performativity and as performance, this article explores Augustine’s troubled relationship with spectacles of suffering in Confessions. For Augustine, pleasure at pain proves the most apt example of all pleasure as an end in itself—all pleasure that does not end in God. And all who partake of this pleasure are guilty of a kind of voyeurism. But can Confessions be saved from Augustine’s own critique? Many scholars have suggested it can. Some claim that Augustine’s theatricality finds its telos in God. Others point to the performativity of prayer, suggesting that this performativity precludes voyeuristic engagement. The profound performativity of Confessions has not been overlooked. Yet by using concepts interior to the text (theater, prayer, imitation, suffering, curiosity, humility) as a framework for interpreting the text as a whole, this article exposes the (still) unresolved dilemma suspended at the heart of that performativity.",
+      "source": "https://jcrt.org/archives/25.2/spencer.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Paige Spencer reads Augustine's Confessions through performance theory, exposing the unresolved voyeurism at the heart of its performativity.\""
+    },
+    {
+      "file": "content/archives/25.2/valentini.md",
+      "field": "bibliographic_abstract",
+      "value": "This article examines the role of Ibn ʿArabī in the thought of the Senegalese Sufi master Ibrāhīm Niasse (1900–1975), primarily through Niasse’s Qurʾanic commentary Fī Riyāḍ al- Tafsīr, his metaphysical treatise Sirr al-Akbar, and an account of a mystical vision from 1932. Rather than approaching Niasse as a straightforward representative of the Akbarian doctrine later known as waḥdat al-wujūd, I argue that Ibn ʿArabī occupies several distinct positions within Niasse’s metaphysical dramaturgy. He provides Niasse with a vocabulary for thinking divine self-manifestation, Muḥammadan servitude, spiritual paternity, and the retrospective disclosure of meanings latent in the Adamic cycle. Yet Niasse simultaneously displaces the Akbarian emphasis on Being by foregrounding jūd, the generous act of the Real, which he situates beyond the opposition between Being and non-Being and identifies with the Aḥmadian reality from which the Muḥammadan form emanates.The resulting picture complicates genealogies that understand West African speculative Sufism primarily through the reception of waḥdat al-wujūd: Niasse inherits and transforms Akbarian metaphysics into a distinctively Tijāni account of emanation, paternity, and initiatory reintegration.",
+      "source": "https://jcrt.org/archives/25.2/valentini.pdf",
+      "pdf_page": 2,
+      "evidence": "Explicit PDF Abstract heading; extracted only through the end of that abstract block.",
+      "previous_source": "DataCite registry summary",
+      "previous_value": "bibliographic_abstract: \"Philipp Valentini examines Ibn ʿArabī's several roles in Ibrāhīm Niasse's metaphysics, from waḥdat al-wujūd to Muḥammadan paternity.\""
+    }
+  ],
+  "records": [
+    {
+      "file": "content/archives/01.1/crockett.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/01.1/crockett.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/kavka.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/01.1/kavka.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/lambert.md",
+      "field": "pages",
+      "value": "2-13",
+      "source": "https://jcrt.org/archives/01.1/lambert.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/lee.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/01.1/lee.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/raschke.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/01.1/raschke.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/reinhard_lupton.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/01.1/reinhard_lupton.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/vahanian.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/01.1/vahanian.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/winquist.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/01.1/winquist.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.1/young.md",
+      "field": "pages",
+      "value": "2-10",
+      "source": "https://jcrt.org/archives/01.1/young.pdf",
+      "pdf_pages": [
+        2,
+        10
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/adcock.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/01.2/adcock.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/canning.md",
+      "field": "pages",
+      "value": "2-19",
+      "source": "https://jcrt.org/archives/01.2/canning.pdf",
+      "pdf_pages": [
+        2,
+        19
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/long.md",
+      "field": "pages",
+      "value": "2-12",
+      "source": "https://jcrt.org/archives/01.2/long.pdf",
+      "pdf_pages": [
+        2,
+        12
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/lorentzen.md",
+      "field": "pages",
+      "value": "2-10",
+      "source": "https://jcrt.org/archives/01.2/lorentzen.pdf",
+      "pdf_pages": [
+        2,
+        10
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/nvahanian.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/01.2/nvahanian.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/ruf.md",
+      "field": "pages",
+      "value": "2-13",
+      "source": "https://jcrt.org/archives/01.2/ruf.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/smith.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/01.2/smith.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/taylor.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/01.2/taylor.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.2/wyschogrod_raschke.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/01.2/wyschogrod_raschke.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/caputo.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/01.3/caputo.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/carpenter.md",
+      "field": "pages",
+      "value": "2-17",
+      "source": "https://jcrt.org/archives/01.3/carpenter.pdf",
+      "pdf_pages": [
+        2,
+        17
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/crockett.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/01.3/crockett.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/dicenso.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/01.3/dicenso.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/game.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/01.3/game.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/kosky.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/01.3/kosky.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/metcalfe.md",
+      "field": "pages",
+      "value": "2-13",
+      "source": "https://jcrt.org/archives/01.3/metcalfe.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/richard.md",
+      "field": "pages",
+      "value": "2-19",
+      "source": "https://jcrt.org/archives/01.3/richard.pdf",
+      "pdf_pages": [
+        2,
+        19
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/strysick.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/01.3/strysick.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/01.3/weiss.md",
+      "field": "pages",
+      "value": "2-17",
+      "source": "https://jcrt.org/archives/01.3/weiss.pdf",
+      "pdf_pages": [
+        2,
+        17
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/halpern.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/02.1/halpern.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/lambert.md",
+      "field": "pages",
+      "value": "2-10",
+      "source": "https://jcrt.org/archives/02.1/lambert.pdf",
+      "pdf_pages": [
+        2,
+        10
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/lupton.md",
+      "field": "pages",
+      "value": "2-5",
+      "source": "https://jcrt.org/archives/02.1/lupton.pdf",
+      "pdf_pages": [
+        2,
+        5
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/ochs.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/02.1/ochs.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/raschke.md",
+      "field": "pages",
+      "value": "2-10",
+      "source": "https://jcrt.org/archives/02.1/raschke.pdf",
+      "pdf_pages": [
+        2,
+        10
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/sugimoto.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/02.1/sugimoto.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.1/taylor.md",
+      "field": "pages",
+      "value": "2-3",
+      "source": "https://jcrt.org/archives/02.1/taylor.pdf",
+      "pdf_pages": [
+        2,
+        3
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/altizer.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/02.2/altizer.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/arnold.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/02.2/arnold.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/elias.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/02.2/elias.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/majer.md",
+      "field": "pages",
+      "value": "2-16",
+      "source": "https://jcrt.org/archives/02.2/majer.pdf",
+      "pdf_pages": [
+        2,
+        16
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/robbins.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/02.2/robbins.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/tatusko.md",
+      "field": "pages",
+      "value": "2-19",
+      "source": "https://jcrt.org/archives/02.2/tatusko.pdf",
+      "pdf_pages": [
+        2,
+        19
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.2/taylor.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/02.2/taylor.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/cha.md",
+      "field": "pages",
+      "value": "2-13",
+      "source": "https://jcrt.org/archives/02.3/cha.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/crockett.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/02.3/crockett.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/hale.md",
+      "field": "pages",
+      "value": "2-5",
+      "source": "https://jcrt.org/archives/02.3/hale.pdf",
+      "pdf_pages": [
+        2,
+        5
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/katchen.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/02.3/katchen.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/lakeland.md",
+      "field": "pages",
+      "value": "2-3",
+      "source": "https://jcrt.org/archives/02.3/lakeland.pdf",
+      "pdf_pages": [
+        2,
+        3
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/magee.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/02.3/magee.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/mccullough.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/02.3/mccullough.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/ronan.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/02.3/ronan.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/takim.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/02.3/takim.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/02.3/weiss.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/02.3/weiss.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/anderson.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/03.1/anderson.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/dean.md",
+      "field": "pages",
+      "value": "2-3",
+      "source": "https://jcrt.org/archives/03.1/dean.pdf",
+      "pdf_pages": [
+        2,
+        3
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/gooch.md",
+      "field": "pages",
+      "value": "2-24",
+      "source": "https://jcrt.org/archives/03.1/gooch.pdf",
+      "pdf_pages": [
+        2,
+        24
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/keuss.md",
+      "field": "pages",
+      "value": "2-13",
+      "source": "https://jcrt.org/archives/03.1/keuss.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/maccammon.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/03.1/maccammon.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/raschke.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/03.1/raschke.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.1/stone.md",
+      "field": "pages",
+      "value": "2-14",
+      "source": "https://jcrt.org/archives/03.1/stone.pdf",
+      "pdf_pages": [
+        2,
+        14
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/grimshaw.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/03.2/grimshaw.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/hale.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/03.2/hale.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/hyman.md",
+      "field": "pages",
+      "value": "2-16",
+      "source": "https://jcrt.org/archives/03.2/hyman.pdf",
+      "pdf_pages": [
+        2,
+        16
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/katz.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/03.2/katz.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/lee.md",
+      "field": "pages",
+      "value": "2-17",
+      "source": "https://jcrt.org/archives/03.2/lee.pdf",
+      "pdf_pages": [
+        2,
+        17
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/metcalf.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/03.2/metcalf.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/parmenter.md",
+      "field": "pages",
+      "value": "2-5",
+      "source": "https://jcrt.org/archives/03.2/parmenter.pdf",
+      "pdf_pages": [
+        2,
+        5
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/taylor.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/03.2/taylor.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.2/winquist.md",
+      "field": "pages",
+      "value": "2-2",
+      "source": "https://jcrt.org/archives/03.2/winquist.pdf",
+      "pdf_pages": [
+        2,
+        2
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/crockett.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/03.3/crockett.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/druen.md",
+      "field": "pages",
+      "value": "2-3",
+      "source": "https://jcrt.org/archives/03.3/druen.pdf",
+      "pdf_pages": [
+        2,
+        3
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/flato.md",
+      "field": "pages",
+      "value": "2-3",
+      "source": "https://jcrt.org/archives/03.3/flato.pdf",
+      "pdf_pages": [
+        2,
+        3
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/iyer.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/03.3/iyer.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/putt.md",
+      "field": "pages",
+      "value": "2-14",
+      "source": "https://jcrt.org/archives/03.3/putt.pdf",
+      "pdf_pages": [
+        2,
+        14
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/rashkover.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/03.3/rashkover.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/reinhart.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/03.3/reinhart.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/scott.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/03.3/scott.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/taylor.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/03.3/taylor.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/weiss.md",
+      "field": "pages",
+      "value": "2-9",
+      "source": "https://jcrt.org/archives/03.3/weiss.pdf",
+      "pdf_pages": [
+        2,
+        9
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/03.3/zerbe.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/03.3/zerbe.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/bennett-carpenter.md",
+      "field": "pages",
+      "value": "2-15",
+      "source": "https://jcrt.org/archives/04.1/bennett-carpenter.pdf",
+      "pdf_pages": [
+        2,
+        15
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/blundell.md",
+      "field": "pages",
+      "value": "2-4",
+      "source": "https://jcrt.org/archives/04.1/blundell.pdf",
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/egginton.md",
+      "field": "pages",
+      "value": "2-14",
+      "source": "https://jcrt.org/archives/04.1/egginton.pdf",
+      "pdf_pages": [
+        2,
+        14
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/hamner.md",
+      "field": "pages",
+      "value": "2-8",
+      "source": "https://jcrt.org/archives/04.1/hamner.pdf",
+      "pdf_pages": [
+        2,
+        8
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/index2.md",
+      "field": "pages",
+      "value": "2-2",
+      "source": "https://jcrt.org/archives/04.1/index2.pdf",
+      "pdf_pages": [
+        2,
+        2
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/kosky.md",
+      "field": "pages",
+      "value": "2-18",
+      "source": "https://jcrt.org/archives/04.1/kosky.pdf",
+      "pdf_pages": [
+        2,
+        18
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/lokensgard.md",
+      "field": "pages",
+      "value": "2-11",
+      "source": "https://jcrt.org/archives/04.1/lokensgard.pdf",
+      "pdf_pages": [
+        2,
+        11
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/markmanolopoulos.md",
+      "field": "pages",
+      "value": "2-12",
+      "source": "https://jcrt.org/archives/04.1/markmanolopoulos.pdf",
+      "pdf_pages": [
+        2,
+        12
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/mcgrath.md",
+      "field": "pages",
+      "value": "2-7",
+      "source": "https://jcrt.org/archives/04.1/mcgrath.pdf",
+      "pdf_pages": [
+        2,
+        7
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.1/raschke.md",
+      "field": "pages",
+      "value": "2-12",
+      "source": "https://jcrt.org/archives/04.1/raschke.pdf",
+      "pdf_pages": [
+        2,
+        12
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/caputo.md",
+      "field": "pages",
+      "value": "2-6",
+      "source": "https://jcrt.org/archives/04.2/caputo.pdf",
+      "pdf_pages": [
+        2,
+        6
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/flaxman.md",
+      "field": "pages",
+      "value": "2-14",
+      "source": "https://jcrt.org/archives/04.2/flaxman.pdf",
+      "pdf_pages": [
+        2,
+        14
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/lambert-taylor.intro.md",
+      "field": "pages",
+      "value": "2-5",
+      "source": "https://jcrt.org/archives/04.2/lambert-taylor.intro.pdf",
+      "pdf_pages": [
+        2,
+        5
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/lambert.md",
+      "field": "pages",
+      "value": "2-14",
+      "source": "https://jcrt.org/archives/04.2/lambert.pdf",
+      "pdf_pages": [
+        2,
+        14
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/nichols.md",
+      "field": "pages",
+      "value": "2-10",
+      "source": "https://jcrt.org/archives/04.2/nichols.pdf",
+      "pdf_pages": [
+        2,
+        10
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/pecora.md",
+      "field": "pages",
+      "value": "2-16",
+      "source": "https://jcrt.org/archives/04.2/pecora.pdf",
+      "pdf_pages": [
+        2,
+        16
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/rabate-lambert.md",
+      "field": "pages",
+      "value": "2-13",
+      "source": "https://jcrt.org/archives/04.2/rabate-lambert.pdf",
+      "pdf_pages": [
+        2,
+        13
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/saper.md",
+      "field": "pages",
+      "value": "2-12",
+      "source": "https://jcrt.org/archives/04.2/saper.pdf",
+      "pdf_pages": [
+        2,
+        12
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/taylor.md",
+      "field": "pages",
+      "value": "2-14",
+      "source": "https://jcrt.org/archives/04.2/taylor.pdf",
+      "pdf_pages": [
+        2,
+        14
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    },
+    {
+      "file": "content/archives/04.2/williams.md",
+      "field": "pages",
+      "value": "2-12",
+      "source": "https://jcrt.org/archives/04.2/williams.pdf",
+      "pdf_pages": [
+        2,
+        12
+      ],
+      "evidence": "Printed page footer on first and final article PDF pages."
+    }
+  ]
+}

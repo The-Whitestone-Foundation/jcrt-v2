@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbbw
 article_number:
 volume: 2
 issue: 1
-pages:
+pages: 2-10
+html_fulltext: true
 title: "Redemption: Lacan Avec Marx"
 author: "Gregg Lambert"
 affiliation:

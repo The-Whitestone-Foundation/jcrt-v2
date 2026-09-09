@@ -6,6 +6,7 @@ article_number:
 volume: 3
 issue: 2
 pages:
+html_fulltext: true
 title: "Loosening Philosophy’s Tongue: a Conversation with Jack Caputo"
 author: "John D. Caputo; Carl A. Raschke"
 affiliation:

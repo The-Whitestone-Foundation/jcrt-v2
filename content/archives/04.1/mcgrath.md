@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5xu
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-7
+html_fulltext: true
 title: "Phänomenologie des religiösen Lebens"
 author: "Sean J McGrath"
 affiliation:

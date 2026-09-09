@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7cs
 article_number:
 volume: 3
 issue: 2
-pages:
+pages: 2-15
+html_fulltext: true
 title: "Left Traumatized: Zizek’s Lenin and Politics After 9/11"
 author: "Adam Katz"
 affiliation:

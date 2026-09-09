@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca7c
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-9
+html_fulltext: true
 title: "Heidegger, Religion, and the Transience of Digital Memory"
 author: "Neal Magee"
 affiliation:

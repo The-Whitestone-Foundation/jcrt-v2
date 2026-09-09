@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cc35
 article_number:
 volume: 1
 issue: 2
-pages:
+pages: 2-7
+html_fulltext: true
 title: "An Ethics of Remembering: History, Heterology, and the Nameless Others"
 author: "Steven G Smith"
 affiliation:

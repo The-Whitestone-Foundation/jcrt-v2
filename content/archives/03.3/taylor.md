@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6kt
 article_number:
 volume: 3
 issue: 3
-pages:
+pages: 2-6
 title: "The City of K: Franz Kafka and Prague"
 author: "Victor Taylor"
 affiliation:

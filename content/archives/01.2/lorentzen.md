@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccaf
 article_number:
 volume: 1
 issue: 2
-pages:
+pages: 2-10
+html_fulltext: true
 title: "Difference and Repetition"
 author: "Oz Lorentzen"
 affiliation:

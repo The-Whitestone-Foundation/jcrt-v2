@@ -5,7 +5,8 @@ atproto:
 article_number: 06
 volume: 1
 issue: 1
-pages:
+pages: 2-6
+html_fulltext: true
 title: "Jewish Studies and the Secular University: Religion Between Culture and Philosophy"
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affiliation:

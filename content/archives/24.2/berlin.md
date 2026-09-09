@@ -32,6 +32,15 @@ subjects:
     identifier: "fst00976984"
     uri: "https://id.worldcat.org/fast/976984"
     category: "topical"
+bibliographic_abstract: >-
+  College educators have a duty to confront the lived realities of white supremacy and settler colonialism as
+  they present themselves in the classroom, the historical record, and the academy at large. This response
+  paper engages with the ideas and experiences presented by the fellow panel authors, and it contemplates the
+  necessary steps needed to counteract the persistence of settler colonial and white supremacist ideologies in
+  post-secondary education from the perspective of a junior historian. By devoting ourselves to the
+  accessibility of educational materials, including diverse interpretations and accounts of the past in our
+  courses, and not shying away from the discomfort that confronting these systems will cause, educators in
+  college settings can work against white supremacy and settler colonialism.
 ---
 College educators have a duty to confront the lived realities of white supremacy and settler
 colonialism as they present themselves in the classroom, the historical record, and the academy

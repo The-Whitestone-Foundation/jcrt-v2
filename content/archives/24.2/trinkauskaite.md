@@ -31,5 +31,15 @@ subjects:
     identifier: "fst00517645"
     uri: "https://id.worldcat.org/fast/517645"
     category: "corporate"
+bibliographic_abstract: >-
+  In this chapter, I expand on the most vibrant traditional Baltic practices discussed in the Mapping the
+  Doctrine of Discovery podcast and in my earlier work on edible mushroom gathering, sacred dimensions of
+  wood, and the significance of beekeeping traditions (Trinkauskaitė 2008; 2019). Subjects include polyphonic
+  songs called sutartinės, and traditional homesteads and their attendant deities. Baltic and Prussian
+  domestic gods were believed to live with humans -- in cellars, granaries, and barns, lurking in corners or
+  behind a stove. Relationships with spirits and divinities often define home. Ethnomusicologists emphasize
+  the egalitarian nature of polyphonic singing. In their rhetorical and performative strategy, sutartinės are
+  similar to the Haudenosaunee Thanksgiving Address. Their modern resurgence signals the urgent need for more
+  collective consensus in a society that values individualism and hierarchical social structures.
 ---
 In this chapter, I expand on the most vibrant traditional Baltic practices discussed in the *Mapping the Doctrine of Discovery* podcast and in my earlier work on edible mushroom gathering, sacred dimensions of wood, and the significance of beekeeping traditions (Trinkauskaitė 2008; 2019). Subjects include polyphonic songs called sutartinės, and traditional homesteads and their attendant deities. Baltic and Prussian domestic gods were believed to live with humans&mdash;in cellars, granaries, and barns, lurking in corners or behind a stove. Relationships with spirits and divinities often define home. Ethnomusicologists emphasize the egalitarian nature of polyphonic singing. In their rhetorical and performative strategy, sutartinės are similar to the Haudenosaunee Thanksgiving Address. Their modern resurgence signals the urgent need for more collective consensus in a society that values individualism and hierarchical social structures.

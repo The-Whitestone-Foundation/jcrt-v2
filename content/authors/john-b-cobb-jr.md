@@ -8,4 +8,7 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "John B."
+family_name: "Cobb"
+name_suffix: "Jr."
 ---

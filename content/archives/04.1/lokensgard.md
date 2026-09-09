@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c63c
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-11
+html_fulltext: true
 title: "The Matter of Responsibility: Derrida and Gifting Across Cultures"
 author: "Ken Lokensgard"
 affiliation:

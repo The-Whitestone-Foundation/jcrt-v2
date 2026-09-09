@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb6g
 article_number:
 volume: 2
 issue: 1
-pages:
+pages: 2-6
+html_fulltext: true
 title: "Idolatry and Representation: the Philosophy of Franz Rosenzweig Reconsidered"
 author: "Peter Ochs"
 affiliation:

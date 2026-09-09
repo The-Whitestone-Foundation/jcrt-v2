@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6fn
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-15
+html_fulltext: true
 title: "Quoting Mieke Bal’s Navel: Contemporary Theory, Preposterous Religion"
 author: "Benjamin Bennett-Carpenter"
 affiliation:

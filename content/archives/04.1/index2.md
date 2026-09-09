@@ -5,9 +5,9 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c66q
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-2
 title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
-author:
+author: "JCRT Editors"
 affiliation:
 description:
 pdf: 'index2.pdf'

@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7can7
 article_number:
 volume: 2
 issue: 2
-pages:
+pages: 2-19
+html_fulltext: true
 title: "The Theological Challenge of Cyberspace and the Logic of Simulation"
 author: "Andrew Tatusko"
 affiliation:

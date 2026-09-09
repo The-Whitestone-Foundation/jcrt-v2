@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7casd
 article_number:
 volume: 2
 issue: 2
-pages:
+pages: 2-11
+html_fulltext: true
 title: "Ekphrastic Plastic Fragments: Mark C. Taylor in and Out of Context"
 author: "Camelia Elias"
 affiliation:

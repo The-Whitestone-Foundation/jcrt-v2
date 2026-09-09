@@ -5,7 +5,8 @@ atproto:
 article_number:
 volume: 1
 issue: 1
-pages:
+pages: 2-13
+html_fulltext: true
 title: "The Work of Art in the Age of Alien Reproduction"
 author: "Gregg Lambert; Jorge Sicre"
 affiliation: 

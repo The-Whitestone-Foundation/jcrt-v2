@@ -5,7 +5,8 @@ atproto:
 article_number: 02
 volume: 1
 issue: 1
-pages:
+pages: 2-8
+html_fulltext: true
 title: "The Ambiguous Gift of Desire"
 author: "Charles Winquist"
 affiliation: Syracuse University

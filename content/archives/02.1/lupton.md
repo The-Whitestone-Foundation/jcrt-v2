@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cba4
 article_number:
 volume: 2
 issue: 1
-pages:
+pages: 2-5
+html_fulltext: true
 title: "Religion and Psychoanalysis: Three Fundamental Concepts"
 author: "Julia Reinhard Lupton"
 affiliation:

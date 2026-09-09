@@ -57,6 +57,7 @@ subjects:
     identifier: 'fst01038463'
     uri: 'https://id.worldcat.org/fast/1038463'
     category: 'topical'
+bibliographic_abstract: "Aaron T. Lockhart traces Plato through Ockham and iconoclasm to recover a proper Christian understanding of venerating material objects."
 ---
 Upon entering the Church of the Holy Sepulchre, the pilgrim is met by the Stone of Anointing—a limestone slab set in place in 1810, seventeen centuries after the anointing it commemorates. What place does this stone occupy, and what place *should* it? This article argues that modern discomfort with material veneration originates not in the practice but in a philosophical inheritance that severed the material from the transcendent, and that a properly catechized understanding of the icon dissolves the charge of idolatry.
 

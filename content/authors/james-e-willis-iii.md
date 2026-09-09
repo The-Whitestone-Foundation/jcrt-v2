@@ -8,4 +8,7 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "James E."
+family_name: "Willis"
+name_suffix: "III"
 ---

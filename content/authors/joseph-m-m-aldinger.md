@@ -8,4 +8,6 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "Joseph M. M."
+family_name: "Aldinger"
 ---

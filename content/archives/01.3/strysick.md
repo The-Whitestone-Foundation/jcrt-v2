@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbh5
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-7
+html_fulltext: true
 title: "Culture Wars, Religion, and the Postmodern Sacred"
 author: "Michael Strysick"
 affiliation:

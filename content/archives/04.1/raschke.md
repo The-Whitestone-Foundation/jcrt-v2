@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5w3
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-12
+html_fulltext: true
 title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
 author: "Carl A. Raschke"
 affiliation:

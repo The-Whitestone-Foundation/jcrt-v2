@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6wt
 article_number:
 volume: 3
 issue: 3
-pages:
+pages: 2-3
+html_fulltext: true
 title: "Sacred Pain: Hurting the Body for the Sake of the Soul"
 author: "Perri Druen"
 affiliation:

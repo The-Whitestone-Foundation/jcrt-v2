@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6dx
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-4
+html_fulltext: true
 title: "The New Ricoeur Scholarship"
 author: "Boyd Blundell"
 affiliation:

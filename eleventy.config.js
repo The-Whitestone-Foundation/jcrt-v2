@@ -1,3 +1,4 @@
+import { bibliographyPage, loadBibliography, parsePageRange, jsonLd } from './_config/bibliography.js';
 import "./_config/polyfills.js";
 
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
@@ -782,11 +783,12 @@ export default async function (eleventyConfig) {
 			.replace(/>/g, "&gt;");
 	});
 	// Parse "123-456" page range into {start, end}
-	eleventyConfig.addFilter("parsePageRange", function (value) {
-		if (!value) return { start: "", end: "" };
-		const m = String(value).match(/^(\d+)\s*[-\u2013]\s*(\d+)$/);
-		return m ? { start: m[1], end: m[2] } : { start: "", end: "" };
-	});
+	eleventyConfig.addFilter("parsePageRange", parsePageRange);
+	eleventyConfig.addFilter("jsonLd", jsonLd);
+	let bibliographyIndex;
+	eleventyConfig.on("eleventy.before", () => { bibliographyIndex = null; });
+	eleventyConfig.addFilter("bibliographyPage", (page, collections, title) =>
+		bibliographyPage(bibliographyIndex ||= loadBibliography(), page, collections, title));
 	eleventyConfig.addFilter("preferWebp", function (value) {
 		if (!value) return value;
 		const src = String(value);

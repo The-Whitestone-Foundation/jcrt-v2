@@ -8,4 +8,6 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "Jonathan Scott"
+family_name: "Lee"
 ---

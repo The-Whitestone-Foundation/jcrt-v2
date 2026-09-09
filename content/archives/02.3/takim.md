@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7zp
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-4
+html_fulltext: true
 title: "Muslims: Their Religious Beliefs and Practices"
 author: "Liyakatali Takim"
 affiliation:

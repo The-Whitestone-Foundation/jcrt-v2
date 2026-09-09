@@ -8,4 +8,6 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "Christy"
+family_name: "Flanagan-Feddon"
 ---

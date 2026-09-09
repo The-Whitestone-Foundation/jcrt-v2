@@ -7,4 +7,6 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "Adam"
+family_name: "Loch"
 ---

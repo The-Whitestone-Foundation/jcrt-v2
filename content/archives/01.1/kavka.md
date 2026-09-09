@@ -5,7 +5,8 @@ atproto:
 article_number: 07
 volume: 1
 issue: 1
-pages:
+pages: 2-9
+html_fulltext: true
 title: "The Prayers and Tears of Jacques Derrida: Religion without Religion"
 author: "Martin Kavka"
 affiliation:

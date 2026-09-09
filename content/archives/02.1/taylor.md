@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caxk
 article_number:
 volume: 2
 issue: 1
-pages:
+pages: 2-3
+html_fulltext: true
 title: "Artist’s Statement"
 author: "Christopher M Taylor; Christopher M Taylor"
 affiliation:

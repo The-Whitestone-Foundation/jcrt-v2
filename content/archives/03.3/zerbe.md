@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6he
 article_number:
 volume: 3
 issue: 3
-pages:
+pages: 2-4
+html_fulltext: true
 title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
 author: "Michael J Zerbe"
 affiliation:

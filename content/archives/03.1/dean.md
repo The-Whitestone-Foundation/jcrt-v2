@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7ul
 article_number:
 volume: 3
 issue: 1
-pages:
+pages: 2-3
 title: "The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought"
 author: "William D Dean"
 affiliation:

@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cab5
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-3
+html_fulltext: true
 title: "Beyond Foundationalism: Shaping Theology in a Postmodern Context"
 author: "Paul Lakeland"
 affiliation:

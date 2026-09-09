@@ -1,0 +1,19 @@
+[
+  {
+    "file": "content/religioustheory/posts/9781350602502.md",
+    "status": "unresolved",
+    "reason": "David Roome has no author profile in content/authors, so this bounded pass did not create a profile or invent structured name metadata.",
+    "sources": [
+      "https://jcrt.org/religioustheory/posts/9781350602502/"
+    ]
+  },
+  {
+    "file": "content/religioustheory/posts/secularism-and-its-discontents-on-charting-pathways-with-a-phenomenology-of-religion-part-1-ludger-hagerdorn-and-michael-staudigl.md",
+    "status": "unresolved",
+    "reason": "The byline spells the established contributor as Ludger Hagerdorn, while the existing canonical author profile is Ludger Hagedorn. Its structured fields are already complete; correcting the byline slug requires a source or alias change outside this bounded profile-only task.",
+    "sources": [
+      "https://jcrt.org/religioustheory/posts/secularism-and-its-discontents-on-charting-pathways-with-a-phenomenology-of-religion-part-1-ludger-hagerdorn-and-michael-staudigl/",
+      "https://jcrt.org/authors/ludger-hagedorn/"
+    ]
+  }
+]

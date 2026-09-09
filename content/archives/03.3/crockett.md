@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6yj
 article_number:
 volume: 3
 issue: 3
-pages:
+pages: 2-8
+html_fulltext: true
 title: "Taking Shape: on the Current Constellation of (Religious) Thought"
 author: "Clayton Crockett"
 affiliation:

@@ -5,9 +5,10 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5zm
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-12
+html_fulltext: true
 title: "When Marion’s Theology Seeks Certainty"
-author:
+author: "JCRT Editors"
 affiliation:
 description:
 pdf: 'markmanolopoulos.pdf'

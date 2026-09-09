@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5lk
 article_number:
 volume: 4
 issue: 2
-pages:
+pages: 2-16
+html_fulltext: true
 title: "Religion and Modernity in Current Debate"
 author: "Vincent P Pecora"
 affiliation:

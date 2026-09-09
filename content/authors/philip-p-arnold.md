@@ -9,4 +9,6 @@ social:
   - title: "website"
     url: "https://artsandsciences.syracuse.edu/people/faculty/arnold-philip-p/"
     icon: fa-solid fa-link
+given_name: "Philip P."
+family_name: "Arnold"
 ---

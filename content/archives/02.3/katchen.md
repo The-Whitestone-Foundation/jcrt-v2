@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cacv
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-6
+html_fulltext: true
 title: "Bluebird: Deliberate Creation of Multiple Personality by Psychiatrists"
 author: "Martin H Katchen"
 affiliation:

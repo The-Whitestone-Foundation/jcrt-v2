@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6j3
 article_number:
 volume: 3
 issue: 3
-pages:
+pages: 2-9
+html_fulltext: true
 title: "In Our Image: Artificial Intelligence and the Human Spirit"
 author: "Dennis M Weiss"
 affiliation:

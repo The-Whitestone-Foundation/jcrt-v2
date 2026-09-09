@@ -26,5 +26,16 @@ subjects:
     identifier: 'fst01093763'
     uri: 'https://id.worldcat.org/fast/1093763'
     category: 'topical'
+bibliographic_abstract: >-
+  This preface critically interrogates the theological and ritual justifications of domination embedded within
+  eurochristian frameworks, as imposed through colonial encounters from 1492 onward. Centering the
+  epistemological clash between eurochristian and Indigenous worldviews, it contrasts a distant,
+  property-centered metaphysics with Haudenosaunee understandings of sacrality rooted in a reciprocal
+  relationship to the land. Drawing on citations from Indigenous leaders and scholars, the text addresses the
+  ongoing impacts of doctrines like the Doctrine of Discovery and legal decisions such as Johnson v. M’Intosh.
+  It highlights healing movements such as #Landback and #Lakeback as ceremonial acts of restoring right
+  relationship with land, sovereignty, and all living beings. Ultimately, the piece calls for a fundamental
+  value change—one grounded in Indigenous knowledge—to dismantle systems of domination and promote planetary
+  healing.
 ---
 This introduction sets the stage for an edited volume arising from the December 2023 conference, "*The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery*," held at Syracuse University. Anchored in the 200th anniversary of Johnson v. M'Intosh, the project critically interrogates the enduring influence of the Doctrine of Christian Discovery (DoCD) and its foundational role in shaping United States Indian Law, racism, land dispossession, and Christian imperialism. Through collaboration among scholars, activists, and Indigenous communities, the volume is organized around three core themes: religion, law, and pedagogy. Essays explore the DoCD's theological and legal architecture, its entrenchment of white supremacy, and strategies for dismantling legal and educational systems of domination. With contributions from leading Indigenous and allied thinkers, the collection highlights transnational impacts---from North America to Brazil and India---while foregrounding Indigenous epistemologies, sovereignty, and calls for justice. This volume advances the global movement to repudiate the DoCD and reimagines justice through frameworks grounded in relationality, accountability, and decolonization. The introduction honors the memory of Sally Roesch Wagner and situates the collection within a growing intellectual and activist tradition.

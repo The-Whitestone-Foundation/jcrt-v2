@@ -8,4 +8,6 @@ social:
   - title: "website"
     url: "https://peterderrico.substack.com/"
     icon: fa-solid fa-link
+given_name: "Peter"
+family_name: "d'Errico"
 ---

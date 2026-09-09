@@ -66,6 +66,17 @@ subjects:
     identifier: 'fst01169342'
     uri: 'https://id.worldcat.org/fast/1169342'
     category: 'topical'
+bibliographic_abstract: >-
+  Through theories of performativity and as performance, this article explores Augustine’s troubled
+  relationship with spectacles of suffering in Confessions. For Augustine, pleasure at pain proves the most
+  apt example of all pleasure as an end in itself—all pleasure that does not end in God. And all who partake
+  of this pleasure are guilty of a kind of voyeurism. But can Confessions be saved from Augustine’s own
+  critique? Many scholars have suggested it can. Some claim that Augustine’s theatricality finds its telos in
+  God. Others point to the performativity of prayer, suggesting that this performativity precludes voyeuristic
+  engagement. The profound performativity of Confessions has not been overlooked. Yet by using concepts
+  interior to the text (theater, prayer, imitation, suffering, curiosity, humility) as a framework for
+  interpreting the text as a whole, this article exposes the (still) unresolved dilemma suspended at the heart
+  of that performativity.
 ---
 Through theories of performativity and as performance, this article explores Augustine's troubled relationship with spectacles of suffering in *Confessions*. For Augustine, pleasure at pain proves the most apt example of all pleasure as an end in itself&mdash;all pleasure that does not end in God. And all who partake of this pleasure are guilty of a kind of voyeurism.
 

@@ -1,0 +1,623 @@
+{
+  "archive": {
+    "route": "/archives/15.1/raschke/",
+    "item": {
+      "itemType": "journalArticle",
+      "creators": [
+        {
+          "firstName": "Carl A.",
+          "lastName": "Raschke",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "attachments": [
+        {
+          "title": "Full Text PDF",
+          "url": "https://files.jcrt.org/archives/15.1/raschke.pdf",
+          "mimeType": "application/pdf"
+        }
+      ],
+      "title": "What Gives? Force, Gift, and the Ongoing",
+      "date": "2015",
+      "publicationTitle": "Journal for Cultural & Religious Theory",
+      "volume": "15",
+      "issue": "1",
+      "publisher": "Whitestone Publications",
+      "abstractNote": "The article discusses the efforts of German philosopher Edmund Husserl to find the roots of philosophy, which he located in the transcendental method, in his book",
+      "DOI": "10.17613/p80rm-6cc72",
+      "url": "https://jcrt.org/archives/15.1/raschke/",
+      "language": "en",
+      "pages": "23-38",
+      "ISSN": "1530-5228",
+      "itemID": ""
+    },
+    "raw": {
+      "citation_author": [
+        "Raschke, Carl A."
+      ],
+      "citation_doi": [
+        "10.17613/p80rm-6cc72"
+      ],
+      "citation_keywords": [
+        "philosophy; transcendentalism-philosophy; 1859-1938; edmund; husserl"
+      ],
+      "citation_pdf_url": [
+        "https://files.jcrt.org/archives/15.1/raschke.pdf"
+      ],
+      "citation_fulltext_html_url": [],
+      "citation_abstract_html_url": [
+        "https://jcrt.org/archives/15.1/raschke/"
+      ]
+    }
+  },
+  "multi": {
+    "route": "/archives/01.1/lambert/",
+    "item": {
+      "itemType": "journalArticle",
+      "creators": [
+        {
+          "firstName": "Gregg",
+          "lastName": "Lambert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jorge",
+          "lastName": "Sicre",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "attachments": [
+        {
+          "title": "Full Text PDF",
+          "url": "https://files.jcrt.org/archives/01.1/lambert.pdf",
+          "mimeType": "application/pdf"
+        }
+      ],
+      "title": "The Work of Art in the Age of Alien Reproduction",
+      "date": "1999",
+      "publicationTitle": "Journal for Cultural & Religious Theory",
+      "volume": "1",
+      "issue": "1",
+      "publisher": "Whitestone Publications",
+      "DOI": "10.17613/61cgt-9hh87",
+      "url": "https://jcrt.org/archives/01.1/lambert/",
+      "language": "en",
+      "pages": "2-13",
+      "ISSN": "1530-5228",
+      "itemID": ""
+    },
+    "raw": {
+      "citation_author": [
+        "Lambert, Gregg",
+        "Sicre, Jorge"
+      ],
+      "citation_doi": [
+        "10.17613/61cgt-9hh87"
+      ],
+      "citation_keywords": [
+        "aesthetics; immanuel-kant; extraterrestrials; gilles-deleuze; philosophy-of-art; sensibility; science-fiction; the-sublime; emmanuel-levinas; alterity; paul-klee; modern-art; perception"
+      ],
+      "citation_pdf_url": [
+        "https://files.jcrt.org/archives/01.1/lambert.pdf"
+      ],
+      "citation_fulltext_html_url": [
+        "https://jcrt.org/archives/01.1/lambert/"
+      ],
+      "citation_abstract_html_url": []
+    }
+  },
+  "theoryDoi": {
+    "route": "/religioustheory/posts/9780593493205/",
+    "item": {
+      "itemType": "blogPost",
+      "creators": [
+        {
+          "firstName": "Kev",
+          "lastName": "Grane",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "attachments": [
+        {
+          "title": "Full Text PDF",
+          "url": "https://files.jcrt.org/religioustheory/9780593493205.pdf",
+          "mimeType": "application/pdf"
+        }
+      ],
+      "title": "BOOK REVIEW: YASCHA MOUNK, THE IDENTITY TRAP: A STORY OF IDEAS AND POWER IN OUR TIME.",
+      "date": "2026-08-18",
+      "publisher": "Whitestone Publications",
+      "abstractNote": "This review examines The Identity Trap: A Story of Ideas and Power in Our Time by Yascha Mounk, which argues that a new \"identity synthesis\" has come to dominate key progressive institutions by treating race, gender, and sexual orientation as the primary lens through which social life, justice, and political conflict must be understood. Addressing contemporary debates over identity politics, social justice, and liberal democracy, the book seeks to reconstruct the intellectual genealogy of this outlook, trace its spread from the academy into wider culture, and argue that its rejection of universalism creates what Mounk calls an \"identity trap\": a politics that promises justice and recognition but often undermines its own egalitarian aims. I argue that the book's most important contribution lies in its sustained attention to the internal paradoxes of this identity-centered politics and in its demonstration that these paradoxes are not incidental flaws but central features of the framework itself.",
+      "DOI": "10.17613/wp4v1-zde78",
+      "url": "https://jcrt.org/religioustheory/posts/9780593493205/",
+      "language": "en",
+      "extra": "DOI: 10.17613/wp4v1-zde78",
+      "itemID": ""
+    },
+    "raw": {
+      "citation_author": [
+        "Grane, Kev"
+      ],
+      "citation_doi": [
+        "10.17613/wp4v1-zde78"
+      ],
+      "citation_keywords": [
+        "identity; liberalism; universalism; democracy; politics; Book-Review; Reviews; Critical Race Theory; Political Theory; Political Philosophy"
+      ],
+      "citation_pdf_url": [
+        "https://files.jcrt.org/religioustheory/9780593493205.pdf"
+      ],
+      "citation_fulltext_html_url": [
+        "https://jcrt.org/religioustheory/posts/9780593493205/"
+      ],
+      "citation_abstract_html_url": []
+    }
+  },
+  "theoryNoDoi": {
+    "route": "/religioustheory/posts/760/",
+    "item": {
+      "itemType": "blogPost",
+      "creators": [
+        {
+          "firstName": "Hollis",
+          "lastName": "Phelps",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "attachments": [
+        {
+          "document": {
+            "metas": [
+              {
+                "attrs": {
+                  "property": "dc:type",
+                  "content": "Text"
+                },
+                "content": "Text",
+                "textContent": "Text",
+                "nodeValue": "Text"
+              },
+              {
+                "attrs": {
+                  "property": "dc:identifier",
+                  "content": "https://jcrt.org/religioustheory/posts/760/"
+                },
+                "content": "https://jcrt.org/religioustheory/posts/760/",
+                "textContent": "https://jcrt.org/religioustheory/posts/760/",
+                "nodeValue": "https://jcrt.org/religioustheory/posts/760/"
+              },
+              {
+                "attrs": {
+                  "property": "dc:language",
+                  "content": "en"
+                },
+                "content": "en",
+                "textContent": "en",
+                "nodeValue": "en"
+              },
+              {
+                "attrs": {
+                  "property": "dc:publisher",
+                  "content": "Whitestone Publications"
+                },
+                "content": "Whitestone Publications",
+                "textContent": "Whitestone Publications",
+                "nodeValue": "Whitestone Publications"
+              },
+              {
+                "attrs": {
+                  "property": "dc:source",
+                  "content": "JCRT - Religious Theory Blog"
+                },
+                "content": "JCRT - Religious Theory Blog",
+                "textContent": "JCRT - Religious Theory Blog",
+                "nodeValue": "JCRT - Religious Theory Blog"
+              },
+              {
+                "attrs": {
+                  "property": "dc:date",
+                  "content": "2016-09-29"
+                },
+                "content": "2016-09-29",
+                "textContent": "2016-09-29",
+                "nodeValue": "2016-09-29"
+              },
+              {
+                "attrs": {
+                  "property": "dc:description",
+                  "content": "*Irigaray, Luce and Michael Marder, Through Vegetal Being: Two Philosophical Perspectives. New York, Columbia University Press, 2016 It highlights key"
+                },
+                "content": "*Irigaray, Luce and Michael Marder, Through Vegetal Being: Two Philosophical Perspectives. New York, Columbia University Press, 2016 It highlights key",
+                "textContent": "*Irigaray, Luce and Michael Marder, Through Vegetal Being: Two Philosophical Perspectives. New York, Columbia University Press, 2016 It highlights key",
+                "nodeValue": "*Irigaray, Luce and Michael Marder, Through Vegetal Being: Two Philosophical Perspectives. New York, Columbia University Press, 2016 It highlights key"
+              },
+              {
+                "attrs": {
+                  "property": "dc:subject",
+                  "content": "vegetal"
+                },
+                "content": "vegetal",
+                "textContent": "vegetal",
+                "nodeValue": "vegetal"
+              },
+              {
+                "attrs": {
+                  "property": "dc:subject",
+                  "content": "difference"
+                },
+                "content": "difference",
+                "textContent": "difference",
+                "nodeValue": "difference"
+              },
+              {
+                "attrs": {
+                  "property": "dc:subject",
+                  "content": "question"
+                },
+                "content": "question",
+                "textContent": "question",
+                "nodeValue": "question"
+              },
+              {
+                "attrs": {
+                  "property": "dc:subject",
+                  "content": "ontological"
+                },
+                "content": "ontological",
+                "textContent": "ontological",
+                "nodeValue": "ontological"
+              },
+              {
+                "attrs": {
+                  "property": "dc:subject",
+                  "content": "city"
+                },
+                "content": "city",
+                "textContent": "city",
+                "nodeValue": "city"
+              },
+              {
+                "attrs": {
+                  "property": "dc:subject",
+                  "content": "Reviews"
+                },
+                "content": "Reviews",
+                "textContent": "Reviews",
+                "nodeValue": "Reviews"
+              },
+              {
+                "attrs": {
+                  "property": "zotero:itemType",
+                  "content": "blogPost"
+                },
+                "content": "blogPost",
+                "textContent": "blogPost",
+                "nodeValue": "blogPost"
+              },
+              {
+                "attrs": {
+                  "property": "dc:creator",
+                  "content": "Hollis Phelps"
+                },
+                "content": "Hollis Phelps",
+                "textContent": "Hollis Phelps",
+                "nodeValue": "Hollis Phelps"
+              },
+              {
+                "attrs": {
+                  "name": "citation_author",
+                  "content": "Phelps, Hollis"
+                },
+                "content": "Phelps, Hollis",
+                "textContent": "Phelps, Hollis",
+                "nodeValue": "Phelps, Hollis"
+              },
+              {
+                "attrs": {
+                  "name": "citation_author_institution",
+                  "content": "Mercer University, Claremont Graduate University"
+                },
+                "content": "Mercer University, Claremont Graduate University",
+                "textContent": "Mercer University, Claremont Graduate University",
+                "nodeValue": "Mercer University, Claremont Graduate University"
+              },
+              {
+                "attrs": {
+                  "name": "citation_title",
+                  "content": "Review – Raising the Vegetal Question (Hollis Phelps)"
+                },
+                "content": "Review – Raising the Vegetal Question (Hollis Phelps)",
+                "textContent": "Review – Raising the Vegetal Question (Hollis Phelps)",
+                "nodeValue": "Review – Raising the Vegetal Question (Hollis Phelps)"
+              },
+              {
+                "attrs": {
+                  "name": "citation_publisher",
+                  "content": "Whitestone Publications"
+                },
+                "content": "Whitestone Publications",
+                "textContent": "Whitestone Publications",
+                "nodeValue": "Whitestone Publications"
+              },
+              {
+                "attrs": {
+                  "name": "citation_language",
+                  "content": "en"
+                },
+                "content": "en",
+                "textContent": "en",
+                "nodeValue": "en"
+              },
+              {
+                "attrs": {
+                  "name": "citation_public_url",
+                  "content": "https://jcrt.org/religioustheory/posts/760/"
+                },
+                "content": "https://jcrt.org/religioustheory/posts/760/",
+                "textContent": "https://jcrt.org/religioustheory/posts/760/",
+                "nodeValue": "https://jcrt.org/religioustheory/posts/760/"
+              },
+              {
+                "attrs": {
+                  "name": "citation_fulltext_html_url",
+                  "content": "https://jcrt.org/religioustheory/posts/760/"
+                },
+                "content": "https://jcrt.org/religioustheory/posts/760/",
+                "textContent": "https://jcrt.org/religioustheory/posts/760/",
+                "nodeValue": "https://jcrt.org/religioustheory/posts/760/"
+              },
+              {
+                "attrs": {
+                  "name": "citation_date",
+                  "content": "2016-09-29"
+                },
+                "content": "2016-09-29",
+                "textContent": "2016-09-29",
+                "nodeValue": "2016-09-29"
+              },
+              {
+                "attrs": {
+                  "name": "citation_publication_date",
+                  "content": "2016-09-29"
+                },
+                "content": "2016-09-29",
+                "textContent": "2016-09-29",
+                "nodeValue": "2016-09-29"
+              },
+              {
+                "attrs": {
+                  "name": "citation_keywords",
+                  "content": "vegetal; difference; question; ontological; city; Reviews"
+                },
+                "content": "vegetal; difference; question; ontological; city; Reviews",
+                "textContent": "vegetal; difference; question; ontological; city; Reviews",
+                "nodeValue": "vegetal; difference; question; ontological; city; Reviews"
+              },
+              {
+                "attrs": {
+                  "property": "dc:identifier",
+                  "content": "nanoid:bhDLVU"
+                },
+                "content": "nanoid:bhDLVU",
+                "textContent": "nanoid:bhDLVU",
+                "nodeValue": "nanoid:bhDLVU"
+              },
+              {
+                "attrs": {
+                  "name": "prism.publicationName",
+                  "content": "JCRT - Religious Theory Blog"
+                },
+                "content": "JCRT - Religious Theory Blog",
+                "textContent": "JCRT - Religious Theory Blog",
+                "nodeValue": "JCRT - Religious Theory Blog"
+              },
+              {
+                "attrs": {
+                  "name": "prism.genre",
+                  "content": "blogentry"
+                },
+                "content": "blogentry",
+                "textContent": "blogentry",
+                "nodeValue": "blogentry"
+              },
+              {
+                "attrs": {
+                  "name": "prism.publicationDate",
+                  "content": "2016-09-29"
+                },
+                "content": "2016-09-29",
+                "textContent": "2016-09-29",
+                "nodeValue": "2016-09-29"
+              }
+            ],
+            "title": "",
+            "location": "https://jcrt.org/religioustheory/posts/760/",
+            "documentElement": {},
+            "head": {}
+          },
+          "title": "Snapshot"
+        }
+      ],
+      "title": "Review – Raising the Vegetal Question (Hollis Phelps)",
+      "date": "2016-09-29",
+      "publisher": "Whitestone Publications",
+      "url": "https://jcrt.org/religioustheory/posts/760/",
+      "language": "en",
+      "itemID": ""
+    },
+    "raw": {
+      "citation_author": [
+        "Phelps, Hollis"
+      ],
+      "citation_doi": [],
+      "citation_keywords": [
+        "vegetal; difference; question; ontological; city; Reviews"
+      ],
+      "citation_pdf_url": [],
+      "citation_fulltext_html_url": [
+        "https://jcrt.org/religioustheory/posts/760/"
+      ],
+      "citation_abstract_html_url": []
+    }
+  },
+  "suffixes": [
+    {
+      "route": "/archives/14.2/mulder/",
+      "item": {
+        "itemType": "journalArticle",
+        "creators": [
+          {
+            "firstName": "Jack Jr",
+            "lastName": "Mulder",
+            "creatorType": "author"
+          }
+        ],
+        "tags": [],
+        "attachments": [
+          {
+            "title": "Full Text PDF",
+            "url": "https://files.jcrt.org/archives/14.2/mulder.pdf",
+            "mimeType": "application/pdf"
+          }
+        ],
+        "title": "Knowledge, Virtue, and Ontotheology: a Kierkegaardian (Self-)Critique.",
+        "date": "2015",
+        "publicationTitle": "Journal for Cultural & Religious Theory",
+        "volume": "14",
+        "issue": "2",
+        "publisher": "Whitestone Publications",
+        "abstractNote": "The article examines philosopher Soren Kierkegaarde's views on faith with regard to ontotheology, virtue, and knowledge. Several methods used by Kierkegaarde to discuss faith as an ethical state are explored to illustrate that they can be examined based on the virtue tradition. Also discussed are the continental tradition in philosophy, the philosophy of religion (PoR), and mashup PoR.",
+        "DOI": "10.17613/990z7-2tw09",
+        "url": "https://jcrt.org/archives/14.2/mulder/",
+        "language": "en",
+        "pages": "377-385",
+        "ISSN": "1530-5228",
+        "itemID": ""
+      },
+      "raw": {
+        "citation_author": [
+          "Mulder, Jack Jr."
+        ],
+        "citation_doi": [
+          "10.17613/990z7-2tw09"
+        ],
+        "citation_keywords": [
+          "theology; faith; philosophy-of-religion; 1813-1855; kierkegaard; s-ren; philosophers"
+        ],
+        "citation_pdf_url": [
+          "https://files.jcrt.org/archives/14.2/mulder.pdf"
+        ],
+        "citation_fulltext_html_url": [],
+        "citation_abstract_html_url": [
+          "https://jcrt.org/archives/14.2/mulder/"
+        ]
+      }
+    },
+    {
+      "route": "/archives/19.1/cobb/",
+      "item": {
+        "itemType": "journalArticle",
+        "creators": [
+          {
+            "firstName": "John B. Jr",
+            "lastName": "Cobb",
+            "creatorType": "author"
+          }
+        ],
+        "tags": [],
+        "attachments": [
+          {
+            "title": "Full Text PDF",
+            "url": "https://files.jcrt.org/archives/19.1/Cobb.pdf",
+            "mimeType": "application/pdf"
+          }
+        ],
+        "title": "Altizer, My Theological Contemporary.",
+        "date": "2020",
+        "publicationTitle": "Journal for Cultural & Religious Theory",
+        "volume": "19",
+        "issue": "1",
+        "publisher": "Whitestone Publications",
+        "DOI": "10.17613/2rcbk-z6656",
+        "url": "https://jcrt.org/archives/19.1/cobb/",
+        "language": "en",
+        "pages": "202-207",
+        "ISSN": "1530-5228",
+        "itemID": ""
+      },
+      "raw": {
+        "citation_author": [
+          "Cobb, John B. Jr."
+        ],
+        "citation_doi": [
+          "10.17613/2rcbk-z6656"
+        ],
+        "citation_keywords": [
+          "theologians; 1927-2018; altizer; thomas-j-j"
+        ],
+        "citation_pdf_url": [
+          "https://files.jcrt.org/archives/19.1/Cobb.pdf"
+        ],
+        "citation_fulltext_html_url": [],
+        "citation_abstract_html_url": [
+          "https://jcrt.org/archives/19.1/cobb/"
+        ]
+      }
+    },
+    {
+      "route": "/archives/20.1/willis/",
+      "item": {
+        "itemType": "journalArticle",
+        "creators": [
+          {
+            "firstName": "James E. III",
+            "lastName": "Willis",
+            "creatorType": "author"
+          }
+        ],
+        "tags": [],
+        "attachments": [
+          {
+            "title": "Full Text PDF",
+            "url": "https://files.jcrt.org/archives/20.1/Willis.pdf",
+            "mimeType": "application/pdf"
+          }
+        ],
+        "title": "“Naming the Darkness,” Spiritual Violence, and Radical Incompleteness: Resituating a Political Theology",
+        "date": "2024",
+        "publicationTitle": "Journal for Cultural & Religious Theory",
+        "volume": "20",
+        "issue": "1",
+        "publisher": "Whitestone Publications",
+        "DOI": "10.17613/rt4tg-3nm54",
+        "url": "https://jcrt.org/archives/20.1/willis/",
+        "language": "en",
+        "pages": "167-180",
+        "ISSN": "1530-5228",
+        "itemID": ""
+      },
+      "raw": {
+        "citation_author": [
+          "Willis, James E. III"
+        ],
+        "citation_doi": [
+          "10.17613/rt4tg-3nm54"
+        ],
+        "citation_keywords": [
+          "spirituality; political-theology; political-violence"
+        ],
+        "citation_pdf_url": [
+          "https://files.jcrt.org/archives/20.1/Willis.pdf"
+        ],
+        "citation_fulltext_html_url": [],
+        "citation_abstract_html_url": [
+          "https://jcrt.org/archives/20.1/willis/"
+        ]
+      }
+    }
+  ]
+}

@@ -9,4 +9,6 @@ social:
   - title: "website"
     url: "https://indigenousvalues.org/"
     icon: fa-solid fa-link
+given_name: "Sandra"
+family_name: "Bigtree"
 ---

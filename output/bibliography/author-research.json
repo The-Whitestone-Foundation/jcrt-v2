@@ -1,0 +1,28 @@
+[
+  {
+    "file": "content/archives/18.3/robertsandhayden.md",
+    "status": "resolved",
+    "fields": [
+      "doi"
+    ],
+    "reason": "User confirmed on 2026-09-09 that 10.17613/my21r-51v31 is the definitive DOI for both archive records. Both now use that DOI; article routes and nanoids are preserved.",
+    "sources": [
+      "https://api.datacite.org/dois/10.17613/vcb6w-v7z12",
+      "https://jcrt.org/archives/18.3/roberts_hayden/",
+      "https://files.jcrt.org/archives/18.3/robertsandhayden.pdf"
+    ]
+  },
+  {
+    "file": "content/religioustheory/posts/9781350602502.md",
+    "status": "unresolved",
+    "fields": [
+      "doi"
+    ],
+    "reason": "DataCite returns 404 for 10.17613/hcm64-85h06 and Crossref has no exact DOI record or title-author match. The post title and author identify a JCRT book review of Yuk Hui's Kant Machine; no authoritative replacement DOI was found, so the existing DOI is retained pending publisher confirmation.",
+    "sources": [
+      "https://api.datacite.org/dois/10.17613/hcm64-85h06",
+      "https://api.crossref.org/works/10.17613%2Fhcm64-85h06",
+      "https://api.crossref.org/works?query.bibliographic=Kant%20Machine%20Critical%20Philosophy%20after%20AI%20David%20Roome&rows=5"
+    ]
+  }
+]

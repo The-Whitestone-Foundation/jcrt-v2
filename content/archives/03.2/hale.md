@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7g4
 article_number:
 volume: 3
 issue: 2
-pages:
+pages: 2-4
+html_fulltext: true
 title: "Terror and the Sacred"
 author: "David Hale"
 affiliation:

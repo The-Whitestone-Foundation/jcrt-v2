@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbfg
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-17
+html_fulltext: true
 title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
 author: "Dennis M Weiss"
 affiliation:

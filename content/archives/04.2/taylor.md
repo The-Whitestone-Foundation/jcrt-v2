@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5gb
 article_number:
 volume: 4
 issue: 2
-pages:
+pages: 2-14
+html_fulltext: true
 title: "Refusing Theory: Avital Ronell and the Structure of Stupidity"
 author: "Victor Taylor"
 affiliation:

@@ -22,4 +22,6 @@ social:
   - title: "Substack"
     url: "https://stevennewcomb.substack.com/"
     icon: fa-solid fa-bookmark
+given_name: "Steven T."
+family_name: "Newcomb"
 ---

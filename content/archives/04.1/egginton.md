@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6c7
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-14
+html_fulltext: true
 title: "The Christianization of Deconstruction"
 author: "William Egginton"
 affiliation:

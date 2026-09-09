@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbiv
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-19
+html_fulltext: true
 title: "Aristotle and Religious Theory"
 author: "Alan J Richard"
 affiliation:

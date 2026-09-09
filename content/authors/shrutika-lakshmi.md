@@ -11,4 +11,6 @@ social:
   - title: "linkedin"
     url: "https://www.linkedin.com/in/shrutika-lakshmi-16506a83/"
     icon: fa-brands fa-linkedin
+given_name: "Shrutika"
+family_name: "Lakshmi"
 ---

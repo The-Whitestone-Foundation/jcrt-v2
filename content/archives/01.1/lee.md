@@ -5,7 +5,8 @@ atproto:
 article_number: 09
 volume: 1
 issue: 1
-pages:
+pages: 2-6
+html_fulltext: true
 title: "Deconstructing the Great Chain of Being"
 author: "Jonathan Scott Lee"
 affiliation:

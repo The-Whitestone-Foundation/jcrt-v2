@@ -10,6 +10,7 @@
     "dev:full": "cross-env ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --port=8080",
     "clear": "rm -rf _site .cache",
     "test": "node --test 'scripts/**/*.test.mjs' && node scripts/publish-social.mjs --test",
+    "bibliography:check": "node scripts/check-bibliography.mjs",
     "build": "npm run build:netlify",
     "build:netlify": "node scripts/build.mjs",
     "changelog": "node scripts/update-changelog.mjs",

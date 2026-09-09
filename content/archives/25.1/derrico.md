@@ -41,6 +41,22 @@ subjects:
     identifier: "fst00970219"
     uri: "https://id.worldcat.org/fast/970219"
     category: "topical"
+bibliographic_abstract: >-
+  The legal doctrine of “Christian Discovery” remains the foundation of United States federal anti-Indian law,
+  yet it is rarely challenged directly in litigation. This essay argues that confronting the doctrine poses
+  not merely a legal challenge but a metaphysical crisis for the United States itself. Through close analysis
+  of the nineteenth-century “Marshall Trilogy”— Johnson v. McIntosh, Cherokee Nation v. Georgia, and Worcester
+  v. Georgia—the essay demonstrates that federal Indian law is grounded in an explicit claim of Christian
+  European land appropriation and a corresponding denial of Indigenous sovereignty. The essay critiques common
+  misreadings of these cases that treat dicta about Native “occupancy,” “guardianship,” or “trust” as
+  affirmations of Indigenous rights. Instead, it shows how such language functions rhetorically to obscure the
+  doctrine’s central purpose: legitimizing U.S. ownership of Indigenous lands and plenary power over
+  Indigenous peoples. Situating Christian Discovery within a broader jurisprudential framework, the essay
+  argues that land appropriation is the primeval legal act from which U.S. property law, sovereignty, and
+  territorial authority derive. By comparing Brown v. Board of Education with Tee-Hit-Ton v. United States,
+  the essay highlights how the Court embraced racial equality while reaffirming colonial domination. It
+  concludes by urging litigators to directly challenge Christian Discovery, arguing that avoidance perpetuates
+  a system of domination sustained by legal formalism and reformist rhetoric.
 ---
 The legal doctrine of "Christian Discovery" remains the foundation of United States federal anti-Indian law, yet it is rarely challenged directly in litigation. This essay argues that confronting the doctrine poses not merely a legal challenge but a metaphysical crisis for the United States itself. Through close analysis of the nineteenth-century "Marshall Trilogy"&mdash;*Johnson v. McIntosh*, *Cherokee Nation v. Georgia*, and *Worcester v. Georgia*&mdash;the essay demonstrates that federal Indian law is grounded in an explicit claim of Christian European land appropriation and a corresponding denial of Indigenous sovereignty.
 

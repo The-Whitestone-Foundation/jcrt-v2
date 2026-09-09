@@ -58,6 +58,7 @@ subjects:
     identifier: 'fst01095857'
     uri: 'https://id.worldcat.org/fast/1095857'
     category: 'topical'
+bibliographic_abstract: "Bennett Gilbert asks how interdependence grounds moral obligation, testing panpsychism against the slow work of forming community with other forms of life."
 ---
 My tattoo of a figure symbolizing interdependence has framed my reflections on the concept for three decades. Biological and social interdependence is an omnipresent fact, but we need direction as to how to respond to it. This question leads to two major problems in moral philosophy: the source of moral obligation and the need to reconcile universal and local ethical commitments. I explore panpsychism as a partially satisfying answer to the first of these. The part it does not satisfy is to be sought by answering the second of these problems.
 

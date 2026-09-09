@@ -9,4 +9,6 @@ social:
   - title: "website"
     url: "https://ww1.oswego.edu/anthropology/profile/michael-chaness"
     icon: fa-solid fa-link
+given_name: "Michael E."
+family_name: "Chaness"
 ---

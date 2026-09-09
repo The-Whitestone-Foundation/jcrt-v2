@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbkn
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-13
+html_fulltext: true
 title: "Wonder, Creativity and Knowledge"
 author: "Andrew W Metcalfe"
 affiliation:

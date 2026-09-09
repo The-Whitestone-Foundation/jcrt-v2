@@ -1,6 +1,7 @@
+{% set bib = page | bibliographyPage(collections, title) %}
 {% set pageUrl = page.url | default("", true) %}
 {% set pageParts = pageUrl.split("/") %}
-{% set isArchivesArticlePage = (pageParts | length) == 5 and pageParts[1] == "archives" and pageParts[2] and pageParts[3] and pageParts[2] != "keywords" and pageParts[2] != "page" %}
+{% set isArchivesArticlePage = (pageParts | length) == 5 and pageParts[1] == "archives" and pageParts[2] and pageParts[3] and pageParts[2] != "keywords" and pageParts[2] != "page" and pageParts[3] not in ["bios", "author-bios", "table-of-contents", "abstracts"] %}
 {% set isTheoryArticlePage = (pageParts | length) == 5 and pageParts[1] == "religioustheory" and pageParts[2] in ["posts", "live"] and pageParts[3] and pageParts[3] != "page" %}
 {% set isAcademic = isArchivesArticlePage %}
 {% set isBlogHome = pageUrl in ["/blog/", "/religioustheory/", "/religioustheory/posts/"] %}
@@ -44,8 +45,12 @@
 
 <title>{{ fullTitle }}</title>
 {% headStatic %}
+{% if not bib %}
+<meta property="dc:publisher" content="Whitestone Publications" />
+{% if not isBlogPost %}<meta property="dc:language" content="{{ metadata.language }}" />{% endif %}
+{% endif %}
 <meta content="{{ fullTitle }}" property="og:title" />
-<meta content="{{ fullTitle }}" property="dc:title" />
+<meta content="{{ bib.title if bib else pageTitle }}" property="dc:title" />
 <meta content="{{ fullTitle }}" name="twitter:title" />
 <meta content="{{ fullTitle }}" name="title" />
 <meta content="{{ pageDesc }}" name="description" />
@@ -58,7 +63,7 @@
 <meta content="{{ pageImage }}" property="og:image" />
 <meta content="{{ fullTitle }}" property="og:image:alt" />
 <meta content="{{ canonicalUrl }}" property="og:url" />
-<meta property="dc:creator" content="{{ authorName }}" />
+{% if not bib and not (isArchivesArticlePage or isBlogPost) %}<meta property="dc:creator" content="{{ authorName }}" />{% endif %}
 {% for aName in (authorName | splitAuthors) %}
 <meta name="author" content="{{ aName }}" />
 {% endfor %}
@@ -66,8 +71,8 @@
 {% for aName in (authorName | splitAuthors) %}
 <meta property="article:author" content="{{ aName }}" />
 {% endfor %}
-<meta property="article:published_time" content="{{ publishedDate }}" />
-<meta property="article:modified_time" content="{{ modifiedDate }}" />
+{% if bib %}{% if bib.publicationDate %}<meta property="article:published_time" content="{{ bib.publicationDate }}" />{% endif %}{% else %}<meta property="article:published_time" content="{{ publishedDate }}" />{% endif %}
+{% if not bib %}<meta property="article:modified_time" content="{{ modifiedDate }}" />{% endif %}
 {% endif %}
 <meta property="og:type" content="{{ "article" if (isArchivesArticlePage or isBlogPost) else "website" }}" />
 <meta content="{{ robotsDirective }}" name="robots">
@@ -92,7 +97,7 @@
 <link rel="alternate" type="application/json" title="JCRT Standard.site Documents" href="{{ metadata.url }}/standard.site/documents.json" />
 <link rel="alternate" type="application/json" title="JCRT Standard.site Manifest" href="{{ metadata.url }}/standard.site/manifest.json" />
 {% endif %}
-{% if isAcademic and pdfUrl %}
+{% if (isAcademic or isTheoryArticlePage) and pdfUrl %}
 <link rel="alternate" type="application/pdf" title="{{ pageTitle }} (PDF)" href="{{ pdfUrl }}" />
 {% endif %}
 {% if isAcademic %}
@@ -110,13 +115,16 @@
 {% set schemaAuthors = authorName | splitAuthors %}
 {% set citationPublicationDate = publishedDate.split("T")[0] if publishedDate else "" %}
 
-{% if pageParts[1] == "archives" and not isArchivesArticlePage %}
+{% if pageParts[1] == "archives" and not isArchivesArticlePage and not bib %}
   {% for subject in (subjects or []) %}
   <meta property="dc:subject" content="{{ subject.label }}" data-subject-scheme="{{ subject.scheme }}" data-subject-identifier="{{ subject.identifier }}" data-subject-uri="{{ subject.uri }}" data-subject-category="{{ subject.category }}" />
   {% endfor %}
 {% endif %}
 
 {# ── Dublin Core article + Google Scholar citation tags (article detail pages only) ── #}
+{% if bib %}
+{% include "partials/bibliographic-meta.njk" %}
+{% else %}
 {% if isArchivesArticlePage %}
   <link rel="cite-as" href="{{ fairPageUrl }}" />
   <link rel="type" href="https://schema.org/ScholarlyArticle" />
@@ -178,7 +186,6 @@
   {% set blogPublicationName = 'JCRT - Religious Theory Blog' if isTheoryArticlePage else 'JCRT - News' %}
   <meta property="zotero:itemType" content="blogPost" />
   <meta property="dc:type" content="article" />
-  <meta property="dc:title" content="{{ pageTitle }}" />
   <meta property="dc:date" content="{{ citationPublicationDate or publishedDate }}" />
   <meta property="dc:language" content="{{ metadata.language }}" />
   <meta property="dc:identifier" content="{{ canonicalUrl }}" />
@@ -207,6 +214,7 @@
   {% endfor %}
 {% else %}
   <meta property="dc:type" content="text" />
+{% endif %}
 {% endif %}
 <script type="application/ld+json">
 {
@@ -271,6 +279,8 @@
         "query-input": "required name=search_term_string"
       }
     },
+    {% if bib %}{{ bib.schema | jsonLd | safe }},
+    {% else %}
     {
       "@type": {{ pageSchemaType | dump | safe }},
       "@id": {{ (canonicalUrl ~ "#webpage") | dump | safe }},
@@ -340,6 +350,7 @@
         "contentUrl": {{ pdfUrl | dump | safe }}
       }{% endif %}
     },
+    {% endif %}
     {
       "@type": "BreadcrumbList",
       "@id": {{ (canonicalUrl ~ "#breadcrumb") | dump | safe }},

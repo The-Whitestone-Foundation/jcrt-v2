@@ -5,7 +5,8 @@ atproto:
 article_number: 08
 volume: 1
 issue: 1
-pages:
+pages: 2-10
+html_fulltext: true
 title: "Politics of Friendship"
 author: "William W Young"
 affiliation:

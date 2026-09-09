@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7caen
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-5
+html_fulltext: true
 title: "The Critique of Theological Reason"
 author: "David Hale"
 affiliation:

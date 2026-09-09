@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7wd
 article_number:
 volume: 3
 issue: 1
-pages:
+pages: 2-4
+html_fulltext: true
 title: "Across the Boundaries of Belief: Contemporary Issues in the Anthropology of Religion"
 author: "Carol S Anderson"
 affiliation:

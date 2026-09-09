@@ -11,4 +11,6 @@ social:
   - title: "email"
     url: "mailto:kev.grane@du.edu"
     icon: fa-solid fa-envelope
+given_name: "Kev"
+family_name: "Grane"
 ---

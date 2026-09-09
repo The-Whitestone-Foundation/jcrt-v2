@@ -9,4 +9,6 @@ social:
   - title: "website"
     url: ""
     icon: fa-solid fa-link
+given_name: "Renée"
+family_name: "Barry"
 ---

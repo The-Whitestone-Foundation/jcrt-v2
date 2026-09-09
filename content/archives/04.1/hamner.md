@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ag
 article_number:
 volume: 4
 issue: 1
-pages:
+pages: 2-8
+html_fulltext: true
 title: "A Private Happiness for All, Or, How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
 author: "M. Gail Hamner"
 affiliation: Syracuse University

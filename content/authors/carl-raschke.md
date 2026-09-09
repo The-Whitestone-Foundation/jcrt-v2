@@ -11,4 +11,6 @@ social:
   - title: "email"
     url: "mailto:carl.raschke@jcrt.org"
     icon: fa-solid fa-envelope
+given_name: "Carl A."
+family_name: "Raschke"
 ---

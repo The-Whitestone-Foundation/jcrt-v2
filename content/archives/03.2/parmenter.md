@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c75p
 article_number:
 volume: 3
 issue: 2
-pages:
+pages: 2-5
+html_fulltext: true
 title: "The Book of the Heart"
 author: "Dorina Miller Parmenter"
 affiliation:

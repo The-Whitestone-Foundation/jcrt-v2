@@ -55,6 +55,19 @@ subjects:
     identifier: 'fst01002014'
     uri: 'https://id.worldcat.org/fast/1002014'
     category: 'topical'
+bibliographic_abstract: >-
+  Building on a recent article that identifies a “dancing ecofeminist logic” in Australian logician Val
+  Plumwood and pairs it with Australian sociologist Ariel Salleh’s “ethics of holding,” the present article
+  further elaborates this logical ethics into a transgender ethics of “holding green commons” in Indian
+  philosopher of science and ecological activist Vandana Shiva’s Staying Alive: Women, Ecology, and
+  Development (2016). I then bolster this ethics by partnering it with Spirit/Dance (a reconstruction of
+  global spiritual practices of the poor) to highlight these spiritual practitioners as “spirit-lanterned
+  guardians,” inspired by the heroic protestors of the Chipko land rights movement in India, who channeled
+  Hindu spirits and carried lanterns in the daylight, to symbolize their silvicultural wisdom defending the
+  forest. Finally, I identify five such guardians in the Global North today: three fictional “spirits” (Peter
+  Pan, Green Lantern, and Robin Hood) and two present-day ecofeminist activists, namely martyred “Cop City”
+  protestor and forest defender Tortuguita Terán and the interdisciplinary movement artist jill
+  sigman/thinkdance.
 ---
 Building on a recent article that identifies a "dancing ecofeminist logic" in Australian logician Val Plumwood and pairs it with Australian sociologist Ariel Salleh's "ethics of holding," the present article further elaborates this logical ethics into a transgender ethics of "holding green commons" in Indian philosopher of science and ecological activist Vandana Shiva's *Staying Alive: Women, Ecology, and Development* (2016).
 

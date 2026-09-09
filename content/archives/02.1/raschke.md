@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cb4o
 article_number:
 volume: 2
 issue: 1
-pages:
+pages: 2-10
+html_fulltext: true
 title: "Para/Theology: the Study of Religion and the Science of the Negative"
 author: "Carl A. Raschke"
 affiliation:

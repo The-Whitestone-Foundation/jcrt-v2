@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca3g
 article_number:
 volume: 2
 issue: 3
-pages:
+pages: 2-9
+html_fulltext: true
 title: "Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology After Vatican II"
 author: "Marian Ronan"
 affiliation:

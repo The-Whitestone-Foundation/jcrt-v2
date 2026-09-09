@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7nl
 article_number:
 volume: 3
 issue: 1
-pages:
+pages: 2-8
+html_fulltext: true
 title: "The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies"
 author: "Carl A. Raschke"
 affiliation:

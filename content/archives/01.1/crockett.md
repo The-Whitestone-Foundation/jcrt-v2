@@ -5,7 +5,8 @@ atproto:
 article_number:
 volume: 1
 issue: 1
-pages:
+pages: 2-11
+html_fulltext: true
 title: "Anxiety and the S(Ub)Lime Body of God"
 author: "Clayton Crockett"
 affiliation:

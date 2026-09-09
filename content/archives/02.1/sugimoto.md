@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cazb
 article_number:
 volume: 2
 issue: 1
-pages:
+pages: 2-9
+html_fulltext: true
 title: "The Scandal of the Evangelical Mind"
 author: "Michael Tadashi Sugimoto"
 affiliation:

@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5ue
 article_number:
 volume: 4
 issue: 2
-pages:
+pages: 2-6
+html_fulltext: true
 title: "After Jacques Derrida Comes the Future"
 author: "John D. Caputo"
 affiliation:

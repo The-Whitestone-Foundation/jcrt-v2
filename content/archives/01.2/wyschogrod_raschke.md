@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbx2
 article_number:
 volume: 1
 issue: 2
-pages:
+pages: 2-9
+html_fulltext: true
 title: "Heterological History: a Conversation"
 author: "Edith Wyschogrod; Carl A. Raschke"
 affiliation:

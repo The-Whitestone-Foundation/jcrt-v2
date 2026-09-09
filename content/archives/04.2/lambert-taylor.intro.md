@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5qp
 article_number:
 volume: 4
 issue: 2
-pages:
+pages: 2-5
+html_fulltext: true
 title: "The Future of Theory"
 author: "Victor Taylor; Gregg Lambert"
 affiliation:

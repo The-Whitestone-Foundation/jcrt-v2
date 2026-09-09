@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cajq
 article_number:
 volume: 2
 issue: 2
-pages:
+pages: 2-7
+html_fulltext: true
 title: "The Metaphysics of Indeterminacy: Postmodern Religious Theory and the Ruin of Referentiality"
 author: "Victor Taylor"
 affiliation:

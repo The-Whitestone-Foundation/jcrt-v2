@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbvb
 article_number:
 volume: 1
 issue: 3
-pages:
+pages: 2-15
+html_fulltext: true
 title: "For Love of the Things Themselves: Derrida’s Hyper-Realism"
 author: "John D. Caputo"
 affiliation:

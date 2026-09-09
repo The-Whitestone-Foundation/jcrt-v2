@@ -60,6 +60,26 @@ subjects:
     identifier: "fst01103191"
     uri: "https://id.worldcat.org/fast/1103191"
     category: "topical"
+bibliographic_abstract: >-
+  In its bicentennial year, the Erie Canal is widely celebrated as a triumph of American ingenuity, economic
+  growth, and national identity. This essay interrogates how that identity is constructed, what it obscures,
+  and what possibilities for repair might emerge through deconstruction. Drawing on my work as the 2021–2023
+  Erie Canal Research Fellow, I analyze heritage tourism sites, archival materials, historical narratives, and
+  contemporary state and museum publications to examine how the Canal is represented in public memory. Writing
+  as a European American settler living on unceded Onondaga land, I argue that dominant interpretations of the
+  Erie Canal reproduce ideological structures rooted in settler colonialism, Christian dominance, patriarchy,
+  and white supremacy. Through close readings of interpretive language and commemorative rituals—especially
+  the Canal’s 1825 opening ceremony, the “Wedding of the Waters”—I show how metaphors of birth, marriage,
+  civilization, and progress legitimize environmental harm and erase Indigenous sovereignty. The figure of
+  DeWitt Clinton as the Canal’s “father,” for example, obscures the genocidal violence against the
+  Haudenosaunee that preceded and enabled the Canal’s construction. The essay situates the Erie Canal within a
+  longer genealogy of Christian European thought, tracing its ideological roots to the Doctrines of Discovery
+  and their incorporation into U.S. law. It further examines how religious imaginaries of perfection and
+  utopia shaped social movements along the Canal corridor, including the Oneida Community, revealing how
+  reformist projects often reproduced older hierarchies of power. By integrating historical analysis with
+  personal narrative, this essay emphasizes the ethical necessity of confronting complicity in systems of
+  harm. It argues that contemporary efforts to “reimagine” the Erie Canal risk repeating historical patterns
+  unless Indigenous leadership, ecological kinship, and erased histories are centered.
 ---
 In its bicentennial year, the Erie Canal is widely celebrated as a triumph of American
 ingenuity, economic growth, and national identity. This essay interrogates how that identity is

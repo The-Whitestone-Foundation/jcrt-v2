@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cavu
 article_number:
 volume: 2
 issue: 2
-pages:
+pages: 2-9
+html_fulltext: true
 title: "Absolute Nothingness and Taylor’s Imagology"
 author: "Thomas J J Altizer"
 affiliation:

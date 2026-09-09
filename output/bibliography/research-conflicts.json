@@ -1,0 +1,452 @@
+[
+  {
+    "file": "content/archives/18.3/robertsandhayden.md",
+    "reason": "DOI title differs; no automatic backfill",
+    "source": "https://api.datacite.org/dois/10.17613/vcb6w-v7z12",
+    "title": [
+      {
+        "title": "robertsandhayden"
+      }
+    ],
+    "status": "resolved",
+    "resolution": "User confirmed definitive DOI 10.17613/my21r-51v31 for both archive records on 2026-09-09."
+  },
+  {
+    "file": "content/authors/noelle-vahanian.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Noëlle",
+        "family_name": "Vahanian",
+        "source": "https://api.datacite.org/dois/10.17613/5y3nb-jbz58"
+      },
+      {
+        "given_name": "Nöelle",
+        "family_name": "Vahanian",
+        "source": "https://api.datacite.org/dois/10.17613/cdj7t-0aw34"
+      },
+      {
+        "given_name": "Nöelle",
+        "family_name": "Vahanian",
+        "source": "https://api.datacite.org/dois/10.17613/z626w-q0d21"
+      },
+      {
+        "given_name": "Nöelle",
+        "family_name": "Vahanian",
+        "source": "https://api.datacite.org/dois/10.17613/rex6v-bt824"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/victor-taylor.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/4p1vn-46h50"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/k526x-4vh58"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/kyhg6-nx437"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/wxjh7-cj770"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/55tn2-w6y78"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/c918x-t4509"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/fb0mj-wa149"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/h20af-v3b82"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/wjy7j-n6x81"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/jpq6f-a1839"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/n8038-k8d81"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/qr8e8-t6323"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/3h2m3-nz583"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/cx1yt-kc859"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/rvfnd-k7r47"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/s0skx-jcx82"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/0snbq-gq104"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/fkzrd-7n092"
+      },
+      {
+        "given_name": "VICTOR",
+        "family_name": "TAYLOR",
+        "source": "https://api.datacite.org/dois/10.17613/dtrpd-s4x90"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/gzyzw-snf49"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/44388-tcv30"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/0pwz9-bcy36"
+      },
+      {
+        "given_name": "Victor",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/h96x6-jvn49"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/dennis-m-weiss.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Dennis M",
+        "family_name": "Weiss",
+        "source": "https://api.datacite.org/dois/10.17613/ebs32-fnk22"
+      },
+      {
+        "given_name": "Dennis M",
+        "family_name": "Weiss",
+        "source": "https://api.datacite.org/dois/10.17613/2mr7b-zp683"
+      },
+      {
+        "given_name": "Dennis M",
+        "family_name": "Weiss",
+        "source": "https://api.datacite.org/dois/10.17613/bbjma-e9v36"
+      },
+      {
+        "given_name": "Dennis M.",
+        "family_name": "Weiss",
+        "source": "https://api.datacite.org/dois/10.17613/s0skx-jcx82"
+      },
+      {
+        "given_name": "DENNIS M.",
+        "family_name": "WEISS",
+        "source": "https://api.datacite.org/dois/10.17613/0snbq-gq104"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/philip-p-arnold.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Philip P",
+        "family_name": "Arnold",
+        "source": "https://api.datacite.org/dois/10.17613/tmk3s-fhb74"
+      },
+      {
+        "given_name": "Philip P.",
+        "family_name": "Arnold",
+        "source": "https://api.datacite.org/dois/10.17613/1h78s-25q84"
+      },
+      {
+        "given_name": "Philip P",
+        "family_name": "Arnold",
+        "source": "https://api.datacite.org/dois/10.17613/h96x6-jvn49"
+      },
+      {
+        "given_name": "Philip P.",
+        "family_name": "Arnold",
+        "source": "https://api.datacite.org/dois/10.17613/ek4a1-tqd72"
+      },
+      {
+        "given_name": "Philip P.",
+        "family_name": "Arnold",
+        "source": "https://api.datacite.org/dois/10.17613/83whf-0dq02"
+      },
+      {
+        "given_name": "Philip P.",
+        "family_name": "Arnold",
+        "source": "https://api.datacite.org/dois/10.17613/zq30a-97m25"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/jeffrey-w-robbins.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/crwc9-0nw45"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/61qwk-nfd50"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/fdzt3-1yz28"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/8j43q-dwm79"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/vh0y6-a0x02"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/wrk9h-3vf79"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/x8qpe-s4f65"
+      },
+      {
+        "given_name": "Jeffrey W",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/8ad5h-s6y24"
+      },
+      {
+        "given_name": "Jeffrey W.",
+        "family_name": "Robbins",
+        "source": "https://api.datacite.org/dois/10.17613/t7p78-m9574"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/mark-c-taylor.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Mark C",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/af1gw-f1p06"
+      },
+      {
+        "given_name": "Mark C.",
+        "family_name": "Taylor",
+        "source": "https://api.datacite.org/dois/10.17613/wwk44-rgr93"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/colbey-emmerson-reid.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Colbey",
+        "family_name": "Emmerson-Reid",
+        "source": "https://api.datacite.org/dois/10.17613/wwxm9-z5226"
+      },
+      {
+        "given_name": "Colbey",
+        "family_name": "Emmerson-Reid",
+        "source": "https://api.datacite.org/dois/10.17613/m2ebn-x6n26"
+      },
+      {
+        "given_name": "Colbey Emmerson",
+        "family_name": "Reid",
+        "source": "https://api.datacite.org/dois/10.17613/npcnj-r6926"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/j-aaron-simmons.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "J Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/e3n56-n3425"
+      },
+      {
+        "given_name": "J Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/qb3yh-cc075"
+      },
+      {
+        "given_name": "J Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/jcz4d-8x120"
+      },
+      {
+        "given_name": "J Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/80n96-yxe45"
+      },
+      {
+        "given_name": "J Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/h0gfe-wq608"
+      },
+      {
+        "given_name": "J. Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/srahn-jwt58"
+      },
+      {
+        "given_name": "J. Aaron",
+        "family_name": "Simmons",
+        "source": "https://api.datacite.org/dois/10.17613/vkr5w-pj329"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/t-wilson-dickinson.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "T. Wilson",
+        "family_name": "Dickinson",
+        "source": "https://api.datacite.org/dois/10.17613/cc3gg-chw23"
+      },
+      {
+        "given_name": "T. Wilson",
+        "family_name": "Dickinson",
+        "source": "https://api.datacite.org/dois/10.17613/zx6z9-mmc02"
+      },
+      {
+        "given_name": "T Wilson",
+        "family_name": "Dickinson",
+        "source": "https://api.datacite.org/dois/10.17613/8zmxn-e1t45"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/karmen-mackendrick.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Karmen",
+        "family_name": "Mackendrick",
+        "source": "https://api.datacite.org/dois/10.17613/kk5n0-2w625"
+      },
+      {
+        "given_name": "Karmen",
+        "family_name": "MacKendrick",
+        "source": "https://api.datacite.org/dois/10.17613/x3712-dy463"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/sergio-c-figueiredo.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Sergio C.",
+        "family_name": "Figueiredo",
+        "source": "https://api.datacite.org/dois/10.17613/mhvcc-z0855"
+      },
+      {
+        "given_name": "Sergio C.",
+        "family_name": "Figueiredo",
+        "source": "https://api.datacite.org/dois/10.17613/ga1j8-ms124"
+      },
+      {
+        "given_name": "Sergio",
+        "family_name": "C.figueiredo",
+        "source": "https://api.datacite.org/dois/10.17613/f9j4h-nag29"
+      },
+      {
+        "given_name": "Sergio C.",
+        "family_name": "Figueiredo",
+        "source": "https://api.datacite.org/dois/10.17613/t9w2x-5mj46"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/roger-k-green.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Roger K.",
+        "family_name": "Green",
+        "source": "https://api.datacite.org/dois/10.17613/ydp88-1c944"
+      },
+      {
+        "given_name": "Roger K",
+        "family_name": "Green",
+        "source": "https://api.datacite.org/dois/10.17613/2v823-zac86"
+      }
+    ]
+  },
+  {
+    "file": "content/authors/joshua-m-hall.md",
+    "reason": "Conflicting structured names in DOI records",
+    "candidates": [
+      {
+        "given_name": "Joshua M",
+        "family_name": "Hall",
+        "source": "https://api.datacite.org/dois/10.17613/7wx08-kyz66"
+      },
+      {
+        "given_name": "Joshua M.",
+        "family_name": "Hall",
+        "source": "https://api.datacite.org/dois/10.17613/5cp6b-0an28"
+      }
+    ]
+  }
+]

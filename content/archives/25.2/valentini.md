@@ -51,6 +51,19 @@ subjects:
     identifier: 'fst01150865'
     uri: 'https://id.worldcat.org/fast/1150865'
     category: 'topical'
+bibliographic_abstract: >-
+  This article examines the role of Ibn ʿArabī in the thought of the Senegalese Sufi master Ibrāhīm Niasse
+  (1900–1975), primarily through Niasse’s Qurʾanic commentary Fī Riyāḍ al- Tafsīr, his metaphysical treatise
+  Sirr al-Akbar, and an account of a mystical vision from 1932. Rather than approaching Niasse as a
+  straightforward representative of the Akbarian doctrine later known as waḥdat al-wujūd, I argue that Ibn
+  ʿArabī occupies several distinct positions within Niasse’s metaphysical dramaturgy. He provides Niasse with
+  a vocabulary for thinking divine self-manifestation, Muḥammadan servitude, spiritual paternity, and the
+  retrospective disclosure of meanings latent in the Adamic cycle. Yet Niasse simultaneously displaces the
+  Akbarian emphasis on Being by foregrounding jūd, the generous act of the Real, which he situates beyond the
+  opposition between Being and non-Being and identifies with the Aḥmadian reality from which the Muḥammadan
+  form emanates.The resulting picture complicates genealogies that understand West African speculative Sufism
+  primarily through the reception of waḥdat al-wujūd: Niasse inherits and transforms Akbarian metaphysics into
+  a distinctively Tijāni account of emanation, paternity, and initiatory reintegration.
 ---
 This article examines the role of Ibn ʿArabī in the thought of the Senegalese Sufi master Ibrāhīm Niasse (1900&ndash;1975), primarily through Niasse's Qurʾanic commentary *Fī Riyāḍ al-Tafsīr*, his metaphysical treatise *Sirr al-Akbar*, and an account of a mystical vision from 1932. Rather than approaching Niasse as a straightforward representative of the Akbarian doctrine later known as *waḥdat al-wujūd*, I argue that Ibn ʿArabī occupies several distinct positions within Niasse's metaphysical dramaturgy. He provides Niasse with a vocabulary for thinking divine self-manifestation, Muḥammadan servitude, spiritual paternity, and the retrospective disclosure of meanings latent in the Adamic cycle.
 

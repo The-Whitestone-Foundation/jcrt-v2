@@ -8,4 +8,6 @@ social:
   - title: "email"
     url: "mailto:jc.smith@du.edu"
     icon: fa-solid fa-envelope
+given_name: "J.C."
+family_name: "Smith"
 ---

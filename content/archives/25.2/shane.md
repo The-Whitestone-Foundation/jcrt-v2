@@ -76,6 +76,19 @@ subjects:
     identifier: 'fst01093763'
     uri: 'https://id.worldcat.org/fast/1093763'
     category: 'topical'
+bibliographic_abstract: >-
+  This essay examines the relationship between postmodernism, metamodernism, and the contemporary re-emergence
+  of openness to spiritual and enchanted understandings of reality. It argues that postmodernism, rather than
+  merely producing relativism and nihilism, performed a necessary deconstructive work by exposing the
+  unacknowledged metaphysical assumptions underlying the Enlightenment project of “instrumental reason.”
+  Drawing particularly on Foucault, Derrida, Lyotard, and Rorty, the essay traces how this critique
+  destabilized the autonomous, supposedly objective modern subject. It then considers metamodernism as an
+  emerging reconstruction: an epistemological posture that accepts contingency, embeddedness, and the limits
+  of human knowledge while nevertheless permitting provisional commitments to truth and meaning. This
+  reconstructed subject, capable of holding multiple levels of reality in creative tension, reopens
+  intellectual space for transcendence and the supernatural. The essay ultimately proposes a metamodern
+  “hermeneutic of credulity”—a critical but receptive approach to premodern religious, mythological, and
+  supernatural claims—as a possible path from postmodern deconstruction toward re-enchantment.
 ---
 This essay examines the relationship between postmodernism, metamodernism, and the contemporary re-emergence of openness to spiritual and enchanted understandings of reality. It argues that postmodernism, rather than merely producing relativism and nihilism, performed a necessary deconstructive work by exposing the unacknowledged metaphysical assumptions underlying the Enlightenment project of "instrumental reason." Drawing particularly on Foucault, Derrida, Lyotard, and Rorty, the essay traces how this critique destabilized the autonomous, supposedly objective modern subject.
 

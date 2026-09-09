@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7pd
 article_number:
 volume: 3
 issue: 1
-pages:
+pages: 2-6
+html_fulltext: true
 title: "The Just"
 author: "Linda M MacCammon"
 affiliation:

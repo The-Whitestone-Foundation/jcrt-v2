@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6ti
 article_number: 02
 volume: 3
 issue: 3
-pages:
+pages: 2-7
 title: "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot"
 author: "Lars Iyer"
 affiliation:

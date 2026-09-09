@@ -5,9 +5,9 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c726
 article_number:
 volume: 3
 issue: 2
-pages:
+pages: 2-2
 title: "In Memoriam: Dr. Charles E. Winquist - JCRT 3.2"
-author:
+author: "JCRT Editors"
 affiliation:
 description:
 pdf: 'winquist.pdf'

@@ -5,7 +5,8 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccdv
 article_number:
 volume: 1
 issue: 2
-pages:
+pages: 2-19
+html_fulltext: true
 title: "Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi Nistory"
 author: "Peter Canning"
 affiliation:

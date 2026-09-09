@@ -40,5 +40,20 @@ subjects:
     identifier: "fst01205427"
     uri: "https://id.worldcat.org/fast/1205427"
     category: "geographic"
+bibliographic_abstract: >-
+  English identity’s origin myth, Bede’s eighth-century Ecclesiastical History of the English People, laid the
+  foundation for European whiteness, which was adopted by western European Christians more broadly in the
+  thirteenth century, as they sought assurance of God’s preference for them over the darker-skinned Muslims
+  who had defeated them in the crusades. Concurrent with their construction of whiteness, the English
+  developed an imperialist Christian identity defined by the whims of power, not actual Christian belief or
+  behavior, as most fully attested in the twelfth-century English invasion and subsequent colonization of
+  Ireland. These developments gave rise in the fifteenth century to the papal letters commonly called the
+  Doctrine of Discovery, which fueled European settler colonialism around the world. Once the English began
+  colonizing lands beyond Europe, they also started to characterize the Irish—who largely share the same skin
+  color as the English—as physically black. Understanding the origins of white supremacy and its fellow
+  traveler, Christian supremacy, along with their false foundations and their history of dehumanizing an
+  ever-rotating cast of targets to justify colonization, oppression, and enslavement, can better equip us to
+  more effectively combat their contemporary manifestations and avoid their perpetuation, which threatens the
+  entire planet.
 ---
 English identity's origin myth, Bede's eighth-century *Ecclesiastical History of the English People*, laid the foundation for European whiteness, which was adopted by western European Christians more broadly in the thirteenth century, as they sought assurance of God's preference for them over the darker-skinned Muslims who had defeated them in the crusades. Concurrent with their construction of whiteness, the English developed an imperialist Christian identity defined by the whims of power, not actual Christian belief or behavior, as most fully attested in the twelfth-century English invasion and subsequent colonization of Ireland. These developments gave rise in the fifteenth century to the papal letters commonly called the Doctrine of Discovery, which fueled European settler colonialism around the world. Once the English began colonizing lands beyond Europe, they also started to characterize the Irish&mdash;who largely share the same skin color as the English&mdash;as physically black. Understanding the origins of white supremacy and its fellow traveler, Christian supremacy, along with their false foundations and their history of dehumanizing an ever-rotating cast of targets to justify colonization, oppression, and enslavement, can better equip us to more effectively combat their contemporary manifestations and avoid their perpetuation, which threatens the entire planet.

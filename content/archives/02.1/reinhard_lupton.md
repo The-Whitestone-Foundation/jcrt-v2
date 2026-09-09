@@ -6,6 +6,7 @@ article_number:
 volume: 2
 issue: 1
 pages:
+html_fulltext: true
 title: "Revelation: Lacan and the Ten Commandments"
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affiliation:

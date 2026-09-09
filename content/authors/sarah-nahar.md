@@ -9,4 +9,6 @@ social:
   - title: "website"
     url: "https://www.sarahnahar.com/"
     icon: fa-solid fa-link
+given_name: "Sarah"
+family_name: "Nahar"
 ---
