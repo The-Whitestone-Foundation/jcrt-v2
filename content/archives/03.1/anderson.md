@@ -1,7 +1,7 @@
 ---
 nanoid: "ucBdeF"
 doi: "10.17613/78vah-4a963"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7wdjq2r'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od36lz62q'
 article_number:
 volume: 3
 issue: 1

@@ -1,7 +1,7 @@
 ---
 nanoid: "rdTpAM"
 doi: "10.17613/ebs32-fnk22"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7cbfg7w2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od5eego2q'
 article_number:
 volume: 1
 issue: 3

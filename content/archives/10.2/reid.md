@@ -1,7 +1,7 @@
 ---
 nanoid: "7CHUi0"
 doi: "10.17613/m2ebn-x6n26"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgfrmkq2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2occ2bt42n'
 title: "H.D. and the Archaeology of Religion"
 author: "Colbey Emmerson-Reid"
 affilation:

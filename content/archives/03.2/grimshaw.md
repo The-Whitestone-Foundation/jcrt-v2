@@ -1,7 +1,7 @@
 ---
 nanoid: "NeXbNk"
 doi: "10.17613/s9zwd-rt531"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c7if4k25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od2jn3k2s'
 article_number:
 volume: 3
 issue: 2

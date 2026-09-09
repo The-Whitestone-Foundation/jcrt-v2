@@ -1,7 +1,7 @@
 ---
 nanoid: "3Joyst"
 doi: "10.17613/y25pd-pzt40"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6pxw42e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oczf7rp2w'
 article_number:
 volume: 3
 issue: 3

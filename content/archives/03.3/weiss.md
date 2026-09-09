@@ -1,7 +1,7 @@
 ---
 nanoid: "5z4-n9"
 doi: "10.17613/bbjma-e9v36"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6j32j27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocz34jx2w'
 article_number:
 volume: 3
 issue: 3

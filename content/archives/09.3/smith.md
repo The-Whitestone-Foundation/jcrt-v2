@@ -1,7 +1,7 @@
 ---
 nanoid: "yx_xzD"
 doi: "10.17613/4k9t5-pfw04"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqggyygd2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocfha632i'
 title: "The Theatre of Production: Philosophy and Individuation Between Kant and Deleuze"
 author: "Anthony Paul Smith"
 affilation:

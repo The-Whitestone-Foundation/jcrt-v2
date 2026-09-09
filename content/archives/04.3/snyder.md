@@ -1,7 +1,7 @@
 ---
 nanoid: "WNRVjv"
 doi: "10.17613/ndvnq-kv583"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c4ps7e2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocwfdpl2z'
 article_number:
 volume: 4
 issue: 3

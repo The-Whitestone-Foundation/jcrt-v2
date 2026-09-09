@@ -1,7 +1,7 @@
 ---
 nanoid: "OxVA93"
 doi: "10.17613/286c4-ys005"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c6v5t72l'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oczmzxn26'
 article_number:
 volume: 3
 issue: 3

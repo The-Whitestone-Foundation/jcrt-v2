@@ -1,6 +1,6 @@
 ---
 nanoid: "0-G0ml"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgnk5mm2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od7sn6a2m'
 name: William W Young
 affiliation: "University of Virginia"
 bio:

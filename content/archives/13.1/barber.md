@@ -1,7 +1,7 @@
 ---
 nanoid: "y7Z9R6"
 doi: "10.17613/h4h7c-fmm66"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgctorn2g'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2obzxucz27'
 title: "The Immanent Refusal of Conversion."
 author: "Daniel Colucciello Barber"
 affilation:

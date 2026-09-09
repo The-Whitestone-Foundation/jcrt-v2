@@ -1,7 +1,7 @@
 ---
 nanoid: "f7sfNR"
 doi: "10.17613/x3712-dy463"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgdfpru2p'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oc3l2yj27'
 title: "Slow Reading: Learning the Time of the Body"
 author: "Karmen MacKendrick"
 affilation:

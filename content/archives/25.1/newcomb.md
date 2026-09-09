@@ -1,7 +1,7 @@
 ---
 nanoid: "ftCESu"
 doi: "10.17613/896nq-j9665"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqfk4na322'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oa6wk6s2z'
 layout: archives.njk
 article_number: '05'
 volume: '25'

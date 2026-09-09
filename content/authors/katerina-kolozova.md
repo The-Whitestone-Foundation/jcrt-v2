@@ -1,6 +1,6 @@
 ---
 nanoid: "1YDp97"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgwhcsc22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odxeozb2a'
 name: Katerina Kolozova
 affiliation: "University American College, Skopje"
 bio:

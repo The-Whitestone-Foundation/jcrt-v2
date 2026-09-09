@@ -1,7 +1,7 @@
 ---
 nanoid: "D5pRIO"
 doi: "10.17613/g2qg5-qf135"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqfwsmjc2e'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ob4cdgo2q'
 title: "Normative Encounters: a Radical Proposal for Philosophy of Religion."
 author: "Bradley Onishi"
 affilation:

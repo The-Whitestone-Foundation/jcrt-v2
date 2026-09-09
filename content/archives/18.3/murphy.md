@@ -1,7 +1,7 @@
 ---
 nanoid: "vL8Ulb"
 doi: "10.17613/w6wmz-x6t50"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqfwtuhq2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ob4etic2s'
 title: "Lacan as “Spiritual Director” – On the Relationship Between Psychoanalysis and Christian Mysticism"
 author: "Mark Murphy"
 affilation:

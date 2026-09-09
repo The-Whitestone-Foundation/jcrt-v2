@@ -1,6 +1,6 @@
 ---
 nanoid: "vQTx2i"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgrz2xi2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odma7zh2t'
 name: Osage Nation
 affiliation:
 bio:

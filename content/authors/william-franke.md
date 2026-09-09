@@ -1,6 +1,6 @@
 ---
 nanoid: "c5DRLN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgnoeks22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oda4oin26'
 name: William Franke
 affiliation: "Vanderbilt University"
 bio:

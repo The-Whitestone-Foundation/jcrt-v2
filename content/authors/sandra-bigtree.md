@@ -1,6 +1,6 @@
 ---
 nanoid: "RL-zj2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgpv2652n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odgej742v'
 name: Sandra Bigtree
 affiliation: "Indigenous Values Initiative"
 bio: |-

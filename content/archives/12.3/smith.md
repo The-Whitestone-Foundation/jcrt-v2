@@ -1,7 +1,7 @@
 ---
 nanoid: "k2FpZd"
 doi: "10.17613/hfd0g-t7g34"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgcw3vj2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oc27fba2m'
 title: "A Drone’s Eye View: Global Anti-Terrorism and the Existential Crisis of Just War Theory."
 author: "Patrick Provost-Smith"
 affilation:

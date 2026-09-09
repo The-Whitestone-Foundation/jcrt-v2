@@ -1,7 +1,7 @@
 ---
 nanoid: "vuNJpP"
 doi: "10.17613/yb0sp-thz38"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5bbpo2x'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocx6pce2v'
 article_number:
 volume: 4
 issue: 3

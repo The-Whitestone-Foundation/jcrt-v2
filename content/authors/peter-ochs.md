@@ -1,6 +1,6 @@
 ---
 nanoid: "p2-qTf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgrimkt22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odksl3h2t'
 name: Peter Ochs
 affiliation: "University of Virginia"
 bio:

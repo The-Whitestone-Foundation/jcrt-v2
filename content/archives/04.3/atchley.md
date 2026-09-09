@@ -1,7 +1,7 @@
 ---
 nanoid: "gtVAnh"
 doi: "10.17613/hch64-p6h49"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c5cycx2b'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocxbce32i'
 article_number:
 volume: 4
 issue: 3

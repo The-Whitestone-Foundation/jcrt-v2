@@ -1,7 +1,7 @@
 ---
 nanoid: "lYKsvT"
 doi: "10.17613/cm66s-nr003"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c52jsb27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocwukvl2n'
 article_number:
 volume: 4
 issue: 3

@@ -1,7 +1,7 @@
 ---
 nanoid: "LsShyG"
 doi: "10.17613/q233h-1vf03"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ca5hwc25'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od3irbe2v'
 article_number:
 volume: 2
 issue: 3

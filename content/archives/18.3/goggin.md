@@ -1,7 +1,7 @@
 ---
 nanoid: "wSXGbg"
 doi: "10.17613/495t5-ctn03"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqfx2kde2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ob4p2n22s'
 title: "Transcendental Frustration: a Critical Re-Evaluation of the Hegelian Legacy for Philosophy of Religion."
 author: "W. Ezekiel Goggin"
 affilation:

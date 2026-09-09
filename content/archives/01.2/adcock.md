@@ -1,7 +1,7 @@
 ---
 nanoid: "jN40op"
 doi: "10.17613/fqzdx-3az41"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7ccfngn22'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od6tvmp2w'
 article_number:
 volume: 1
 issue: 2

@@ -1,7 +1,7 @@
 ---
 nanoid: "I_CzAk"
 doi: "10.17613/e7nyx-xxj79"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mqa7c4rhta2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocwhuz52t'
 article_number:
 volume: 4
 issue: 3
