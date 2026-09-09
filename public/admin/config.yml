@@ -106,6 +106,9 @@ collections:
       - {label: "Nanoid", name: "nanoid", widget: "hidden"}
       - {label: "AT Protocol URI", name: "atproto", widget: "hidden"}
       - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
+      - {label: "Given Name", name: "given_name", widget: "string", required: false, hint: "Structured name part for schema.org and KCWorks deposits. Split from Name — correct it here when the split is wrong."}
+      - {label: "Family Name", name: "family_name", widget: "string", required: false, hint: "Structured name part for schema.org and KCWorks deposits."}
+      - {label: "Name Suffix", name: "name_suffix", widget: "string", required: false, hint: "Jr., III, and the like. Kept out of Family Name so citations sort correctly."}
       - {label: "Key (slug override)", name: "key", widget: "string", hint: "Only set when the author URL must differ from the name slug.", required: false}
       - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation.",required: false}
       - {label: "ORCID", name: "orcid", widget: "string", hint: "Full URL, e.g. https://orcid.org/0000-0002-1825-0097", required: false}
@@ -237,10 +240,12 @@ collections:
       - {label: "DOI", name: "doi", widget: "string", required: false, hint: "Bare DOI, e.g. 10.17613/0bkat-x3c78"}
       - {label: "Description", name: "description", widget: "text", required: false, hint: "Used for meta description and listing cards."}
       - {label: "Abstract", name: "abstract", widget: "text", required: false}
+      - {label: "Bibliographic Abstract (metadata only)", name: "bibliographic_abstract", widget: "text", required: false, hint: "Abstract emitted into the bibliographic metadata but not shown on the page. Use Abstract for the text readers should see."}
       - {label: "Keywords", name: "keywords", widget: "list", required: false, hint: "Slug form, e.g. political-theology. Drives /archives/keywords/."}
       - {label: "Tags", name: "tags", widget: "list", required: false, hint: "Eleventy collection tags. 'archives' is added automatically."}
       - {label: "PDF File Name", name: "pdf", widget: "string", required: false, hint: "Bare file name only, e.g. crockett.pdf — resolved against files.jcrt.org/archives/<issue>/."}
       - {label: "Canonical is the HTML page", name: "html_canonical", widget: "boolean", required: false, default: false, hint: "Leave off to canonicalise to the PDF."}
+      - {label: "HTML page carries the full text", name: "html_fulltext", widget: "boolean", required: false, default: false, hint: "On for the early volumes whose whole article lives in this file's body. Marks the entry as full text in the bibliography index."}
       - {label: "Published", name: "published", widget: "boolean", required: false, default: true, hint: "Uncheck to keep the article out of the build."}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
@@ -272,6 +277,7 @@ collections:
       - {label: "Affiliation", name: "affiliation", widget: "string", required: false}
       - {label: "ORCID", name: "orcid", widget: "string", required: false}
       - {label: "Abstract", name: "abstract", widget: "text", required: false}
+      - {label: "Bibliographic Abstract (metadata only)", name: "bibliographic_abstract", widget: "text", required: false, hint: "Abstract emitted into the bibliographic metadata but not shown on the page. Use Abstract for the text readers should see."}
       - {label: "Show Table of Contents", name: "toc", widget: "boolean", required: false, default: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 

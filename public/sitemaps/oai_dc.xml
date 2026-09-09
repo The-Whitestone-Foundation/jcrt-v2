@@ -3,7 +3,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-09-07T00:00:00Z</responseDate>
+  <responseDate>2026-09-09T00:00:00Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -52,7 +52,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -96,7 +96,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/kavka.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/kavka.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -141,7 +141,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-13</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -187,7 +187,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/lee.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/lee.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -230,7 +230,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -277,7 +277,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/reinhard_lupton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/reinhard_lupton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -322,7 +322,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/vahanian.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/vahanian.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -369,7 +369,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/winquist.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/winquist.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -412,7 +412,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.1/young.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 1</dc:source>
+          <dc:source>Vol. 1, No. 1, pp. 2-10</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.1/young.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -455,7 +455,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/adcock.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/adcock.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -504,7 +504,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/canning.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-19</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/canning.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -546,7 +546,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/long.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-12</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/long.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -587,7 +587,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/lorentzen.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-10</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/lorentzen.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -626,7 +626,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/nvahanian.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/nvahanian.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -670,7 +670,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/ruf.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-13</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/ruf.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -713,7 +713,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/smith.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/smith.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -757,7 +757,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -802,7 +802,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.2/wyschogrod_raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 2</dc:source>
+          <dc:source>Vol. 1, No. 2, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.2/wyschogrod_raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -846,7 +846,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/caputo.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/caputo.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -892,7 +892,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/carpenter.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-17</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/carpenter.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -939,7 +939,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -985,7 +985,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/dicenso.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/dicenso.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1032,7 +1032,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/game.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/game.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1077,7 +1077,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/kosky.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/kosky.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1126,7 +1126,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/metcalfe.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-13</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/metcalfe.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1170,7 +1170,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/richard.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-19</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/richard.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1215,7 +1215,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/strysick.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/strysick.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1263,7 +1263,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/01.3/weiss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 1, No. 3</dc:source>
+          <dc:source>Vol. 1, No. 3, pp. 2-17</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/01.3/weiss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1308,7 +1308,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/halpern.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/halpern.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1357,7 +1357,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-10</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1401,7 +1401,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/lupton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-5</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/lupton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1448,7 +1448,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/ochs.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/ochs.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1491,7 +1491,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-10</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1585,7 +1585,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/sugimoto.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/sugimoto.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1628,7 +1628,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.1/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 1</dc:source>
+          <dc:source>Vol. 2, No. 1, pp. 2-3</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.1/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1675,7 +1675,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/altizer.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/altizer.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1717,7 +1717,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/arnold.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/arnold.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1764,7 +1764,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/elias.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/elias.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1810,7 +1810,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/majer.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-16</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/majer.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1853,7 +1853,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/robbins.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/robbins.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1899,7 +1899,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/tatusko.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-19</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/tatusko.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -1942,7 +1942,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 2</dc:source>
+          <dc:source>Vol. 2, No. 2, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2033,7 +2033,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/cha.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-13</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/cha.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2080,7 +2080,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2124,7 +2124,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/hale.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-5</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/hale.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2171,7 +2171,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/katchen.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/katchen.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2214,7 +2214,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/lakeland.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-3</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/lakeland.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2262,7 +2262,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/magee.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/magee.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2309,7 +2309,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/mccullough.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/mccullough.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2358,7 +2358,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/ronan.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/ronan.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2408,7 +2408,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/takim.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/takim.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2453,7 +2453,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/02.3/weiss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 2, No. 3</dc:source>
+          <dc:source>Vol. 2, No. 3, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/02.3/weiss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2498,7 +2498,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/anderson.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/anderson.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2543,7 +2543,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/dean.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-3</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/dean.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2590,7 +2590,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/gooch.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-24</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/gooch.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2637,7 +2637,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/keuss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-13</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/keuss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2686,7 +2686,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/maccammon.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/maccammon.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2732,7 +2732,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2776,7 +2776,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.1/stone.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 1</dc:source>
+          <dc:source>Vol. 3, No. 1, pp. 2-14</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.1/stone.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2873,7 +2873,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/grimshaw.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/grimshaw.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2918,7 +2918,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/hale.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/hale.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -2966,7 +2966,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/hyman.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-16</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/hyman.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3013,7 +3013,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/katz.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/katz.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3059,7 +3059,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/lee.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-17</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/lee.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3107,7 +3107,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/metcalf.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/metcalf.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3150,7 +3150,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/parmenter.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-5</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/parmenter.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3197,9 +3197,48 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 2</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.2/taylor.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:archives:03.2:winquist</identifier>
+        <datestamp>2002-01-01</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>In Memoriam: Dr. Charles E. Winquist - JCRT 3.2</dc:title>
+          <dc:creator>JCRT Editors</dc:creator>
+          <dc:subject>charles-winquist</dc:subject>
+          <dc:subject>in-memoriam</dc:subject>
+          <dc:subject>obituary</dc:subject>
+          <dc:subject>syracuse-university</dc:subject>
+          <dc:subject>american-academy-of-religion</dc:subject>
+          <dc:subject>postmodern-religious-thought</dc:subject>
+          <dc:subject>philosophy-of-religion</dc:subject>
+          <dc:subject>desiring-theology</dc:subject>
+          <dc:subject>john-caputo</dc:subject>
+          <dc:subject>editorial-board</dc:subject>
+          <dc:subject>American Academy of Religion</dc:subject>
+          <dc:subject>Syracuse University</dc:subject>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2002-01-01</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/03.2/winquist.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:source>Vol. 3, No. 2, pp. 2-2</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/03.2/winquist.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3242,7 +3281,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/crockett.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/crockett.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3289,7 +3328,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/druen.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-3</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/druen.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3334,7 +3373,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/flato.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-3</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/flato.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3379,7 +3418,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/iyer.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/iyer.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3423,7 +3462,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/putt.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-14</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/putt.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3468,7 +3507,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/rashkover.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/rashkover.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3515,7 +3554,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/reinhart.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/reinhart.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3557,7 +3596,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/scott.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/scott.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3602,7 +3641,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3646,7 +3685,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/weiss.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-9</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/weiss.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3691,7 +3730,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/03.3/zerbe.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 3, No. 3</dc:source>
+          <dc:source>Vol. 3, No. 3, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/03.3/zerbe.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3737,7 +3776,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/bennett-carpenter.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-15</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/bennett-carpenter.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3778,7 +3817,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/blundell.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-4</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/blundell.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3829,7 +3868,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/egginton.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-14</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/egginton.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3872,9 +3911,49 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/hamner.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-8</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/hamner.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:archives:04.1:index2</identifier>
+        <datestamp>2002-01-01</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Journal for Cultural and Religious Theory - Issue 4.2 - April 2003</dc:title>
+          <dc:creator>JCRT Editors</dc:creator>
+          <dc:subject>cultural-religious-theory</dc:subject>
+          <dc:subject>levinasian-ethics</dc:subject>
+          <dc:subject>deconstruction</dc:subject>
+          <dc:subject>mieke-bal</dc:subject>
+          <dc:subject>iconography</dc:subject>
+          <dc:subject>gift-exchange</dc:subject>
+          <dc:subject>jean-luc-marion</dc:subject>
+          <dc:subject>julia-kristeva</dc:subject>
+          <dc:subject>martin-heidegger</dc:subject>
+          <dc:subject>paul-ricoeur</dc:subject>
+          <dc:subject>continental-philosophy-of-religion</dc:subject>
+          <dc:subject>Ceremonial exchange</dc:subject>
+          <dc:subject>Deconstruction</dc:subject>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2002-01-01</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/index2.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-2</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/index2.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -3920,7 +3999,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/kosky.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-18</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/kosky.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -3966,9 +4045,54 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/lokensgard.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-11</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/lokensgard.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:archives:04.1:markmanolopoulos</identifier>
+        <datestamp>2002-01-01</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>When Marion’s Theology Seeks Certainty</dc:title>
+          <dc:creator>JCRT Editors</dc:creator>
+          <dc:subject>jean-luc-marion</dc:subject>
+          <dc:subject>undecidability</dc:subject>
+          <dc:subject>deconstruction</dc:subject>
+          <dc:subject>apophatic-theology</dc:subject>
+          <dc:subject>negative-theology</dc:subject>
+          <dc:subject>dogmatism</dc:subject>
+          <dc:subject>jacques-derrida</dc:subject>
+          <dc:subject>john-caputo</dc:subject>
+          <dc:subject>faith</dc:subject>
+          <dc:subject>metaphysics-of-presence</dc:subject>
+          <dc:subject>arianism</dc:subject>
+          <dc:subject>trinitarianism</dc:subject>
+          <dc:subject>god-without-being</dc:subject>
+          <dc:subject>Arianism</dc:subject>
+          <dc:subject>Deconstruction</dc:subject>
+          <dc:subject>Dogmatism</dc:subject>
+          <dc:subject>Faith</dc:subject>
+          <dc:subject>Negative theology</dc:subject>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2002-01-01</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/04.1/markmanolopoulos.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-12</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/04.1/markmanolopoulos.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -4011,7 +4135,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/mcgrath.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-7</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/mcgrath.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4060,7 +4184,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.1/raschke.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 1</dc:source>
+          <dc:source>Vol. 4, No. 1, pp. 2-12</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.1/raschke.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4104,7 +4228,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/caputo.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-6</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/caputo.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4149,7 +4273,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/flaxman.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-14</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/flaxman.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4194,7 +4318,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-14</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4235,7 +4359,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/lambert-taylor.intro.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-5</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/lambert-taylor.intro.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4277,7 +4401,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/nichols.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-10</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/nichols.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4325,7 +4449,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/pecora.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-16</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/pecora.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4369,7 +4493,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/rabate-lambert.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-13</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/rabate-lambert.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4412,7 +4536,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/saper.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-12</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/saper.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4455,7 +4579,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/taylor.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-14</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/taylor.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -4498,7 +4622,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/04.2/williams.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 4, No. 2</dc:source>
+          <dc:source>Vol. 4, No. 2, pp. 2-12</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/04.2/williams.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -5624,7 +5748,7 @@
           <dc:identifier>1530-5228</dc:identifier>
           <dc:identifier>https://files.jcrt.org/archives/05.1/siebers.pdf</dc:identifier>
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
-          <dc:source>Vol. 5, No. 1</dc:source>
+          <dc:source>Vol. 5, No. 1, pp. 9-33</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/05.1/siebers.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
@@ -17948,6 +18072,48 @@
           <dc:source>Vol. 11, No. 2</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/archives/11.2/zabala.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:archives:11.3:cfp-design</identifier>
+        <datestamp>2011-01-01</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Call for Papers - Design, Mediation, and the Posthuman - An edited anthology exploring the disciplinary intersections of technological mediation, design, and the posthuman.</dc:title>
+          <dc:creator>JCRT Editors</dc:creator>
+          <dc:subject>design</dc:subject>
+          <dc:subject>technological-mediation</dc:subject>
+          <dc:subject>posthumanism</dc:subject>
+          <dc:subject>philosophy-of-technology</dc:subject>
+          <dc:subject>human-technology-relations</dc:subject>
+          <dc:subject>media-theory</dc:subject>
+          <dc:subject>postphenomenology</dc:subject>
+          <dc:subject>mediation</dc:subject>
+          <dc:subject>materiality</dc:subject>
+          <dc:subject>design-theory</dc:subject>
+          <dc:subject>posthuman</dc:subject>
+          <dc:subject>technology-and-culture</dc:subject>
+          <dc:subject>Design</dc:subject>
+          <dc:subject>Mediation</dc:subject>
+          <dc:subject>Posthumanism</dc:subject>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2011-01-01</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/11.3/cfp-design.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:source>Vol. 11, No. 3</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/11.3/cfp-design.pdf</dc:relation>
           <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
         </oai_dc:dc>
       </metadata>
@@ -33791,6 +33957,51 @@
     </record>
     <record>
       <header>
+        <identifier>oai:jcrt.org:archives:18.3:robertsandhayden</identifier>
+        <datestamp>2019-01-01</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Religion and Mental Health: the Therapeutic Value of the Teachings of Jesus</dc:title>
+          <dc:creator>Thomas Roberts</dc:creator>
+          <dc:creator>Delbert Hayden</dc:creator>
+          <dc:subject>comparative-religion</dc:subject>
+          <dc:subject>comparative-methodology</dc:subject>
+          <dc:subject>religious-studies</dc:subject>
+          <dc:subject>jonathan-z-smith</dc:subject>
+          <dc:subject>wendy-doniger</dc:subject>
+          <dc:subject>comparative-mythology</dc:subject>
+          <dc:subject>postcolonialism</dc:subject>
+          <dc:subject>postmodernism</dc:subject>
+          <dc:subject>mircea-eliade</dc:subject>
+          <dc:subject>myth</dc:subject>
+          <dc:subject>otherness</dc:subject>
+          <dc:subject>deconstruction</dc:subject>
+          <dc:subject>Deconstruction</dc:subject>
+          <dc:subject>Myth</dc:subject>
+          <dc:subject>Postcolonialism</dc:subject>
+          <dc:subject>Postmodernism</dc:subject>
+          <dc:subject>Religions</dc:subject>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2019-01-01</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/archives/18.3/robertsandhayden.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:source>Vol. 18, No. 3</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/archives/18.3/robertsandhayden.pdf</dc:relation>
+          <dc:rights>Copyright held by the author(s). Published in the Journal for Cultural and Religious Theory. https://jcrt.org/copyright/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
         <identifier>oai:jcrt.org:archives:18.3:rubenstein</identifier>
         <datestamp>2019-01-01</datestamp>
         <setSpec>philosophy</setSpec>
@@ -47327,7 +47538,7 @@
     <record>
       <header>
         <identifier>oai:jcrt.org:religioustheory:9781350602502</identifier>
-        <datestamp>2026-09-07</datestamp>
+        <datestamp>2026-09-09</datestamp>
         <setSpec>philosophy</setSpec>
       </header>
       <metadata>
@@ -47360,7 +47571,7 @@
           <dc:subject>Technology--Philosophy</dc:subject>
           <dc:description>David Roome reviews Yuk Hui’s Kant Machine, which recovers Kant’s critical philosophy as a diagnostic of what machine learning, artificial moral agency, and algorithmic governance can and cannot accomplish.</dc:description>
           <dc:publisher>Whitestone Publications</dc:publisher>
-          <dc:date>2026-09-07</dc:date>
+          <dc:date>2026-09-09</dc:date>
           <dc:type>article</dc:type>
           <dc:format>application/pdf</dc:format>
           <dc:identifier>1530-5228</dc:identifier>
