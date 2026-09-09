@@ -140,6 +140,9 @@ async function run() {
 	const batches = chunk(changedUrls, MAX_URLS_PER_REQUEST);
 	console.log(`[indexnow] Preparing ${changedUrls.length} URL(s) in ${batches.length} batch(es).`);
 
+	let accepted = 0;
+	let rejected = 0;
+
 	for (const batch of batches) {
 		const payload = {
 			host: new URL(siteUrl).hostname,
@@ -151,11 +154,14 @@ async function run() {
 			try {
 				const result = await postIndexNow(endpoint, payload);
 				if (result.ok) {
+					accepted += 1;
 					console.log(`[indexnow] Success ${result.status} -> ${endpoint} (${batch.length} URLs)`);
 				} else {
+					rejected += 1;
 					console.warn(`[indexnow] Non-fatal failure ${result.status} -> ${endpoint}: ${result.body.slice(0, 300)}`);
 				}
 			} catch (error) {
+				rejected += 1;
 				console.warn(`[indexnow] Non-fatal request error -> ${endpoint}: ${error?.message || error}`);
 			}
 		}
@@ -163,14 +169,29 @@ async function run() {
 			try {
 				const result = await postWorkerSubmission(workerEndpoint, batch);
 				if (result.ok) {
+					accepted += 1;
 					console.log(`[indexnow] Worker accepted ${result.status} -> ${workerEndpoint} (${batch.length} URLs)`);
 				} else {
+					rejected += 1;
 					console.warn(`[indexnow] Worker non-fatal failure ${result.status} -> ${workerEndpoint}: ${result.body.slice(0, 300)}`);
 				}
 			} catch (error) {
+				rejected += 1;
 				console.warn(`[indexnow] Worker non-fatal request error -> ${workerEndpoint}: ${error?.message || error}`);
 			}
 		}
+	}
+
+	console.log(`[indexnow] ${accepted} submission(s) accepted, ${rejected} rejected.`);
+
+	if (accepted === 0 && rejected > 0) {
+		// A search-engine ping must never break the build, so stay exit 0 — but a run where
+		// nothing at all was accepted used to look green while announcing nothing, which is
+		// how a 403 SiteVerificationNotCompleted went unnoticed. Surface it as an annotation.
+		console.log("::warning title=IndexNow::Every submission was rejected; no URLs were announced.");
+		// And do NOT advance the watermark: recording these as submitted would mean they are
+		// never retried, so the next run would report "nothing to submit" and drop them.
+		return;
 	}
 
 	saveCurrentUrlSet(current);

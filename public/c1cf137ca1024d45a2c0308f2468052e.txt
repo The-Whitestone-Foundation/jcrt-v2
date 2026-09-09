@@ -1,6 +1,1 @@
----
-permalink: /c1cf137ca1024d45a2c0308f2468052e.txt
-eleventyExcludeFromCollections: true
-layout: false
----
 c1cf137ca1024d45a2c0308f2468052e
