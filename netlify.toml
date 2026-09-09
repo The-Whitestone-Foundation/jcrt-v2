@@ -12,6 +12,14 @@
 [build.processing]
   skip_processing = true
 
+# /Copyright/ was emitted into the site's own sitemap for a while, so it is in the wild.
+# The canonical page is lowercase; send the mis-cased form there permanently.
+[[redirects]]
+  from = "/Copyright/"
+  to = "/copyright/"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "http://jcrt.org/oai"
   to = "https://jcrt.org/oai"

@@ -21,6 +21,52 @@ const REQUIRED_LOCAL_PATHS = [
 	"/sitemaps/jats-sitemap.xml",
 ];
 
+// macOS (APFS) is case-insensitive; Netlify's Linux builder is not. fs.existsSync
+// ("_site/Copyright/index.html") is therefore true here and false on CI, so a mis-cased
+// <loc> can only be discovered by pushing — which is exactly how /Copyright/ shipped.
+// readdirSync reports the TRUE on-disk casing, so resolve against that, never the kernel.
+const dirEntries = new Map();
+
+function namesIn(dir) {
+	let names = dirEntries.get(dir);
+	if (!names) {
+		try {
+			names = new Set(fs.readdirSync(dir));
+		} catch {
+			names = new Set();
+		}
+		dirEntries.set(dir, names);
+	}
+	return names;
+}
+
+// True only when every segment below _site matches on disk byte for byte.
+function existsExactCase(file) {
+	const rel = path.relative(SITE_DIR, file);
+	if (rel === "" || rel === ".") return fs.existsSync(SITE_DIR);
+	if (rel.startsWith("..") || path.isAbsolute(rel)) return false;
+	let dir = SITE_DIR;
+	for (const segment of rel.split(path.sep)) {
+		if (!namesIn(dir).has(segment)) return false;
+		dir = path.join(dir, segment);
+	}
+	return true;
+}
+
+// ' (on disk it is "copyright")' when only the casing is wrong, "" otherwise.
+function caseHint(file) {
+	let dir = SITE_DIR;
+	for (const segment of path.relative(SITE_DIR, file).split(path.sep)) {
+		const names = namesIn(dir);
+		if (!names.has(segment)) {
+			const actual = [...names].find((name) => name.toLowerCase() === segment.toLowerCase());
+			return actual ? ` (on disk it is "${actual}", not "${segment}")` : "";
+		}
+		dir = path.join(dir, segment);
+	}
+	return "";
+}
+
 function getLocs(xml) {
 	const out = [];
 	const re = /<loc>([^<]+)<\/loc>/g;
@@ -49,7 +95,8 @@ function toLocalPath(url, siteUrl) {
 
 function resolveOutputFile(pathname) {
 	const rel = String(pathname || "").replace(/^\/+/, "");
-	if (rel.endsWith("/")) return path.join(SITE_DIR, rel, "index.html");
+	// "" is the homepage: resolve it to _site/index.html, not to _site itself.
+	if (rel === "" || rel.endsWith("/")) return path.join(SITE_DIR, rel, "index.html");
 	return path.join(SITE_DIR, rel);
 }
 
@@ -65,7 +112,7 @@ function verify(siteUrl) {
 		if (seen.has(pathname)) return;
 		seen.add(pathname);
 		const file = resolveOutputFile(pathname);
-		if (!fs.existsSync(file)) {
+		if (!existsExactCase(file)) {
 			missing.push({ loc: `${siteUrl}${pathname}`, outputFile: file });
 			return;
 		}
@@ -90,7 +137,7 @@ function verify(siteUrl) {
 
 	walk("/sitemap.xml");
 	for (const requiredPath of REQUIRED_LOCAL_PATHS) {
-		if (!fs.existsSync(resolveOutputFile(requiredPath))) {
+		if (!existsExactCase(resolveOutputFile(requiredPath))) {
 			missing.push({ loc: `${siteUrl}${requiredPath}`, outputFile: resolveOutputFile(requiredPath) });
 		}
 	}
@@ -100,7 +147,7 @@ function verify(siteUrl) {
 	}
 	if (missing.length > 0) {
 		console.error(`[sitemaps:check] Missing ${missing.length} local file(s):`);
-		for (const row of missing) console.error(`- ${row.loc} -> ${row.outputFile}`);
+		for (const row of missing) console.error(`- ${row.loc} -> ${row.outputFile}${caseHint(row.outputFile)}`);
 	}
 	if (empty.length > 0 || missing.length > 0) {
 		throw new Error("Sitemap validation failed.");
