@@ -4,6 +4,9 @@
   {% set issueSlug = urlParts[2] or '' %}
   {% set isIssueIndex = page.url and page.url.startsWith('/archives/') and page.url.endsWith('/') and (urlParts | length) == 4 and issueSlug.includes('.') %}
   {% set isTheoryPost = tags and ("theoryPosts" in tags) %}
+  {% set isArchiveMarkdown = page.url and page.url.startsWith('/archives/') and page.inputPath and page.inputPath.endsWith('.md') and not isIssueIndex %}
+  {% set hasArticleMeta = isArchiveMarkdown or isTheoryPost %}
+  {% set displayDoiUrl = doiUrl if isTheoryPost else ("https://doi.org/" ~ doi if doi else "") %}
   {% set displayVolume = jsonEntry.volume or volume %}
   {% set displayIssue = jsonEntry.issue or issue %}
   {% set displaySeason = jsonEntry.season or season %}
@@ -100,17 +103,26 @@
                 {%- if not loop.last -%}; {% endif -%}
               {%- endfor -%}
             </span>
-            {% if affiliation or affilation %}<br><small class="text-secondary">{{ affiliation or affilation }}</small>{% endif %}
+            {% if affiliation or affilation %}{% if not hasArticleMeta %}<br>{% endif %}<small class="text-secondary">{{ affiliation or affilation }}</small>{% endif %}
           </div>
         {% endif %}
 
         <div class="jcrt-action-row jcrt-action-row--meta">
           {% if displayDate %}
-            <span class="dt-published"><i class="bi bi-calendar3"></i> {{ displayDate | postDate }}</span>
+            <span>
+              <span class="dt-published">{% if hasArticleMeta %}<svg class="icon-svg" aria-hidden="true"><use href="#fa-calendar"/></svg>{% else %}<i class="bi bi-calendar3"></i>{% endif %} {{ displayDate | postDate }}</span>
+              {% if hasArticleMeta and displayDoiUrl %}
+                <span aria-hidden="true"> | </span><svg class="icon-svg" aria-hidden="true"><use href="#ai-doi"/></svg> <a href="{{ displayDoiUrl }}">{{ displayDoiUrl | replace("https://", "") }}</a>
+              {% endif %}
+            </span>
           {% endif %}
           {# Optional front matter `submitted:` / `accepted:` (DOAJ best practice: show all three dates). #}
           {% if submitted %}<span class="small text-secondary">Received {{ submitted | postDate }}</span>{% endif %}
           {% if accepted %}<span class="small text-secondary">Accepted {{ accepted | postDate }}</span>{% endif %}
+          {% if hasArticleMeta %}
+        </div>
+        <div class="jcrt-action-row">
+          {% endif %}
           {# pdfLabel is set by content/religioustheory/posts/posts.11tydata.js so a book
              review does not advertise itself as an article. Archives leave it unset. #}
           {% set downloadLabel = pdfLabel | default("Article", true) %}

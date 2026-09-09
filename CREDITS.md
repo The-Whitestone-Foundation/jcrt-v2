@@ -13,10 +13,10 @@ them; the artwork is not Font Awesome.
 - **[Phosphor Icons](https://phosphoricons.com/)** by Helena Zhang and Tobias Fried, regular
   weight. Used for the hamburger (`list`), navigation arrows, the PDF, link and envelope
   glyphs, the social logos (Facebook, Instagram, Mastodon, LinkedIn, YouTube, the butterfly
-  for Bluesky), RSS, globe, scales, microphone, bookmark, phone and house.
+  for Bluesky), RSS, globe, scales, microphone, bookmark, phone, house and calendar.
   License: [MIT](https://github.com/phosphor-icons/core/blob/main/LICENSE).
 - **[Academicons](https://jpswalsh.github.io/academicons/)** by James Walsh. Used for the
-  ORCID iD glyph on author pages. Glyphs are licensed under the
+  ORCID iD glyph on author pages and DOI glyph on archive articles and Religious Theory posts. Glyphs are licensed under the
   [SIL Open Font License 1.1](https://github.com/jpswalsh/academicons/blob/master/LICENSE);
   the accompanying code is MIT.
 
