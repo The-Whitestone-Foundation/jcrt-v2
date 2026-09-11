@@ -7,7 +7,7 @@ volume: 4
 issue: 3
 pages:
 title: "I Am the Truth: Toward a Philosophy of Christianity"
-author: "Anthony L Macri"
+author: "Anthony L. Macri"
 affiliation:
 description:
 pdf: macri.pdf

@@ -8,7 +8,7 @@ issue: 2
 pages: 2-16
 html_fulltext: true
 title: "Religion and Modernity in Current Debate"
-author: "Vincent P Pecora"
+author: "Vincent P. Pecora"
 affiliation:
 description:
 pdf: 'pecora.pdf'

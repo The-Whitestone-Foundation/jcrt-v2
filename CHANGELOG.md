@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.27] — 2026-09-09
+fix: serve the IndexNow key file as a bare key, and stop dropping rejected URLs
+- Notes: fix: serve the IndexNow key file as a bare key, and stop dropping rejected URLs.
+
 ## [00.04.26] — 2026-09-09
 fix: lowercase the /Copyright/ sitemap entry and make sitemaps:check case-strict
 - Notes: fix: lowercase the /Copyright/ sitemap entry and make sitemaps:check case-strict.

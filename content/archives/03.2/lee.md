@@ -8,7 +8,7 @@ issue: 2
 pages: 2-17
 html_fulltext: true
 title: "Dead Man"
-author: "C Jason Lee"
+author: "C. Jason Lee"
 affiliation:
 description:
 pdf: 'lee.pdf'

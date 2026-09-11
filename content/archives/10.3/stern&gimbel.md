@@ -3,7 +3,7 @@ nanoid: "qICHtp"
 doi: "10.17613/kstdf-76m25"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocaphnx2t'
 title: "Einstein’s Jewish Science"
-author: "Stephen J Stern; Steven Gimbel"
+author: "Stephen J. Stern; Steven Gimbel"
 affilation:
 abstract:
 keywords:

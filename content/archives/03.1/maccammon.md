@@ -8,7 +8,7 @@ issue: 1
 pages: 2-6
 html_fulltext: true
 title: "The Just"
-author: "Linda M MacCammon"
+author: "Linda M. MacCammon"
 affiliation:
 description:
 pdf: 'maccammon.pdf'

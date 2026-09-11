@@ -8,7 +8,7 @@ issue: 1
 pages: 2-3
 html_fulltext: true
 title: "Artist’s Statement"
-author: "Christopher M Taylor; Christopher M Taylor"
+author: "Christopher M. Taylor; Christopher M. Taylor"
 affiliation:
 description:
 pdf: 'taylor.pdf'

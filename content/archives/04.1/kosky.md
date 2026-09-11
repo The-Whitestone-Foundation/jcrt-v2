@@ -8,7 +8,7 @@ issue: 1
 pages: 2-18
 html_fulltext: true
 title: "Iconic Revisions of the Modern World Picture"
-author: "Jeffrey L Kosky"
+author: "Jeffrey L. Kosky"
 affiliation:
 description:
 pdf: 'kosky.pdf'

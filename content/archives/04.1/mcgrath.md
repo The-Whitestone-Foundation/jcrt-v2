@@ -8,7 +8,7 @@ issue: 1
 pages: 2-7
 html_fulltext: true
 title: "Phänomenologie des religiösen Lebens"
-author: "Sean J McGrath"
+author: "Sean J. McGrath"
 affiliation:
 description:
 pdf: 'mcgrath.pdf'

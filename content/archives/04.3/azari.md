@@ -7,7 +7,7 @@ volume: 4
 issue: 3
 pages:
 title: "Georges Bataille: a Theoretical Resource for Scientific Investigation of Religious Experience"
-author: "Nina P Azari"
+author: "Nina P. Azari"
 affiliation:
 description:
 pdf: azari.pdf

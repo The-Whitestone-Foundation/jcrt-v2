@@ -3,7 +3,7 @@ nanoid: "pDBRP2"
 doi: "10.17613/xkfbh-shz29"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2octxsx72w'
 title: "The Making of American Liberal Theology 2 Idealism, Realism, and Modernity 1900-1950"
-author: "James O Duke"
+author: "James O. Duke"
 affilation:
 abstract:
 keywords:

@@ -8,7 +8,7 @@ issue: 3
 pages: 2-4
 html_fulltext: true
 title: "Anaximander and the Architects: the Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy"
-author: "Michael J Zerbe"
+author: "Michael J. Zerbe"
 affiliation:
 description:
 pdf: 'zerbe.pdf'

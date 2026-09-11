@@ -8,7 +8,7 @@ issue: 2
 pages: 2-9
 html_fulltext: true
 title: "Absolute Nothingness and Taylor’s Imagology"
-author: "Thomas J J Altizer"
+author: "Thomas J. J. Altizer"
 affiliation:
 description:
 pdf: 'altizer.pdf'

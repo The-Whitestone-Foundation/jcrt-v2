@@ -7,7 +7,7 @@ volume: 4
 issue: 3
 pages:
 title: "Sensible Ecstasy: Mysticism, Sexual Difference, and the Demands of History"
-author: "J Heath Atchley"
+author: "J. Heath Atchley"
 affiliation:
 description:
 pdf: atchley.pdf

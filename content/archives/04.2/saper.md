@@ -8,7 +8,7 @@ issue: 2
 pages: 2-12
 html_fulltext: true
 title: "Of Spectacularization: Writing New Media Theory"
-author: "Craig J Saper"
+author: "Craig J. Saper"
 affiliation:
 description:
 pdf: 'saper.pdf'

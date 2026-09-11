@@ -8,7 +8,7 @@ issue: 2
 pages: 2-10
 html_fulltext: true
 title: "Laughter as Gesture: Hilarity and the Anti-Sublime"
-author: "Stephen G Nichols"
+author: "Stephen G. Nichols"
 affiliation:
 description:
 pdf: 'nichols.pdf'

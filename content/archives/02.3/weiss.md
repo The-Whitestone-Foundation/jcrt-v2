@@ -8,7 +8,7 @@ issue: 3
 pages: 2-8
 html_fulltext: true
 title: "A. I: Artificial Intelligence"
-author: "Dennis M Weiss"
+author: "Dennis M. Weiss"
 affiliation:
 description:
 pdf: 'weiss.pdf'

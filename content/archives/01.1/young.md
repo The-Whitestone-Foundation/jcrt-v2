@@ -8,7 +8,7 @@ issue: 1
 pages: 2-10
 html_fulltext: true
 title: "Politics of Friendship"
-author: "William W Young"
+author: "William W. Young"
 affiliation:
 description:
 pdf: 'young.pdf'

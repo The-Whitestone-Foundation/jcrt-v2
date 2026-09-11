@@ -8,7 +8,7 @@ issue: 3
 pages: 2-13
 html_fulltext: true
 title: "Wonder, Creativity and Knowledge"
-author: "Andrew W Metcalfe"
+author: "Andrew W. Metcalfe"
 affiliation:
 description:
 pdf: 'metcalfe.pdf'

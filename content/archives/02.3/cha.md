@@ -8,7 +8,7 @@ issue: 3
 pages: 2-13
 html_fulltext: true
 title: "Language, Conceptualization and Awakening: on the Paradox of Discourse in Classical Indian Yogacara"
-author: "John Y Cha"
+author: "John Y. Cha"
 affiliation:
 description:
 pdf: 'cha.pdf'

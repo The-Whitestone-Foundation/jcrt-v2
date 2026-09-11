@@ -8,7 +8,7 @@ issue: 3
 pages: 2-15
 html_fulltext: true
 title: "Contemporary Encounters with Apophatic Theology: the Case of Emmanuel Levinas"
-author: "Jeffrey L Kosky"
+author: "Jeffrey L. Kosky"
 affiliation:
 description:
 pdf: 'kosky.pdf'

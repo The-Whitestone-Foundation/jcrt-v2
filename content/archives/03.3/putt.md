@@ -7,7 +7,7 @@ volume: 3
 issue: 3
 pages: 2-14
 title: "The Benefit of the Doubt: Merold Westphal’s Prophetic Philosophy of Religion"
-author: "B Keith Putt"
+author: "B. Keith Putt"
 affiliation:
 description:
 pdf: 'putt.pdf'

@@ -3,7 +3,7 @@ nanoid: "0V6ZJS"
 doi: "10.17613/mb0br-nf387"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2octlftu2v'
 title: "Predicting Religion: Christian, Secular and Alternative Futures"
-author: "Daniel E Rossi Keen"
+author: "Daniel E. Rossi Keen"
 affilation:
 abstract:
 keywords:

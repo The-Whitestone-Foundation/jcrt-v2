@@ -8,7 +8,7 @@ issue: 2
 pages: 2-9
 html_fulltext: true
 title: "Xena Warrior Princess and the Texture of the Religious: Re-Imagining the Role of Popular Culture in Academic Discourse"
-author: "David A Adcock"
+author: "David A. Adcock"
 affiliation:
 description:
 pdf: 'adcock.pdf'

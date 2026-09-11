@@ -8,7 +8,7 @@ issue: 3
 pages: 2-9
 html_fulltext: true
 title: "In Our Image: Artificial Intelligence and the Human Spirit"
-author: "Dennis M Weiss"
+author: "Dennis M. Weiss"
 affiliation:
 description:
 pdf: 'weiss.pdf'

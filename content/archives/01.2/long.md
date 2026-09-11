@@ -8,7 +8,7 @@ issue: 2
 pages: 2-12
 html_fulltext: true
 title: "Mircea Eliade and the Imagination of Matter"
-author: "Charles H Long"
+author: "Charles H. Long"
 affiliation:
 description:
 pdf: 'long.pdf'

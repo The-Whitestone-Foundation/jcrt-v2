@@ -8,7 +8,7 @@ issue: 3
 pages: 2-3
 html_fulltext: true
 title: "Christianity in Jewish Terms"
-author: "Jason M Flato"
+author: "Jason M. Flato"
 affiliation:
 description:
 pdf: 'flato.pdf'

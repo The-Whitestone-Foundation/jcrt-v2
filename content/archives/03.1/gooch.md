@@ -8,7 +8,7 @@ issue: 1
 pages: 2-24
 html_fulltext: true
 title: "The Epistemic Status of Value-Cognition in Max Scheler’s Philosophy of Religion"
-author: "Todd A Gooch"
+author: "Todd A. Gooch"
 affiliation:
 description:
 pdf: 'gooch.pdf'

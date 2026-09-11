@@ -8,7 +8,7 @@ issue: 3
 pages: 2-17
 html_fulltext: true
 title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
-author: "Dennis M Weiss"
+author: "Dennis M. Weiss"
 affiliation:
 description:
 pdf: 'weiss.pdf'

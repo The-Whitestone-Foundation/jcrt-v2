@@ -7,7 +7,7 @@ volume: 4
 issue: 3
 pages:
 title: "Indian Philosophers and Postmodern Thinkers"
-author: "Bryan S Rennie"
+author: "Bryan S. Rennie"
 affiliation:
 description:
 pdf: rennie.pdf

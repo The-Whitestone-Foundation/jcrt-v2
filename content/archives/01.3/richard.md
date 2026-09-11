@@ -8,7 +8,7 @@ issue: 3
 pages: 2-19
 html_fulltext: true
 title: "Aristotle and Religious Theory"
-author: "Alan J Richard"
+author: "Alan J. Richard"
 affiliation:
 description:
 pdf: 'richard.pdf'

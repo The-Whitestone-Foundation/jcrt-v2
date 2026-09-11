@@ -8,7 +8,7 @@ issue: 2
 pages: 2-13
 html_fulltext: true
 title: "The Ride of Passage: the Pursuit of Danger, Trance, and Failure in Mark Twain, Paul Bowles, and US"
-author: "Frederick J Ruf"
+author: "Frederick J. Ruf"
 affiliation:
 description:
 pdf: 'ruf.pdf'

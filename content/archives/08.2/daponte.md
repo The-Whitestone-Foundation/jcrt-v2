@@ -3,7 +3,7 @@ nanoid: "pg2A5A"
 doi: "10.17613/vxx38-sbr88"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocjfyfp2w'
 title: "September 11: Religious Perspectives on the Causes and Consequences"
-author: "Paul J DaPonte"
+author: "Paul J. DaPonte"
 affilation:
 abstract:
 keywords:

@@ -7,7 +7,7 @@ volume: 4
 issue: 3
 pages:
 title: "The God Who May Be: a Hermeneutics of Religion"
-author: "Curtis L Thompson"
+author: "Curtis L. Thompson"
 affiliation:
 description:
 pdf: thompson.pdf

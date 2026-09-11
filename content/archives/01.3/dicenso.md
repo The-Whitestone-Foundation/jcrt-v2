@@ -8,7 +8,7 @@ issue: 3
 pages: 2-15
 html_fulltext: true
 title: "Splitting Religion: Heteronomy, Autonomy, and Reflection"
-author: "James J DiCenso"
+author: "James J. DiCenso"
 affiliation:
 description:
 pdf: 'dicenso.pdf'

@@ -8,7 +8,7 @@ issue: 2
 pages: 2-6
 html_fulltext: true
 title: "Diversity in the History of Religions"
-author: "Philip P Arnold"
+author: "Philip P. Arnold"
 affiliation:
 description:
 pdf: 'arnold.pdf'

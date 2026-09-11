@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ob25p
 title: 'Fetishism And The Erasure Of Identity, Part 1 (Roger Green)'
 description: "The following is the first of a two-part series. The second installment can be found here. The concept of fetishism has a special place within the long history"
 date: '2019-07-08T13:03:16.000Z'
-author: Roger K Green
+author: Roger K. Green
 image: /images/2019/07/fetiche_ewe-togo_2.webp
 categories:
   - Anthropology of Religion
