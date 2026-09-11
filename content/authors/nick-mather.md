@@ -1,6 +1,6 @@
 ---
 nanoid: "BF3DVw"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odnqmix2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxktebu2s'
 name: Nick Mather
 affiliation:
 bio:

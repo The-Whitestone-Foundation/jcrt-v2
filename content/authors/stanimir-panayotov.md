@@ -1,6 +1,6 @@
 ---
 nanoid: "potE_N"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odeiptg2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxbpwur26'
 name: Stanimir Panayotov
 affiliation: ""
 bio:

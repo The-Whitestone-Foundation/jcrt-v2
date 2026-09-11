@@ -1,6 +1,6 @@
 ---
 nanoid: "d5rbuJ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odloeon2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxirjdk2w'
 name: Paul A Kottman
 affiliation: "The New School"
 bio:

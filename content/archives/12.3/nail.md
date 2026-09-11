@@ -1,7 +1,7 @@
 ---
 nanoid: "aG6aw4"
 doi: "10.17613/c33xx-pvm87"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oc2jwgz27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvxumgc2q'
 title: "Zapatismo and the Global Origins of Occupy."
 author: "Thomas Nail"
 affilation:

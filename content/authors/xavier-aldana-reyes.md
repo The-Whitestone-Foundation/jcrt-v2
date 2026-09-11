@@ -1,6 +1,6 @@
 ---
 nanoid: "ZpEvJN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od7nkbp2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajx4eftl27'
 name: Xavier Aldana Reyes
 affiliation: "Manchester Metropolitan University"
 bio:

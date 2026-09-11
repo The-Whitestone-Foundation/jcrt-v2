@@ -1,7 +1,7 @@
 ---
 nanoid: "XzZGmJ"
 doi: "10.17613/3yt1q-6t086"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ob4u4mq2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajuzcqbe2a'
 title: "Something to Do with a Girl Named Marla: Eros and Gender in Fincher’s Fight Club."
 author: "Vernon W. Cisney"
 affilation:

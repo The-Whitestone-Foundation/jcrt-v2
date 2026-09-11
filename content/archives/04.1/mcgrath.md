@@ -1,7 +1,7 @@
 ---
 nanoid: "R8Gpgr"
 doi: "10.17613/q3qbs-0ve89"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocyat3h2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwuxcts2s'
 article_number:
 volume: 4
 issue: 1

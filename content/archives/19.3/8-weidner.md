@@ -1,7 +1,7 @@
 ---
 nanoid: "A6GNgj"
 doi: "10.17613/vce53-86a92"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oawpmkt2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajutd5qv2v'
 title: "Life After Life: a Figure of Thought in Walter Benjamin"
 author: "Daniel Weidner"
 affilation:

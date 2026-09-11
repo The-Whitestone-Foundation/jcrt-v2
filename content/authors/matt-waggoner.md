@@ -1,6 +1,6 @@
 ---
 nanoid: "Vs3ceu"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odrkekf2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxojelc2s'
 name: Matt Waggoner
 affiliation: "Albertus Magnus College"
 bio:

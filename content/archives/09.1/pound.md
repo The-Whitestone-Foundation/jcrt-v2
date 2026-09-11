@@ -1,7 +1,7 @@
 ---
 nanoid: "sbLYXK"
 doi: "10.17613/d8w7c-c9818"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ochwtvw2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwfgoxv2n'
 title: "The Assumption of Desire: Kierkegaard, Lacan, and the Trauma of the Eucharist"
 author: "Marcus Pound"
 affilation:

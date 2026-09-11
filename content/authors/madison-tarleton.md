@@ -1,6 +1,6 @@
 ---
 nanoid: "zz0Y6Z"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odua7e22s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxr4ehu2a'
 name: Madison Tarleton
 affiliation: "Uniiversity of Denver/Iliff School of Theology"
 bio:

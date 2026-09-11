@@ -1,7 +1,7 @@
 ---
 nanoid: "U9AieD"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2obbr2du2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajv66klu2a'
 title: >-
   John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part I
   (Eric Trozzo)

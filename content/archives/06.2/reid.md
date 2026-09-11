@@ -1,7 +1,7 @@
 ---
 nanoid: "VJ3MNj"
 doi: "10.17613/wwxm9-z5226"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocr5pcq2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwnuaxx2m'
 title: "Pornography, the Theory: What Utilitarianism Did to Action"
 author: "Colbey Emmerson-Reid"
 affilation:

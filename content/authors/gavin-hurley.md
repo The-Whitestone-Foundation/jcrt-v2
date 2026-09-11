@@ -1,6 +1,6 @@
 ---
 nanoid: "1wVI_L"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oebbgzu2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajy6drns2s'
 name: Gavin Hurley
 affiliation: "University of Providence"
 bio:

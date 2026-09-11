@@ -1,7 +1,7 @@
 ---
 nanoid: "OnGARJ"
 doi: "10.17613/b2dyp-mp196"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od5u75l2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajx2lik42s'
 article_number:
 volume: 1
 issue: 3

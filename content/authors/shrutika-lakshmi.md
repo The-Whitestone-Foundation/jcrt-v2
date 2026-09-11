@@ -1,6 +1,6 @@
 ---
 nanoid: "0yo9Hm"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odf4b2f2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxcbs5z26'
 name: Shrutika Lakshmi
 affiliation: "Syracuse University"
 bio: |-

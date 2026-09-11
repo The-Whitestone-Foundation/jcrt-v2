@@ -1,7 +1,7 @@
 ---
 nanoid: "0bHlxL"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ob2ekyj27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajuwtjgo2t'
 title: >-
   Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 1 (Sarah
   Pessin)

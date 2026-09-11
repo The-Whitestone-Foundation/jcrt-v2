@@ -1,7 +1,7 @@
 ---
 nanoid: "JLBPa-"
 doi: "10.17613/jzpzk-dyc88"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2occebub2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajw7prjs2q'
 title: "Robert Duncan Notebook Scans: Scan 1"
 author: "Robert Duncan"
 affilation:

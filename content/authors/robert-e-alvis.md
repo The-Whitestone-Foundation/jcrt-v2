@@ -1,6 +1,6 @@
 ---
 nanoid: "rcX-Bn"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odi4krx2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxfashv2t'
 name: Robert E Alvis
 affiliation: "Saint Meinrad School of Theology"
 bio:

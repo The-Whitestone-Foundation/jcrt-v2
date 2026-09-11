@@ -1,7 +1,7 @@
 ---
 nanoid: "CltuJc"
 doi: "10.17613/2wxzy-z5j56"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2obxebid2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvupkav2z'
 title: "Subject and Time: Jean-Luc Marion’s Alteration of Kantian Subjectivity."
 author: "Jason W. Alvis"
 affilation:

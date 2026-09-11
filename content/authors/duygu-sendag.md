@@ -1,6 +1,6 @@
 ---
 nanoid: "dujnat"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oeem34e2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajybojak2w'
 name: Duygu Sendag
 affiliation: "French Institute for Anatolian Studies"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "EZYPao"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odkdifg2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxhguae2u'
 name: Philipp Quell
 affiliation:
 bio:

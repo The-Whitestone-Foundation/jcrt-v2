@@ -1,7 +1,7 @@
 ---
 nanoid: "QepiZS"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2obhkxaw2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvekqv72m'
 title: >-
   Framing Religious Conflict and Violence – Insights from Historical
   Institutionalism, Part 2 (Vivek Swaroop Sharma)

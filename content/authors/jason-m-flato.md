@@ -1,6 +1,6 @@
 ---
 nanoid: "cUtbnL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe4vr6s2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxzux372n'
 name: Jason M Flato
 affiliation:
 bio:

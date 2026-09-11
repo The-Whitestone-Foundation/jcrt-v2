@@ -1,7 +1,7 @@
 ---
 nanoid: "HOIpb-"
 doi: "10.17613/javz0-xxd30"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od2mauw2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwxckmk2w'
 article_number:
 volume: 3
 issue: 2

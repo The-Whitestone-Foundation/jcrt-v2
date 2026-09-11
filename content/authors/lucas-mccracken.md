@@ -1,6 +1,6 @@
 ---
 nanoid: "mt4i3v"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oduwu3e2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxrvzup2m'
 name: Lucas Mccracken
 affiliation: "University of California at Santa Barbara"
 bio:

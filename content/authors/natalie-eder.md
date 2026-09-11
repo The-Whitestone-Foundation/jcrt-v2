@@ -1,6 +1,6 @@
 ---
 nanoid: "bCJEFT"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odopqvf2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxlream2s'
 name: Natalie Eder
 affiliation: Austrian Ornithological Institute
 bio:

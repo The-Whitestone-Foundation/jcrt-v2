@@ -1,7 +1,7 @@
 ---
 nanoid: "z5Q3FL"
 doi: "10.17613/r6svw-tjk34"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oc2cbce2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvxn2iu2s'
 title: "The Decontexualization of Asian Religious Practices in the Context of Globalization"
 author: "Brooke Schedneck"
 affilation:

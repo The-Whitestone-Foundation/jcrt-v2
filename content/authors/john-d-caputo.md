@@ -1,6 +1,6 @@
 ---
 nanoid: "Y2vroj"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe2ojmp2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxxnkum2u'
 name: John D Caputo
 affiliation: "Syracuse University, Villanova Unive rsity"
 bio:

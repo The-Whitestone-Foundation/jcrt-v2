@@ -1,6 +1,6 @@
 ---
 nanoid: "wkX-Wh"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odqximb2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxnxrpu2a'
 name: Mehnaz Afridi
 affiliation: "Manhattan College"
 bio:

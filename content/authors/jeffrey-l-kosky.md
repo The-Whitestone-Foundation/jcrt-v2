@@ -1,6 +1,6 @@
 ---
 nanoid: "wye7eQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe425cv26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxyz3t327'
 name: Jeffrey L Kosky
 affiliation:
 bio:

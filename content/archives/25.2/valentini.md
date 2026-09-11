@@ -1,7 +1,7 @@
 ---
 nanoid: "mbPBdj"
 doi: "10.17613/qfctz-z5x08"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oa5llah2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvaju3r4gk2w'
 layout: archives.njk
 article_number: '09'
 volume: '25'

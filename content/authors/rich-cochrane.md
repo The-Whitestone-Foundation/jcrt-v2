@@ -1,6 +1,6 @@
 ---
 nanoid: "FB2rYY"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odiygl526'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxg4fv72m'
 name: Rich Cochrane
 affiliation:
 bio:

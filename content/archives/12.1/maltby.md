@@ -1,7 +1,7 @@
 ---
 nanoid: "piz2Oy"
 doi: "10.17613/wpmp2-9w253"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oc5ktv32z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajw2wpg52t'
 title: "Kinkade, Koons, Kitsch"
 author: "Paul Maltby"
 affilation:

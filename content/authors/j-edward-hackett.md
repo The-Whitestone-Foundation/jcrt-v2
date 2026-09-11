@@ -1,6 +1,6 @@
 ---
 nanoid: "FPRLe3"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe6qry42n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajy3saz72m'
 name: J. Edward Hackett
 affiliation: "Savannah State University"
 bio:

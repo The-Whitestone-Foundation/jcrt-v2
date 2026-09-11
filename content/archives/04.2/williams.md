@@ -1,7 +1,7 @@
 ---
 nanoid: "wS_eFc"
 doi: "10.17613/297c8-95k58"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocxdvcu2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwu2vo22s'
 article_number:
 volume: 4
 issue: 2

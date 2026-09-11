@@ -1,6 +1,6 @@
 ---
 nanoid: "HQC8H1"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odg4v3m2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxdcqpx2n'
 name: Santiago Zabala
 affiliation: "ICREA Research Professor at the University of Barcelona"
 bio:

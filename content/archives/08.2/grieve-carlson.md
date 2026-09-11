@@ -1,7 +1,7 @@
 ---
 nanoid: "dqblZL"
 doi: "10.17613/6zdvq-bwh39"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocjavfg2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwgp5qc2w'
 title: "Glimmer of a New Leviathan: Total War in the Realism of Niebuhr, Morgenthau, and Waltz"
 author: "Gary Grieve-Carlson"
 affilation:

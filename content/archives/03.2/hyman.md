@@ -1,7 +1,7 @@
 ---
 nanoid: "Ph2RDi"
 doi: "10.17613/51dt5-dxh50"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od2efz526'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwx34hu2u'
 article_number:
 volume: 3
 issue: 2

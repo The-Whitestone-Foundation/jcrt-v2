@@ -1,7 +1,7 @@
 ---
 nanoid: "wwSA6B"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oauu4mv2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajuricnt2u'
 title: >-
   Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus
   As The Inauguration Of An Age Of Writing, Part 2 (Jared Lacy)

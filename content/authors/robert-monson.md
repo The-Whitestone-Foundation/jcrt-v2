@@ -1,6 +1,6 @@
 ---
 nanoid: "bXqib7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odhsera2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxewupp2m'
 name: Robert Monson
 affiliation: "University of Denver/Iliff School of Theology"
 bio:

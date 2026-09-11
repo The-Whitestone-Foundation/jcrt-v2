@@ -1,7 +1,7 @@
 ---
 nanoid: "upcnyU"
 doi: "10.17613/z99p2-1sb20"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oaebcwf26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajubfxpx2m'
 title: "Reconsidering the Significance of Biogenetic Ties"
 author: "Karey Harwood"
 affilation:

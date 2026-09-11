@@ -1,7 +1,7 @@
 ---
 nanoid: "8rYnhf"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oaqfe4m2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajunmqgc2w'
 title: >-
   Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchild And
   Devin Singh)

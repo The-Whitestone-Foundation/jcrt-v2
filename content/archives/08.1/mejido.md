@@ -1,7 +1,7 @@
 ---
 nanoid: "x8juwY"
 doi: "10.17613/krn6h-f0638"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oclurcd2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwjdbes2q'
 title: "A Reconstruction of the Theologies of Liberation: the Lacanian Correction to the Ellacurian Synthesis"
 author: "Manuel Jesús Mejido"
 affilation:

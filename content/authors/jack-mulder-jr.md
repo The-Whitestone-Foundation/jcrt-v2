@@ -1,6 +1,6 @@
 ---
 nanoid: "7WuwTa"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe6j6ru2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajy3kk752z'
 name: Jack Mulder Jr.
 affiliation: "HOPE COLLEGE"
 bio:

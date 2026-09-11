@@ -1,7 +1,7 @@
 ---
 nanoid: "DNCMs3"
 doi: "10.17613/fvzb0-jmk96"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od6gn7t2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajx35mfr26'
 article_number:
 volume: 1
 issue: 2

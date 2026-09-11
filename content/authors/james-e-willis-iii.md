@@ -1,6 +1,6 @@
 ---
 nanoid: "bc0cnU"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe5xfec2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajy2ykks2w'
 name: James E. Willis Iii
 affiliation: "University of Indiapolis"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "TdE2v8"
 doi: "10.17613/md8ds-ac773"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oczkhcn2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwwatoh2n'
 article_number: 02
 volume: 3
 issue: 3

@@ -1,7 +1,7 @@
 ---
 nanoid: "APZwKr"
 doi: "10.17613/fax6t-n9s30"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocwcrl526'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwt2ase2i'
 article_number:
 volume: 4
 issue: 3

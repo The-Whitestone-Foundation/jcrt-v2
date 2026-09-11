@@ -1,7 +1,7 @@
 ---
 nanoid: "-0on-R"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oauegby2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajuqyuk52n'
 title: >-
   Bushwhacking Derrida – “Perception” – “Context of Context”, “The Hunter And
   The Hunted” (Gary Bedford)

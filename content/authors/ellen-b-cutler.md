@@ -1,6 +1,6 @@
 ---
 nanoid: "1Xq8G4"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oedqedi2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajyarvpa2n'
 name: Ellen B. Cutler
 affiliation: "independant scholar"
 bio: |-

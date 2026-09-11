@@ -1,6 +1,6 @@
 ---
 nanoid: "dXLsuq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odxha532n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxugtp42a'
 name: Karsten Fischer
 affiliation: "Humboldt-University, Berlin "
 bio:

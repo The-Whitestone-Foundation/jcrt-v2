@@ -1,6 +1,6 @@
 ---
 nanoid: "U1pSeo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odpmudz2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxmnakk2q'
 name: Michael Purcell
 affiliation: "University of Edinburgh"
 bio:

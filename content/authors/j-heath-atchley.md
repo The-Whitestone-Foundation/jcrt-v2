@@ -1,6 +1,6 @@
 ---
 nanoid: "Bs2zwX"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe6oati2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajy3poy72m'
 name: J Heath Atchley
 affiliation: "Alfred University"
 bio:

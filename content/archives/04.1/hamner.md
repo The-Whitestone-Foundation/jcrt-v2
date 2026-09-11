@@ -1,7 +1,7 @@
 ---
 nanoid: "iFCMKU"
 doi: "10.17613/f1sss-48225"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocyo2oj2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwvey7b26'
 article_number:
 volume: 4
 issue: 1

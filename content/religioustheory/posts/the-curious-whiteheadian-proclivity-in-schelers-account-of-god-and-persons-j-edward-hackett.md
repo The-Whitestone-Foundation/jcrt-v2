@@ -1,7 +1,7 @@
 ---
 nanoid: "4UKi2w"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oavllal2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajus7cck2s'
 title: >-
   The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons,
   Part 1 (J. Edward Hackett)

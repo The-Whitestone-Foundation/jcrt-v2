@@ -1,7 +1,7 @@
 ---
 nanoid: "6zQb2r"
 doi: "10.17613/tmk3s-fhb74"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2od4kleb27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwzc5z22q'
 article_number:
 volume: 2
 issue: 2

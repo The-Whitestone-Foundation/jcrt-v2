@@ -1,7 +1,7 @@
 ---
 nanoid: "KaidK0"
 doi: "10.17613/z022h-d8t33"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2ocg4nm62q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwdmaux2m'
 title: "After God"
 author: "Lissa McCullough"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "bhyQdL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oeetnbx2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajybw2qk26'
 name: Dragan Prole
 affiliation:
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "7N-UdO"
 doi: "10.17613/phyxe-z4p97"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oc6bcdp2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajw3kwfe2a'
 title: "Desire as Disruption"
 author: "Kris Sealey"
 affilation:

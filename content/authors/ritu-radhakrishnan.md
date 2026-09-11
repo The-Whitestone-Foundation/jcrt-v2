@@ -1,6 +1,6 @@
 ---
 nanoid: "9Q7wry"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odigmhm2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxfku6k2w'
 name: Ritu Radhakrishnan
 affiliation: "State University of New York Oswego"
 bio: |-

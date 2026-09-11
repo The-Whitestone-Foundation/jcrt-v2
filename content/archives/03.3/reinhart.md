@@ -1,7 +1,7 @@
 ---
 nanoid: "ETvZ_a"
 doi: "10.17613/ft2ff-cdg84"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oczcm6l2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwvz3qz26'
 article_number:
 volume: 3
 issue: 3

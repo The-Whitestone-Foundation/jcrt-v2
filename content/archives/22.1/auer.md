@@ -1,7 +1,7 @@
 ---
 nanoid: "0VNgSf"
 doi: "10.17613/6s4zc-87r66"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oajmbqg2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajuguc5m2i'
 title: "Embodied Restoration: the Cultivation of Quality of Life and Death"
 author: "Stella Indira Auer"
 affilation:

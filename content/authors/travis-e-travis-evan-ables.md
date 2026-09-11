@@ -1,6 +1,6 @@
 ---
 nanoid: "lnwaEo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odbsgl52t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajx6iy3s2s'
 name: Travis E (Travis Evan) Ables
 affiliation: "Vanderbilt University"
 bio:

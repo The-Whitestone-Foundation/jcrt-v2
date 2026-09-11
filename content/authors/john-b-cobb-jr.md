@@ -1,6 +1,6 @@
 ---
 nanoid: "qD1xJ2"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2oe2w7bn2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxxv2hq2n'
 name: John B. Cobb Jr.
 affiliation: "Claremont School of Theology"
 bio:

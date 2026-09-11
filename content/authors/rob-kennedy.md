@@ -1,6 +1,6 @@
 ---
 nanoid: "nmMVjl"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2odie45i2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxfid742a'
 name: Rob Kennedy
 affiliation:
 bio:

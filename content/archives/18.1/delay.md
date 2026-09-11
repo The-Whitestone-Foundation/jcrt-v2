@@ -1,7 +1,7 @@
 ---
 nanoid: "kp4Lx0"
 doi: "10.17613/957p6-8cd02"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mv2obdebqy2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajv7raqv2n'
 title: "Plundering a Theory of Trauma - Confessions of a Novice Author on Lacan and Theology."
 author: "Tad Delay"
 affilation:
