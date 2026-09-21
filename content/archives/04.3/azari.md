@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtw4
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 27-41
 title: "Georges Bataille: a Theoretical Resource for Scientific Investigation of Religious Experience"
 author: "Nina P. Azari"
 affiliation:

@@ -25,7 +25,7 @@ volume: 21
 issue: 3
 season: fall
 year: 2022
-pages:
+pages: 422-425
 subjects:
   - label: 'Deconstruction'
     scheme: 'FAST'

@@ -31,7 +31,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 82-99
 subjects:
   - label: "Biographies"
     scheme: "FAST"

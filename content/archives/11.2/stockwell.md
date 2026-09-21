@@ -28,7 +28,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 151-170
 subjects:
   - label: "Faith"
     scheme: "FAST"

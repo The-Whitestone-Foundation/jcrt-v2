@@ -19,7 +19,7 @@ volume: 14
 issue: 2
 season: spring
 year: 2015
-pages:
+pages: 225-240
 subjects:
   - label: "Ethics"
     scheme: "FAST"

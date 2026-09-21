@@ -28,7 +28,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 84-105
 subjects:
   - label: "Binary principle (Linguistics)"
     scheme: "FAST"

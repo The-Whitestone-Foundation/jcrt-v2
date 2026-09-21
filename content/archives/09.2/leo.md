@@ -25,7 +25,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 76-83
 subjects:
   - label: 'Civilization, Modern'
     scheme: 'FAST'

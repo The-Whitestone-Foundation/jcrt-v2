@@ -22,7 +22,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 115-123
 subjects:
   - label: "Antisemitism"
     scheme: "FAST"

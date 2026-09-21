@@ -27,7 +27,7 @@ volume: 11
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 35-51
 subjects:
   - label: "Bible. Epistles of Paul"
     scheme: "FAST"

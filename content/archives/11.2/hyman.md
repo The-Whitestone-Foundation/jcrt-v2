@@ -25,7 +25,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 240-254
 subjects:
   - label: 'Anglican Communion'
     scheme: 'FAST'

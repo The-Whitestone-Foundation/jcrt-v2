@@ -23,7 +23,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 91-95
 subjects:
   - label: 'Deconstruction'
     scheme: 'FAST'

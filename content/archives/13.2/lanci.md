@@ -18,7 +18,7 @@ volume: 13
 issue: 2
 season: summer
 year: 2014
-pages:
+pages: 25-37
 subjects:
   - label: "Zombies"
     scheme: "FAST"

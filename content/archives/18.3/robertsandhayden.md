@@ -25,7 +25,7 @@ volume: 18
 issue: 3
 season: fall
 year: 2019
-pages:
+pages: 536-550
 subjects:
   - label: 'Deconstruction'
     scheme: 'FAST'

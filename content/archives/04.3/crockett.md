@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtr2
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 1-8
 title: "Piety, Power and Bare Life: What in the World Is Going on in the Name of Religion?"
 author: "Clayton Crockett"
 affiliation:

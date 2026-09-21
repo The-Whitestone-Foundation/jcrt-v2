@@ -25,7 +25,7 @@ volume: 18
 issue: 2
 season: spring
 year: 2019
-pages:
+pages: 175-192
 subjects:
   - label: 'Animism'
     scheme: 'FAST'

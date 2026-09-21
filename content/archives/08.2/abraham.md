@@ -28,7 +28,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 28-40
 subjects:
   - label: "Intellectual life"
     scheme: "FAST"

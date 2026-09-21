@@ -25,7 +25,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 84-87
 subjects:
   - label: 'Heresy'
     scheme: 'FAST'

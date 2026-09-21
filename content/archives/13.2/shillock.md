@@ -19,7 +19,7 @@ volume: 13
 issue: 2
 season: summer
 year: 2014
-pages:
+pages: 111-122
 subjects:
   - label: "Walking dead (Kirkman, Robert)"
     scheme: "FAST"

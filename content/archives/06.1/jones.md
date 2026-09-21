@@ -37,7 +37,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 86-107
 subjects:
   - label: "Friedrich, Wilhelm"
     scheme: "FAST"

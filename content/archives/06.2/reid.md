@@ -24,7 +24,7 @@ volume: 6
 issue: 2
 season: spring
 year: 2005
-pages:
+pages: 109-116
 subjects:
   - label: 'Action theory'
     scheme: 'FAST'

@@ -29,7 +29,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 22-25
 subjects:
   - label: "Political science Philosophy"
     scheme: "FAST"

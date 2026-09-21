@@ -21,7 +21,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 130-138
 subjects:
   - label: "Arab-Israeli conflict"
     scheme: "FAST"

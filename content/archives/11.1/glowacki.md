@@ -32,7 +32,7 @@ volume: 11
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 78-91
 subjects:
   - label: "Autonomy"
     scheme: "FAST"

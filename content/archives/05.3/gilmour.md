@@ -25,7 +25,7 @@ volume: 5
 issue: 3
 season: summer
 year: 2004
-pages:
+pages: 70-72
 subjects:
   - label: 'Counterculture'
     scheme: 'FAST'

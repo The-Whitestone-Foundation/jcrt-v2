@@ -27,7 +27,7 @@ volume: 10
 issue: 2
 season: spring
 year: 2010
-pages:
+pages: 99-116
 subjects:
   - label: "1939-1945"
     scheme: "FAST"

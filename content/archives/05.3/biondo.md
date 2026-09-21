@@ -25,7 +25,7 @@ volume: 5
 issue: 3
 season: summer
 year: 2004
-pages:
+pages: 58-60
 subjects:
   - label: 'Civilization, Modern'
     scheme: 'FAST'

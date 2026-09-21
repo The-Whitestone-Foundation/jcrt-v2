@@ -17,7 +17,7 @@ volume: 14
 issue: 1
 season: fall
 year: 2014
-pages:
+pages: 84-103
 subjects:
   - label: "Miracles"
     scheme: "FAST"

@@ -20,7 +20,7 @@ volume: 6
 issue: 2
 season: spring
 year: 2005
-pages:
+pages: 27-38
 subjects:
   - label: "Culture Philosophy"
     scheme: "FAST"

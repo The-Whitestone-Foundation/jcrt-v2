@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwt2a
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 100-107
 title: "The God Who May Be: a Hermeneutics of Religion"
 author: "Curtis L. Thompson"
 affiliation:

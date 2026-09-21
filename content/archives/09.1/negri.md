@@ -23,7 +23,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 96-100
 subjects:
   - label: "Economics History"
     scheme: "FAST"

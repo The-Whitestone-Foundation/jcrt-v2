@@ -25,7 +25,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 65-85
 subjects:
   - label: "Death"
     scheme: "FAST"

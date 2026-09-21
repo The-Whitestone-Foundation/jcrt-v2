@@ -26,7 +26,7 @@ volume: 12
 issue: 2
 season: fall
 year: 2012
-pages:
+pages: 215-227
 subjects:
   - label: "Education Experimental methods"
     scheme: "FAST"

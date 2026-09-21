@@ -27,7 +27,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 70-77
 subjects:
   - label: 'Happiness'
     scheme: 'FAST'

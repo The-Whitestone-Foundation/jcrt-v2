@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwt7d
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 118-121
 title: "World and Life as One: Ethics and Ontology in Wittgenstein’s Early Thought"
 author: "Andrew Saldino"
 affiliation:

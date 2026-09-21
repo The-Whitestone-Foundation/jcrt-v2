@@ -24,7 +24,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 129-132
 subjects:
   - label: 'Asceticism'
     scheme: 'FAST'

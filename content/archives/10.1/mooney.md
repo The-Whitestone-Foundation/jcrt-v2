@@ -30,7 +30,7 @@ volume: 10
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 42-62
 subjects:
   - label: "Aesthetics"
     scheme: "FAST"

@@ -28,7 +28,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 104-121
 subjects:
   - label: "Fear"
     scheme: "FAST"

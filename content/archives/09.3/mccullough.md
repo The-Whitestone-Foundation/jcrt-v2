@@ -27,7 +27,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 97-109
 subjects:
   - label: 'Death of God theology'
     scheme: 'FAST'

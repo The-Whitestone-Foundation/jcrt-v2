@@ -45,7 +45,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 7-23
 subjects:
   - label: "Death of God theology"
     scheme: "FAST"

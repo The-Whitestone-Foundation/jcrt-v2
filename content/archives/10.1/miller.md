@@ -25,7 +25,7 @@ volume: 10
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 118-123
 subjects:
   - label: 'Death of God theology'
     scheme: 'FAST'

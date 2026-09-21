@@ -17,7 +17,7 @@ volume: 16
 issue: 1
 season: winter
 year: 2016
-pages:
+pages: 58-73
 subjects:
   - label: "Art"
     scheme: "FAST"

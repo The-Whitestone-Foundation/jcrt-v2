@@ -23,7 +23,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 1-17
 subjects:
   - label: "Art and religion"
     scheme: "FAST"

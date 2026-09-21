@@ -24,7 +24,7 @@ volume: 8
 issue: 1
 season: winter
 year: 2006
-pages:
+pages: 128-135
 subjects:
   - label: 'Aesthetics'
     scheme: 'FAST'

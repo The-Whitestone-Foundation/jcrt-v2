@@ -33,7 +33,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 53-81
 subjects:
   - label: "Aesthetics"
     scheme: "FAST"

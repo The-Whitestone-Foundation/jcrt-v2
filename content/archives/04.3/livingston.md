@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtok
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 58-65
 title: "Religious Pluralism and the Question of Religious Truth in Wilfred C. Smith"
 author: "James C. (James Craig) Livingston"
 affiliation:

@@ -35,7 +35,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 37-43
 subjects:
   - label: "Art"
     scheme: "FAST"

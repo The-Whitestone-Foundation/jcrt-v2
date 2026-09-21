@@ -25,7 +25,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 189-193
 subjects:
   - label: 'Balance of power'
     scheme: 'FAST'

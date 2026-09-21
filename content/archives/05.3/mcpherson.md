@@ -26,7 +26,7 @@ volume: 5
 issue: 3
 season: summer
 year: 2004
-pages:
+pages: 22-30
 subjects:
   - label: "Friedrich, Wilhelm"
     scheme: "FAST"

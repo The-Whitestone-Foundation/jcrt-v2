@@ -23,7 +23,7 @@ volume: 8
 issue: 1
 season: winter
 year: 2006
-pages:
+pages: 10-36
 subjects:
   - label: 'Liberation theology'
     scheme: 'FAST'

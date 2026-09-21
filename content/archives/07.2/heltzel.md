@@ -23,7 +23,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 96-101
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

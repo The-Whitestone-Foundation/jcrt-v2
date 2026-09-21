@@ -28,7 +28,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 7-18
 subjects:
   - label: "Life"
     scheme: "FAST"

@@ -23,7 +23,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 146-148
 subjects:
   - label: 'Deception'
     scheme: 'FAST'

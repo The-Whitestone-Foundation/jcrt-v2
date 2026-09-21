@@ -32,7 +32,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 50-67
 subjects:
   - label: "Capitalism"
     scheme: "FAST"

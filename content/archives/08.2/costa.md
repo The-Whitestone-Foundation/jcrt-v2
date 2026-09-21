@@ -27,7 +27,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 41-54
 subjects:
   - label: "Christianity and politics"
     scheme: "FAST"

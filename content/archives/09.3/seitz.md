@@ -25,7 +25,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 41-44
 subjects:
   - label: 'Civilization, Modern'
     scheme: 'FAST'

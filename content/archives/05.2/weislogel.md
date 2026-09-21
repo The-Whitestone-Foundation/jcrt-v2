@@ -26,7 +26,7 @@ volume: 5
 issue: 2
 season: spring
 year: 2004
-pages:
+pages: 129-133
 subjects:
   - label: 'Cabala'
     scheme: 'FAST'

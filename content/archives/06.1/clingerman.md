@@ -24,7 +24,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 133-138
 subjects:
   - label: 'Aesthetics'
     scheme: 'FAST'

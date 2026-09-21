@@ -25,7 +25,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 139-143
 subjects:
   - label: 'Civilization, Modern'
     scheme: 'FAST'

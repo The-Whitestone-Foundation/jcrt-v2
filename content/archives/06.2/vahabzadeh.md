@@ -25,7 +25,7 @@ volume: 6
 issue: 2
 season: spring
 year: 2005
-pages:
+pages: 117-129
 subjects:
   - label: 'Civil rights'
     scheme: 'FAST'

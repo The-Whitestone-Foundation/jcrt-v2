@@ -33,7 +33,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 45-64
 subjects:
   - label: "Critical theory"
     scheme: "FAST"

@@ -27,7 +27,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 18-32
 subjects:
   - label: "Pain"
     scheme: "FAST"

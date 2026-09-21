@@ -15,7 +15,7 @@ volume: 14
 issue: 1
 season: fall
 year: 2014
-pages:
+pages: 123-142
 subjects:
   - label: "Secularism"
     scheme: "FAST"

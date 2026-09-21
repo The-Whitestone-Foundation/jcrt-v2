@@ -18,7 +18,7 @@ volume: 12
 issue: 3
 season: spring
 year: 2013
-pages:
+pages: 169-185
 subjects:
   - label: "Christianity"
     scheme: "FAST"

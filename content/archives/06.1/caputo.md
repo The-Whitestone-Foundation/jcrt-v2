@@ -17,7 +17,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 6-9
 subjects:
   - label: "Obituaries"
     scheme: "FAST"

@@ -33,7 +33,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 14-29
 subjects:
   - label: "Ontology"
     scheme: "FAST"

@@ -26,7 +26,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 17-29
 subjects:
   - label: "Buddhism and philosophy"
     scheme: "FAST"

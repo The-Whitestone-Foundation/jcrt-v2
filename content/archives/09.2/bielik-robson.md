@@ -28,7 +28,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 59-75
 subjects:
   - label: "Continental philosophy"
     scheme: "FAST"

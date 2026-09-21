@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtbw
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 81-88
 title: "Indian Philosophers and Postmodern Thinkers"
 author: "Bryan S. Rennie"
 affiliation:

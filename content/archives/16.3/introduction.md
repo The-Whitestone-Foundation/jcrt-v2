@@ -25,7 +25,7 @@ volume: 16
 issue: 3
 season: fall
 year: 2017
-pages:
+pages: 260-270
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

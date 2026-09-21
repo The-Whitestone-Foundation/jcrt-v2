@@ -23,7 +23,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 114-118
 subjects:
   - label: 'Anthropology'
     scheme: 'FAST'

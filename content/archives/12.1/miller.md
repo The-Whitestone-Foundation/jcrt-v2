@@ -30,7 +30,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 11-16
 subjects:
   - label: "Politics and government"
     scheme: "FAST"

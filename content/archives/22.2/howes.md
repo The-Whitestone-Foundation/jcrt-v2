@@ -21,6 +21,7 @@ keywords:
 pdf: Howes.pdf
 sort_id: 04
 year: 2023
+pages: 207-230
 subjects:
   - label: 'Atheism'
     scheme: 'FAST'

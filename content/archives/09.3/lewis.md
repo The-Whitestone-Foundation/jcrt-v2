@@ -25,7 +25,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 89-92
 subjects:
   - label: 'Comic books, strips, etc.'
     scheme: 'FAST'

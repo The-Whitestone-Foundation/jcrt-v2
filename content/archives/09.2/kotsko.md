@@ -38,7 +38,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 43-52
 subjects:
   - label: "Bible. Job"
     scheme: "FAST"

@@ -24,7 +24,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 93-96
 subjects:
   - label: 'Church and state'
     scheme: 'FAST'

@@ -22,7 +22,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 65-74
 subjects:
   - label: 'Faith and reason'
     scheme: 'FAST'

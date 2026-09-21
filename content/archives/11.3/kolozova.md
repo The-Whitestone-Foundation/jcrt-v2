@@ -23,7 +23,7 @@ volume: 11
 issue: 3
 season: fall
 year: 2011
-pages:
+pages: 59-64
 subjects:
   - label: "Alienation (Philosophy)"
     scheme: "FAST"

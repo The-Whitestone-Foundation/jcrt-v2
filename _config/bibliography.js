@@ -26,6 +26,10 @@ export function parsePageRange(value) {
   const match = String(value ?? '').trim().match(/^(\d+|[ivxlcdm]+)(?:\s*[-–—]\s*(\d+|[ivxlcdm]+))?$/i);
   return match ? { start: match[1], end: match[2] || match[1] } : { start: '', end: '' };
 }
+// Front matter keeps keywords as URL slugs (jacques-derrida); citation_keywords/dc:subject want words.
+// ponytail: prefix list guards real hyphens (post-secular, ek-sistence); extend it when one slips through.
+const HYPHEN_PREFIX = /^(?:a|anti|co|counter|de|ek|ex|inter|intra|meta|multi|neo|non|post|pre|proto|pseudo|quasi|re|self|semi|sub|super|trans|un)$/i;
+export const unslugKeyword = k => k.replace(/(\w+)-/g, (m, w) => HYPHEN_PREFIX.test(w) ? m : `${w} `);
 const list = value => (Array.isArray(value) ? value : String(value || '').split(/[,;]/)).map(plain).filter(Boolean);
 const absolute = (value, base) => value ? new URL(value, base).href : '';
 
@@ -47,7 +51,8 @@ export function makeRecord(data, issueData, context) {
   const pdfBase = archive ? absolute(url, filesUrl) : `${filesUrl}/religioustheory/`;
   const pdfUrl = pdf ? absolute(pdf, archive ? pdfBase.replace(/[^/]+\/$/, '') : pdfBase) : '';
   const keywords = [...new Set([...list(data.keywords), ...(!archive ? [...list(data.tags), ...list(data.categories)] : [])])]
-    .filter(k => !['theoryposts', 'archives', 'posts', 'nav', 'all', 'authors'].includes(k.toLowerCase()));
+    .filter(k => !['theoryposts', 'archives', 'posts', 'nav', 'all', 'authors'].includes(k.toLowerCase()))
+    .map(unslugKeyword);
   return { url: absolute(url, baseUrl), path: url, archive, article: true, title: plain(data.title), creators,
     publication: archive ? JOURNAL : 'JCRT - Religious Theory Blog', publisher: 'Whitestone Publications',
     issn: archive ? ISSN : plain(data.issn), volume, issue, publicationDate, coverDate,

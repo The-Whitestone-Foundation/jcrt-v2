@@ -41,7 +41,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 171-198
 subjects:
   - label: "Civilization"
     scheme: "FAST"

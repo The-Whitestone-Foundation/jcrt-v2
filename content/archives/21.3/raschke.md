@@ -20,7 +20,7 @@ volume: 21
 issue: 3
 season: fall
 year: 2022
-pages:
+pages: 329-347
 subjects:
   - label: 'Religion'
     scheme: 'FAST'

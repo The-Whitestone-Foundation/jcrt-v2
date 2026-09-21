@@ -33,7 +33,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 55-82
 subjects:
   - label: "Civilization"
     scheme: "FAST"

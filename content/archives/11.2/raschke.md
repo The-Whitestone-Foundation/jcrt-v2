@@ -35,7 +35,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 13-20
 subjects:
   - label: "Death of God theology"
     scheme: "FAST"

@@ -25,7 +25,7 @@ volume: 13
 issue: 1
 season: winter
 year: 2014
-pages:
+pages: 81-100
 subjects:
   - label: 'Biopolitics'
     scheme: 'FAST'

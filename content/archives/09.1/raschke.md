@@ -22,7 +22,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 101-111
 subjects:
   - label: "Civilization"
     scheme: "FAST"

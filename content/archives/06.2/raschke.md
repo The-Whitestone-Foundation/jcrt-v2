@@ -26,7 +26,7 @@ volume: 6
 issue: 2
 season: spring
 year: 2005
-pages:
+pages: 1-16
 subjects:
   - label: "Exchange theory (Sociology)"
     scheme: "FAST"

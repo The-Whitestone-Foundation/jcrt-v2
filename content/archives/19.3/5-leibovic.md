@@ -25,7 +25,7 @@ volume: 19
 issue: 3
 season: fall
 year: 2020
-pages:
+pages: 428-435
 subjects:
   - label: 'Biopolitics'
     scheme: 'FAST'

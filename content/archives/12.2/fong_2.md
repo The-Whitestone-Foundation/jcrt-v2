@@ -25,7 +25,7 @@ volume: 12
 issue: 2
 season: fall
 year: 2012
-pages:
+pages: 240-242
 subjects:
   - label: "Culture Philosophy"
     scheme: "FAST"

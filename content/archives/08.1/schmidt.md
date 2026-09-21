@@ -26,7 +26,7 @@ volume: 8
 issue: 1
 season: winter
 year: 2006
-pages:
+pages: 58-71
 subjects:
   - label: "Anonyms and pseudonyms"
     scheme: "FAST"

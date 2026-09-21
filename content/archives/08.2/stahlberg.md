@@ -26,7 +26,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 200-205
 subjects:
   - label: 'Democracy'
     scheme: 'FAST'

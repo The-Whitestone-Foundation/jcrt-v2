@@ -24,7 +24,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 214-217
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

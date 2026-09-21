@@ -20,7 +20,7 @@ volume: 10
 issue: 2
 season: spring
 year: 2010
-pages:
+pages: 6-13
 subjects:
   - label: "Poetry"
     scheme: "FAST"

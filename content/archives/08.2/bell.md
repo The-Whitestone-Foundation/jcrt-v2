@@ -30,7 +30,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 55-80
 subjects:
   - label: "Civil society"
     scheme: "FAST"

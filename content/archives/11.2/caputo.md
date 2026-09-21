@@ -51,7 +51,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 32-124
 subjects:
   - label: "Aesthetics"
     scheme: "FAST"

@@ -31,7 +31,7 @@ volume: 10
 issue: 3
 season: summer
 year: 2010
-pages:
+pages: 54-63
 subjects:
   - label: "Ambiguity"
     scheme: "FAST"

@@ -23,7 +23,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 105-108
 subjects:
   - label: "Ideology"
     scheme: "FAST"

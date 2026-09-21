@@ -29,7 +29,7 @@ volume: 10
 issue: 2
 season: spring
 year: 2010
-pages:
+pages: 35-48
 subjects:
   - label: "Civilization"
     scheme: "FAST"

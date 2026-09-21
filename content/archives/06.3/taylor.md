@@ -22,7 +22,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 1-6
 subjects:
   - label: "Language and languages Philosophy"
     scheme: "FAST"

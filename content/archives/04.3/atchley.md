@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtyk
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 108-112
 title: "Sensible Ecstasy: Mysticism, Sexual Difference, and the Demands of History"
 author: "J. Heath Atchley"
 affiliation:

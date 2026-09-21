@@ -28,7 +28,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 17-21
 subjects:
   - label: "Anxiety"
     scheme: "FAST"

@@ -16,7 +16,7 @@ volume: 14
 issue: 1
 season: fall
 year: 2014
-pages:
+pages: 104-122
 subjects:
   - label: 'Religion'
     scheme: 'FAST'

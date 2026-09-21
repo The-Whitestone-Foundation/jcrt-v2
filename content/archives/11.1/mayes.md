@@ -45,7 +45,7 @@ volume: 11
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 111-126
 subjects:
   - label: "Bible. John"
     scheme: "FAST"

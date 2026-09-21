@@ -25,7 +25,7 @@ volume: 21
 issue: 3
 season: fall
 year: 2022
-pages:
+pages: 448-450
 subjects:
   - label: 'Biopolitics'
     scheme: 'FAST'

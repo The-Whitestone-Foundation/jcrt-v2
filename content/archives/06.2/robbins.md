@@ -24,7 +24,7 @@ volume: 6
 issue: 2
 season: spring
 year: 2005
-pages:
+pages: 89-94
 subjects:
   - label: "Christianity and politics"
     scheme: "FAST"

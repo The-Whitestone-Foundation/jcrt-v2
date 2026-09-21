@@ -22,7 +22,7 @@ volume: 14
 issue: 2
 season: spring
 year: 2015
-pages:
+pages: 350-376
 subjects:
   - label: "Philosophers"
     scheme: "FAST"

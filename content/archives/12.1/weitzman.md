@@ -29,7 +29,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 31-36
 subjects:
   - label: "Comedy"
     scheme: "FAST"

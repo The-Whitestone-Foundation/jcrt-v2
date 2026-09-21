@@ -25,7 +25,7 @@ volume: 13
 issue: 2
 season: summer
 year: 2014
-pages:
+pages: 132-137
 subjects:
   - label: 'Evangelicalism'
     scheme: 'FAST'

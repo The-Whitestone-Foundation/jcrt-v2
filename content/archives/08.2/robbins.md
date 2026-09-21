@@ -22,7 +22,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 1-7
 subjects:
   - label: "Civil rights"
     scheme: "FAST"

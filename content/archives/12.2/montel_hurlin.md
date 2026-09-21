@@ -26,7 +26,7 @@ volume: 12
 issue: 2
 season: fall
 year: 2012
-pages:
+pages: 228-239
 subjects:
   - label: "Christianity"
     scheme: "FAST"

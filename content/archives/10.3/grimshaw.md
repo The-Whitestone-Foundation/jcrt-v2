@@ -40,7 +40,7 @@ volume: 10
 issue: 3
 season: summer
 year: 2010
-pages:
+pages: 104-121
 subjects:
   - label: "Civilization, Modern"
     scheme: "FAST"

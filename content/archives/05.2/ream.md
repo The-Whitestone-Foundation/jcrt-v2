@@ -25,7 +25,7 @@ volume: 5
 issue: 2
 season: spring
 year: 2004
-pages:
+pages: 123-128
 subjects:
   - label: 'Civilization, Modern'
     scheme: 'FAST'

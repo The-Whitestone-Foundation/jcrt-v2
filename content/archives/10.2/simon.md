@@ -25,7 +25,7 @@ volume: 10
 issue: 2
 season: spring
 year: 2010
-pages:
+pages: 14-34
 subjects:
   - label: "British Museum"
     scheme: "FAST"

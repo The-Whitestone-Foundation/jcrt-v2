@@ -23,7 +23,7 @@ volume: 14
 issue: 2
 season: spring
 year: 2015
-pages:
+pages: 266-277
 subjects:
   - label: "Critical thinking"
     scheme: "FAST"

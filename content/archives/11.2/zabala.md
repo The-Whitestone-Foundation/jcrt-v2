@@ -25,7 +25,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 238-239
 subjects:
   - label: 'Atheism'
     scheme: 'FAST'

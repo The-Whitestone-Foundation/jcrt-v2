@@ -26,7 +26,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 30-41
 subjects:
   - label: "Concepts"
     scheme: "FAST"

@@ -21,6 +21,7 @@ keywords:
   - mysticism
 pdf: scans.pdf
 year: 2010
+pages: 6-9
 subjects:
   - label: 'American poetry'
     scheme: 'FAST'

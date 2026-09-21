@@ -26,7 +26,7 @@ volume: 18
 issue: 3
 season: fall
 year: 2019
-pages:
+pages: 508-525
 subjects:
   - label: 'Desire'
     scheme: 'FAST'

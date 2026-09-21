@@ -29,7 +29,7 @@ volume: 12
 issue: 2
 season: fall
 year: 2012
-pages:
+pages: 106-121
 subjects:
   - label: "Asceticism Christianity"
     scheme: "FAST"

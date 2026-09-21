@@ -25,7 +25,7 @@ volume: 16
 issue: 1
 season: winter
 year: 2016
-pages:
+pages: 74-83
 subjects:
   - label: 'Comic books, strips, etc.'
     scheme: 'FAST'

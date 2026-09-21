@@ -23,7 +23,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 34-46
 subjects:
   - label: "Children"
     scheme: "FAST"

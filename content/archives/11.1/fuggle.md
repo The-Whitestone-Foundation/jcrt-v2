@@ -24,7 +24,7 @@ volume: 11
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 159-171
 subjects:
   - label: "Christianity"
     scheme: "FAST"

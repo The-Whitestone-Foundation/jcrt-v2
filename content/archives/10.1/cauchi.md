@@ -30,7 +30,7 @@ volume: 10
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 1-25
 subjects:
   - label: "Abrahamic religions"
     scheme: "FAST"

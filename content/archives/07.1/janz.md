@@ -25,7 +25,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 103-114
 subjects:
   - label: 'Death'
     scheme: 'FAST'

@@ -30,7 +30,7 @@ volume: 8
 issue: 3
 season: fall
 year: 2007
-pages:
+pages: 67-82
 subjects:
   - label: "Christian converts from Judaism"
     scheme: "FAST"

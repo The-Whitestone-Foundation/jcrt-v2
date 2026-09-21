@@ -23,6 +23,7 @@ keywords:
 pdf: Byng.pdf
 sort_id: 02
 year: 2023
+pages: 169-185
 subjects:
   - label: 'God'
     scheme: 'FAST'

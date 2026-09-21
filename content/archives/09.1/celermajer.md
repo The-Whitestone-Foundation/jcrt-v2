@@ -26,7 +26,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 14-34
 subjects:
   - label: "Interpersonal relations"
     scheme: "FAST"

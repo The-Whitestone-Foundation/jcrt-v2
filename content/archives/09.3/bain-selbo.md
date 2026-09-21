@@ -26,7 +26,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 1-6
 subjects:
   - label: 'Ethics'
     scheme: 'FAST'

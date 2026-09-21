@@ -23,7 +23,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 96-104
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

@@ -26,7 +26,7 @@ volume: 8
 issue: 1
 season: winter
 year: 2006
-pages:
+pages: 157-162
 subjects:
   - label: 'Critical theory'
     scheme: 'FAST'

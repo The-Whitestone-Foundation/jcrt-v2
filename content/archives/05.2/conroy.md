@@ -27,7 +27,7 @@ volume: 5
 issue: 2
 season: spring
 year: 2004
-pages:
+pages: 143-146
 subjects:
   - label: 'Critical theory'
     scheme: 'FAST'

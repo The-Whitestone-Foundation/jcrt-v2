@@ -21,7 +21,7 @@ volume: 5
 issue: 2
 season: spring
 year: 2004
-pages:
+pages: 58-77
 subjects:
   - label: "Postmodernism"
     scheme: "FAST"

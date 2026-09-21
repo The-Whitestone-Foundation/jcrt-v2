@@ -26,7 +26,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 35-49
 subjects:
   - label: "Friedrich, Wilhelm"
     scheme: "FAST"

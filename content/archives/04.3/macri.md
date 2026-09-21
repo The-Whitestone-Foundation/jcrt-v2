@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtjh
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 113-114
 title: "I Am the Truth: Toward a Philosophy of Christianity"
 author: "Anthony L. Macri"
 affiliation:

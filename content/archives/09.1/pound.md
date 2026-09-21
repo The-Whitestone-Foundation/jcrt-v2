@@ -30,7 +30,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 67-78
 subjects:
   - label: "Christianity"
     scheme: "FAST"

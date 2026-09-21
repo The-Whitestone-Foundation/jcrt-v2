@@ -21,7 +21,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 1-13
 subjects:
   - label: "Continental philosophy"
     scheme: "FAST"

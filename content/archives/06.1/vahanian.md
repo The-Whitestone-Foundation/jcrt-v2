@@ -26,7 +26,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 116-121
 subjects:
   - label: 'Antisemitism'
     scheme: 'FAST'

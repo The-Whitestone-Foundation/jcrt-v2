@@ -25,7 +25,7 @@ volume: 8
 issue: 1
 season: winter
 year: 2006
-pages:
+pages: 150-156
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

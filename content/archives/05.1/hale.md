@@ -40,7 +40,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 34-57
 subjects:
   - label: "Difference (Philosophy)"
     scheme: "FAST"

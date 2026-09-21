@@ -30,7 +30,7 @@ volume: 10
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 7-23
 subjects:
   - label: "Antigone (Greek mythology) in literature"
     scheme: "FAST"

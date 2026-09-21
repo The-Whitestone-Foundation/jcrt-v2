@@ -27,7 +27,7 @@ volume: 10
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 102-117
 subjects:
   - label: "Civilization, Modern"
     scheme: "FAST"

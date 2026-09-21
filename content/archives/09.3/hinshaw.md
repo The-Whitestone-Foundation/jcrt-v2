@@ -25,7 +25,7 @@ volume: 9
 issue: 3
 season: fall
 year: 2008
-pages:
+pages: 18-21
 subjects:
   - label: 'Cooperation'
     scheme: 'FAST'

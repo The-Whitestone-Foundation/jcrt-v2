@@ -25,7 +25,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 24-29
 subjects:
   - label: "Criticism"
     scheme: "FAST"

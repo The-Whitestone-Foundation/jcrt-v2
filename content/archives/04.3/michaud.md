@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtgv
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 115-117
 title: "The Face of the Deep: a Theology of Becoming"
 author: "Derek Michaud"
 affiliation:

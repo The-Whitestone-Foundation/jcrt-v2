@@ -31,7 +31,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 1-8
 subjects:
   - label: "Aphorisms"
     scheme: "FAST"

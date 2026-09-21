@@ -29,7 +29,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 1-9
 subjects:
   - label: "Consciousness"
     scheme: "FAST"

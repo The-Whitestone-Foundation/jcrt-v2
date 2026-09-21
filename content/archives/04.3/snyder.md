@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwt4s
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 89-99
 title: "The Predicament of Postmodern Theology: Radical Orthodoxy or Nihilist Textualism?"
 author: "G. Chad Snyder"
 affiliation:

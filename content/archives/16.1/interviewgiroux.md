@@ -25,7 +25,7 @@ volume: 16
 issue: 1
 season: winter
 year: 2016
-pages:
+pages: 84-88
 subjects:
   - label: 'Critical pedagogy'
     scheme: 'FAST'

@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtef
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 75-80
 title: "Varieties of Religion Today: William James Revisited"
 author: "Todd Ream"
 affiliation:

@@ -27,7 +27,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 144-148
 subjects:
   - label: 'Christology'
     scheme: 'FAST'

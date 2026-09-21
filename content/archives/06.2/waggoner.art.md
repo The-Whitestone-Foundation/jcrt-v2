@@ -27,7 +27,7 @@ volume: 6
 issue: 2
 season: spring
 year: 2005
-pages:
+pages: 63-83
 subjects:
   - label: 'Frankfurt school of sociology'
     scheme: 'FAST'

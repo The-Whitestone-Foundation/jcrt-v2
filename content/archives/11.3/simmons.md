@@ -33,7 +33,7 @@ volume: 11
 issue: 3
 season: fall
 year: 2011
-pages:
+pages: 37-45
 subjects:
   - label: "Desire"
     scheme: "FAST"

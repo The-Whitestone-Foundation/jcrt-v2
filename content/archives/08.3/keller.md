@@ -24,7 +24,7 @@ volume: 8
 issue: 3
 season: fall
 year: 2007
-pages:
+pages: 105-116
 subjects:
   - label: "Authoritarianism"
     scheme: "FAST"

@@ -22,7 +22,7 @@ volume: 12
 issue: 2
 season: fall
 year: 2012
-pages:
+pages: 187-195
 subjects:
   - label: "Difference (Philosophy)"
     scheme: "FAST"

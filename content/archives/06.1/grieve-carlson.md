@@ -25,7 +25,7 @@ volume: 6
 issue: 1
 season: winter
 year: 2004
-pages:
+pages: 108-115
 subjects:
   - label: 'Fascism'
     scheme: 'FAST'

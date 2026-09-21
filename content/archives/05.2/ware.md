@@ -24,7 +24,7 @@ volume: 5
 issue: 2
 season: spring
 year: 2004
-pages:
+pages: 99-114
 subjects:
   - label: "Events (Philosophy)"
     scheme: "FAST"

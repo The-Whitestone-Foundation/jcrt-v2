@@ -33,7 +33,7 @@ volume: 5
 issue: 1
 season: winter
 year: 2003
-pages:
+pages: 58-83
 subjects:
   - label: "Antisemitism"
     scheme: "FAST"

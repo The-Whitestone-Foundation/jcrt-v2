@@ -21,7 +21,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 1-6
 subjects:
   - label: "Phenomenology"
     scheme: "FAST"

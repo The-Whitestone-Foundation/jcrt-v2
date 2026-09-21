@@ -34,7 +34,7 @@ sort_id: 04
 issue: 1
 season: winter
 year: 2010
-pages:
+pages: 52-77
 subjects:
   - label: "Christian saints in art"
     scheme: "FAST"

@@ -39,7 +39,7 @@ volume: 12
 issue: 1
 season: winter
 year: 2012
-pages:
+pages: 44-52
 subjects:
   - label: "Ericas"
     scheme: "FAST"

@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwtm3
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 66-74
 title: "Native Pragmatism: Rethinking the Roots of American Philosophy"
 author: "Ken Lokensgard"
 affiliation:

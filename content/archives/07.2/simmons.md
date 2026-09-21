@@ -23,7 +23,7 @@ volume: 7
 issue: 2
 season: spring
 year: 2006
-pages:
+pages: 85-90
 subjects:
   - label: 'Ethics'
     scheme: 'FAST'

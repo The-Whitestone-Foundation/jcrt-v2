@@ -24,7 +24,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 128-130
 subjects:
   - label: 'God'
     scheme: 'FAST'

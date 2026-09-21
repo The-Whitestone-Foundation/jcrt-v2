@@ -5,7 +5,7 @@ atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwsxr
 article_number:
 volume: 4
 issue: 3
-pages:
+pages: 42-57
 title: "Flesh and Consciousness: Georges Bataille and the Dionysian"
 author: "Jonathan David York"
 affiliation:

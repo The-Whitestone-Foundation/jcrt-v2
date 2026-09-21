@@ -17,7 +17,7 @@ volume: 12
 issue: 3
 season: spring
 year: 2013
-pages:
+pages: 149-160
 subjects:
   - label: "Postmodernism (Literature)"
     scheme: "FAST"

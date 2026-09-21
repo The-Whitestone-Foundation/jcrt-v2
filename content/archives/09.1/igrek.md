@@ -25,7 +25,7 @@ volume: 9
 issue: 1
 season: winter
 year: 2008
-pages:
+pages: 118-122
 subjects:
   - label: 'Existentialism'
     scheme: 'FAST'

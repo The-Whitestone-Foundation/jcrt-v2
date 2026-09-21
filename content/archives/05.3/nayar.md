@@ -25,7 +25,7 @@ volume: 5
 issue: 3
 season: summer
 year: 2004
-pages:
+pages: 82-85
 subjects:
   - label: 'Cybernetics'
     scheme: 'FAST'

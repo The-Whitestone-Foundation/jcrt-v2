@@ -22,7 +22,7 @@ volume: 11
 issue: 3
 season: fall
 year: 2011
-pages:
+pages: 53-58
 subjects:
   - label: "Animals (Philosophy)"
     scheme: "FAST"

@@ -24,7 +24,7 @@ volume: 8
 issue: 2
 season: spring
 year: 2008
-pages:
+pages: 194-199
 subjects:
   - label: 'Capitalism'
     scheme: 'FAST'

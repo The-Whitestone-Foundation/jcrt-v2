@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import nunjucks from '@11ty/nunjucks';
-import { makeRecord, parsePageRange, preciseDate, normalizeDoi, bibliographyPage, articleSchema, jsonLd } from '../_config/bibliography.js';
+import { makeRecord, parsePageRange, preciseDate, normalizeDoi, bibliographyPage, articleSchema, jsonLd, unslugKeyword } from '../_config/bibliography.js';
 
 test('bibliographic facts retain precision, author identity, and HTML/PDF separation', async () => {
   for (const [value, start, end] of [['1', '1', '1'], ['10—21', '10', '21'], ['iv–xii', 'iv', 'xii'], ['12-15','12','15'], ['', '', '']]) {
@@ -14,6 +14,7 @@ test('bibliographic facts retain precision, author identity, and HTML/PDF separa
   assert.equal(JSON.parse(jsonLd({ name: '</script>' })).name, '</script>');
   assert.ok(!jsonLd({ name: '</script>' }).includes('<'));
   assert.equal(normalizeDoi(' https://dx.doi.org/10.1234/example '), '10.1234/example');
+  assert.deepEqual(['jacques-derrida', 'post-secular', 'ek-sistence'].map(unslugKeyword), ['jacques derrida', 'post-secular', 'ek-sistence']);
   const data = { title: 'An *article* & its title', author: 'Hent de Vries; Editors', doi: 'doi: 10.1234/example',
     nanoid: 'ABC123', pages: 'iv–xii', pdf: 'example.pdf', abstract: 'Full abstract. '.repeat(80), keywords: ['ethics', 'religion'] };
   const context = { url: '/archives/25.2/example/', archive: true, baseUrl: 'https://jcrt.org', filesUrl: 'https://files.jcrt.org',

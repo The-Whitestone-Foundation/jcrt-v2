@@ -24,7 +24,7 @@ volume: 7
 issue: 1
 season: winter
 year: 2005
-pages:
+pages: 119-127
 subjects:
   - label: 'Capitalism'
     scheme: 'FAST'

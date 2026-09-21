@@ -21,6 +21,7 @@ keywords:
   - suffering
   - continental-philosophy
 year: 2023
+pages: 100-112
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

@@ -36,7 +36,7 @@ volume: 11
 issue: 2
 season: spring
 year: 2011
-pages:
+pages: 1-12
 subjects:
   - label: "Christianity"
     scheme: "FAST"

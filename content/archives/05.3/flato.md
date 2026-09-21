@@ -26,7 +26,7 @@ volume: 5
 issue: 3
 season: summer
 year: 2004
-pages:
+pages: 61-65
 subjects:
   - label: 'Continental philosophy'
     scheme: 'FAST'

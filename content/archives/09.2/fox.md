@@ -26,7 +26,7 @@ volume: 9
 issue: 2
 season: summer
 year: 2008
-pages:
+pages: 30-42
 subjects:
   - label: "Ontology"
     scheme: "FAST"

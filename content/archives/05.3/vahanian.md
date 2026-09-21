@@ -26,7 +26,7 @@ volume: 5
 issue: 3
 season: summer
 year: 2004
-pages:
+pages: 93-95
 subjects:
   - label: 'Christianity'
     scheme: 'FAST'

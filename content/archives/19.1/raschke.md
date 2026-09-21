@@ -25,7 +25,7 @@ volume: 19
 issue: 1
 season: winter
 year: 2020
-pages:
+pages: 1-16
 subjects:
   - label: 'Death of God theology'
     scheme: 'FAST'

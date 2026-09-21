@@ -26,7 +26,7 @@ volume: 10
 issue: 2
 season: spring
 year: 2010
-pages:
+pages: 1-5
 subjects:
   - label: "Criticism"
     scheme: "FAST"

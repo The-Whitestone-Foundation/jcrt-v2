@@ -28,7 +28,7 @@ volume: 6
 issue: 3
 season: fall
 year: 2005
-pages:
+pages: 30-42
 subjects:
   - label: "Bibliographies"
     scheme: "FAST"

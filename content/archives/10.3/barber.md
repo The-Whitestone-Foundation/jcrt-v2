@@ -24,7 +24,7 @@ volume: 10
 issue: 3
 season: summer
 year: 2010
-pages:
+pages: 167-172
 subjects:
   - label: 'Christian Mission'
     scheme: 'FAST'
