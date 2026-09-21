@@ -1,6 +1,6 @@
 ---
 nanoid: "sxXvUp"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajyacrz72m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnt5wns2s'
 name: Eric Daryl Meyer
 affiliation: "Loyola Marymount University"
 bio:

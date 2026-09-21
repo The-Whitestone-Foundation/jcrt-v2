@@ -1,6 +1,6 @@
 ---
 nanoid: "YNKKGQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxkimgh2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pn4h5qk26'
 name: Nikolay Karkov
 affiliation:
 orcid: https://orcid.org/0000-0001-5324-180X

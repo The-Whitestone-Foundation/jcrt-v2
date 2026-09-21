@@ -1,7 +1,7 @@
 ---
 nanoid: "UvQ_Bv"
 doi: "10.17613/ymnpk-xs526"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvus3zp2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pkvotmc2v'
 title: "Religion and Hip Hop."
 author: "Joseph Winters"
 affilation:

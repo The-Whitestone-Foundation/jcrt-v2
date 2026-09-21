@@ -1,6 +1,6 @@
 ---
 nanoid: "quMaqD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxkdjym2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pn4fbqx2z'
 name: Nirvikar Singh
 affiliation: "University of California, Santa Cruz"
 bio:

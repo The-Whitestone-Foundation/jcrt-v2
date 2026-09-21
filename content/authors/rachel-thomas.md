@@ -1,6 +1,6 @@
 ---
 nanoid: "oEAwVR"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxgvipz26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmx34wl2t'
 name: Rachel Thomas
 affiliation: Colorado Community College
 bio: "Rachel Thomas is former assistant editor and translator for The Journal for Cultural and Religious Theory. She teaches in the Colorado Community College System."

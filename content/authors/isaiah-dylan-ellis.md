@@ -1,6 +1,6 @@
 ---
 nanoid: "6--hf0"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajy44hac2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnq3ff42u'
 name: Isaiah Dylan Ellis
 affiliation: ""
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "4zb5Co"
 doi: "10.17613/xdvdy-rc835"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajuz37il27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pjsqdst2t'
 title: "Toward Decolonizing Philosophy of Religion: Thinking Heretically with African Indigenous Religions."
 author: "Patrice Haynes"
 affilation:

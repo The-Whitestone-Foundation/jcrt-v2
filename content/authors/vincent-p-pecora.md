@@ -1,6 +1,6 @@
 ---
 nanoid: "qYWpho"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajx5umse2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmnfy5t2v'
 name: Vincent P Pecora
 affiliation: "University of California, Los Angeles"
 bio:

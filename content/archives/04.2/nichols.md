@@ -1,7 +1,7 @@
 ---
 nanoid: "DdfSFU"
 doi: "10.17613/k8phc-ge351"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwuhonk2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmb2vrs2s'
 article_number:
 volume: 4
 issue: 2

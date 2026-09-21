@@ -1,7 +1,7 @@
 ---
 nanoid: "8I09R3"
 doi: "10.17613/gfsrn-vqz11"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvc7f3u2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pk3cjh32n'
 title: "Violence and Religion, or Between Tyranny and Care."
 author: "James Dodd"
 affilation:

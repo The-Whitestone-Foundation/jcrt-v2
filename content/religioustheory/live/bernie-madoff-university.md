@@ -1,6 +1,6 @@
 ---
 nanoid: "dpkDjN"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwawhnm2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pleev3i27'
 title: "Bernie Madoff University"
 description: "Victor Taylor satirizes the corporate university through Bernie Madoff's Ponzi scheme, exposing a higher education model built on appearance, debt, and profit."
 date: '2009-07-16'

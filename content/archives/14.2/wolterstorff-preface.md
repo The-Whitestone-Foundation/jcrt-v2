@@ -1,7 +1,7 @@
 ---
 nanoid: "v6ZKBn"
 doi: "10.17613/0gpqt-phn03"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvsaygj26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pktef2e2u'
 title: Preface
 author: Nicholas Wolterstorff
 affilation:

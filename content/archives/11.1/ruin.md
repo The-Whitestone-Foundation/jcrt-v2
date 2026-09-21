@@ -1,7 +1,7 @@
 ---
 nanoid: "PhD51b"
 doi: "10.17613/1a9ch-j3h37"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajw56gte2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pl6tqlt2w'
 title: "Faith, Grace, and the Destruction of Tradition: a Hermeneutic-Genealogical Reading of the Pauline Letters"
 author: "Hans Ruin"
 affilation:

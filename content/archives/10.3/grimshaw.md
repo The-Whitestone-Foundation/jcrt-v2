@@ -1,7 +1,7 @@
 ---
 nanoid: "RVI21V"
 doi: "10.17613/tczp6-by458"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajw6m6vz26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plb56hs2s'
 title: "Regionalism or Provincialism?: Theology and the Seemingly Continual Crisis in Religious Studies"
 author: "Mike Grimshaw"
 affilation:

@@ -1,7 +1,7 @@
 ---
 nanoid: "N4mivg"
 doi: "10.17613/231z0-3mj56"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajvsftl52n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pktgcjd2t'
 title: Philiosophy Mashed Up and In Crisis
 author: "N. N. Trakakis"
 affilation:

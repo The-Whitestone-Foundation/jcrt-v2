@@ -1,7 +1,7 @@
 ---
 nanoid: "JDhNKe"
 doi: "10.17613/wbjj5-sjx39"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwvhibr26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmdvmey27'
 article_number:
 volume: 4
 issue: 1

@@ -1,7 +1,7 @@
 ---
 nanoid: "aEzYP4"
 doi: "10.17613/qmvnr-3jc35"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwq2zvy2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pm5dx7o2n'
 title: "On Escape"
 author: "Michael Purcell"
 affilation:

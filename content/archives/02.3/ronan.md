@@ -1,7 +1,7 @@
 ---
 nanoid: "4to33P"
 doi: "10.17613/7z3tc-e2m79"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwy3z7e2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmhsnc32n'
 article_number:
 volume: 2
 issue: 3

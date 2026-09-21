@@ -1,6 +1,6 @@
 ---
 nanoid: "-sAyQP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajxyopg42u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnmp7md2n'
 name: Jennifer Art Nelson
 affiliation:
 bio:

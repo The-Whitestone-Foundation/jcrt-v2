@@ -1,7 +1,7 @@
 ---
 nanoid: "RblH0v"
 doi: "10.17613/6pre5-vry48"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajw4colm2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pl6jlpm2u'
 title: "The Secret That God Keeps from US: on the Necessary Plurality of Religions in Kant"
 author: "Cory Stockwell"
 affilation:

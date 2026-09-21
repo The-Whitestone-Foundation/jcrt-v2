@@ -1,7 +1,7 @@
 ---
 nanoid: "4MUccs"
 doi: "10.17613/tmp3a-vg959"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajx2dt472m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmioawu2u'
 article_number:
 volume: 1
 issue: 3

@@ -1,7 +1,7 @@
 ---
 nanoid: "eqror0"
 doi: "10.17613/1tmg8-05k97"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mvajwp4oum2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plzmyke2u'
 title: "The Seduction of Unreason: the Intellectual Romance with Fascism from Nietzsche to Postmodernism"
 author: "Gary Grieve-Carlson"
 affilation:
