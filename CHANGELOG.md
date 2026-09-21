@@ -8,6 +8,14 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.29] — 2026-09-11
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
+## [00.04.28] — 2026-09-11
+regularizing names
+- Notes: regularizing names.
+
 ## [00.04.27] — 2026-09-09
 fix: serve the IndexNow key file as a bare key, and stop dropping rejected URLs
 - Notes: fix: serve the IndexNow key file as a bare key, and stop dropping rejected URLs.

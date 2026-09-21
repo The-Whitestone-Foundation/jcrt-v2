@@ -6,7 +6,7 @@
  *             then sitemaps:generate                (must precede Eleventy: _data/sitemapIndex.js
  *                                                    and the public/ passthrough read its output)
  *   Phase B   eleventy
- *   Phase C   { css:purge → css:optimize } ∥ run-pagefind ∥ { sitemaps:check → oai:validate:quick }
+ *   Phase C   { css:purge → css:optimize } ∥ run-pagefind ∥ { sitemaps:check → oai:validate:quick → bibliography:check }
  *
  * Phase C members are genuinely independent: pagefind reads _site HTML and never CSS; the
  * CSS chain rewrites only _site/css/*.css; the validators read public/sitemaps and _site XML.
@@ -52,6 +52,7 @@ const STEPS = {
 	pagefind: ["node", ["_config/run-pagefind.js"], { NODE_OPTIONS: "--max-old-space-size=4096" }],
 	"sitemaps:check": ["node", ["scripts/check-sitemaps.mjs"], {}],
 	"oai:validate:quick": ["node", ["scripts/validate-oai-pmh.mjs"], { OAI_VALIDATE_LEVEL: "quick" }],
+	"bibliography:check": ["node", ["scripts/check-bibliography.mjs"], {}],
 };
 
 const PHASE_A = ["test", "nanoids:check", "standard:check", "cms:check", "sitemaps:generate"];
@@ -106,7 +107,7 @@ async function main() {
 		await Promise.all([
 			series("css:purge", "css:optimize"),
 			run("pagefind"),
-			series("sitemaps:check", "oai:validate:quick"),
+			series("sitemaps:check", "oai:validate:quick", "bibliography:check"),
 		]);
 	}
 

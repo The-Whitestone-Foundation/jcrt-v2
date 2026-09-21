@@ -253,6 +253,11 @@ for (const route of builtRoutes.filter(route => /^\/archives\/\d+\.\d+\/[^/]+\/$
 for (const record of Object.values(index.records)) {
   if (record.archive && !record.abstract) note('source-archive-abstract-missing', record.path);
   if (!record.title || !record.creators.length || !record.nanoid) fail('source-required-fields', record.path, `title=${show(record.title)} creators=${record.creators.length} nanoid=${show(record.nanoid)}`);
+  // Google Scholar inclusion floor for archive articles: title + author (above), a dated
+  // citation_publication_date, and a public citation_pdf_url. Computo shipped for months
+  // without the PDF tag and nobody noticed — https://computo-journal.org/blog/2026-07-26-google-scholar/
+  if (record.archive && (!record.publicationDate || !record.pdfUrl)) fail('google-scholar-required', record.path, `date=${show(record.publicationDate)} pdf=${show(record.pdfUrl)}`);
+  if (record.archive && !record.doi) note('source-archive-doi-missing', record.path);
 }
 
 report(notes, 'Coverage notes');
