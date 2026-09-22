@@ -237,7 +237,6 @@
   <url><loc>https://files.jcrt.org/citations/archives/08.1/costoya.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/kotsko.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/kroesbergen.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/08.1/mejido.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/miller.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/nayar.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/08.1/nichols.ris</loc></url>
@@ -405,7 +404,6 @@
   <url><loc>https://files.jcrt.org/citations/archives/12.2/coakley.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/cochrane.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/crockett.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/12.2/crockett_2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/dickinson-intro.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/dickinson.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/fong.ris</loc></url>
@@ -416,7 +414,6 @@
   <url><loc>https://files.jcrt.org/citations/archives/12.2/hurlin.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/mackendrick.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/mackendrick_2.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/12.2/montel_hurlin.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/peters.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/peters_2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/12.2/robert.ris</loc></url>
@@ -446,7 +443,6 @@
   <url><loc>https://files.jcrt.org/citations/archives/13.1/schmidt.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/taylor.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/tlostanova.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/13.1/v_squez.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/vasquez.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.1/woessner.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/13.2/carsey.ris</loc></url>
@@ -519,20 +515,17 @@
   <url><loc>https://files.jcrt.org/citations/archives/15.2/valente.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/15.2/valente2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/carson.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/clay_robinson.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/ferguson.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/figueiredo.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/figueiredo_2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewgaia.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewgiroux.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewsousanis.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/interviewulmer.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/introfigueiredo.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/li.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/obrien.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/raschke.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/reviewbutler.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/16.1/stowe_sousanis.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/taylor_giroux.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.1/waggoner.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/16.2/armstrong.ris</loc></url>
@@ -593,24 +586,18 @@
   <url><loc>https://files.jcrt.org/citations/archives/17.3/yonker.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/appel.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/bios.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/burke.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/burke2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/cook.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/delay.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/green.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/komkov.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/komkov2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/koser.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/l_land.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/loland1.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/mcandrew.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/pederson.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/ramos.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/ramos1.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/richard.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/sharma.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/sharma2.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/18.1/spickard.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.1/spickard2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.2/Konigsburg.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/18.2/bios.ris</loc></url>
@@ -685,7 +672,6 @@
   <url><loc>https://files.jcrt.org/citations/archives/19.3/7-salzani.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/19.3/8-weidner.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/19.3/bios.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/19.3/lebovic.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/20.1/ball.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/20.1/bedford.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/20.1/bios.ris</loc></url>
@@ -729,13 +715,9 @@
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley0.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley1.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley2.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley3.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley4.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley5.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley6.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley7.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley8.ris</loc></url>
-  <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley_2.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/bradley_3.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/gildea.ris</loc></url>
   <url><loc>https://files.jcrt.org/citations/archives/21.3/johnston.ris</loc></url>

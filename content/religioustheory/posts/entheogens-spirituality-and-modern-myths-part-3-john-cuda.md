@@ -36,7 +36,7 @@ subjects:
     uri: "https://id.worldcat.org/fast/1130186"
     category: "topical"
 ---
-*The following is the third of a three-part* series. *The [first]( /religioustheory/posts/entheogens-spirituality-and-modern-myths/) and [second](https://jcrt.org/religioustheory/2021/10/13/entheogens,-spirituality,-and-modern-myths,-part-2-\(john-cuda\)/\(opens%20in%20a%20new%20tab\)) can be found here*.
+*The following is the third of a three-part* series. *The [first]( /religioustheory/posts/entheogens-spirituality-and-modern-myths/) and [second](/religioustheory/posts/entheogens-spirituality-and-modern-myths-part-2-john-cuda/) can be found here*.
 
 ## It Was Only a Dream
 

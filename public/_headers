@@ -73,3 +73,8 @@
   Access-Control-Allow-Methods: GET, HEAD, OPTIONS
   Access-Control-Allow-Headers: Content-Type, Accept, Range
   Access-Control-Expose-Headers: Content-Length, Content-Range, ETag
+
+# JATS records are linked rel=alternate from every article page on purpose (seo.njk);
+# this header is what keeps them out of the Search Console index report.
+/sitemaps/archive/*
+  X-Robots-Tag: noindex

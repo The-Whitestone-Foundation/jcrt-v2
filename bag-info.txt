@@ -1,0 +1,8 @@
+Source-Organization: The Whitestone Foundation
+Contact-Name: Adam DJ Brett
+Contact-Email: adam@adamdjbrett.com
+External-Description: Source for jcrt.org, the Journal for Cultural and Religious Theory (ISSN 1530-5228), an open-access peer-reviewed journal published since 1999 by The Whitestone Foundation. Eleventy site: article metadata, abstracts, issue tables of contents, the Religious Theory blog, OAI-PMH, JATS and citation exports.
+External-Identifier: https://github.com/The-Whitestone-Foundation/jcrt-v2
+External-Identifier: https://jcrt.org/
+Bag-Group-Identifier: The Whitestone Foundation
+Bag-Count: 1 of 1

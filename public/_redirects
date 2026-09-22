@@ -87,6 +87,43 @@
 /archives/04.2/%20pecora.shtml /archives/04.2/pecora/ 301
 /archives/07.1/zizek-taylor.shtml /archives/07.1/taylor/ 301
 /archives/07.2/mdex.shtml /archives/07.2/ 301
+# Duplicate archive articles retired 2026-09-22 (same text under two slugs/DOIs; Search Console picked one PDF as canonical for the other)
+/archives/12.2/crockett_2 /archives/12.2/crockett/ 301
+/archives/12.2/crockett_2/ /archives/12.2/crockett/ 301
+/archives/12.2/montel_hurlin /archives/12.2/hurlin/ 301
+/archives/12.2/montel_hurlin/ /archives/12.2/hurlin/ 301
+/archives/13.1/v_squez /archives/13.1/vasquez/ 301
+/archives/13.1/v_squez/ /archives/13.1/vasquez/ 301
+/archives/16.1/stowe_sousanis /archives/16.1/interviewsousanis/ 301
+/archives/16.1/stowe_sousanis/ /archives/16.1/interviewsousanis/ 301
+/archives/16.1/clay_robinson /archives/16.1/interviewgaia/ 301
+/archives/16.1/clay_robinson/ /archives/16.1/interviewgaia/ 301
+/archives/16.1/interviewulmer /archives/16.1/figueiredo_2/ 301
+/archives/16.1/interviewulmer/ /archives/16.1/figueiredo_2/ 301
+/archives/18.1/komkov /archives/18.1/komkov2/ 301
+/archives/18.1/komkov/ /archives/18.1/komkov2/ 301
+/archives/18.1/burke /archives/18.1/burke2/ 301
+/archives/18.1/burke/ /archives/18.1/burke2/ 301
+/archives/18.1/ramos /archives/18.1/ramos1/ 301
+/archives/18.1/ramos/ /archives/18.1/ramos1/ 301
+/archives/18.1/l_land /archives/18.1/loland1/ 301
+/archives/18.1/l_land/ /archives/18.1/loland1/ 301
+/archives/18.1/sharma /archives/18.1/sharma2/ 301
+/archives/18.1/sharma/ /archives/18.1/sharma2/ 301
+/archives/18.1/spickard /archives/18.1/spickard2/ 301
+/archives/18.1/spickard/ /archives/18.1/spickard2/ 301
+/archives/19.3/lebovic /archives/19.3/5-leibovic/ 301
+/archives/19.3/lebovic/ /archives/19.3/5-leibovic/ 301
+/archives/21.3/bradley_2 /archives/21.3/bradley2/ 301
+/archives/21.3/bradley_2/ /archives/21.3/bradley2/ 301
+/archives/21.3/bradley3 /archives/21.3/gildea/ 301
+/archives/21.3/bradley3/ /archives/21.3/gildea/ 301
+/archives/21.3/bradley5 /archives/21.3/bielik_robson/ 301
+/archives/21.3/bradley5/ /archives/21.3/bielik_robson/ 301
+/archives/21.3/bradley7 /archives/21.3/nedoh/ 301
+/archives/21.3/bradley7/ /archives/21.3/nedoh/ 301
+/archives/08.1/mejido /archives/08.1/costoya/ 301
+/archives/08.1/mejido/ /archives/08.1/costoya/ 301
 /archives/:issue/index2/:slug/ /archives/:issue/:slug/ 301
 /archives/:issue/index.shtml /archives/:issue/ 301
 /archives/:issue/index.html /archives/:issue/ 301
@@ -275,6 +312,7 @@
 # Cleanup malformed bookmark-suffix URLs (e.g. Word/bookmark app "\l "_bookmarkX")
 /religioustheory/tag/:tag/feed/*_bookmark* /religioustheory/tags/:tag/ 301
 /religioustheory/:year/:month/:day/:slug/*_bookmark* /religioustheory/posts/:slug/ 301
+/religioustheory/2019/04/30/from-kant- /religioustheory/posts/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics/ 301
 /religioustheory/*_bookmark* /religioustheory/posts/ 301
 /religioustheory/tag/:tag/feed/* /religioustheory/tags/:tag/ 301
 /religioustheory/:year/:month/:day/:slug /religioustheory/posts/:slug/ 301
@@ -410,6 +448,22 @@
 /authors/books /religioustheory/posts/ 301
 /authors/j-c-smith/ /religioustheory/authors/j-c-smith/ 301
 /authors/j-c-smith /religioustheory/authors/j-c-smith/ 301
+# Legacy author slugs still in Google's index (Search Console 404s, 2026-09-22)
+/authors/ben-stahlberg /authors/benjamin-stahlberg/ 301
+/authors/ben-stahlberg/ /authors/benjamin-stahlberg/ 301
+/authors/jonathan-scott-lee /authors/jonathan-lee/ 301
+/authors/jonathan-scott-lee/ /authors/jonathan-lee/ 301
+/authors/religious-theory-editors /editors/ 301
+/authors/religious-theory-editors/ /editors/ 301
+/authors/udger-hagedorn /authors/ludger-hagedorn/ 301
+/authors/udger-hagedorn/ /authors/ludger-hagedorn/ 301
+# Author pages only the duplicate archive articles retired 2026-09-22 produced
+/authors/manuel-jesus-mejido /authors/manuel-mejido-costoya/ 301
+/authors/manuel-jesus-mejido/ /authors/manuel-mejido-costoya/ 301
+/authors/manuel-a-vasquez /authors/manuel-vasquez/ 301
+/authors/manuel-a-vasquez/ /authors/manuel-vasquez/ 301
+/authors/nick-sousanis /archives/16.1/interviewsousanis/ 301
+/authors/nick-sousanis/ /archives/16.1/interviewsousanis/ 301
 /authors/:slug/:tail /authors/:slug/ 301
 /authors/:slug/:tail/* /authors/:slug/ 301
 /tags/ /religioustheory/tags/ 301
