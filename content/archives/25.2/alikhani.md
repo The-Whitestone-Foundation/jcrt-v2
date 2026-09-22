@@ -1,7 +1,7 @@
 ---
 nanoid: "Cc5LN5"
 doi: "10.17613/3pgat-gfk03"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pif6anc2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kg2umyd2v'
 layout: archives.njk
 article_number: '01'
 volume: '25'

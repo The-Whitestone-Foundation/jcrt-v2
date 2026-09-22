@@ -1,7 +1,7 @@
 ---
 nanoid: "bnOOrK"
 doi: "10.17613/d5sgq-vcg24"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmiqh2a2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kizdvaz2q'
 article_number:
 volume: 1
 issue: 3

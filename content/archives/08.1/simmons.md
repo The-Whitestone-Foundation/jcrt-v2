@@ -1,7 +1,7 @@
 ---
 nanoid: "eWAOy3"
 doi: "10.17613/qb3yh-cc075"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plnguvl2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kihfs2n2m'
 title: "Above All Earthly Pow’rs, David F. Wells"
 author: "J. Aaron Simmons"
 affilation:

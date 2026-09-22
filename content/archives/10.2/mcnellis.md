@@ -1,7 +1,7 @@
 ---
 nanoid: "TzL7PT"
 doi: "10.17613/fhmhk-s2f22"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plbjb2g2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4ki6g3b42s'
 title: "‘An Unusual Way to Think’: Trilogy’s Oracular Poetics"
 author: "Erin M. McNellis"
 affilation:

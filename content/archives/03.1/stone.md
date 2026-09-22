@@ -1,7 +1,7 @@
 ---
 nanoid: "DlAfPr"
 doi: "10.17613/fr3x1-2xk34"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmhhpc32v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiw6mvh2a'
 article_number:
 volume: 3
 issue: 1

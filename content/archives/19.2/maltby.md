@@ -1,7 +1,7 @@
 ---
 nanoid: "PIUvW9"
 doi: "10.17613/6gypv-9dp92"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pjioxtn2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgulp4v2n'
 title: "The Hollow Christians of End Times Fiction."
 author: "Paul Maltby"
 affilation:

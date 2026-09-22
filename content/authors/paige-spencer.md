@@ -1,6 +1,6 @@
 ---
 nanoid: "tpNwMP"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmzs5cp2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjhdiqi2t'
 name: "Paige Spencer"
 affiliation: "Syracuse University"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "hFghCo"
 doi: "10.17613/xga3t-vvq54"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmkitrr2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kizw5rj2z'
 article_number:
 volume: 1
 issue: 2
