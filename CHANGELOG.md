@@ -88,7 +88,13 @@ Round 3 (same day): under the 60-second Netlify build minute.
   `netlify-purge-cloudflare-on-deploy` plugin already purges after every production deploy,
   so the two purged twice. UI plugins cannot be removed from the repo, so the in-repo copy
   went. Manual purge: Cloudflare dashboard → Caching → Purge Everything.
-- Still needs the Netlify UI: remove the Lighthouse plugin (11 s per deploy).
+- Lighthouse plugin removed in the Netlify UI (11 s per deploy); Forms detection confirmed off.
+- Measured on the 13:15 deploy: build command 28.2 s, deploy 10.6 s (650 files), "Netlify Build
+  completed in 42.3s", 54.1 s end to end. One billed minute per deploy, down from two.
+
+## [00.04.44] — 2026-09-23
+trying to reduce build time to under 60 seconds
+- Notes: trying to reduce build time to under 60 seconds.
 
 ## [00.04.43] — 2026-09-23
 notes

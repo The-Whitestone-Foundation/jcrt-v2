@@ -1,6 +1,7 @@
 # Build and deploy performance
 
-Last verified: 2026-08-29 (against a real Netlify production deploy log)
+Last verified: 2026-09-23 13:15 (Netlify production deploy log: "Netlify Build completed in
+42.3s", 54.1 s end to end, one billed minute)
 
 ## 2026-09-23 pass — the deploy was doubling itself
 
@@ -134,9 +135,28 @@ Inside the 31.4 s build command, measured on Netlify: tests + social self-test 2
   called directly.
 - **No cache plugin** (~1–2 s): see the table.
 
-After-hook wall clock locally 8.4 s → 4.7 s; CSS purge (4.6 s local, ~6 s Netlify) is now the
-longest of the three. Expected next deploy log: build command ~25 s, no Lighthouse line, one
-purge, "Netlify Build completed" in the 40s for a content push.
+After-hook wall clock locally 8.4 s → 4.7 s; CSS purge is now the longest of the three.
+
+**Measured, 2026-09-23 13:15 deploy** (Lighthouse removed in the UI, one purge, Forms
+detection confirmed off):
+
+| Stage | 13:00 | 13:15 |
+| --- | ---: | ---: |
+| init + npm install | 12 s | 8 s |
+| build command | 31.4 s | 28.2 s |
+| — after-hook (css ∥ pagefind ∥ checks) | 7.6 s (6.0 ∥ 7.6 ∥ 1.6) | 5.7 s (5.2 ∥ 5.6 ∥ 1.5) |
+| edge functions + secrets scan | 1.8 s | 1.8 s |
+| deploy | 22.4 s (7,218 files) | 10.6 s (650 files) |
+| Lighthouse | 11 s | — |
+| purge + IndexNow | 2 s | <1 s ("No new URLs") |
+| **Netlify Build completed** | **1m 12s** | **42.3 s** |
+| end to end | 1m 25s | 54.1 s |
+
+Pagefind gained less on Netlify (7.6 → 5.6 s) than locally (7–8 → 4.1 s): its slower disk
+makes the remaining ~3,000 files cost more. The tag index now regenerates in full every build
+(`cacheHit: false`, no cache plugin), which is inside the 28 s and is the trade made above.
+Next lever if a minute is ever exceeded again: the CSS purge (5.2 s) and Eleventy's own
+render (~20 s of the 28 s), in that order.
 
 ### IndexNow moved out of GitHub Actions
 
