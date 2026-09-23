@@ -1,7 +1,7 @@
 ---
 nanoid: "SQArVQ"
 doi: "10.17613/3dpze-tmk35"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiwb7vp2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73flocyl2q'
 article_number:
 volume: 3
 issue: 1

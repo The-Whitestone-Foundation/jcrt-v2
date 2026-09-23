@@ -1,7 +1,7 @@
 ---
 nanoid: "3YtFj0"
 doi: "10.17613/790c1-pmj43"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiisqho2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73f72nze2i'
 title: "Disability Aesthetics"
 author: "Tobin Siebers"
 affilation:

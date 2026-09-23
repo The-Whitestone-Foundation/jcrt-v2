@@ -1,7 +1,7 @@
 ---
 nanoid: "LL4gCb"
 doi: "10.17613/n1epj-kh522"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiyrxzx2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fntb3g27'
 article_number:
 volume: 2
 issue: 1

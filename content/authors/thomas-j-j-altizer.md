@@ -1,6 +1,6 @@
 ---
 nanoid: "JI-eTI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj6jqur2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fsxtng23'
 name: Thomas J J Altizer
 affiliation: "SUNY Stony Brook, Emeritus"
 bio:

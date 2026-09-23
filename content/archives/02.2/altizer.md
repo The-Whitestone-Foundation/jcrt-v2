@@ -1,7 +1,7 @@
 ---
 nanoid: "1q-gTJ"
 doi: "10.17613/rpgk9-jzs66"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiy7uqg2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fndh742e'
 article_number:
 volume: 2
 issue: 2

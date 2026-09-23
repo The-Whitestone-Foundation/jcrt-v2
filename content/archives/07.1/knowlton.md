@@ -1,7 +1,7 @@
 ---
 nanoid: "_Qqss-"
 doi: "10.17613/byaks-saj91"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kik5lws2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73faanu627'
 title: "History, Theory, Text: Historians and the Linguistic Turn"
 author: "B. C. Knowlton"
 affilation:

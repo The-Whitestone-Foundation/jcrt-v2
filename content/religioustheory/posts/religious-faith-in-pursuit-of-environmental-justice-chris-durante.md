@@ -1,7 +1,7 @@
 ---
 nanoid: "NVNwCZ"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kg6pyph27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d65m6u2e'
 title: Religious Faith In Pursuit of Environmental Justice (Chris Durante)
 description: "In recent years, the world’s religions, including the Abrahamic faiths as well as Hinduism, Buddhism, Taoism and various indigenous forms of spirituality, have"
 date: '2024-07-25T23:59:15.000Z'

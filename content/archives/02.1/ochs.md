@@ -1,7 +1,7 @@
 ---
 nanoid: "JyyeXM"
 doi: "10.17613/9nwe2-snr59"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiymnnj2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fnopkm2i'
 article_number:
 volume: 2
 issue: 1

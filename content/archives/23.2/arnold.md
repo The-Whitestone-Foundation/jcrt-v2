@@ -1,7 +1,7 @@
 ---
 nanoid: "YEH7dc"
 doi: "10.17613/h96x6-jvn49"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kg64rbm2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d5nqgs2j'
 title: "A Conversation with Philip P. Arnold on the Urgency of Indigenous Values"
 author: "Philip P. Arnold; Victor Taylor"
 affilation:
