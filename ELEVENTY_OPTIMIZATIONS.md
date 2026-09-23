@@ -100,6 +100,44 @@ Local build after round 2: 19.1 s wall (the Phase A commands add ~2 s before Ele
 14 s). Output diff vs the previous build: only the two PWA lines on every page plus the
 `site.standard.document` links the fixed workflow added to the 11 never-published articles.
 
+### Round 3: the deploy log, and the 60-second minute
+
+Netlify now bills any started minute as a full build minute, so the target is "Netlify Build
+completed" under 60 s. The 2026-09-23 13:00 deploy read 1m 12s. Where it went:
+
+| Stage | s | Lever |
+| --- | ---: | --- |
+| init, `npm install` (0.9 s), UI-plugin install | 12 | the UI-installed `netlify-purge-cloudflare-on-deploy` and the in-repo `plugins/cloudflare-purge` both purged; the in-repo one is deleted, so one purge remains (UI plugins cannot be removed from the repo) |
+| `.cache` restore | ~2 | dropped `netlify-plugin-cache`: restoring + saving the 8.5 MB tag-index cache cost about what rebuilding it costs |
+| build command | 31.4 | see below |
+| edge functions + secrets scan | 2 | — |
+| deploy | 22.4 | one-off: 7,218 files changed because every page gained the PWA lines; a content push moves a few hundred |
+| **Lighthouse plugin** | **11** | UI-installed; remove it (Site configuration → Build & deploy → Build plugins) |
+| purge ×2, IndexNow (first run: 5,541 URLs), cache save | 2 | one purge; IndexNow sends deltas from now on |
+
+Inside the 31.4 s build command, measured on Netlify: tests + social self-test 2 s, nanoids
++ pre-checks 1.5 s, Eleventy render ~20 s, after-hook 7.6 s (css 6.0 ∥ pagefind 7.6 ∥ checks
+1.6). Changes, each with the local before → after:
+
+- **Pagefind reads only the pages it should index** (7.0–8.4 s → 4.1 s). Its cost is reading
+  and parsing HTML, not indexing: marking the taxonomy term pages `data-pagefind-ignore` saved
+  nothing (5.9 s either way), leaving them out of `--glob` halved the run. The glob is built
+  from the output directory at run time (`pagefindGlob()` in `eleventy.config.js`), so a new
+  section is indexed by default; only `archives/keywords/*`, `tags/*`,
+  `religioustheory/tags/*` and `religioustheory/categories/*` with names of four or more
+  characters are skipped. Those pages are lists of articles the index already holds. Index
+  fragments 7,155 → 2,474, which also shrinks what Netlify hashes and uploads every deploy.
+- **The social publisher's self-test left the build** (1.4 s). It protects
+  `publish-social.mjs`, not the site, so it now runs in `publish-social.yml` right before the
+  publish step. `npm test` is `node --test` alone.
+- **No `npm run` indirection in `build:netlify`** (~0.5 s on Netlify): the four commands are
+  called directly.
+- **No cache plugin** (~1–2 s): see the table.
+
+After-hook wall clock locally 8.4 s → 4.7 s; CSS purge (4.6 s local, ~6 s Netlify) is now the
+longest of the three. Expected next deploy log: build command ~25 s, no Lighthouse line, one
+purge, "Netlify Build completed" in the 40s for a content push.
+
 ### IndexNow moved out of GitHub Actions
 
 `indexnow.yml` ran `npm ci` and the **whole production build** on every push to main (~55s,

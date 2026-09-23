@@ -2,7 +2,7 @@
  * Netlify build plugin: announce new sitemap URLs to IndexNow (Bing and friends) once the
  * production deploy is live.
  *
- * onSuccess runs after the deploy stage (see plugins/cloudflare-purge), so crawlers that follow
+ * onSuccess runs after the deploy stage (and after the UI-installed Cloudflare purge), so crawlers that follow
  * the ping find the new pages instead of the previous deploy. This replaced a GitHub Action
  * that rebuilt the whole site on every push and pinged ~55 s after the push, before Netlify had
  * deployed anything.

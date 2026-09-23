@@ -101,7 +101,7 @@ function markdownResponseFrom(htmlResponse, markdown) {
 	headers.delete("vary");
 	headers.set("x-markdown-tokens", String(estimateTokens(markdown)));
 	// Safe to cache now that this body has a URL of its own. Freshness comes from the
-	// deploy purge in plugins/cloudflare-purge/, the same as for the HTML page.
+	// deploy purge (the Netlify UI Cloudflare-purge plugin), the same as for the HTML page.
 	return new Response(markdown, { status: htmlResponse.status, headers });
 }
 

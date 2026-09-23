@@ -51,12 +51,14 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_ENV"
 
+      # The self-test used to run inside every Netlify build (1.4 s); it belongs here, right
+      # before the only thing it protects.
       - name: Publish next item to Mastodon and Bluesky
         env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           ATPROTO_IDENTIFIER: ${{ secrets.ATPROTO_IDENTIFIER }}
           ATPROTO_PASSWORD: ${{ secrets.ATPROTO_PASSWORD }}
-        run: node scripts/publish-social.mjs
+        run: node scripts/publish-social.mjs --test && node scripts/publish-social.mjs
 
       - name: Save publication state
         if: always() && hashFiles('.social-publish-state.json') != ''

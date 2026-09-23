@@ -421,11 +421,38 @@ function isPublishedItem(data = {}, runMode = process.env.ELEVENTY_RUN_MODE) {
 // Pagefind indexes the HTML under _site. Only elements inside [data-pagefind-body] are indexed,
 // so the Google verification file (no such element) never enters the index; nothing needs to
 // be hidden from it. Do not rename files under _site here: Eleventy is still finishing writes.
+//
+// Its cost is reading and parsing HTML, not indexing (measured: marking pages ignorable saved
+// nothing; leaving them out of the file glob halved the run). The ~4,900 taxonomy *term* pages
+// (one tag / keyword / category each) are lists of articles the index already holds, so they
+// are left out. Letter-index pages (names of one to three characters) and every other section
+// stay in. The glob is built from the output directory, so a new section is indexed by default.
+const TAXONOMY_DIRS = ["archives/keywords", "tags", "religioustheory/tags", "religioustheory/categories"];
+function pagefindGlob() {
+	const parts = ["*.html"];
+	const dirsIn = (dir) => fs.readdirSync(`_site/${dir}`, { withFileTypes: true }).filter((e) => e.isDirectory()).map((e) => (dir === "." ? e.name : `${dir}/${e.name}`));
+	const visit = (dir) => {
+		for (const sub of dirsIn(dir)) {
+			if (TAXONOMY_DIRS.includes(sub)) {
+				parts.push(`${sub}/*.html`, `${sub}/{?,??,???}/**/*.html`);
+			} else if (TAXONOMY_DIRS.some((t) => t.startsWith(`${sub}/`))) {
+				parts.push(`${sub}/*.html`);
+				visit(sub);
+			} else {
+				parts.push(`${sub}/**/*.html`);
+			}
+		}
+	};
+	visit(".");
+	return `{${parts.join(",")}}`;
+}
+
 async function runPagefind() {
 	const { spawn } = await import("node:child_process");
 	await new Promise((resolve, reject) => {
 		const child = spawn("node_modules/.bin/pagefind", [
 			"--site", "_site",
+			"--glob", pagefindGlob(),
 			"--force-language", "en",
 			"--root-selector", "[data-pagefind-body]",
 			"--exclude-selectors", ".tag-list,aside,[data-pagefind-ignore],.keywords,.categories",

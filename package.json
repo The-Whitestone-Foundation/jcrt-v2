@@ -9,10 +9,10 @@
     "dev": "cross-env QUICK_DEV=1 NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --incremental --port=8080",
     "dev:full": "cross-env ELEVENTY_RUN_MODE=serve NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --port=8080",
     "clear": "rm -rf _site .cache",
-    "test": "node --test 'scripts/**/*.test.mjs' && node scripts/publish-social.mjs --test",
+    "test": "node --test 'scripts/**/*.test.mjs'",
     "bibliography:check": "node scripts/check.mjs bibliography",
     "build": "npm run build:netlify",
-    "build:netlify": "npm test && npm run nanoids:check && node scripts/check.mjs pre && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 eleventy --quiet",
+    "build:netlify": "node --test 'scripts/**/*.test.mjs' && node scripts/generate-nanoids.mjs --check && node scripts/check.mjs pre && cross-env SKIP_IMAGE_PROCESSING=1 NODE_OPTIONS=--max-old-space-size=4096 eleventy --quiet",
     "changelog": "node scripts/update-changelog.mjs",
     "nanoids:generate": "node scripts/generate-nanoids.mjs",
     "nanoids:check": "node scripts/generate-nanoids.mjs --check",
@@ -30,7 +30,6 @@
     "sequoia:sync": "npm run sequoia:stage && npx -y sequoia-cli@0.5.7 sync --update-frontmatter && node scripts/sequoia.mjs records",
     "sequoia:prune": "node scripts/sequoia.mjs prune --dry-run",
     "indexnow:submit": "node plugins/indexnow/index.js",
-    "cf:purge": "node plugins/cloudflare-purge/index.js",
     "perf:benchmark": "cross-env SKIP_IMAGE_PROCESSING=1 DEBUG=Eleventy:*Benchmark* ELEVENTY_RUN_MODE=build eleventy"
   },
   "repository": {
@@ -58,12 +57,11 @@
     "@11ty/eleventy-img": "7.0.0",
     "@11ty/eleventy-plugin-rss": "3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.2",
-    "css-dedup": "1.13.0",
     "cross-env": "10.1.0",
+    "css-dedup": "1.13.0",
     "lightningcss": "1.33.0",
     "luxon": "^3.6.1",
     "markdown-it": "15.0.0",
-    "netlify-plugin-cache": "1.0.3",
     "purgecss": "8.0.0"
   },
   "dependencies": {

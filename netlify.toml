@@ -42,22 +42,18 @@
   status = 302
   force = true
 
-# .cache holds _data/tagIndex.js's tag-index-cache.json. (.npm-cache used to be listed too; it
-# duplicated Netlify's own node_modules/npm cache and only made restore/save slower.)
-[[plugins]]
-  package = "netlify-plugin-cache"
-  [plugins.inputs]
-    paths = [".cache"]
+# No build cache plugin: restoring and saving the 8.5 MB tag-index cache cost about as much as
+# rebuilding it (~1 s), and it was one more plugin to load. _data/tagIndex.js still caches
+# locally for `npm run dev`.
 
-# Purges the Cloudflare edge cache once the production deploy is live. Needs
-# CLOUDFLARE_API_TOKEN and CLOUDFLARE_ZONE_ID; skips quietly without them, and skips
-# deploy previews and branch deploys. See jcrt-meta/docs/cloudflare-cache.md.
-[[plugins]]
-  package = "./plugins/cloudflare-purge"
+# The Cloudflare edge purge after each production deploy is the UI-installed
+# `netlify-purge-cloudflare-on-deploy` plugin (CLOUDFLARE_API_TOKEN + CLOUDFLARE_ZONE_ID are
+# Netlify env vars). UI plugins run before the ones listed here. An in-repo copy used to be
+# declared too and purged a second time; it was removed 2026-09-23.
+# See jcrt-meta/docs/cloudflare-cache.md.
 
-# Announces new page URLs to IndexNow after the deploy is live and the edge is purged (onSuccess
-# handlers run in this order). Needs INDEXNOW_KEY (above); skips quietly without it. It keeps
-# its own watermark via utils.cache, so it does not depend on netlify-plugin-cache.
+# Announces new page URLs to IndexNow after the deploy is live and the edge is purged. Needs
+# INDEXNOW_KEY (above); skips quietly without it. It keeps its own watermark via utils.cache.
 [[plugins]]
   package = "./plugins/indexnow"
 

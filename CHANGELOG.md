@@ -74,6 +74,26 @@ Round 2 (same day), after the first pass was committed as 8757b76d2:
 - Result: `scripts/` 14 → 11 top-level files (build, check, css, sequoia, generate-nanoids,
   update-changelog, publish-social + 5 tests), `lib/` 8 → 7, no `schemas/`. Build 19.1 s local.
 
+Round 3 (same day): under the 60-second Netlify build minute.
+- Pagefind indexes only the pages that belong in search: a `--glob` built from the output
+  directory (`pagefindGlob()` in `eleventy.config.js`) leaves out the ~4,900 taxonomy term
+  pages (lists of articles the index already holds). 7.0–8.4 s → 4.1 s locally; fragments
+  7,155 → 2,474.
+- `publish-social.mjs --test` moved from `npm test` (and so from every Netlify build) to
+  `publish-social.yml`, before the publish step. `build:netlify` calls its four commands
+  directly instead of through `npm run`.
+- Removed `netlify-plugin-cache` (netlify.toml + devDependency): the `.cache` round-trip cost
+  about what rebuilding the tag index costs.
+- Removed `plugins/cloudflare-purge` and `npm run cf:purge`: the UI-installed
+  `netlify-purge-cloudflare-on-deploy` plugin already purges after every production deploy,
+  so the two purged twice. UI plugins cannot be removed from the repo, so the in-repo copy
+  went. Manual purge: Cloudflare dashboard → Caching → Purge Everything.
+- Still needs the Netlify UI: remove the Lighthouse plugin (11 s per deploy).
+
+## [00.04.43] — 2026-09-23
+notes
+- Notes: notes.
+
 ## [00.04.42] — 2026-09-23
 fixing cloudflare deploy
 - Notes: fixing cloudflare deploy.
