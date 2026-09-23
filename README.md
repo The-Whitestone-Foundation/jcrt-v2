@@ -5,13 +5,12 @@ Developed by Adam DJ Brett
 
 ## Working locally
 - `npm run dev` serves a quick build (5 items per collection) on http://localhost:8080; `npm run dev:full` serves everything.
-- `npm run build` is the production build (`scripts/build.mjs`); `node scripts/build.mjs --serial` runs the same steps one at a time for readable logs.
+- `npm run build` is the production build: tests → `nanoids:check` → `check.mjs pre` → Eleventy. CSS purge/minify, Pagefind and the post-build checks run inside Eleventy's `eleventy.after` hook (`eleventy.config.js`), production builds only; a failing check fails the build.
 - `npm test` runs the script tests; the build runs them too.
 
 ## Sitemap + IndexNow
-- Regenerate the tracked OAI/DOAJ/citation sitemaps: `npm run sitemaps:generate` (deterministic; the tree stays clean when nothing changed)
-- Build-time sitemap integrity check: `npm run sitemaps:check`
-- Full OAI-PMH XSD validation (slow, manual): `npm run oai:validate`
+- The OAI-PMH feed, its records index, the DOAJ feed and the citation sitemaps are built, not tracked: `_data/oaiFeeds.js` computes them and `content/sitemaps/oai-feeds.11ty.js` writes them byte-exact under `_site/sitemaps/`.
+- Build-time sitemap integrity check: `npm run sitemaps:check`; OAI-PMH protocol checks over the built feed: `npm run oai:validate` (both also run inside the build).
 
 ## Standard.site / AT Protocol
 - `npm run sequoia:publish` is what the workflow runs; only new or edited documents are written (staged files carry their existing AT-URI, so the CLI skips the rest). `npm run sequoia:publish:dry` shows the plan without touching the PDS. `npm run sequoia:sync` is the repair path: it pulls AT-URIs back from the PDS into `_data/standardSiteRecords.yaml` when the workflow's commit step failed — do not run it until the orphaned records are pruned (`npm run sequoia:prune` lists them; `node scripts/sequoia.mjs prune --max 4000` deletes, by hand, within the PDS rate budget).
@@ -28,7 +27,9 @@ Full list with licenses in [CREDITS.md](CREDITS.md). In short:
 5. idea: use RT for book reviews
 6. add pagination to 24.2 and 25.1 pdfs
 7. **Apply the ORCID iDs.** Review `output/orcid-candidates.yaml`, set `confirm: true` on
-   accepted rows, run `node scripts/orcid-lookup.mjs --apply`. Suggested order: the 29 rows
+   accepted rows, run `node scripts/orcid-lookup.mjs --apply` (the script was removed from the
+   tree on 2026-09-23 as unused; restore it with `git checkout 8757b76d2 -- scripts/orcid-lookup.mjs`
+   when resuming). Suggested order: the 29 rows
    whose reason says `ORCID record lists a JCRT work` (near-certain), then the rest of the
    `high` rows, then the 17 `medium` by hand. Known-soft: `andrew-w-metcalfe`,
    `james-c-james-craig-livingston`, `mark-murphy` are probably **wrong**; `simon-clark`
@@ -51,7 +52,7 @@ contact ebsco have link to pages or pdfs
 ### 2026-08-30 — ORCID tooling, author dedup, OAI-PMH fix
 Full notes: `~/github/personal/jcrt-author-merge-and-orcid-notes.md`
 
-**Added `scripts/orcid-lookup.mjs`** — finds ORCID iDs for the 638 authors with no `orcid:`
+**Added `scripts/orcid-lookup.mjs`** (removed from the tree 2026-09-23; in git history at `8757b76d2`) — finds ORCID iDs for the 638 authors with no `orcid:`
 in front matter. Writes a reviewable report to `output/orcid-candidates.yaml`; it never
 edits content unless you pass `--apply`. Full pass: 105 high, 17 medium, 319 low, 197 none.
 

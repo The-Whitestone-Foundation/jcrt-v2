@@ -50,6 +50,34 @@ build: stop the Standard.site publishing loop; scripts/ 24 → 14 files; workflo
 - Verified locally: 19 tests pass; `_site` byte-identical to the pre-change build except
   `admin/config.yml` (comment); every validator's stdout unchanged; `--serial` still works.
 
+Round 2 (same day), after the first pass was committed as 8757b76d2:
+- Fixed (deploy 2ec8ecb failed): Netlify treats every named export of a build plugin as a
+  lifecycle event; `plugins/cloudflare-purge` exported `purgeEverything` and
+  `plugins/indexnow` exported `submitIndexNow`. Both now export only `onSuccess`.
+- Removed `scripts/build.mjs`. `build:netlify` is `npm test && nanoids:check && check.mjs pre
+  && eleventy`; css purge/minify ∥ pagefind ∥ {sitemaps, oai, bibliography} run inside
+  `eleventy.after` (production builds only) and a failing check fails the Eleventy process.
+  Checks throw `CheckFailed` instead of setting an exit code. `--serial` is gone. The
+  Google-verification-file park/restore around Pagefind is gone too: Pagefind never indexed
+  it (no `[data-pagefind-body]`).
+- Removed `scripts/generate-local-sitemaps.mjs` and the five generated files under
+  `public/sitemaps/` (doaj-archives.xml, oai_dc.xml, oai-records.json, citations/*). They
+  are built now: `_data/oaiFeeds.js` + `content/sitemaps/oai-feeds.11ty.js`, byte-identical
+  to the last committed copies. `_data/sitemapIndex.js` keeps oai_dc/doaj out of the root
+  index and lists the citation sitemaps without stat-ing files.
+- Removed XSD validation (`--xsd`, xmllint path, `scripts/schemas/oai/`); `oai:validate` is
+  the protocol check. Removed `sequoia.mjs audit` and `standard:audit`, `lib/nanoid.mjs`
+  (inlined), `scripts/orcid-lookup.mjs` (paused; in history at 8757b76d2).
+- Added, for the Lighthouse PWA audits: `<meta name="theme-color">`, a 512×512 PNG manifest
+  icon (`public/images/logos/icon-512.png`, plus `start_url`/`scope`), and a no-cache service
+  worker (`public/sw.js`, registered from `base.njk`, served with `max-age=0`).
+- Result: `scripts/` 14 → 11 top-level files (build, check, css, sequoia, generate-nanoids,
+  update-changelog, publish-social + 5 tests), `lib/` 8 → 7, no `schemas/`. Build 19.1 s local.
+
+## [00.04.42] — 2026-09-23
+fixing cloudflare deploy
+- Notes: fixing cloudflare deploy.
+
 ## [00.04.41] — 2026-09-23
 chore: sync Standard.site ATProto records
 - Notes: chore: sync Standard.site ATProto records.

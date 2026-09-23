@@ -50,8 +50,10 @@ Local, two consecutive baseline builds, 0 differing files:
   `religioustheory/tags/*`, `religioustheory/categories/*`, names ≥ 4 chars; one sample of
   each directory is still scanned, and the A–Z letter pages always are). Output verified
   byte-identical to the CLI-over-everything result.
-- Pagefind is a step function inside `build.mjs` (verification-file park/restore in
-  `finally`); `_config/run-pagefind.js` is gone.
+- Pagefind runs from Eleventy's `eleventy.after` hook (see the round-2 note below);
+  `_config/run-pagefind.js` is gone. The old "park the Google verification file" dance was
+  dropped too: Pagefind only indexes inside `[data-pagefind-body]`, which that file lacks
+  (verified: zero references to it in the index without parking).
 - `.npm-cache` dropped from `netlify-plugin-cache` and `NPM_CONFIG_CACHE` removed: they
   duplicated Netlify's own npm/node_modules cache (`npm install` was 887 ms in the log).
 - `_data/tagIndex.js` prints `[tagIndex] {…cacheHit…}` in build mode. Read it in the next
@@ -59,6 +61,44 @@ Local, two consecutive baseline builds, 0 differing files:
 - Not done, with reasons: parallelising Phase A (~1s, loses "failure is the last line on
   screen"); dropping sharp/eleventy-img (imports cost 21–114 ms; Netlify caches
   node_modules); render tuning (see the 2026-09-03 negative result below).
+
+### Round 2, same day: delete work instead of merging it
+
+`scripts/` went from 14 top-level files to 11, `lib/` from 8 to 7, and `schemas/oai/` (4 XSDs)
+is gone. Concretely:
+
+- **No orchestrator.** `scripts/build.mjs` is deleted. `npm run build:netlify` is four
+  commands: `npm test` → `nanoids:check` → `check.mjs pre` (standard + cms) → `eleventy`.
+  Everything that used to be Phase C (css purge → minify ∥ pagefind ∥ sitemaps → oai →
+  bibliography checks) runs inside `eleventyConfig.on("eleventy.after")`, gated on
+  `runMode === "build"` so `npm run dev` never pays for it. Checks throw `CheckFailed`
+  instead of setting an exit code; a throw in the hook fails the Eleventy process (verified
+  exit 1 on a throwaway config). The one-line `[build] after Eleventy: css 2.1s ∥ pagefind
+  7.0s ∥ checks 1.9s` log replaces the old step table. `--serial` is gone; run the checks
+  by hand (`node scripts/check.mjs <name>`) when debugging.
+- **Feeds are built, not committed.** `scripts/generate-local-sitemaps.mjs` (418 lines) and the
+  five generated files it kept in `public/sitemaps/` are deleted. `_data/oaiFeeds.js` computes
+  the DOAJ feed, the OAI-PMH static feed, its records index and the two citation sitemaps
+  once per build; `content/sitemaps/oai-feeds.11ty.js` (a JavaScript template, so no Nunjucks
+  pass) writes each one byte-exact. All five compared identical to the last committed
+  copies. This also removes a Phase A step and the failure mode where the committed copies
+  lag the content (they were stale when this pass started). The OAI edge function fetches
+  `/sitemaps/oai-records.json` from the live site, so nothing there changes.
+- **XSD validation dropped.** It only ever ran by hand. `check.mjs oai` keeps the 13 protocol
+  cases, day-granularity and resumption-token checks; the xmllint path, `--xsd` and
+  `scripts/schemas/oai/` are gone (about 150 lines and four files).
+- **Deleted outright:** `scripts/orcid-lookup.mjs` (paused manual migration; in git history at
+  `8757b76d2`), `sequoia.mjs audit` (no caller), `lib/nanoid.mjs` (17 lines, one caller,
+  inlined into `generate-nanoids.mjs`).
+- **Lighthouse PWA audits** (the plugin's three complaints): `<meta name="theme-color">` in
+  the static head, a 512×512 PNG icon in the web manifest (rendered once from the SVG with
+  sharp, 11 KB), and a service worker that registers, claims the page and caches nothing.
+  A journal of record must never serve a stale article from a browser cache, so the worker's
+  fetch listener is empty on purpose. `/sw.js` is served with `max-age=0`.
+
+Local build after round 2: 19.1 s wall (the Phase A commands add ~2 s before Eleventy's own
+14 s). Output diff vs the previous build: only the two PWA lines on every page plus the
+`site.standard.document` links the fixed workflow added to the 11 never-published articles.
 
 ### IndexNow moved out of GitHub Actions
 
@@ -315,15 +355,15 @@ the memoization will serve stale markup to every page.
 
 ```bash
 npm run build            # full production pipeline (alias of build:netlify)
-npm run build:netlify    # what Netlify runs (node scripts/build.mjs; --serial for readable logs)
-npm run dev              # incremental dev server on :8080 (QUICK_DEV=1)
+npm run build:netlify    # what Netlify runs: npm test → nanoids:check → check.mjs pre → eleventy
+                         # (css, pagefind and the post-build checks run in eleventy.after)
+npm run dev              # incremental dev server on :8080 (QUICK_DEV=1); no post-build work
 npm run dev:full         # full-site dev server on :8080
 npm test                 # script tests (also the first build step)
 npm run perf:benchmark   # Eleventy per-operation diagnostics
 
-# Individual build steps (all defined once in scripts/build.mjs)
-npm run standard:check | cms:check | nanoids:check | sitemaps:check | oai:validate:quick | bibliography:check
-npm run oai:validate     # adds xmllint XSD validation (scripts/check.mjs oai --xsd)
+# Individual checks (scripts/check.mjs; the post-build ones need a built _site)
+npm run standard:check | cms:check | nanoids:check | sitemaps:check | oai:validate | bibliography:check
 npm run css              # purge + optimize _site/css in one process (css:purge, css:optimize separately)
 
 # Standard.site / AT Protocol (scripts/sequoia.mjs)
