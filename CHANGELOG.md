@@ -8,6 +8,10 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.34] — 2026-09-23
+new post
+- Notes: new post.
+
 ## [00.04.33] — 2026-09-22
 seo, zotero, bag-info update
 - Notes: seo, zotero, bag-info update.
