@@ -1,7 +1,7 @@
 ---
 nanoid: "xFua_n"
 doi: "10.17613/c1ekk-pdn71"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmhkdo32n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiwdtbq2t'
 article_number:
 volume: 3
 issue: 1

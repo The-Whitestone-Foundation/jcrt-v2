@@ -1,6 +1,6 @@
 ---
 nanoid: "UH6Y8Y"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnh5irz2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjqfjyi2t'
 name: Liyakatali Takim
 affiliation: University of Denver"
 bio:

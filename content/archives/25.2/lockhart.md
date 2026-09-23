@@ -1,7 +1,7 @@
 ---
 nanoid: "IfEhnn"
 doi: "10.17613/2bk3q-1bh78"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pif24u42u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kg2kj7x27'
 layout: archives.njk
 article_number: '05'
 volume: '25'

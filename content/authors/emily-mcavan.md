@@ -1,6 +1,6 @@
 ---
 nanoid: "GsUktr"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pntbvdt2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk7k4fw2w'
 name: EMILY McAVAN
 affiliation: "Murdoch University"
 bio:

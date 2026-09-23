@@ -1,7 +1,7 @@
 ---
 nanoid: "JXE5t4"
 doi: "10.17613/k4xpw-52j78"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pkw7ryo2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4khuuvfn2m'
 title: "The Borderlines of Theodicy."
 author: "Martin Woessner"
 affilation:

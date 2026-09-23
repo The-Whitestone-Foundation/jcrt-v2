@@ -1,7 +1,7 @@
 ---
 nanoid: "qA476_"
 doi: "10.17613/70gar-2xz86"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plk4job2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kieuxhc2n'
 title: "Democracy and Tradition"
 author: "Ben Stahlberg"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "te8Epk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnaw57h2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjldu2e2s'
 name: Michael J Gilmour
 affiliation: "Providence College (Otterburne, Manitoba, Canada)"
 bio:

@@ -1,6 +1,6 @@
 ---
 nanoid: "aWiH37"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pncwzzp2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjn25gk2n'
 name: Mason Davis
 affiliation: "Academic Impressions"
 bio:

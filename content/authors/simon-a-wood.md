@@ -1,6 +1,6 @@
 ---
 nanoid: "lu_RmA"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmr2i3l2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjag2hf2m'
 name: Simon A Wood
 affiliation: "Univeristy of Nebraska-Lincoln"
 bio:

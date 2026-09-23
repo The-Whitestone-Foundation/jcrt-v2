@@ -1,7 +1,7 @@
 ---
 nanoid: "xJitKh"
 doi: "10.17613/8mbq9-jn960"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plhlwm226'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kick7pv2s'
 title: "The Sleeping Giant Has Awoken: the New Politics of Religion in the United States"
 author: "Aaron Klink"
 affilation:

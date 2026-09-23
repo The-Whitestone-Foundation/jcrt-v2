@@ -1,7 +1,7 @@
 ---
 nanoid: "DLeTax"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pji77la2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgtg3xf2s'
 title: >-
   Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 2 (Gavin
   Hurley)

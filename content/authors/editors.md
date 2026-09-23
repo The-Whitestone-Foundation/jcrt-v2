@@ -1,6 +1,6 @@
 ---
 nanoid: "MiZNfM"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pntlmxy2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kkadegy2t'
 name: Editorial Board of JCRT
 affiliation:
 bio:

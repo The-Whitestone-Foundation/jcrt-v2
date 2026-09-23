@@ -1,6 +1,6 @@
 ---
 nanoid: "ccBOLL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnkpw4r2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjvrrhc26'
 name: John Matthew Allison
 affiliation: ""
 bio:

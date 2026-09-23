@@ -1,6 +1,6 @@
 ---
 nanoid: "LXj8Sg"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnkhy7r2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjv5oxf2u'
 name: Jordan E. Miller
 affiliation: "Salve Regina University"
 bio:

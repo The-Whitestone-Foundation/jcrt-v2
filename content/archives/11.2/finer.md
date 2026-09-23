@@ -1,7 +1,7 @@
 ---
 nanoid: "j9vC3e"
 doi: "10.17613/165k4-77448"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pl6qcp32n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4ki342mn2u'
 title: "Radical Narcissism and the Freedom to Choose Otherwise: a Critique of HÄGglund’s Derrida"
 author: "Daniel M. Finer"
 affilation:

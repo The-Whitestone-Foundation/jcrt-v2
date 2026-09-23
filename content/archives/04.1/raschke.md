@@ -1,7 +1,7 @@
 ---
 nanoid: "AcOIl3"
 doi: "10.17613/tbncp-vka72"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmb7wg72z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kitorgn2s'
 article_number:
 volume: 4
 issue: 1

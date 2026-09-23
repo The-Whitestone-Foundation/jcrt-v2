@@ -1,7 +1,7 @@
 ---
 nanoid: "B3u3l0"
 doi: "10.17613/957e0-ep548"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmitpil2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kizlsgi2t'
 article_number:
 volume: 1
 issue: 3

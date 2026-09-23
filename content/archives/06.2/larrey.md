@@ -1,7 +1,7 @@
 ---
 nanoid: "MmCy86"
 doi: "10.17613/hfecv-ftw49"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plwvuft2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kimnvfh27'
 title: "The Future of Religion"
 author: "Philip Larrey"
 affilation:

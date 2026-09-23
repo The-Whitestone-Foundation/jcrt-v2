@@ -1,7 +1,7 @@
 ---
 nanoid: "Qiek-r"
 doi: "10.17613/33mvp-a4t95"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmefiqy2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kivk22c2n'
 article_number:
 volume: 3
 issue: 2

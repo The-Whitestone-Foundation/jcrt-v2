@@ -1,6 +1,6 @@
 ---
 nanoid: "6NxyUo"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmzdenp2i'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjg4tjh27'
 name: Petra Carlsson Redell
 affiliation: "Stockholm School of Theology "
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "N71HAw"
 doi: "10.17613/2rxkn-a3x57"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pk3q4sd2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4khcvgyr2z'
 title: "Benjamin’s Concept of History as a Source of Arendt’s Idea of Judgment."
 author: "Ronald Beiner"
 affilation:

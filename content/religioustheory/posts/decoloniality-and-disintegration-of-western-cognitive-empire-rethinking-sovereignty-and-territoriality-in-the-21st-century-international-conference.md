@@ -1,7 +1,7 @@
 ---
 nanoid: "ss9Coi"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pj6pzn42u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgok2xi2t'
 title: >-
   Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking
   Sovereignty And Territoriality In The 21st Century (Conference Announcement)

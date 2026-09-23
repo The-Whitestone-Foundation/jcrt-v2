@@ -1,7 +1,7 @@
 ---
 nanoid: "vNm5wp"
 doi: "10.17613/9rse8-6et29"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pjt6yrf2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kh2ha2n2s'
 title: "From Christology to Political Theology."
 author: "Cyril Hovorun"
 affilation:

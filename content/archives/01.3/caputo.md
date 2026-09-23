@@ -1,7 +1,7 @@
 ---
 nanoid: "PfVORQ"
 doi: "10.17613/ncree-xtg90"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmiuuoz2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kizog2v2m'
 article_number:
 volume: 1
 issue: 3

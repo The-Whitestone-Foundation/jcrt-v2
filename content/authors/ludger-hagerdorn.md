@@ -1,6 +1,6 @@
 ---
 nanoid: "rG-2Jr"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pngzlr72m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjq3fjr2q'
 name: Ludger Hagerdorn
 affiliation:
 bio:

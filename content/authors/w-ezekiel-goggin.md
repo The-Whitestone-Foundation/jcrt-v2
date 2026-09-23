@@ -1,6 +1,6 @@
 ---
 nanoid: "T_Jx1F"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pmlhqnp2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj4f5on2n'
 name: W. Ezekiel Goggin
 affiliation:
 bio:

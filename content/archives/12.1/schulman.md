@@ -1,7 +1,7 @@
 ---
 nanoid: "YJsZiV"
 doi: "10.17613/wvpnr-ypt12"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pl3nv662n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4khyriej2z'
 title: "Sorting Out Biopolitics"
 author: "Alex Schulman"
 affilation:

@@ -1,6 +1,6 @@
 ---
 nanoid: "dPWhiS"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2pnt4xv72z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk75nfy2t'
 name: Eric L Santner
 affiliation:
 bio:

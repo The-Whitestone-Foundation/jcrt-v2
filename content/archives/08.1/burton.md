@@ -1,7 +1,7 @@
 ---
 nanoid: "ODtXfJ"
 doi: "10.17613/7yh7c-spg18"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw2plqizky2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiib65x2t'
 title: "Born Again Bodies: Flesh and Spirit in American Christianity"
 author: "Aaron V. Burton"
 affilation:
