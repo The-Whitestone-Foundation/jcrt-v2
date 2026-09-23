@@ -1,7 +1,7 @@
 ---
 nanoid: "093GsM"
 doi: "10.17613/z9xzp-se878"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj2dagi2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fpaif22j'
 article_number:
 volume: 1
 issue: 2

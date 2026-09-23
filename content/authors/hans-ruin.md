@@ -1,6 +1,6 @@
 ---
 nanoid: "dMCgQg"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk4ahqp2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gmvcn42i'
 name: Hans Ruin
 affiliation: "Sodertorn University College, Stockholm"
 bio:

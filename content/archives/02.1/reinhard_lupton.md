@@ -1,7 +1,7 @@
 ---
 nanoid: "RR1t1a"
 doi: "10.17613/v3kmw-18y65"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiyhl4v2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fnk44d26'
 article_number:
 volume: 2
 issue: 1

@@ -1,7 +1,7 @@
 ---
 nanoid: "oOh3fu"
 doi: "10.17613/cpzke-jas09"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kilmgmt2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fbjfk72l'
 title: "Derrida, Said, and Infinity"
 author: "Geoffrey Galt Harpham"
 affilation:

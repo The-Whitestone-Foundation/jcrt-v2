@@ -1,6 +1,6 @@
 ---
 nanoid: "s3V3NI"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjscrbb2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gemb6d2q'
 name: Kenneth Reinhard
 affiliation: "University of California at Los Angeles, UCLA"
 bio:

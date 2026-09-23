@@ -1,7 +1,7 @@
 ---
 nanoid: "tZ0p6e"
 doi: "10.17613/0zhez-cq512"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kifqigp27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73f4c4yx2l'
 title: "The Religion of Fear: Conservative Evangelicals, Identity, and Antiliberal Pop"
 author: "Jason Bivins"
 affilation:

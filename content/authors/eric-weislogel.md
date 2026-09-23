@@ -1,6 +1,6 @@
 ---
 nanoid: "QEuED7"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk6yekh27'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gpenp32v'
 name: Eric Weislogel
 affiliation: "Metanexus Institute"
 bio:

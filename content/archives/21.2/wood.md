@@ -1,7 +1,7 @@
 ---
 nanoid: "Bx3r8s"
 doi: "10.17613/zv80g-4s774"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgl6mb72t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73dhyr7k2j'
 title: "From Colonialism to an-Other Community: Reflections on the Radical Thought of Charles H. Long."
 author: "Mark Wood"
 affilation:

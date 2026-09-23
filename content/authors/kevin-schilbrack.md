@@ -1,6 +1,6 @@
 ---
 nanoid: "8Bngkl"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjrqzlq2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ge4bj624'
 name: Kevin Schilbrack
 affiliation: "APPALACHIAN STATE UNIVERSITY"
 bio:

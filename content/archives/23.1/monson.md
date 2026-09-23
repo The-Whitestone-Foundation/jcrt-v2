@@ -1,7 +1,7 @@
 ---
 nanoid: "T16A8e"
 doi: "10.17613/z68zb-dav83"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgb2oe727'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d7mj6c2v'
 title: "Seated at the Cross: What Black Disabled Bodies Can Teach US About Environmental Justice"
 author: "Robert Monson"
 affilation:

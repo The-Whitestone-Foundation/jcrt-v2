@@ -1,7 +1,7 @@
 ---
 nanoid: "3c9WIf"
 doi: "10.17613/mvskz-57x35"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kivrmux2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73flaoiw27'
 article_number:
 volume: 3
 issue: 2

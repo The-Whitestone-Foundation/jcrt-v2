@@ -1,6 +1,6 @@
 ---
 nanoid: "FbukeD"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj2x5vp2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fptjqr2x'
 name: Yael Almog
 affiliation: "Durham University"
 bio:

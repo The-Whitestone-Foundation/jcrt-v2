@@ -1,6 +1,6 @@
 ---
 nanoid: "1i5Zaf"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj3kuqj2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fqfczw2g'
 name: William Large
 affiliation:
 bio:

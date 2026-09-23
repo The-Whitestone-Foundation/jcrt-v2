@@ -1,6 +1,6 @@
 ---
 nanoid: "LLHHOu"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjvf7xx2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ghbuig24'
 name: Jonathan Lee
 affiliation: "Colorado College"
 bio:

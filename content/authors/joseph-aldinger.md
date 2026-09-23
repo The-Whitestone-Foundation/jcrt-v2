@@ -1,6 +1,6 @@
 ---
 nanoid: "1Gdnhy"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjuw4az2z'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ggufru2i'
 name: Joseph Aldinger
 affiliation: "Lynchburg College"
 bio:

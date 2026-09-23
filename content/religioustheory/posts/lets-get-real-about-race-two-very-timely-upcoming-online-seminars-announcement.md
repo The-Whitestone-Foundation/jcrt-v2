@@ -1,7 +1,7 @@
 ---
 nanoid: "OaeXCC"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgn3ne226'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73djszfg23'
 title: >-
   Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars
   (Announcement)

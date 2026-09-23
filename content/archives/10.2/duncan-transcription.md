@@ -1,7 +1,7 @@
 ---
 nanoid: "CWG8c9"
 doi: "10.17613/1djha-4fr33"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4ki6nnck26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ew3lih2l'
 title: "Accurate Mystery: Robert Duncan’s H. D. Bibliography Critically Annotated"
 author: "Robert Duncan; Amy Evans"
 affilation:

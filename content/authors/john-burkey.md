@@ -1,6 +1,6 @@
 ---
 nanoid: "OMrHib"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjwuniw2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gi2bol2q'
 name: John Burkey
 affiliation: "Siena College"
 bio:

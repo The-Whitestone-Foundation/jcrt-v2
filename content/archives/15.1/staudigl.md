@@ -1,7 +1,7 @@
 ---
 nanoid: "G5WFCE"
 doi: "10.17613/mwhfp-0vh49"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4khqcn2c2n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ejp3zw24'
 title: "Unavowed Ambiguities?: a Plea for Reassessing the Discourse on the Gift."
 author: "Michael Staudigl"
 affilation:

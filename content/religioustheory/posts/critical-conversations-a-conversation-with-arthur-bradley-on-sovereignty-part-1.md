@@ -1,7 +1,7 @@
 ---
 nanoid: "J-3QaO"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgiptqb2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73dfzpko23'
 title: >-
   Critical Conversations – A Conversation With Arthur Bradley On Sovereignty,
   Part 1

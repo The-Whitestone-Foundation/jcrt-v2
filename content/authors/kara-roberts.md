@@ -1,6 +1,6 @@
 ---
 nanoid: "ionn5j"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjt66nk26'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gfcpx62i'
 name: Kara Roberts
 affiliation: "University of Denver"
 bio:

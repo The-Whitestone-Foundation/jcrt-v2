@@ -1,7 +1,7 @@
 ---
 nanoid: "q5DuaW"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kg6tdsj2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d67ti42e'
 title: >-
   What Black Disabled Bodies Can Teach Us About Environmental Justice (Robert
   Monson)

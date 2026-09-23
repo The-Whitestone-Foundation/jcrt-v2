@@ -1,7 +1,7 @@
 ---
 nanoid: "txpvEu"
 doi: "10.17613/2yz0y-2qg09"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kivp7y52n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fl6dbg23'
 article_number:
 volume: 3
 issue: 2

@@ -1,7 +1,7 @@
 ---
 nanoid: "5hE8Ey"
 doi: "10.17613/ndebt-83j29"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kg4rk5u2w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d4hevk2j'
 layout: archives.njk
 article_number: '13'
 volume: '24'

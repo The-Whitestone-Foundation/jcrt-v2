@@ -1,6 +1,6 @@
 ---
 nanoid: "_fmjDQ"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjrtjd52m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ge6oml2v'
 name: Kevin Lewis
 affiliation: "University of South Carolina"
 bio:

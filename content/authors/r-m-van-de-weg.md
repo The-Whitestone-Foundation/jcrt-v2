@@ -1,6 +1,6 @@
 ---
 nanoid: "33UULq"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjfbbie2s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fz4kll2v'
 name: R M Van de Weg
 affiliation: "University of Edinburgh"
 bio:

@@ -1,7 +1,7 @@
 ---
 nanoid: "FZNxwk"
 doi: "10.17613/d9zhn-g7g54"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kicf3s22n'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ezewlc25'
 title: "Discourse on Civility and Barbarity: a Critical History of Religion and Related Categories"
 author: "Craig (Craig Edward) Martin"
 affilation:

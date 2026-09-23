@@ -1,7 +1,7 @@
 ---
 nanoid: "AqoNaX"
 doi: "10.17613/jrynv-m6p59"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kixl7nl2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fmrb5t2q'
 article_number:
 volume: 2
 issue: 3

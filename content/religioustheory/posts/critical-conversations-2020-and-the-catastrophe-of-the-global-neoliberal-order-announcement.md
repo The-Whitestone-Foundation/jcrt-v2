@@ -1,7 +1,7 @@
 ---
 nanoid: "2Q01t3"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kgqhwa72t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73dnhg3d27'
 title: >-
   Critical Conversations – 2020 And The Catastrophe Of The Global Neoliberal
   Order (Announcement)

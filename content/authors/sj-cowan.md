@@ -1,6 +1,6 @@
 ---
 nanoid: "NKgWGd"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjaazch2a'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fum3k32v'
 name: S.J. Cowan
 affiliation: ""
 bio:

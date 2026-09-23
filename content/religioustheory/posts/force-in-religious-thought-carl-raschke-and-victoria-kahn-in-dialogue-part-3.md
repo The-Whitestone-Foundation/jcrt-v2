@@ -1,7 +1,7 @@
 ---
 nanoid: "HKSq5i"
 doi:
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4khlz3hz2q'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73eft47o2g'
 title: >-
   Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part
   3 (Roger Green)

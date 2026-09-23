@@ -1,7 +1,7 @@
 ---
 nanoid: "hY6eal"
 doi: "10.17613/4vfyg-4tf20"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kilz2x52m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fbuky52i'
 title: "True to Life: Why Truth Matters"
 author: "Eric Bain-Selbo"
 affilation:

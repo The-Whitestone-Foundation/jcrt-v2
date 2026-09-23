@@ -1,6 +1,6 @@
 ---
 nanoid: "c_6E2G"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk7rsl52m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gq3afg24'
 name: Elise Montel-Hurlin
 affiliation: "Universites de Toulouse et de Lorraine"
 bio:

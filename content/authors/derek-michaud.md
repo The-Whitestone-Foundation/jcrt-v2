@@ -1,6 +1,6 @@
 ---
 nanoid: "kADgKW"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kkbj7z52m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73grn33e2i'
 name: Derek Michaud
 affiliation: "Boston University"
 bio:

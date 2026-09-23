@@ -1,7 +1,7 @@
 ---
 nanoid: "4hqlvN"
 doi: "10.17613/whqzb-bxf43"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kimlbwl2v'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fcesim2e'
 title: "Derrida and the Return of Religion: Religious Theory After Postmodernism"
 author: "Carl A. Raschke"
 affilation:

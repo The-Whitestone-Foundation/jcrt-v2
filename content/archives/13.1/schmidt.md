@@ -1,7 +1,7 @@
 ---
 nanoid: "wfZutE"
 doi: "10.17613/pwzce-wbq04"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4khv6uqf2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73enyt7p2l'
 title: "Decolonizing Methodologies: Research and Indigenous Peoples."
 author: "George Schmidt"
 affilation:

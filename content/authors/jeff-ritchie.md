@@ -1,6 +1,6 @@
 ---
 nanoid: "_3ph6M"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kjyhdnf2m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gjgqm22j'
 name: Jeff Ritchie
 affiliation: "Lebanon Valley College "
 bio:

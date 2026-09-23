@@ -1,7 +1,7 @@
 ---
 nanoid: "9PTTA3"
 doi: "10.17613/4p1vn-46h50"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kiztla72t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fosoww27'
 article_number:
 volume: 1
 issue: 2

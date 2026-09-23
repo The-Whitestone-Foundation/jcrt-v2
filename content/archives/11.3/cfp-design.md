@@ -1,7 +1,7 @@
 ---
 nanoid: "VjcXJJ"
 doi: "10.17613/x0b0n-1xw98"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4ki2askf2u'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73esphjk25'
 title: "Call for Papers - Design, Mediation, and the Posthuman - An edited anthology exploring the disciplinary intersections of technological mediation, design, and the posthuman."
 author: "JCRT Editors"
 affilation:

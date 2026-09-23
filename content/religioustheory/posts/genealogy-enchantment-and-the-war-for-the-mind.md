@@ -1,6 +1,7 @@
 ---
 nanoid: "VfoV81U"
 doi: 10.17613/hxex7-s8c52
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73cz5k5g27'
 title: "Genealogy, Enchantment, and the War for the Mind"
 description: "Carl Raschke interviews Jason Ānanda Josephson Storm on genealogy after genealogy, the myth of disenchantment, and the long history behind the militarization of the mind."
 abstract: "In this interview ahead of his keynote at the online conference “Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality,” Jason Ānanda Josephson Storm speaks with Carl Raschke about the argument of The Genealogy of Genealogy, in which a once-insurgent critical method hardens into academic routine and is turned against itself in favor of a “metamodern historiography” that reunites history with philosophy. Storm defends his account of postmodernism as a taught paradigm rather than a caricature of Derrida or Foucault, revisits the claim of The Myth of Disenchantment that reason was never purified of magic, and traces how the mid-century cybernetic picture of mind as information processing made cognition technically legible and therefore militarily tractable. Moving through Jim Channon’s First Earth Battalion, Michael Aquino’s MindWar, Byung-Chul Han’s psychopolitics, and the ethics of collective attention, the conversation closes on the fate of knowledge production and the university under hyper-scaled digitization and AI."

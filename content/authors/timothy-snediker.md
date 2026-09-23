@@ -1,6 +1,6 @@
 ---
 nanoid: "8vg2WL"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj5xwf62w'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fshxvj2x'
 name: Timothy Snediker
 affiliation: "University of Denver"
 bio:

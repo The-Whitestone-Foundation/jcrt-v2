@@ -1,6 +1,6 @@
 ---
 nanoid: "Wc-xFk"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk35dwy2t'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73glvwrj2x'
 name: Isabella Guanzini
 affiliation: "Catholic Private University (KU) Linz"
 bio:

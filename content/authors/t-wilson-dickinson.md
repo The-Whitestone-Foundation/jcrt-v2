@@ -1,6 +1,6 @@
 ---
 nanoid: "aCk3R8"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kj75ya52m'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73ftlogc25'
 name: T Wilson Dickinson
 affiliation: "Transylvania University"
 bio:

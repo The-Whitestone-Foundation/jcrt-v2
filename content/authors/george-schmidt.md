@@ -1,6 +1,6 @@
 ---
 nanoid: "HU061b"
-atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw4kk4p7i52s'
+atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73gncnfd2v'
 name: George Schmidt
 affiliation:
 bio:
