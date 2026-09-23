@@ -3,6 +3,7 @@ nanoid: "E5mE1_"
 atproto: 'at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqh5m7uy2z'
 name: Carl A. Raschke
 affiliation: "University of Denver"
+orcid: https://orcid.org/0000-0003-0405-8878
 bio: "is Professor of Philosophy of Religion at the University of Denver and Senior Editor for the Journal for Cultural and Religious Theory. He is the author of over 25 books and hundreds of articles in international publications. His most recent book is Neoliberalism and Political Theology: From Kant to Identity Politics."
 social:
   - title: "website"

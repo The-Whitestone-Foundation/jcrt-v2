@@ -8,6 +8,14 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## [00.04.36] — 2026-09-23
+Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2
+- Notes: Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2.
+
+## [00.04.35] — 2026-09-23
+new post
+- Notes: new post.
+
 ## [00.04.34] — 2026-09-23
 new post
 - Notes: new post.
