@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { transform } from "lightningcss";
-import { optimizeCss, optimizeFiles } from "./optimize-css.mjs";
+import { optimizeCss, optimizeFiles, purgeContent } from "./css.mjs";
 
 test("CSS optimization applies only safe, shrinking deduplication", () => {
 	const safe = optimizeCss(".a{color:red}.b{color:red}");
@@ -17,4 +17,10 @@ test("CSS optimization applies only safe, shrinking deduplication", () => {
 
 	assert.throws(() => optimizeFiles(["_site/css/does-not-exist.css"]), /ENOENT/);
 	assert.doesNotThrow(() => transform({ code: Buffer.from(safe.css), minify: true }));
+});
+
+test("purge content always scans everything when no taxonomy directory exists", () => {
+	const { content, skippedContentGlobs } = purgeContent("_site/does-not-exist");
+	assert.deepEqual(content, ["_site/does-not-exist/**/*.html"]);
+	assert.deepEqual(skippedContentGlobs, []);
 });

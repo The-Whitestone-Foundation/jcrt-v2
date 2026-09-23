@@ -1,11 +1,10 @@
 import assert from "node:assert/strict";
 import crypto from "node:crypto";
 import fs from "node:fs";
-import path from "node:path";
 
 import standardSite from "../_data/standardSite.js";
 import { parseFrontMatter } from "./lib/frontmatter.mjs";
-import { normalizePath } from "./lib/paths.mjs";
+import { documentPathFor } from "./lib/paths.mjs";
 
 const LIMIT = 298;
 const SITE_URL = "https://jcrt.org";
@@ -61,16 +60,12 @@ function facets(text, url) {
 	});
 }
 
-// Mirrors the path each content file becomes in _data/standardSite.js: the
-// directory below content/ is the URL prefix, unless front matter overrides it.
+// Canonical site path for a repo-relative content file (the same rule every other script uses).
 function documentPathForFile(file) {
 	const relative = String(file).replace(/\\/g, "/").replace(/^\.?\//, "");
 	if (!relative.startsWith("content/") || !relative.endsWith(".md")) return "";
-	const prefix = `/${path.posix.dirname(relative.slice("content/".length))}`;
-	const slug = path.posix.basename(relative, ".md");
 	const data = fs.existsSync(relative) ? parseFrontMatter(fs.readFileSync(relative, "utf8")).data : {};
-	if (typeof data.permalink === "string" && data.permalink.startsWith("/")) return normalizePath(data.permalink);
-	return normalizePath(`${prefix}/${data.slug || slug}/`);
+	return documentPathFor(relative.slice("content/".length), data);
 }
 
 function candidates(now = new Date()) {

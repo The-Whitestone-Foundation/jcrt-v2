@@ -2,6 +2,85 @@
 
 Last verified: 2026-08-29 (against a real Netlify production deploy log)
 
+## 2026-09-23 pass — the deploy was doubling itself
+
+### The finding that outranks every build-step tweak
+
+Every content push produced **two** production deploys. `publish-standard-site.yml` ran
+`sequoia publish` and committed back; each of those bot commits (21 between 2026-08-23 and
+2026-09-22) changed ~1,666 files, because it rewrote the `atproto:` line of every article with
+a **new** record key. `_includes/partials/seo.njk` renders that URI on 1,830 pages, so deploy
+#2 re-uploaded ~1,850 HTML files and re-ran post-processing, and every content mtime moved,
+so the `tagIndex` cache missed too.
+
+Root cause, from the sequoia-cli 0.5.7 source: per staged file, `no state entry → create`;
+`state hash ≠ hash(file) → frontmatter.atUri ? update : create`. After a create the CLI
+inserts `atUri: "…"` as the last front-matter line and stores the hash of *that* text. The
+staging step wiped `.sequoia/content` and regenerated every file **without** the line, so every
+run mismatched every hash, found no atUri, and created all ~1,826 documents again. Run
+35748190114 (a 20-file push): `Found 1826 posts / 1826 posts to publish / Errors: 160 (Rate
+Limit Exceeded)` — 1,666 creates × 3 points is the PDS 5,000-point hourly budget. The PDS
+holds 76,239 document records for 1,816 real ones.
+
+Fix: `scripts/sequoia.mjs stage` emits `atUri: "<uri>"` from `_data/standardSiteRecords.yaml`
+byte-for-byte as the CLI would have inserted it (`scripts/sequoia.test.mjs` pins the bytes
+against a copy of the CLI's inserter). `sequoia publish --dry-run` now plans 1,811 skips, 11
+creates (documents the rate limit had always blocked) and 5 one-time in-place updates. The
+workflow commits only the records map and state, marks state-only commits `[skip netlify]`,
+and no longer touches `content/`. A content-only push therefore gets **one** deploy.
+
+Orphan cleanup is a separate, hand-run job (`npm run sequoia:prune` lists; `node
+scripts/sequoia.mjs prune --max 4000` deletes within the rate budget). Do not run
+`sequoia:sync` before it finishes: sync lets the last-listed duplicate win.
+
+### Build command: measured, then mostly left alone
+
+Local, two consecutive baseline builds, 0 differing files:
+
+| Step | Before | After |
+| --- | ---: | ---: |
+| Eleventy | 10.5–11.9s | 9.7–10.1s (noise) |
+| css (purge → optimize) | 8.6–8.8s ∥ | 8.4s ∥ (2.1s serial) |
+| pagefind | 6.1–6.5s ∥ | 7.1–8.4s ∥ |
+| validators + tests, Phase A + C | ~2.6s | ~2.6s |
+| **wall clock** | **20.9–22.8s** | **20.4s** |
+
+- PurgeCSS runs through its JS API in one process with `css-dedup` + `lightningcss`, and
+  skips the ~4,900 template-generated taxonomy term pages (`archives/keywords/*`, `tags/*`,
+  `religioustheory/tags/*`, `religioustheory/categories/*`, names ≥ 4 chars; one sample of
+  each directory is still scanned, and the A–Z letter pages always are). Output verified
+  byte-identical to the CLI-over-everything result.
+- Pagefind is a step function inside `build.mjs` (verification-file park/restore in
+  `finally`); `_config/run-pagefind.js` is gone.
+- `.npm-cache` dropped from `netlify-plugin-cache` and `NPM_CONFIG_CACHE` removed: they
+  duplicated Netlify's own npm/node_modules cache (`npm install` was 887 ms in the log).
+- `_data/tagIndex.js` prints `[tagIndex] {…cacheHit…}` in build mode. Read it in the next
+  deploy log: it settles whether Netlify's checkout preserves the mtimes the cache key uses.
+- Not done, with reasons: parallelising Phase A (~1s, loses "failure is the last line on
+  screen"); dropping sharp/eleventy-img (imports cost 21–114 ms; Netlify caches
+  node_modules); render tuning (see the 2026-09-03 negative result below).
+
+### IndexNow moved out of GitHub Actions
+
+`indexnow.yml` ran `npm ci` and the **whole production build** on every push to main (~55s,
+`fetch-depth: 0` for nothing) to read three Eleventy-rendered sitemaps, then announced 5,541
+URLs before Netlify had deployed them. It is deleted. `plugins/indexnow` runs on Netlify's
+`onSuccess`, after the deploy is live and after the Cloudflare purge, and submits only URLs
+that were not in the previous deploy (watermark `.indexnow-urls.json`, carried by
+`utils.cache`; it does not depend on `netlify-plugin-cache` running after it). The first
+deploy after this lands announces everything once; later ones announce deltas.
+
+### What to read in the next production deploy log
+
+1. Exactly one deploy per content push (the Deploys list), and no bot commit unless a
+   document was added or edited.
+2. "Deploy site" file count ≈ the pages you touched plus listing pages, not ~1,850.
+3. Post-processing near zero (Forms detection was switched off 2026-09-01; still unverified).
+4. `[tagIndex] … "cacheHit": true|false`.
+5. `indexnow: Preparing N URL(s)` on the first deploy, then `No new URLs since the last deploy`.
+6. `build.command` total: expect it under 30s (it was 30.7s on 2026-08-29 with the old
+   serial purge/pagefind).
+
 ## 2026-09-03 pass — template size, and a negative result on render speed
 
 ### The render is 8.5s, and the DEBUG benchmark numbers are not it
@@ -65,14 +144,14 @@ optimize it further without a deploy log showing otherwise.
 chain of eight `npm run` spawns. Independent post-Eleventy steps overlap:
 
 ```
-Phase A  nanoids:check ∥ standard:check  →  sitemaps:generate
+Phase A  test → nanoids:check → standard:check → cms:check → sitemaps:generate   (serial)
 Phase B  eleventy
-Phase C  { css:purge → css:optimize } ∥ pagefind ∥ { sitemaps:check → oai:validate:quick }
+Phase C  css (purge → optimize, one process) ∥ pagefind ∥ { sitemaps:check → oai:validate:quick → bibliography:check }
 ```
 
 Measured back-to-back on one workstation: **50.4s serial → 24.6s orchestrated**. The same
 steps run one at a time with `node scripts/build.mjs --serial` (readable logs when
-debugging), and `--only <step>` runs a single step; `scripts/build.mjs` is the only place
+debugging); `scripts/build.mjs` is the only place
 the steps are defined. Every step is still its own `npm run <name>`. Ordering constraints
 preserved: `sitemaps:generate` before Eleventy, `css:purge` before `css:optimize`.
 
@@ -133,7 +212,7 @@ is unique. It dedups on *slugified* URLs, though, and two distinct terms can slu
 identically. No collisions exist today (checked all four domains), but it is a correctness
 guard costing ~193K trivial comparisons once per build. Kept.
 
-`scripts/check-sitemaps.mjs` still only validates the root index — 21 entries against
+`scripts/check.mjs sitemaps` (then `check-sitemaps.mjs`) at the time validated only the root index — 21 entries against
 ~11,800 real `<loc>` values. It structurally could not have caught any defect above. Worth
 widening; not done here.
 
@@ -165,7 +244,7 @@ Baseline production deploy, total **5m 27.9s**:
 | `build.command` total | **30.7s** | **9%** |
 | — Eleventy render (7,822 files) | 17.2s | |
 | — `css:purge` | 6s | |
-| — `run-pagefind.js` | 5s | |
+| — pagefind (then `_config/run-pagefind.js`, now a step in `build.mjs`) | 5s | |
 | — nanoids / sitemaps / standard / oai validation, combined | ~2s | |
 | Edge Functions bundling + secrets scan | 2s | 1% |
 | Deploy site | **4m 29s** | **82%** |
@@ -236,11 +315,20 @@ the memoization will serve stale markup to every page.
 
 ```bash
 npm run build            # full production pipeline (alias of build:netlify)
-npm run build:netlify    # what Netlify runs
+npm run build:netlify    # what Netlify runs (node scripts/build.mjs; --serial for readable logs)
 npm run dev              # incremental dev server on :8080 (QUICK_DEV=1)
 npm run dev:full         # full-site dev server on :8080
 npm test                 # script tests (also the first build step)
 npm run perf:benchmark   # Eleventy per-operation diagnostics
+
+# Individual build steps (all defined once in scripts/build.mjs)
+npm run standard:check | cms:check | nanoids:check | sitemaps:check | oai:validate:quick | bibliography:check
+npm run oai:validate     # adds xmllint XSD validation (scripts/check.mjs oai --xsd)
+npm run css              # purge + optimize _site/css in one process (css:purge, css:optimize separately)
+
+# Standard.site / AT Protocol (scripts/sequoia.mjs)
+npm run sequoia:publish:dry   # what the workflow would do, without touching the PDS
+npm run sequoia:prune         # list orphaned document records on the PDS (read-only)
 ```
 
 Eleventy 4 alpha logs benchmarks under `Eleventy::Benchmark`; `perf:benchmark` uses
@@ -266,4 +354,5 @@ Known costs that are **not** worth optimizing at current scale, with measurement
 - Pagefind index caching — the whole Pagefind step is 5s.
 - The six full walks of `content/**/*.md` across scripts and `_data/` — ~3-5s combined.
 - `_data/tagIndex.js`'s mtime-based cache key looks broken under git checkout, but Netlify
-  reuses `/opt/build/repo` between builds. **Verify before changing it.**
+  reuses `/opt/build/repo` between builds. Since 2026-09-23 the build log prints
+  `[tagIndex] {… "cacheHit": …}`; read that before changing anything.

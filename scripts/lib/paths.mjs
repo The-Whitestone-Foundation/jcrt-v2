@@ -17,6 +17,22 @@ export function normalizePath(value) {
 	return withLeadingSlash.endsWith("/") ? withLeadingSlash : `${withLeadingSlash}/`;
 }
 
+/** Every <loc> in a sitemap document, entity-decoded and trimmed, in document order. */
+export function sitemapLocs(xml) {
+	const out = [];
+	for (const match of String(xml || "").matchAll(/<loc>([^<]+)<\/loc>/g)) {
+		const value = match[1]
+			.replace(/&amp;/g, "&")
+			.replace(/&lt;/g, "<")
+			.replace(/&gt;/g, ">")
+			.replace(/&quot;/g, '"')
+			.replace(/&apos;/g, "'")
+			.trim();
+		if (value) out.push(value);
+	}
+	return out;
+}
+
 /** Site base URL without trailing slashes; fallback when empty. */
 export function normalizeUrl(value, fallback = "") {
 	const trimmed = String(value || "").trim().replace(/\/+$/, "");

@@ -14,7 +14,8 @@ Developed by Adam DJ Brett
 - Full OAI-PMH XSD validation (slow, manual): `npm run oai:validate`
 
 ## Standard.site / AT Protocol
-- `npm run sequoia:publish` is what the workflow runs. `npm run sequoia:sync` is the repair path: it pulls AT-URIs back from the PDS into `_data/standardSiteRecords.yaml` and content front matter when the workflow's commit step failed.
+- `npm run sequoia:publish` is what the workflow runs; only new or edited documents are written (staged files carry their existing AT-URI, so the CLI skips the rest). `npm run sequoia:publish:dry` shows the plan without touching the PDS. `npm run sequoia:sync` is the repair path: it pulls AT-URIs back from the PDS into `_data/standardSiteRecords.yaml` when the workflow's commit step failed — do not run it until the orphaned records are pruned (`npm run sequoia:prune` lists them; `node scripts/sequoia.mjs prune --max 4000` deletes, by hand, within the PDS rate budget).
+- The `atproto:` line in content front matter is a frozen legacy copy; nothing reads it. `_data/standardSiteRecords.yaml` is the only source of `<link rel="site.standard.document">`.
 
 ## Credits
 Full list with licenses in [CREDITS.md](CREDITS.md). In short:

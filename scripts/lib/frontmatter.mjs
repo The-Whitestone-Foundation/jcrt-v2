@@ -1,7 +1,7 @@
 // Front matter and YAML helpers shared by scripts/ and _data/. One parser, one contract:
 // parseFrontMatter always returns an object, never throws, and gives callers both the
 // parsed data and the raw block/body offsets so they can rewrite a file without
-// re-serialising YAML (apply-atproto-frontmatter.mjs depends on that).
+// re-serialising YAML (generate-nanoids.mjs depends on that).
 import fs from "node:fs";
 import * as yaml from "js-yaml";
 

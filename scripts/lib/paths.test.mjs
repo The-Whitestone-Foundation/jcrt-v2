@@ -1,6 +1,13 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { normalizePath, normalizeUrl, documentPathFor } from "./paths.mjs";
+import { normalizePath, normalizeUrl, documentPathFor, sitemapLocs } from "./paths.mjs";
+
+test("sitemapLocs decodes entities and skips empty locs", () => {
+	assert.deepEqual(
+		sitemapLocs("<urlset><url><loc> https://x.org/a?b=1&amp;c=2 </loc></url><url><loc></loc></url><url><loc>https://x.org/&quot;q&quot;</loc></url></urlset>"),
+		["https://x.org/a?b=1&c=2", 'https://x.org/"q"'],
+	);
+});
 
 test("normalizePath adds slashes and strips query/hash", () => {
 	assert.equal(normalizePath("/a/b?x=1#y"), "/a/b/");

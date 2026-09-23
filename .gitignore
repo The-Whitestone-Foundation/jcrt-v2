@@ -37,3 +37,5 @@ content/archives/**/*.gif
 public/images/**/*.pdf
 /.tmp-buildawesome-alpha
 /.tmp-buildawesome
+# IndexNow watermark (plugins/indexnow); carried between Netlify builds by utils.cache
+.indexnow-urls.json

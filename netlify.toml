@@ -5,9 +5,13 @@
 [build.environment]
   NODE_VERSION = "24"
   NPM_FLAGS = "--prefer-offline"
-  NPM_CONFIG_CACHE = ".npm-cache"
   ELEVENTY_ENV = "production"
   SITE_URL = "https://jcrt.org"
+
+# The IndexNow key is public by protocol (it is served at /<key>.txt from public/); it lives
+# here so plugins/indexnow can be exercised locally with the same value.
+[context.production.environment]
+  INDEXNOW_KEY = "c1cf137ca1024d45a2c0308f2468052e"
 
 [build.processing]
   skip_processing = true
@@ -38,16 +42,24 @@
   status = 302
   force = true
 
+# .cache holds _data/tagIndex.js's tag-index-cache.json. (.npm-cache used to be listed too; it
+# duplicated Netlify's own node_modules/npm cache and only made restore/save slower.)
 [[plugins]]
   package = "netlify-plugin-cache"
   [plugins.inputs]
-    paths = [".cache", ".npm-cache"]
+    paths = [".cache"]
 
 # Purges the Cloudflare edge cache once the production deploy is live. Needs
 # CLOUDFLARE_API_TOKEN and CLOUDFLARE_ZONE_ID; skips quietly without them, and skips
 # deploy previews and branch deploys. See jcrt-meta/docs/cloudflare-cache.md.
 [[plugins]]
   package = "./plugins/cloudflare-purge"
+
+# Announces new page URLs to IndexNow after the deploy is live and the edge is purged (onSuccess
+# handlers run in this order). Needs INDEXNOW_KEY (above); skips quietly without it. It keeps
+# its own watermark via utils.cache, so it does not depend on netlify-plugin-cache.
+[[plugins]]
+  package = "./plugins/indexnow"
 
 [[edge_functions]]
   function = "allow-indexing-bots"

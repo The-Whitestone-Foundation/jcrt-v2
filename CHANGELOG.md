@@ -8,6 +8,60 @@ Generated and kept current by `npm run changelog` — do not renumber by hand.
 Hand-written notes added under an entry are preserved; the generator only ever
 appends entries for commits that are not yet listed.
 
+## Unreleased — 2026-09-23 (working tree; fold these notes under the entry the next commit generates)
+build: stop the Standard.site publishing loop; scripts/ 24 → 14 files; workflows 4 → 3
+- Fixed: `publish-standard-site.yml` re-created every `site.standard.document` record on every
+  content push (new record keys, ~1,666-file bot commits, a second full Netlify deploy per push,
+  the PDS hourly write limit hit every run, 160+ "Rate Limit Exceeded" per run). Root cause:
+  the staging step regenerated `.sequoia/content` without an `atUri:` line and sequoia-cli
+  treats "hash changed, no atUri" as *create*. `scripts/sequoia.mjs stage` now emits the
+  existing URI from `_data/standardSiteRecords.yaml` byte-for-byte as the CLI would
+  (`scripts/sequoia.test.mjs` pins the format). Dry-run: 1,811 up to date, 11 never-published
+  creates, 5 one-time updates, 0 re-creates. Descriptions containing `---` are escaped so the
+  CLI's front-matter-end search can no longer land mid-string.
+- Fixed: the bot commit no longer rewrites `atproto:` into 1,842 content files (nothing reads
+  it; the CMS still declares the field so Decap keeps the line). Only the records map and
+  `.sequoia-state.json` are committed; state-only commits carry `[skip netlify]`.
+- Changed: `publish-standard-site.yml` runs on `main` only, checks out `ref: main` (a queued
+  run must see the previous run's commit), puts the publication record on manual dispatch
+  only, drops the never-fired quarterly schedule, the second `standard:check` and
+  `standard:audit`, pushes with rebase-and-retry, uploads the state as an artifact on
+  failure, 10-minute timeout. `sequoia-cli` pinned to 0.5.7 via `npx`.
+- Changed: `sequoia.json` `bluesky.enabled: false`; `publish-social` is the only Bluesky poster.
+- Added: `npm run sequoia:prune` (read-only listing) / `node scripts/sequoia.mjs prune --max N`
+  to delete orphaned document records on the PDS, budget-aware. Dry-run found 76,239 records
+  vs 1,816 live: 74,423 orphans. Run by hand, ≤ 8 × 4,000 per day, never during a publish run;
+  do not run `sequoia:sync` until it is done.
+- Removed: `indexnow.yml` (rebuilt the whole site on every push to read three sitemaps, and
+  pinged before Netlify had deployed). Replaced by `plugins/indexnow`, a Netlify `onSuccess`
+  plugin that submits only URLs new since the last deploy (watermark via `utils.cache`).
+- Consolidated `scripts/`: `sequoia.mjs` {stage|publication|records|audit|prune} replaces five
+  files; `check.mjs` {standard|cms|sitemaps|oai [--xsd]|bibliography} replaces five;
+  `css.mjs` {purge|optimize} replaces `optimize-css.mjs` + the purgecss CLI step (PurgeCSS JS
+  API, one process); pagefind moved into `build.mjs` (`_config/run-pagefind.js` deleted);
+  `cloudflare-purge.mjs` folded into its plugin (unused purge-by-URL dropped);
+  `check-zotero-import-shape.mjs` (no callers) deleted; `lib/paths.mjs` gained `sitemapLocs`.
+  `check.mjs standard` no longer greps another script's source text. Every npm script name
+  kept; `oai:validate` is `check.mjs oai --xsd`; `build.mjs --only` removed.
+- Build: PurgeCSS skips the ~4,900 template-generated taxonomy term pages (one sample of each
+  kept); purged CSS byte-identical, ~2.4 s off the local wall clock (22.8 s → 20.4 s).
+  `.npm-cache` dropped from `netlify-plugin-cache` and `NPM_CONFIG_CACHE` removed (duplicated
+  Netlify's own cache). `_data/tagIndex.js` logs its cache summary in build mode.
+- Verified locally: 19 tests pass; `_site` byte-identical to the pre-change build except
+  `admin/config.yml` (comment); every validator's stdout unchanged; `--serial` still works.
+
+## [00.04.39] — 2026-09-23
+Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2
+- Notes: Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2.
+
+## [00.04.38] — 2026-09-23
+Update carl-raschke.md
+- Notes: Update carl-raschke.md.
+
+## [00.04.37] — 2026-09-23
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
 ## [00.04.36] — 2026-09-23
 Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2
 - Notes: Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2.

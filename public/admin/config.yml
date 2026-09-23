@@ -8,7 +8,8 @@
 #
 # Machine-owned fields kept as `hidden`:
 #   nanoid   — scripts/generate-nanoids.mjs (permanent once committed)
-#   atproto  — scripts/apply-atproto-frontmatter.mjs (Standard.site AT URIs)
+#   atproto  — frozen legacy copy of a Standard.site AT URI; nothing reads or writes it any more
+#              (the live map is _data/standardSiteRecords.yaml). Declared so Decap keeps the line.
 #   subjects — FAST / Homosaurus authority records, curated outside the CMS
 #   affilation — legacy misspelling still present in 674 archive files and still read
 #                by _includes/post.njk and partials/archive_article.njk

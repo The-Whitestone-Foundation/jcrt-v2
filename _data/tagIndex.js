@@ -289,7 +289,11 @@ let inProcessMemo = {
 // shortcut only fires while nothing else defines a `tagIndex` key; if a
 // template's front matter ever does, Merge will throw on the frozen target.
 export default async function tagIndexData() {
-	return Object.freeze(await buildTagIndex());
+	const result = await buildTagIndex();
+	// One line in the Netlify deploy log answers whether the size+mtime cache key survives
+	// Netlify's checkout (it is only useful if `cacheHit` is ever true there).
+	if (process.env.ELEVENTY_RUN_MODE === "build") console.log(`[tagIndex] ${JSON.stringify(result.summary)}`);
+	return Object.freeze(result);
 }
 
 async function buildTagIndex() {

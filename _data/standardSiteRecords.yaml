@@ -1,5 +1,5 @@
 # Map canonical JCRT paths to published Standard.site document AT-URIs.
-# Generated from .sequoia/content by scripts/apply-sequoia-records.mjs.
+# Generated from .sequoia/content by scripts/sequoia.mjs records.
 /archives/01.2/adcock/: at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fpcsk42e
 /archives/01.2/canning/: at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fpaif22j
 /archives/01.2/long/: at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fp673g2g

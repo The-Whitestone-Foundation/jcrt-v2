@@ -3,7 +3,7 @@
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-09-09T00:00:00Z</responseDate>
+  <responseDate>2026-09-23T00:00:00Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://jcrt.org/oai</request>
   <ListRecords>
     <record>
@@ -46896,6 +46896,56 @@
           <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
           <dc:language>en</dc:language>
           <dc:relation>https://files.jcrt.org/religioustheory/9781350602502.pdf</dc:relation>
+          <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:jcrt.org:religioustheory:genealogy-enchantment-and-the-war-for-the-mind</identifier>
+        <datestamp>2026-09-23</datestamp>
+        <setSpec>philosophy</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Genealogy, Enchantment, and the War for the Mind</dc:title>
+          <dc:creator>Carl A. Raschke</dc:creator>
+          <dc:subject>Cognitive Warfare</dc:subject>
+          <dc:subject>Genealogy</dc:subject>
+          <dc:subject>Metamodernism</dc:subject>
+          <dc:subject>Disenchantment</dc:subject>
+          <dc:subject>Conspiracy Theory</dc:subject>
+          <dc:subject>Epistemology</dc:subject>
+          <dc:subject>Interviews</dc:subject>
+          <dc:subject>Critical Theory</dc:subject>
+          <dc:subject>Philosophy</dc:subject>
+          <dc:subject>Religion and Science</dc:subject>
+          <dc:subject>Conferences</dc:subject>
+          <dc:subject>interview</dc:subject>
+          <dc:subject>cognitive-warfare</dc:subject>
+          <dc:subject>genealogy</dc:subject>
+          <dc:subject>metamodernism</dc:subject>
+          <dc:subject>disenchantment</dc:subject>
+          <dc:subject>jason-ananda-josephson-storm</dc:subject>
+          <dc:subject>Critical theory</dc:subject>
+          <dc:subject>Knowledge, Theory of</dc:subject>
+          <dc:subject>Occultism</dc:subject>
+          <dc:subject>Postmodernism</dc:subject>
+          <dc:subject>Religion and science</dc:subject>
+          <dc:subject>Technology and civilization</dc:subject>
+          <dc:description>Carl Raschke interviews Jason Ānanda Josephson Storm on genealogy after genealogy, the myth of disenchantment, and the long history behind the militarization of the mind.</dc:description>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>2026-09-23</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>1530-5228</dc:identifier>
+          <dc:identifier>https://files.jcrt.org/religioustheory/genealogy-enchantment-and-the-war-for-the-mind.pdf</dc:identifier>
+          <dc:source>Journal for Cultural &amp; Religious Theory, ISSN 1530-5228</dc:source>
+          <dc:language>en</dc:language>
+          <dc:relation>https://files.jcrt.org/religioustheory/genealogy-enchantment-and-the-war-for-the-mind.pdf</dc:relation>
           <dc:rights>© 2026 the author(s). Published in the Journal for Cultural and Religious Theory under a Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Authors retain copyright.</dc:rights>
         </oai_dc:dc>
       </metadata>

@@ -1,12 +1,19 @@
 name: Publish Standard.site Records
 
+# Registers new or edited articles as site.standard.document records on the AT Protocol via
+# sequoia-cli, then commits the path → AT-URI map (which _includes/partials/seo.njk renders as
+# <link rel="site.standard.document">) and sequoia's state file back to main.
+#
+# Staged files carry their existing atUri (scripts/sequoia.mjs stage), so an unchanged document
+# is a no-op for the CLI and a push that only edits prose produces no bot commit at all.
+# A state-only change is committed with [skip netlify]: nothing rendered reads the state file.
+
 on:
-  workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - "content/**/*.md"
-  schedule:
-    - cron: "17 6 1 */3 *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,51 +26,70 @@ jobs:
   publish-standard-site:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 10
+    env:
+      ATP_IDENTIFIER: jcrt.org
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v6
+      # ref: main, not the triggering sha: a run queued behind another one must start from the
+      # previous run's bot commit, or it re-creates that run's documents and then fails to push.
+      - uses: actions/checkout@v6
         with:
+          ref: main
           fetch-depth: 1
 
-      - name: Set up Node
-        uses: actions/setup-node@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: "24"
           cache: npm
 
-      - name: Install dependencies
-        run: npm ci --no-audit --fund=false
+      - run: npm ci --no-audit --fund=false
 
       - name: Validate Standard.site output
         run: npm run standard:check
 
-      - name: Publish Standard.site documents to ATProto
-        if: github.event_name != 'schedule'
+      # Re-uploads the icon blob and re-puts the publication record. Manual runs only; the
+      # record does not change with content.
+      - name: Put publication record
+        if: github.event_name == 'workflow_dispatch'
         env:
-          ATP_IDENTIFIER: jcrt.org
+          ATP_APP_PASSWORD: ${{ secrets.ATPROTO_PASSWORD }}
+        run: npm run sequoia:publication
+
+      - name: Publish new and changed documents
+        env:
           ATP_APP_PASSWORD: ${{ secrets.ATPROTO_PASSWORD }}
         run: npm run sequoia:publish
 
-      - name: Verify Standard.site output
-        run: npm run standard:check && npm run standard:audit
-
-      - name: Commit Standard.site ATProto updates if changed
-        if: github.event_name != 'schedule'
+      - name: Commit record map and state if changed
         run: |
           set -euo pipefail
-
-          if [ -z "$(git status --porcelain -- _data/standardSiteRecords.yaml public/.well-known/site.standard.publication .sequoia-state.json content)" ]; then
-            echo "No Standard.site ATProto changes to commit."
+          paths="_data/standardSiteRecords.yaml .sequoia-state.json"
+          if [ -z "$(git status --porcelain -- $paths)" ]; then
+            echo "No Standard.site changes to commit."
             exit 0
           fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/standardSiteRecords.yaml public/.well-known/site.standard.publication content
-          if [ -f .sequoia-state.json ]; then
-            git add .sequoia-state.json
+          git add -- $paths
+          msg="chore: sync Standard.site ATProto records"
+          if git diff --cached --quiet -- _data/standardSiteRecords.yaml; then
+            msg="$msg [skip netlify]"
           fi
-          git commit -m "chore: sync Standard.site ATProto records"
-          git push
+          git commit -m "$msg"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
+
+      # Newly minted URIs must never be lost silently: if the push failed, keep the files.
+      - name: Save state on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: standard-site-state
+          path: |
+            _data/standardSiteRecords.yaml
+            .sequoia-state.json
+          if-no-files-found: ignore
