@@ -121,5 +121,6 @@
 </script>
 {% include "partials/icon-sprite.njk" %}
 <script defer src="/js/menu.js?v={{ assetVersion }}"></script>
+<script>if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js");</script>
 </body>
 </html>

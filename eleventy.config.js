@@ -418,6 +418,24 @@ function isPublishedItem(data = {}, runMode = process.env.ELEVENTY_RUN_MODE) {
 }
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
+// Pagefind indexes the HTML under _site. Only elements inside [data-pagefind-body] are indexed,
+// so the Google verification file (no such element) never enters the index; nothing needs to
+// be hidden from it. Do not rename files under _site here: Eleventy is still finishing writes.
+async function runPagefind() {
+	const { spawn } = await import("node:child_process");
+	await new Promise((resolve, reject) => {
+		const child = spawn("node_modules/.bin/pagefind", [
+			"--site", "_site",
+			"--force-language", "en",
+			"--root-selector", "[data-pagefind-body]",
+			"--exclude-selectors", ".tag-list,aside,[data-pagefind-ignore],.keywords,.categories",
+			"--quiet",
+		], { stdio: "inherit" });
+		child.on("error", reject);
+		child.on("close", (code) => (code === 0 ? resolve() : reject(new Error(`pagefind exited with code ${code}`))));
+	});
+}
+
 export default async function (eleventyConfig) {
 	// Performance optimizations
 	eleventyConfig.setQuietMode(!process.env.DEBUG?.includes("Benchmark"));
@@ -787,6 +805,30 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addFilter("jsonLd", jsonLd);
 	let bibliographyIndex;
 	eleventyConfig.on("eleventy.before", () => { bibliographyIndex = null; });
+
+	// Production post-build, in-process (there is no separate orchestrator): purge + minify the
+	// CSS, index with Pagefind, and run the three checks that read _site. The three are
+	// independent, so they overlap. A throw here fails the Eleventy process (exit 1), which is
+	// what gates the deploy. Dev/serve runs skip all of it.
+	eleventyConfig.on("eleventy.after", async ({ runMode }) => {
+		if (runMode !== "build") return;
+		const started = Date.now();
+		const timed = async (name, work) => {
+			const t = Date.now();
+			await work();
+			return `${name} ${((Date.now() - t) / 1000).toFixed(1)}s`;
+		};
+		const [{ purgeFiles, optimizeFiles }, { sitemaps, oai, bibliography }] = await Promise.all([
+			import("./scripts/css.mjs"),
+			import("./scripts/check.mjs"),
+		]);
+		const times = await Promise.all([
+			timed("css", async () => { await purgeFiles(); optimizeFiles(); }),
+			timed("pagefind", runPagefind),
+			timed("checks", async () => { await sitemaps(); await oai([]); await bibliography([]); }),
+		]);
+		console.log(`[build] after Eleventy: ${times.join(" ∥ ")} (${((Date.now() - started) / 1000).toFixed(1)}s wall)`);
+	});
 	eleventyConfig.addFilter("bibliographyPage", (page, collections, title) =>
 		bibliographyPage(bibliographyIndex ||= loadBibliography(), page, collections, title));
 	eleventyConfig.addFilter("preferWebp", function (value) {

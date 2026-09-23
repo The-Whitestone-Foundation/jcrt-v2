@@ -6,6 +6,10 @@
 /.well-known/traffic-advice
   Content-Type: application/trafficadvice+json
 
+# The service worker must never be cached long: browsers re-fetch it to pick up changes.
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
 /css/*
   Cache-Control: public, max-age=345600, stale-while-revalidate=604800
 

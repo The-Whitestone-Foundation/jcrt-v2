@@ -4,7 +4,6 @@
  *   node scripts/sequoia.mjs stage          content/** → .sequoia/content/*.md (sequoia-cli's input)
  *   node scripts/sequoia.mjs publication    put the site.standard.publication record (+ icon blob)
  *   node scripts/sequoia.mjs records        .sequoia/content atUri → _data/standardSiteRecords.yaml
- *   node scripts/sequoia.mjs audit          JSON coverage report; never fails
  *   node scripts/sequoia.mjs prune          delete orphaned site.standard.document records on the PDS
  *                                           (--dry-run lists without login; --max N caps deletes, default 4000)
  *
@@ -27,7 +26,6 @@ import { spawnSync } from "node:child_process";
 import { pathToFileURL } from "node:url";
 import * as yaml from "js-yaml";
 
-import standardSite from "../_data/standardSite.js";
 import { stripMarkdown } from "../_config/markdownTitle.js";
 import { parseFrontMatter, readYaml } from "./lib/frontmatter.mjs";
 import { walkFiles, isMarkdown } from "./lib/walk.mjs";
@@ -250,32 +248,6 @@ async function records() {
 	if (missing) console.warn(`Warning: ${missing} staged Sequoia documents do not have atUri values yet.`);
 }
 
-// ---------------------------------------------------------------- audit
-
-async function audit() {
-	const PRIORITY_PREFIXES = ["/blog/", "/religioustheory/", "/archives/", "/authors/"];
-	const map = readYaml(RECORDS_FILE);
-	const documents = standardSite().documents;
-	const byPrefix = new Map([...PRIORITY_PREFIXES, "(other)"].map((prefix) => [prefix, { documents: 0, withAtUri: 0, missingAtUri: 0 }]));
-	for (const document of documents) {
-		const row = byPrefix.get(PRIORITY_PREFIXES.find((prefix) => document.path.startsWith(prefix)) || "(other)");
-		row.documents += 1;
-		if (map[document.path]) row.withAtUri += 1;
-		else row.missingAtUri += 1;
-	}
-	const missingDocuments = documents.filter((document) => !map[document.path]);
-	console.log(JSON.stringify({
-		generatedAt: new Date().toISOString(),
-		documents: {
-			total: documents.length,
-			withAtUri: documents.length - missingDocuments.length,
-			missingAtUri: missingDocuments.length,
-			byPriority: Object.fromEntries(byPrefix),
-			firstMissingAtUri: missingDocuments.slice(0, 25).map((document) => document.path),
-		},
-	}, null, 2));
-}
-
 // ---------------------------------------------------------------- prune
 
 // TIDs are 13 chars of sortable base32; value >> 10 is microseconds since the epoch.
@@ -393,7 +365,7 @@ async function prune(args) {
 
 // ---------------------------------------------------------------- CLI
 
-const commands = { stage, publication, records, audit, prune };
+const commands = { stage, publication, records, prune };
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
 	const [name = "", ...args] = process.argv.slice(2);

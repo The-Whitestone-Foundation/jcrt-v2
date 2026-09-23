@@ -50,6 +50,14 @@ build: stop the Standard.site publishing loop; scripts/ 24 → 14 files; workflo
 - Verified locally: 19 tests pass; `_site` byte-identical to the pre-change build except
   `admin/config.yml` (comment); every validator's stdout unchanged; `--serial` still works.
 
+## [00.04.41] — 2026-09-23
+chore: sync Standard.site ATProto records
+- Notes: chore: sync Standard.site ATProto records.
+
+## [00.04.40] — 2026-09-23
+site optimization
+- Notes: site optimization.
+
 ## [00.04.39] — 2026-09-23
 Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2
 - Notes: Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2.

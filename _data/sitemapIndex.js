@@ -14,15 +14,15 @@ const EXCLUDED_FROM_MAIN_INDEX = new Set([
 	"/sitemaps/sitemaps.xml",
 	"/media-sitemap.xml",
 	"/sitemaps/datacite.xml",
+	"/sitemaps/oai_dc.xml",
+	"/sitemaps/doaj-archives.xml",
 	// jats-sitemap.xml is a valid <urlset>, but it lists metadata-only XML records that
 	// carry X-Robots-Tag: noindex (public/_headers). Google was filing all 771 of them
 	// under "Crawled - currently not indexed"; they stay discoverable via rel=alternate.
 	"/sitemaps/jats-sitemap.xml",
 ]);
-const LOCAL_METADATA_SITEMAPS = [
-	{ path: "/sitemaps/citations/ris-sitemap.xml", file: path.join("public", "sitemaps", "citations", "ris-sitemap.xml") },
-	{ path: "/sitemaps/citations/csl-json-sitemap.xml", file: path.join("public", "sitemaps", "citations", "csl-json-sitemap.xml") },
-];
+// Built by content/sitemaps/oai-feeds.11ty.js from _data/oaiFeeds.js (valid <urlset>s).
+const LOCAL_METADATA_SITEMAPS = ["/sitemaps/citations/ris-sitemap.xml", "/sitemaps/citations/csl-json-sitemap.xml"];
 // Intentionally empty. A <sitemapindex> entry must resolve to a <urlset> or a nested
 // index; RSS feeds and /feed/twtxt.txt are neither, and listing them here made the root
 // sitemap.xml unparseable as an index. Feeds are advertised via <link rel="alternate">.
@@ -36,15 +36,6 @@ function toDateOnly(value) {
 
 function getFallbackLastmod() {
 	return toDateOnly(new Date());
-}
-
-function getFileLastmodOrEmpty(filePath) {
-	try {
-		const stat = fs.statSync(filePath);
-		return toDateOnly(stat.mtime);
-	} catch {
-		return "";
-	}
 }
 
 /** Build the sitemap index: every content/sitemaps/*.xml.njk plus the CDN and citation sitemaps, deduplicated. */
@@ -80,12 +71,8 @@ export default function sitemapIndex() {
 		lastmod: "",
 	});
 
-	// Always include local metadata sitemaps
-	for (const ext of LOCAL_METADATA_SITEMAPS) {
-		entries.push({
-			path: ext.path,
-			lastmod: getFileLastmodOrEmpty(path.resolve(process.cwd(), ext.file)) || fallbackLastmod,
-		});
+	for (const sitemapPath of LOCAL_METADATA_SITEMAPS) {
+		entries.push({ path: sitemapPath, lastmod: fallbackLastmod });
 	}
 
 	// philpapers.xml is an RSS feed, not a <urlset>, so it does not belong in a

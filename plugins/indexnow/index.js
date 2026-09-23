@@ -59,8 +59,11 @@ function writeState(stateFile, urls) {
 /**
  * Submit every page URL that is new since the last recorded run. Never throws: a search-engine
  * ping must not fail a deploy. Returns counts for logging.
+ *
+ * Not exported: Netlify treats every named export of a plugin as a lifecycle event and fails
+ * the build on any name it does not know. Only onSuccess may be exported from this file.
  */
-export async function submitIndexNow({ siteDir = "_site", stateFile = STATE_FILE, env = process.env } = {}) {
+async function submitIndexNow({ siteDir = "_site", stateFile = STATE_FILE, env = process.env } = {}) {
 	const key = String(env.INDEXNOW_KEY || "").trim();
 	if (!key) {
 		console.log("[indexnow] INDEXNOW_KEY not set; skipping submission.");

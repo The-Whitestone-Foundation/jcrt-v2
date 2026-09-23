@@ -1,17 +1,17 @@
 /**
- * Build-time validators, one subcommand each. All are read-only; each prints its own report and
- * sets a non-zero exit code on failure (never process.exit, so the module is safe to import).
+ * Build-time validators, one subcommand each. All are read-only; each prints its own report
+ * and throws CheckFailed on failure, so the CLI exits 1 and the Eleventy after-build hook
+ * (eleventy.config.js) fails the build. Never process.exit: the module is imported.
  *
+ *   node scripts/check.mjs pre             standard + cms (before Eleventy; npm run build:netlify)
  *   node scripts/check.mjs standard        _data/standardSite.js output + standardSiteRecords.yaml
  *   node scripts/check.mjs cms             every front-matter key is declared in public/admin/config.yml
  *   node scripts/check.mjs sitemaps        every same-host <loc> in the _site sitemap tree exists (case-exact)
- *   node scripts/check.mjs oai [--xsd]     OAI-PMH protocol checks over _site; --xsd adds xmllint schema validation
+ *   node scripts/check.mjs oai             OAI-PMH protocol checks over the built feed and records index
  *   node scripts/check.mjs bibliography [--verbose]   <meta>/JSON-LD on every built article and collection page
  */
 import fs from "node:fs";
-import os from "node:os";
 import path from "node:path";
-import { spawnSync } from "node:child_process";
 import { pathToFileURL } from "node:url";
 import * as yaml from "js-yaml";
 
@@ -26,6 +26,9 @@ import { publicationRecord, readStandardSiteConfig, PUBLICATION_ICON_FILE } from
 const ROOT = process.cwd();
 const SITE_DIR = path.join(ROOT, "_site");
 const CONTENT_DIR = path.join(ROOT, "content");
+
+/** Thrown after a check has already printed its own report; the CLI does not print it again. */
+export class CheckFailed extends Error {}
 
 // ================================================================ standard
 
@@ -116,8 +119,7 @@ async function standard() {
 	if (errors.length) {
 		console.error("Standard.site validation failed:");
 		for (const error of errors) console.error(`- ${error}`);
-		process.exitCode = 1;
-		return;
+		throw new CheckFailed(`Standard.site validation failed (${errors.length} error(s)).`);
 	}
 	console.log(`Standard.site validation passed (${payload.documents.length} documents).`);
 }
@@ -184,10 +186,17 @@ async function cms() {
 
 	if (failures) {
 		console.error(`\ncheck-cms-fields: ${failures} undeclared key(s) — editing these entries in the CMS would delete them.`);
-		process.exitCode = 1;
-		return;
+		throw new CheckFailed(`check-cms-fields: ${failures} undeclared key(s).`);
 	}
 	console.log("\ncheck-cms-fields: every front matter key is declared in public/admin/config.yml");
+}
+
+// ================================================================ pre
+// Everything that must hold before Eleventy runs; serial so a failure is the last thing printed.
+
+async function pre() {
+	await standard();
+	await cms();
 }
 
 // ================================================================ sitemaps
@@ -315,54 +324,18 @@ async function sitemaps() {
 		console.log(`[sitemaps:check] ${count} sitemap files, ${checked} local locs checked, ${external} external locs skipped, 0 missing.`);
 	} catch (error) {
 		console.error(`[sitemaps:check] ${error?.message || error}`);
-		process.exitCode = 1;
+		throw new CheckFailed(`[sitemaps:check] ${error?.message || error}`);
 	}
 }
 
 // ================================================================ oai
 
-async function oai(args) {
+async function oai() {
 	const OAI_XML_PATH = path.join(SITE_DIR, "sitemaps", "oai_dc.xml");
 	const OAI_INDEX_PATH = path.join(SITE_DIR, "sitemaps", "oai-records.json");
-	const SCHEMA_DIR = path.join(ROOT, "scripts", "schemas", "oai");
-	const OAI_PMH_SCHEMA = path.join(SCHEMA_DIR, "OAI-PMH.xsd");
-	const OAI_DC_SCHEMA = path.join(SCHEMA_DIR, "oai_dc.xsd");
-	const wantXsd = args.includes("--xsd");
-	const REQUIRE_XSD = String(process.env.OAI_REQUIRE_XSD || "0").trim() === "1";
 
 	const assert = (condition, message) => { if (!condition) throw new Error(message); };
 	const mustExist = (filePath) => assert(fs.existsSync(filePath), `Missing required file: ${filePath}`);
-	const runXmllint = (xmlArgs, label) => {
-		const result = spawnSync("xmllint", xmlArgs, { encoding: "utf8" });
-		if (result.status !== 0) {
-			const detail = [result.stdout, result.stderr].filter(Boolean).join("\n").trim();
-			throw new Error(`[oai:validate] xmllint failed for ${label}\n${detail}`);
-		}
-	};
-	const hasXmllint = () => spawnSync("xmllint", ["--version"], { encoding: "utf8" }).status === 0;
-	const schemasAvailable = () => fs.existsSync(OAI_PMH_SCHEMA) && fs.existsSync(OAI_DC_SCHEMA);
-	const patchOaiDcSchemaLocation = (xml) => String(xml).replaceAll("http://www.openarchives.org/OAI/2.0/oai_dc.xsd", OAI_DC_SCHEMA);
-	const stripMetadataBlocks = (xml) => String(xml).replace(/<metadata>[\s\S]*?<\/metadata>/g, "");
-	const extractOaiDcBlocks = (xml) => String(xml).match(/<oai_dc:dc\b[\s\S]*?<\/oai_dc:dc>/g) || [];
-	const writeTempXml = (dir, name, xml) => {
-		const filePath = path.join(dir, name);
-		fs.writeFileSync(filePath, patchOaiDcSchemaLocation(xml), "utf8");
-		return filePath;
-	};
-	const validateAgainstOaiSchema = (tempDir, label, xml) => {
-		const filePath = writeTempXml(tempDir, `${label}.xml`, stripMetadataBlocks(xml));
-		runXmllint(["--noout", filePath], `${label} (well-formed)`);
-		runXmllint(["--noout", "--schema", OAI_PMH_SCHEMA, filePath], `${label} (schema)`);
-	};
-	const validateOaiDcBlocks = (tempDir, label, xml) => {
-		const blocks = extractOaiDcBlocks(xml);
-		assert(blocks.length > 0, `No oai_dc:dc blocks found for ${label}`);
-		for (let i = 0; i < blocks.length; i += 1) {
-			const filePath = writeTempXml(tempDir, `${label}-oai-dc-${i + 1}.xml`, blocks[i]);
-			runXmllint(["--noout", filePath], `${label} oai_dc block #${i + 1} (well-formed)`);
-			runXmllint(["--noout", "--schema", OAI_DC_SCHEMA, filePath], `${label} oai_dc block #${i + 1} (schema)`);
-		}
-	};
 
 	const runProtocolChecks = ({ baseURL, records, identify }) => {
 		const firstId = String(records?.[0]?.identifier || "").trim();
@@ -449,46 +422,11 @@ async function oai(args) {
 			compressions: index.compressions,
 		};
 
-		if (!wantXsd) {
-			runQuickChecks({ baseURL, records, identify });
-			console.log(`[oai:validate] Quick protocol checks passed (${records.length} record(s)).`);
-			return;
-		}
-
-		const hasSchemas = schemasAvailable();
-		const lintAvailable = hasXmllint();
-		if (!hasSchemas || !lintAvailable) {
-			if (REQUIRE_XSD) {
-				if (!hasSchemas) throw new Error("[oai:validate] XSD validation is required but schema files are missing.");
-				throw new Error("[oai:validate] XSD validation is required but xmllint is not available in PATH.");
-			}
-			const reason = [!hasSchemas ? "schema files missing" : "", !lintAvailable ? "xmllint missing" : ""].filter(Boolean).join(", ");
-			console.warn(`[oai:validate] XSD checks skipped (${reason}); running quick protocol checks instead.`);
-			runQuickChecks({ baseURL, records, identify });
-			console.log(`[oai:validate] Quick protocol checks passed (${records.length} record(s)).`);
-			return;
-		}
-
-		const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), "jcrt-oai-validate-"));
-		try {
-			const staticXml = fs.readFileSync(OAI_XML_PATH, "utf8");
-			validateAgainstOaiSchema(tempDir, "static-listrecords", staticXml);
-			validateOaiDcBlocks(tempDir, "static-listrecords", staticXml);
-			validateOaiDcBlocks(tempDir, "primo-listrecords", renderPrimoListRecordsResponse({ records }));
-			for (const output of runProtocolChecks({ baseURL, records, identify })) {
-				const safeName = output.name.toLowerCase().replace(/[^a-z0-9]+/g, "-");
-				validateAgainstOaiSchema(tempDir, `protocol-${safeName}`, output.xml);
-				if (output.xml.includes("<oai_dc:dc")) validateOaiDcBlocks(tempDir, `protocol-${safeName}`, output.xml);
-			}
-			assertIncrementalDayGranularity({ baseURL, records, identify });
-			assertResumptionFlow({ baseURL, records, identify });
-		} finally {
-			fs.rmSync(tempDir, { recursive: true, force: true });
-		}
-		console.log(`[oai:validate] Protocol and XSD checks passed (${records.length} record(s)).`);
+		runQuickChecks({ baseURL, records, identify });
+		console.log(`[oai:validate] Quick protocol checks passed (${records.length} record(s)).`);
 	} catch (error) {
 		console.error(String(error?.message || error));
-		process.exitCode = 1;
+		throw new CheckFailed(String(error?.message || error));
 	}
 }
 
@@ -693,8 +631,7 @@ async function bibliography(args) {
 
 	if (!fs.existsSync(SITE_DIR)) {
 		console.error("check-bibliography: _site is missing; build Eleventy first.");
-		process.exitCode = 1;
-		return;
+		throw new CheckFailed("check-bibliography: _site is missing.");
 	}
 
 	const index = loadBibliography(ROOT);
@@ -732,16 +669,17 @@ async function bibliography(args) {
 	const total = Object.values(index.records).length;
 	const summary = `${total} articles/posts and ${collectionRoutes.length} collection pages audited`;
 	if (failures.size) {
-		console.error(`\ncheck-bibliography: failed (${[...failures.values()].reduce((sum, items) => sum + items.length, 0)} findings; ${summary}).`);
-		process.exitCode = 1;
-		return;
+		const count = [...failures.values()].reduce((sum, items) => sum + items.length, 0);
+		console.error(`\ncheck-bibliography: failed (${count} findings; ${summary}).`);
+		throw new CheckFailed(`check-bibliography: ${count} finding(s).`);
 	}
 	console.log(`\ncheck-bibliography: passed (${summary}).`);
 }
 
 // ================================================================ CLI
 
-const commands = { standard, cms, sitemaps, oai, bibliography };
+export { pre, standard, cms, sitemaps, oai, bibliography };
+const commands = { pre, standard, cms, sitemaps, oai, bibliography };
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
 	const [name = "", ...args] = process.argv.slice(2);
@@ -752,7 +690,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
 	try {
 		await commands[name](args);
 	} catch (error) {
-		console.error(error.message);
+		if (!(error instanceof CheckFailed)) console.error(error.message);
 		process.exitCode = 1;
 	}
 }

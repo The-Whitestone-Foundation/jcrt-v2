@@ -19,8 +19,13 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
-import { NANOID_SIZE, newNanoid } from "./lib/nanoid.mjs";
+import { nanoid } from "nanoid";
 import { walkFiles, isMarkdown } from "./lib/walk.mjs";
+
+// Id length, repo-wide. The default nanoid alphabet is URL-safe (A-Za-z0-9_-, 64 symbols);
+// 64^7 ≈ 4.4e12, and new ids are deduped against every id in use, so a repeat is impossible.
+const NANOID_SIZE = 7;
+const newNanoid = () => nanoid(NANOID_SIZE);
 
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CONTENT_DIR = path.join(REPO_ROOT, "content");

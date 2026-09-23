@@ -27,7 +27,9 @@ function credentials() {
 	};
 }
 
-export async function purgeEverything({ token, zoneId }) {
+// Not exported: Netlify treats every named export of a plugin as a lifecycle event and fails
+// the build on any name it does not know ("Invalid event 'purgeEverything'").
+async function purgeEverything({ token, zoneId }) {
 	const response = await fetch(`${API_ROOT}/zones/${zoneId}/purge_cache`, {
 		method: "POST",
 		headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
