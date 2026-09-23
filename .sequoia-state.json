@@ -1,9 +1,9 @@
 {
   "posts": {
     ".sequoia/content/authors-celinet-duran-jimenez.md": {
-      "contentHash": "c62c584608af9fc561f47618cd48f4bedf3c9fa11c246ee4ce134e912643f543",
+      "contentHash": "b86cfab24465b9e5b1ef9a7b9920f63abd60f331935686867bf0c682990a2605",
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqh5gm7322",
-      "lastPublished": "2026-09-03T05:41:24.409Z",
+      "lastPublished": "2026-09-23T17:35:04.135Z",
       "slug": "authors/celinet-duran-jimenez/"
     },
     ".sequoia/content/authors-charles-e-winquist.md": {
@@ -247,9 +247,9 @@
       "slug": "authors/danielle-celermajer/"
     },
     ".sequoia/content/authors-danielle-s-nagle.md": {
-      "contentHash": "d98b8f72f2079322e6bc13bfafe363f236561d69ac29982f1c550f79dba7ed19",
+      "contentHash": "80d6aa1243bbd0dfdf6121ac7fc85468408fa577a93903da77fe098f47a87f96",
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqh4aeim2p",
-      "lastPublished": "2026-09-03T05:41:23.162Z",
+      "lastPublished": "2026-09-23T17:35:04.014Z",
       "slug": "authors/danielle-s-nagle/"
     },
     ".sequoia/content/authors-darlene-m-juschka.md": {
@@ -2335,9 +2335,9 @@
       "slug": "authors/pramod-k-nayar/"
     },
     ".sequoia/content/authors-pranay-somayajula.md": {
-      "contentHash": "71bb0efd8a193f22f26bb565eca1bd6ac1150701541a68c74b0976c982b9a2fa",
-      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fz6rud2q",
-      "lastPublished": "2026-09-23T15:43:24.253Z",
+      "contentHash": "ef81e234222756ad2910f073ee2688d44c575fce13cc873af6da5aaa02663b0e",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgr6bm32u",
+      "lastPublished": "2026-09-23T17:35:03.894Z",
       "slug": "authors/pranay-somayajula/"
     },
     ".sequoia/content/authors-r-m-van-de-weg.md": {
@@ -2503,9 +2503,9 @@
       "slug": "authors/robert-valgenti/"
     },
     ".sequoia/content/authors-roberta-hurtado.md": {
-      "contentHash": "66242155b5e5b7142963e02bb26d4531cc20c64fbad20e1acaefa8fab2fa546d",
-      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73fwyrn62g",
-      "lastPublished": "2026-09-23T15:43:21.953Z",
+      "contentHash": "af9ec019f282536f9dfafb310a4d2a926ddaede5d3e7d8311e508c0e855ed654",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mulqgqbhny2b",
+      "lastPublished": "2026-09-23T17:35:03.777Z",
       "slug": "authors/roberta-hurtado/"
     },
     ".sequoia/content/authors-rocco-gangle.md": {
@@ -10513,9 +10513,9 @@
       "slug": "authors/adam-f-braun/"
     },
     ".sequoia/content/authors-adam-dj-brett.md": {
-      "contentHash": "f3f022ca869456e8aa5cccb123163596cea3ba17a15d7a850c91b7152117e476",
+      "contentHash": "90daaedeac60166a9f6a70457cc5d272f07a5146825c81805dd7be880846ec7b",
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mrh3bmnyez27",
-      "lastPublished": "2026-07-25T04:56:16.676Z",
+      "lastPublished": "2026-09-23T17:35:04.324Z",
       "slug": "authors/adam-dj-brett/"
     },
     ".sequoia/content/authors-ada-s-jaarsma.md": {
@@ -11165,6 +11165,72 @@
         "uri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/app.bsky.feed.post/3mw73cza64t26",
         "cid": "bafyreifqfdhabxtktibcungawcqxgfgrdevqzw6gzual4drsryqm2y74cm"
       }
+    },
+    ".sequoia/content/authors-adam-loch.md": {
+      "contentHash": "733c6bc9c9caf1b3b401ea5e0212d18216743cf0e17cb8417b232a68ba68e667",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnor2si27",
+      "lastPublished": "2026-09-23T17:35:04.202Z",
+      "slug": "authors/adam-loch/"
+    },
+    ".sequoia/content/authors-aaron-t-lockhart.md": {
+      "contentHash": "8c4d426fd8523d3294acfed7546da3886883f0090241521f613054fb650b1055",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnowudl2i",
+      "lastPublished": "2026-09-23T17:35:04.392Z",
+      "slug": "authors/aaron-t-lockhart/"
+    },
+    ".sequoia/content/archives-01-1-young.md": {
+      "contentHash": "daeca1966e3ffe329c8b6fc18b12e709e98420ea680fc64f88bd11ca41a303cd",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnp2aq22g",
+      "lastPublished": "2026-09-23T17:35:04.502Z",
+      "slug": "archives/01.1/young/"
+    },
+    ".sequoia/content/archives-01-1-winquist.md": {
+      "contentHash": "dc1818f554d83c36a4e36ae23b5c7812433b2f880379f6a07ef6f5f029492fde",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnp4c5r25",
+      "lastPublished": "2026-09-23T17:35:04.568Z",
+      "slug": "archives/01.1/winquist/"
+    },
+    ".sequoia/content/archives-01-1-vahanian.md": {
+      "contentHash": "4b70479e15fa51687aaca36506dd0ae8eef127629732c76815dfbb6713762a24",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnp6elm2i",
+      "lastPublished": "2026-09-23T17:35:04.644Z",
+      "slug": "archives/01.1/vahanian/"
+    },
+    ".sequoia/content/archives-01-1-reinhard-lupton.md": {
+      "contentHash": "3e92861e13dd7564e97f1acc69e925bfb817759a3fb3c098b2d821ba50224c1b",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpalvj2x",
+      "lastPublished": "2026-09-23T17:35:04.711Z",
+      "slug": "archives/01.1/reinhard_lupton/"
+    },
+    ".sequoia/content/archives-01-1-raschke.md": {
+      "contentHash": "a0ad7c8731899deb28805044f243c16b0fdb9883f9d1bc803319c1de65151765",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpcobk26",
+      "lastPublished": "2026-09-23T17:35:04.778Z",
+      "slug": "archives/01.1/raschke/"
+    },
+    ".sequoia/content/archives-01-1-lee.md": {
+      "contentHash": "a14b048a2a50fe5ecb53a4a0c33c0d20c90937cb09fc05af9851e75891a35ffd",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpepqg24",
+      "lastPublished": "2026-09-23T17:35:04.847Z",
+      "slug": "archives/01.1/lee/"
+    },
+    ".sequoia/content/archives-01-1-lambert.md": {
+      "contentHash": "002ecc7730b082b4c52b76d48d615c97abdf1b6b6a52ac608a240bb6269fa17b",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpgt2t2q",
+      "lastPublished": "2026-09-23T17:35:04.918Z",
+      "slug": "archives/01.1/lambert/"
+    },
+    ".sequoia/content/archives-01-1-kavka.md": {
+      "contentHash": "431da27ebfda71bd1a2993fff74a1b507f8cc76cab1e5a703b28e08fe0a71fdf",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpixie2j",
+      "lastPublished": "2026-09-23T17:35:04.983Z",
+      "slug": "archives/01.1/kavka/"
+    },
+    ".sequoia/content/archives-01-1-crockett.md": {
+      "contentHash": "75ea7adae096548abd0150d4d1f2d6fb343a6b1acb614ec91d395ff9dcc1289b",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpkwvb23",
+      "lastPublished": "2026-09-23T17:35:05.052Z",
+      "slug": "archives/01.1/crockett/"
     }
   },
   "publication": {
