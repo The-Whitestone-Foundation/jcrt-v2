@@ -6,6 +6,7 @@ description: "Registration is now open for the online JCRT conference Religion, 
 image: https://files.jcrt.org/images/header.webp
 thumbnail: https://files.jcrt.org/images/header_tn.webp
 date: 2026-08-15T12:00:00.000-04:00
+modified: 2026-09-23T17:00:00.000-05:00
 tags:
   - call-for-papers
   - conference
@@ -44,6 +45,8 @@ The talk will trace the emergence of these conceptions of the mind to a Cold War
 Ahead of the keynote, Carl Raschke interviewed Josephson Storm for JCRT: read [“Genealogy, Enchantment, and the War for the Mind”](/religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/).
 
 <p style="text-align:center; margin: 2.5rem 0 1rem;"><a class="btn btn-primary btn-lg rounded-pill" href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#B42318; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(180,35,24,0.25);">Register Now</a></p>
+<p>if you have any questions please [contact us](/contact/) at editor@jcrt.org</p>
+<hr />
 
 <style>
 .jcrt-sched{text-align:left;margin:1.5rem 0}

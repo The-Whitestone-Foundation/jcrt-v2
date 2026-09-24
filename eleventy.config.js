@@ -482,6 +482,20 @@ export default async function (eleventyConfig) {
 		return dt.toFormat(format);
 	});
 	
+	// `modified:` in front matter replaces `date`, so the shown date, every collection
+	// sort, feeds and sitemaps all follow the edit date. Uses gray-matter's own js-yaml
+	// (v4; the top-level one is v5) so parsing is otherwise unchanged.
+	const frontMatterYaml = createRequire(require.resolve("@11ty/gray-matter"))("js-yaml");
+	eleventyConfig.setFrontMatterParsingOptions({
+		engines: {
+			yaml: (str) => {
+				const data = frontMatterYaml.load(str);
+				if (data?.modified) data.date = data.modified;
+				return data;
+			},
+		},
+	});
+
 	eleventyConfig.addDateParsing(function (dateValue) {
 		let localDate;
 		if (dateValue instanceof Date) {
