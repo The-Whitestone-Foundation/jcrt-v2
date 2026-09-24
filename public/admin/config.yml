@@ -141,6 +141,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text", hint: "A short summary of the post.", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime",required: false}
+      - {label: "Last Modified", name: "modified", widget: "datetime", required: false, hint: "When set, replaces the publish date on the site and in sorting."}
       - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "DOI", name: "doi", widget: "string", required: false, hint: "Bare DOI, e.g. 10.17613/abcde-12345"}
@@ -266,6 +267,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+      - {label: "Last Modified", name: "modified", widget: "datetime", required: false, hint: "When set, replaces the publish date on the site and in sorting."}
       - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "Slug", name: "slug", widget: "string", required: false, hint: "Legacy WordPress id or slug. Leave alone on existing posts — URLs depend on it."}
       - {label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Only set to override the default /religioustheory/posts/<slug>/."}

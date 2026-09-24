@@ -92,6 +92,14 @@ Round 3 (same day): under the 60-second Netlify build minute.
 - Measured on the 13:15 deploy: build command 28.2 s, deploy 10.6 s (650 files), "Netlify Build
   completed in 42.3s", 54.1 s end to end. One billed minute per deploy, down from two.
 
+## [00.04.48] — 2026-09-24
+chore: sync Standard.site ATProto records [skip netlify]
+- Notes: chore: sync Standard.site ATProto records [skip netlify].
+
+## [00.04.47] — 2026-09-23
+fix date
+- Notes: fix date.
+
 ## [00.04.46] — 2026-09-23
 adding schedule
 - Notes: adding schedule.
