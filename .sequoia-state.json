@@ -10775,14 +10775,10 @@
       }
     },
     ".sequoia/content/blog-2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare.md": {
-      "contentHash": "3dd8460c7a43763475c72433ffc5cd56bfb25812869dc61098649d9ef4eea952",
+      "contentHash": "308b2340bbf4e7d9440085607c494ed1fc11def40c761cd51dc26f46deb5528d",
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d2uc372l",
-      "lastPublished": "2026-09-23T15:41:45.339Z",
-      "slug": "blog/2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare/",
-      "bskyPostRef": {
-        "uri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/app.bsky.feed.post/3mtauxlbuy22e",
-        "cid": "bafyreiglwrip5ymx2xaitfybgjcjvftoss7fok6j6v3zos6prd4jso2524"
-      }
+      "lastPublished": "2026-09-24T02:56:39.097Z",
+      "slug": "blog/2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare/"
     },
     ".sequoia/content/religioustheory-posts-9780593493205.md": {
       "contentHash": "ce5dbd649a14ddad622f332943fb45958f98572b6cc6e5f55bb667e2bd6a4ae4",
@@ -11157,14 +11153,10 @@
       }
     },
     ".sequoia/content/religioustheory-posts-genealogy-enchantment-and-the-war-for-the-mind.md": {
-      "contentHash": "55f075942e4651ba731f70cc2eaa036277b4d7551fcbdfdd9ee0a48f74a723ae",
+      "contentHash": "795e2fac065031a31a893a6ce603a0408f0e0dc558c924f338c47a74fd518ac4",
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73cz5k5g27",
-      "lastPublished": "2026-09-23T15:41:43.993Z",
-      "slug": "religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/",
-      "bskyPostRef": {
-        "uri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/app.bsky.feed.post/3mw73cza64t26",
-        "cid": "bafyreifqfdhabxtktibcungawcqxgfgrdevqzw6gzual4drsryqm2y74cm"
-      }
+      "lastPublished": "2026-09-24T02:56:39.025Z",
+      "slug": "religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/"
     },
     ".sequoia/content/authors-adam-loch.md": {
       "contentHash": "733c6bc9c9caf1b3b401ea5e0212d18216743cf0e17cb8417b232a68ba68e667",
