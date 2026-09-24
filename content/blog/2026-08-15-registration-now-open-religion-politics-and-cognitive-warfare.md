@@ -42,12 +42,13 @@ The talk will trace the emergence of these conceptions of the mind to a Cold War
 
 *[Jason Ānanda Josephson Storm](https://religion.williams.edu/faculty/jason-josephson/) is the Francis Christopher Oakley Third Century Professor of Religion, Chair of Science & Technology Studies at Williams College and author of* [The Genealogy of Genealogy: Nietzsche, Foucault, and the Coils of Critical History](https://press.uchicago.edu/ucp/books/book/chicago/G/bo265446241.html) *and* [Metamodernism: The Future of Theory](https://amzn.to/36LNa2q).
 
-Ahead of the keynote, Carl Raschke interviewed Josephson Storm for JCRT: read [“Genealogy, Enchantment, and the War for the Mind”](/religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/).
+Ahead of the keynote, Carl Raschke interviewed Josephson Storm read [“Genealogy, Enchantment, and the War for the Mind”](/religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/).
 
 <p style="text-align:center; margin: 2.5rem 0 1rem;"><a class="btn btn-primary btn-lg rounded-pill" href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#B42318; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(180,35,24,0.25);">Register Now</a></p>
-<p>if you have any questions please [contact us](/contact/) at editor@jcrt.org</p>
 <hr />
-
+<p>If you have any questions please <a href="/contact/">contact us</a> at <a href="mailto:editor@jcrt.org">editor@jcrt.org</a> </p>
+<p><em>Please note in order to assist with the possiblity of supporting presenters into becoming authors each session will be recorded.</em></p>
+<hr />
 <style>
 .jcrt-sched{text-align:left;margin:1.5rem 0}
 .jcrt-sched h3,.jcrt-sched h4{font-family:var(--jcrt-slab-stack,serif);text-align:left}
