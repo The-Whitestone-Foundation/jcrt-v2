@@ -376,3 +376,9 @@ Anyway, it has been a pleasure chatting with you! I’m looking forward to the c
 
 Carl A. Raschke  
 *University of Denver*
+
+* * *
+## Further Resources
+* [The metamodernist turn | Hilary Lawson, Linda Martín Alcoff, Jason Ānanda Josephson](https://iai.tv/video/the-metamodernist-turn)
+* [The Genealogy of Genealogy with Jason Josephson Storm - YouTube](https://www.youtube.com/watch?v=ilX3T5v_EpA)
+ 
