@@ -44,6 +44,8 @@ The talk will trace the emergence of these conceptions of the mind to a Cold War
 
 Ahead of the keynote, Carl Raschke interviewed Josephson Storm read [“Genealogy, Enchantment, and the War for the Mind”](/religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/).
 
+For a reading of Josephson Storm’s trilogy, see Adam DJ Brett’s essay [“Theorizing the Human Sciences in the Age of Absolute Disruption: Historical Criticism and Its Remainders”](/religioustheory/posts/theorizing-the-human-sciences-in-the-age-of-absolute-disruption/).
+
 <p style="text-align:center; margin: 2.5rem 0 1rem;"><a class="btn btn-primary btn-lg rounded-pill" href="https://forms.gle/JptSqcCk19An5T3h7" style="display:inline-block; background:#B42318; color:#ffffff; font-weight:700; padding:1rem 2rem; border-radius:999px; text-decoration:none; font-size:1.25rem; line-height:1.2; box-shadow:0 8px 18px rgba(180,35,24,0.25);">Register Now</a></p>
 <hr />
 <p>If you have any questions please <a href="/contact/">contact us</a> at <a href="mailto:editor@jcrt.org">editor@jcrt.org</a> </p>
