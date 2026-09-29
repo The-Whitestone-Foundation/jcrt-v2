@@ -10775,9 +10775,9 @@
       }
     },
     ".sequoia/content/blog-2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare.md": {
-      "contentHash": "5290020af679350f8b90ba4a07e5e67e2f9316ff2ba10d5c659b3a3eb1ceb580",
+      "contentHash": "892adca16275b16303052582b6547fbbbc78cbb3734d9c4dd477e384ded40e76",
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw73d2uc372l",
-      "lastPublished": "2026-09-28T23:26:50.076Z",
+      "lastPublished": "2026-09-29T00:31:16.854Z",
       "slug": "blog/2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare/"
     },
     ".sequoia/content/religioustheory-posts-9780593493205.md": {
@@ -11223,6 +11223,12 @@
       "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mw7bnpkwvb23",
       "lastPublished": "2026-09-23T17:35:05.052Z",
       "slug": "archives/01.1/crockett/"
+    },
+    ".sequoia/content/religioustheory-posts-theorizing-the-human-sciences-in-the-age-of-absolute-disruption.md": {
+      "contentHash": "fa2993e3c303b04f9ed588ad8d4083157c40e8856fc9f0f466d60f2fe165ffc3",
+      "atUri": "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.document/3mwmlajqikb2e",
+      "lastPublished": "2026-09-29T00:31:16.741Z",
+      "slug": "religioustheory/posts/theorizing-the-human-sciences-in-the-age-of-absolute-disruption/"
     }
   },
   "publication": {
