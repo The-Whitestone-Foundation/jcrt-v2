@@ -92,6 +92,22 @@ Round 3 (same day): under the 60-second Netlify build minute.
 - Measured on the 13:15 deploy: build command 28.2 s, deploy 10.6 s (650 files), "Netlify Build
   completed in 42.3s", 54.1 s end to end. One billed minute per deploy, down from two.
 
+## [00.04.64] — 2026-09-29
+chore: sync Standard.site ATProto records [skip netlify]
+- Notes: chore: sync Standard.site ATProto records [skip netlify].
+
+## [00.04.63] — 2026-09-28
+Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2
+- Notes: Merge branch 'main' of https://github.com/The-Whitestone-Foundation/jcrt-v2.
+
+## [00.04.62] — 2026-09-28
+Update 2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare.md
+- Notes: Update 2026-08-15-registration-now-open-religion-politics-and-cognitive-warfare.md.
+
+## [00.04.61] — 2026-09-29
+chore: sync Standard.site ATProto records [skip netlify]
+- Notes: chore: sync Standard.site ATProto records [skip netlify].
+
 ## [00.04.60] — 2026-09-28
 Update adam-dj-brett.md
 - Notes: Update adam-dj-brett.md.
