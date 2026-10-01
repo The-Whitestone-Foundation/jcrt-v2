@@ -996,11 +996,16 @@ For a reading of Josephson Storm’s trilogy, see Adam DJ Brett’s essay [“Th
 </tbody>
 <tbody>
 <tr>
-<td data-label="Presentation">Title to be announced</td>
-<td data-label="Presenter">Jordan Loewen-Colón</td>
+<td data-label="Presentation">
+<details class="jcrt-sched__abstract"><summary>The Colonial Legacy of TOS Agreement</summary></details>
+</td>
+<td data-label="Presenter"><a class="jcrt-sched__who" href="https://jordanloewencolon.com/">Jordan Loewen-Colón</a></td>
 <td data-label="Affiliation">Queen’s University</td>
 <td data-label="City">Toronto <small>· 13:00 local</small></td>
 </tr>
+<tr class="jcrt-sched__absrow"><td colspan="4"><div class="jcrt-sched__bio">
+<p><b>About the presenter:</b> Jordan Loewen-Colón (Ph.D. Syracuse) is an Indigenous Taíno technologist, Responsible AI strategist, scholar, educator, and organizational transformation consultant working at the intersection of artificial intelligence, culture, new media, and data justice.</p>
+</div></td></tr>
 </tbody>
 <tbody>
 <tr>
