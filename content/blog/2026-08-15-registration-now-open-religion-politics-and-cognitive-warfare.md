@@ -34,13 +34,13 @@ The conference organizers welcome contributions from scholars of religious studi
 
 ### Keynote Address: Militarizing the Mind: Cognitive Warfare from the Cold War to the Dark Web
 
-### [Jason Ānanda Josephson Storm](https://hub.williams.edu/religion/faculty/jason-josephson/)
+### [Jason Ānanda Josephson Storm](https://sites.williams.edu/jaj1/)
 
 As I currently conceive it, the talk will open with three unsettling contemporary snapshots: a dark web occult repository of conspiracy theory screeds and “psychic mind-control” manuals; a NATO tactical statement declaring the human mind the “sixth domain” of warfare; and the familiar structure of a TikTok algorithmic rabbit hole. Together, these prismatic scenes suggest shared conceptions of the mind and a common repertoire of techniques for controlling perception, attention, and even thought itself.
 
 The talk will trace the emergence of these conceptions of the mind to a Cold War military industrial complex and the convergence of cybernetics, psychic research, propaganda studies, and Soviet theories of reflexive control. From these entanglements emerged many of the psychological models and informational logics that continue to govern contemporary life. Engaging Han Byung-Chul’s “psychopolitics,” Bernard Stiegler’s account of the alienation of memory, N. Katherine Hayles’ account of virtual bodies, and Friedrich Kittler’s insight that civilian media infrastructures are basically sedimented military technologies, I will examine how modern systems of influence increasingly operate through feedback loops designed to capture attention, circumvent deliberation, and exploit fractures in epistemic authority and trust.
 
-*[Jason Ānanda Josephson Storm](https://religion.williams.edu/faculty/jason-josephson/) is the Francis Christopher Oakley Third Century Professor of Religion, Chair of Science & Technology Studies at Williams College and author of* [The Genealogy of Genealogy: Nietzsche, Foucault, and the Coils of Critical History](https://press.uchicago.edu/ucp/books/book/chicago/G/bo265446241.html) *and* [Metamodernism: The Future of Theory](https://amzn.to/36LNa2q).
+*[Jason Ānanda Josephson Storm](https://sites.williams.edu/jaj1/) is the Francis Christopher Oakley Third Century Professor of Religion, Chair of Science & Technology Studies at Williams College and author of* [The Genealogy of Genealogy: Nietzsche, Foucault, and the Coils of Critical History](https://press.uchicago.edu/ucp/books/book/chicago/G/bo265446241.html) *and* [Metamodernism: The Future of Theory](https://amzn.to/36LNa2q).
 
 Ahead of the keynote, Carl Raschke interviewed Josephson Storm read [“Genealogy, Enchantment, and the War for the Mind”](/religioustheory/posts/genealogy-enchantment-and-the-war-for-the-mind/).
 
@@ -349,7 +349,7 @@ For a reading of Josephson Storm’s trilogy, see Adam DJ Brett’s essay [“Th
 <tbody>
 <tr>
 <td data-label="Presentation">Militarizing the Mind: Cognitive Warfare from the Cold War to the Dark Web<br><small>See the keynote description above.</small></td>
-<td data-label="Presenter">Jason Ānanda Josephson Storm</td>
+<td data-label="Presenter"><a class="jcrt-sched__who" href="https://sites.williams.edu/jaj1/">Jason Ānanda Josephson Storm</a></td>
 <td data-label="Affiliation">Francis Christopher Oakley Third Century Professor of Religion and Chair of Science &amp; Technology Studies, Williams College</td>
 <td data-label="City">Williamstown MA <small>· 13:00 local</small></td>
 </tr>
@@ -457,11 +457,23 @@ For a reading of Josephson Storm’s trilogy, see Adam DJ Brett’s essay [“Th
 </tbody>
 <tbody>
 <tr>
-<td data-label="Presentation">Constructing Alternative Realities: Competing Regimes of Truth among Informal Esoteric Communities (Insights from Contemporary St Petersburg).<br><small>Abstract to follow.</small></td>
+<td data-label="Presentation">
+<details class="jcrt-sched__abstract"><summary>Constructing Alternative Realities: Competing Regimes of Truth among Informal Esoteric Communities (Insights from Contemporary St Petersburg)</summary></details>
+</td>
 <td data-label="Presenter">Leontii Zhivotovskii</td>
 <td data-label="Affiliation">Independent Scholar</td>
 <td data-label="City">St Petersburg <small>· 18:00 local</small></td>
 </tr>
+<tr class="jcrt-sched__absrow"><td colspan="4"><div>
+<p>Contemporary discussions of religion and cognitive conflict have increasingly focused on large-scale political narratives, conspiracy cultures, and digital information environments. Considerably less attention has been paid to the ways in which small-scale religious communities construct alternative regimes of truth through everyday ritual practice, shared interpretation, and localized myth-making. Drawing on eighteen months of participant observation, semi-structured interviews, and archival materials collected between 2024 and 2026, this paper examines several previously undocumented informal esoteric communities in contemporary St Petersburg as sites for the production of alternative realities.</p>
+<p>Rather than approaching these communities primarily as expressions of contemporary spirituality or Western esotericism, I argue that they are more productively understood as producers of distinctive epistemic frameworks. Their significance lies in reshaping the criteria through which participants distinguish truth from coincidence, authority from personal experience, and ordinary urban space from sacred landscape. Initiatory rituals, symbolic language, collective performances, and shared interpretations of the city gradually transform participants&#x27; cognitive maps, generating coherent interpretive frameworks.</p>
+<p>The paper introduces the concept of <em>sporadic continuity</em> to describe a mode of symbolic inheritance that operates independently of institutional succession. Unlike organizations claiming legitimate transmission from historical esoteric lineages, these communities derive authority through affective resonance with imagined traditions, literary narratives, urban memory, and fragmentary historical imagery. What is transmitted is therefore not institutional legitimacy but an epistemic disposition: a shared conviction that hidden structures of meaning remain accessible through ritual practice, intuition, and collective interpretation.</p>
+<p>Drawing on ethnographic case studies - including communities inspired by Russian Silver Age symbolism, reconstructed Dionysian motifs, vernacular spiritism, and contemporary Gnostic mythology - I demonstrate how these groups occupy a shared religious landscape in which competing interpretations of history, ritual efficacy, spiritual authority, and sacred space generate ongoing processes of rivalry and negotiation. Interactions between communities include efforts to challenge competing truth claims, reinterpret one another&#x27;s symbolic systems, and recruit participants across community boundaries. These encounters show that alternative realities are produced not only within individual groups but also through their competition and interaction. Cemeteries, canals, abandoned buildings, and architectural landmarks function as active elements in the production of religious knowledge and collective identity.</p>
+<p>By shifting analytical attention from belief to epistemic practice, the paper argues that informal esoteric communities illuminate an underexplored dimension of contemporary religion. Rather than treating these groups simply as marginal religious formations, I propose understanding them as micro-social environments that both produce and contest competing frameworks for interpreting reality. In doing so, the paper contributes to current debates on religion, interpretation, and cognitive warfare by demonstrating how competing regimes of truth emerge through localized ritual practice, embodied participation, symbolic reconfiguration of urban space, and sustained interaction between alternative epistemic communities.</p>
+</div>
+<div class="jcrt-sched__bio">
+<p><b>About the presenter:</b> Leontii Zhivotovskii is an independent scholar working at the intersection of art history, religious studies, and the study of esotericism. He holds a B.A. in History and Theory of Art from the Repin Institute of Arts in St. Petersburg. His current research explores esoteric visual literacy and the construction of insiders and outsiders in Northern European visual culture, c. 1600–1730. Alongside his historical work, he conducts ethnographic research on contemporary esoteric communities, examining initiation, symbolic language, group identity, and the modern reinterpretation of historical esoteric traditions.</p>
+</div></td></tr>
 </tbody>
 <tbody>
 <tr>
