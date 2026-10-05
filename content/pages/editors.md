@@ -14,7 +14,10 @@ You can reach the editors by email at <editor@jcrt.org>. Every member of the edi
 ## Assistant Editors
 - [**Robert Spinelli**](/authors/robert-spinelli/), Independent Scholar (USA)
 - [**Kev Grane**](/authors/kev-grane/), University of Denver (Denver, Colorado, USA)
+
+## Book Review Editors & Assistant Editors
 - [**J.C. Smith**](/authors/j-c-smith/), University of Denver (Denver, Colorado, USA)
+- [**Andrew Robb-Scott**](/authors/andrew-robb-scott/), University of Denver (Denver, Colorado, USA)
 
 ## In Memoriam
 - **Luis León**, University of Denver
