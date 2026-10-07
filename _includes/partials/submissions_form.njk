@@ -4,85 +4,100 @@
    submission still arrives but the attachment is dropped, so the mailto fallback below
    the form is deliberate, not decorative — it is the recovery path if uploads are off.
 
-   Formspree requires enctype="multipart/form-data" for any form carrying a file input. #}
+   Formspree requires enctype="multipart/form-data" for any form carrying a file input.
+
+   No blank lines inside the form card: this partial is included from a Markdown page,
+   and markdown-it ends an HTML block at a blank line, then wraps the rest in <p>/<br>,
+   which breaks the Bootstrap grid and opens large gaps between fields. In-form comments
+   use whitespace-control dashes so they do not leave empty lines behind either. #}
 {% set formspreeSubmissionsId = formspree_submissions_id or metadata.formspree.submissions_id %}
 
-<div class="p-4 p-md-5 shadow-sm jcrt-contact-card jcrt-contact-card--measure my-4">
-  <p class="text-uppercase fw-bold text-primary mb-2 jcrt-contact-meta">Submit Your Work</p>
-  <h2 class="serif fw-bold mb-3">Article Submission</h2>
-  <p class="text-secondary mb-4">
+<div class="p-4 shadow-sm jcrt-contact-card jcrt-contact-card--measure jcrt-submit-form my-4">
+  <p class="text-uppercase fw-bold text-primary mb-1 jcrt-contact-meta">Submit Your Work</p>
+  <h2 class="serif fw-bold mb-2">Article Submission</h2>
+  <p class="text-secondary small mb-3">
     Send a 500-word abstract and your curriculum vitae. Please read the Submission Checklist above
     before submitting. You may also email <a href="mailto:editor@jcrt.org?subject=JCRT%20Submission">editor@jcrt.org</a> directly.
   </p>
-
   <form
     name="submissions"
     method="POST"
     action="https://formspree.io/f/{{ formspreeSubmissionsId }}"
     enctype="multipart/form-data"
-    class="row g-3"
+    class="row g-2"
   >
     <input type="hidden" name="_subject" value="JCRT article submission">
-    {# Formspree's honeypot: bots fill it, humans never see it. #}
+    {#- Formspree's honeypot: bots fill it, humans never see it. -#}
     <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
-
     <div class="col-md-6">
-      <label for="sub-name" class="form-label fw-semibold">Name</label>
-      <input type="text" id="sub-name" name="name" class="form-control form-control-lg" autocomplete="name" required>
+      <label for="sub-name" class="form-label">Name</label>
+      <input type="text" id="sub-name" name="name" class="form-control" autocomplete="name" required>
     </div>
-
     <div class="col-md-6">
-      <label for="sub-email" class="form-label fw-semibold">Email</label>
-      <input type="email" id="sub-email" name="email" class="form-control form-control-lg" autocomplete="email" required>
+      <label for="sub-email" class="form-label">Email</label>
+      <input type="email" id="sub-email" name="email" class="form-control" autocomplete="email" required>
     </div>
-
-    <div class="col-12">
-      <label for="sub-affiliation" class="form-label fw-semibold">Institutional affiliation <span class="text-secondary fw-normal">(optional)</span></label>
-      <input type="text" id="sub-affiliation" name="affiliation" class="form-control form-control-lg" autocomplete="organization">
+    <div class="col-md-6">
+      <label for="sub-affiliation" class="form-label">Institutional affiliation <span class="text-secondary fw-normal">(optional)</span></label>
+      <input type="text" id="sub-affiliation" name="affiliation" class="form-control" autocomplete="organization">
     </div>
-
-    <div class="col-12">
-      <label for="sub-title" class="form-label fw-semibold">Article title</label>
-      <input type="text" id="sub-title" name="article_title" class="form-control form-control-lg" maxlength="300" required>
+    {#- ORCID iD as the bare 16-digit identifier, not the https://orcid.org/ URL. The last
+       character may be X (ISO 7064 checksum), so it is not purely numeric. -#}
+    <div class="col-md-6">
+      <label for="sub-orcid" class="form-label">ORCID <span class="text-secondary fw-normal">(optional)</span></label>
+      <input type="text" id="sub-orcid" name="orcid" class="form-control" inputmode="text" autocomplete="off"
+        maxlength="19" placeholder="0000-0000-0000-0000"
+        pattern="[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9Xx]"
+        title="ORCID iD only, e.g. 0009-0004-6725-8425 (not the full https://orcid.org/ link)"
+        aria-describedby="sub-orcid-help">
+      <div id="sub-orcid-help" class="form-text">iD only, e.g. 0009-0004-6725-8425.</div>
     </div>
-
-    <div class="col-12">
-      <label for="sub-type" class="form-label fw-semibold">Submission type</label>
-      <select id="sub-type" name="submission_type" class="form-select form-select-lg" required>
+    <div class="col-md-8">
+      <label for="sub-title" class="form-label">Article title</label>
+      <input type="text" id="sub-title" name="article_title" class="form-control" maxlength="300" required>
+    </div>
+    <div class="col-md-4">
+      <label for="sub-type" class="form-label">Submission type</label>
+      <select id="sub-type" name="submission_type" class="form-select" required>
         <option value="Article">Article</option>
         <option value="Book review">Book review (solicited)</option>
         <option value="Special issue proposal">Special issue proposal</option>
       </select>
     </div>
-
     <div class="col-12">
-      <label for="sub-abstract" class="form-label fw-semibold">Abstract</label>
-      <textarea id="sub-abstract" name="abstract" rows="10" class="form-control" required></textarea>
-      <div class="form-text">Approximately 500 words. Plain text.</div>
+      <label for="sub-abstract" class="form-label">Abstract</label>
+      <textarea id="sub-abstract" name="abstract" rows="6" class="form-control" aria-describedby="sub-abstract-help" required></textarea>
+      <div id="sub-abstract-help" class="form-text">Approximately 500 words. Plain text.</div>
     </div>
-
     <div class="col-12">
-      <label for="sub-cv" class="form-label fw-semibold">Curriculum vitae</label>
+      <label for="sub-keywords" class="form-label">Keywords</label>
+      <input type="text" id="sub-keywords" name="keywords" class="form-control" maxlength="300" aria-describedby="sub-keywords-help">
+      <div id="sub-keywords-help" class="form-text">Separate keywords with commas.</div>
+    </div>
+    <div class="col-12">
+      <label for="sub-cv" class="form-label">Curriculum vitae</label>
+      <div class="form-text mt-0 mb-1">PDF, Word, or RTF.</div>
       <input type="file" id="sub-cv" name="cv" class="form-control" accept=".pdf,.doc,.docx,.rtf" required>
-      <div class="form-text">PDF, Word, or RTF.</div>
     </div>
-
     <div class="col-12">
-      <label for="sub-manuscript" class="form-label fw-semibold">Manuscript <span class="text-secondary fw-normal">(optional)</span></label>
-      <input type="file" id="sub-manuscript" name="manuscript" class="form-control" accept=".pdf,.doc,.docx,.rtf">
-      <div class="form-text">
+      <label for="sub-manuscript" class="form-label">Manuscript</label>
+      <div class="form-text fst-italic mt-0 mb-1">
         PDF, Word, or RTF, named &ldquo;[LastName]_[FirstName]_[ManuscriptTitle]&rdquo;.
       </div>
+      <input type="file" id="sub-manuscript" name="manuscript" class="form-control" accept=".pdf,.doc,.docx,.rtf" required>
     </div>
-
+    <div class="col-12">
+      <label for="sub-ai" class="form-label">AI Usage Disclosure statement</label>
+      <textarea id="sub-ai" name="ai_disclosure" rows="3" class="form-control" aria-describedby="sub-ai-help" required></textarea>
+      <div id="sub-ai-help" class="form-text">250 words max. <span id="sub-ai-count">0 / 250 words</span></div>
+    </div>
     <div class="col-12">
       <p class="small text-secondary mb-0">
         Attachments must total less than 30&nbsp;MB. For anything larger, email
         <a href="mailto:editor@jcrt.org?subject=JCRT%20Submission">editor@jcrt.org</a> with a file-sharing link.
       </p>
-      <div id="sub-upload-error" class="alert alert-danger mt-3 d-none" role="alert" aria-live="polite"></div>
+      <div id="sub-upload-error" class="alert alert-danger mt-2 mb-0 d-none" role="alert" aria-live="polite"></div>
     </div>
-
     <div class="col-12">
       <div class="form-check">
         <input class="form-check-input" type="checkbox" value="yes" id="sub-confirm" name="confirms_scope" required>
@@ -92,8 +107,7 @@
         </label>
       </div>
     </div>
-
-    <div class="col-12 d-flex flex-wrap align-items-center gap-3 pt-2">
+    <div class="col-12 d-flex flex-wrap align-items-center gap-3 pt-1">
       <button type="submit" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="letter-spacing: 0.06em;">
         Submit
       </button>
@@ -141,6 +155,31 @@
 
     fileInputs.forEach(function (input) {
       input.addEventListener("change", validate);
+    });
+
+    // AI disclosure: 250-word cap. A browser maxlength counts characters, not words, so
+    // the cap is enforced through setCustomValidity, which blocks submit natively.
+    var MAX_AI_WORDS = 250;
+    var aiField = document.getElementById("sub-ai");
+    var aiCount = document.getElementById("sub-ai-count");
+    function checkAiWords() {
+      var words = aiField.value.trim().split(/\s+/).filter(Boolean).length;
+      aiCount.textContent = words + " / " + MAX_AI_WORDS + " words";
+      var over = words > MAX_AI_WORDS;
+      aiCount.classList.toggle("text-danger", over);
+      aiField.setCustomValidity(over ? "Please keep the AI disclosure to " + MAX_AI_WORDS + " words or fewer." : "");
+    }
+    aiField.addEventListener("input", checkAiWords);
+
+    // ORCID: the iD alone. A pasted https://orcid.org/ link is rejected with a message
+    // that says why, instead of the browser's generic pattern-mismatch text.
+    var orcid = document.getElementById("sub-orcid");
+    orcid.addEventListener("input", function () {
+      var v = orcid.value.trim();
+      orcid.setCustomValidity(
+        /orcid\.org|\//i.test(v) ? "Enter the iD only (e.g. 0009-0004-6725-8425), not the orcid.org link." :
+        v && !/^\d{4}-\d{4}-\d{4}-\d{3}[\dXx]$/.test(v) ? "Use the format 0000-0000-0000-0000." : ""
+      );
     });
 
     form.addEventListener("submit", function (event) {

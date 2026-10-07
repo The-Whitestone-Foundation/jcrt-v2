@@ -473,7 +473,7 @@ a.jcrt-submenu-link:focus-visible {
     font-family: var(--jcrt-slab-stack);
     font-size: var(--jcrt-article-font-size);
     line-height: var(--jcrt-article-line-height);
-    text-align: justify;
+    text-align: left;
 }
 
 .jcrt-article-content p,
@@ -898,26 +898,39 @@ a.jcrt-submenu-link:focus-visible {
     text-align: center;
 }
 
-/* Secondary button (e.g. book review guidelines on /submissions/) */
+/* Secondary button (e.g. book review guidelines on /submissions/).
+   WCAG AA needs 4.5:1 for button text. The old white-on-#DDDDDD was about 1.4:1.
+   White on #4A4A4A is 8.9:1, and the #2F2F2F hover/active state is 13.4:1, so both
+   pass AA (and AAA). The text colour needs !important to beat the global
+   `a { color: var(--link-jcrt) !important; }` rule further down. */
 .btn-secondary,
 a.btn-secondary {
-    --bs-btn-bg: #DDDDDD;
-    --bs-btn-border-color: #DDDDDD;
+    --bs-btn-bg: #4A4A4A;
+    --bs-btn-border-color: #4A4A4A;
     --bs-btn-color: #ffffff;
-    --bs-btn-hover-bg: #DDDDDD;
-    --bs-btn-hover-border-color: #DDDDDD;
+    --bs-btn-hover-bg: #2F2F2F;
+    --bs-btn-hover-border-color: #2F2F2F;
     --bs-btn-hover-color: #ffffff;
-    --bs-btn-active-bg: #DDDDDD;
-    --bs-btn-active-border-color: #DDDDDD;
+    --bs-btn-active-bg: #2F2F2F;
+    --bs-btn-active-border-color: #2F2F2F;
     --bs-btn-active-color: #ffffff;
-    --bs-btn-disabled-bg: #DDDDDD;
-    --bs-btn-disabled-border-color: #DDDDDD;
+    --bs-btn-disabled-bg: #4A4A4A;
+    --bs-btn-disabled-border-color: #4A4A4A;
     --bs-btn-disabled-color: #ffffff;
-    background-color: #DDDDDD;
-    border-color: #DDDDDD;
-    color: #ffffff;
+    --bs-btn-focus-shadow-rgb: 74, 74, 74;
+    background-color: var(--bs-btn-bg);
+    border-color: var(--bs-btn-border-color);
+    color: #ffffff !important;
+    text-decoration: none;
 }
 
+.btn-secondary:hover,
+.btn-secondary:focus-visible,
+.btn-secondary:active {
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color);
+    color: #ffffff !important;
+}
 
 .reading-article {
     width: 100%;
@@ -2536,4 +2549,42 @@ body:not(.menu-open):not(.sidebar-open) #content-wrapper.site-shell {
 .nav-item-sub a {
     font-size: 1rem;
     font-weight: 600;
+}
+
+/* Submissions form: compact, uniform fields. Labels share one weight and size, and the
+   file-input hints sit between label and control so paired columns line up. */
+.jcrt-submit-form .form-label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+}
+
+.jcrt-submit-form .form-text {
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
+}
+
+.jcrt-submit-form .form-control,
+.jcrt-submit-form .form-select {
+    font-size: 0.95rem;
+}
+
+/* Notes marked .small otherwise inherit the body paragraph size, so pin them. */
+.jcrt-submit-form .small,
+.jcrt-submit-form p.small {
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.jcrt-submit-form .form-check-input {
+    width: 1.1em;
+    height: 1.1em;
+    margin-top: 0.2em;
+}
+
+/* Guideline download buttons on /submissions/: 0.25rem more padding on every side
+   than Bootstrap's default (0.375rem) and the px-4 utility (1.5rem). Raising the font
+   size instead made both labels wrap to two lines at desktop width. */
+.jcrt-guideline-buttons .btn {
+    padding: 0.625rem 1.75rem !important;
 }

@@ -15,14 +15,16 @@ Current institutional sponsors are the University of Denver and Syracuse Univers
 Before submitting, please ensure the following:
 
 1. The submission file is in PDF, Microsoft Word, or RTF format and is titled "[LastName]\_[FirstName]\_[ManuscriptTitle]."
-2. Any submitted figures are in TIF, JPG, PNG, or PDF format, with a resolution of at least 300 dpi. Figure files are titled "[LastName]\_[FirstName]\_[Figure#]\_[AdditionalDescriptiveInformation]."
-3. Where available, URLs and DOIs for the references have been provided.
-4. Authors are responsible for the accuracy of references and quotations, and should ensure they are correct in substance and style.
-5. The text is single-spaced, uses Book Antiqua 12-point font, employs italics rather than underlining (except with URL addresses), and places all illustrations, figures, and tables within the text at the appropriate points, rather than at the end.
+2. Articles are 6,000–9,000 words, excluding footnotes. Longer or shorter articles require editorial approval.
+3. Any submitted figures are in TIF, JPG, PNG, or PDF format, with a resolution of at least 300 dpi. Figure files are titled "[LastName]\_[FirstName]\_[Figure#]\_[AdditionalDescriptiveInformation]."
+4. Where available, URLs and DOIs for the references have been provided.
+5. Authors are responsible for the accuracy of references and quotations, and should ensure they are correct in substance and style.
+6. The text is single-spaced, uses Book Antiqua 12-point font, employs italics rather than underlining (except with URL addresses), and places all illustrations, figures, and tables within the text at the appropriate points, rather than at the end.
 
+<div class="d-flex flex-column flex-md-row align-items-start mb-4 jcrt-guideline-buttons" style="gap: 6px;">
 {% button "Download our article submission guidelines (PDF)", "https://files.jcrt.org/docs/submission-guidelines-jcrt-stylesheet.pdf", "primary" %}
-
 {% button "Download our book review submission guidelines (PDF)", "https://files.jcrt.org/docs/book-review-guidelines.pdf", "secondary" %}
+</div>
 
 
 ### Fees
